@@ -54,7 +54,7 @@ export function WhyChain({ layers, label = 'Pourquoi ?', start = 0 }: { layers: 
 export function ActorMap({ actors, seen, focus = [] }: { actors: Record<ActorId, Actor>; seen: Partial<Record<ActorId, string>>; focus?: ActorId[] }) {
   return (
     <div className="actors">
-      {(Object.keys(actors) as ActorId[]).map((id) => {
+      {(Object.keys(actors) as ActorId[]).filter((id) => !actors[id].role.startsWith('Aucun rôle actif')).map((id) => {
         const a = actors[id];
         return (
           <div key={id} className={`actor ${focus.includes(id) ? 'actor-focus' : ''}`} style={{ ['--tone' as string]: a.color }} title={`${a.name} : ${a.role}`}>
@@ -134,7 +134,7 @@ export function Checkpoint({ check, onPass, onResult, src, cursor, passed }: { c
   const [val, setVal] = useState('');
   const [seq, setSeq] = useState<string[]>([]);
   const done = msg?.ok === true;
-  const items = useMemo(() => (check.kind === 'order' ? shuffled(check.items, check.id) : check.kind === 'build' ? shuffled(check.tokens, check.id) : []), [check]);
+  const items = useMemo(() => (check.kind === 'order' ? shuffled(check.items, check.id) : check.kind === 'build' ? shuffled([...new Set(check.tokens)], check.id) : []), [check]);
   const opts = useMemo(() => (check.kind === 'choice' ? shuffled(check.options, check.id) : []), [check]);
 
   const grade = (ok: boolean, text: string, mis?: string) => {
@@ -213,7 +213,7 @@ export function Checkpoint({ check, onPass, onResult, src, cursor, passed }: { c
 
       {check.kind === 'build' && (
         <div className="build">
-          <div className="build-line"><Formula f={`${check.lhs} ${seq.join(' ')}`} /> <span className="caret" /></div>
+          <div className="build-line"><Formula f={`${/[=:]$/.test(check.lhs.trim()) ? check.lhs : check.lhs === 'Équilibre' ? `${check.lhs} :` : `${check.lhs} =`} ${seq.join(' ')}`} /> <span className="caret" /></div>
           <div className="options tokens">
             {items.map((t) => <button key={t} type="button" className="token" disabled={done} onClick={() => setSeq([...seq, t])}>{t}</button>)}
           </div>

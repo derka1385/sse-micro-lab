@@ -1,3 +1,5 @@
+import type { LessonDiagramSpec } from './lesson-diagrams';
+
 export type Dim = 'intuition' | 'terminology' | 'formula' | 'graph' | 'calculation' | 'recognition' | 'english';
 
 export const DIMS: { id: Dim; label: string; hint: string }[] = [
@@ -51,6 +53,7 @@ export type Block = {
   me: string; // "Si c'était moi ?" — the mechanism with the student as one of the agents
   graphNote: string;
   graph: GraphView;
+  diagram?: LessonDiagramSpec;
   checks?: Check[];
   result?: [label: string, value: string]; // what the block earns, set large once its checks pass
   actors?: Partial<Record<ActorId, string>>; // what each actor "sees", revealed progressively
@@ -76,6 +79,9 @@ export type Lesson = {
   teach: TeachRubric;
   examId: string;
   ladder: Check[][]; // spaced reconstruction: level 1..5, variants per level
+  topic?: string;
+  exam?: ExamQuestion;
+  acceptance?: { text: string; why: string[] }[];
 };
 
 export type Concept = {

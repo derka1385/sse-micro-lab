@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react';
 import { TOPICS } from '../content/catalog';
 import { GLOSS } from '../content/glossary';
-import { LESSONS } from '../content/externalities';
+import { LESSONS } from '../content/lessons';
 import { CARDS, type Card } from '../content/training';
 import type { Check, Dim } from '../content/types';
 import { Checkpoint } from '../components/learning';
@@ -9,7 +9,7 @@ import { Rich } from '../components/text';
 import { DOSSIER } from '../dossier';
 import { rateCard, record, reviewResult, useProgress } from '../store';
 
-const LEVELS = ['', 'Décoder les sigles', 'Expliquer pourquoi', 'Reconstruire la formule à partir des acteurs', 'Transférer à un nouveau contexte', 'Écrire la réponse SSE en anglais'];
+const LEVELS = ['', 'Retrouver l’intuition et les sigles', 'Expliquer pourquoi', 'Reconstruire la formule à partir des acteurs', 'Transférer à un nouveau contexte', 'Écrire la réponse SSE en anglais'];
 
 const EXT_KEYS = new Set(['MPC', 'MEC', 'MSC', 'MPB', 'MEB', 'MSB', 'MAC', 'EC', 'CPR', 'Qpriv', 'QPoll']);
 const INFO_KEYS = new Set(['IC', 'IR', 'H', 'B', 'R', 'E[X]', 'pH', 'd', 'F']);

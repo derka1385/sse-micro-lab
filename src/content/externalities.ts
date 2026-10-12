@@ -1317,7 +1317,7 @@ const R = (id: string, label: string, ...patterns: RegExp[]) => ({ id, label, pa
 
 export const EXAMS: ExamQuestion[] = [
   {
-    id: 'e2020q3', title: 'Vaccines — positive externality and subsidy', ref: '16:E2020#Q3', practice: 'p-vaccines',
+    id: 'e2020q3', title: 'E2020 Q3 — Vaccines: positive externality and subsidy', ref: '16:E2020#Q3', practice: 'p-vaccines',
     note: 'Énoncé reconstruit à partir des données du dossier (§16, E2020 Q3) — pas la formulation officielle.',
     statement: 'A vaccine is sold in a competitive market with inverse demand p = 100 − Q and inverse supply p = 10 + Q.\n(a) Find the market equilibrium.\n(b) Explain what a positive externality is and why vaccination is an example.\n(b′) Each vaccination creates a marginal external benefit of 20. Find the socially optimal quantity and the deadweight loss of the unregulated market.\n(c) The government pays a subsidy of 30 per dose. Find the quantity traded, the price paid by buyers and the price received by sellers, and the deadweight loss. Is this subsidy optimal? Explain.',
     parts: [
@@ -1394,7 +1394,7 @@ export const EXAMS: ExamQuestion[] = [
     modelAnswer: 'The market produces Qm = 18 at p = 46, where MPB = MPC. Because each panel also benefits third parties, MSB = 120 − 3Q and the efficient quantity is Q* = 22, where MSB = MSC. The deadweight loss of ½ × 4 × 20 = 40 is the net surplus of the panels between 18 and 22 that are not produced although their social benefit exceeds their social cost. A Pigouvian subsidy s* = MEB(Q*) = 20 implements Q* with p_b = 34 and p_s = 54. Welfare rises from 1170 to 1210: the 440 of spending is a transfer, and the net gain of 40 is the deadweight loss eliminated.',
   },
   {
-    id: 'e2023q4', title: 'Gasoline — negative externality and an insufficient tax', ref: '11.2', practice: 'p-gasoline',
+    id: 'e2023q4', title: 'E2023 Q4c–d — Gasoline: negative externality and an insufficient tax', ref: '11.2', practice: 'p-gasoline',
     note: 'Reconstruit d’après L11 p.5–8 et E2023 Q4c–d (§11.2–11.3, §16) — formulation non officielle. (d) prolonge l’exercice avec la taxe optimale documentée en §11.2.',
     statement: 'In the gasoline market, MPB = 100 − Q and MPC = 10 + Q. Each unit causes a marginal external cost MEC = Q.\n(a) Find the private market quantity and the socially optimal quantity.\n(b) Compute the deadweight loss of the unregulated market.\n(c) The government introduces a tax of 20 per unit. Find the quantity, the price paid by buyers, the price received by sellers and the remaining deadweight loss.\n(d) What is the optimal tax? Explain why it is not the marginal external cost at the market quantity.',
     parts: [
@@ -1421,13 +1421,20 @@ export const EXAMS: ExamQuestion[] = [
     modelAnswer: '(a) The market produces where MPB = MPC: Qm = 45. Society also counts the external cost, MSC = 10 + 2Q, so Q* = 30. (b) The units between 30 and 45 cost society more than they are worth: DWL = ½ × 15 × 45 = 337.5. (c) With t = 20, Q = 35, p_b = 65, p_s = 45; the tax is too low and DWL = 37.5 remains. (d) The optimal tax is t* = MEC(Q*) = 30. Since MEC rises with Q, evaluating it at 45 would overstate the damage of the last efficient unit and over-correct.',
   },
   {
-    id: 'e2024q3', title: 'Textiles and a spa — negative externality', ref: '16:E2024#Q3', practice: 'p-textiles',
+    id: 'e2024q3', title: 'E2024 Q3 — Textiles and a spa: negative externality, permits, one owner', ref: '16:E2024#Q3', practice: 'p-textiles',
     note: 'Reconstruit d’après E2024 Q3 (§16) — formulation non officielle.',
-    statement: 'A textile plant pollutes a river used by a spa. Demand is p = 200 − Q, the marginal private cost is MPC = 80 + Q and the marginal external cost is MEC = Q.\n(a) Find the market outcome.\n(b) Find the efficient quantity and the deadweight loss.\n(c) Which per-unit tax implements the efficient quantity?\n(d) Explain why merging the plant and the spa under one owner may internalize the externality, and what new problem may arise.',
+    statement: 'A textile plant pollutes a river used by a spa. Demand is p = 200 − Q, the marginal private cost is MPC = 80 + Q and the marginal external cost is MEC = Q.\n(a) Find the market outcome.\n(b) Find the efficient quantity and the deadweight loss.\n(c) The authorities consider giving each textile mill a quota on the chemicals it may use; some propose that mills may buy and sell their quotas (tradable permits). Explain why allowing trade could increase efficiency compared with fixed quotas.\n(c′) Not in the exam: which per-unit tax implements the efficient quantity?\n(d) Explain why merging the plant and the spa under one owner may internalize the externality, and what new problem may arise.',
     parts: [
       { kind: 'num', id: 'a', prompt: '(a) Market outcome', answers: [{ label: 'Q', value: 60 }, { label: 'p', value: 140 }], explain: '200 − Q = 80 + Q ⇒ 60 ; p = 140.', tags: T },
       { kind: 'num', id: 'b', prompt: '(b) Efficient quantity and DWL', answers: [{ label: 'Q*', value: 40 }, { label: 'DWL', value: 600 }], explain: '200 − Q = 80 + 2Q ⇒ 40 ; à 60 : 200 − 140 = 60 ; ½ × 20 × 60 = 600.', tags: [...T, 'dwl'] },
-      { kind: 'num', id: 'c', prompt: '(c) Optimal tax', answers: [{ label: 't*', value: 40 }], explain: 't* = MEC(40) = 40.', tags: [...T, 'pigou'] },
+      { kind: 'text', id: 'permits', prompt: '(c) Why can trading quotas increase efficiency?', tags: T,
+        rubric: [
+          R('differ', 'mills have different costs of cutting chemical use (MAC)', /(differ|some (mills|firms) (can|cut)|cheaper|lower cost).{0,80}(abat|reduc|cut)|marginal abatement cost|\bmac\b/),
+          R('trade', 'low-cost mills cut more and sell quotas to high-cost mills', /(sell|buy|trade).{0,80}(quota|permit)/),
+          R('same', 'the same total cap is reached at a lower total cost (MACs equalised)', /(same (total|overall) (cap|amount|emission|limit)|lower (total )?cost|equali[sz]e|cost.?effective|cheapest)/),
+        ],
+        model: 'Fixed quotas ask every mill for the same cut, although some can reduce chemical use cheaply and others only at a high cost. If quotas can be traded, a mill with a low cost of cutting reduces more and sells its spare quotas to a mill with a high cost, which buys them instead of making expensive cuts. Both gain from the trade, and the same total amount of chemicals is used at a lower total cost: trading continues until marginal abatement costs are equal across mills.' },
+      { kind: 'num', id: 'c', prompt: '(c′) Optimal tax (not in the exam)', answers: [{ label: 't*', value: 40 }], explain: 't* = MEC(40) = 40.', tags: [...T, 'pigou'] },
       { kind: 'text', id: 'd', prompt: '(d) Merger of plant and spa', tags: T,
         rubric: [
           R('intern', 'the damage enters the joint profit (internalized)', /(internaliz|own (profit|loss|cost)|joint profit|bears? the (damage|cost)|spa('s)? (profit|loss))/),

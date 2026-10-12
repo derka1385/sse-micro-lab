@@ -82,11 +82,11 @@ PLAN
 
 Tous les noms ci-dessous sont relatifs au dossier Microeconomics.
 
-S01 = assignments/Assignement3_26880_Nolann_Petri.pdf — 4 pages.
-S02 = assignments/Assignment2_Micro_Nolann_PETRI_26880.pdf — 3 pages.
-S03 = assignments/assignement_4_Nolann_Petri_26880.pdf — 5 pages.
-S04 = assignments/assignement_5_Nolann_Petri_26880.pdf — 6 pages.
-S05 = assignments/assignement_6_Nolann_Petri_26880 16.08.39.pdf — 5 pages.
+S01 = assignments/Assignment3.pdf — 4 pages.
+S02 = assignments/Assignment2.pdf — 3 pages.
+S03 = assignments/Assignment4.pdf — 5 pages.
+S04 = assignments/Assignment5.pdf — 6 pages.
+S05 = assignments/Assignment6.pdf — 5 pages.
 S06 = lectures/Lecture 01 Micro 2026 15.16.11.pdf — 21 pages.
 S07 = lectures/Lecture 02 Micro 2026 15.16.11.pdf — 33 pages.
 S08 = lectures/Lecture 03 Micro 2026 15.16.11.pdf — 24 pages.

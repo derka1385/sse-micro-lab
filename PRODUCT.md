@@ -24,12 +24,12 @@ Laptop first (Mac), usable down to phone width. Two-week horizon before the fina
 
 ## Capabilities and Constraints
 
-- Single student, progress stored locally (browser storage); no backend, no accounts.
+- Single student, progress stored locally (browser storage); no accounts. The optional Claude helper uses a localhost-only Vite backend and a private server-side key.
 - Teaching language French; economic terminology always visible in English; exam practice in English.
 - Every figure is tagged as documented in the dossier, recalculated in the dossier, or pedagogical complement. Never invent course material or official solutions.
 - Exam recurrence is shown as observed history over six finals, never as a probability.
 - Each economic actor (buyer, producer, third parties, society/planner, state) keeps one consistent colour across the actor map, graph curves and formula symbols; deadweight loss has its own colour. This colour coding is a teaching device and must survive any restyle; the hues themselves are open.
-- Only the externalities lesson (solar panels, A6.3) is fully built; other topics follow the student's order: supply/demand, consumer choice, elasticity, production/costs, welfare/taxes, monopoly, price discrimination, oligopoly, public goods, asymmetric information, exam complements.
+- All 13 catalogue topics have a guided lesson. Externalities have separate positive (the original solar lesson) and negative paths. Each path includes causal explanations, error-specific checkpoints, an explanation in the student's words, an English exam attempt and a five-level retrieval ladder. Topic-specific curves, matrices, bars and sequences supplement the original externality engine.
 
 ## Brand Commitments
 

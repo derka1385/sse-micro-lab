@@ -16,6 +16,9 @@ export function ExamQuestion({ q, onDone }: { q: EQ; onDone?: () => void }) {
   const [started] = useState(() => Date.now());
   const set = (k: string, v: string) => setAns({ ...ans, [k]: v });
   const choiceOpts = useMemo(() => Object.fromEntries(q.parts.filter((p) => p.kind === 'choice').map((p) => [p.id, shuffled((p as Extract<ExamPart, { kind: 'choice' }>).options, q.id + p.id)])), [q]);
+  const complete = q.parts.every((part) => part.kind === 'num'
+    ? part.answers.every((a) => !!ans[`${part.id}:${a.label}`]?.trim() && Number.isFinite(parseNum(ans[`${part.id}:${a.label}`])))
+    : part.kind === 'choice' ? ans[part.id] !== undefined : (ans[part.id]?.trim().length ?? 0) >= 15);
 
   return (
     <div className="exam">
@@ -49,8 +52,8 @@ export function ExamQuestion({ q, onDone }: { q: EQ; onDone?: () => void }) {
             </div>
           ))}
           <div className="row">
-            <button type="button" className="primary" onClick={() => setPhase('review')}>Rendre ma copie</button>
-            <span className="muted small">Pas d’indice avant de rendre.</span>
+            <button type="button" className="primary" disabled={!complete} onClick={() => setPhase('review')}>Rendre ma copie</button>
+            <span className="muted small">{complete ? 'Pas d’indice avant de rendre.' : 'Réponds à chaque partie avant de rendre ta copie.'}</span>
           </div>
         </>
       ) : (
@@ -66,7 +69,7 @@ function AnswerReview({ q, ans, choiceOpts, minutes, onDone }: { q: EQ; ans: Ans
     Object.fromEntries(textParts.map((p) => {
       const t = ans[p.id] ?? '';
       const n = normalize(t);
-      return [p.id, p.rubric.map((r) => r.patterns.some((re) => new RegExp(re.source).test(n)))];
+      return [p.id, p.rubric.map((r) => r.patterns.some((re) => new RegExp(re.source, re.flags.replace('g', '')).test(n)))];
     })),
   );
   const [self, setSelf] = useState({ model: false, logic: false, calc: false, lang: false });

@@ -1,0 +1,40 @@
+.lesson-diagram { margin: 0; min-width: 0; }
+.lesson-diagram > figcaption { font-size: 22px; font-weight: 560; line-height: 1.2; margin-bottom: 18px; }
+.lesson-diagram-svg { display: block; width: 100%; height: auto; overflow: visible; }
+.diagram-tick text { font-family: var(--mono); font-size: 13px; fill: var(--ink-3); }
+.diagram-axis-label { font-family: var(--sans); font-size: 16px; fill: var(--ink-2); }
+.diagram-point-label { font-family: var(--mono); font-size: 13px; fill: var(--ink); paint-order: stroke; stroke: var(--paper); stroke-width: 3px; }
+.diagram-legend { display: flex; flex-wrap: wrap; gap: 8px; padding: 12px 0; border-top: 1px solid var(--rule); }
+.diagram-legend button { padding: 5px 10px; border: 1px solid var(--rule); background: var(--paper); font-size: 15px; }
+.diagram-legend button.on { border-color: currentColor; font-weight: 680; }
+.diagram-explain { font-size: 17px; margin: 14px 0; max-width: 65ch; }
+.diagram-cursor { display: grid; gap: 8px; margin: 18px 0 12px; font-size: 15px; }
+.diagram-cursor input { width: 100%; accent-color: var(--ink); }
+.diagram-readout { display: flex; flex-wrap: wrap; gap: 12px 24px; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); padding: 12px 0; margin: 12px 0 18px; }
+.diagram-readout dt { font-size: 13px; color: var(--ink-3); }
+.diagram-readout dd { margin: 0; font: 16px var(--mono); }
+.diagram-matrix { width: 100%; border-collapse: collapse; font-size: 16px; margin: 12px 0 20px; }
+.diagram-matrix th, .diagram-matrix td { border: 1px solid var(--rule); padding: 8px; text-align: center; }
+.diagram-matrix th { font-weight: 560; }
+.diagram-matrix td button { display: block; width: 100%; min-height: 44px; padding: 8px; background: transparent; border: 1px solid transparent; font-family: var(--mono); }
+.diagram-matrix td button[aria-pressed='true'] { border-color: var(--ink); }
+.diagram-matrix td button.nash { background: var(--accent-soft); }
+.diagram-matrix .best { text-decoration: underline; text-decoration-thickness: 2px; text-underline-offset: 5px; }
+.diagram-bars { display: grid; margin: 18px 0; }
+.diagram-bar-row { display: grid; grid-template-columns: minmax(85px, 1fr) minmax(65px, 1.5fr) auto; align-items: center; gap: 12px; text-align: left; min-height: 54px; padding: 10px 0; border: 0; border-bottom: 1px solid var(--rule); background: transparent; font-size: 15px; }
+.diagram-bar-row[aria-pressed='true'] { font-weight: 680; }
+.diagram-bar-row b { font-family: var(--mono); font-size: 13px; }
+.diagram-bar-track { display: block; position: relative; height: 18px; background: var(--surface); }
+.diagram-bar-track.signed::after { content: ''; position: absolute; left: 50%; top: -4px; height: 26px; border-left: 1px solid var(--ink-3); }
+.diagram-bar-track > span { position: absolute; top: 0; height: 100%; }
+.diagram-sequence { padding-left: 22px; margin: 16px 0; }
+.diagram-sequence li { margin: 0 0 18px; padding-left: 4px; }
+.diagram-sequence button { display: grid; gap: 6px; width: 100%; text-align: left; border: 0; border-bottom: 1px solid var(--rule); background: transparent; padding: 10px 0; font-size: 17px; }
+.diagram-sequence button b { font-size: 15px; color: var(--ink-3); }
+.diagram-sequence p { margin-top: 10px; font-size: 16px; }
+@media (max-width: 640px) {
+  .diagram-matrix th, .diagram-matrix td { padding: 4px; }
+  .diagram-matrix th { font-size: 14px; }
+  .diagram-bar-row { grid-template-columns: minmax(85px, 1fr) minmax(55px, 1fr); }
+  .diagram-bar-row b { grid-column: 2; }
+}

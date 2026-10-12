@@ -40,7 +40,7 @@ export function languageOf(text: string): 'fr' | 'en' | '?' {
 
 type LinkState = 'auto' | 'self' | 'missing';
 
-export function TeachBack({ rubric, lessonId, tags }: { rubric: TeachRubric; lessonId: string; tags: string[] }) {
+export function TeachBack({ rubric, lessonId, tags, onValidated }: { rubric: TeachRubric; lessonId: string; tags: string[]; onValidated?: () => void }) {
   const [text, setText] = useState('');
   const [analysed, setAnalysed] = useState(false);
   const [links, setLinks] = useState<{ state: LinkState; snippet: string | null; term: boolean; open: boolean }[]>([]);
@@ -71,6 +71,7 @@ export function TeachBack({ rubric, lessonId, tags }: { rubric: TeachRubric; les
     liveErrors.forEach((e) => flagMisconception(e.mis));
     addTeachback({ lesson: lessonId, t: Date.now(), text, score: okCount / rubric.links.length });
     setValidated(true);
+    if (ok) onValidated?.();
   };
 
   return (
@@ -82,6 +83,7 @@ export function TeachBack({ rubric, lessonId, tags }: { rubric: TeachRubric; les
         <span className="muted small">{text.trim().length < 40 ? 'Écris au moins quelques phrases.' : ''}</span>
       </div>
 
+      <p className="muted small">Le repérage automatique est approximatif : vérifie les liens proposés et signale ceux que tu as exprimés autrement.</p>
       {analysed && (
         <div className="teach-result">
           <ul className="links">
@@ -128,7 +130,7 @@ export function TeachBack({ rubric, lessonId, tags }: { rubric: TeachRubric; les
             <p className={`feedback ${okCount >= rubric.links.length - 1 && !liveErrors.length ? 'good' : 'bad'}`}>
               {okCount >= rubric.links.length - 1 && !liveErrors.length
                 ? 'Chaîne causale solide. Ce qui compte, c’est que chaque maillon cause le suivant — ton vocabulaire peut encore s’affiner.'
-                : 'Il manque des maillons : relis-les ci-dessus, puis réessaie demain sans regarder.'}
+                : 'Il manque des maillons : complète ton explication, puis relance l’analyse.'}
             </p>
           )}
           <button type="button" className="link" onClick={() => setShowModel(!showModel)}>{showModel ? 'Masquer' : 'Voir'} une explication modèle</button>
@@ -149,7 +151,7 @@ export function TextAnswer({ rubric, model, lang, onGraded }: { rubric: RubricIt
   const langOk = !lang || language === lang || language === '?';
   return (
     <div className="textans">
-      <textarea value={text} rows={4} onChange={(e) => { setText(e.target.value); setTicks(null); }} placeholder={lang === 'en' ? 'Answer in English…' : 'Ta réponse…'} aria-label="Ta réponse écrite" />
+      <textarea value={text} rows={4} onChange={(e) => { setText(e.target.value); setTicks(null); setDone(false); }} placeholder={lang === 'en' ? 'Answer in English…' : 'Ta réponse…'} aria-label="Ta réponse écrite" />
       {!ticks ? (
         <button type="button" className="primary" disabled={text.trim().length < 15} onClick={() => setTicks(detected(text))}>Comparer à la réponse modèle</button>
       ) : (

@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "check": "node scripts/check.ts"
+    "check": "node scripts/check.ts",
+    "check:lessons": "node scripts/check-lessons.mjs"
   },
   "dependencies": {
     "react": "^19.3.0",

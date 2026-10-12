@@ -14,6 +14,8 @@ import { MapView } from './views/MapView';
 import { FinalPrep } from './views/FinalPrep';
 import { Mistakes } from './views/Mistakes';
 import { Sources } from './views/Sources';
+import { Claude } from './views/Claude';
+import { QuickQuestion } from './components/QuickQuestion';
 
 function useRoute() {
   const read = () => window.location.hash.replace(/^#\/?/, '').split('/').filter(Boolean).map(decodeURIComponent);
@@ -32,6 +34,7 @@ const NAV: { group: string; items: { href: string; label: string; key: string }[
     { href: '#/learn', label: 'Comprendre', key: 'learn' },
     { href: '#/lab', label: 'Graph Lab', key: 'lab' },
     { href: '#/why', label: 'Pourquoi ?', key: 'why' },
+    { href: '#/claude', label: 'Ask Claude directly', key: 'claude' },
   ] },
   { group: 'S’entraîner', items: [
     { href: '#/practice', label: 'Pratique', key: 'practice' },
@@ -87,7 +90,7 @@ export default function App() {
   switch (head) {
     case undefined: page = <Home />; break;
     case 'learn': page = <Learn />; break;
-    case 'lesson': page = <LessonView id={a} />; break;
+    case 'lesson': page = <LessonView key={a} id={a} />; break;
     case 'lab': page = <GraphLab preset={a} />; break;
     case 'why': page = <WhyMode id={a} />; break;
     case 'practice': page = <Practice id={a} />; break;
@@ -99,6 +102,7 @@ export default function App() {
     case 'final': page = <FinalPrep />; break;
     case 'mistakes': page = <Mistakes />; break;
     case 'source': page = <Sources refId={[a, b].filter(Boolean).join('/')} />; break;
+    case 'claude': page = <Claude tab={a === 'key' ? 'key' : 'chat'} />; break;
     default: page = <Home />;
   }
 
@@ -125,6 +129,7 @@ export default function App() {
         <Backup />
       </nav>
       <main className="main">{page}</main>
+      <QuickQuestion />
       <OverlayHost />
     </div>
   );

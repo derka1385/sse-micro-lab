@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { TOPICS } from '../content/catalog';
-import { exam, LESSONS, WHY } from '../content/externalities';
+import { WHY } from '../content/externalities';
+import { exam, finalsFor, LESSONS, lessonsForTopic } from '../content/lessons';
 import { PAIRS, SCENARIOS } from '../content/training';
 import type { ActorId, El, Lesson } from '../content/types';
 import { MODELS, fmt } from '../econ';
@@ -8,6 +9,7 @@ import { AxisSlider, GraphInspector, InteractiveEconGraph, PolicyControl, UnitSt
 import { ActorMap, CausalChain, Checkpoint, FormulaReveal, MasteryBars, MisconceptionCard, WhyChain } from '../components/learning';
 import { TeachBack } from '../components/TeachBack';
 import { ExamQuestion } from '../components/Exam';
+import { LessonDiagram } from '../components/LessonDiagram';
 import { Abbr, DecodeCard, ProvTags, Rich, SourceRef } from '../components/text';
 import { ArrowLeft, ArrowRight } from '../components/icons';
 import { activeMisconceptions, familiarity, finishLesson, lessonState, markSeen, mastery, passCheck, setConfidence, setLessonBlock, useProgress } from '../store';
@@ -22,7 +24,8 @@ export function Learn() {
       </header>
       <div className="lesson-list">
         {TOPICS.map((t) => {
-          const l = t.lesson ? LESSONS[t.lesson] : null;
+          const available = lessonsForTopic(t.id);
+          const l = available[0];
           const s = l ? lessonState(p, l.id) : null;
           const nRec = SCENARIOS.filter((x) => x.topic === t.id).length;
           const nPairs = PAIRS.filter((x) => x.topic === t.id).length;
@@ -37,6 +40,8 @@ export function Learn() {
                     {!s?.startedAt ? 'Commencer' : s.finishedAt ? 'Revoir' : `Continuer · bloc ${s.block + 1}/${l.blocks.length}`}
                     <ArrowRight />
                   </a>
+                  {available.slice(1).map((extra) => <p key={extra.id} className="small"><a href={`#/lesson/${extra.id}`}>{extra.mechanism} · {extra.blocks.length} blocs</a></p>)}
+                  <p className="small muted">{l.blocks.length} blocs · validation progressive · explication avec tes mots · examen en anglais · rappels espacés</p>
                 </>
               ) : (
                 <p className="small muted">Leçon guidée pas encore construite. Déjà disponible : la source{nRec ? `, ${nRec} scénario(s) de reconnaissance` : ''}{nPairs ? `, ${nPairs} paire(s) de confusions` : ''}.</p>
@@ -99,17 +104,24 @@ function Finish({ lesson }: { lesson: Lesson }) {
   const p = useProgress();
   const m = mastery(p, [lesson.node]);
   const conf = p.confidence[lesson.node] ?? 0;
+  const finals = finalsFor(TOPICS.find((t) => lessonsForTopic(t.id).includes(lesson))?.nodes ?? [lesson.node]);
   return (
     <div className="finish">
       <h3>Ce que tu dois pouvoir expliquer — et pourquoi</h3>
       <ul className="accept">
-        {ACCEPTANCE.map(([s, w]) => (
-          <li key={w}>
+        {(lesson.acceptance ?? ACCEPTANCE.map(([text, key]) => ({ text, why: WHY[key]?.layers ?? [] }))).map(({ text: s, why }, index) => (
+          <li key={index}>
             <Rich text={s} />
-            {WHY[w] && <WhyChain layers={WHY[w].layers} label="Pourquoi ?" />}
+            {why.length > 0 && <WhyChain layers={why} label="Pourquoi ?" />}
           </li>
         ))}
       </ul>
+      {finals.length > 0 && (
+        <>
+          <h3>Les vrais sujets qui utilisent ce mécanisme</h3>
+          <ul className="plain">{finals.map((q) => <li key={q.id}><a href={`#/exam/${q.id}`} lang="en">{q.title}</a></li>)}</ul>
+        </>
+      )}
       <h3>Maîtrise mesurée aujourd’hui</h3>
       <MasteryBars m={m} />
       <div className="confidence">
@@ -120,9 +132,8 @@ function Finish({ lesson }: { lesson: Lesson }) {
       </div>
       <div className="row wrap">
         <a className="button primary" href="#/recall">Premier rappel espacé</a>
-        <a className="button" href="#/lab/gasoline">Graph Lab : le cas négatif</a>
-        <a className="button" href="#/practice">Pratique</a>
-        <a className="button" href="#/exam">Mode examen</a>
+        <a className="button" href="#/learn">Choisir la prochaine leçon</a>
+        <a className="button" href={`#/exam/${lesson.examId}`}>Refaire l’épreuve de la leçon</a>
       </div>
     </div>
   );
@@ -180,7 +191,8 @@ function BlockView({ lesson, idx, onNext, onPrev }: { lesson: Lesson; idx: numbe
   const active = activeMisconceptions(p).filter((m) => misIds.has(m));
 
   const text = level === 'human' ? block.human : level === 'economist' ? block.economist ?? block.human : block.exam ?? block.human;
-  const canNext = block.special ? true : !gated || (understood && revealDone && nextCheck === -1);
+  const specialDone = !!ls.finishedAt || ls.passed.includes(`${block.id}:validation`);
+  const canNext = block.special === 'teachback' || block.special === 'exam' ? specialDone : block.special === 'finish' ? true : !gated || (understood && revealDone && nextCheck === -1);
   const last = idx === lesson.blocks.length - 1;
   const toggle = (k: keyof typeof open) => setOpen({ ...open, [k]: !open[k] });
   const showOnGraph = () => {
@@ -222,15 +234,15 @@ function BlockView({ lesson, idx, onNext, onPrev }: { lesson: Lesson; idx: numbe
             <button type="button" className={`act ${open.why ? 'on' : ''}`} onClick={() => toggle('why')}>Pourquoi ?</button>
             <button type="button" className={`act ${open.ex ? 'on' : ''}`} onClick={() => toggle('ex')}>Exemple concret</button>
             <button type="button" className={`act ${open.me ? 'on' : ''}`} onClick={() => toggle('me')}>Si c’était moi ?</button>
-            <button type="button" className={`act ${open.graph ? 'on' : ''}`} onClick={showOnGraph}>Montre-le sur le graphe</button>
+            {(block.diagram || block.graph.preset || lesson.id === 'ext-positive') && <button type="button" className={`act ${open.graph ? 'on' : ''}`} onClick={showOnGraph}>{block.diagram && block.diagram.kind !== 'curves' ? 'Montre-le sur le schéma' : 'Montre-le sur le graphe'}</button>}
           </div>
           {open.why && <div className="panel" data-label="Pourquoi"><WhyChain layers={block.why} start={1} /></div>}
           {open.ex && <div className="panel" data-label="Exemple concret"><Rich text={block.example} /></div>}
           {open.me && <div className="panel" data-label="Si c’était toi"><Rich text={block.me} /></div>}
 
           {block.special === 'chain' && <CausalChain steps={lesson.chain} />}
-          {block.special === 'teachback' && <TeachBack rubric={lesson.teach} lessonId={lesson.id} tags={[lesson.node]} />}
-          {block.special === 'exam' && <ExamQuestion q={exam(lesson.examId)} />}
+          {block.special === 'teachback' && <TeachBack rubric={lesson.teach} lessonId={lesson.id} tags={[lesson.node]} onValidated={() => passCheck(lesson.id, `${block.id}:validation`)} />}
+          {block.special === 'exam' && <ExamQuestion q={lesson.exam ?? exam(lesson.examId)} onDone={() => passCheck(lesson.id, `${block.id}:validation`)} />}
           {block.special === 'finish' && <Finish lesson={lesson} />}
 
           {gated && !understood && (
@@ -269,7 +281,7 @@ function BlockView({ lesson, idx, onNext, onPrev }: { lesson: Lesson; idx: numbe
             <button type="button" className="ghost" onClick={onPrev} disabled={idx === 0}><ArrowLeft /> Précédent</button>
             {!last && (
               <button type="button" className="primary" onClick={onNext} disabled={!canNext}>
-                {canNext ? <>Bloc suivant <ArrowRight /></> : 'Réponds pour continuer'}
+                {canNext ? <>Bloc suivant <ArrowRight /></> : block.special === 'teachback' ? 'Valide ton explication pour continuer' : block.special === 'exam' ? 'Rends et enregistre ta copie pour continuer' : 'Réponds pour continuer'}
               </button>
             )}
           </div>
@@ -279,8 +291,9 @@ function BlockView({ lesson, idx, onNext, onPrev }: { lesson: Lesson; idx: numbe
 
       <section className="lesson-graph" ref={graphRef}>
         <ActorMap actors={lesson.actors} seen={seenActors} focus={block.focusActors} />
-        <div className="graph-card">
+        {(block.diagram || block.graph.preset || lesson.id === 'ext-positive') && <div className="graph-card">
           {open.graph && <p className="graph-note"><Rich text={block.graphNote} /></p>}
+          {block.diagram ? <LessonDiagram key={block.id} spec={block.diagram} /> : <>
           <InteractiveEconGraph model={model} show={block.graph.show} focus={focus} policy={policy} cursor={cursor} onCursor={setCursor} selected={sel} onSelect={setSel} fresh={fresh} animKey={block.id} />
           {block.graph.show.includes('QM') && (
             <UnitStrip model={model} show={block.graph.show} policy={policy} cursor={cursor} onPick={(q) => { setCursor(q); setSel({ kind: 'unit', q }); }} />
@@ -288,7 +301,8 @@ function BlockView({ lesson, idx, onNext, onPrev }: { lesson: Lesson; idx: numbe
           <GraphInspector model={model} show={block.graph.show} policy={policy} cursor={cursor} selected={sel} onClear={() => setSel(null)} />
           <AxisSlider label="Curseur" display={`Q = ${fmt(cursor, 1)}`} value={cursor} min={0} max={model.qMax} step={0.5} onChange={setCursor} />
           {block.graph.policyControl && <PolicyControl model={model} policy={policy} setPolicy={setPolicy} allowOptimal={canNext} />}
-        </div>
+          </>}
+        </div>}
       </section>
     </div>
   );
