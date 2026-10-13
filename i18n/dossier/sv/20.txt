@@ -1,0 +1,174 @@
+======================================================================
+18. FÖRTECKNING ÖVER FÖRKORTNINGAR OCH SYMBOLER
+======================================================================
+
+Märkning: [O] förkortning/symbol som förekommer i PDF:erna; [A] standardalias
+för ett begrepp som uttryckligen finns men inte nödvändigtvis skrivs så;
+[C] standardkomplement som lagts till för att göra metoderna begripliga.
+Varianterna är grupperade. Förteckningen gäller korpusen och dess användbara
+varianter, inte alla förkortningar i alla läroböcker i mikroekonomi.
+
+18.1 Kostnader, intäkter, produktion och vinst
+AC [O] — Average Cost — genomsnittskostnad; här oftast likvärdig med ATC,
+  C(Q)/Q. Kontrollera om en författare använder den för en annan genomsnittskostnad.
+AFC [O] — Average Fixed Cost — genomsnittlig fast kostnad; FC/Q.
+AP, APL, AP_L [A] — Average Product (of Labor) — genomsnittsprodukt (för arbete); Q/L.
+ATC [O] — Average Total Cost — genomsnittlig totalkostnad; TC/Q.
+AVC [O] — Average Variable Cost — genomsnittlig rörlig kostnad; VC/Q.
+C(Q), TC [O] — (Total) Cost — totalkostnadsfunktion, FC+VC(Q).
+FC [O] — Fixed Cost — fast kostnad; oberoende av Q under den studerade horisonten.
+F [O] — Fixed cost OU Fixed fee — fast produktionskostnad ELLER inkasserad
+  avgift. Identifiera rollen; de två har motsatta tecken i pi.
+MC [O] — Marginal Cost — marginalkostnad; dC/dQ, pengar/outputenhet.
+MP [O] — Marginal Product — en faktors marginalprodukt, output/insats.
+MPL, MP_L [O] — Marginal Product of Labor — arbetets marginalprodukt.
+MPK, MP_K [A] — Marginal Product of Capital — kapitalets marginalprodukt.
+MR [O] — Marginal Revenue — marginalintäkt; dR/dQ.
+MRP_L [C] — Marginal Revenue Product of Labor — marginalintäkt från en
+  ytterligare enhet arbetsinsats, MR*MP_L.
+VMP_L [A] — Value of Marginal Product of Labor — värdet av arbetets
+  marginalprodukt, p*MP_L ; anställningsvillkor vid konkurrens.
+CSR [A] — Corporate Social Responsibility — företagets samhälls-
+  ansvar, som tas upp i diskussionen om vinstmålet i L6.
+R(Q), Revenue [O] ; TR [A] — Total Revenue — total intäkt, p(Q)*Q.
+AR [C] — Average Revenue — genomsnittsintäkt, R/Q ; lika med priset vid ett enda pris.
+VC [O] — Variable Cost — rörlig kostnad, beror på Q.
+pi, Π, π [O] — Profit — vinst/ekonomisk vinst beroende på vilka kostnader som ingår.
+A, TFP [A] — Total Factor Productivity — total faktorproduktivitet,
+  effektivitet i Q=A*f(K,L). A är inte alltid en teknikparameter.
+K [O] — Capital — produktivt kapital; betyder inte automatiskt pengar.
+L [O] — Labor — arbete; MEN L kan också vara Low type eller Lunches.
+J [O] — Land dans L5 — mark; bokstav vald för detta exempel.
+w [O] — Wage — lön/kostnad per arbetsenhet.
+r [O] — Rental rate of capital — hyrespris för en kapitalenhet.
+q_i [O] — Firm i's quantity — kvantitet som produceras av företag i.
+Q [O] — Total quantity/output — marknadskvantitet eller output; läs sammanhanget.
+Qbar, Q avec barre [O] — föreskriven målproduktion, inte en fritt vald variabel.
+HP [O] — Highly Productive — mycket produktivt företag, L8.
+LP [O] — Less Productive — mindre produktivt företag, L8.
+SR, LR [A] — Short Run, Long Run — kort sikt/lång sikt.
+SRAC, LRAC [A] — Short-/Long-Run Average Cost — genomsnittskostnad per horisont.
+RTS [A] — Returns To Scale — skalavkastning.
+IRS, CRS, DRS [A] — Increasing/Constant/Decreasing Returns to Scale —
+  ökande/konstant/avtagande skalavkastning; skilj från kostnadsfördelar.
+
+18.2 Efterfrågan, konsument och elasticiteter
+p, P [O] — Price — pris per enhet. Stor/liten bokstav har ingen universell
+  betydelse: samma material kan variera sin notation.
+QD, Q^D, Q_D [O] — Quantity Demanded — efterfrågad kvantitet vid ett pris.
+QS, Q^S, Q_S [O] — Quantity Supplied — utbjuden kvantitet vid ett pris.
+D, S [O] — Demand, Supply — efterfråge-/utbudskurvor i diagram.
+  D och S kan på annat håll också beteckna ett lån, en spelare eller en grupp.
+p_b, pBuyer [O] — Buyer price — pris som köparen betalar.
+p_s, pSeller [O] — Seller price — nettopris som säljaren får.
+U(x,y) [O] — Utility — nytta, en ordinal representation av preferenser.
+MU, MU_x [O] — Marginal Utility — marginalnytta av vara x.
+MRS [O] — Marginal Rate of Substitution — marginell substitutionskvot,
+  kvot mellan marginalnyttor och absolutvärdet av indifferenskurvans lutning.
+MRT [O] — Marginal Rate of Transformation — marginell transformationskvot,
+  PPF:ens absoluta lutning i produktionsmodellen; i en konsumtionsbudget kallas
+  relativpriset ibland den tillgängliga transformations-/bytesgraden.
+MRTS [A] — Marginal Rate of Technical Substitution — marginell teknisk
+  substitutionskvot; kvot mellan MP, isokvantens absoluta lutning.
+I [O] — Income — konsumentens inkomst/budget; på annat håll ibland investment.
+E [O] — Entertainment dans L3 — nöje; inte alltid elasticity.
+F [O] — Food dans L3 — mat; på annat håll F=fast kostnad/tillträdesavgift.
+G, O [O] — Gasoline, Other goods — bensin/andra varor i L4.
+PL, PR, p_L, p_R [O] — priser på lunch/record i A2 ; på annat håll kan indexen
+  L/R beteckna den låga typen eller Red. Läs alltid den lokala definitionen.
+ED, E^D, E_D, epsilon_D, epsilon_d [O/A] — (Own-)Price Elasticity of Demand
+  — efterfrågans priselasticitet, oftast med negativt tecken.
+epsilon_S, ES [A] — Price Elasticity of Supply — utbudets priselasticitet.
+epsilon_ij, E_cross [A] — Cross-Price Elasticity — korspriselasticitet.
+eta, epsilon_I, E_I [A] — Income Elasticity — inkomstelasticitet.
+WTP [A] — Willingness To Pay — betalningsvilja; per enhet om marginell,
+  summa/yta om total. En total WTP är inte automatiskt marginalpriset.
+Delta I [O] — kompensation/inkomstförändring; klumpsummeöverföring i L4.
+p_r [O] — pris på en annan vara, t.ex. raspberries ; inte kapitalets r.
+T [O] — temperatur/efterfrågebestämningsfaktor i L2 ; på annat håll överföring/skatt.
+
+18.3 Välfärd, politik och externaliteter
+CS, C.S. [O] — Consumer Surplus — konsumentöverskott.
+PS [O] — Producer Surplus — producentöverskott; intäkt minus VC.
+W, TS [A] — Welfare, Total Surplus — välfärd/totalt monetärt överskott.
+DWL [O] — Deadweight Loss — dödviktsförlust, förlorat nettoöverskott.
+MB [O/A] — Marginal Benefit — marginalnytta; WTP för nästa enhet.
+MPC, PMC, MC_p [A/O] — Marginal Private Cost — privat marginalkostnad.
+MEC, MC_e [O] — Marginal External Cost — extern marginalkostnad.
+MSC, SMC [A] — Marginal Social Cost — samhällelig marginalkostnad, MPC+MEC.
+MPB, PMB [A] — Marginal Private Benefit — privat marginalnytta.
+MEB [O] — Marginal External Benefit — extern marginalnytta.
+MSB [O], SMB [A] — Marginal Social Benefit — samhällelig marginalnytta, MPB+MEB.
+MAC [O] — Marginal Abatement Cost — marginalkostnad för att rena/minska
+  utsläpp, inte « marginal average cost ».
+EC, EB [A] — External Cost, External Benefit — TOTAL extern kostnad/nytta,
+  när den definieras så; skilj från marginella MEC/MEB.
+CPR [O] — Common-Pool Resource / Common Property Resource — allmänning,
+  Q_CPR i L11:s diagram över fritt tillträde.
+t, tau [O/A] — Unit Tax / Tariff — styckskatt eller tull.
+s [O] — Unit Subsidy — styckssubvention; på annat håll sannolikhet eller tillstånd.
+T, Tax revenue [A/O] — skatteintäkter, t*Q ; ett penningbelopp.
+Qpriv, Qopt, Qeff, Q* [O/A] — privat, optimal, effektiv och
+  jämviktskvantitet. En stjärna ensam betyder INTE « samhälleligt optimum ».
+QPoll [O] — Quantity of Pollution — mängd förorening i L11.
+VAT [O] — Value Added Tax — moms; i allmänhet en värdeskatt, förenklad
+  till styckskatt i övningen E2025.
+
+18.4 Marknader, kontrakt och spel
+Lerner, L_index [A] — Lerner Index — (p-MC)/p ; undvik L om L=arbete.
+Pm, p_M, QM, Q_M [O] — monopolpris/-kvantitet i diagrammen.
+PC, p_C [O] — i L10 COURNOT-priset; på annat håll kan PC betyda
+  Perfect Competition. Indexet ska tolkas i sin figur.
+PPT, p_PT [O] — price-taking-pris i figuren L10 s.10.
+QC, Q_C [O] — konkurrenskvantitet i monopoldiagram;
+  i E2025 betyder Qc antalet KONSERTbiljetter, inte konkurrens.
+MC_i, c_i [O] — marginalkostnad för företag i, konstant när den skrivs c_i.
+n [O] — antal företag, kaféer eller aktörer beroende på sammanhang.
+BR, BR_i [A] — Best Response — bästa svar/reaktionsfunktion.
+NE [A] — Nash Equilibrium — Nashjämvikt.
+SPNE [A] — Subgame Perfect Nash Equilibrium — delspelsperfekt jämvikt.
+IC [O] — Incentive Compatibility — incitamentsförenlighet; man
+  väljer det kontrakt/den handling som utformaren vill framkalla.
+IR [O] — Individual Rationality — deltagande; kontraktet är minst lika
+  attraktivt som det yttre alternativet.
+H, L [O] — High/Low — typer, kvalitet eller ansträngning; anta inte samma betydelse överallt.
+B [O] — privat nytta av låg ansträngning i E2023/A6 ; i L9 betecknar B_H
+  ett paket, och i L10 B=Blue.
+R [O] — intäkt vid kredit; R=Red i oligopol; R=Records i A2.
+F, T_j [O/A] — fast avgift, betalning för meny j ; deras roll beror på kontraktet.
+S, N [O] — Split/Steal i A3, val i denna uppgift; SN/NS/NN är
+  strategiprofiler, inte nya ekonomiska begrepp.
+E[X] [A] — Expected Value — väntevärdet av X, viktat medelvärde över tillstånden.
+pH, pL [A] — sannolikheter för framgång beroende på handling H/L i kontraktet;
+  på annat håll är p_H,p_L PRISER för grupperna high/low.
+d [A] — sannolikhet för upptäckt i kontrollexemplet; en annan
+  övning kan använda d som utbudslutning.
+
+18.5 Handel och matematik
+PPF, PPC [A] — Production Possibility Frontier/Curve — produktions-
+  möjlighetskurva, given av teknik och resurser.
+OC [A] — Opportunity Cost — alternativkostnad, bästa uppoffrade alternativ.
+M [A] — Imports — import, QD-QS i ett importerande land.
+pw, p_W [A] — World Price — världsmarknadspris, givet i modellen med litet land.
+ToT [A] — Terms of Trade — bytesförhållande, exportpriser/importpriser.
+FOC [C] — First-Order Condition — förstaordningsvillkor, derivatan noll
+  i ett inre optimum; standardterm för villkoren som används i kursen.
+SOC [C] — Second-Order Condition — andraordningsvillkor, kontrollerar krökningen.
+Delta, Δ [O] — ändlig förändring, slutvärde minus startvärde.
+d/dx [O] — derivata med avseende på en variabel.
+partial, ∂ [O] — partiell derivata, övriga variabler hålls konstanta.
+prime, ' [O] — annan notation för derivata, t.ex. C'(Q).
+max/min [O] — maximera/minimera ett mål.
+s.t. [C] — Subject To — under bivillkoret.
+sqrt(x), racine(x) [O/A] — kvadratrot; x^(1/2).
+barre [O] — fast variabel/målvariabel; stjärna [O] — lösning på optimering/jämvikt.
+
+18.6 Kontextuella, icke begreppsliga förkortningar
+SSE=Stockholm School of Economics ; BE501=kurskod; ID=student-
+identitet; AI=Artificial Intelligence ; GPT=namn på en familj av AI-modeller;
+US=United States ; UK=United Kingdom ; EU=European Union ; kr=kronor;
+USD=amerikanska dollar; GB/LN är namn på aktörer/platser i övningar;
+HIV=virus som nämns som läkemedelsexempel; MTB=mountainbike;
+CSCE=Conference on Security and Co-operation in Europe i A3 ;
+SFA-Oxford=källa till ett diagram; I/II/III kan vara delnummer.
+Dessa förkortningar är inga formler i mikroekonomi.

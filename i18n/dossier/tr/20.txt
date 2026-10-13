@@ -1,0 +1,174 @@
+======================================================================
+18. KISALTMALAR VE SEMBOLLER DİZİNİ
+======================================================================
+
+İşaretleme: [O] PDF'lerde görülen kısaltma/sembol; [A] açıkça bulunan ama
+bu şekilde yazılmış olması gerekmeyen bir kavramın standart eş adı;
+[C] yöntemleri anlaşılır kılmak için eklenmiş standart tamamlayıcı.
+Varyantlar gruplanmıştır. Bu dizin korpusu ve yararlı varyantlarını
+hedefler, tüm mikroekonomi kitaplarının tüm kısaltmalarını değil.
+
+18.1 Maliyetler, hasılat, üretim ve kâr
+AC [O] — Average Cost — ortalama maliyet; burada genellikle ATC ile eşdeğer,
+  C(Q)/Q. Bir yazarın onu başka bir ortalama maliyet için kullanıp kullanmadığını kontrol et.
+AFC [O] — Average Fixed Cost — ortalama sabit maliyet; FC/Q.
+AP, APL, AP_L [A] — Average Product (of Labor) — (emeğin) ortalama ürünü; Q/L.
+ATC [O] — Average Total Cost — ortalama toplam maliyet; TC/Q.
+AVC [O] — Average Variable Cost — ortalama değişken maliyet; VC/Q.
+C(Q), TC [O] — (Total) Cost — toplam maliyet fonksiyonu, FC+VC(Q).
+FC [O] — Fixed Cost — sabit maliyet; incelenen dönemde Q'dan bağımsız.
+F [O] — Fixed cost OU Fixed fee — sabit üretim maliyeti YA DA tahsil edilen
+  ücret. Rolü belirle; ikisinin pi'deki işaretleri zıttır.
+MC [O] — Marginal Cost — marjinal maliyet; dC/dQ, para/çıktı birimi.
+MP [O] — Marginal Product — bir faktörün marjinal ürünü, çıktı/girdi.
+MPL, MP_L [O] — Marginal Product of Labor — emeğin marjinal ürünü.
+MPK, MP_K [A] — Marginal Product of Capital — sermayenin marjinal ürünü.
+MR [O] — Marginal Revenue — marjinal hasılat; dR/dQ.
+MRP_L [C] — Marginal Revenue Product of Labor — ek bir emek girdisinin
+  sağladığı marjinal hasılat, MR*MP_L.
+VMP_L [A] — Value of Marginal Product of Labor — emeğin marjinal
+  ürününün değeri, p*MP_L ; rekabetçi işe alma koşulu.
+CSR [A] — Corporate Social Responsibility — işletmenin sosyal
+  sorumluluğu, L6'da kâr amacının tartışmasında değinilir.
+R(Q), Revenue [O] ; TR [A] — Total Revenue — toplam hasılat, p(Q)*Q.
+AR [C] — Average Revenue — ortalama hasılat, R/Q ; tek fiyatta fiyata eşittir.
+VC [O] — Variable Cost — değişken maliyet, Q'ya bağlıdır.
+pi, Π, π [O] — Profit — dahil edilen maliyetlere göre kâr/ekonomik kâr.
+A, TFP [A] — Total Factor Productivity — toplam faktör verimliliği,
+  Q=A*f(K,L)'deki etkinlik. A her zaman bir teknoloji parametresi değildir.
+K [O] — Capital — üretken sermaye; otomatik olarak para anlamına gelmez.
+L [O] — Labor — emek; AMA L, Low type ya da Lunches da olabilir.
+J [O] — Land dans L5 — toprak; bu örnek için seçilmiş harf.
+w [O] — Wage — ücret/emek birimi başına maliyet.
+r [O] — Rental rate of capital — bir sermaye biriminin kiralama fiyatı.
+q_i [O] — Firm i's quantity — i firmasının ürettiği miktar.
+Q [O] — Total quantity/output — piyasa miktarı veya çıktı; bağlamı oku.
+Qbar, Q avec barre [O] — dayatılmış hedef üretim, serbest seçim değişkeni değil.
+HP [O] — Highly Productive — çok verimli firma, L8.
+LP [O] — Less Productive — daha az verimli firma, L8.
+SR, LR [A] — Short Run, Long Run — kısa dönem/uzun dönem.
+SRAC, LRAC [A] — Short-/Long-Run Average Cost — döneme göre ortalama maliyet.
+RTS [A] — Returns To Scale — ölçeğe göre getiri.
+IRS, CRS, DRS [A] — Increasing/Constant/Decreasing Returns to Scale —
+  artan/sabit/azalan getiri; maliyet ekonomilerinden ayır.
+
+18.2 Talep, tüketici ve esneklikler
+p, P [O] — Price — birim fiyat. Büyük/küçük harfin evrensel bir
+  anlamı yoktur: aynı materyal gösterimini değiştirebilir.
+QD, Q^D, Q_D [O] — Quantity Demanded — bir fiyatta talep edilen miktar.
+QS, Q^S, Q_S [O] — Quantity Supplied — bir fiyatta arz edilen miktar.
+D, S [O] — Demand, Supply — grafiklerde talep/arz eğrileri.
+  D ve S başka yerlerde bir krediyi, bir oyuncuyu veya bir grubu da gösterebilir.
+p_b, pBuyer [O] — Buyer price — alıcının ödediği fiyat.
+p_s, pSeller [O] — Seller price — satıcının aldığı net fiyat.
+U(x,y) [O] — Utility — fayda, tercihlerin ordinal gösterimi.
+MU, MU_x [O] — Marginal Utility — x malının marjinal faydası.
+MRS [O] — Marginal Rate of Substitution — marjinal ikame oranı,
+  marjinal faydaların oranı ve kayıtsızlık eğiminin mutlak değeri.
+MRT [O] — Marginal Rate of Transformation — marjinal dönüşüm oranı,
+  üretim modelinde PPF'nin mutlak eğimi; tüketim bütçesinde göreli
+  fiyat bazen mevcut dönüşüm/değişim oranı olarak adlandırılır.
+MRTS [A] — Marginal Rate of Technical Substitution — marjinal teknik
+  ikame oranı; MP'lerin oranı, eş ürün eğrisinin mutlak eğimi.
+I [O] — Income — tüketicinin geliri/bütçesi; başka yerde bazen investment.
+E [O] — Entertainment dans L3 — eğlence; her zaman elasticity değil.
+F [O] — Food dans L3 — gıda; başka yerde F=sabit maliyet/erişim ücreti.
+G, O [O] — Gasoline, Other goods — L4'te benzin/diğer mallar.
+PL, PR, p_L, p_R [O] — A2'de lunch/record fiyatları; başka yerde alt simgeler
+  L/R düşük tipi veya Red'i gösterebilir. Her zaman yerel tanımı oku.
+ED, E^D, E_D, epsilon_D, epsilon_d [O/A] — (Own-)Price Elasticity of Demand
+  — talebin fiyat esnekliği, genellikle negatif işaretli.
+epsilon_S, ES [A] — Price Elasticity of Supply — arzın fiyat esnekliği.
+epsilon_ij, E_cross [A] — Cross-Price Elasticity — çapraz fiyat esnekliği.
+eta, epsilon_I, E_I [A] — Income Elasticity — gelir esnekliği.
+WTP [A] — Willingness To Pay — ödeme isteği; marjinalse birim başına,
+  toplamsa toplam/alan. Toplam WTP otomatik olarak marjinal fiyat değildir.
+Delta I [O] — gelir telafisi/değişimi; L4'te götürü transfer.
+p_r [O] — başka bir malın fiyatı, örn. raspberries ; sermayenin r'si değil.
+T [O] — L2'de sıcaklık/talep belirleyicisi; başka yerde transfer/vergi.
+
+18.3 Refah, politikalar ve dışsallıklar
+CS, C.S. [O] — Consumer Surplus — tüketici rantı.
+PS [O] — Producer Surplus — üretici rantı; hasılat eksi VC.
+W, TS [A] — Welfare, Total Surplus — refah/toplam parasal rant.
+DWL [O] — Deadweight Loss — ölü ağırlık kaybı, kaybedilen net rant.
+MB [O/A] — Marginal Benefit — marjinal fayda; bir sonraki birimin WTP'si.
+MPC, PMC, MC_p [A/O] — Marginal Private Cost — özel marjinal maliyet.
+MEC, MC_e [O] — Marginal External Cost — dışsal marjinal maliyet.
+MSC, SMC [A] — Marginal Social Cost — sosyal marjinal maliyet, MPC+MEC.
+MPB, PMB [A] — Marginal Private Benefit — özel marjinal fayda.
+MEB [O] — Marginal External Benefit — dışsal marjinal fayda.
+MSB [O], SMB [A] — Marginal Social Benefit — sosyal marjinal fayda, MPB+MEB.
+MAC [O] — Marginal Abatement Cost — emisyon azaltımının marjinal
+  maliyeti, « marginal average cost » değil.
+EC, EB [A] — External Cost, External Benefit — TOPLAM dışsal maliyet/fayda,
+  böyle tanımlandığında; marjinal MEC/MEB'den ayır.
+CPR [O] — Common-Pool Resource / Common Property Resource — ortak kaynak,
+  L11 serbest erişim grafiğinde Q_CPR.
+t, tau [O/A] — Unit Tax / Tariff — birim vergi veya gümrük vergisi.
+s [O] — Unit Subsidy — birim sübvansiyon; başka yerde olasılık veya durum.
+T, Tax revenue [A/O] — vergi geliri, t*Q ; parasal tutar.
+Qpriv, Qopt, Qeff, Q* [O/A] — özel, optimal, etkin ve denge
+  miktarları. Tek başına yıldız « sosyal optimum » DEMEK DEĞİLDİR.
+QPoll [O] — Quantity of Pollution — L11'de kirlilik miktarı.
+VAT [O] — Value Added Tax — KDV; genel olarak değer üzerinden vergi,
+  E2025 alıştırmasında birim vergiye basitleştirilmiş.
+
+18.4 Piyasalar, sözleşmeler ve oyunlar
+Lerner, L_index [A] — Lerner Index — (p-MC)/p ; L=emek ise L'den kaçın.
+Pm, p_M, QM, Q_M [O] — grafiklerde tekel fiyatı/miktarı.
+PC, p_C [O] — L10'da COURNOT fiyatı; başka yerde PC
+  Perfect Competition anlamına gelebilir. Alt simge kendi şeklinde yorumlanmalı.
+PPT, p_PT [O] — L10 s.10 şeklinde price-taking fiyatı.
+QC, Q_C [O] — tekel grafiklerinde rekabetçi miktar;
+  E2025'te Qc rekabet değil, KONSER bileti miktarı anlamına gelir.
+MC_i, c_i [O] — i firmasının marjinal maliyeti, c_i yazıldığında sabit.
+n [O] — bağlama göre firma, kafe veya aktör sayısı.
+BR, BR_i [A] — Best Response — en iyi tepki/tepki fonksiyonu.
+NE [A] — Nash Equilibrium — Nash dengesi.
+SPNE [A] — Subgame Perfect Nash Equilibrium — alt oyun yetkin denge.
+IC [O] — Incentive Compatibility — teşvik uyumluluğu; tasarımcının
+  özendirmek istediği sözleşme/eylem seçilir.
+IR [O] — Individual Rationality — katılım; sözleşme en az dış seçenek
+  kadar çekicidir.
+H, L [O] — High/Low — tipler, kalite veya çaba; her yerde aynı anlamı varsayma.
+B [O] — E2023/A6'da düşük çabanın özel faydası; L9'da B_H
+  bir paketi gösterir, L10'da B=Blue.
+R [O] — kredide hasılat; oligopolde R=Red ; A2'de R=Records.
+F, T_j [O/A] — sabit ücret, j menüsünün ödemesi; rolleri sözleşmeye bağlıdır.
+S, N [O] — A3'te Split/Steal, bu ödevin seçenekleri; SN/NS/NN
+  strateji profilleridir, yeni ekonomik kavramlar değil.
+E[X] [A] — Expected Value — X'in beklenen değeri, durumların ağırlıklı ortalaması.
+pH, pL [A] — sözleşmede H/L eylemine göre başarı olasılıkları;
+  başka yerde p_H,p_L high/low gruplarının FİYATLARIDIR.
+d [A] — denetim örneğinde yakalanma olasılığı; başka bir
+  alıştırma d'yi arz eğimi olarak kullanabilir.
+
+18.5 Ticaret ve matematik
+PPF, PPC [A] — Production Possibility Frontier/Curve — üretim
+  olanakları sınırı, teknoloji ve kaynaklarca belirlenir.
+OC [A] — Opportunity Cost — fırsat maliyeti, vazgeçilen en iyi seçenek.
+M [A] — Imports — ithalat, ithalatçı bir ülkede QD-QS.
+pw, p_W [A] — World Price — küçük ülke modelinde verili dünya fiyatı.
+ToT [A] — Terms of Trade — dış ticaret hadleri, ihracat fiyatları/ithalat fiyatları.
+FOC [C] — First-Order Condition — birinci sıra koşulu, iç optimumda
+  sıfır türev; derste kullanılan koşullar için standart terim.
+SOC [C] — Second-Order Condition — ikinci sıra koşulu, eğriliği kontrol eder.
+Delta, Δ [O] — sonlu değişim, son değer eksi ilk değer.
+d/dx [O] — bir değişkene göre türev.
+partial, ∂ [O] — kısmi türev, diğer değişkenler sabit tutulur.
+prime, ' [O] — türevin başka bir gösterimi, örn. C'(Q).
+max/min [O] — bir amacı maksimize/minimize etmek.
+s.t. [C] — Subject To — kısıtı altında.
+sqrt(x), racine(x) [O/A] — karekök; x^(1/2).
+barre [O] — sabitlenmiş/hedef değişken; yıldız [O] — optimizasyon/denge çözümü.
+
+18.6 Bağlamsal, kavramsal olmayan kısaltmalar
+SSE=Stockholm School of Economics ; BE501=ders kodu; ID=öğrenci
+kimliği; AI=Artificial Intelligence ; GPT=bir yapay zekâ modeli ailesinin adı;
+US=United States ; UK=United Kingdom ; EU=European Union ; kr=kron;
+USD=ABD doları; GB/LN alıştırmalardaki aktör/yer adlarıdır;
+HIV=ilaç örneği olarak anılan virüs; MTB=dağ bisikleti;
+CSCE=A3'te Conference on Security and Co-operation in Europe ;
+SFA-Oxford=bir grafiğin kaynağı; I/II/III bölüm numaraları olabilir.
+Bu kısaltmalar mikroekonomi formülleri değildir.

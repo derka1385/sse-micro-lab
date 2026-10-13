@@ -1,0 +1,174 @@
+======================================================================
+18. REPERTORIO DELLE ABBREVIAZIONI E DEI SIMBOLI
+======================================================================
+
+Contrassegni: [O] abbreviazione/simbolo osservato nei PDF; [A] alias standard
+di una nozione esplicitamente presente ma non necessariamente scritta così;
+[C] complemento standard aggiunto per rendere comprensibili i metodi.
+Le varianti sono raggruppate. Questo repertorio riguarda il corpus e le sue varianti
+utili, non tutte le abbreviazioni di tutti i manuali di microeconomia.
+
+18.1 Costi, ricavi, produzione e profitto
+AC [O] — Average Cost — costo medio; qui in genere equivalente ad ATC,
+  C(Q)/Q. Verificare se un autore lo usa per un altro costo medio.
+AFC [O] — Average Fixed Cost — costo fisso medio; FC/Q.
+AP, APL, AP_L [A] — Average Product (of Labor) — prodotto medio (del lavoro); Q/L.
+ATC [O] — Average Total Cost — costo totale medio; TC/Q.
+AVC [O] — Average Variable Cost — costo variabile medio; VC/Q.
+C(Q), TC [O] — (Total) Cost — funzione di costo totale, FC+VC(Q).
+FC [O] — Fixed Cost — costo fisso; indipendente da Q nell'orizzonte studiato.
+F [O] — Fixed cost OU Fixed fee — costo fisso di produzione OPPURE canone
+  incassato. Identificare il ruolo; i due hanno segni opposti in pi.
+MC [O] — Marginal Cost — costo marginale; dC/dQ, moneta/unità di output.
+MP [O] — Marginal Product — prodotto marginale di un fattore, output/input.
+MPL, MP_L [O] — Marginal Product of Labor — prodotto marginale del lavoro.
+MPK, MP_K [A] — Marginal Product of Capital — prodotto marginale del capitale.
+MR [O] — Marginal Revenue — ricavo marginale; dR/dQ.
+MRP_L [C] — Marginal Revenue Product of Labor — ricavo marginale procurato
+  da un'unità aggiuntiva di input lavoro, MR*MP_L.
+VMP_L [A] — Value of Marginal Product of Labor — valore del prodotto
+  marginale del lavoro, p*MP_L ; condizione di assunzione concorrenziale.
+CSR [A] — Corporate Social Responsibility — responsabilità sociale
+  d'impresa, evocata nella discussione dell'obiettivo di profitto in L6.
+R(Q), Revenue [O] ; TR [A] — Total Revenue — ricavo totale, p(Q)*Q.
+AR [C] — Average Revenue — ricavo medio, R/Q ; uguale al prezzo con prezzo unico.
+VC [O] — Variable Cost — costo variabile, dipende da Q.
+pi, Π, π [O] — Profit — profitto/profitto economico secondo i costi inclusi.
+A, TFP [A] — Total Factor Productivity — produttività totale dei fattori,
+  efficienza in Q=A*f(K,L). A non è sempre un parametro tecnologico.
+K [O] — Capital — capitale produttivo; non significa automaticamente denaro.
+L [O] — Labor — lavoro; MA L può anche essere Low type o Lunches.
+J [O] — Land dans L5 — terra; lettera scelta per questo esempio.
+w [O] — Wage — salario/costo per unità di lavoro.
+r [O] — Rental rate of capital — prezzo di noleggio di un'unità di capitale.
+q_i [O] — Firm i's quantity — quantità prodotta dall'impresa i.
+Q [O] — Total quantity/output — quantità di mercato o output; leggere il contesto.
+Qbar, Q avec barre [O] — produzione obiettivo imposta, non variabile di scelta libera.
+HP [O] — Highly Productive — impresa molto produttiva, L8.
+LP [O] — Less Productive — impresa meno produttiva, L8.
+SR, LR [A] — Short Run, Long Run — breve periodo/lungo periodo.
+SRAC, LRAC [A] — Short-/Long-Run Average Cost — costo medio per orizzonte.
+RTS [A] — Returns To Scale — rendimenti di scala.
+IRS, CRS, DRS [A] — Increasing/Constant/Decreasing Returns to Scale —
+  rendimenti crescenti/costanti/decrescenti; distinguere dalle economie di costo.
+
+18.2 Domanda, consumatore ed elasticità
+p, P [O] — Price — prezzo per unità. Maiuscola/minuscola non ha un significato
+  universale: lo stesso materiale può variare la notazione.
+QD, Q^D, Q_D [O] — Quantity Demanded — quantità domandata a un prezzo.
+QS, Q^S, Q_S [O] — Quantity Supplied — quantità offerta a un prezzo.
+D, S [O] — Demand, Supply — curve di domanda/offerta nei grafici.
+  D e S possono altrove indicare anche un prestito, un giocatore o un gruppo.
+p_b, pBuyer [O] — Buyer price — prezzo pagato da chi compra.
+p_s, pSeller [O] — Seller price — prezzo netto ricevuto da chi vende.
+U(x,y) [O] — Utility — utilità, rappresentazione ordinale delle preferenze.
+MU, MU_x [O] — Marginal Utility — utilità marginale del bene x.
+MRS [O] — Marginal Rate of Substitution — saggio marginale di sostituzione,
+  rapporto delle utilità marginali e valore assoluto della pendenza d'indifferenza.
+MRT [O] — Marginal Rate of Transformation — saggio marginale di trasformazione,
+  pendenza assoluta della PPF nel modello di produzione; nel vincolo di consumo,
+  il prezzo relativo è talvolta chiamato tasso di trasformazione/scambio disponibile.
+MRTS [A] — Marginal Rate of Technical Substitution — saggio marginale di
+  sostituzione tecnica; rapporto dei MP, pendenza assoluta dell'isoquanto.
+I [O] — Income — reddito/budget del consumatore; altrove talvolta investment.
+E [O] — Entertainment dans L3 — intrattenimento; non sempre elasticity.
+F [O] — Food dans L3 — alimentazione; altrove F=costo fisso/quota d'accesso.
+G, O [O] — Gasoline, Other goods — benzina/altri beni in L4.
+PL, PR, p_L, p_R [O] — prezzi lunch/record in A2 ; altrove i pedici
+  L/R possono indicare il tipo low o Red. Leggere sempre la definizione locale.
+ED, E^D, E_D, epsilon_D, epsilon_d [O/A] — (Own-)Price Elasticity of Demand
+  — elasticità della domanda al prezzo, in genere con segno negativo.
+epsilon_S, ES [A] — Price Elasticity of Supply — elasticità dell'offerta al prezzo.
+epsilon_ij, E_cross [A] — Cross-Price Elasticity — elasticità incrociata.
+eta, epsilon_I, E_I [A] — Income Elasticity — elasticità al reddito.
+WTP [A] — Willingness To Pay — disponibilità a pagare; per unità se marginale,
+  somma/area se totale. Una WTP totale non è automaticamente il prezzo marginale.
+Delta I [O] — compensazione/variazione di reddito; trasferimento forfettario in L4.
+p_r [O] — prezzo di un altro bene, es. raspberries ; non la r del capitale.
+T [O] — temperatura/determinante della domanda in L2 ; altrove trasferimento/imposta.
+
+18.3 Benessere, politiche ed esternalità
+CS, C.S. [O] — Consumer Surplus — surplus del consumatore.
+PS [O] — Producer Surplus — surplus del produttore; ricavo meno VC.
+W, TS [A] — Welfare, Total Surplus — benessere/surplus totale monetario.
+DWL [O] — Deadweight Loss — perdita secca, surplus netto perso.
+MB [O/A] — Marginal Benefit — beneficio marginale; WTP dell'unità successiva.
+MPC, PMC, MC_p [A/O] — Marginal Private Cost — costo marginale privato.
+MEC, MC_e [O] — Marginal External Cost — costo marginale esterno.
+MSC, SMC [A] — Marginal Social Cost — costo marginale sociale, MPC+MEC.
+MPB, PMB [A] — Marginal Private Benefit — beneficio marginale privato.
+MEB [O] — Marginal External Benefit — beneficio marginale esterno.
+MSB [O], SMB [A] — Marginal Social Benefit — beneficio marginale sociale, MPB+MEB.
+MAC [O] — Marginal Abatement Cost — costo marginale di abbattimento/riduzione
+  delle emissioni, non « marginal average cost ».
+EC, EB [A] — External Cost, External Benefit — costo/beneficio esterno TOTALE,
+  quando definito così; distinguere dai MEC/MEB marginali.
+CPR [O] — Common-Pool Resource / Common Property Resource — risorsa comune,
+  Q_CPR nel grafico L11 ad accesso libero.
+t, tau [O/A] — Unit Tax / Tariff — imposta unitaria o dazio.
+s [O] — Unit Subsidy — sussidio unitario; altrove probabilità o stato.
+T, Tax revenue [A/O] — gettito fiscale, t*Q ; importo monetario.
+Qpriv, Qopt, Qeff, Q* [O/A] — quantità privata, ottima, efficiente,
+  di equilibrio. Una stella da sola NON dice « ottimo sociale ».
+QPoll [O] — Quantity of Pollution — quantità di inquinamento in L11.
+VAT [O] — Value Added Tax — IVA; imposta ad valorem in generale, semplificata
+  in unitaria nell'esercizio E2025.
+
+18.4 Mercati, contratti e giochi
+Lerner, L_index [A] — Lerner Index — (p-MC)/p ; evitare L se L=lavoro.
+Pm, p_M, QM, Q_M [O] — prezzo/quantità di monopolio nei grafici.
+PC, p_C [O] — in L10, prezzo di COURNOT; altrove PC può voler dire
+  Perfect Competition. Il pedice va interpretato nella sua figura.
+PPT, p_PT [O] — prezzo price-taking nella figura L10 p.10.
+QC, Q_C [O] — quantità concorrenziale nei grafici di monopolio;
+  in E2025 Qc indica la quantità di biglietti del CONCERTO, non la concorrenza.
+MC_i, c_i [O] — costo marginale dell'impresa i, costante se scritto c_i.
+n [O] — numero di imprese, caffè o agenti secondo il contesto.
+BR, BR_i [A] — Best Response — miglior risposta/funzione di reazione.
+NE [A] — Nash Equilibrium — equilibrio di Nash.
+SPNE [A] — Subgame Perfect Nash Equilibrium — equilibrio perfetto nei sottogiochi.
+IC [O] — Incentive Compatibility — compatibilità degli incentivi; si
+  sceglie il contratto/l'azione che chi progetta vuole indurre.
+IR [O] — Individual Rationality — partecipazione; contratto almeno altrettanto
+  interessante dell'opzione esterna.
+H, L [O] — High/Low — tipi, qualità o sforzo; non presupporre lo stesso senso ovunque.
+B [O] — beneficio privato dello sforzo basso in E2023/A6 ; in L9 B_H
+  indica un bundle, e in L10 B=Blue.
+R [O] — ricavo nel credito; R=Red nell'oligopolio; R=Records in A2.
+F, T_j [O/A] — canone fisso, pagamento del menu j ; il loro ruolo dipende dal contratto.
+S, N [O] — Split/Steal in A3, scelte di questo compito; SN/NS/NN sono
+  profili di strategie, non nuove nozioni economiche.
+E[X] [A] — Expected Value — valore atteso di X, media ponderata degli stati.
+pH, pL [A] — probabilità di successo secondo l'azione H/L nel contratto;
+  altrove p_H,p_L sono PREZZI ai gruppi high/low.
+d [A] — probabilità di scoperta nell'esempio di ispezione; un altro
+  esercizio può usare d come pendenza dell'offerta.
+
+18.5 Commercio e matematica
+PPF, PPC [A] — Production Possibility Frontier/Curve — frontiera delle
+  possibilità di produzione, data dalla tecnologia e dalle risorse.
+OC [A] — Opportunity Cost — costo opportunità, migliore alternativa sacrificata.
+M [A] — Imports — importazioni, QD-QS in un paese importatore.
+pw, p_W [A] — World Price — prezzo mondiale dato nel modello del piccolo paese.
+ToT [A] — Terms of Trade — ragioni di scambio, prezzi export/prezzi import.
+FOC [C] — First-Order Condition — condizione del primo ordine, derivata nulla
+  all'ottimo interno; termine standard per le condizioni usate nel corso.
+SOC [C] — Second-Order Condition — condizione del secondo ordine, verifica la curvatura.
+Delta, Δ [O] — variazione finita, valore finale meno valore iniziale.
+d/dx [O] — derivata rispetto a una variabile.
+partial, ∂ [O] — derivata parziale, altre variabili mantenute costanti.
+prime, ' [O] — altra notazione di derivata, es. C'(Q).
+max/min [O] — massimizzare/minimizzare un obiettivo.
+s.t. [C] — Subject To — sotto il vincolo di.
+sqrt(x), racine(x) [O/A] — radice quadrata; x^(1/2).
+barre [O] — variabile fissata/obiettivo; stella [O] — soluzione di ottimizzazione/equilibrio.
+
+18.6 Abbreviazioni contestuali non concettuali
+SSE=Stockholm School of Economics ; BE501=codice del corso; ID=identificativo
+dello studente; AI=Artificial Intelligence ; GPT=nome di una famiglia di modelli di IA;
+US=United States ; UK=United Kingdom ; EU=European Union ; kr=corone;
+USD=dollari statunitensi; GB/LN sono nomi di attori/luoghi degli esercizi;
+HIV=virus citato come esempio di farmaco; MTB=mountain bike;
+CSCE=Conference on Security and Co-operation in Europe in A3 ;
+SFA-Oxford=fonte di un grafico; I/II/III possono essere numeri di parti.
+Queste sigle non sono formule di microeconomia.
