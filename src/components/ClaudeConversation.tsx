@@ -35,7 +35,10 @@ export function ClaudeConversation({ chat, context, quick = false }: { chat: Cha
         <div className="claude-message-text">{turn.content}</div>
         {turn.truncated && <p className="small muted">Réponse interrompue par la limite de longueur. Demande « Continue ».</p>}
       </article>)}
-      {chat.busy && <p className="claude-waiting" role="status">Claude prépare sa réponse…</p>}
+      {chat.busy && <div className="claude-waiting" role="status">
+        <span className="claude-dots" aria-hidden="true"><i /><i /><i /></span>
+        <span>Claude réfléchit…</span>
+      </div>}
     </div>
     {chat.error && <p className="claude-error" role="alert">{chat.error}</p>}
     <form className="claude-composer" onSubmit={submit}>
@@ -44,8 +47,8 @@ export function ClaudeConversation({ chat, context, quick = false }: { chat: Cha
         onChange={(event) => chat.setDraft(event.target.value)} placeholder={quick ? 'Par exemple : MEB, ça veut dire quoi ?' : 'Qu’est-ce qui te bloque dans le raisonnement ?'}
         onKeyDown={(event) => { if (event.key === 'Enter' && (event.ctrlKey || event.metaKey) && !event.nativeEvent.isComposing) submit(event); }} />
       <div className="claude-composer-bottom">
-        <span className="small muted">Sonnet 5.5 · effort moyen</span>
-        {chat.busy ? <button type="button" className="ghost" onClick={chat.stop}>Arrêter</button> : <button type="submit" className="primary" disabled={!chat.draft.trim()}>Envoyer<ArrowRight /></button>}
+        <span className="small muted">Sonnet 5.5 · effort {quick ? 'bas' : 'moyen'}</span>
+        {chat.busy ? <span className="claude-busy-actions"><span className="claude-spinner" aria-hidden="true" /><button type="button" className="ghost" onClick={chat.stop}>Arrêter</button></span> : <button type="submit" className="primary" disabled={!chat.draft.trim()}>Envoyer<ArrowRight /></button>}
       </div>
     </form>
     <div className="claude-chat-actions">

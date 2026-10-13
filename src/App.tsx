@@ -16,6 +16,7 @@ import { Mistakes } from './views/Mistakes';
 import { Sources } from './views/Sources';
 import { Claude } from './views/Claude';
 import { QuickQuestion } from './components/QuickQuestion';
+import { getClaudeStatus } from './claude';
 import { LANGS, lang, setLang, t, type Lang } from './i18n';
 
 function useRoute() {
@@ -79,7 +80,20 @@ function Backup() {
   );
 }
 
+/** Quick question needs the local server that holds the API key: shown in dev, or when a preview server answers. */
+function useClaudeServer() {
+  const [ok, setOk] = useState<boolean>(import.meta.env.DEV);
+  useEffect(() => {
+    if (import.meta.env.DEV) return;
+    const controller = new AbortController();
+    getClaudeStatus(controller.signal).then(() => setOk(true), () => setOk(false));
+    return () => controller.abort();
+  }, []);
+  return ok;
+}
+
 export default function App() {
+  const claudeServer = useClaudeServer();
   const route = useRoute();
   const p = useProgress();
   const [menu, setMenu] = useState(false);
@@ -142,7 +156,7 @@ export default function App() {
         </div>
       </nav>
       <main className="main">{page}</main>
-      {import.meta.env.DEV && <QuickQuestion />}
+      {claudeServer && <QuickQuestion />}
       <OverlayHost />
     </div>
   );
