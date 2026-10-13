@@ -1,3 +1,4 @@
+import { t } from './i18n';
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { askClaude, ClaudeError, getClaudeStatus } from './claude';
 import type { ChatMessage, ClaudeStatus } from './claude';
@@ -24,7 +25,7 @@ export function useClaude(quick: boolean) {
       if (statusRequest.current === controller) setStatus(data);
     } catch (err) {
       if (statusRequest.current === controller && !controller.signal.aborted) {
-        setStatus(null); setError(err instanceof Error ? err.message : 'Serveur inaccessible.');
+        setStatus(null); setError(err instanceof Error ? err.message : t('Serveur inaccessible.'));
       }
     } finally {
       if (statusRequest.current === controller) { statusRequest.current = null; setChecking(false); }
@@ -45,7 +46,7 @@ export function useClaude(quick: boolean) {
   async function send(context: PageContext) {
     const question = draft.trim();
     if (!question || pending.current) return;
-    if (/sk-ant-[a-zA-Z0-9_-]{10,}/.test(question)) { setDraft(''); setError('Ne colle pas de clé API dans la conversation. Le serveur la lit déjà dans le Trousseau macOS.'); return; }
+    if (/sk-ant-[a-zA-Z0-9_-]{10,}/.test(question)) { setDraft(''); setError(t('Ne colle pas de clé API dans la conversation. Le serveur la lit déjà dans le Trousseau macOS.')); return; }
     const controller = new AbortController(); pending.current = controller;
     const previous = turns;
     const next: ClaudeTurn[] = [...turns, { role: 'user', content: question, context: context.label, excerpt: context.text }];
@@ -57,7 +58,7 @@ export function useClaude(quick: boolean) {
     } catch (err) {
       if (pending.current !== controller) return;
       setTurns(previous); setDraft(question);
-      setError(err instanceof ClaudeError ? err.message : 'Envoi arrêté. Ta question est conservée.');
+      setError(err instanceof ClaudeError ? err.message : t('Envoi arrêté. Ta question est conservée.'));
     } finally {
       if (pending.current === controller) { pending.current = null; setBusy(false); }
     }
