@@ -32,7 +32,7 @@ function useRoute() {
 const NAV: { group: string; items: { href: string; label: string; key: string }[] }[] = [
   { group: '', items: [{ href: '#/', label: t('Accueil'), key: '' }] },
   { group: t('Apprendre'), items: [
-    { href: '#/learn', label: t('Comprendre'), key: 'learn' },
+    { href: '#/learn', label: t('Leçons'), key: 'learn' },
     { href: '#/lab', label: t('Graph Lab'), key: 'lab' },
     { href: '#/why', label: t('Pourquoi ?'), key: 'why' },
     // The Claude tutor needs the local dev server (it holds the API key): hidden on the static GitHub Pages build.
@@ -129,12 +129,17 @@ export default function App() {
           </div>
         ))}
         <Backup />
-        <label className="lang-pick small">
-          <span className="muted">{t('Langue')}</span>
-          <select value={lang} onChange={(e) => setLang(e.target.value as Lang)}>
-            {LANGS.map((l) => <option key={l.id} value={l.id}>{l.name}</option>)}
-          </select>
-        </label>
+        <div className="lang-pick">
+          <p className="lang-head"><span>{t('Langue')}</span><span className="lang-current">{LANGS.find((l) => l.id === lang)?.name}</span></p>
+          <div className="lang-grid" role="radiogroup" aria-label={t('Langue')}>
+            {LANGS.map((l) => (
+              <button key={l.id} type="button" role="radio" aria-checked={l.id === lang} lang={l.id} title={l.name} aria-label={l.name}
+                className={`lang-chip ${l.id === lang ? 'on' : ''}`} onClick={() => { if (l.id !== lang) setLang(l.id as Lang); }}>
+                {l.id.toUpperCase()}
+              </button>
+            ))}
+          </div>
+        </div>
       </nav>
       <main className="main">{page}</main>
       {import.meta.env.DEV && <QuickQuestion />}
