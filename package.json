@@ -16,6 +16,7 @@
     "key:delete": "security delete-generic-password -s micro-lab-anthropic"
   },
   "dependencies": {
+    "firebase": "^12.19.0",
     "react": "^19.3.0",
     "react-dom": "^19.3.0"
   },

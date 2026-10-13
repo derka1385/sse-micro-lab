@@ -8,6 +8,9 @@ await loadLang();
 const [{ default: App }, { CONTENT_ROOTS }] = await Promise.all([import('./App'), import('./content/roots')]);
 localize(CONTENT_ROOTS);
 
+// Cloud sync is optional: if Firebase cannot load (offline, blocked), the app keeps working locally.
+void import('./sync').then((s) => s.initSync()).catch(() => undefined);
+
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <App />

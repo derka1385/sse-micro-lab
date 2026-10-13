@@ -210,6 +210,47 @@ export function resetProgress() {
   set(() => empty());
 }
 
+// ——— cloud sync support (see sync.ts): merging never loses work from either side
+
+const later = <X extends { last?: number }>(a?: X, b?: X) => (!a ? b : !b ? a : (b.last ?? 0) > (a.last ?? 0) ? b : a);
+const minPos = (a?: number, b?: number) => (!a ? b : !b ? a : Math.min(a, b));
+
+/** Union of two progress histories: attempts deduplicated, per-item state keeps the most recent or most advanced. */
+export function mergeProgress(a: Progress, b: Progress): Progress {
+  const out = empty();
+  const seenAttempt = new Set<string>();
+  out.attempts = [...a.attempts, ...b.attempts]
+    .filter((x) => { const k = `${x.t}|${x.dim}|${x.item ?? ''}|${x.ok}`; if (seenAttempt.has(k)) return false; seenAttempt.add(k); return true; })
+    .sort((x, y) => x.t - y.t).slice(-5000);
+  for (const id of new Set([...Object.keys(a.lessons), ...Object.keys(b.lessons)])) {
+    const x = a.lessons[id], y = b.lessons[id];
+    if (!x || !y) { out.lessons[id] = (x ?? y)!; continue; }
+    out.lessons[id] = { block: Math.max(x.block, y.block), passed: [...new Set([...x.passed, ...y.passed])], startedAt: minPos(x.startedAt, y.startedAt) ?? 0, finishedAt: minPos(x.finishedAt, y.finishedAt) };
+  }
+  for (const k of new Set([...Object.keys(a.seen), ...Object.keys(b.seen)])) out.seen[k] = minPos(a.seen[k], b.seen[k])!;
+  for (const k of new Set([...Object.keys(a.mis), ...Object.keys(b.mis)])) out.mis[k] = later(a.mis[k], b.mis[k])!;
+  for (const k of new Set([...Object.keys(a.reviews), ...Object.keys(b.reviews)])) out.reviews[k] = later(a.reviews[k], b.reviews[k])!;
+  for (const k of new Set([...Object.keys(a.cards), ...Object.keys(b.cards)])) out.cards[k] = later(a.cards[k], b.cards[k])!;
+  out.confidence = { ...b.confidence, ...a.confidence };
+  const ex = new Map([...a.exams, ...b.exams].map((e) => [`${e.id}|${e.t}`, e]));
+  out.exams = [...ex.values()].sort((x, y) => x.t - y.t);
+  const tb = new Map([...a.teachbacks, ...b.teachbacks].map((e) => [`${e.lesson}|${e.t}`, e]));
+  out.teachbacks = [...tb.values()].sort((x, y) => x.t - y.t).slice(-50);
+  return out;
+}
+
+/** Parses a stored progress document; null when it is not a valid v1 progress. */
+export function parseProgress(json: string): Progress | null {
+  try {
+    const p = JSON.parse(json);
+    return p && p.v === 1 && Array.isArray(p.attempts) ? { ...empty(), ...p } : null;
+  } catch { return null; }
+}
+
+/** Replaces the whole state (used by sync after a merge). */
+export const replaceProgress = (p: Progress) => set(() => p);
+export const subscribeProgress = subscribe;
+
 // ——— UI overlays (drawers opened from anywhere)
 
 export type Overlay =
