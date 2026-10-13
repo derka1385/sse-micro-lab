@@ -252,6 +252,16 @@ input[type='range'] { accent-color: var(--ink); }
 .lang-chip:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
 .main { padding: 48px 48px 96px; min-width: 0; max-width: 1440px; }
 .page-head { margin-bottom: 36px; max-width: 980px; }
+.request { margin: 0 0 clamp(32px, 5vw, 56px); padding: clamp(18px, 2.4vw, 26px); background: #fff; border: 1px solid var(--rule); border-radius: 4px; display: grid; gap: 12px; }
+.request h2 { margin: 0; font-size: 24px; font-weight: 780; letter-spacing: -0.02em; }
+.request p { margin: 0; max-width: 65ch; }
+.request-kinds { display: flex; flex-wrap: wrap; gap: 6px; }
+.request-kinds .lang-chip { width: auto; padding: 7px 12px; font-family: var(--sans); font-size: 14px; }
+.request textarea { width: 100%; font: inherit; font-size: 16px; padding: 12px; border: 1px solid var(--rule); border-radius: 3px; background: var(--paper); resize: vertical; }
+.request textarea:focus { outline: 2px solid var(--ink); outline-offset: 1px; }
+.request-foot { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+.request-ok { color: var(--society); font-weight: 600; }
+.request-err { color: var(--dwl); }
 .card { padding: 26px 0 6px; margin: 0 0 22px; border-top: 1px solid var(--rule); }
 .card.subtle { color: var(--ink-2); }
 .card > h2:first-child, .card > h3:first-child { margin-top: 0; }

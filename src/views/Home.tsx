@@ -8,6 +8,7 @@ import { Rich } from '../components/text';
 import { useEffect, useState } from 'react';
 import { lang, t } from '../i18n';
 import { useSync } from '../sync';
+import { RequestBox } from '../components/RequestBox';
 import { activeMisconceptions, dueReviews, isMastered, lessonState, mastery, useProgress, type Progress } from '../store';
 
 const DIM_MODE: Record<Dim, { href: string; text: string }> = {
@@ -158,6 +159,8 @@ export function Home() {
         </ol>
         <p className="small"><a href="#/learn">{t('Voir les 13 thèmes et leurs leçons guidées')}</a></p>
       </section>
+
+      <RequestBox />
 
       <section className="card subtle">
         <h2>{t('Comment ce labo fonctionne')}</h2>
