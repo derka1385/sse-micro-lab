@@ -2,6 +2,8 @@
 import { readFile } from 'node:fs/promises';
 import { parseEnv } from 'node:util';
 import { fileURLToPath } from 'node:url';
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
 
 const ROOTSIGHT_ENV = fileURLToPath(new URL('../../rootsight/server/.env', import.meta.url));
 const MODEL = 'claude-sonnet-5-5';
@@ -21,16 +23,29 @@ class ApiError extends Error {
   constructor(status, message) { super(message); this.status = status; }
 }
 
+const KEYCHAIN_SERVICE = 'micro-lab-anthropic';
+
+/** macOS Keychain: the key stays encrypted at rest and never sits in a project file. */
+async function keychainKey() {
+  if (process.platform !== 'darwin') return '';
+  try {
+    const { stdout } = await promisify(execFile)('/usr/bin/security', ['find-generic-password', '-s', KEYCHAIN_SERVICE, '-w'], { timeout: 5000 });
+    return stdout.trim();
+  } catch { return ''; }
+}
+
 async function credential() {
-  // Read only the key; ignore RootSight's PORT, USE_MOCK and model settings.
+  // Order: server environment, then macOS Keychain, then RootSight's .env (only its key is read).
   if (process.env.ANTHROPIC_API_KEY?.trim()) {
     return { key: process.env.ANTHROPIC_API_KEY.trim(), source: 'Environnement du serveur' };
   }
+  const fromKeychain = await keychainKey();
+  if (fromKeychain) return { key: fromKeychain, source: 'Trousseau macOS' };
   try {
     const env = parseEnv(await readFile(process.env.ROOTSIGHT_ENV_FILE || ROOTSIGHT_ENV, 'utf8'));
     return { key: env.ANTHROPIC_API_KEY?.trim() || '', source: 'RootSight · server/.env' };
   } catch {
-    return { key: '', source: 'RootSight · server/.env' };
+    return { key: '', source: 'Trousseau macOS (vide)' };
   }
 }
 
@@ -92,7 +107,7 @@ function messagesFor(input, key) {
 }
 
 function upstreamError(status) {
-  if (status === 401 || status === 403) return 'Anthropic refuse la clé du serveur. Vérifie la clé et ses permissions dans RootSight.';
+  if (status === 401 || status === 403) return 'Anthropic refuse la clé du serveur. Remplace-la avec npm run key:set.';
   if (status === 404) return 'Sonnet 5.5 n’est pas accessible avec cette clé. Vérifie l’accès au modèle dans la console Anthropic.';
   if (status === 429) return 'Limite d’utilisation Anthropic atteinte. Attends un peu avant de réessayer.';
   if (status === 400 || status === 402) return 'Anthropic a refusé la demande. Vérifie les crédits API et l’accès à Sonnet 5.5.';
@@ -109,7 +124,7 @@ export function claudeMiddleware() {
     if (req.method !== (path.endsWith('/status') ? 'GET' : 'POST')) return json(res, 405, { error: 'Méthode non autorisée.' });
     const { key, source } = await credential();
     if (path.endsWith('/status')) return json(res, 200, { configured: !!key, model: MODEL, effort: EFFORT, source });
-    if (!key) return json(res, 503, { error: 'Clé absente : renseigne ANTHROPIC_API_KEY dans le fichier server/.env de RootSight.' });
+    if (!key) return json(res, 503, { error: 'Clé absente : enregistre-la avec npm run key:set (Trousseau macOS).' });
     if (!req.headers['content-type']?.startsWith('application/json')) return json(res, 415, { error: 'Une demande JSON est attendue.' });
     if (active) return json(res, 409, { error: 'Une réponse est déjà en cours. Attends sa fin ou arrête-la.' });
     active = true;

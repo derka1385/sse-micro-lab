@@ -45,7 +45,7 @@ export function useClaude(quick: boolean) {
   async function send(context: PageContext) {
     const question = draft.trim();
     if (!question || pending.current) return;
-    if (/sk-ant-[a-zA-Z0-9_-]{10,}/.test(question)) { setDraft(''); setError('Ne colle pas de clé API dans la conversation. Le serveur lit déjà celle de RootSight.'); return; }
+    if (/sk-ant-[a-zA-Z0-9_-]{10,}/.test(question)) { setDraft(''); setError('Ne colle pas de clé API dans la conversation. Le serveur la lit déjà dans le Trousseau macOS.'); return; }
     const controller = new AbortController(); pending.current = controller;
     const previous = turns;
     const next: ClaudeTurn[] = [...turns, { role: 'user', content: question, context: context.label, excerpt: context.text }];

@@ -10,7 +10,10 @@
     "preview": "vite preview",
     "check": "node scripts/check.ts",
     "check:lessons": "node scripts/check-lessons.mjs",
-    "i18n:dossier": "node scripts/i18n.mjs dossier"
+    "i18n:dossier": "node scripts/i18n.mjs dossier",
+    "key:set": "security add-generic-password -U -a \"$USER\" -s micro-lab-anthropic -w",
+    "key:check": "security find-generic-password -s micro-lab-anthropic >/dev/null && echo 'Clé présente dans le Trousseau (valeur non affichée).'",
+    "key:delete": "security delete-generic-password -s micro-lab-anthropic"
   },
   "dependencies": {
     "react": "^19.3.0",
