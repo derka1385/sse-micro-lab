@@ -1,0 +1,149 @@
+======================================================================
+11. EXTERNALITÉS, POLLUTION, BIENS PUBLICS ET COMMUNS — L11
+======================================================================
+
+11.1 Privé, externe, social
+Externalité : effet sur un tiers, non pris en compte dans la transaction.
+Négative : pollution, bruit ; positive : vaccination, recherche, réseau.
+MPC / PMC = marginal private cost, coût marginal privé.
+MEC = marginal external cost, coût marginal externe, DOMMAGE supplémentaire.
+MSC / SMC = marginal social cost = MPC+MEC.
+MPB / PMB = marginal private benefit, bénéfice marginal privé.
+MEB = marginal external benefit, bénéfice externe supplémentaire.
+MSB / SMB = marginal social benefit = MPB+MEB.
+La notation MC_p et MC_e d'E2024 désigne respectivement MPC et MEC.
+MEC(Q) est un coût MARGINAL ; le coût externe TOTAL est son intégrale,
+pas MEC(Q) lui-même. Si MEC constant e, dommage total=eQ.
+Si MEC(Q)=Q, dommage total=Q^2/2, pas Q^2.
+
+Équilibre privé concurrentiel : MPB=MPC.
+Optimum social : MSB=MSC.
+Externalité négative de production seule : demande=MPB=MSB et offre=MPC ;
+le marché produit trop. Externalité positive de consommation seule :
+demande=MPB, MSB au-dessus ; le marché produit trop peu.
+La règle universelle est MSB=MSC ; la distinction production/consommation
+détermine le côté du graphique à ajuster.
+
+11.2 Mesurer W et DWL
+W(Q)=intégrale_0^Q [MSB(q)-MSC(q)]dq, moins coûts fixes réels pertinents.
+DWL=W(Qeff)-W(Qobservé) : aire entre MSB et MSC sur l'intervalle d'écart.
+Avec externalité négative : W=CS+PS+recette fiscale-dommage externe total.
+Avec positive : W=CS+PS-dépense de subvention+bénéfice externe total.
+La taxe/subvention est un transfert ; les dommages/bénéfices sont des effets
+réels sur les tiers. Le « societal producer surplus » de L11 inclut les
+dommages des tiers ; il diffère du PS privé des seules firmes.
+
+L11 p.5–8 et E2023 : MPB=100-Q,MPC=10+Q,MEC=Q,MSC=10+2Q.
+Privé : Q45,p55. Social : Q30,MPB70,MPC40,MEC30.
+DWL non régulé=0.5*(45-30)*45=337.5.
+À Q45 : MSC100,MSB55 ; hauteur45. Au social, un prix acheteur70 et un
+prix vendeur40 peuvent être reliés par la taxe optimale30.
+
+11.3 Pigou et intervention imparfaite
+Taxe corrective t*=MEC(Qeff), dans le cas d'une externalité négative
+non déjà internalisée et d'un marché autrement concurrentiel.
+Subvention corrective s*=MEB(Qeff), cas positif analogue.
+Évaluer la valeur marginale à la QUANTITÉ EFFICIENTE, pas automatiquement
+à la quantité initiale. Si l'externalité dépend de Q, t* n'est pas arbitraire.
+Une taxe peut réduire une DWL préexistante. Une subvention excessive peut
+dépasser Qeff et recréer une DWL. Toujours comparer au social, pas au privé.
+
+Exemple négatif ci-dessus, taxe20 : 100-Q=10+Q+20 ->Q35,
+p_b65,p_s45. Q reste au-dessus de30 : DWL=0.5*5*15=37.5.
+Taxe optimale30 ->Q30,DWL0 dans ce modèle.
+E2024 textiles : demande200-Q,MPC80+Q,MECQ ->Qpriv60,Qeff40,
+DWL0.5*20*60=600 ; taxe optimale40.
+A6 solaire : MPB100-3Q,MPC10+2Q,MEB20 ->Qpriv18,p46,
+MSB120-3Q ->Qeff22, subvention20 ; DWL non corrigée40.
+Prix acheteur à Q22=34 ; vendeur54 ; écart20.
+
+11.4 Pollution et abattement : regarder l'axe horizontal
+MAC=marginal abatement cost, coût marginal de réduction de la pollution.
+Si l'axe est l'ABATTEMENT a : MAC augmente souvent quand a augmente.
+Si l'axe est la POLLUTION e restante : MAC de la réduction suivante est
+souvent décroissant en e. Les deux graphiques sont compatibles.
+Optimum : coût de réduire une unité = dommage de cette unité, MAC=MEC.
+Taxe sur émissions : firme choisit MAC=t ; taxe optimale=MEC à l'optimum.
+L11 p.13 : sur l'axe pollution Q, MAC=10-Q, MEC=Q/2.
+Sans taxe Q10 ; taxe2 ->MAC2 ->Q8, MEC4. Ce n'est pas l'optimum :
+optimum Q=20/3≈6.667, taxe10/3≈3.333.
+Une taxe par OUTPUT n'est équivalente à une taxe par ÉMISSION que si
+l'émission par unité est fixée ; sinon taxer directement l'émission peut
+encourager aussi une technologie plus propre.
+
+11.5 Quotas, permis et incertitude
+Quota : fixe une quantité d'émission. Taxe : fixe le prix de polluer.
+Permis échangeables : plafond total et droits transférables.
+Si MAC_L<MAC_H au partage initial, L réduit plus ses émissions et vend
+des permis ; H achète et réduit moins. Gain tant que MAC diffèrent.
+À l'intérieur, MAC_L=MAC_H=prix du permis : même plafond atteint à coût
+minimal. L'allocation initiale affecte les rentes, pas nécessairement
+l'allocation finale efficiente sous échange sans frictions.
+Quota identique par firme ne minimise généralement pas le coût total.
+
+E2021 Q1d, complément « prices versus quantities » : coûts d'abattement
+incertains et dommages marginaux très raides ->quota/plafond protège mieux
+contre une forte erreur sur la quantité d'émissions. Dommages marginaux
+relativement plats et MAC raides ->taxe peut mieux éviter un coût excessif
+de respect du quota. Argument de pentes RELATIVES autour de l'optimum,
+pas règle « quotas toujours meilleurs ». Dessiner deux MAC possibles.
+
+11.6 Coase et droits de propriété
+Droits bien définis et négociation sans coût ->parties peuvent négocier
+une quantité efficace, quelle que soit l'attribution initiale des droits,
+sous les hypothèses du théorème. L'attribution change qui paie et les revenus.
+Intuition : gains à un accord lorsqu'une réduction du dommage vaut plus
+que le profit qu'elle fait perdre ; négocier jusqu'à disparition du gain.
+Coûts de transaction : temps, contrats, contrôle, grand nombre de parties,
+passagers clandestins, coordination et normes sociales. Ils peuvent bloquer
+les accords. Droit incertain ->condition du théorème non remplie.
+Rassembler pollueur et victime sous un propriétaire peut internaliser
+l'effet, mais un propriétaire devenu monopoliste peut introduire une autre
+distorsion ; ne pas conclure automatiquement à la quantité concurrentielle
+socialement optimale. E2024 Q3d et E2025 Q1c.
+
+11.7 Quatre catégories de biens
+Excluable : on peut empêcher l'accès. Rival : l'usage d'une personne
+réduit les possibilités des autres.
+                       Excluable                  Non excluable
+Rival                  Bien privé                 Ressource commune
+Non rival              Bien de club               Bien public pur
+Privé : sandwich. Club : abonnement/service non congestionné.
+Commun : pêche en libre accès ; spectre avec interférences (E2023).
+Public : défense, recherche fondamentale diffusée, nettoyage de rue
+dans le modèle de l'exercice. La congestion et les règles d'accès peuvent
+changer la classification. Une route/tunnel n'est pas toujours un bien
+public pur : péages possibles et rivalité lorsque congestionné.
+
+11.8 Bien public : sommation VERTICALE
+Tout le monde bénéficie du même Q. MB_social(Q)=somme_i max(0,MB_i(Q)).
+Optimum intérieur : somme MB_i=MC, condition de Samuelson (nom standard,
+non nécessairement employé dans les slides).
+Tronquer chaque WTP négative à0 si le bien est simplement non désiré au-delà
+d'une quantité ; si le bien fait réellement du tort, le modèle change.
+Identifier les seuils où chaque MB s'annule, puis vérifier le segment.
+Free rider : bénéficier même sans payer ->incitation à sous-contribuer et
+à sous-révéler sa WTP. Fourniture volontaire généralement insuffisante,
+pas nécessairement nulle. Impôt obligatoire/normes peuvent aider.
+
+L11 p.25 : MB_L=10-h, MB_H=20-h.
+Pour h<=10 : somme30-2h. MC26 ->h2 ; MC14 ->h8.
+À MC14, H seul financerait h6, sous l'optimum collectif8.
+À MC26, aucun individu seul ne finance même si h2 est collectivement utile.
+E2024 tunnel : MB1=10-Q,MB2=5-Q,MB3=10-2Q,MC9.
+Sur Q<=5, somme25-4Q ; Qeff4, toutes WTP positives à4.
+E2025/A6 nettoyage : MB15-Q,12-Q,9-Q ; somme36-3Q ; MC27 ->Qeff3.
+E2022 wifi : 300 personnes MB10-Q ; 300(10-Q)=1500 ->Qeff5.
+Ne pas écrire Q=300(10-p) pour ce bien public : chaque personne consomme
+la MÊME vitesse et non une fraction individuelle de la vitesse.
+
+11.9 Ressource commune et accès libre
+Chaque utilisateur impose aux autres une rareté/congestion qu'il ignore.
+Tragedy of the commons : usage excessif, pas absence de valeur de la ressource.
+Exemple pêche L11 : recette moyenne par bateau vs coût individuel ; entrée
+jusqu'à recette moyenne=coût, alors que l'optimum utilise le produit
+marginal SOCIAL d'un bateau supplémentaire. La pêche totale peut se dégrader
+avec trop de bateaux. Ne pas utiliser MP et AP comme synonymes.
+Solutions : droits de propriété, restrictions de quantité, permis,
+redevance, règles locales et normes dans des interactions répétées.
+Free rider du bien public = sous-contribution ; commun = surexploitation.

@@ -1,0 +1,214 @@
+u7mxoagap Du är kandidaten med kostnad 60: nöj dig inte med den utannonserade lönen 100, dra av kostnaden för att skaffa examen.
+244urxrnkv6 Lönen stiger från 60 till 100 med examen. Vilken kostnad gör en kandidat indifferent?
+bk6gv3a7bq 100−C=60 ⇒ C=40. Vid denna tröskel har kandidaten ingen strikt preferens.
+19ta0dw6j5d Varför räcker inte ”signalen är dyr”?
+1au8hb4l71c Incitamenten måste skilja sig mellan typerna
+1e307remc74 Om alla typer vill imitera den skiljer den inte typerna åt.
+1pl29mt5eme En signal måste alltid vara gratis
+1n8cuoxr3fq En kostnad som skiljer sig mellan typer kan just ge den trovärdighet.
+1fcwg9v5nj9 Ägaren kan inte beordra en osynlig ansträngning
+nacul9nyp Du sköter en butik åt en ägare. Att arbeta mer kostar dig 10 och förbättrar intäkten, men resultatet beror också på ett bra eller dåligt tillstånd. Ägaren ser intäkten men inte din ansträngning fullt ut: hen måste ge dig ett skäl att anstränga dig i stället för att förutsätta det.
+1ssmkvgi0z2 Principal-agent: agenten väljer en dold ansträngning; principalen föreslår ett kontrakt. H ger 40/100 med lika sannolikhet, L: 20/40; förväntade intäkter 70 och 30.
+26s9uv8dfti Även med H är ett dåligt resultat möjligt: resultatet identifierar inte handlingen fullt ut.
+nuej9ag8yt Det totala överskottet H=70−10=60 överstiger L=30, men denna kollektiva rangordning bestämmer inte automatiskt agentens val.
+18dxunvmzuo H: 0,5×40+0,5×100=70; L: 0,5×20+0,5×40=30. Ansträngningen tillför 40 i förväntad intäkt för en kostnad på 10.
+156sggslp12 Du väljer ansträngning utifrån din egen nettoersättning; ägarens vinst betalar inte automatiskt för din trötthet.
+jdxtpthzyo Under H intäkt 40 eller 100 med lika sannolikhet och ansträngningskostnad 10: vilket förväntat totalt överskott?
+g83kh6bqn1 0,5×40+0,5×100−10=60. En eventuell lön är en transferering mellan ägare och agent.
+m82p3sy9sn 70 är den förväntade intäkten; den faktiska ansträngningskostnaden 10 måste dras av.
+rs3qe36dit En fast lön skyddar mot risk men belönar inte ansträngning
+1e0dzn1sz3c Ägaren betalar dig w oavsett omsättning. Du får samma lön oavsett om du arbetar mycket eller lite, men H kostar dig 10 mer. I denna modell utan annan motivation väljer du L; att skriva den förväntade intäkten 70 för ägaren vore därför inkonsekvent.
+1uvsg48lxov Med fast lön: U_H=w−10<U_L=w. Ägaren får 30−w och bär intäktsrisken.
+2edsw1ijzcu Skillnaden i intäkt ändrar inte din lön, så den kompenserar inte din ansträngningskostnad.
+uqlqv0w424 Detta resultat förutsätter att det saknas andra incitament eller motiv; det beskriver inte automatiskt varje verklig anställd.
+2ay8bxerlwp Om w=20: H ger dig 10, L ger dig 20. Du väljer L; ägaren får i förväntan 30−20=10.
+2dx8cvztyj0 Du frågar ”ändrar en extra euro i intäkt min ersättning?”. Med denna fasta lön är svaret nej.
+1ub17q3sj92 Med fast w och kostnad H=10, L=0, vilken ansträngning är optimal för agenten?
+15zmou98ojn H, eftersom den maximerar den totala intäkten
+1fcj2daflfm Agenten får inte denna extra intäkt. Jämför agentens privata vinster.
+gcrtw2fb1v L, eftersom lönen förblir densamma och ansträngningen kostar mindre
+vvmkeyxs73 w>w−10; principalens intäkt ska sedan beräknas med L.
+21jl4wtr4ac Intäktsdelning ger ansträngningen en privat avkastning
+1gpxhmvkov3 Ägaren erbjuder dig nu halva intäkten. Genom att arbeta mer får du en del av den extra omsättningen. Du accepterar också att din ersättning varierar med chockerna: incitamentet kommer tillsammans med riskexponering.
+77q5vu7az4 Delning 50/50: U_H=0,5×70−10=25; U_L=0,5×30=15. H blir incitamentsförenligt; ägaren får 35.
+1a4fvgeoiuk Ansträngningen tillför 40 i förväntad intäkt, varav du behåller 20; det täcker din kostnad på 10.
+1vcea0czgcl En jämförelse av väntevärden räcker här under riskneutralitet; riskaversion skulle kunna ändra om kontraktet accepteras.
+3ss8c5r7uf Under H är din nettovinst 10 i det dåliga tillståndet (20−10) och 40 i det goda (50−10), alltså 25 i förväntan.
+1877v88citi Du sköter butiken: ansträngningen ger dig nu 20 i extra förväntad ersättning för en kostnad på 10.
+28ouo5t2uhf Vem gynnas av ansträngningen?
+2901249h8as förväntade €
+1r4lmpng1kj Riskneutral agent; ansträngning H kostar 10 och ger 40/100 med sannolikhet 1/2; ansträngning L kostar 0 och ger 20/40 med sannolikhet 1/2. Delning 50/50.
+17yz9b8aqse Agent H: 0,5×70−10
+250ga046w0s Agenten får hälften av intäktsökningen men betalar hela sin ansträngningskostnad.
+16yofhfh3ax Agent L: 0,5×30
+1bdbwfitbhc Ingen ansträngningskostnad; lägre inkomst.
+2eonin2eh1d Ägare om H
+1d7ydijbee Den andra hälften av den förväntade intäkten 70.
+3s70lfukax Totalt överskott H: 70−10
+13nbopazdt9 Den monetära fördelningen är ingen förlorad resurs.
+1dc2r6y8bjz Vilken förväntad nettovinst får agenten med 50 % av intäkterna H=(40,100), ansträngningskostnad 10?
+1mv4o4a6hoa 35 är agentens andel av intäkten före ansträngningskostnaden.
+19us6fwui20 60 är det totala överskottet; ägaren behåller också en del av det.
+1xxenf6294c Starka incitament räcker inte om ingen accepterar kontraktet
+tk0keasvl0 Du kan betala en fast avgift F och behålla hela intäkten. Varje intäktsökning tillhör dig, så H ger 60−F mot 30−F under L. Men om F är för hög lämnar även den bästa ansträngningen dig mindre än ditt utomstående alternativ; du tackar nej till kontraktet.
+2bsg8bi0p10 IC = incentive compatibility: välja den önskade handlingen. IR = individual rationality: föredra att delta framför sitt utomstående alternativ. Den fasta avgiften för över risken till agenten.
+xdwze0womn F tar ut sig själv i jämförelsen H/L, så den ändrar inte detta incitament vid given ansträngning.
+2ddw42v0ujm F tar inte ut sig själv när du jämför kontraktet med att inte skriva under: den minskar din nettovinst av att delta.
+sxv6owmuo5 Med utomstående alternativ 15 och riskneutralitet: 60−F≥15 ⇒ F≤45. F=50 behåller H som bästa ansträngning men ger bara 10: kontraktet avvisas.
+1u72vud5tcs Innan du skriver under, ställ två frågor: ”vad gör jag om jag skriver under?” och sedan ”lönar det sig för mig att skriva under?”.
+5gzkjfuf8 Om H ger 60−F och ditt utomstående alternativ är 15, vilken högsta avgift uppfyller IR?
+163k5lrgo5 60−F≥15 ⇒ F≤45. Vid 45 svagt deltagande med indifferens.
+yrkubo5vq9 F=50 inducerar H men ger 10 mot ett utomstående alternativ på 15. Vilket problem kvarstår?
+1gl1e5qstn5 IR är inte uppfyllt
+1ymns94fkmx Agenten tackar nej, trots att hen skulle välja H om hen skrev under.
+1liz78e1563 IC är nödvändigtvis inte uppfyllt
+ig7kwhmist H ger 10 och L −20: H förblir den bästa ansträngningen.
+1nuls7gd6p9 Entreprenören ser till vad som blir kvar efter återbetalningen
+1buvrv47hyr Banken lånar ut 20 till ett projekt som ger 40 vid framgång, annars noll. Den kräver 30 endast vid framgång. Med H lyckas du med sannolikhet 0,8; med L bara 0,4, men L ger dig en privat nytta b som banken inte får.
+sj65d8emv7 Begränsat ansvar: U_H=p_H(R−B), U_L=p_L(R−B)+b. Den utlovade återbetalningen B betalas endast vid framgång.
+1791xujllo1 Att höja återbetalningen minskar den vinst du behåller när din ansträngning lyckas.
+2f82dkobdol En privat nytta kan göra låg ansträngning attraktiv även om projektet skapar mindre värde för banken.
+aq3vkx1zy5 R−B=10. H ger 0,8×10=8. L ger 0,4×10+b=4+b: med b=2 ger H 8 mot 6; med b=6 ger L 10 mot 8.
+1yly10k1khf Du är låntagare: räkna ut din vinst för varje handling innan du räknar ut bankens.
+z9n1h5fsb5 Den nominella återbetalningen väljer inte ansträngningen åt dig
+1gcg6vya7p9 R=40, p_H=0,8, p_L=0,4, återbetalning vid framgång B=30, lån D=20, privat nytta b=6. Låntagaren väljer L: då måste man använda p_L för banken.
+n0wj1c5sks Entreprenör H: 0,8×10
+xwx1gfyu6j Residualintäkt på 10 vid framgång.
+fdspwa1ftt Entreprenör L: 0,4×10+6
+eqqoy4txyu Den privata nyttan 6 gör L att föredra.
+ep9at6mfdm Bankens faktiska intäkt: 0,4×30
+18qegyt6a5g Sannolikheten för framgång beror på den faktiskt valda handlingen.
+1ebypqi4l2w Utbetalt lån
+o4qjbxj43h Med intäkt 12 förlorar banken 8; dessa 20 är inte dess vinst.
+29ltto0ogc4 Med R=40, B=30, p_L=0,4 och b=6, vilken vinst ger L entreprenören?
+15hy6ckwzcl 0,4×(40−30)+6=10; det är mer än U_H=8.
+u3v1waf010 Den privata nyttan 6 från L saknas.
+1dcw15o520t 12 är bankens förväntade intäkt om L väljs, inte låntagarens vinst.
+1z0bcxjlk85 Incitamentsformeln framträder när man jämför de två valen
+11cyjd626mv För att välja H måste du vinna mer på den högre sannolikheten för framgång än den privata nytta du avstår. Återbetalningen minskar din vinst vid framgång, så den kan till slut förstöra din ansträngning. Banken kan inte förutsätta H för att motivera en återbetalning som just får dig att välja L.
+29zqs6ynoy0 IC_H: (p_H−p_L)(R−B)≥b. Bank: p_vald B−D; sannolikheten måste motsvara den faktiskt valda handlingen.
+1ap29drnzt3 Vilken jämförelse garanterar att H är minst lika bra som L?
+8ppl4ygybh De fullständiga privata vinsterna jämförs, inklusive nyttan av L.
+r8c89eypx3 Bara p_H B ≥ D
+2bouo19oyrg Det kontrollerar banken under H utan att visa att låntagaren väljer H.
+nl9cl527no Vid b=6 och B=30 kräver IC 0,4×10≥6: falskt.
+28ndfav5v7n Med L faller bankens intäkt till 12, trots det nominella löftet 30; netto efter lånet på 20 är vinsten −8.
+1nefhxc4cv1 Om b=2 väljs H och banken tjänar 0,8×30−20=4. Om b=6 väljs L och den förlorar 0,4×30−20=−8.
+1gesa78bufp Du är bankir: ett högre löfte på papperet innebär inte nödvändigtvis en högre förväntad återbetalning.
+1mc7o37cqn1 För b=6, R=40, B=30, D=20, p_H=0,8, p_L=0,4, vilken bankvinst induceras faktiskt?
+1nrqxbv7mzu L ger entreprenören 10 mot 8 under H. Banken använder alltså p_L: 0,4×30−20=−8.
+z2dvjz8qf8 4 använder felaktigt p_H: IC_H håller inte.
+66upyarz1d 12 är den förväntade bruttoåterbetalningen; lånet på 20 är en kostnad för banken.
+1oh6jrl160e Eget kapital kan återställa ansträngningen — utan att radera dess kostnad
+22bovktw23v Du satsar 10 av egna pengar, så banken lånar bara ut 10 och kräver 15 vid framgång. Du har 25 kvar vid framgång: den privata belöningen för framgång blir åter stor nog för att leverera H, även med b=6. När din vinst mäts från före investeringen måste insatsen dras av i båda handlingarna.
+25mjx29okwf Med B=15: U_H=0,8×25=20; U_L=0,4×25+6=16, före avdrag av A=10. Bank=0,8×15−10=2. Entreprenörens nettovinst under H=10.
+1rbzwlmhwd0 Insatsen minskar lånebehovet; den lägre återbetalningen lämnar mer av framgångsvinsten till agenten.
+13kyxm5vu00 En redan betald kostnad tar ut sig själv i jämförelsen av ansträngning vid givet kontrakt, men inte i den totala nettovinsten av att delta.
+1uh5rijmtr5 Utan insats och med b=6: IC_H kräver B≤40−6/0,4=25. En lönsam bank under H kräver B≥20/0,8=25; vid B=25 är agenten indifferent, så H kräver en regel för indifferens.
+1vm95kne6zz Du drar inte av din insats bara när du arbetar hårt: du betalar in den före valet av handling i båda scenarierna.
+1mbiwzk92d7 Insats 10, lån 10, B=15, R=40, b=6: vilken bankvinst om entreprenören väljer sin bästa ansträngning?
+2cf99cfntel H ger 20 mot 16 före insatsen, alltså H; bank 0,8×15−10=2.
+29cuk22gutc Vilken nettovinst får entreprenören under H, med insatsen 10 redan inräknad?
+72zay5ykg1 20 är vinsten före avdrag av den ursprungliga insatsen 10.
+1zw3e8zyuqw Ett vite ändrar den privata kalkylen för låg kvalitet
+tl6g6jj6zd Städfirman får 110. Hög kvalitet kostar den 100; låg 70, men en inspektion upptäcker försämringen med sannolikhet 0,5 och utlöser ett vite F. Betalningen som är gemensam för båda valen avgör inte incitamentet: jämför kostnadsbesparingen med den förväntade sanktionen.
+1b7bjpbczkw H: vinst 10. L: vinst 40−0,5 F. Svag IC: F≥60; H strikt föredraget för F>60, förutsatt att vitet kan betalas och riskneutralitet.
+1bzr90jbyko Att välja L sparar 30; inspektionen utlöser vitet bara varannan gång.
+1ghwedtbcz3 F=60 tar i förväntan 30 från L och jämställer dess vinst med H:s: utan en extra regel väljer det inte H strikt.
+2vg7tpwrhj F = 60: L ger 40−30 = 10 = H. F = 70: L ger 5 < H = 10. Deltagandet ska fortfarande jämföras med det utomstående alternativet.
+8nw1sr0gz4 Du är leverantör: räkna ut den förväntade kostnaden för att fuska, inte bara vitets angivna belopp.
+1lpwsn9ty5t Kostnad H = 100, L = 70, upptäcktssannolikhet 0,5: vilket minsta vite säkerställer svag IC?
+26w01tifnz1 (100−70)/0,5=60. Vid 60 råder indifferens; över 60 för strikt H.
+fnh0dpz5cj 30 är kostnadsbesparingen; med en chans på två att upptäckas måste F vara dubbelt så stort.
+1i3bjdio240 Vid F=60, är H strikt bättre?
+1usv7db5y7j Nej, vinsterna är lika
+1i0lg562yoh Ja, så snart IC är uppfyllt
+1l9zv03608h En svag olikhet tillåter indifferens.
+1k8fypkuqij En resultatbonus innebär inte automatiskt en konflikt
+ampauqegkd En chef väljer mellan två riskfyllda projekt. Du kanske tror att en bonus som bara betalas på vinster nödvändigtvis driver chefen mot fel projekt. Räkna först väntevärdena: med tentans siffror är det projekt chefen föredrar också det som ger ägarna mest.
+2034vvexgld E2020: A ger 100 med 0,75 och 80 med 0,25; B: 400 med 0,75 och −160 med 0,25. Bonus 1 % av positiva vinster, noll vid förlust.
+1lw0sfvesyn A ger bruttovinst 95, bonus 0,95, netto 94,05. B ger bruttovinst 260, bonus 3, netto 257.
+1bmd0etrbaz Bonusen och nettovinsten rangordnar båda B först under riskneutralitet; enbart datan visar alltså inte ett val som strider mot ägarens intresse.
+6xm5clzo6o B: 0,75×400+0,25×(−160)=260; bonus 0,75×4+0,25×0=3; netto 257.
+1unm3yj1hp5 Du rättar ditt svar: ersätt ”bonusar orsakar nödvändigtvis överdriven risk” med en jämförelse av valen i denna uppgift.
+2dux383357m Vad kan man dra för slutsats med dessa siffror och under riskneutralitet?
+27q7ztm973l En konflikt A/B är bevisad
+15js3igpeyb Chefen väljer B, och B maximerar också nettovinsten 257.
+2gbwugskl0c Valen är samstämmiga här, även om andra siffror kan skapa en konflikt
+utw3kuossq Den potentiella mekanismen ersätter inte beräkningen av de givna vinsterna.
+1pyy7vamibn Projekt B ger en negativ förväntad vinst
+u7inym9uto Motparten kan inte bara villkora kontraktet på det den inte vet.
+251qbj1ly1 En bra bil kräver ett annat pris; en ansträngning kostar den som levererar den.
+ui4k2ckmad Varje agent väljer det alternativ som maximerar den egna vinsten, inte det förmodade överskottet.
+1wdj4k6kqxa De kvarvarande säljarna ändrar medelkvaliteten; den faktiskt inducerade ansträngningen ändrar p.
+202a9adw8ql Ett kontrakt måste inducera det beteende som används i beräkningarna och accepteras av parterna.
+1wcc9e0l9p0 En dold typ kan driva ut bra bilar vid ett genomsnittspris: det är snedvridet urval. En dold ansträngning svarar på den erbjudna betalningen: det är moral hazard. Vid kredit jämför låntagaren p_H(R−B) med p_L(R−B)+b. Om B lämnar för lite av framgången åt låntagaren kan L bli att föredra; banken måste då använda p_L, inte p_H. IC garanterar det önskade valet, medan IR kräver en vinst minst lika stor som det utomstående alternativet. Båda behövs.
+2fvkuyi082l En information eller handling är inte observerbar
+bvzzg8xq57 Typerna eller handlingarna ändrar de privata vinsterna
+6kn5cdxufq Kontraktet väljer ut eller ger incitament
+o85nsg58ml Resultatet ändrar föreställningarna eller sannolikheten för framgång
+2fc2d4iz7dc Man kontrollerar IC, sedan IR och lönsamhet
+1joacmutdc Förklara för en vän skillnaden mellan dold typ och dold ansträngning. Använd krediten för att visa varför ”banken får tillbaka 30” inte räcker, och skilj sedan på IC och IR.
+80l7hnqlhp Namnge den dolda informationen
+176srikuz0d Typ/kvalitet för adverse selection, handling/ansträngning för moral hazard.
+27jyteurc6r Jämföra agentens vinster
+gil32y0ljp H och L måste inkludera resten efter återbetalning och den privata nyttan.
+rbbgulogzk Härleda ansträngningen
+1hnxjrsrskc IC gör H minst lika bra som L; man förutsätter det inte.
+4udlmx2vdz Använda den sanna sannolikheten
+1wxc6qt6fjv Bankens vinst beror på det faktiskt valda beteendet.
+19knkf5mnz7 Kontrollera accepterandet
+1efpahtc3v IR jämför kontraktet med det utomstående alternativet.
+28u5hnm97su Den dolda typen väljer ut deltagarna; den dolda handlingen är ett val som påverkas av kontraktet.
+zresp3p66q Skriv först U_H och U_L. Banken kan använda p_H bara om H faktiskt induceras.
+1ylxra6pq5t IC jämför de erbjudna handlingarna eller kontrakten; IR jämför deltagande med det utomstående alternativet.
+1z0lthf0ilb Övning rekonstruerad efter A6/L12/E2023; beräkningar kontrollerade i dossiern. Frågorna och modellsvaret är pedagogiska, inte en officiell lösning.
+12pq4nz16pp H=0,8×10=8; L=0,4×10+6=10, hence L. Bank=0,4×30−20=−8.
+20qs10o2t9l H before equity 20>L=16. Entrepreneur 20−10=10; bank 0,8×15−10=2.
+1279ubhtnd2 Vem initierar en signal?
+2a03fdtatro Den informerade parten
+1v8rspx425b Den väljer en observerbar handling som kan avslöja dess typ.
+1exnbzvj1op Alltid staten
+q23bzikh1t Signalen kan vara en examen, en garanti eller en handling av en privat aktör.
+7e9rvnwm3k Vad betyder IR i ett kontrakt?
+1s07nnd8kt5 Deltagande jämfört med det utomstående alternativet
+26iro88z2pu Individual rationality: acceptera i stället för att stå utanför kontraktet.
+u3tkjjrjsk Strikt påtvinga H
+1b21ynamnqa Det hör till incitamentet, med uppmärksamhet på indifferenser.
+4th4ag8iis Bygg upp urvalet av bilar igen.
+dbqhwsqxdm Genomsnittspris baserat på en till hälften bra kvalitet
+m6zyxiqtax Bra säljare tackar nej under sitt reservationspris
+5l8ifj9yo5 Kvaliteten på de erbjudna bilarna försämras
+251vrykcxnj Köparen reviderar sin WTP utifrån de kvarvarande säljarna
+1e4lutj2x26 I vilken ordning analyserar man en kredit med dold ansträngning?
+l37s7dqptk Skriva låntagarens vinster för H och L, inklusive privat nytta
+ad7lr2gfoq Jämföra vinsterna för att hitta den faktiskt valda ansträngningen
+17gwvmdc5qd Använda dess sannolikhet för framgång i bankens intäkt
+43o6jux9m9 Kontrollera även deltagande och antaganden vid likheter
+1p2uox8xnmk R=40, B=30, p_H=0,8, p_L=0,4, b=2: bankvinst med ett lån på 20?
+y20gx9dwpi H=8>L=6, alltså bank 0,8×30−20=4.
+z75mo1thpn Privat besparing 30 och upptäcktssannolikhet 0,25: minsta vite för svag IC?
+1mebea9gav1 0,25 F≥30 ⇒ F≥120; likhet = indifferens.
+px8b0c0nac En hantverkare på fast pris kan offra en dold kvalitet för att spara tid. Vilken hävstång riktar sig mot detta problem?
+14prz5t86b7 En inspektion och en betalning som beror på verifierbar kvalitet
+1l3abxoxmla Det kan låta leverantören bära den förväntade kostnaden för för låg kvalitet.
+299p91lxdq5 Bara räkna ut medellönen utan att jämföra handlingarna
+1khzwmulxve Den gemensamma lönen visar inte vilken kvalitet hantverkaren väljer.
+i8m3itvkza Säga att varje fast pris alltid är dåligt
+26egwijlk7z Incitament att spara tid kan vara nyttiga; avvägningen måste hanteras.
+jjq8n3cmh2 En välinformerad säljare erbjuder en garanti som dåliga produkter gör mycket dyr att uppfylla. Vilken logik kan göra denna signal trovärdig?
+qhoa5mpdly Den dåliga typen vinner mindre på att imitera den i förhållande till sin kostnad
+vt0azbrsb4 Garantin måste skapa olika val beroende på typ, inte bara vara synlig.
+1kcezt4bkir Garantin är observerbar, så alla typer avslöjas nödvändigtvis
+1ddmy2tgpjo En lätt imiterbar handling skiljer inte typerna åt.
+u14j6ys8ht Kunden föreslog en meny, så säljaren gör screening
+1dzy0044xjp I detta sammanhang kommer initiativet från den informerade säljaren: det är en signal.
+8kv59uxsbd Action conditional on signing
+1ink4m6dnvl Different choices by type
+27e0h87yfhz Both may pool
+j75i1gbp4r Identifiera vem som vet vad och skilja på dold typ, dold handling och gemensam risk.
+2gfit114393 Ett kontextord som försäkring väljer inte modellen åt dig.
+1tlnksocb4d Kontrollera att föreställningarna om kvaliteterna motsvarar säljarna som är kvar.
+w8dz7z1gn Genomsnittspriset kan i sig ändra sammansättningen av utbudet.
+1p52jm2b26q Jämföra de fullständiga privata vinsterna innan man räknar ut principalens.
+1k7pq1ag8fd Sannolikheten för framgång beror på den faktiskt inducerade ansträngningen.

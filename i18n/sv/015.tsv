@@ -1,0 +1,207 @@
+urr9h5gslm En jämvikt kräver att båda villkoren är uppfyllda i samma par.
+bfadtqwig9 En överenskommelse som skulle förbättra bådas vinster är kanske inte stabil mot en individuell avvikelse.
+e1dt93goin Med p = 70 − Q och MC = 10 maximerar q1 = q2 = 15 den gemensamma vinsten för Q = 30, men vid q2 = 15 är företag 1:s bästa svar 22,5: det kolluderande paret är inte en Cournot-Nash-jämvikt.
+bghrmyg5po Du är företag 1: fråga inte ”tjänar vi alla mer?”, fråga ”kan jag tjäna mer genom att ändra mig på egen hand?”
+27os33z2rgk För att testa Nash ändrar ett företag sin kvantitet…
+1la1dt4cm4g Med det andras strategi fast
+syjb90gyhy Man kontrollerar en ensidig avvikelse från det aktuella paret.
+wldcv6tnyn Samtidigt som det tvingar på det andra en ny kvantitet
+1exn4q1qp8x Det vore en gemensam ändring, inte en ensidig avvikelse.
+pxo3tvr6kx För att maximera bådas totala vinst
+1k789ogx1mq Varje företag maximerar sin egen vinst.
+87ntp4og4 Två bästa svar i samma axlar
+sgnjea3lro q1: företag 1:s enheter
+1jt51kwfuk q2: företag 2:s enheter
+1zn9mahf0vs p = 70 − q1 − q2, MC = 10. BR1: q1 = 30 − q2/2, alltså q2 = 60 − 2 q1 i dessa axlar. BR2: q2 = 30 − q1/2. Nash (20,20); ledare 1 (30,15) på BR2, inte på BR1.
+ua3wfq6zrr BR1 omskriven: q2 = 60 − 2 q1
+1hput49hgi0 Varje punkt ger företag 1:s bästa kvantitet för det aktuella q2.
+ex20j0fsac Varje punkt ger företag 2:s bästa kvantitet för det aktuella q1.
+dlo4uv1d59 Cournot-Nash
+isz2xm0tst 1 som ledare
+thjf3gp20a Konstruera det bästa kvantitetssvaret
+1wioenjbfqd Företag 1 vet att en hög produktion hos konkurrenten sänker priset på hela marknaden. Det säljer sin egen kvantitet till det pris som beror på totalen, men betalar bara sina egna kostnader. För sitt bästa Cournot-svar behandlar det q2 som fast under detta beslut.
+2d3usb0nl72 p = 70 − q1 − q2; MC1 = 10; π1 = (60 − q1 − q2)q1. FOC: 60 − 2 q1 − q2 = 0; BR1 = max(0,30 − q2/2).
+28f7jeqtgfb Att öka q1 ger en försäljning till men sänker priset på enheter som 1 redan säljer.
+uzeu5nmiyy q2 påverkar priset, men dess kostnad ingår inte i 1:s vinst.
+utzzgdlfxa Kvantiteten är begränsad till 0: en negativ linjär reaktion står för en hörnlösning, inte för negativ produktion.
+1ktf7uh29aq Om q2 = 10 är BR1 = 25; om q2 = 20 är BR1 = 20. En mer aktiv konkurrent minskar 1:s bästa volym: strategiska substitut i kvantiteter.
+lf8qnil0j2 Du leder 1: stoppa inte in totalt Q i din kostnad 30 q1; dina anställda producerar inte 2:s enheter.
+qrgz30bsxe BR1 = 30 − q2/2. Om q2 = 10, vilken är den bästa kvantiteten q1?
+1bl2xu4s3ft 20 är den symmetriska jämviktskvantiteten när q2 är 20, inte 10.
+280g399f7uy Bygg upp företag 1:s vinst med konstant MC c1 och FC1.
+13xjmrjeql0 Marginalen på den egna försäljningen, minus den egna fasta kostnaden.
+dvn4r9cp4l Vad gör man med q2 under 1:s Cournot-maximering?
+2bl7m1m3kyc Man behandlar det som fast för att konstruera BR1(q2)
+113r5i9l881 Reaktionen anger bästa q1 för varje möjligt värde på q2.
+207h0njs852 Man ersätter redan q2 med följarens reaktion
+1m39lge40b5 Det vore Stackelbergledarens sekventiella logik, inte simultan Cournot.
+1gwuvca6qlz Man sätter q2 = q1 innan man deriverar
+ie7tkb9nmk Symmetri kan hjälpa efteråt, men varje företag kontrollerar bara sin egen kvantitet.
+h33d6jgseu Två reaktioner men en enda axelkonvention
+dlrvg7h33j Du vill rita båda bästa svaren i samma diagram. Den horisontella axeln visar q1 och den vertikala q2. 2:s reaktion är redan skriven så, men 1:s måste skrivas om så att dess höjd också anger q2.
+2eiixu6h4qd BR2: q2 = 30 − q1/2. BR1: q1 = 30 − q2/2 skrivs om som q2 = 60 − 2 q1. Rita inte samma lutning två gånger.
+11a2ja757yv En ekvation kan beskriva samma samband på två sätt.
+147tsrtmmfg BR1 skär den horisontella axeln vid 30 och den vertikala vid 60; BR2 skär axlarna vid 60 och 30.
+1kxohrfj1m Deras skärningspunkt ger de två val som är optimala samtidigt.
+yt8jpkrp45 I punkten (20,20) gäller båda ekvationerna. Punkten (30,15) ligger på BR2 men inte på BR1: användbart för att känna igen Stackelberg senare.
+196e0x2ou Innan du börjar rita: säg högt ”horisontellt q1, vertikalt q2” innan du placerar skärningspunkterna med axlarna.
+hwo4vn2n6e Axlar q1 horisontellt, q2 vertikalt: när q1 = 0, vilken höjd ger den omskrivna linjen BR1?
+2fgwrmgzorr 30 är BR1:s skärning med den horisontella axeln, inte dess höjd vid q1 = 0.
+1cyp2u785nn Lös skärningen, sedan pris och vinster
+ff10rqqm9c Båda företagen har här samma kostnader och möjligheter. I skärningspunkten producerar vart och ett 20 och inget vill ändra sig på egen hand. Marknaden rymmer 40 enheter; det är totalen som avgör priset, medan varje företags vinst bara använder dess 20 enheter.
+a3di3llqlg Symmetrin q1 = q2 är ett resultat av samma modell med identiska kostnader, inte en egenskap hos alla duopol.
+nc44g5f773 Priset beror på q1+q2; i:s vinst beror på qi.
+pldfrqcfqe Vid q2 = 20 är BR1 = 20: villkoret för individuell stabilitet är uppfyllt.
+qfut55ohip Att sätta in Q = 40 i π1 = (p−10)q1 skulle ge 800, alltså båda företagens vinst tillsammans, inte 1:s.
+28em9bjfdrz Du skriver fyra separata rader: q1, q2, totalt Q, sedan p och π1. Så håller du isär företags- och marknadsnivån.
+1npnt7tsx3t q1 = q2 = 20 och p = 70−Q: vilket pris?
+jqj3op6eqi 50 glömmer det andra företagets 20 enheter.
+1kf6v1zvv61 p = 30, MC = 10, qi 20, FC = 0: varje företags vinst?
+1bqo3myn7sq 800 använder totalen 40 i ett enda företags vinst.
+vsjxf1rsq4 Olika kostnader ger olika volymer
+1osyb0cr17o Blue kan producera till kostnad 0 medan Red betalar 10 per enhet. Blue har mer skäl att lägga till enheter, vilket sänker priset och avskräcker en del av Reds försäljning. Den mindre effektiva konkurrenten förblir aktiv här, men andelarna är inte längre lika.
+dlirkq70rn p = 70−Q, cBlue 0, cRed 10: qBlue = (70−2×0+10)/3 = 80/3; qRed = (70−2×10+0)/3 = 50/3; p = 80/3.
+x3vwfpekwe Reaktionsfunktionerna ändras med det berörda företagets kostnad.
+27ojid4hwbj Den nya jämvikten inkluderar sedan konkurrentens anpassning, även om dess egen svarsfunktion är oförändrad.
+l5tk5gfw2j Om en inre lösning ger qi<0 måste man ta fram en hörnlösning och kontrollera det andra bästa svaret.
+19zpd2zlv53 Blue 26,667, Red 16,667. Ett annat fall: c1 = 10, c2 = 50 ger en negativ inre formel för 2; den giltiga hörnlösningen är q1 = 30, q2 = 0, p = 40≤c2.
+18htbxlkke1 Du ser en stor marknadsandel: fråga om den kommer från låga kostnader i stället för att dra slutsatsen att företagen måste producera lika mycket.
+cm8u0b5f8b p = 70−Q, cBlue 0, cRed 10: Blues kvantitet? Avrunda till 0,01.
+1s40i5x5oc8 (70−2cBlue+cRed)/3=80/3.
+sl3zz1hb0y 20 förutsätter de gamla symmetriska kostnaderna.
+g9923kj8qv En inre formel ger negativt q2. Vad gör man?
+13zt5klv958 Lös med q2 = 0 och kontrollera de bästa svaren
+20zknoc72f0 Den ekonomiska definitionsmängden kräver icke-negativa kvantiteter.
+24gseez4lil Behålla den negativa kvantiteten
+8r04ovn42r Ett företag kan inte producera en negativ kvantitet.
+1aze921td68 Bara byta tecknet mot absolutbeloppet
+7lgqhiex5j Det löser inte längre valvillkoren.
+16xoi7se3l En styckskatt flyttar båda reaktionerna inåt
+n2yo14c1ev Ta åter de två företagen på marknaden p = 70 − Q, vart och ett med kostnaden 10 per enhet. Staten tar nu ut 6 per såld enhet av båda. För varje företag kostar nästa enhet 16: oavsett konkurrentens kvantitet lönar det sig att producera mindre. Eftersom båda resonerar likadant ser vart och ett också att det andra minskar sin försäljning, vilket lämnar lite utrymme.
+i31zf65ho7 Effektiv kostnad c = MC + t = 16. π1 = (70 − q1 − q2 − 16)q1 ⇒ BR1 = 27 − q2/2 i stället för 30 − q2/2. Båda reaktionerna förskjuts mot origo; symmetrisk Nash q = (70 − 16)/3 = 18, Q = 36, p = 34.
+5x65zjjtz8 Skatten verkar som en kostnad per enhet: den minskar marginalen på varje enhet, oavsett konkurrentens kvantitet.
+gutbvtaok3 I planet (q1, q2) förskjuts varje reaktion parallellt inåt: för varje kvantitet hos det andra produceras 3 mindre.
+10wep0uook Priset stiger från 30 till 34, alltså 4 av skatten på 6: en del av skatten tas från de två företagens marginaler.
+5pg84kr2ez Utan skatt: q = 20 vardera, p = 30, vinst 400. Med t = 6: q = 18, p = 34, vinst (34 − 16) × 18 = 324; skatteintäkt 6 × 36 = 216.
+1qdodfsggsx Du leder företag 1: vid givet q2 säljer du 3 enheter mindre än tidigare. Men din konkurrent gör likadant, vilket lämnar dig lite mer efterfrågan: till slut minskar du bara med 2.
+1qfj0roxsxq Skatt 6, effektiv kostnad 16, p = 70 − q1 − q2: om q2 = 18, vilken är företag 1:s bästa kvantitet?
+g6buq1ud1m 21 använder den gamla reaktionen 30 − q2/2: skatten ingår i företagets kostnad.
+1cj8xyf2i9x Nash med skatt: q1 = q2 = 18. Vilket pris?
+1rk12u2kynp 30 är priset utan skatt.
+247ot3nz4db 36 är den totala kvantiteten, inte priset.
+q3dt0e4o40 Hur förskjuter skatten reaktionerna i planet (q1, q2)?
+1huv8cwf6ax Båda närmar sig origo, parallellt
+518sgk5t7d För varje kvantitet hos konkurrenten producerar varje företag 3 mindre: BR = 27 − qj/2.
+z2p9tflhut Bara ett företags reaktion flyttas
+mc8nemgetp Båda företagen betalar skatten: båda reaktionerna flyttas.
+28mmnwhkuct De rör sig bort från origo eftersom priset stiger
+13uw0r0wff2 Priset stiger eftersom kvantiteterna minskar, inte tvärtom.
+uwbhwagpo5 En skatt på 6 per enhet, betald av båda företagen
+2ee081axghk p = 70 − q1 − q2, MC = 10, sedan skatt 6: effektiv kostnad 16. Varje reaktion backar 3 för varje kvantitet hos konkurrenten: BR = 27 − qj/2. Nash går från (20, 20) till (18, 18). Det är skissen som efterfrågas i E2022 Q3e.
+o2xg7fbrgn BR1 utan skatt: q2 = 60 − 2 q1
+6aarhxs8vm 1:s bästa kvantitet för varje q2, kostnad 10.
+trpr4iw3xa BR1 med skatt: q2 = 54 − 2 q1
+1ofqrp2s59m Samma resonemang med kostnaden 16: 3 enheter mindre för varje q2.
+1yxoezvlvky BR2 utan skatt: q2 = 30 − q1/2
+23j47npzz9i 2:s bästa kvantitet för varje q1, kostnad 10.
+o7w67qqmze BR2 med skatt: q2 = 27 − q1/2
+233wbmi9i3p Företag 2 betalar också skatten: dess reaktion backar 3.
+19km7tb6bs8 Nash utan skatt
+q6vuos3kpm Nash med skatt
+2cpss1bptex Fasta kostnader påverkar räkenskaperna, sedan eventuellt inträdet
+q47pv23qfq Ett företag betalar högre hyra än sin konkurrent. Så länge betalningen är oundviklig och båda förblir aktiva ändrar den inte vad en extra enhet kostar. De kan alltså producera samma volymer och ändå ha olika vinster.
+13f6200u5eg Vid p = 30, qi 20, MC = 10: rörlig vinst 400; med FC = 100 är π = 300; med FC = 500 π−100. Kortsiktig nedstängning och långsiktigt inträde är inte samma val.
+1yrv1ckqgtj FC försvinner ur derivatan med avseende på qi.
+1d3tuxk9gtr Om produktion ger 400 i rörlig vinst och FC = 500 är sänkt, förlorar man 100 genom att producera i stället för 500 genom att stänga.
+gh3fznz39t Om kostnaden kan undvikas genom att inte träda in kan det föregående beslutet vara att avstå från inträde.
+1u5z1mzjaka E2021: samma MC = 8, men FC = 100 och 50; kvantiteter 8 vardera, pris 24, vinster 28 och 78. Skillnaden på 50 i vinst kommer från de fasta kostnaderna.
+14w37tm5ozk Du är chef: att skilja på ”att inte öppna fabriken” och ”att producera i dag efter att redan ha betalat” ändrar jämförelsepunkten.
+m3z3f6ui5p Rörlig vinst 400, fast kostnad 500 redan sänkt: att stänga skulle ge förlusten 500. Att producera ger π−100. Vilket val maximerar den löpande vinsten?
+2npz0objg1 Producera
+24mzx3l1rsj −100 är bättre än −500; den rörliga vinsten 400 täcker de rörliga kostnaderna.
+9vzoa0caw2 Stänga, eftersom varje negativ vinst kräver nedstängning
+27pg9lrwtb8 Du glömmer den oundvikliga förlusten även utan produktion.
+1u6jc9294f7 Producera bara om FC blir 0
+p6hvpyxzjs Den redan betalda fasta kostnaden kan inte undvikas genom detta löpande val.
+1gqadopsiit Ett företag till skärper kvantitetskonkurrensen
+1coqtx16nka Ett extra företag tillför utbud. Vart och ett av de befintliga reagerar genom att minska sin egen volym, men minskningen kompenserar inte helt inträdet. I den symmetriska modellen utan kostnadsförändring ökar totalen och priset sjunker.
+vhwl1ptqq p = a−bQ, MC = c, n företag: qi = (a−c)/[b(n+1)], Q = nqi, p = (a+nc)/(n+1). Här ger n3 qi 15, Q = 45, p = 25.
+13foscqxhkl Varje företag kontrollerar en mindre del av knapphetseffekten som håller uppe priset.
+p9v59i1uan När n ökar minskar qi men nqi ökar.
+ec3c3autil En fusion utan synergier minskar n och tenderar att höja priset i denna modell; ändrade kostnader eller produkter kräver en annan analys.
+ico8rjevpr n2: Q = 40, p = 30; n3: Q = 45, p = 25; gränsvärde n → ∞: Q = 60, p = 10. Tre företag betyder inte automatiskt perfekt konkurrens.
+283twvlhjph Du bedömer en fusion: säg ”oförändrade kostnader” innan du tillämpar jämförelsen efter antal företag.
+162gbbz4dsn p = 70−Q, MC = 10, n3 identiska: hur mycket producerar varje företag?
+cgar9jdpgn 20 motsvarar duopolet, med n+1 = 3.
+fs0c9gwahy 45 är summan för de tre företagen.
+261zgqoduz3 Samma efterfrågan och samma kostnad, olika regler
+gtkdpurany Totala enheter: p = 70 − Q, MC = 10, FC = 0
+iktdxhbknl För att jämföra dessa modeller måste kostnader och efterfrågan hållas lika. Cournot 3 och Stackelberg 2 ger här båda Q = 45, men inte samma fördelning mellan företagen.
+1r3zg0ybji1 Gemensamt monopol
+2fkts3m861p MR = MC; pris 40.
+8xrm233agr Cournot 2
+zfi9oetdv0 Två simultana kvantiteter; pris 30.
+bqwejyqw98 Stackelberg 2
+27rbwiw4wm9 Ledare 30, följare 15; pris 25.
+8lam6xr1gm Cournot 3
+6jp1vl12vb Tre företag med 15 vardera; pris 25.
+15k7i5br1qi Homogen Bertrand
+2d2kriccppu Pris lika med MC = 10 om kapaciteten räcker och kostnaderna är lika.
+28vt86q5fyk En ledare väljer och förutser reaktionen
+xfmcyg8xa Företag 1 binder sig vid sin kvantitet före företag 2. Det andra kommer att observera denna kvantitet och välja sin bästa volym. Ledaren känner till denna reaktion: när den ändrar sitt åtagande vet den att följaren också ändrar sig, så den kan inte längre behandla q2 som konstant.
+2dm0je8wbtk BRF(qL) = 30−qL/2. Insatt i πL = (60−qL−qF)qL ger det πL = (30−qL/2)qL; FOC = 30−qL = 0 → qL = 30, qF = 15.
+14blqi379k9 Följaren optimerar efter att ha observerat, så dess reaktion är en begränsning som ledaren förutser.
+23r30yapi6y Ledaren väljer längs denna reaktion, inte i skärningspunkten mellan de två simultana reaktionerna.
+2brefw4bk59 Att glömma dqF/dqL skulle föra tillbaka till Cournot-resonemanget och missa åtagandet.
+1o8mkwriu2y Q = 45, p = 25; πL = (25−10)×30 = 450; πF = (25−10)×15 = 225. Paret (30,15) ligger på BRF men inte på Cournots BRL.
+tc3otvdhru Du väljer först: en stor, trovärdig produktion avskräcker en del av den volym som din konkurrent lägger till efteråt.
+rnmxvsl20t Ledaren väljer 30 och BRF = 30−qL/2: följarens volym?
+26th2e80zvq 20 hör till den simultana Nash-jämvikten, inte till detta observerade ledarval.
+ynybqo8zpd Sätt den sekventiella lösningen i rätt ordning.
+65ler1c18n Lös följarens bästa svar
+1b4v4gudgzb Sätt in det i ledarens vinst
+10b9nl8k4fp Maximera ledarens vinst med denna reaktion förutsedd
+13sfbp2iagv Ta fram följarens val, sedan pris och vinster
+chiylbwxmf Lös följarens bästa svar → Sätt in det i ledarens vinst → Maximera ledarens vinst med denna reaktion förutsedd → Ta fram följarens val, sedan pris och vinster
+27rvbh5q8ap Samma miljö men olika utfall
+m78jnb9qde Ett gemensamt monopol skulle begränsa totalen för att hålla uppe priset. Två företag som väljer samtidigt producerar mer eftersom vart och ett vill vinna försäljning. En kvantitetsledare binder sig ännu mer; här gynnar det kunderna men minskar följarens vinst.
+9br33qdw9z Med p = 70−Q, MC = 10, FC = 0: monopol Q = 30, p = 40; Cournot Q = 40, p = 30; Stackelberg Q = 45, p = 25; effektivt riktmärke Q = 60, p = 10.
+18fjhseo70i Ledarens åtagande ändrar den förväntade reaktionen och därmed utfallet, utan att kundernas preferenser ändras.
+op91mwz20w Ledaren tjänar 450 i stället för 400; följaren 225 i stället för 400.
+1q4jtopds29 Denna first-mover advantage är ett resultat av kvantitetsspelet, inte en universell lag för alla sekventiella spel.
+27rfh159b3a Cournot 3 och Stackelberg 2 ger här båda Q = 45, p = 25; de individuella volymerna 15/15/15 och 30/15 är fortfarande mycket olika.
+9qkomdf6iy Du jämför två lösningar: behåll samma a, b, c innan du drar slutsatsen att en modell ger ett högre pris.
+2fa3lxjguzr Ledaren tjänar här mer i kvantitets-Stackelberg. Bevisar det en förstaflyttarfördel i alla prisspel?
+2qhch8nz4p Nej: den strategiska variabeln och reaktionerna ändras
+wo0pp7iwiw Prisledarskap kan gynna följaren ännu mer, som i E2024.
+1dhfbwnqfrn Ja, ”först” räcker
+1zpzudxur9g Turordningen ensam avgör inte vinsterna.
+27u5ggzlehh Nej, eftersom ledaren tjänar mindre här
+2atvrcuye88 Här gäller 450>400: resultatet stämmer men är specifikt.
+2bmxb1qs44h Homogen Bertrand: varför underbud förstör marginalen
+149tatv8akr Kunderna ser produkterna som identiska och köper det billigaste. Om båda företagen med kostnad 10 tar 12 kan det ena ta lite mindre och locka hela marknaden med positiv marginal. Vid 10 skulle ett underbud ge förlust på varje enhet.
+13d755qh3ra Homogena produkter, samma konstanta MC, minst två företag, tillräcklig kapacitet och kontinuerliga priser: Nash p = MC. Här p = 10, Q = 60 och rörlig marginal noll.
+28h7zqogr47 En liten prissänkning kan flytta nästan all försäljning i stället för en liten marginell volym.
+qurugi23fk p>MC gör ett lönsamt underbud möjligt; p<MC ger förlust per enhet.
+1g0yfolub57 Kapacitet, differentiering, sökande eller upprepning kan ändra utfallet: antagandena måste kontrolleras.
+1xg0i9kq8vr Vid priset 12 erbjuder ett företag 11,99 och kan betjäna hela efterfrågan på 58,01; marginalen 1,99 gör avvikelsen attraktiv under dessa antaganden.
+252fmhk13e2 Du säljer exakt samma produkt bredvid konkurrenten: varför skulle en kund betala 12 hos dig om hen kan betala 11,99 någon annanstans?
+169fd52wpb1 Två identiska företag, homogen vara, MC = 10, obegränsad kapacitet: Bertrandpris?
+23b4fdvhc20 Vid p = 10 finns inget lönsamt underbud kvar; vid p>10 lönar det sig att avvika.
+2buardn51ak 30 är Cournotpriset i denna miljö.
+1at1wo82605 Att sälja under MC = 10 skulle ge förlust.
+gnvazrh4mi Om den billigare konkurrenten bara kan betjäna en liten del av kunderna, så resonemanget ”den tar hela marknaden”…
+251m1ryrh5l Måste omprövas
+2g7e58kdhad Otillräcklig kapacitet bryter ett centralt antagande bakom resultatet p = MC.
+267w87zev6y Förblir exakt per definition av Bertrand
+2csw3i0hh8u Spelets namn ger ingen obegränsad kapacitet.
+opzah6ttoy Bevisar att produkterna är differentierade
+no3j98hcir En kapacitetsbegränsning kan finnas även med identiska produkter.
+25bv3cgxc1v Bertrand med olika kostnader: en marginal kan bestå
+1mt1y2o5fpl Den mest effektiva säljaren kan sänka sitt pris tills en dyrare konkurrent avskräcks, utan att nå sin egen kostnad. Gränsen beror på den bästa konkurrent som fortfarande kan leverera, inte automatiskt på den egna MC. Vid lika priser måste man också ange hur kunderna fördelas.
+1nglejy2bcb E2024: efterfrågan 10−Q och MC = 5, 7 och 8. Det mest effektiva företaget begränsas runt 7; att skriva 7−ε kan vara lämpligt med lika fördelning vid identiska priser. Dess monopolpris på egen hand vore 7,5.
+185fu1welyf Under 7 kan företaget med MC = 7 inte konkurrera med positiv marginal, medan företaget med MC = 5 behåller en marginal nära 2.
+ikgr0hyec7 Över 7 kan konkurrenten bli lönsam och lägga underbud.
+3ichwkfnpf Med kontinuerliga priser och lika fördelning vid lika priser kräver det en motivering att ange exakt p = 7 som ren Nash-jämvikt; gränsen räcker inte för att bevisa existens.
+1nscbzu1pm5 Vid 7−ε säljer företaget med MC = 5 cirka 3+ε enheter; marginal cirka 2−ε. Konkurrenten med MC = 8 är inte den mest bindande.
+1ksf4882tlj Du ser en marginal på en homogen marknad: kontrollera om kostnaderna verkligen är identiska innan du förklarar modellen felaktig.

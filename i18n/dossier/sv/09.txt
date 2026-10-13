@@ -1,0 +1,94 @@
+======================================================================
+7. ÖVERSKOTT, SKATTER, SUBVENTIONER OCH REGLERADE PRISER — L7
+======================================================================
+
+7.1 Vem får vad?
+CS, consumer surplus: köparnas totala värde minus deras betalningar.
+CS=integral_0^Q [p_D(q)-p_b] dq, om enheterna går till de köpare som
+värderar dem högst. För p_D=a-bQ: CS=(a-p_b)*Q/2.
+PS, producer surplus: intäkter efter skatt minus rörlig kostnad.
+PS=integral_0^Q [p_s-MC(q)] dq; för p_S=c+dQ: PS=(p_s-c)*Q/2.
+Vinst=PS-FC. Vid olika priser, integrera de faktiska intäkterna
+i stället för att använda en enda rektangel pQ.
+Välfärd W=CS+PS i modellen utan stat eller externalitet, med oförändrade
+fasta kostnader. Med stat: lägg till skatteintäkter, dra av subventions-
+utgifter. Med externalitet: lägg till externa nyttor, dra av skador.
+När inträde eller fasta kostnader ändras, ta också med dessa verkliga kostnader.
+
+En summa av överskott mäter monetär effektivitet, inte rättvisa.
+En överföring från CS till PS är i sig ingen DWL. En dödviktsförlust
+är en NETTOförlust av överskott jämfört med det effektiva jämförelsefallet.
+Konkurrensmodellen maximerar W om efterfrågan är den samhälleliga marginal-
+nyttan, utbudet den samhälleliga marginalkostnaden och övriga antaganden håller.
+Monopol, externalitet eller asymmetrisk information kan bryta detta resultat.
+
+L7 exempel: p_D=23-Q, p_S=2+2Q ->Q7,p16.
+CS=(23-16)*7/2=24.5; PS=(16-2)*7/2=49; W73.5.
+Om Q begränsas till 5 och priset är 18: CS12.5; PS55; W67.5; DWL6.
+Här vinner producenterna 6 medan konsumenterna förlorar 12:
+den samhälleliga förlusten är 6, inte 12.
+
+7.2 Styckskatt: skriv TRE samband
+QD(p_b)=QS(p_s)=Q; p_b=p_s+t.
+Konsumenten betalar p_b; producenten behåller p_s; staten får tQ.
+Om lagen låter köparen eller säljaren betala in skatten ändrar inte
+jämvikten i denna modell, vid samma skatt och samma handelsmöjligheter.
+
+För p_D=a-bQ och p_S=c+dQ, b,d>0, inre lösning:
+Q0=(a-c)/(b+d); Qt=(a-c-t)/(b+d).
+p_b=a-bQt; p_s=c+dQt; T=tQt.
+Ökning av köparpriset=b*t/(b+d).
+Minskning av säljarpriset=d*t/(b+d).
+DWL=t*(Q0-Qt)/2=t^2/[2(b+d)], UTAN externalitet/marknadsmakt.
+Bortom den prohibitiva skatten är Q=0; förläng inte formlerna till Q<0.
+
+Ekonomisk incidens: den mindre elastiska sidan bär mer.
+Lokal konkurrensform: köparandel=epsilon_S/(epsilon_S+|epsilon_D|),
+säljarandel=|epsilon_D|/(epsilon_S+|epsilon_D|).
+Dessa andelar är ingen allmän regel för oligopol eller monopol.
+En skattebas med låg elasticitet ger mindre förändring i Q, alltså oftast
+mindre DWL för samma uttag, under jämförelseantagandena.
+
+L7 skatt t3: Q6,p_b17,p_s14,T18; CS18,PS36,W72,DWL1.5.
+Rektanglarna som förs över till staten förstörs inte.
+En skatt kan ändå finansiera en kollektiv nyttighet eller korrigera en externalitet:
+dess DWL räcker inte för att bedöma hela politiken.
+
+7.3 Styckesubvention
+QD(p_b)=QS(p_s)=Q; p_s=p_b+s.
+Köparen betalar mindre, säljaren får mer, staten betalar sQ.
+Qs=(a-c+s)/(b+d); W=CS+PS-sQ.
+Utan externalitet: DWL=s*(Qs-Q0)/2. De extra enheterna har en verklig
+kostnad som överstiger deras nytta. Med positiv externalitet kan denna formel
+utan extern korrigering ge fel diagnos.
+L7 s3: Q8,p_b15,p_s18; CS32,PS64,utgift24,W72,DWL1.5.
+
+7.4 Pristak och prisgolv
+Price ceiling / cap: högsta pris. Bindande om taket ligger under p* i det
+vanliga fallet. Omsatt kvantitet ofta begränsad av QS; brist QD-QS.
+Rita taket horisontellt; läs av QS och QD var för sig.
+CS beror också på ransoneringen: standardformeln antar att de
+tillgängliga enheterna går till köparna med högst WTP.
+Slumpmässig ransonering, köer och sökande kan ge ytterligare förluster.
+PS sjunker; CS kan stiga ELLER sjunka; W sjunker utan annat misslyckande.
+L7 tak 12: QS5,QD11; handel 5; CS42.5,PS25,W67.5,DWL6.
+Ett tak >=p* är inte bindande i den enkla konkurrensmodellen.
+
+Price floor: lägsta pris, bindande över p*. Utbudsöverskott.
+Utan offentliga inköp begränsas såld kvantitet av QD; räkna inte QS
+som konsumerad kvantitet. Med offentliga inköp, ta med deras kostnad och
+vad som händer med det osålda. Välfärdsresultatet beror på denna utformning.
+
+E2023 rysk olja: tillämpa inte mekaniskt ”tak ->brist”.
+Ryskt utbud vertikalt bortom 50, tak 60 i stället för 90: samma volym
+8 miljoner fat/dag; ränteöverföring 30*8 miljoner=240 miljoner
+USD/dag. Inget minskat utbud under antagandena; taket
+riktar sig mot en leverantör, inte nödvändigtvis mot priset på hela världsmarknaden.
+
+7.5 Skatter och intäkter: en slutsats att kontrollera
+Revenue=t*Q(t). Att sänka t minskar uttaget per enhet men kan öka
+volymen. Tecknet på Delta revenue är inte universellt utan siffror.
+Med oelastisk efterfrågan och en liten skattesänkning ändras volymen lite och
+intäkterna minskar oftast. Visa båda effekterna om uppgiften
+inte tillåter beräkning. En moms i % och en styckskatt är inte
+identiska; E2025 tillåter uttryckligen att momsen behandlas som en styckskatt.

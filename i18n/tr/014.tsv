@@ -1,0 +1,221 @@
+pxx0mh9vyw IR: müşteri hiçbir şey almamayı da seçebilir
+2e81o9csek6 Müşteri L, Düşük’e 8, Yüksek’e 12 değer biçiyor. 8 ve 16 fiyatlarıyla Düşük’te 0, Yüksek’te −4 elde eder. Düşük’ü Yüksek’e tercih eder ama dışarıda kalmaya da kayıtsızdır: teklif yalnızca öteki teklifi geçmekle kalmamalı, dış seçeneğini de karşılamalıdır.
+1100ve6h67t IR_L: VL(Düşük)−TB≥0; IC_L: VL(Düşük)−TB≥VL(Yüksek)−TH. Burada IR_L0, IC_L0≥−4, IR_H4≥0 ve IC_H4 = 4.
+hlj6pgrl8f Tüm teklifler negatif fayda verirken IC sağlanabilir: kimse katılmaz.
+1d151c5dyc6 Olağan menüde L’nin tüm artığını çekmek, H’ye bir bilgi rantı bırakmayı gerektirebilir.
+22tmg936o8y Dört kısıtın hepsini kontrol etmek gerekir; ötekilere bakmadan IC_H ve IR_L’yi yeterli ilan etmemeli.
+14yn3n4a5h0 TB = 9 ve TH = 17 koymak L’yi Düşük’te −1 ile bırakırdı: Düşük en iyi sözleşmesi olsa bile 0’lık dış seçeneği tercih eder. H ilk menüde 4’lük bir rant tutar.
+2c4kmq3yf9p L’sin: “Yüksek’ten daha az kötü” yetmez; paranı tutup ikisini de reddedebilirsin.
+1m6k883pwrd L, Düşük(−1)’ü Yüksek(−5)’e tercih ediyor, dış seçenek 0. Sorun ne?
+q0zgjt5ko9 IR: L tüm sözleşmeleri reddeder
+1a0y2k4wdrg IC teklifleri karşılaştırır ama katılım burada en az 0 gerektirir.
+rfzla5bg7z Yalnızca IC_H
+121n2iirxww Gösterilen karşılaştırma L’yi ve katılmayı reddetmesini ilgilendirir.
+1zhl92e00o4 Hiçbiri, çünkü Düşük Yüksek’ten iyidir
+i5coscxgx4 Dış seçeneği unuttun.
+19xi8j6488j İki ürün: aynı kişinin değerlerini toplamak
+4jwyjd464q Gourmet en çok akşam yemeğini sever: yemeğe 100, odaya 50. Snoozer görece odayı tercih eder: 80 ve 70. Dolayısıyla her biri paketi 150 değerinde bulur; paket satışı satıcının yönetmesi gereken değer dağılımını azaltabilir.
+23vm7v8jda6 Pure bundling: yalnızca paket; mixed bundling: paket ve ayrı satışlar. Kârları maliyetleri dahil ederek karşılaştır; 300 ve 260’lık hasılatlar burada kâr sayılmak için MC = FC = 0 varsayar.
+p0zgbry1b6 Ayrı: yemek fiyatı 80, 2 satar → 160; oda fiyatı 50, 2 satar → 100.
+12vu3ql94zs 150’lik paket 2 satar → 300; bu durumda ürün değerleri negatif korelelidir.
+1p01ba6tiax Yüksek maliyetler ya da yalnızca bir hizmet alacak müşteriler en iyi düzeni değiştirebilir.
+1vuk9kbvp63 Ayrı 260; paket 300; sıfır maliyetle 40 kazanç. İki düzen de tam olarak iki yemek ve iki oda satıyorsa aynı maliyetleri birbirini götürür; farklı hacimlere genelleme.
+1wy6q9s9ace Paket satıyorsun: her müşteri için onun yemeğini ve odasını topla, Gourmet’nin yemeğini Snoozer’ın odasıyla değil.
+22tyaa9rig0 Snoozer yemeğe 80, odaya 70 değer biçiyor: paket için WTP’si?
+1czfmwqc2sw Aynı kişi için 80+70 = 150.
+o3cgzdvjjq 170, iki farklı kişinin en iyi değerlerini toplar.
+21irgd6s7sn Sıfır maliyetle paket hasılatı 300, ayrı 260: kâr artışı?
+1g81ex1noy0 Açık sıfır maliyet varsayımı altında 300−260 = 40.
+ckgiei3ab6 İki parçalı: girişi ve kullanımı ücretlendirmek
+2aph9l6tf49 Satıcı, her kullanımının sağlanması 2’ye mal olan bir müşteriyi tanıyor. Doğru noktada dursun diye her kullanım için ondan 2 alır, sonra bir giriş ücreti keser. Kullanım fiyatı teşviki yaratır; ücret, içeri girildikten sonra marjinal kararı değiştirmeden kazancı paylaştırır.
+73l06uzrkh Tanınan bir müşteri, D = 10−q, MC = 2: T(q) = F+pq; p = 2 → q = 8; F’den önce CS = (10−2)×8/2 = 32; F = 32 → kâr 32, üretim FC’si 0.
+19c0rie19bg p = MC’de müşteri marjinal WTP’sini bir kullanımın gerçek maliyetiyle karşılaştırır.
+1px1jjdl2me F daha sonra bu marjinal fiyatı değiştirmeden katılım artığını çekebilir.
+x8uixydqpm Birkaç tip ve ortak bir ücretle p = MC her zaman optimal değildir: katılım değişir.
+24svk2b9hal Toplam ödeme 32+2×8 = 48; maliyet 16; kâr 32. Müşteri 48 değer alır ve 48 öder: zayıf katılımla net fayda 0.
+10ti14a0h61 Girişi zaten ödedin: sonraki kullanım için geçmiş ücret değil, kullanım başına 2 önemlidir.
+1vw59oozg1m D = 10−q, kullanım fiyatı 2: kaç kullanım?
+1y7afe5vuyg Tek bir tanınan müşteri ve 0 dış seçenekle azami F nedir?
+c2rcljhpl7 Ücretten önceki artık = (10−2)×8/2 = 32.
+iuxro8e08a 48 toplam değerdir; müşteri zaten 16 kullanım ücreti öder.
+25ta9dv1mf2 50, p2’ye değil ücretsiz kullanıma karşılık gelir.
+116ljytfexa Kullanım fiyatı ve abonelik aynı miktarı vermez
+28dt5mm1zxp q: tüketilen birimler
+ae6zdxx5q6 Marjinal WTP / maliyet / kullanım fiyatı
+2fyxoo0licn Tanınan bir müşteri: D = 10−q, MC = 2. Tek fiyat 6 → q = 4; two-part tariff p = 2 → q = 8, F = 32; yalnızca abonelik p = 0 → q = 10, F = 50. F müşterinin sabit bir ödemesidir, üretimin sabit maliyeti değil.
+179motrv5sp Tüketim, marjinal WTP kullanım fiyatına ulaşınca durur.
+11w7rx9g8r7 MC = 2 / kullanım p = 2
+102jnzzpn9f Etkin kullanım fiyatı marjinal maliyeti karşılar.
+saqoibyc6e Kullanım p0
+gkbvgcbrjv Yalnızca abonelik kullanımı ücretsiz yapar, kaynakları değil.
+1dt5tg7pumb Tek fiyat
+2cmgogv9w0b İki parçalı
+uizzpa4cjv Yalnızca abonelik
+d8m6m9y2ut Yalnızca abonelik kullanımı ücretsiz yapar
+jxr947hg96 Satıcı kullanım başına fiyat olmadan yalnızca bir ücret ister. İçeri girdikten sonra müşteri, marjinal değeri 0’a ulaşana kadar hizmeti kullanır. Her kullanımın sağlanması 2’ye mal olmaya devam ederken bu, etkin düzeyi aşabilir.
+1towd792syu Aynı müşteri, yalnızca abonelik: p_usage 0 → q = 10; F = 50; maliyet 20; kâr 30. Bu, 32 kâr veren p = 2, F = 32 iki parçalı tarifesi değildir.
+7wuov4tqzk Sabit ödeme, bir kullanım daha kararında batık maliyettir.
+ddf717g9ov q = 9’da değer 1<maliyet 2 ama müşteri marjinde 0 öder: yine de kullanmak ister.
+155u5recibo F burada üretimin sabit maliyetini değil, abonelik hasılatını gösterir; sembolleri yeniden adlandırmak karışıklığı önler.
+1gnu9pi853c F = q = 10’a kadar D’nin altındaki alan = 10×10/2 = 50; kâr 50−2×10 = 30. İki parçalı: yalnızca 8 kullanımla kâr 32, yani daha az kaynak israfı.
+12ftugabexv Açık büfedesin: son porsiyon sana bedava görünür, oysa sağlayıcı kaynaklarının bedelini ödemeye devam eder.
+1dkxqko79t4 Yalnızca abonelik F = 50, q = 10, MC = 2, üretim FC’si 0: kâr?
+z1neunze8k Abonelik hasılatı kâr değildir: kullanımların maliyeti ödenmelidir.
+21egcinzec5 32, başka bir sözleşme olan iki parçalı tarifeye aittir.
+z6hpkpa8uh Bir indirim daha iyi bir müşteriyi yerinden edebilir
+x5lzujb95w Konserin 2.000 koltuğu var ve 1.200 ödemeye hazır 3.000 hayran bunları zaten talep ediyor. Öğrenciler 500 öneriyor. Bir öğrenciyi içeri almak fiziksel olarak neredeyse hiçbir şeye mal olmasa da, onun koltuğu burada 1.200 ödeyecek bir hayranın yerini alır.
+upkxcifj27 Bağlayıcı kapasite: bir koltuğun fırsat maliyeti. E2025: 2.000 hayrana 1.200 fiyat → hasılat 2,4 milyon; 500’lük bir kategori eklemek koltuk yaratmaz.
+2fxwbbnkfa6 Ek koltuk yok: bir müşteri ötekinin yerini almalıdır.
+2dtdbzm4rtf Yer değiştirmeden kaynaklanan hasılat kaybı 1.200−500 = 700’dür.
+74prn8tke3 Satılmamış koltuklar ya da daha zayıf hayran talebiyle akıl yürütme değişebilir: kısıtı kontrol etmek gerekir.
+ge1metd0an 100 hayranı 100 öğrenciyle değiştirmek, bu WTP’ler ve MC = 0 altında 100×700 = 70.000 kaybettirir. Bir indirim yalnızca tanımlanabilir bir gruba hizmet ettiği için kârlı değildir.
+2djcjijybtb Bilet gişesini yönetiyorsun: bir tarife açmadan önce, o olmadan kaç koltuğun gerçekten boş kalacağını sor.
+1i971kx8722 1.200’lük bir hayran koltuğu 500’lük bir öğrenciyle değiştiriliyor: hasılat kaybı?
+6wqbeepszt 1.200−500 = 700 fırsat maliyeti.
+26wca2xh6r2 0’lık fiziksel maliyet dışarıda bırakılan müşteriyi silmez.
+23i4jntate6 Bilet ve tişört: kârı birlikte maksimize etmek
+1m607itl8gr Bir organizatör katılımcılara tişört da satıyor. Daha ucuz bir bilet, sonra marjlı bir ürün alacak ziyaretçileri çekebilir. Dolayısıyla en iyi bilet fiyatı yalnızca tek başına bilet satışına değil, başka yerde yarattığı kârlara da bağlıdır.
+1dwurw30zae pc’yi düşürmek Qc’yi ama aynı zamanda tişört müşteri tabanını da artırır.
+298hqzcj547 Firma biletlerdeki hasılat kaybını tişörtlerdeki marj kazancıyla karşılaştırır.
+2bzjo16yvlg İç bir sonuç QT≥0’a ve taleplerin tanım kümelerine uymalıdır.
+1vpddw05nkq pc = 3040/7≈434,29; pT = 1060/7≈151,43; Qc = 3960/7; QT = 1840/7>0. Tişörtler olmadan pc = 500: tamamlayıcı ürün burada daha ucuz bir bileti gerekçelendirir.
+21sud8gowrb Organizatörsün: bilet başına hasılatı düşüren bir kampanya, başka yerde yeterince marj yaratırsa toplam kârı artırabilir.
+2comuvvx97u Burada neden bilet hasılatını ayrı olarak maksimize etmiyoruz?
+17st8tbrwy2 Bilet fiyatı tişört satışlarını ve marjını da değiştirir
+b4jol822mn İki talep ziyaretçi sayısıyla birbirine bağlanır.
+11hqy2tmn05 Çünkü tüm tamamlayıcı ürünler ücretsiz olmalıdır
+1p4itknwqd0 Doğru ödünleşim hesaplanır; bir ücretsizlik kuralı değildir.
+78x2xnq8el Çünkü tişörtlerin MC’si 0’dır
+1wgltmfrod2 Verilen maliyet 20’dir; onu unutmak FOC’ları değiştirirdi.
+ff4ifxd6j9 Hesaptan önce hangi sözleşmeyi incelediğini belirt
+7cfzar38cz Satıcı statünü tanıyabilir, bir sürüm seçmene izin verebilir ya da bir paket satabilir. Bu mekanizmalar ne aynı kısıtları ne aynı miktarı verir. Alıştırmayı, kârı optimize etmeden önce satıcının ne bildiğini ve her müşterinin neyi seçebileceğini belirleyerek başarırsın.
+1khfdn5bu7s Kontrol listesi: gözlenebilir → üçüncü derece; gizli tip/menü → ikinci derece; kesin değerler → birinci; paket → bundling; T(q) = F+pq → iki parçalı, yalnızca abonelikse p0.
+1wzgzrhgotw “Abonelik” kelimesi kullanım fiyatını otomatik olarak belirtmez.
+23o0sni6600 Bir sözleşmenin hasılatı gerçekleşebilir olmadan önce müşterilerce seçilmesi ve kabul edilmesi gerekir.
+134amc5zim7 Kâr ve refah sonuçları maliyetlerin, kapasitenin ve dış seçeneğin açıkça belirtilmesini gerektirir.
+hqkgclwyct E2023 abonelik D = 10−2q, C = 10+2q: kullanım 0, q = 5, F = 25, kâr 5. İki parçalı p = 2 ile q = 4, F = 16, kâr 6: düzenleri karıştırmak cevabı değiştirir.
+9bwus97n1m Yeni bir soru metni alıyorsun: önce “müşteri girmek için, sonra bir kullanım daha için ne ödüyor?” yaz.
+m4les6f7ls Bir tarife analizini yeniden kur.
+1yje88piyd Satıcının ne bildiğini ve olası sözleşmeleri belirlemek
+ax34utcqel Her tipin değerlerini ve net faydalarını hesaplamak
+5wrte52uoh Katılımı, teşvikleri, arbitrajı ve kapasiteyi kontrol etmek
+1bfku9y4tbw Miktarları, hasılatları ve maliyetleri hesaplamak
+1jd7h1vjn3s Kârları, sonra artık etkilerini karşılaştırmak
+kz7azyzj05 Satıcının ne bildiğini ve olası sözleşmeleri belirlemek → Her tipin değerlerini ve net faydalarını hesaplamak → Katılımı, teşvikleri, arbitrajı ve kapasiteyi kontrol etmek → Miktarları, hasılatları ve maliyetleri hesaplamak → Kârları, sonra artık etkilerini karşılaştırmak
+241jrcnsjtd Ortak bir fiyat yüksek WTP’li müşterilere artık bırakır ve başka müşterileri dışlayabilir.
+2z2p2wh0cm Gözlenebilir tip gruplara izin verir; gizli tip bir menü ya da başka bir kendi kendini seçme biçimi gerektirir.
+j9qu9ah14r En iyi teklifini seçer ve reddedebilir de: IC ve IR çekmeyi sınırlar.
+1ai6yk02ygh Müşteri sözleşme değiştirir ya da katılmazsa ilan edilen fiyat hiçbir şey getirmez.
+2cxwpjlu5vg Daha fazla hasılat ya da daha fazla kategori net bir kazanç garanti etmez.
+1rmnvk7s3nr Kâr artışı bir transfer olabilir ya da daha az etkin bir dağılıma eşlik edebilir.
+2eq5wg2g8ec Gözlenebilir bir öğrenci tarifesi üçüncü dereceye girer; gizli tipler için bir menü ikinci derece kendi kendini seçmedir. H, Düşük’te 12−8 = 4 elde edebilir. Yüksek’i seçmesi için 20−TH en az 4 olmalıdır, yani TH≤16: 20 istemek IC_H’yi ihlal eder. IR ayrıca herkesin dış seçenek yerine katılmayı tercih ettiğini kontrol eder. Yalnızca abonelik kullanım fiyatını 0’a çeker; iki parçalı tarife ücreti ve bu kullanım fiyatını ayırır.
+z7i4azlnz3 Satıcı farklı değerleri çekmek ister.
+rhk63thxdv Mevcut bilgi mekanizmayı belirler.
+fw9o114v6n Her müşteri tüm net faydalarını karşılaştırır.
+1ffd6xeaeqo Gerçekleşebilir hasılat fiilî seçimlere bağlıdır.
+cc2e71sh9q Maliyetler, arbitraj ve kapasite kârı belirler.
+9uvh8kh07u Refah ayrı hesaplanır.
+1t80ybvbcki Gözlenebilir öğrenci tarifesi ile Düşük/Yüksek menüsü arasındaki farkı açıkla. VH(Düşük)12, VH(Yüksek)20, TB = 8, TH = 16 iken neden TH = 20 istenemez? Yalnızca abonelik ile iki parçalıyı da ayır.
+1utzsda4v98 Gözlenebilir ya da gizli
+1q02zzlszxd Üçüncü derece bilinen bir grubu sınıflandırır; ikinci derece gizli tipe bir menüden seçtirir.
+2desm0z7n7m Sözleşmeleri karşılaştırmak
+1w2as1mzluy H Düşük’te 4 kazanır; TH = 20 ona Yüksek’te 0 bırakırdı, dolayısıyla Düşük’ü seçerdi.
+1qxkw2ksaqz Reddedebilmek
+k82ocu42om Katılım en az dış seçeneğin değerini gerektirir.
+28yl00xx4qq Ayrı kullanım fiyatı
+2g4o7hfgdnw Yalnızca abonelik: kullanım 0’dan; iki parçalı, tanınan bir müşteri için MC olabilecek bir kullanım fiyatı ekler.
+22h7kchhj2z IC teklifleri birbiriyle karşılaştırır; IR en iyi teklifi katılmayı reddetmekle karşılaştırır.
+1w95akji2zz Ücret satıcının hasılatıdır; üretimin sabit maliyeti ayrı bir harcamadır.
+14s1kg2lki7 Tanınan bir müşteri için tarife seçimi
+5y1p56n5l2 L9 ve E2023 Q2c’den esinlenen kurgusal alıştırma; resmî çözüm yok. Tek bir tanınan müşteri, sıfır sabit üretim maliyeti ve zayıf katılım varsayılır.
+1dt6khmb4t1 Kullanım p = MC = 4 → q = 8; F = (12−4)×8/2 = 32; kullanım hasılatı değişken maliyeti karşılar, dolayısıyla π = 32.
+d5u1n8o6bv Kullanım p = 0 → q = 12; F = 12×12/2 = 72; maliyet 4×12 = 48; π = 24.
+1ps76h69nnt Her sözleşmedeki marjinal kullanım fiyatını belirlemek.
+g5q7i560mt Müşterinin tüketimini, sonra sabit ödemeyi sınırlayan artığı belirlemek.
+2cxchgudz38 Kârları karşılaştırmak için gerçek maliyetleri çıkarmak.
+1qsa1hhocyk İki parçalı: p = 4, q = 8, F = 32; ödeme 64, maliyet 32, π = 32.
+1cyeff141an Yalnızca abonelik: p_usage 0, q = 12, F = 72; maliyet 48, π = 24.
+s0qw77qwe9 D = 12−q ve MC = 4’ü çizmek.
+1xpyc3t3a37 Etkin tüketim q = 8’dir; ücretsiz kullanım q = 12’ye götürür, burada 8–12 birimlerinde WTP<MC’dir.
+rqr8qxa26y İki parçalı tarifenin 32’lik ücreti, 0–8 aralığında D ile p = 4 arasındaki üçgendir.
+19j2vi4qwt2 Satışta tanımlanan bir öğrenci grubu daha çok şuna girer…
+1rj4trws9kz Statü gözlenebilir; sözleşme yoluyla kendi kendini seçme gerekmez.
+13kmqk4yn5b İkinci derece, seçimiyle kendini sınıflandıran gizli bir tipi ilgilendirir.
+1j9zby9y5gv Statü her birimin kesin WTP’sini açığa vurmaz.
+jix9lmwi1o IR şunu kontrol eder…
+2cgultslccj Müşterinin dış seçenek yerine kabul ettiğini
+atgo5im0hj Katılım ve teşvik iki ayrı karşılaştırmaya cevap verir.
+1b1j7862s24 Kendi sözleşmesini ötekine tercih ettiğini
+pe5gno6q9r Bu IC’dir.
+13ehuiccnxs Satıcının MR = 0 koyduğunu
+1xpbasp1ymj IR müşterinin katılım seçimini ilgilendirir.
+245q136yph4 H neden Düşük sürümü seçebilir?
+1i3jll2aw33 Fiyat tasarrufu değer kaybını aşıyor
+dsj1ntciws Menüdeki etiketi değil, kendi net faydasını maksimize eder.
+1ppe69h6xlt Çünkü IC otomatik olarak sağlanır
+10i014kevvg Tam da bu yüzden IC_H kontrol edilmelidir.
+1bh53ekwtme Çünkü H, L ile aynı zevke sahip olmalıdır
+7s38w2lrky Her tip sözleşmeleri kendi değerleriyle karşılaştırır.
+236lcyq8rwb Yalnızca aboneliğin yol açabileceği aşırı tüketimi yeniden kur.
+2b0l2g3wqgl Müşteri sabit bir ücret öder
+1jbch94pe4u Bir kullanım daha fiyatı 0’dır
+1cnj0by6jh1 Marjinal WTP 0 olana kadar tüketir
+23myyv8eqem MC>0 ise bazı birimler değerlerinden fazlasına mal olur
+140zy6ebbe5 Müşteri sabit bir ücret öder → Bir kullanım daha fiyatı 0’dır → Marjinal WTP 0 olana kadar tüketir → MC>0 ise bazı birimler değerlerinden fazlasına mal olur
+vseylkljfd İki parçalı bir tarifeyi yeniden kur.
+27t9vr62rr8 Bir ücret artı kullanım başına bir ödeme.
+y1n9hkqwz2 H, Düşük’e 10, Yüksek’e 18 değer biçiyor; Düşük 6. Zayıf IC_H ile azami Yüksek fiyatı?
+1ga9wreyree H Düşük’te 10−6 = 4 tutar; 18−TH≥4 → TH≤14.
+f02xbrh0l8 18, IR_H’yi sağlar ama Düşük 4 bıraktığı için IC_H’yi ihlal eder.
+1523lok4ock D = 10−2q, C = 10+2q; kullanımı 0 olan yalnızca abonelik: kâr?
+jo7erlbhj9 q = 5, F = 25, maliyet 10+2×5 = 20, kâr 5.
+1vzdr9ifwou 6, 2’lik kullanım fiyatı ve 16’lık ücretle elde edilen sonuçtur, başka bir sözleşme.
+pon5hsl6yh Bir koltuk zaten 1.200’e satılabilir. Fiziksel MC 0 iken onu 500’e satmak 700 kazanç yaratır mı?
+1lr0402ro1z Hayır: sabit kapasitede 700 hasılattan vazgeçer
+11eqv5iizte Yerinden edilen müşterinin fırsat maliyeti önemlidir.
+1u7b2ltgozr Evet, çünkü MC = 0
+230gevy1y9o Ek fiziksel maliyet olmasa bile koltuk kıttır.
+138l5x04y6x Evet, her indirim kârı artırır
+1anlz6b6gv3 Kısıtlar ve karşı-olgusal durum belirler.
+1veeigoytft Another customer displaced
+nans3fdvy9 Opportunity cost
+1p9jezecycv Bilgiyi, dereceyi ve arbitraj olanağını tanırım.
+283fu8ng04e Fiyat mekanizması satıcının ne bildiğine ve neyi engelleyebileceğine bağlıdır.
+15kpb8apt83 Seçimleri hesaplar, her tipin IC ve IR’sini kontrol ederim.
+2deunj1fk8u Müşteri sapar ya da reddederse ilan edilen hasılat gerçekleşemez.
+1ob6k8m6lgf Yalnızca aboneliği, kullanım fiyatı artı ücretten ayırırım.
+v82gtankb7 MC>0 ise farklı marjinal teşvikler ve miktarlar verirler.
+1ybnwsv3xcc Kârları maliyetler ve kapasiteyle, sonra refahı ayrı olarak karşılaştırırım.
+libfvgcavd Daha fazla hasılat, yeni bir kategori ya da aynı toplam Q bir etkinlik kazancını garanti etmez.
+1akf0izgihp Oligopol — ötekinin seçimini öngörmek
+g2um5wbz1h Cournot, Stackelberg ve Bertrand
+1x2js5359tt Bir firma artık tek başına karar vermez. Seçimi rakibinin yaptığını değiştirir. Miktar, fiyat, eşzamanlı ya da sıralı: oyun formüllerden önce seçilmelidir.
+d4j07xw7ct Alımlarını fiyata ve ikamelere göre seçerler.
+uu39eu0yfm Hizmeti en iyi fiyat-değer oranıyla almak.
+1eweiy62fr7 Firma 1
+1x29jd46963 Stratejisini rakibini hesaba katarak seçer.
+1fpemg7w5t2 Kendi kârını maksimize etmek.
+1f8vitccw3o Firma 2
+xl0zi96ghn Firma 1’in yarattığı koşullara tepki verir.
+ctulu70sfe O da kendi kârını maksimize etmek.
+ppdlfraqvq Rekabet kurallarının sonuçlarını karşılaştırır.
+1trrcim8fwn Üretimi, fiyatları ve gerçek maliyetleri saymak.
+fgfib05xsm Her firma neyi ve ne zaman seçer?
+1a8s2t9thae İki satıcı hacim ya da fiyat ilan ederek rekabet edebilir. Biri önce karar verirken öteki gözlemleyip tepki de verebilir. Bu kurallar en iyi seçimi değiştirir: yalnızca “iki firma” sözleri henüz bir model vermez.
+2e754czxng0 Cournot: eşzamanlı miktarlar. Bertrand: eşzamanlı fiyatlar, ürünlerin homojen mi farklılaştırılmış mı olduğu belirtilmeli. Stackelberg: olağan sürümünde sıralı miktarlar.
+vk4194f6hy Veri olarak alınan rakip miktarı, rakip fiyatıyla aynı rolü oynamaz.
+20jxqxlz7f9 İlk seçimi gözlemlemek ikincisini ona bağlamaya izin verir; ilk karar veren bunu öngörür.
+1qbtn4iuz8x Homojenlik ve kapasite, küçük bir fiyat indiriminin tüm piyasayı çekip çekemeyeceğini belirler.
+188r55agsdh Aynı gün q1 ve q2’yi seçen iki bakır üreticisi: Cournot. Fiyatlarını seçen iki kafe: müşteriler ürünlerini ayırt ediyorsa farklılaştırılmış Bertrand.
+41kbod2a7r Soru metnini okuyorsun: bir tepki fonksiyonu çıkarmadan önce “quantity”, “price”, “first”, “observes” kelimelerinin altını çiz.
+2235r09c2ms Homojen bir mal için eşzamanlı seçilen iki miktar: hangi oyun?
+1vk2x2gin1l Cournot
+y5a0e9ydfb Stratejik değişken miktardır ve seçim eşzamanlıdır.
+4sihk9drwo İki firma olduğu için Bertrand
+1uaczslf83h Sayı yetmez; Bertrand fiyatlarla ilgilidir.
+127k79g2ecs Firma 1 önce anıldığı için Stackelberg
+2b16wkfkak3 İsimlerin sırası değil, gerçek bir sıralı taahhüt gerekir.
+1qydpwbry6i Nash: her biri ötekinin fiilen yaptığı seçime yanıt verir
+1hq359cz2v7 Firma 1, firma 2’nin hacmine bakar ve ona en çok kazandıran hacmi seçer. Firma 2 de aynı şekilde düşünür. Rakibin seçimi sabit tutulduğunda hiçbirinin tek başına değiştirmek istemediği bir çift aranır.
+ldk0vycpzu Nash: kârlı tek taraflı sapma yok. En iyi yanıtların kesişimi bir dengedir; bu azami ortak kâr anlamına gelmez.
+hml4cpoq2u En iyi yanıt rakibin seçimine koşulludur.

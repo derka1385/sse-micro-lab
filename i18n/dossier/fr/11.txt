@@ -1,0 +1,111 @@
+======================================================================
+9. DISCRIMINATION, SEGMENTATION, BUNDLING ET TARIFS — L9
+======================================================================
+
+9.1 Conditions et trois degrés
+Discrimination : différentes unités d'un même bien vendues à différents
+prix, pour des raisons de WTP au-delà des seules différences de coût.
+Il faut du pouvoir de marché et limiter revente/arbitrage ; savoir classer
+les clients, ou leur proposer un menu qui les fait se classer eux-mêmes.
+Une différence de prix due exclusivement au coût n'établit pas à elle
+seule une discrimination.
+
+Premier degré / perfect price discrimination : chaque unité est vendue
+à sa WTP maximale. Produire jusqu'à p_D=MC si absence d'autre distorsion.
+CS0 ; PS capture tout le surplus variable ; DWL0 dans ce modèle idéal.
+Profit=PS-FC. Efficacité élevée et répartition très favorable au vendeur.
+Exige une information et une extraction très fortes, généralement irréalistes.
+
+Troisième degré : groupes OBSERVABLES, par exemple étudiants, retraités,
+pays. Résoudre MR_i=MC pour chaque groupe (ou MC du total si coût non constant).
+À MC commun : (p_i-MC)/p_i=-1/epsilon_i.
+Au point optimal, groupe moins sensible en valeur absolue ->prix plus haut.
+Un statut observable ne suffit pas à prouver que la remise augmente le
+profit : il faut considérer demande, capacité et coût d'opportunité.
+
+Deuxième degré : type non observable, SELF-SELECTION par quantité, qualité,
+horaire, attente, coupons, freemium, version premium ou confort.
+Le vendeur veut que le type H choisisse l'offre H et le type L l'offre L.
+Exemples L9 : trains 1re/2e classe, livres, réservations, jeux freemium.
+Dégrader la version économique peut empêcher les clients H d'abandonner
+la version chère, même si cette dégradation n'économise pas des coûts.
+
+9.2 Contraintes IC et IR
+Utilité nette du type i choisissant le menu j : V_i(B_j)-T_j.
+IC_H : V_H(B_H)-T_H >= V_H(B_L)-T_L.
+IC_L : V_L(B_L)-T_L >= V_L(B_H)-T_H.
+IR_i : V_i(B_i)-T_i >= utilité extérieure (souvent normalisée à0).
+L9 p.20 affiche surtout IC_H et IR_L, souvent contraignantes dans le modèle
+usuel ; les autres ne doivent pas être oubliées sans justification.
+IC empêche de choisir le « mauvais » contrat ; IR empêche de refuser tout
+contrat. Prix et qualités doivent être choisis simultanément sous ces contraintes.
+Une rente informationnelle peut devoir être laissée aux clients H.
+
+9.3 Segmentation contre prix commun
+Segmenté, p_i=a_i-b_i Q_i et MC=c constant :
+Q_i=(a_i-c)/(2b_i) ; p_i=(a_i+c)/2 ; comparer à0 si a_i<=c.
+Prix commun : Q(p)=somme_i max(0,(a_i-p)/b_i).
+Méthode : trouver tous les prix d'exclusion, écrire chaque segment,
+maximiser (p-c)*Q(p) sur chaque segment, vérifier les frontières,
+comparer les profits. Il peut être optimal de ne servir qu'un groupe.
+Ne pas sommer les demandes inverses pour obtenir une demande privée commune.
+
+L9 Lowies p=1-Q_L/2, Highies p=2-Q_H, MC0 :
+segmenté QL1,pL0.5,piL0.5 ; QH1,pH1,piH1 ; pi_total1.5.
+Commun dans la zone où les deux achètent : Q=4-3p,
+p=2/3,Q2,pi4/3. Vérifier aussi p>=1 où seuls Highies achètent.
+La discrimination augmente le profit faisable, car le prix commun reste
+une option. Le welfare et le CS de chaque groupe ont un signe AMBIGU.
+Une ouverture à un groupe exclu peut améliorer W ; une simple réallocation
+à quantité inchangée entre WTP différentes peut le diminuer.
+Le pays plus pauvre n'est pas automatiquement le plus élastique : vérifier
+la demande, au lieu de déduire les prix du revenu national seul.
+Parallel imports/trade : acheter au marché bon marché et revendre au marché
+cher ; cela compromet la segmentation.
+
+9.4 Bundling
+Pure bundling : seulement le lot ; mixed bundling : lot ET achats séparés.
+Additionner les WTP d'une même personne pour trouver sa WTP du lot,
+puis compter les achats à chaque prix candidat. Comparer les PROFITS,
+donc inclure les coûts et les quantités vendues, pas seulement les recettes.
+L9 p.22 et E2022 Q4d : deux clients représentatifs, coûts non précisés.
+Gourmet : dinner100, room50, bundle150 ; Snoozer : dinner80, room70,
+bundle150. À coûts nuls et une personne de chaque type :
+dîner prix80 vendu2 ->160 ; chambre prix50 vendue2 ->100 ; total260.
+Lot prix150 vendu2 ->300. Le lot extrait davantage des WTP négativement
+corrélées. Sans coûts donnés, ce résultat numérique suppose coûts nuls ou
+coûts par type/service qui ne renversent pas la comparaison.
+Exemple : coûts réels très élevés d'un service peuvent changer le choix.
+
+9.5 Abonnement fixe et two-part tariff : distinction essentielle
+Tarif à deux parties : paiement T(q)=F+p*q.
+Avec un seul client connu, coût marginal constant c et absence de contrainte
+supplémentaire : prix d'usage p=c, quantité efficiente, F=CS(p=c).
+Le vendeur extrait le surplus tout en donnant une incitation marginale efficace.
+Avec types hétérogènes ou F commun, p=c n'est pas toujours optimal.
+Prix uniquement FIXE : p=0 ; consommation jusqu'à WTP marginale0,
+F=intégrale_0^q(0) p_D(x)dx ; profit=F-C(q(0)). Ce n'est pas la solution
+à deux parties lorsque MC>0 : des usages excessifs coûtent réellement.
+
+L9 p.23–25 : p_D=10-Q, C=2Q.
+Monopole simple Q4,p6,pi16.
+Deux parties p2,Q8,F32,pi32.
+Abonnement seul p0,Q10,F50,coût20,pi30.
+F est une recette de la firme et une dépense du client ; ne pas le
+confondre avec le coût fixe de production, également souvent noté F.
+
+9.6 Capacité et produits complémentaires — E2025 Q1
+Capacité2000, 3000 fans WTP1200, 2000 étudiants WTP500, MC0 :
+remplir avec2000 fans à1200 donne2 400 000 kr. Aucun siège disponible
+pour ajouter des étudiants sans remplacer un fan qui paie davantage.
+La discrimination ne permet donc pas d'augmenter le profit dans ce cas.
+Le coût marginal physique est0, mais le siège a un coût d'opportunité.
+
+Concert et T-shirts : maximiser le profit JOINT. Un billet moins cher
+peut attirer un acheteur dont les achats de T-shirts ajoutent de la marge.
+Qc=1000-pc, QT=Qc-2pT, MCc0,MCT20 :
+pi=pc*(1000-pc)+(pT-20)*(1000-pc-2pT).
+FOC : 1020-2pc-pT=0 ; 1040-pc-4pT=0.
+pc=3040/7≈434.286 ; pT=1060/7≈151.429 ; Qc=3960/7≈565.714 ;
+QT=1840/7≈262.857. Billet seul : pc500 ; produit complémentaire ->pc plus bas.
+Vérifier QT>=0 et la validité des demandes ; ici l'optimum est intérieur.

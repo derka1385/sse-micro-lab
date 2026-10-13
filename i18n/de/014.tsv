@@ -1,0 +1,221 @@
+pxx0mh9vyw IR: Der Kunde kann auch nichts kaufen
+2e81o9csek6 Kunde L bewertet Niedrig mit 8 und Hoch mit 12. Bei den Preisen 8 und 16 erhält er 0 bei Niedrig und −4 bei Hoch. Er zieht Niedrig Hoch vor, ist aber auch indifferent gegenüber dem Fernbleiben: Das Angebot muss seine Außenoption decken, nicht nur das andere Angebot schlagen.
+1100ve6h67t IR_L: VL(Niedrig)−TB≥0; IC_L: VL(Niedrig)−TB≥VL(Hoch)−TH. Hier IR_L0, IC_L0≥−4, IR_H4≥0 und IC_H4 = 4.
+hlj6pgrl8f IC kann gelten, während alle Angebote einen negativen Nutzen liefern: Niemand nimmt teil.
+1d151c5dyc6 Im üblichen Menü kann das Abschöpfen der gesamten Rente von L dazu zwingen, H eine Informationsrente zu lassen.
+22tmg936o8y Man muss alle vier Bedingungen prüfen, statt IC_H und IR_L für ausreichend zu erklären, ohne die anderen anzusehen.
+14yn3n4a5h0 TB = 9 und TH = 17 zu setzen ließe L mit −1 bei Niedrig: Auch wenn Niedrig sein bester Vertrag ist, zieht er die Außenoption 0 vor. H behält im ursprünglichen Menü eine Rente von 4.
+2c4kmq3yf9p Du bist L: „Weniger schlecht als Hoch“ reicht nicht; du kannst dein Geld behalten und beide ablehnen.
+1m6k883pwrd L zieht Niedrig(−1) Hoch(−5) vor, Außenoption 0. Wo liegt das Problem?
+q0zgjt5ko9 IR: L lehnt alle Verträge ab
+1a0y2k4wdrg IC vergleicht die Angebote, aber die Teilnahme erfordert hier mindestens 0.
+rfzla5bg7z Nur IC_H
+121n2iirxww Der gezeigte Vergleich betrifft L und seine Weigerung teilzunehmen.
+1zhl92e00o4 Keines, denn Niedrig ist besser als Hoch
+i5coscxgx4 Du hast die Außenoption vergessen.
+19xi8j6488j Zwei Produkte: die Werte derselben Person addieren
+4jwyjd464q Gourmet mag vor allem das Abendessen: 100 für das Abendessen, 50 für das Zimmer. Snoozer bevorzugt relativ das Zimmer: 80 und 70. Jeder bewertet das Paket also mit 150; ein Bündelverkauf kann die Streuung der Werte verringern, mit der der Verkäufer umgehen muss.
+23vm7v8jda6 Pure bundling: nur das Paket; mixed bundling: Paket und Einzelverkauf. Gewinne einschließlich Kosten vergleichen; die Erlöse 300 und 260 setzen hier MC = FC = 0 voraus, um Gewinne zu sein.
+p0zgbry1b6 Getrennt: Preis Abendessen 80 verkauft 2 → 160; Preis Zimmer 50 verkauft 2 → 100.
+12vu3ql94zs Paket zu 150 verkauft 2 → 300; die Produktwerte sind in diesem Fall negativ korreliert.
+1p01ba6tiax Hohe Kosten oder Kunden, die nur eine Leistung kaufen würden, können die beste Gestaltung ändern.
+1vuk9kbvp63 Getrennt 260; Paket 300; Gewinn 40 bei Kosten null. Verkaufen beide Gestaltungen genau zwei Abendessen und zwei Zimmer, heben sich ihre gleichen Kosten auf; verallgemeinere nicht auf andere Mengen.
+1wy6q9s9ace Du verkaufst ein Paket: Addiere für jeden Kunden sein Abendessen und sein Zimmer, nicht das Abendessen von Gourmet mit dem Zimmer von Snoozer.
+22tyaa9rig0 Snoozer bewertet das Abendessen mit 80 und das Zimmer mit 70: seine WTP für das Paket?
+1czfmwqc2sw 80+70 = 150 für dieselbe Person.
+o3cgzdvjjq 170 addiert die besten Werte zweier verschiedener Personen.
+21irgd6s7sn Bei Kosten null, Paketerlös 300 und getrennt 260: Gewinnzuwachs?
+1g81ex1noy0 300−260 = 40, unter der ausdrücklichen Annahme von Kosten null.
+ckgiei3ab6 Zweistufig: Eintritt und Nutzung bepreisen
+2aph9l6tf49 Der Verkäufer kennt einen Kunden, bei dem jede Nutzung 2 an Bereitstellung kostet. Er verlangt 2 pro Nutzung, damit der Kunde am richtigen Punkt aufhört, und erhebt dann eine Eintrittsgebühr. Der Nutzungspreis setzt den Anreiz; die Gebühr teilt den Gewinn auf, ohne die Grenzentscheidung nach dem Eintritt zu ändern.
+73l06uzrkh Ein bekannter Kunde, D = 10−q, MC = 2: T(q) = F+pq; p = 2 → q = 8; CS vor F = (10−2)×8/2 = 32; F = 32 → Gewinn 32, Produktions-FC 0.
+19c0rie19bg Bei p = MC vergleicht der Kunde seine marginale WTP mit den tatsächlichen Kosten einer Nutzung.
+1px1jjdl2me F kann dann die Teilnahmerente abschöpfen, ohne diesen Grenzpreis zu ändern.
+x8uixydqpm Bei mehreren Typen und einer gemeinsamen Gebühr ist p = MC nicht immer optimal: Die Teilnahme ändert sich.
+24svk2b9hal Gesamtzahlung 32+2×8 = 48; Kosten 16; Gewinn 32. Der Kunde erhält den Wert 48 und zahlt 48: Nettonutzen 0 bei schwacher Teilnahme.
+10ti14a0h61 Du hast den Eintritt schon bezahlt: Für die nächste Nutzung zählen die 2 pro Nutzung, nicht die vergangene Gebühr.
+1vw59oozg1m D = 10−q, Nutzungspreis 2: wie viele Nutzungen?
+1y7afe5vuyg Welches maximale F bei einem einzigen bekannten Kunden und Außenoption 0?
+c2rcljhpl7 Rente vor der Gebühr = (10−2)×8/2 = 32.
+iuxro8e08a 48 ist der Gesamtwert; der Kunde zahlt bereits 16 für die Nutzung.
+25ta9dv1mf2 50 entspricht kostenloser Nutzung, nicht p2.
+116ljytfexa Nutzungspreis und Abo ergeben nicht dieselbe Menge
+28dt5mm1zxp q: konsumierte Einheiten
+ae6zdxx5q6 Marginale WTP / Kosten / Nutzungspreis
+2fyxoo0licn Ein bekannter Kunde: D = 10−q, MC = 2. Einheitspreis 6 → q = 4; two-part tariff p = 2 → q = 8, F = 32; nur Abo p = 0 → q = 10, F = 50. F ist eine feste Zahlung des Kunden, nicht die Fixkosten der Produktion.
+179motrv5sp Der Konsum endet, wenn die marginale WTP den Nutzungspreis erreicht.
+11w7rx9g8r7 MC = 2 / Nutzung p = 2
+102jnzzpn9f Der effiziente Nutzungspreis deckt die Grenzkosten.
+saqoibyc6e Nutzung p0
+gkbvgcbrjv Ein reines Abo macht die Nutzung kostenlos, nicht die Ressourcen.
+1dt5tg7pumb Einheitspreis
+2cmgogv9w0b Zweistufig
+uizzpa4cjv Nur Abo
+d8m6m9y2ut Ein reines Abo macht die Nutzung kostenlos
+jxr947hg96 Der Verkäufer verlangt nur eine Gebühr, ohne Preis pro Nutzung. Einmal drin, nutzt der Kunde den Dienst, bis sein Grenzwert 0 erreicht. Das kann über das effiziente Niveau hinausgehen, wenn jede Nutzung weiterhin 2 an Bereitstellung kostet.
+1towd792syu Derselbe Kunde, nur Abo: p_usage 0 → q = 10; F = 50; Kosten 20; Gewinn 30. Das ist nicht der zweistufige Tarif p = 2, F = 32, der den Gewinn 32 ergibt.
+7wuov4tqzk Die feste Zahlung ist bei der Entscheidung über eine weitere Nutzung versunken.
+ddf717g9ov Bei q = 9 ist Wert 1<Kosten 2, aber der Kunde zahlt am Rand 0: Er will trotzdem nutzen.
+155u5recibo F bezeichnet hier den Abo-Erlös, nicht die Fixkosten der Produktion; die Symbole umzubenennen vermeidet Verwechslungen.
+1gnu9pi853c F = Fläche unter D bis q = 10 = 10×10/2 = 50; Gewinn 50−2×10 = 30. Zweistufig: Gewinn 32 bei nur 8 Nutzungen, also weniger verschwendete Ressourcen.
+12ftugabexv Du bist an einem All-you-can-eat-Buffet: Die letzte Portion scheint dir kostenlos, während der Anbieter seine Ressourcen weiterhin bezahlt.
+1dkxqko79t4 Nur Abo F = 50, q = 10, MC = 2, Produktions-FC 0: Gewinn?
+z1neunze8k Der Abo-Erlös ist nicht der Gewinn: Die Nutzungen müssen bezahlt werden.
+21egcinzec5 32 gehört zum zweistufigen Tarif, einem anderen Vertrag.
+z6hpkpa8uh Ein Rabatt kann einen besseren Kunden verdrängen
+x5lzujb95w Das Konzert hat 2 000 Plätze, bereits nachgefragt von 3 000 Fans, die bereit sind, 1 200 zu zahlen. Studierende bieten 500. Auch wenn es physisch fast nichts kostet, eine Studentin oder einen Studenten hereinzulassen, ersetzt dieser Platz hier den eines Fans, der 1 200 gezahlt hätte.
+upkxcifj27 Bindende Kapazität: Opportunitätskosten eines Platzes. E2025: Preis 1 200 für die 2 000 Fans → Erlös 2,4 Millionen; eine Kategorie zu 500 hinzuzufügen schafft keine Plätze.
+2fxwbbnkfa6 Den zusätzlichen Platz gibt es nicht: Ein Kunde muss den anderen ersetzen.
+2dtdbzm4rtf Der Erlösausfall durch Ersetzung beträgt 1 200−500 = 700.
+74prn8tke3 Bei unverkauften Plätzen oder schwächerer Fan-Nachfrage könnte sich die Überlegung ändern: Die Beschränkung muss geprüft werden.
+ge1metd0an 100 Fans durch 100 Studierende zu ersetzen kostet 100×700 = 70 000, bei diesen WTP und MC = 0. Ein Rabatt ist nicht schon deshalb rentabel, weil er eine identifizierbare Gruppe bedient.
+2djcjijybtb Du leitest den Ticketverkauf: Bevor du einen Tarif öffnest, frag, wie viele Plätze ohne ihn wirklich leer blieben.
+1i971kx8722 Ein Fan-Platz zu 1 200 wird durch Studierende zu 500 ersetzt: Erlösausfall?
+6wqbeepszt 1 200−500 = 700 Opportunitätskosten.
+26wca2xh6r2 Die physischen Kosten von 0 löschen den verdrängten Kunden nicht aus.
+23i4jntate6 Ticket und T-Shirt: Gewinn gemeinsam maximieren
+1m607itl8gr Ein Veranstalter verkauft auch T-Shirts an die Anwesenden. Ein billigeres Ticket kann Besucher anziehen, die dann ein Produkt mit Marge kaufen. Der beste Ticketpreis hängt also von den Gewinnen ab, die er anderswo schafft, nicht nur vom isolierten Ticketverkauf.
+1dwurw30zae pc zu senken erhöht Qc, aber auch die Kundenbasis für T-Shirts.
+298hqzcj547 Die Firma vergleicht den Erlösausfall bei Tickets mit dem Margengewinn bei T-Shirts.
+2bzjo16yvlg Ein inneres Ergebnis muss QT≥0 und die Definitionsbereiche der Nachfragen respektieren.
+1vpddw05nkq pc = 3040/7≈434,29; pT = 1060/7≈151,43; Qc = 3960/7; QT = 1840/7>0. Ohne T-Shirts pc = 500: Das Komplement begründet hier ein billigeres Ticket.
+21sud8gowrb Du veranstaltest das Event: Eine Aktion, die den Erlös pro Ticket senkt, kann den Gesamtgewinn verbessern, wenn sie anderswo genug Marge schafft.
+2comuvvx97u Warum hier nicht den Ticketerlös getrennt maximieren?
+17st8tbrwy2 Der Ticketpreis ändert auch Absatz und Marge der T-Shirts
+b4jol822mn Die beiden Nachfragen hängen über die Zahl der Besucher zusammen.
+11hqy2tmn05 Weil alle Komplementärprodukte kostenlos sein müssen
+1p4itknwqd0 Der richtige Kompromiss wird berechnet; er ist keine Gratisregel.
+78x2xnq8el Weil die MC der T-Shirts 0 sind
+1wgltmfrod2 Die angegebenen Kosten sind 20; sie zu vergessen würde die FOC ändern.
+ff4ifxd6j9 Vor der Rechnung angeben, welchen Vertrag du analysierst
+7cfzar38cz Der Verkäufer kann deinen Status erkennen, dich eine Version wählen lassen oder ein Paket verkaufen. Diese Mechanismen ergeben weder dieselben Bedingungen noch dieselbe Menge. Du löst die Aufgabe, indem du bestimmst, was der Verkäufer weiß und was jeder Kunde wählen kann, bevor der Gewinn optimiert wird.
+1khfdn5bu7s Checkliste: beobachtbar → dritten Grades; verborgener Typ/Menü → zweiten Grades; exakte Werte → ersten; Paket → Bundling; T(q) = F+pq → zweistufig, mit p0 bei reinem Abo.
+1wzgzrhgotw Das Wort „Abo“ legt den Nutzungspreis nicht automatisch fest.
+23o0sni6600 Ein Vertrag muss von den Kunden gewählt und angenommen werden, bevor sein Erlös erzielbar ist.
+134amc5zim7 Aussagen zu Gewinn und Wohlfahrt erfordern ausdrücklich angegebene Kosten, Kapazität und Außenoption.
+hqkgclwyct E2023 Abo D = 10−2q, C = 10+2q: Nutzung 0, q = 5, F = 25, Gewinn 5. Zweistufig mit p = 2, q = 4, F = 16, Gewinn 6: Wer die Gestaltungen verwechselt, bekommt eine andere Antwort.
+9bwus97n1m Du bekommst eine neue Aufgabe: Schreib zuerst „Was zahlt der Kunde für den Eintritt, dann für eine weitere Nutzung?“
+m4les6f7ls Baue eine Tarifanalyse neu auf.
+1yje88piyd Bestimmen, was der Verkäufer weiß und welche Verträge möglich sind
+ax34utcqel Werte und Nettonutzen jedes Typs berechnen
+5wrte52uoh Teilnahme, Anreize, Arbitrage und Kapazität prüfen
+1bfku9y4tbw Mengen, Erlöse und Kosten berechnen
+1jd7h1vjn3s Gewinne, dann Renteneffekte vergleichen
+kz7azyzj05 Bestimmen, was der Verkäufer weiß und welche Verträge möglich sind → Werte und Nettonutzen jedes Typs berechnen → Teilnahme, Anreize, Arbitrage und Kapazität prüfen → Mengen, Erlöse und Kosten berechnen → Gewinne, dann Renteneffekte vergleichen
+241jrcnsjtd Ein gemeinsamer Preis lässt Kunden mit hoher WTP eine Rente und kann andere Kunden ausschließen.
+2z2p2wh0cm Ein beobachtbarer Typ erlaubt Gruppen; ein verborgener Typ erfordert ein Menü oder eine andere Form der Selbstselektion.
+j9qu9ah14r Er wählt sein bestes Angebot und kann auch ablehnen: IC und IR begrenzen die Abschöpfung.
+1ai6yk02ygh Ein angekündigter Preis bringt nichts, wenn der Kunde den Vertrag wechselt oder nicht teilnimmt.
+2cxwpjlu5vg Mehr Erlöse oder mehr Kategorien garantieren keinen Nettogewinn.
+1rmnvk7s3nr Ein Gewinnzuwachs kann eine Umverteilung sein oder mit einer weniger effizienten Allokation einhergehen.
+2eq5wg2g8ec Ein beobachtbarer Studierendentarif ist Diskriminierung dritten Grades; ein Menü für verborgene Typen ist Selbstselektion zweiten Grades. H kann bei Niedrig 12−8 = 4 erhalten. Damit er Hoch wählt, muss 20−TH mindestens 4 erreichen, also TH≤16: 20 zu verlangen verletzt IC_H. IR prüft zudem, dass jeder die Teilnahme der Außenoption vorzieht. Ein reines Abo setzt den Nutzungspreis auf 0; ein zweistufiger Tarif trennt die Gebühr und diesen Nutzungspreis.
+z7i4azlnz3 Der Verkäufer will unterschiedliche Werte abschöpfen.
+rhk63thxdv Die verfügbare Information bestimmt den Mechanismus.
+fw9o114v6n Jeder Kunde vergleicht alle seine Nettonutzen.
+1ffd6xeaeqo Der erzielbare Erlös hängt von den tatsächlichen Entscheidungen ab.
+cc2e71sh9q Kosten, Arbitrage und Kapazität entscheiden über den Gewinn.
+9uvh8kh07u Die Wohlfahrt wird getrennt gezählt.
+1t80ybvbcki Erkläre den Unterschied zwischen einem beobachtbaren Studierendentarif und einem Menü Niedrig/Hoch. Mit VH(Niedrig)12, VH(Hoch)20, TB = 8, TH = 16: Warum kann man nicht TH = 20 verlangen? Unterscheide auch reines Abo und zweistufigen Tarif.
+1utzsda4v98 Beobachtbar oder verborgen
+1q02zzlszxd Dritten Grades ordnet eine bekannte Gruppe ein; zweiten Grades lässt den verborgenen Typ aus einem Menü wählen.
+2desm0z7n7m Die Verträge vergleichen
+1w2as1mzluy H gewinnt 4 bei Niedrig; TH = 20 ließe ihm 0 bei Hoch, also würde er Niedrig wählen.
+1qxkw2ksaqz Ablehnen können
+k82ocu42om Die Teilnahme erfordert mindestens den Wert der Außenoption.
+28yl00xx4qq Eigener Nutzungspreis
+2g4o7hfgdnw Nur Abo: Nutzung zu 0; zweistufig fügt einen Nutzungspreis hinzu, der bei einem bekannten Kunden MC sein kann.
+22h7kchhj2z IC vergleicht die Angebote untereinander; IR vergleicht das beste Angebot mit der Ablehnung der Teilnahme.
+1w95akji2zz Die Gebühr ist ein Erlös des Verkäufers; die Fixkosten der Produktion sind eine getrennte Ausgabe.
+14s1kg2lki7 Tarifwahl für einen bekannten Kunden
+5y1p56n5l2 Konstruierte Übung, angelehnt an L9 und E2023 Q2c; keine offizielle Lösung. Angenommen werden ein einziger bekannter Kunde, Produktionsfixkosten von null und schwache Teilnahme.
+1dt6khmb4t1 Nutzung p = MC = 4 → q = 8; F = (12−4)×8/2 = 32; die Nutzungserlöse decken die variablen Kosten, also π = 32.
+d5u1n8o6bv Nutzung p = 0 → q = 12; F = 12×12/2 = 72; Kosten 4×12 = 48; π = 24.
+1ps76h69nnt Den marginalen Nutzungspreis in jedem Vertrag bestimmen.
+g5q7i560mt Den Konsum des Kunden bestimmen, dann die Rente, die die feste Zahlung begrenzt.
+2cxchgudz38 Die tatsächlichen Kosten abziehen, um die Gewinne zu vergleichen.
+1qsa1hhocyk Zweistufig: p = 4, q = 8, F = 32; Zahlung 64, Kosten 32, π = 32.
+1cyeff141an Nur Abo: p_usage 0, q = 12, F = 72; Kosten 48, π = 24.
+s0qw77qwe9 D = 12−q und MC = 4 zeichnen.
+1xpyc3t3a37 Der effiziente Konsum ist q = 8; kostenlose Nutzung führt zu q = 12, wo die Einheiten 8–12 WTP<MC haben.
+rqr8qxa26y Die zweistufige Gebühr 32 ist das Dreieck zwischen D und p = 4 über 0–8.
+19j2vi4qwt2 Eine beim Verkauf identifizierte Studierendengruppe entspricht eher…
+1rj4trws9kz Der Status ist beobachtbar; keine Selbstselektion über Verträge nötig.
+13kmqk4yn5b Der zweite Grad betrifft einen verborgenen Typ, der sich durch seine Wahl selbst einordnet.
+1j9zby9y5gv Der Status verrät nicht die exakte WTP jeder Einheit.
+jix9lmwi1o IR prüft…
+2cgultslccj Dass ein Kunde annimmt, statt die Außenoption zu wählen
+atgo5im0hj Teilnahme und Anreiz beantworten zwei verschiedene Vergleiche.
+1b1j7862s24 Dass er seinen Vertrag dem anderen vorzieht
+pe5gno6q9r Das ist IC.
+13ehuiccnxs Dass der Verkäufer MR = 0 setzt
+1xpbasp1ymj IR betrifft die Teilnahmeentscheidung des Kunden.
+245q136yph4 Warum kann H die Version Niedrig wählen?
+1i3jll2aw33 Seine Preisersparnis übersteigt seinen Wertverlust
+dsj1ntciws Er maximiert seinen eigenen Nettonutzen, nicht das Etikett im Menü.
+1ppe69h6xlt Weil IC automatisch erfüllt ist
+10i014kevvg Genau deshalb muss man IC_H prüfen.
+1bh53ekwtme Weil H denselben Geschmack wie L haben muss
+7s38w2lrky Jeder Typ vergleicht die Verträge mit seinen eigenen Werten.
+236lcyq8rwb Baue den möglichen Überkonsum bei einem reinen Abo neu auf.
+2b0l2g3wqgl Der Kunde zahlt eine feste Gebühr
+1jbch94pe4u Der Preis einer weiteren Nutzung ist 0
+1cnj0by6jh1 Er konsumiert bis zu einer marginalen WTP von 0
+23myyv8eqem Wenn MC>0, kosten manche Einheiten mehr, als sie wert sind
+140zy6ebbe5 Der Kunde zahlt eine feste Gebühr → Der Preis einer weiteren Nutzung ist 0 → Er konsumiert bis zu einer marginalen WTP von 0 → Wenn MC>0, kosten manche Einheiten mehr, als sie wert sind
+vseylkljfd Baue einen zweistufigen Tarif neu auf.
+27t9vr62rr8 Eine Gebühr plus eine Zahlung pro Nutzung.
+y1n9hkqwz2 H bewertet Niedrig mit 10, Hoch mit 18; Niedrig kostet 6. Höchster Preis für Hoch bei schwacher IC_H?
+1ga9wreyree H behält 10−6 = 4 bei Niedrig; 18−TH≥4 → TH≤14.
+f02xbrh0l8 18 erfüllt IR_H, verletzt aber IC_H, da Niedrig 4 lässt.
+1523lok4ock D = 10−2q, C = 10+2q; reines Abo mit Nutzung zu 0: Gewinn?
+jo7erlbhj9 q = 5, F = 25, Kosten 10+2×5 = 20, Gewinn 5.
+1vzdr9ifwou 6 ist das Ergebnis mit einem Nutzungspreis von 2 und einer Gebühr von 16, ein anderer Vertrag.
+pon5hsl6yh Ein Platz lässt sich bereits für 1 200 verkaufen. Schafft ein Verkauf für 500 bei physischen MC von 0 einen Gewinn von 700?
+1lr0402ro1z Nein: Er opfert 700 Erlös bei fester Kapazität
+11eqv5iizte Die Opportunitätskosten des verdrängten Kunden zählen.
+1u7b2ltgozr Ja, weil MC = 0
+230gevy1y9o Der Platz ist knapp, auch ohne zusätzliche physische Kosten.
+138l5x04y6x Ja, jeder Rabatt erhöht den Gewinn
+1anlz6b6gv3 Die Beschränkungen und das kontrafaktische Szenario entscheiden.
+1veeigoytft Another customer displaced
+nans3fdvy9 Opportunity cost
+1p9jezecycv Ich erkenne Information, Grad und Möglichkeit der Arbitrage.
+283fu8ng04e Der Preismechanismus hängt davon ab, was der Verkäufer weiß und verhindern kann.
+15kpb8apt83 Ich berechne die Entscheidungen und prüfe IC und IR jedes Typs.
+2deunj1fk8u Ein angekündigter Erlös ist nicht erzielbar, wenn der Kunde abweicht oder ablehnt.
+1ob6k8m6lgf Ich unterscheide reines Abo und Nutzungspreis plus Gebühr.
+v82gtankb7 Bei MC>0 ergeben sie unterschiedliche Grenzanreize und Mengen.
+1ybnwsv3xcc Ich vergleiche Gewinne mit Kosten und Kapazität, dann die Wohlfahrt getrennt.
+libfvgcavd Mehr Erlöse, eine neue Kategorie oder ein identisches Gesamt-Q garantieren keinen Effizienzgewinn.
+1akf0izgihp Oligopol — die Wahl des anderen vorhersehen
+g2um5wbz1h Cournot, Stackelberg und Bertrand
+1x2js5359tt Ein Unternehmen entscheidet nicht mehr allein. Seine Wahl ändert, was der Rivale tut. Menge, Preis, simultan oder sequenziell: Das Spiel muss vor den Formeln gewählt werden.
+d4j07xw7ct Wählen ihre Käufe nach Preis und Substituten.
+uu39eu0yfm Die Leistung zum besten Preis-Leistungs-Verhältnis erhalten.
+1eweiy62fr7 Firma 1
+1x29jd46963 Wählt ihre Strategie unter Berücksichtigung der Rivalin.
+1fpemg7w5t2 Den eigenen Gewinn maximieren.
+1f8vitccw3o Firma 2
+xl0zi96ghn Reagiert auf die von Firma 1 geschaffenen Bedingungen.
+ctulu70sfe Ebenfalls den eigenen Gewinn maximieren.
+ppdlfraqvq Vergleicht die Ergebnisse der Wettbewerbsregeln.
+1trrcim8fwn Produktion, Preise und tatsächliche Kosten zählen.
+fgfib05xsm Was wählt jede Firma, und wann?
+1a8s2t9thae Zwei Verkäufer können konkurrieren, indem sie Mengen oder Preise ankündigen. Einer kann auch zuerst entscheiden, während der andere beobachtet und reagiert. Diese Regeln ändern die beste Wahl: Die bloßen Worte „zwei Firmen“ ergeben noch kein Modell.
+2e754czxng0 Cournot: simultane Mengen. Bertrand: simultane Preise, homogene oder differenzierte Produkte – das ist anzugeben. Stackelberg: sequenzielle Mengen in der üblichen Version.
+vk4194f6hy Eine als gegeben betrachtete Menge der Rivalin spielt nicht dieselbe Rolle wie ein Preis der Rivalin.
+20jxqxlz7f9 Eine erste Wahl zu beobachten erlaubt es, die zweite daran zu knüpfen; wer zuerst entscheidet, antizipiert das.
+1qbtn4iuz8x Homogenität und Kapazität bestimmen, ob eine kleine Preissenkung den ganzen Markt anziehen kann.
+188r55agsdh Zwei Kupferproduzenten, die am selben Tag q1 und q2 wählen: Cournot. Zwei Cafés, die ihre Preise wählen: differenzierter Bertrand, wenn die Kunden ihre Produkte unterscheiden.
+41kbod2a7r Du liest die Aufgabe: Unterstreiche „quantity“, „price“, „first“, „observes“, bevor du eine Reaktionsfunktion aufstellst.
+2235r09c2ms Zwei gleichzeitig gewählte Mengen für ein homogenes Gut: welches Spiel?
+1vk2x2gin1l Cournot
+y5a0e9ydfb Die strategische Variable ist die Menge, und die Wahl ist simultan.
+4sihk9drwo Bertrand, weil es zwei Firmen gibt
+1uaczslf83h Die Anzahl reicht nicht; Bertrand betrifft Preise.
+127k79g2ecs Stackelberg, weil Firma 1 zuerst genannt wird
+2b16wkfkak3 Es braucht eine echte sequenzielle Festlegung, nicht die Reihenfolge der Namen.
+1qydpwbry6i Nash: Jede reagiert auf die tatsächlich getroffene Wahl der anderen
+1hq359cz2v7 Firma 1 betrachtet die Menge von Firma 2 und wählt die Menge, die ihr am meisten einbringt. Firma 2 überlegt genauso. Gesucht ist ein Paar, bei dem keine allein etwas ändern will, solange die Wahl der Rivalin fest bleibt.
+ldk0vycpzu Nash: keine profitable einseitige Abweichung. Der Schnittpunkt der besten Antworten ist ein Gleichgewicht; das bedeutet nicht maximalen gemeinsamen Gewinn.
+hml4cpoq2u Eine beste Antwort ist bedingt auf die Wahl der Rivalin.

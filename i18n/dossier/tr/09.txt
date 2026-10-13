@@ -1,0 +1,94 @@
+======================================================================
+7. RANT, VERGİLER, SÜBVANSİYONLAR VE DÜZENLENMİŞ FİYATLAR — L7
+======================================================================
+
+7.1 Kim neyi alır?
+CS, consumer surplus: alıcılar için toplam değer eksi ödemeleri.
+CS=integral_0^Q [p_D(q)-p_b] dq, birimler onlara en çok değer veren
+alıcılara giderse. p_D=a-bQ için: CS=(a-p_b)*Q/2.
+PS, producer surplus: vergi sonrası hasılat eksi değişken maliyet.
+PS=integral_0^Q [p_s-MC(q)] dq; p_S=c+dQ için: PS=(p_s-c)*Q/2.
+Kâr=PS-FC. Farklı fiyatlar varsa, tek bir pQ dikdörtgeni yerine
+gerçek hasılatı integralle hesapla.
+Devlet ve dışsallık olmayan modelde, sabit maliyetler değişmeden refah W=CS+PS.
+Devlet varsa: vergi gelirini ekle, sübvansiyon harcamasını
+çıkar. Dışsallık varsa: dışsal faydaları ekle, zararları çıkar.
+Giriş veya sabit maliyetler değişirse bu gerçek maliyetleri de dahil et.
+
+Rantların toplamı parasal etkinliği ölçer, hakkaniyeti değil.
+CS'den PS'ye bir transfer tek başına DWL değildir. Ölü ağırlık kaybı,
+etkin karşılaştırma durumuna göre NET bir rant kaybıdır.
+Rekabetçi model, talep sosyal marjinal fayda, arz sosyal marjinal
+maliyet ise ve diğer varsayımlar geçerliyse W'yi maksimize eder.
+Tekel, dışsallık veya asimetrik bilgi bu sonucu bozabilir.
+
+L7 örneği: p_D=23-Q, p_S=2+2Q ->Q7,p16.
+CS=(23-16)*7/2=24.5; PS=(16-2)*7/2=49; W73.5.
+Q 5 ile sınırlanır ve fiyat 18 olursa: CS12.5; PS55; W67.5; DWL6.
+Burada üreticiler 6 kazanırken tüketiciler 12 kaybeder:
+sosyal kayıp 6'dır, 12 değil.
+
+7.2 Birim vergi: ÜÇ ilişki yaz
+QD(p_b)=QS(p_s)=Q; p_b=p_s+t.
+Tüketici p_b öder; üretici p_s'yi tutar; devlet tQ alır.
+Yasanın vergiyi alıcıya mı satıcıya mı ödettirdiği, aynı vergi ve aynı
+işlem olanaklarıyla bu modelin dengesini değiştirmez.
+
+p_D=a-bQ ve p_S=c+dQ için, b,d>0, iç çözüm:
+Q0=(a-c)/(b+d); Qt=(a-c-t)/(b+d).
+p_b=a-bQt; p_s=c+dQt; T=tQt.
+Alıcı fiyatındaki artış=b*t/(b+d).
+Satıcı fiyatındaki düşüş=d*t/(b+d).
+DWL=t*(Q0-Qt)/2=t^2/[2(b+d)], dışsallık/piyasa gücü OLMADAN.
+Yasaklayıcı verginin ötesinde Q=0; formülleri Q<0'a uzatma.
+
+Ekonomik yansıma: daha az esnek taraf daha fazla yüklenir.
+Yerel rekabetçi biçim: alıcı payı=epsilon_S/(epsilon_S+|epsilon_D|),
+satıcı payı=|epsilon_D|/(epsilon_S+|epsilon_D|).
+Bu paylar oligopol veya tekel için genel bir kural değildir.
+Az esnek bir matrah Q'da daha az değişim yaratır, dolayısıyla karşılaştırma
+varsayımları altında aynı vergi için genellikle daha az DWL.
+
+L7 vergi t3: Q6,p_b17,p_s14,T18; CS18,PS36,W72,DWL1.5.
+Devlete aktarılan dikdörtgenler yok edilmez.
+Yine de bir vergi bir kamu malını finanse edebilir veya bir dışsallığı düzeltebilir:
+DWL'si tüm politikayı yargılamaya yetmez.
+
+7.3 Birim sübvansiyon
+QD(p_b)=QS(p_s)=Q; p_s=p_b+s.
+Alıcı daha az öder, satıcı daha fazla alır, devlet sQ öder.
+Qs=(a-c+s)/(b+d); W=CS+PS-sQ.
+Dışsallık yoksa: DWL=s*(Qs-Q0)/2. Ek birimlerin gerçek maliyeti
+faydalarından yüksektir. Pozitif dışsallık varsa, dışsal düzeltme
+içermeyen bu formül yanlış teşhis verebilir.
+L7 s3: Q8,p_b15,p_s18; CS32,PS64,harcama24,W72,DWL1.5.
+
+7.4 Tavan ve taban fiyat
+Price ceiling / cap: azami fiyat. Olağan durumda tavan p*'ın altındaysa
+bağlayıcıdır. İşlem miktarı çoğu zaman QS ile sınırlıdır; kıtlık QD-QS.
+Tavanı yatay çiz; QS ve QD'yi ayrı ayrı oku.
+CS tayınlamaya da bağlıdır: standart formül, mevcut birimlerin
+en yüksek WTP'ye sahip alıcılara gittiğini varsayar.
+Rastgele tayınlama, kuyruklar ve arama ek kayıplar getirebilir.
+PS düşer; CS artabilir VEYA düşebilir; başka bir aksaklık yoksa W düşer.
+L7 tavan 12: QS5,QD11; işlem 5; CS42.5,PS25,W67.5,DWL6.
+Basit rekabetçi modelde >=p* bir tavan bağlayıcı değildir.
+
+Price floor: asgari fiyat, p*'ın üstünde bağlayıcı. Arz fazlası.
+Kamu alımı yoksa satılan miktar QD ile sınırlıdır; QS'yi
+tüketilen miktar olarak sayma. Kamu alımı varsa maliyetini ve
+satılmayanların akıbetini dahil et. Refah sonucu bu düzenlemeye bağlıdır.
+
+E2023 Rus petrolü: «tavan ->kıtlık»ı mekanik olarak uygulama.
+Rus arzı 50'nin ötesinde dikey, 90 yerine 60 tavan: aynı hacim
+günde 8 milyon varil; rant transferi 30*8 milyon=240 milyon
+USD/gün. Varsayımlar altında bu arzda düşüş yok; tavan
+bir tedarikçiyi hedefler, tüm dünya piyasasının fiyatını değil.
+
+7.5 Vergiler ve gelirler: kontrol edilecek bir sonuç
+Revenue=t*Q(t). t'yi düşürmek birim başına kesintiyi azaltır ama
+hacmi artırabilir. Delta revenue'nun işareti sayılar olmadan evrensel değildir.
+İnelastik talep ve küçük bir vergi indiriminde hacim az değişir ve
+gelirler genellikle düşer. Soru sayısal hesaba izin vermiyorsa
+iki etkiyi de göster. % cinsinden KDV ile birim vergi
+aynı değildir; E2025, KDV'yi birim vergi gibi ele almaya açıkça izin verir.

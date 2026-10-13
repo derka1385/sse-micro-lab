@@ -1,0 +1,224 @@
+1eizah3tc14 Om Y spelar först förblir X orustat efter rustat Y eftersom 1>−1, men rustar efter orustat Y eftersom 4>3. Y förutser 2 genom att rusta mot 1 genom att förbli orustat och väljer därför att rusta. Ett hot från X om att rusta till varje pris skulle inte vara trovärdigt efter att Y har rustat.
+29nqhfs09uk Bakåtinduktion med omvänd ordning: utfall (1,2). Ett trovärdigt hot måste förbli optimalt i det ögonblick det verkställs; ett åtagande kan ändra kostnaderna eller möjligheterna.
+vsn6ingc15 Y väljer genom att förutse nettovinsten av sitt eget val efter X:s reaktion.
+jud96hhbxl Ett icke-bindande löfte förvandlar inte −1 till en vinst större än 1; en verklig åtaganderegel måste ändra incitamenten eller alternativen.
+18yzwcn0vsj Y först: strategi X=(inte rusta efter rustat Y; rusta efter orustat Y). Y rustar och får 2, X får 1.
+hbl81bo0x9 Bedöm motspelarens hot genom att sätta dig i det ögonblick då den skulle behöva verkställa det, inte i det ögonblick då det passar den att tillkännage det.
+nzv9dytw3 När Y spelar först, vilket utfall och vilka nettovinster följer av bakåtinduktionen?
+10t2182se3y Bara Y rustat; (X,Y)=(1,2)
+2bu4fy291hx X svarar inte på rustat Y med att rusta; Y föredrar 2 framför den 1 det skulle få genom att avstå från att rusta.
+19cqdkzoo7c Bara X rustat; (4,1)
+1oi3absnr34 Det är utfallet när X spelar först. Omvänd ordning ändrar den inledande kalkylen.
+1x8pbp6hlz9 Båda rustade; (−1,−3)
+1nwmdwre3eg Efter rustat Y föredrar X 1 framför −1 och rustar inte.
+1x1wehep36j Ett bästa svar jämför dina handlingar inom ett och samma scenario för motspelaren.
+20wmred41yw En handling som är lika med maximum förblir optimal.
+2bz0c7t8gkn Ingen spelare förbättrar då sin vinst genom att avvika ensam: det är Nash.
+94hfji3lv4 Ledaren förutser svaren, även efter en handling som den inte kommer att spela.
+tix6l0y2l0 Ett hot måste förbli ett optimalt val när situationen uppstår.
+1ebmg4ypue6 En Nash är stabil mot en ensidig avvikelse: vid självisk NN lämnar ett byte till S på egen hand din vinst på 0. Båda skulle kunna tjäna 10 vid SS, men det kräver en koordinerad förändring, så stabilitet och effektivitet skiljer sig åt. Med lika altruism räknas den andras pengar: att ensam byta från N till S mot N ger dig nyttan 20, så NN upphör att vara Nash. I ett sekventiellt spel väljer man följarens optimala plan efter varje möjlig handling, sedan förutser ledaren dessa svar. Utfallet ersätter inte strategin utanför vägen.
+klci9jbun8 Låsa motspelarens möjliga handling
+9f8mzq0meb Jämföra alla dina vinster och behålla likheterna
+28y4tasel5d Söka ömsesidiga bästa svar
+1j1qorodv3z Om spelet är sekventiellt, lösa följaren överallt
+niwam5f8pn Kontrollera trovärdigheten i den nod där hotet verkställs
+1s4xzk5j05l Förklara varför NN kan vara Nash utan att vara bra för båda, och sedan varför NN upphör att vara Nash med lika altruism. Avsluta med skillnaden mellan utfall och fullständig strategi i ett sekventiellt spel.
+8vy8a641l1 Den egna vinsten mot den låsta motspelaren
+14njauy6nqp En avvikelse ändrar bara din handling.
+u8dpcux70a Behålla likheterna
+16ytj3yljhz Nash utesluter strikta förbättringar, inte byten med lika vinst.
+pf748d78hg Stabilitet och effektivitet åtskilda
+vc3g16wgnr En förbättring som kräver två är ingen ensidig avvikelse.
+1z0jp0t2n44 Omvandla vinster till nyttor
+8p588exx8k Med lika altruism ger ett byte till S mot N nyttan 20 i stället för 0.
+1wsxc0vmcfd Följarens hela plan
+1dml9j6fxua En strategi omfattar handlingarna utanför vägen och löses bakåt.
+go0o6gdddo Nash utesluter ensidig vinst; effektivitet jämför kollektiva förändringar.
+vwayodjpmf I det själviska spelet ger N och S båda 0 mot N: N är svagt dominant.
+q3289vpip5 Testa en avvikelse till S mot N: den andra får 20 och din nytta går från 0 till 20. NN är inte längre Nash.
+1zoz6y05snn Övning byggd på A3-matriserna som kontrollerats i §13. Den rättar uttryckligen fällorna i den personliga lösningen; inget modellsvar presenteras som officiellt.
+vckh83qy15 Vad betyder BR?
+1nljyeyrrkz Best response: bästa valet mot en given handling från motspelaren
+sgn5ep8m31 Man låser motspelaren och maximerar sin egen vinst.
+ibicievo6w Biggest revenue: största rutan i tabellen
+7z3c1qawen Du styr inte båda spelarna, och vinster är inte nödvändigtvis intäkter.
+5f6ck8nrhp En sekventiell strategi innehåller…
+8a7sp1vqpr En handling i varje nod där spelaren skulle kunna fatta beslut
+1zsefxc075u Inklusive noderna som inte nås i jämvikt.
+1t3g48qjkd8 Bara det observerade utfallet
+532ro2i5t6 Ledaren måste kunna förutse de alternativa grenarna.
+25wmki1e20r Bygg upp testet för rent Nash igen.
+2axpnmjn5gi Låsa en handling från motspelaren
+2ajnciqaqlg Jämföra alla egna handlingar och behålla likheterna
+j30kqogmey Upprepa för den andra spelaren
+1ffx9u0bg6g Identifiera rutorna med ömsesidiga bästa svar
+1uojyedg7t0 Bygg upp bakåtinduktionen igen.
+ltt6u43zbg Beräkna nettovinsterna i slututfallen
+1sjtmrxkcxk Bestämma följarens optimala val efter varje möjlig handling
+ymilfgkrd7 Låta ledaren välja med dessa svar i åtanke
+c85a4yvfrr Ange den fullständiga profilen, även utanför vägen, och utfallet
+18whjqkhhmq Vid SS med u_i=m_i+2 m_j och pengar (10,10), vilken nytta har varje spelare?
+via7nby7xf Y, ensamt rustat, får 5 olja och betalar 3. Dess nettovinst?
+1r3z2wx04g5 5−3=2. Tillskriv det inte den orustade spelarens vinst 1.
+dcsbmrtffx Ett företag hotar med ett priskrig som, när inträdet väl har skett, skulle ge det mindre än att acceptera inträdet. Utan ytterligare åtagande är hotet…
+8lno0qmybm Inte trovärdigt
+20oehqysmwt Företaget skulle inte ha intresse av att verkställa det i den aktuella noden.
+25tw8mvvpsp Trovärdigt eftersom det tillkännages offentligt
+1on5hen4c8g Ett tillkännagivande ensamt ändrar inte vinsterna; man måste förklara vad som faktiskt binder företaget.
+oh1m1frpnj En spelare drar av 1 från sin nytta om den får mindre än motspelaren. Varför måste man ta fram de bästa svaren på nytt?
+1maddkpquhu Nyttomatrisen ändras även om de utdelade pengarna förblir desamma
+1p1d7irbx3p Strategierna maximerar dessa nya nyttor; en tidigare indifferens kan försvinna.
+d7xflnjc93 Vapenkostnaderna ändras nödvändigtvis
+ukv9ytcr0z Exemplet ändrar preferenserna, inte nödvändigtvis en resurs eller en handlingskostnad.
+rzkzcuumsw En Nash beror bara på handlingarnas namn
+hrcy6gxje8 Den beror på spelets vinster och information.
+116rhun5a2k All possible decision nodes
+4yocqkl0v0 Off-path choices
+16shnpjmoas Optimal continuation
+mjui28e8ex Compare against Split
+upo1sgn57v Tie against Steal
+1zdy3r8iu03 Läsa matrisen med radspelaren först.
+1vjipad5xgj Den andras vinst får inte avgöra ditt val.
+fmbq2e7opc Behålla bästa svar vid lika och skilja på svag/strikt dominans.
+20rg9q6lcp3 Likheter ändrar listan över Nashjämvikter.
+18hnzgpuj58 Räkna om nyttorna om preferenserna ändras.
+13xrgi9x8xi Lika altruism gör att NN inte är Nash, i motsats till den personliga lösning som påpekats.
+pq9rougodl Lösa varje nod för följaren och ange svaren utanför vägen.
+25qwzfl0cmh Ett utfall ensamt är ingen fullständig strategi.
+24vi7f5k5d0 Kontrollera nettovinsterna och trovärdigheten vid verkställandet.
+1vsez0ssnx5 Vapenkostnader och faktiska reaktioner måste tas med.
+xb4abmwpjm Tentakomplement — handel, plattformar, auktioner och byte
+8je5n2uywq Känna igen reglerna och kontrollera deras gränser
+1p3tps6iak7 Dessa teman finns i tidigare tentor, men de fullständiga föreläsningarna saknas i korpusen. Bygg upp besluten, de relativa priserna och reglerna igen innan du räknar.
+x66mdyjy6 Du, köparen / landet North
+10bge1ykh3c väljer en uppgift, ett köp eller ett byte
+2gi063xujay få mer värde än det uppoffrade alternativet
+62i6shgmfg Säljaren / landet South
+24pqgl8ebos producerar eller föreslår ett byte
+1mh7a4e6312 täcka sina kostnader och få en vinst
+5wi1cl3x7i Marknadens andra sida
+688btgi24f använder en plattform eller lägger ett bud
+1ly0ytal62e hitta en lönsam interaktion
+8bchysbzsb håller summor, regler och antaganden synliga
+2gnpv4g5de4 skilja på aggregerad vinst, privat vinst och effektivitet
+1ekwhp96dfi Staten / plattformen
+23gblpk7lqf bestämmer tull, tillgång eller auktionsregel
+11hf8346rm7 förstå de reaktioner som en regel framkallar
+1ckgu10q804 Fyra tentasammanhang, en och samma resonemangsdisciplin
+1hlxoo84ezh Du kan få handel, en plattform, en auktion eller ett snacksbyte. Dessa ämnen finns i tidigare tentor, även om de fullständiga föreläsningarna inte finns i de granskade filerna. Vi bygger därför upp de belagda verktygen och skiljer de säkra antagandena från dem som måste anges.
+rsniva0284 Tentakomplement §14: handel, plattformar, auktioner och Edgeworth. Modellerna nedan är dokumenterade i dossiern; denna kurs påstår sig inte återskapa saknade bilder.
+156ls6aa5i4 Ämnets namn räcker inte: en förstaprisauktion löses inte som en andraprisauktion.
+2fbtb555gff En kvalitativ fråga kan kräva en precis mekanism utan att ge tillräckligt med data för ett enda tal.
+15bpgmsreqa ”En väderchock påverkar alla kostnader” avslöjar inte i sig vem som observerar vilken privat signal; man kan inte automatiskt dra slutsatsen att det rör sig om en winner’s curse.
+12eo4m2ib40 Läs uppgiften som ett kontrakt: vem väljer, vem vet vad, vilken regel, vilka enheter? Först därefter väljer du verktyget.
+2272whsitw9 Varför påpeka att de fullständiga bilderna för dessa teman saknas?
+217lt7kbgof För att skilja belagda verktyg från antaganden som lagts till i pedagogiskt syfte
+1b4wn8fykqq Övningen är fortfarande nyttig, men får inte hitta på auktoriteten hos en saknad fullständig kurs.
+1m7qnylqbqd För att stryka dessa teman ur repetitionen
+qdwxhu4i8b De förekommer på tentor och måste därför övas.
+p8p5reeu7b För att betrakta varje formel som universell
+vch28xvc0p Tvärtom måste modellen och dess gränser göras explicita.
+uxfz6ejcdo Att vara bäst på allt säger inte vad du ska lägga din tid på
+ytfzl5ak1c Esther gör en dataanalys på 1 timme och en text på 2 timmar. Abhijeet behöver 2 timmar för analysen och 6 för texten. Esther är snabbare på allt, men en text kostar Esther bara 2 uppoffrade analyser, mot 3 för Abhijeet: det är denna relativa jämförelse som styr specialiseringen.
+1hvmsqk0uuq Absolut fördel: färre insatser per enhet. Komparativ fördel: lägre alternativkostnad. E2020 ger Esther den komparativa fördelen i skrivande och Abhijeet i analys.
+o73oydekem Tid som läggs på en uppgift kan inte längre användas till den andra: det är det uppoffrade alternativet.
+lck3gn1pe8 Även den som är mindre produktiv på allt kan ha en komparativ fördel i den uppgift där den relativa eftersläpningen är minst.
+24v1xfmgeeq Esther: kostnad för en text=2 h/(1 h per analys)=2 analyser. Abhijeet: 6/2=3 analyser. Omvänt kostar en analys Esther 0,5 texter och Abhijeet 1/3.
+1lk483ja3ag Du är Esther: fråga inte bara ”är jag snabbare?”, fråga ”vilken annan produktion förlorar jag om jag tar denna uppgift?”.
+svcs8u96fr Esther behöver 2 h per text och 1 h per analys. Hur många analyser kostar en text?
+1mw3afbnjje analyser / text
+1u0vcpifi1w 2 timmar text skulle ha gett 2 analyser; alternativkostnad 2.
+1cuucfixtze 0,5 är kostnaden för en analys i texter, den omvända kvoten.
+1ko32c9ccp6 Från timmar per enhet till uppoffrade enheter: håll kvoten åt rätt håll
+fq6h3lngwm Northland behöver 3 timmar per enhet vete och 6 per enhet elektronik. Southland behöver 4 och 2 timmar. Att producera en enhet vete tar alltså i Northland tiden för 0,5 elektronik, mot 2 i Southland: Northland offrar mindre elektronik för vete.
+248cy7xwj5r Om a_W och a_E är timmar per enhet gäller OC(W i E)=a_W/a_E. North har den komparativa fördelen i vete, South i elektronik.
+1j1mi05cfui Hur omvandlar man 3 timmar vete till uppoffrade elektronikenheter om en elektronikenhet kräver 6 h?
+1qiey9ziegc Timmarna tar ut varandra: 3 h/(6 h/E)=0,5 E.
+j59ib39uav Det ger kostnaden för en elektronikenhet i vete, inte kostnaden för en enhet vete i elektronik.
+p7af4nwnkv Täljaren är tiden som krävs för den vara vars kostnad du söker.
+p99cqis1dd Nämnaren omvandlar denna tid till enheter av den andra varan; enheterna i ditt svar låter dig upptäcka en invertering.
+257w8lt40i3 South: OC_W=4/2=2 E/W; OC_E=2/4=0,5 W/E. Symmetrin i prisintervallen med dessa tal är en tillfällighet.
+1iiqsdmslhw Skriv enheterna ”E per W” bredvid kvoten innan du räknar: då blir en invertering synlig.
+19vgqfbxakr South behöver 4 h per enhet vete och 2 h per elektronikenhet. Vilken är alternativkostnaden för en enhet vete i elektronik?
+w21jq0rae0 4/2=2 elektronikenheter per enhet vete.
+o9gm2vy50j 0,5 är kostnaden för en elektronikenhet i vete.
+kb0ykvc1pr Din gräns beskriver vad du kan producera, inte allt du kan konsumera
+1gmy2afm1py Northland har 120 timmar. Att lägga allt på vete ger 40 enheter, allt på elektronik 20. Korgarna däremellan förbrukar den tillgängliga tiden; import gör det sedan möjligt att konsumera en annan korg än den producerade.
+wajbn19s3a PPF North: 3 W+6 E=120 ⇒ E=20−0,5 W. South: 4 W+2 E=120 ⇒ E=60−2 W. Lutningen uttrycker alternativkostnaden för W i E.
+18995h959r9 Restriktionen räknar timmar: varje term är kvantitet×timmar per enhet.
+25dk6w0lvg6 En korg som konsumeras efter handel kan ligga bortom den inhemska PPF utan att landet har skapat extra timmar.
+1hvyswervhw North producerar 40 W och 0 E; South 0 W och 60 E. Efter byte av 10 W mot 10 E konsumerar North 30 W, 10 E och South 10 W, 50 E, korgar som i autarki skulle kräva 150 h respektive 140 h.
+fcrdla261h Ha två separata kolumner på ditt papper: produktion under restriktionen, sedan konsumtion efter export och import.
+26z0k0iqee1 De två produktionsgränserna med 120 timmar
+18e4olb9c4f W=enheter vete, E=enheter elektronik. Linjerna visar de producerade korgarna, inte de konsumerade efter handel. Linjära tekniker från exemplet E2025.
+11q6bf2ysvc W: enheter vete
+1m216qz65y5 E: enheter elektronik
+adofr4kawg North: 3 W+6 E=120
+8cfhz74u0b En enhet vete kostar 0,5 enheter elektronik.
+jeoznsft6t South: 4 W+2 E=120
+8agalgrhb3 En enhet vete kostar 2 enheter elektronik.
+19nlony2zro North konsumerar efter handel
+1qu9aab589q South konsumerar efter handel
+36r72o67sv Med 120 h och 6 h per elektronikenhet, hur mycket elektronik kan North som mest producera på egen hand?
+11mqxs2jzbt 120/6=20; det är skärningspunkten med den lodräta axeln för dess PPF.
+vcqjn1krqd 40 är maximum av vete: 120/3.
+b8cnqxkib1 Ett pris mellan de två uppoffringarna kan passa båda
+o1id4wrzhb Northland går med på att ge en enhet vete för att få en enhet elektronik: vetet kostar landet bara 0,5 elektronik att producera. Southland går med på att ge en enhet elektronik för att få en enhet vete: att producera den själv skulle kosta landet 2 elektronik. Samma byte kan alltså vara fördelaktigt för båda.
+1mctb3360cv Ett relativt pris strikt mellan de två alternativkostnaderna möjliggör potentiella vinster: här 0,5<p_W/p_E<2. Efterfrågan och kapacitet bestämmer de kvantiteter som byts.
+26z9k3eyv13 North får mer elektronik per enhet vete än vad produktionen av vetet får det att offra.
+1rwk4dd7y South köper vete för mindre elektronik än vad det skulle behöva offra för att producera det själv.
+1kxlilr2veq Vid priset 1 E per W: att producera det exporterade vetet tar North 3 h, mot 6 h för den mottagna elektroniken. South exporterar en E producerad på 2 h i stället för att lägga 4 h på det mottagna W.
+aer889z72l Du är North: du går med på att exportera vete bara om den mottagna elektroniken överstiger din inhemska uppoffring 0,5.
+eiy7nmsg7f Vilket pris på vete i elektronik är strikt fördelaktigt för båda i detta exempel?
+24ofd60vzpv 1 E per W
+23eecpf6l4u 1 ligger strikt mellan 0,5 och 2.
+2e2q8qakig9 3 E per W
+133ntnith71 South skulle behöva ge 3 E för ett W som bara kostar det 2 E att producera.
+rqq0w8jy4d 0,25 E per W
+2a6da4xjmzo North skulle få mindre än de 0,5 E som offras när W produceras.
+6d1go8506o Världspriset synliggör importbehovet
+17bmw2cdrkc I ett litet land kan köparna få varan till världspriset 30. Vid det priset efterfrågar de 50 enheter, medan de inhemska producenterna bara erbjuder 10. De saknade 40 importeras: den nationella efterfrågan behöver inte vara lika med det nationella utbudet.
+120hnr2op50 Med p_D=80−Q och p_S=20+Q: Q_D(p)=80−p, Q_S(p)=p−20 på det positiva området. Import M=Q_D−Q_S.
+18w3z41t4id ”Litet land” betyder här att det tar världspriset som givet.
+j63x7rvlnj Likheten utbud=efterfrågan gäller marknaden inklusive import, inte bara den inhemska produktionen.
+18au2ohtsow p_w=30 ⇒ Q_D=50, Q_S=10, M=50−10=40. I autarki: 80−Q=20+Q ⇒ Q=30 och p=50.
+x87ebkkfvj Du är konsument: du kan köpa till priset 30 även om landet inte tillverkar hela den efterfrågade kvantiteten.
+1ovplpp4ut8 Litet importland: världspris, sedan tull
+upj13nju97 Q i enheter av varan; p i € per enhet. De horisontella avstånden mellan efterfrågan och utbud är importen vid världspriset och sedan efter tullen.
+1fk2szba0mb Q: inhemska enheter
+1258wbb5fbt p: € / enhet
+1dospzaebmv Efterfrågan p=80−Q
+ze96gaualg Vid priset 30 är Q_D=50; vid priset 40 är Q_D=40.
+v0gall4j2e Utbud p=20+Q
+1yz14kdl8a2 Vid priset 30 är Q_S=10; vid priset 40 är Q_S=20.
+o7cg6psgy7 Världspris 30
+26qnwrrr8uc Litet land: dess tull ändrar inte världspriset.
+1ujdobk3ba Pris med tull 10: 40
+2abiulget9r Så länge landet importerar gäller p=p_w+τ.
+1vwrcayiikt Utbud vid frihandel 10
+1ujtx0380yz Efterfrågan vid frihandel 50
+1y1gq7js730 Utbud med tull 20
+1w62qgqsxds Efterfrågan med tull 40
+1dcoljb0odu Vid p_w 30 gäller Q_D=80−p och Q_S=p−20. Hur mycket importerar landet?
+ys4owy2of4 Efterfrågan 50 minus utbud 10=40.
+uidxwhmypk 60 adderar kvantiteterna, medan importen fyller skillnaden mellan dem.
+7gywyoxx6j 30 är autarkikvantiteten, inte importen vid världspriset.
+1ercagxjf6a Tullen flyttar två privata beslut samtidigt
+j212paj3mb Staten lägger på 10 per importerad enhet. Så länge landet förblir importör stiger det inhemska priset till 40: inhemska producenter tillverkar mer, konsumenter köper mindre. Importen minskar genom dessa två kanaler, inte bara för att en skatt tas ut.
+1oduzt99qk8 Litet importland: p_dom=p_w+τ, Q_D=40, Q_S=20, M=20. Tullintäkten gäller den import som faktiskt återstår.
+qt3wffq4ev Den extra inhemska produktionen blir lönsam vid det högre priset, även om dess kostnad översteg världspriset.
+1keljmcfhkv Vissa konsumenter avstår från enheter som var värda mer än 30 men mindre än 40.
+234uxc06yr6 Efter tull 10: M=(80−40)−(40−20)=40−20=20; intäkt=10×20=200.
+1zjsm5fpqs7 Du är på departementet: multiplicera inte tullen med den gamla importen på 40, för aktörerna har reagerat på det nya priset.
+xr8053mf18 Efter en tull på 10 importerar landet 20 enheter. Vilken tullintäkt?
+1vf7waho52q τ×M_efter=10×20=200.
+255f2ss0hv4 400 använder importen på 40 före tullen; den har minskat.
+20ccr4xodh8 Skatten tas inte ut på den inhemska produktionen eller på all konsumtion.
+1pxbiscno68 Det konsumenten förlorar är inte helt förlorat för landet
+a779ubg4x7 Det högre priset kostar konsumenterna 450 i överskott. De inhemska producenterna får 150 och staten 200; dessa vinster stannar i landet. Det saknas fortfarande 100: det är resurserna som slösas på dyrare produktion och de nyttiga byten som uteblir.
+1jbwzhxiylq Nationell välfärd=CS+PS+tullintäkter. E2022: ΔCS=−450, ΔPS=+150, intäkt 200 ⇒ ΔW=−100; DWL=två trianglar.
+1q744m02hu6 En del av det högre priset för över överskott från köparna till producenterna och staten.
+1nbsri7goc3 DWL jämför verkliga kostnader och nyttor: för dyra inhemska enheter och enheter som inte längre konsumeras.
+29lgdhes2ac DWL=0,5×10×[(20−10)+(50−40)]=100. Eller −450+150+200=−100. CS går 1250→800; PS 50→200.
+1vd22i2sxge Du summerar förändringarna för hela landet; du förklarar inte skatteintäkten ”förlorad” bara för att den lämnar din plånbok.
+29bp8hg760h Med tull 10, produktion 10→20 och efterfrågan 50→40, vilken DWL?

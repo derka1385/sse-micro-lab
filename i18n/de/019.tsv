@@ -1,0 +1,233 @@
+pcjarhuliw Didaktisches Beispiel: R(n)=20 n−n²; AP=R/n=20−n; MP=dR/dn=20−2 n; Kosten pro Boot=4. Freier Zugang AP=4; Optimum MP=4.
+fsq2o0fggs Bei n=8 erhält jedes Boot AP=12, aber ein Neuankömmling fügt der Summe nur MP=4 hinzu.
+zk9ju3aw19 Die Differenz AP−MP erfasst den Erlös, der den anderen weggenommen wird; deshalb geht der Eintritt zu lange weiter.
+iej3q47q53 Optimum: 20−2 n=4 ⇒ n=8. Freier Zugang: 20−n=4 ⇒ n=16. Gesamtrente 16 n−n²: 64 bei n=8, null bei n=16.
+vxw9sqnnv8 Du gewinnst persönlich auch nach n=8 noch etwas durch den Einstieg. Schau aber, was deinen Nachbarn nach deinem Einstieg bleibt.
+3stuyh4y0c Fischerei: Der Einstieg schaut auf den Durchschnitt, die Gesellschaft auf die Marge
+1ngcs6s0nvw Stetiges didaktisches Beispiel: Gesamterlös R(n)=20 n−n², Gesamtkosten 4 n, 0≤n≤16. Vertikale Achse in € pro Boot und Tag; n ist eine als stetig behandelte Anzahl von Booten.
+1oq6ipio12j n: aktive Boote
+24tb62iltkj € / Boot / Tag
+1kpt1btqm0q Durchschnittserlös AP = 20−n
+1nv7xvlb2et Erwarteter Erlös eines Neuankömmlings, der den Gesamtfang teilt.
+jxzxxlpgyr Sozialer Grenzerlös MP = 20−2 n
+1vd6jjyfxtu Beitrag zum Gesamterlös, einschließlich des Rückgangs des Fangs der anderen; negativ über n=10.
+zb8t8gqvdo Kosten pro Boot = 4
+2bty0sdo746 Treibstoff und Arbeit, die ein zusätzliches Boot einsetzt.
+4gi4xozjo7 Optimum n=8
+1cc58y0w2ax Freier Zugang n=16
+1v1u3hnfjyg Mit R=20 n−n² und Gesamtkosten 4 n: Welches n maximiert die kollektive Rente?
+fabq03uu3x Boote
+qwum71synn Ableitung der Rente 16 n−n²: 16−2 n=0 ⇒ n=8; die zweite Ableitung ist −2.
+2da936il8xw 16 entspricht AP=Kosten, also dem freien Eintritt, nicht dem Optimum.
+fjthg99mll Und wie viele Boote steigen bei freiem Zugang ein, wenn jedes R/n erhält?
+izm5pdow3n AP=20−n=4 ⇒ n=16. An diesem Punkt ist der private Gewinn null und die kollektive Rente aufgezehrt.
+277x4e7uhe 8 vergleicht den sozialen Grenzwert mit den Kosten; ein privater Neuankömmling schaut auf seinen Durchschnittsanteil.
+1sipcj2w6ah Das richtige Mittel hängt vom falschen Anreiz ab
+290akqmc76b Bei der Straße fehlen Beiträge trotz eines geteilten Werts. Beim See gibt es trotz begrenzter Ressource zu viele Einstiege. Eine nützliche Regel muss also auf die problematische Entscheidung zielen: im ersten Fall das Zahlen, im zweiten das Einsteigen oder Entnehmen.
+o3fdl6maf3 Lizenzen, Quoten, Gebühren, Zugangsrechte und lokale Regeln können den Druck auf eine Allmende begrenzen. Pflichtbeiträge betreffen die Finanzierung des öffentlichen Guts.
+1aofxvzdyb7 Eine Bootsquote begrenzt die rivale Nutzung direkt; eine Gebühr macht dem Neuankömmling einen Teil der kollektiven Kosten sichtbar.
+2dal4a5s20o Eine Lösung muss außerdem kontrollierbar und an die verfügbare Information angepasst sein; einer Politik einen Namen zu geben reicht nicht.
+1c2x0xrp17k In unserem See bildet die Zulassung von acht Booten den effizienten Maßstab nach, bei wirksamer Kontrolle und unveränderten Kosten. Eine Regel mit sechzehn Booten korrigiert nichts.
+293vr5jucdh Du berätst das Rathaus: Bevor du „besteuern“ sagst, benenne den Akteur, seine Entscheidung und die Folge, die er ignoriert.
+28k5ct6foya Baue das Problem der Straße neu auf.
+15qq4rdhf86 Dasselbe Niveau nützt den Anwohnern, auch den nicht zahlenden
+14cgb7m031d Ein Anwohner kann warten, bis andere finanzieren
+20yob1kjhzt Sein Beitrag spiegelt nicht alle sozialen Nutzen wider
+1quudmjfdii Freiwillige Finanzierung kann unter dem effizienten Niveau bleiben
+1filn49wphu Ihr Konsum der geteilten Leistung lässt sich nicht in private Einheiten aufteilen.
+2as3z73ms2d Der Nicht-Ausschluss macht es individuell attraktiv, auf die Zahlungen anderer zu warten.
+12xju1w38zx Wer zahlt, erhält den Wert, den er anderen bringt, nicht vollständig in sein Budget zurück.
+19ly8q6hdry Eine einzige zusätzliche Einheit bringt gleichzeitig mehrere Nutzen.
+x9c8gle4v8 Die letzte nützliche Einheit ist ihre tatsächlichen Kosten für die Gemeinschaft wert.
+1rh2ski5st7 Die Straße nützt allen auf demselben Niveau, auch dem, der nicht zahlt. Jeder kann also auf die anderen warten, und sein privater Beitrag spiegelt nicht den ganzen kollektiven Gewinn wider. Um Q zu wählen, addiere ich die positiven MB beim selben Q und vergleiche ihre Summe mit MC. Im See sind die Fänge rival: Ein Neuankömmling schaut auf seinen Durchschnittserlös, während sein sozialer Grenzbeitrag geringer ist, weil er den Fang der anderen verringert. Freier Zugang zieht zu viele Boote an.
+23gl83qagkc Dasselbe Q nützt mehreren Anwohnern
+28iegilnztl Jeder kann profitieren, ohne beizutragen
+1v0cbhu1yuu Die private Entscheidung lässt kollektive Gewinne weg
+1e9xth8s0zg Man summiert die MB beim selben Q
+a7b85tjwd9 Das Optimum setzt diese Summe gleich MC
+r7szpcgr22 Erkläre einem Nachbarn, warum die Straße trotz ihres Werts unterfinanziert sein kann. Sag dann, warum der offene See dagegen unter zu viel Nutzung leidet. Schließe mit dem Unterschied zwischen vertikaler Summe und Durchschnittserlös.
+8smr4g1q32 Ein und dasselbe Niveau Q
+u96sz7dxkx Die Anwohner profitieren vom selben Niveau des öffentlichen Guts.
+qda9a5nrh1 Der Anreiz, auf die anderen zu warten
+yjmq22wmw6 Man kann profitieren, ohne zu zahlen, und trägt daher zu wenig bei.
+tlj20ipktm Kollektiver Wert der Marge
+1zhgqdkir2k Die individuellen MB werden beim selben Q vertikal addiert.
+2e1lc2jlz4l Mit den Kosten vergleichen
+12h3dwxsvcz Die Summe der MB wird mit den MC der gemeinsamen Einheit verglichen.
+1uq5d0zt62q Übermäßige rivale Nutzung
+1ilzszrtt1l Der Neuankömmling ignoriert den Rückgang des Fangs der anderen und schaut auf AP, nicht auf das soziale MP.
+c00vfb1w1f Hier profitieren alle vom selben Q. Addiere die MB-Höhen bei diesem Q, nicht private Mengen.
+2bzi4sub766 Die freiwillige Bereitstellung kann positiv sein: Ein großer Nutznießer kann finanzieren, aber ohne den ganzen Gewinn der Nachbarn zu zählen.
+2vabb4a6gy Die Allmende ist rival und wird tendenziell übernutzt; das reine öffentliche Gut ist nicht-rival und kann unterfinanziert sein.
+1s0mp5kiuqy Übung, konstruiert aus A6 und §11.9. Die Reinigungsdaten sind dokumentiert; der See ist ein didaktisches Beispiel. Das ist keine offizielle Lösung.
+kkc0j36wn8 Vertical sum 36−3 Q=27 ⇒ Q=3; all three marginal benefits remain positive.
+rqhszbpgai Efficiency: R′(n)=20−2 n=4 ⇒ 8. Entry: R(n)/n=20−n=4 ⇒ 16.
+14ua4pnomup Nicht ausschließbar und rival: Welche Art von Gut?
+5nv3qotvjh Reines öffentliches Gut
+2ae8m4srk27 Das reine öffentliche Gut ist nicht-rival.
+2dwjzws0qps Allmendegut
+jbtkou8356 Das ist genau der freie Zugang zu einer Ressource, deren Nutzung die der anderen verringert.
+9voso9qjum Clubgut
+15n8guw384c Ein Clubgut ist im reinen Modell ausschließbar und nicht-rival.
+25uqrmcj0kb Was misst MB?
+wzdpq74vbq Den Nutzen der zusätzlichen Einheit
+1as2cxo79ht Marginal = eine Erhöhung beim aktuellen Niveau.
+1goblubpiep Die gesamten Produktionskosten
+1uo3g9ndat9 MB ist ein Grenznutzen, keine Gesamtkosten.
+1pg91w55hg4 Baue das Trittbrettfahren neu auf.
+1lkx1an6s1a Zugang zum Gut auch ohne Zahlung
+1di1yaxg9ls Vermeidbarer privater Beitrag
+27kjbmkgrpf Die Nutzen der anderen fehlen in der privaten Entscheidung
+1kvkol2numx Möglicherweise unzureichende freiwillige Bereitstellung
+5n0rozy50w Warum kann ein lohnender Einstieg in einen See die kollektive Rente senken?
+eauz1x9sna Der Neuankömmling ignoriert den Rückgang des Fangs der vorhandenen Boote
+2161d6n40ca Sein Durchschnittserlös misst nicht, was seine Anwesenheit dem Gesamterlös hinzufügt.
+1njpl4cllkt Weil die Fischer den Fisch nicht schätzen
+kr2x506uzi Gerade der Wert des Fischs zieht Neuankömmlinge an; das Problem sind die Kosten, die anderen auferlegt werden.
+tx2fyp6nxb Weil ein privater Nutzen immer null ist
+u9c9k1ao7y Der Einstieg kann profitabel sein, bevor die Rente vollständig aufgezehrt ist.
+1q134g17kfk MB_1=max(0,10−Q), MB_2=max(0,20−Q), MC=14: effizientes Q?
+11dykdbto51 Für Q≤10: 30−2 Q=14 ⇒ Q=8, gültiger Abschnitt.
+98f3ggke2r MB_1=max(0,8−Q), MB_2=max(0,2−Q), MC=3: effizientes Q?
+6jh3av0384 Die Lösung mit zwei MB, 3,5, liegt außerhalb des Abschnitts; nach Q=2 gilt 8−Q=3 ⇒ 5.
+4pibkc15rq Eine digitale Bibliothek kann Nicht-Abonnenten sperren, und ein Leser stört die anderen nicht. Welche Einordnung?
+24fk0ovts6m Ausschließbar und nicht-rival, sofern keine Überlastung besteht.
+1wf6yb36qqd Reines öffentliches Gut
+v9mlvmwnjp Der Zugang ist ausschließbar.
+1f5gaxb0o64 Allmende
+13zorikpusu Die Allmende ist nicht ausschließbar und rival.
+1didyjjzdna Eine Reservierung schließt den Zugang zum See und begrenzt die Boote. Welchen Mechanismus ändert sie direkt?
+21whoiv12h2 Den freien Zugang und den Druck der rivalen Nutzung
+slbtvvs83s Die Regel zielt auf die Zahl der Nutzer und die Entnahmen, nicht auf die vertikale Summe eines öffentlichen Guts.
+kvgq0uk2vq Die Nicht-Rivalität der Fische
+1ssc63sglxd Gefangene Fische werden durch eine Reservierung nicht für andere verfügbar.
+11qicsya3tf Die Notwendigkeit, eine gemeinsame WLAN-Geschwindigkeit zu finanzieren
+9sbjg0ydya Das ist ein anderes Problem: Hier geht es um die konkurrierende Nutzung der Ressource.
+18zug41bpgi Same quantity
+1zaf20dzrrj Own average share
+11tjahxxj59 Loss imposed on existing users
+o1q5sk5x1y Social marginal comparison
+12jkitamg6c Ein Gut einordnen, indem man Ausschluss und Rivalität getrennt abfragt.
+714s4pg57e Öffentliche Finanzierung oder hohe Kosten reichen nicht.
+132066c46ko Die MB beim selben Q summieren und die Schwellen prüfen, an denen die WTP null wird.
+gj84qm4hfr Eine lineare Summe kann ungültig werden, nachdem ein Nutznießer ausgeschieden ist.
+14eo2zy43ny Einen positiven oder fehlenden Unterbeitrag erklären, ohne zu sagen, das Gut sei wertlos.
+157hx03bak4 Der Anreiz zu zahlen unterscheidet sich vom erhaltenen Wert.
+1v1jyzlro1u AP=Kosten bei freiem Zugang von sozialem MP=Kosten im Optimum trennen.
+1ckd0cps0wt Ein profitabler Einstieg kann anderen Nutzern Erlös wegnehmen.
+1flxxa3gsnx Verborgene Information — Autos, Abschlüsse und Kredit
+210c0bpxm0h Auswahl von Typen und Anreize für Handlungen
+29clh7ywm2s Warum kann ein zuverlässiges Auto vom Markt verschwinden? Warum kann die Bank verlieren, wenn sie mehr verlangt? Versetz dich in die Lage dessen, der etwas weiß, und dessen, der wählt.
+vcpos2mz5h Der Agent / Käufer
+2dtxzv1jp8v entscheidet mit seiner Information und seinen privaten Gewinnen
+26jqnzt4rnu den Vertrag oder die Anstrengung wählen, die passt
+1dbc9cyxuow Der Verkäufer / Prinzipal
+1hnw7h8wgrz besitzt die Qualität oder schlägt den Vertrag vor
+ub8368cjvv einen lohnenden Tausch durchführen
+2eraexzsszu Der verborgene Typ
+1f2ulhdeqlu trägt andere Kosten oder hat eine andere Qualität
+9hdkj6oilx nur ein Angebot annehmen, das passt
+1lsv7bi5r6 Der Bewerter
+rn5b958jd1 vergleicht Rente und Umsetzbarkeit der Anreize
+z51qukgegv die gewünschte Handlung nicht einfach unterstellen
+12pd5zhvr4z Die Bank / Kontrollinstanz
+228lunsnnd0 finanziert oder prüft ein Ergebnis
+s690cew4n4 eine mit den Entscheidungen stimmige Regel vorschlagen
+mr6bg43uar Du kaufst, ohne zu wissen, was der Verkäufer weiß
+kwi128nnol Du willst einen Gebrauchtwagen. Der Verkäufer weiß, ob er zuverlässig ist; du siehst nur die Karosserie. Bevor du eine Formel wählst, bestimme, welche Information jeder hat und welche Entscheidung sie verändert.
+vslvrw4cdg Asymmetric information (asymmetrische Information): Eine Partei hat relevante Information, die der anderen fehlt. Unsicherheit allein reicht nicht.
+mld9roagaj Ein Ereignis kann für beide riskant sein, ohne dass einer mehr weiß.
+15ymny7pbph Das ökonomische Problem beginnt, wenn dieser Informationsunterschied eine Entscheidung, ein Angebot oder eine Anstrengung verändert.
+1khw5i2cqsu Künftiges Wetter, das beiden unbekannt ist: geteiltes Risiko. Qualität, die nur der Verkäufer schon kennt: asymmetrische Information.
+uwnpfy51e5 Frag „Wer weiß was, und wann?“, bevor du adverse selection oder moral hazard schreibst.
+1y80juodqo4 Künftiger Regen ist Käufer UND Verkäufer unbekannt. Zeigt das eine Asymmetrie?
+8jkfb9otny Ja, jede Unsicherheit ist asymmetrisch
+28fpkdklq6a Asymmetrisch heißt, dass sich die Informationen der Parteien unterscheiden.
+kk1z9y2lql Nein, es fehlt private Information auf einer Seite
+fj7lftmttb Das Risiko kann gemeinsam sein; suche, wer mehr weiß.
+18l17hmrqk3 Ein verborgener Typ und eine verborgene Handlung sind nicht dasselbe Problem
+1h0hgz6zmlz Die Zuverlässigkeit eines Autos besteht schon vor dem Verkauf; der Käufer kennt diese Eigenschaft nicht. Die Anstrengung des Mechanikers dagegen ist eine Entscheidung, die sich nach Vertragsunterzeichnung noch ändern lässt. Im einen Fall zieht der Vertrag bestimmte Typen an; im anderen beeinflusst er ein Verhalten.
+18huoua6elo Adverse selection (adverse Selektion): privater Typ, privates Risiko oder private Qualität. Moral hazard: unvollständig beobachtbare Handlung oder Anstrengung. Hauptkriterium ist die Art der Information; der Zeitablauf hilft bei der Diagnose.
+2dbdjcj66z7 Ein Durchschnittsvertrag kann die guten Typen vertreiben, ohne zu ändern, was sie sind.
+usr0qqetzo Eine ergebnisabhängige Zahlung kann die Anstrengung ändern, ohne eine anfängliche Qualität zu enthüllen.
+xwglrktfhn Eine Versicherung kann die riskantesten Fahrer anziehen und dann ihre Vorsicht verringern: zwei verschiedene Mechanismen im selben Vertrag.
+xmxtljjjt7 Du bist Versicherer: Unterscheide „Wer schließt ab?“ von „Wie wird gefahren, wenn man versichert ist?“.
+2dxm0l1ekg4 Ein Versicherter wird nach der Deckung weniger vorsichtig. Welcher Mechanismus?
+lj7fk2kl8h Adverse selection
+1yqhqazzwt8 Das beträfe den Fahrertyp, der vor dem Vertrag angezogen wird.
+1xmznk1cpya Moral hazard
+113igzfb26r Die Deckung verändert eine private Handlung nach der Unterzeichnung.
+g2vs70d02a Kein Risiko
+18n2gsk0vhm Das Risiko bleibt; sein Niveau ändert sich mit dem Verhalten.
+1hal5pkn4h0 Ohne verborgene Information können beide Qualitäten verkauft werden
+16zl2ghbxtz Ein gutes Auto ist dir 150 wert, und sein Besitzer lehnt alles unter 130 ab. Ein schlechtes ist dir 50 wert, und sein Besitzer lehnt alles unter 30 ab. Sieht jeder die Qualität, kann ein Preis zwischen beiden Werten beide Seiten bei jeder Qualität gewinnen lassen.
+kg3cimypws Handelsgewinne: WTP des Käufers über dem Reservationspreis des Verkäufers. L12 ergibt die Intervalle [130,150] und [30,50].
+1jevd9624rh Der Reservationspreis des Verkäufers ist das, was er beim Verkauf des Guts aufgibt.
+1szladwjq8x Ein möglicher Gewinn garantiert nicht, dass ein Markt mit verborgener Qualität ihn realisiert.
+yj3da9i9mx Gutes Auto zu 140: Der Käufer gewinnt 10 und der Verkäufer 10 gegenüber seinem Reservationspreis. Schlechtes zu 40: dieselben Gewinne, 10 und 10.
+vybrm2bdur Du kannst 140 für das gute Auto bieten, wenn du weißt, dass es gut ist. Dieses Wissen macht den Preis für dich glaubwürdig.
+wcjynzcqy8 Wie hoch ist die Summe der möglichen Gewinne bei einem guten Auto: Wert 150, Reservationspreis 130?
+3d3hlwlrjr 150−130=20, unabhängig davon, wie der Preis diesen Gewinn aufteilt.
+jsmlex2nuo Die beiden Werte sind keine zwei Nutzen zum Addieren: Der Reservationspreis ist das Opfer des Verkäufers.
+r76lwbm5wl 10 wäre der Anteil jeder Seite beim Preis 140; die Gesamtrente beträgt 20.
+kt05e0d8aj Der Durchschnittspreis hält nur, wenn die durchschnittlichen Verkäufer bleiben
+2a8ry15mhaq Du glaubst zunächst, jede Qualität mit einer Chance von eins zu zwei zu bekommen. Bei Risikoneutralität bietest du höchstens 100. Doch der Besitzer eines guten Autos lehnt diesen Preis ab: Die verbleibenden Autos sind keine Stichprobe mehr, die zur Hälfte gut ist.
+2fs3h1hkj1b Anfängliche WTP E[v]=0,5×150+0,5×50=100. Eine Gleichgewichtserwartung muss mit der Auswahl der Verkäufer beim angebotenen Preis vereinbar sein.
+234pdlhfu9r Der Preis ist nicht nur ein Durchschnitt von Werten; er ist auch eine Regel, die das Angebot auswählt.
+13rtalgfiz0 Hat der gute Typ einen Reservationspreis von 130, schließt ein Angebot von 100 genau den Typ aus, der den Durchschnitt von 100 gerechtfertigt hat.
+13cobrbqb66 Bei p=100 akzeptieren die Verkäufer niedriger Qualität, weil 100≥30, die guten lehnen ab, weil 100<130. Bleiben nur die schlechten, ist WTP=50.
+xgbgfwclkr Du schaust auf die nach deinem Angebot noch verfügbaren Anzeigen: Bewerte ihre Zusammensetzung neu, nicht nur deine erste Rechnung.
+20thpbxwj15 Der Durchschnittspreis kann seine eigene Annahme zerstören
+29p01xzb39d Daten L12: Gutes Auto vom Käufer mit 150 und vom Verkäufer mit 130 bewertet; schlechtes mit 50 und 30. Die Anfangswahrscheinlichkeit guter Qualität ist 1/2.
+2f6qxq0grbd Nicht informierter Käufer
+g25k3bpzss Bietet höchstens 100, wenn beide Qualitäten zu gleichen Teilen bleiben
+2epbc93elat (150+50)/2=100 ist ein Erwartungswert, nicht der Wert jedes Autos.
+1btachppdkb Verkäufer eines guten Autos
+1iicznk2zie Lehnt 100 ab, weil sein Reservationspreis 130 ist
+1pirw2yws0z Die guten Autos verlassen bei diesem Preis den Markt.
+1o6icqdh2eq Rationaler Käufer
+wys9t8lgyg Revidiert seine Erwartung über die noch angebotenen Autos
+167dcufo544 Bleiben nur die schlechten, sinkt seine WTP auf 50.
+10g6n0tjmxv Vor der Auswahl, mit 50 % guten Autos zu 150 und 50 % schlechten zu 50: Welche erwartete WTP?
+2gaybt1s8aw (150+50)/2=100; diese WTP hängt von der angenommenen Zusammensetzung ab.
+28qmglybihe Warum stützt ein Preis von 100 hier die Erwartung 50/50 nicht?
+1ihyu7eeh8h Die Verkäufer guter Autos lehnen 100<130 ab
+1fql3vokxap Die Zusammensetzung der angebotenen Autos ändert sich: Die Erwartung muss revidiert werden.
+1n0g7oh00xm Die schlechten Autos sind 0 wert
+1xa2prnm8n4 Sie sind den Käufern 50 wert; das Problem ist der Rückzug der guten.
+n7s64sqjxy Kein Verkäufer kennt die Qualität
+2b5aejez6jw Der Verkäufer ist in diesem Fall gerade die informierte Partei.
+213l375hxfg Wenn niemand die Qualität kennt, ist es nicht mehr derselbe Markt
+1pr1tgdd1ed Stell dir nun vor, dass selbst der Verkäufer den Typ seines Autos nicht kennt. Unter Risikoneutralität beträgt sein durchschnittlicher Reservationspreis 80 und dein durchschnittlicher Wert 100. Es kann also einen für beide annehmbaren Preis geben, ohne selektiven Rückzug aufgrund einer bekannten Qualität.
+yui713qev5 Symmetrische Unsicherheit: E[Reservationspreis]=0,5×130+0,5×30=80. Tausch zwischen 80 und 100 ist in diesem Modell möglich.
+177z6hjtrr9 Private Information erlaubt es dem guten Verkäufer, einen Durchschnittspreis in voller Kenntnis abzulehnen.
+1kau7c91n7u Ohne dieses Wissen lässt sich dieselbe Auswahl nicht mechanisch reproduzieren; Risikoaversion könnte die Reservationspreise allerdings verändern.
+neu5kpwwdx Preis 90: erwarteter Gewinn des Käufers 100−90=10; des Verkäufers 90−80=10. Diese Rechnung beruht auf Risikoneutralität, nicht auf einer Qualitätsgarantie.
+p3mxvp8lcw Du vergleichst zwei Szenarien: Wer die Information besitzt, ändert sich, auch wenn die Anfangswahrscheinlichkeiten gleich bleiben.
+1j852hp58tn Wenn kein Verkäufer die Qualität kennt: Wie hoch ist sein durchschnittlicher Reservationspreis bei gleich wahrscheinlich 130/30?
+1zo3lmok598 100 ist der Durchschnittswert für den Käufer, nicht der Reservationspreis des Verkäufers.
+4eiy7a1w5y Wer ergreift die Initiative, den Typ zu enthüllen?
+pww6y8b5dc Ein zuverlässiger Verkäufer bietet eine Garantie, deren Nachahmung für unzuverlässige Verkäufer teuer ist. Ein Käufer dagegen organisiert eine Inspektion oder bietet ein Menü an, um zu erfahren, was er nicht sieht. Beide verringern den Informationsunterschied, aber die Initiative kommt von verschiedenen Seiten.
+174lyp8e7oo Signalling: beobachtbare Handlung der informierten Partei. Screening: Test, Datenerhebung oder Menü, organisiert von der weniger informierten Partei.
+1cd35azucwm Eine Handlung enthüllt den Typ nur, wenn die Typen unterschiedliche Anreize haben, sie zu wählen.
+la9mzlr2g4 Ein Signal, das für alle sehr teuer ist, unterscheidet nicht unbedingt: Es muss für den schlechten Typ relativ schwerer nachzuahmen sein.
+my365clfru Verkäufer mit glaubwürdiger Garantie: Signal. Käufer, der eine unabhängige Inspektion verlangt: Screening. Ein kollektiver Ruf kann ebenfalls die Unsicherheit bei kleinen Marken verringern.
+8wmfsia2a2 Du bist ein zuverlässiger Verkäufer: Frag, warum ein Verkäufer schlechter Qualität deinen Schritt nicht sofort kopieren würde.
+dnzefuqax7 Ein weniger informiertes Unternehmen lässt die Bewerber einen Test machen. Welcher Mechanismus?
+7ohfu827aj Screening
+29yoq592dvz Der Arbeitgeber versucht, den Typ zu erfahren, den er nicht beobachtet.
+1hguu4f2xnx Signalling des Arbeitgebers
+27l8qp4np3i Die informierte Partei wäre in diesem Beispiel der Bewerber, nicht der Arbeitgeber.
+1z8h7k388xb Moral hazard bereits nachgewiesen
+15q1pf0j2do Ein Test der Typen weist keine Anstrengungsentscheidung nach Vertragsschluss nach.
+1aogoiyhmct Ein Abschluss trennt die Typen nur, wenn der eine ihn kopieren will und der andere nicht
+169fpizw61c Der Abschluss gibt Zugang zu einem Lohn von 100 statt 60. Ein Bewerber zahlt 20 an Anstrengung, um ihn zu erwerben; ein anderer zahlt 60. Der erste gewinnt durch den Abschluss, der zweite verliert: Dasselbe Signal erzeugt zwei verschiedene Entscheidungen, weil seine Kosten vom Typ abhängen.
+13peu3c0bpb Strikte Trennung, wenn C_A<40<C_S, denn 100−C_A>60 und 100−C_S<60. Bei Gleichheit muss die Indifferenz behandelt werden.
+cleu1ovaux Was müssen die Kosten des Abschlusses für einen Typ erfüllen, der sich strikt für den Abschluss entscheidet?
+1dhnhr6kn68 Kosten < Lohngewinn von 40
+kt3gl0kckf 100−C>60 ⇔ C<40: Der Lohngewinn muss die Kosten decken.
+122tnwdhp1y Kosten >40
+216mvvt72hh Dann verdiente er netto weniger als ohne Abschluss.
+1mojdig4ovn Ein glaubwürdiges Signal liest man an zwei Vergleichen ab, einem pro Typ.
+n1564fo7ai Dieselbe Abschlusswahl für beide Typen wäre Pooling; der Abschluss kann auch Kompetenzen schaffen, was diese Rechnung nicht bestreitet.
+rdra7mbifb Typ A: 100−20=80>60. Typ S: 100−60=40<60. Wenn C_S=40, ist S indifferent, also ist die strikte Trennung nicht mehr garantiert.

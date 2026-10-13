@@ -1,0 +1,53 @@
+======================================================================
+2. GEMEINSAME LOGIK UND MATHEMATISCHE WERKZEUGE
+======================================================================
+
+2.1 Das Gerüst fast aller Aufgaben
+1) Wer entscheidet? Konsument, Firma, Bank, Behörde, Bieter.
+2) Welches Ziel? Nutzen, Gewinn, minimale Kosten oder SOZIALE Rente.
+3) Welche Variable wird gewählt? Menge, Preis, Anstrengung, Inputs, Vertrag.
+4) Was ist gegeben? Preise, Einkommen, Rivale, Technologie, Information.
+5) Welche Nebenbedingungen? Budget, Produktion, Kapazität, Nichtnegativität,
+   Teilnahme, Anreiz, kein Weiterverkauf, Reaktion des Folgers.
+6) Zielfunktion und Konsistenzbeziehungen aufschreiben.
+7) Lösen; Definitionsbereich, Randlösungen, Optimum und Teilnahme prüfen.
+8) Zu den gefragten Preisen, Mengen, Gewinnen und Renten zurückkehren.
+9) Erklären, warum eine kleine Abweichung das Ziel nicht verbessert.
+
+„Marginal“ bedeutet die Wirkung einer zusätzlichen Einheit oder die Ableitung
+in einem stetigen Modell. „Average“ bedeutet Gesamtwert geteilt durch Menge.
+Eine Marginalentscheidung vergleicht zusätzlichen Nutzen und zusätzliche
+Kosten. Unvermeidbare Fixkosten gehen nicht in diesen Vergleich ein,
+zählen aber im Gesamtgewinn und bei der Entscheidung, langfristig zu bleiben.
+
+2.2 Ableitungen und Optimalitätsbedingungen
+y=f(x): f'(x)=dy/dx, lokale Steigung. Bei mehreren Variablen
+eine partielle Ableitung verwenden und die anderen konstant halten.
+d(k)/dx=0; d(ax)/dx=a; d(x^n)/dx=n*x^(n-1).
+d[f(x)g(x)]/dx=f'(x)g(x)+f(x)g'(x), Produktregel.
+Für p(Q)Q gilt MR=p(Q)+Q*p'(Q), nicht nur p'(Q)Q.
+Bei einer konkaven Funktion liefert die FOC f'(x)=0 ein inneres Maximum.
+f''(x)<0 prüfen oder bei Bedarf die Werte an den Rändern vergleichen.
+Eine FOC allein garantiert weder Maximum noch zulässige Menge noch Produktion.
+
+Für eine erwartete Summe: E[X]=Summe(Wahrscheinlichkeit des Zustands * Ergebnis).
+Zuerst das NETTO-Ergebnis in jedem Zustand berechnen, dann gewichten.
+Eine Strafe, die mit Wahrscheinlichkeit d verhängt wird, hat erwartete Kosten d*F.
+
+2.3 Flächen und Einheiten
+Rechteck = Grundseite*Höhe; Dreieck = Grundseite*Höhe/2.
+Rente = Fläche zwischen marginaler Zahlungsbereitschaft und relevanten Kosten/Preis.
+Allgemeine Form: Fläche = Integral der vertikalen Differenz als Funktion von Q.
+Dreiecke setzen lineare Kurven im betrachteten Intervall voraus.
+Preis in Geld/Einheit * Menge in Einheiten = Geld.
+Ist Q in TAUSEND Tonnen und p in Dollar/Tonne, ist die Fläche in
+TAUSEND Dollar. Dieser Punkt ändert das Ergebnis um den Faktor 1000.
+Eine Elastizität hat keine Einheit; eine Steigung hat meist eine.
+
+2.4 Vor dem Rechnen umschreiben
+Direkte Nachfrage Q=a-bp -> inverse Nachfrage p=a/b-Q/b.
+Direktes Angebot Q=-c+dp -> inverses Angebot p=c/d+Q/d.
+In einer Marktgrafik: Q horizontal, p vertikal; die inversen Formen
+zeichnen. Private Nachfragen addieren: die Mengen
+beim gleichen Preis addieren, nicht die Preise. Bei einem öffentlichen Gut: die
+Grenznutzen beim gleichen Q addieren, also vertikal.

@@ -1,0 +1,236 @@
+zon1174fie La domanda ordina i valori marginali dal più alto al più basso.
+1k9cvfmpd50 Il rettangolo 16×7 viene pagato; ai clienti resta solo l’area tra domanda e prezzo.
+5bqx5r6qvn Triangolo: base 7 unità, altezza 7 per unità, quindi 24,5. Prendere 16×7 = 112 misurerebbe la spesa, non il guadagno.
+rr89ssb7ds Hai pagato 16 ma avresti accettato 20: il tuo guadagno è 4, non 16 né 20.
+twst4unccv Nel mercato Q = 7, p = 16, domanda 23−Q: calcola CS.
+1fqdt9hpuox 112 è la spesa pQ.
+h4dgin2gqg 49 dimentica il fattore 1/2 del triangolo.
+yoe3j00zol Il venditore tiene un surplus, non per forza un profitto
+1e719uh7xkh Il venditore riceve 16 per unità ma le prime unità gli costano meno delle ultime. Tiene i ricavi dopo i costi variabili. Se un impianto è costato 10 indipendentemente dal volume, questa spesa fissa va ancora sottratta per conoscere il suo profitto.
+1tgp0vem8uk Producer surplus (PS) = ricavi−VC; profitto = PS−FC. Qui PS = (16−2)×7/2 = 49.
+a419trnyik Il costo marginale descrive l’aumento del costo variabile, quindi la sua area dà VC.
+3me5w2zhqk Un costo fisso non compare in quest’area marginale ma resta un costo reale per il profitto.
+1x4mnmdomtx PS = 49; con FC = 10, profitto 39. Senza FC coincidono, il che non li rende sinonimi.
+1czoe5mpydb Gestisci il laboratorio: annunciare 49 di profitto dimenticando l’affitto fisso di 10 sovrastima ciò che guadagni.
+22igr6exwi PS = 49 e FC = 10: quale profitto?
+1vqxaw6a19e Hai lasciato il costo fisso fuori dal profitto.
+d22hwr871i Sommare senza giudicare la ripartizione
+l7t93s7s6c La società conta i guadagni dei clienti e dei venditori. Senza politica, nel nostro mercato trova 73,5. Questa somma dice quanto guadagno monetario resta, ma non se la sua ripartizione tra le persone ti sembra giusta.
+q4y1qdqas2 Senza esternalità né Stato, e con costi fissi invariati: W = CS+PS. Efficienza ed equità sono due domande distinte.
+9jpigc5x1c CS e PS contano i due lati dello stesso mercato senza contare due volte il pagamento.
+10h4piyj68w Cambiare la ripartizione a parità di quantità può cambiare l’equità senza cambiare il guadagno totale.
+q6y6c857nf In L7, limitare Q a 5 e fissare p = 18 dà CS = 12,5 e PS = 55: W = 67,5. I venditori guadagnano 6, i clienti perdono 12; il totale perde 6.
+n279lsmea2 Rappresenti i clienti: la loro perdita di 12 per loro è importante, ma non è automaticamente la perdita sociale di 12.
+1huz597b89q CS scende di 12 e PS sale di 6, senza altri effetti. Quale perdita totale?
+1p62vzxp373 −12+6 = −6; i 6 ricevuti dai venditori sono trasferiti.
+jhmue87da4 Conti tutta la perdita degli acquirenti come distrutta.
+114rwgs93zy Bisogna sommare le variazioni con segno, non i loro valori assoluti.
+dbvq0vobow Un’imposta: il cliente e il venditore vedono due prezzi
+1j9i95tetk4 Lo Stato esige 3 su ogni unità scambiata. Un cliente che paga 17 lascia quindi solo 14 al venditore. Perché una transazione avvenga, il cliente deve accettare il suo prezzo, il venditore il suo, e la differenza deve finanziare l’imposta.
+1m8579qv96p Tre relazioni: QD(p_b) = Q; QS(p_s) = Q; p_b = p_s+t. Chi è il debitore legale non determina da solo l’incidenza economica.
+27ihzzgad9s La domanda risponde a ciò che esce dalla tasca del cliente.
+ramimy7i8k L’offerta risponde a ciò che resta al venditore dopo il prelievo.
+1wv1urdziaf Cambiare chi versa l’imposta non cambia questo stesso scarto in questo modello.
+cubu22l7u1 Che il cliente versi 14 al venditore e 3 allo Stato, oppure 17 al venditore che ne versa 3, i prezzi economici restano 17 e 14.
+1aatc6qgkbh Sei il venditore debitore: puoi scaricare tutta l’imposta sul cliente se questi può rinunciare all’acquisto?
+2glix0dzlke Ricostruisci il prezzo pagato dal cliente.
+2edvtd48znx p_b = p_s+t: il prezzo netto del venditore più l’imposta per unità.
+yy2cjlzbma Quale relazione rispetta le tre tasche?
+l6occhcglg Sì: il cliente paga, il venditore tiene, lo Stato preleva la differenza.
+1ck1f6ums40 È il verso di un sussidio, non di un’imposta.
+kds366rvpf Non resterebbe alcuno scarto per l’imposta.
+c2qbc5mziw Abbiamo costruito il cuneo prima di calcolare i prezzi.
+uwt32p7u4f L’imposta elimina alcune transazioni
+1bbh4h7ilx9 Un’unità poteva portare un piccolo guadagno al cliente e al venditore insieme. Non sarà più scambiata se quel guadagno non basta a pagare i 3 richiesti in più. Il mercato si ferma quindi prima del punto senza imposta.
+4y2ii2yjt4 23−Q = 2+2Q+3 → Qt = 6. Un’imposta non è un costo fisico di produzione, ma modifica l’incentivo privato.
+8ob0sd4egv Perché scambino, valore acquirente−costo venditore deve coprire il cuneo di 3.
+1pfrmwemfq0 A Q = 6 questo scarto vale 17−14 = 3; oltre diventa inferiore a 3.
+2bdrv2v6u91 La quantità passa da 7 a 6. Se scrivessi 23−Q = 2+2Q−3, otterresti 8: sarebbe un sussidio.
+cbvm6qcedk Vendi un’unità che crea 2 di guadagno totale: un’imposta di 3 può impedire questo scambio nonostante il suo guadagno reale positivo.
+kqxuatzavn Con t = 3, D = 23−Q, S = 2+2Q: calcola Qt.
+1wl8c1tez7g 8 viene dal segno di un sussidio.
+2cvrbeo56sx 7 dimentica il cuneo fiscale.
+14bn30qq1xs Ritrovare i due prezzi, poi la loro variazione
+upkm63kef4 I clienti pagano 17 invece di 16. I venditori tengono 14 invece di 16. Lo Stato preleva 3, ma qui i clienti ne sopportano solo 1 per unità e i venditori 2: le reazioni del mercato hanno diviso il peso.
+vis6nsqd4d p_b = D(6) = 17; p_s = S(6) = 14. L’incidenza per unità confronta ciascun prezzo con p0 = 16.
+mcgmb6wp9e La domanda dà il prezzo massimo dei clienti per Q = 6; l’offerta dà il prezzo netto necessario ai venditori.
+28rb5uyu7vx La somma dell’aumento per l’acquirente 1 e del calo per il venditore 2 deve ridare l’imposta 3.
+13dk2dz1y7 17−14 = 3 verifica il cuneo. Dire «i clienti pagano 17 di imposta» confonde prezzo totale e variazione dovuta alla politica.
+sk5nloigvp Sei un cliente: guarda il passaggio 16 → 17 per misurare la tua incidenza per unità, non solo il nome scritto sulla dichiarazione fiscale.
+lg3zbbcdx6 Quale prezzo paga il cliente dopo l’imposta?
+10tpb5979mk 14 è il prezzo netto del venditore.
+1cfgr01zkfo Di quanto scende il prezzo NETTO del venditore?
+1d9zlelr8fw L’imposta totale di 3 è divisa tra i due lati.
+29bt491rk8d Chi ha meno possibilità di andarsene?
+2dg02aqu2dl Un lato che può abbandonare facilmente il mercato evita gran parte del prelievo. L’altro lato deve assorbirne di più perché le transazioni continuino. La questione è la sensibilità ai prezzi, non il potere giuridico di versare l’imposta.
+13svb3b96tp Nel modello concorrenziale locale, il lato relativamente meno elastico sopporta di più. Quote: εS/(εS+|εD|) per gli acquirenti, |εD|/(εS+|εD|) per i venditori.
+ctemxynyai Una forte risposta della quantità rende più facile la fuga verso altri usi o mercati.
+1wq7teuosyr Un’offerta verticale non riduce Q di fronte al prezzo netto: il venditore può allora assorbire tutta l’imposta.
+1jvu10z1lul Queste quote non sono una legge generale del monopolio o del Bertrand differenziato.
+48fts9642k Sulle nostre rette, aumento di p_b = t/3 e calo di p_s = 2 t/3. Con un’offerta perfettamente fissa, Q resta invariata e il prezzo netto del venditore può scendere di tutta l’imposta.
+gjw9c35s87 Non hai altro uso per uno stock deperibile: puoi sopportare un’imposta anche se il debitore legale è il cliente.
+1a737l9uz01 Domanda molto anelastica, offerta elastica: chi sopporta di più l’imposta?
+rszu842vxz Gli acquirenti
+1g18bfkkxzw Riducono poco gli acquisti; assorbono un aumento di prezzo maggiore.
+ld07eltrik I venditori, perché versano l’imposta
+223xqkxbdx1 Il debitore legale non basta a determinare l’incidenza.
+3c17eb9cr1 Sempre metà e metà
+14cgfh078o4 Questa ripartizione richiede sensibilità particolari.
+18enq9b8qh7 Il denaro fiscale è trasferito; gli scambi mancanti sono persi
+280vpj33klq I clienti perdono 6,5 di surplus e i venditori 13. Lo Stato riceve 18. Reintegrato questo trasferimento, la società perde solo 1,5: il guadagno reale delle unità che sarebbero state scambiate tra 6 e 7.
+1kkjfz7diay Dopo l’imposta: CS = 18, PS = 36, T = 3×6 = 18; W = CS+PS+T = 72. DWL = 73,5−72 = 1,5.
+2eaxopeak In questa contabilità semplificata il pagamento fiscale resta nelle tasche della collettività.
+20wqp933si9 Valore meno costo degli scambi mancanti scende da 3 a 0: un triangolo di base 1 e altezza 3.
+1v14worjmsu Questo benchmark presuppone concorrenza senza esternalità: un’imposta correttiva si giudica in altro modo.
+17mz0qx664c DWL = 3×(7−6)/2 = 1,5; contare come distrutti i 18 di gettito farebbe sparire denaro che ha semplicemente cambiato destinatario.
+1e5j7q6jk4n Sei ministro: annuncia separatamente gettito di 18, redistribuzione e perdita di efficienza di 1,5.
+1g5f0jlsfwe Quale gettito fiscale per t = 3 e Q = 6?
+1na9sac7gos Quale perdita secca totale?
+1rbckffaroc 19,5 omette il gettito fiscale di 18 nel benessere.
+2cmh0tbvu9g 18 è un trasferimento fiscale, non la DWL.
+2dh4ut0o7wp Un sussidio inverte il cuneo
+10jmkwbxpuh Lo Stato versa 3 per unità. Un venditore può ricevere 18 mentre il cliente paga solo 15. Entrambe le parti vogliono più scambi, ma le ultime unità costano più da produrre di quanto valgano per i clienti.
+2dir0ncsnlr p_s = p_b+s; Qs = 8. W = CS+PS−sQ = 32+64−24 = 72 senza beneficio esterno.
+2fw5ovhxj1d Il bilancio pubblico paga la differenza tra ciò che riceve il venditore e ciò che versa il cliente.
+1zwblm0iild Oltre Q = 7, costo reale>valore reale; l’aiuto rende queste unità attraenti per i privati senza cancellarne il costo.
+1zg6be4draa Con un’esternalità positiva bisognerebbe aggiungere il beneficio esterno prima di concludere.
+1x0jahi1ppn 2+2Q = 23−Q+3 → Q = 8; prezzo cliente 15, prezzo venditore 18; spesa 3×8 = 24; DWL = 1,5.
+3v7xvnu60i Compri grazie a un aiuto: il tuo guadagno privato non dice se il finanziamento crea un guadagno sociale netto.
+1jelycws5qf CS = 32, PS = 64, spesa 24, nessuna esternalità: W?
+10hongsmfa9 Bisogna sottrarre la spesa, non aggiungerla.
+185vmfjqlu6 96 dimentica chi finanzia l’aiuto.
+7k8rrnspxi Un prezzo basso non crea le unità mancanti
+94ne21xpoq Lo Stato vieta di vendere sopra 12. Molti clienti vogliono comprare a quel prezzo, ma i venditori vogliono fornirne solo 5. La regola abbassa il prezzo esposto; non fa sparire i costi né fa ottenere un’unità a tutti i clienti.
+1djeufljz2n Tetto vincolante: QS = 5, QD = 11, carenza 6. In questo dispositivo semplice gli scambi sono limitati a 5.
+2gfxz6im0sf S(5) = 12: servire di più costerebbe più del prezzo autorizzato.
+1u339wmveg3 D(11) = 12: i clienti ne domandano 11; confondere domanda e vendite inventa 6 unità.
+cq7sv1arw2 CS = 42,5 presuppone che le 5 unità vadano alle WTP più alte; code e allocazione casuale possono ridurre questo guadagno.
+jebcwb9lmb Con allocazione efficiente, CS = (23−12)×5−5²/2 = 42,5; PS = 25; W = 67,5. Il cliente escluso non ha guadagnato un acquisto a 12.
+2dpatwdxks6 Vedi un affitto calmierato, ma nessun annuncio disponibile: distingui prezzo accessibile e alloggio ottenuto.
+isllnafotj Al tetto 12: QS5 e QD11. Quante unità mancano?
+cmzz8e1cw4 Carenza = QD−QS = 11−5 = 6.
+1s3pmyrsbk 11 è la domanda totale, non la carenza.
+12b8ok8juof Il CS = 42,5 è garantito qualunque sia la distribuzione delle 5 unità?
+1hztrmiwahy No: presuppone che siano serviti gli acquirenti con le WTP più alte
+845fcsth8a Un’allocazione casuale o i costi della coda possono ridurre il surplus.
+1u5rqd2aus3 Sì, perché il prezzo è 12
+1n31di274w3 Il prezzo non dice chi ottiene le unità.
+2b75cje9jmz No, perché tutti i clienti pagano 23
+jyim34r0fn 23 è l’intercetta della domanda, non il prezzo pagato.
+mjmz620cfz Tetto di 12: due quantità da leggere
+2eyaygfhvrc Q: unità
+bqnfidt1bc Prezzo per unità
+1ot58j050p6 Al tetto di 12, i venditori offrono 5 e gli acquirenti domandano 11. Senza acquisti pubblici o un’altra allocazione, si possono scambiare solo 5 unità.
+10n1xhxw77i Tetto 12
+fwuoqlvob6 Divieto di vendere più caro; nessun obbligo di produrre di più.
+224p4i1n2ud Verificare angoli e istituzioni
+1nybuhyqebg Un tetto fissato sopra il prezzo libero non dà fastidio a nessuno. Un prezzo minimo alto può lasciare invenduti, a meno che lo Stato non li compri. Un’imposta enorme può fermare gli scambi: una quantità negativa non è mai un mercato possibile.
+2dptcr9iaq9 Con D = 23−Q, S = 2+2Q: imposta proibitiva 21 → Q = 0; tetto 18 non vincolante; prezzo minimo 18 senza riacquisto pubblico → QD5, QS8, solo 5 vendute.
+yiq0y2ztzu Le rette danno candidati, non il diritto di vendere una quantità negativa.
+zd2x83uk74 Con un prezzo minimo, gli acquirenti possono essere il lato corto; contare tutta l’offerta come consumata sovrastima gli scambi.
+1x6he357kuk Il tetto al prezzo del petrolio E2023 riguarda un’offerta russa fissa: il volume può restare 8 milioni, con trasferimento di rendita.
+ttia3s1rmp Se t = 24, (21−24)/3 = −1 deve diventare 0. A p = 18, offerta 8 e domanda 5 non permettono 8 vendite private.
+1zy4grmn4vo Correggi un compito: prima di un triangolo, chiediti «questa politica vincola davvero l’equilibrio, e chi compra?»
+23mo5msvx8n Prezzo minimo 18, QD5, QS8, nessun acquisto pubblico: vendite?
+y7f5nj8v7f La domanda limita le vendite; 3 unità offerte restano invendute.
+1j7d2gpcze Offrire non è vendere.
+1olxd7s8wlj Non si sommano offerta e domanda.
+2d3sqdxc1z Imposta di 24 nel nostro mercato: quale quantità è realizzabile?
+1um1ed9bk93 L’imposta supera 21, lo scarto massimo valore-costo. La quantità è limitata a 0.
+142u5i01d46 La soluzione lineare negativa è fuori dal dominio economico.
+1spsxoq8zn1 Una politica può fare due cose insieme
+yw14qh00l1 Abbassare un’imposta riduce gli euro prelevati su ogni unità ma può rilanciare gli scambi. Lo Stato quindi non conosce il suo nuovo gettito guardando solo l’aliquota. Per i clienti bisogna anche distinguere prezzo, quantità e accesso.
+1l5gpnkv0hi R(t) = tQ(t). Confrontare bilanci e surplus rispetto allo stesso benchmark; non generalizzare l’incidenza concorrenziale al potere di mercato.
+28aeipql23t Il bilancio è il prodotto di due elementi che si muovono in versi opposti.
+2945z58yyhq Nel nostro esempio, t = 3 dà R = 18; t = 2 dà Q = 19/3 e R = 38/3≈12,67: la base aumenta ma il gettito scende.
+29tov9k8ogf Il benessere fiscale dipende anche da ciò che lo Stato finanzia, oltre il modello parziale.
+1g46ikec5kz Per A4.2, D = 20−Q, S = 5+Q, t = 3: Q = 6, prezzi 14/11, gettito 18, W = 54. Le tre relazioni restano le stesse nonostante i nuovi numeri.
+s6mbjgg2y9 All’esame cambia il testo: tieni il metodo, non la risposta 17/14 del primo esempio.
+qjawcmwspa Rimetti il metodo nel suo ordine logico.
+17o1scs0agb Identificare gli attori, la regola e il benchmark
+166w8836iei Scrivere domanda, offerta e cuneo
+1rdjy8u3ul7 Risolvere Q e i due prezzi
+e6wzd2f7av Contare CS, PS e bilancio pubblico
+1mn4bifjloq Confrontare il totale e verificare gli angoli
+1n5a5y67czz Identificare gli attori, la regola e il benchmark → Scrivere domanda, offerta e cuneo → Risolvere Q e i due prezzi → Contare CS, PS e bilancio pubblico → Confrontare il totale e verificare gli angoli
+2g9kj0r3q57 La domanda dipende da p_b, ciò che esce dalla loro tasca.
+pd93wynkx1 L’offerta dipende da p_s, ciò che tengono.
+xj6mbk1hgp p_b−p_s = t; lo Stato riceve t per ogni unità ancora scambiata.
+f07u5ws715 Il loro guadagno valore−costo è positivo ma inferiore al cuneo.
+1c9j9lu8xi3 Un euro trasferito allo Stato non è un euro di risorse distrutte.
+1r1r8gc6cmf Il cliente paga 17 e il venditore tiene 14: i 3 restanti vanno allo Stato. La quantità scende da 7 a 6. I 18 di gettito sono un trasferimento, quindi W = 18+36+18 = 72. Senza imposta W = 73,5; la DWL = 1,5 misura il guadagno degli scambi mancanti, non il bilancio fiscale.
+zrrbr0c91i I clienti confrontano valore e prezzo pagato.
+lw4039ah6k I venditori confrontano costo e prezzo netto.
+16jay4b0u2q L’imposta separa questi due prezzi.
+2cbozht4ugv Alcuni scambi vantaggiosi scompaiono.
+1fehagbb6bl Il bilancio è reintegrato e restano come DWL solo i guadagni persi.
+17byhpf24ib Spiega a un amico perché un’imposta di 3 non distrugge 18 di ricchezza nel mercato D = 23−Q, S = 2+2Q. Identifica i due prezzi, il gettito e gli scambi mancanti.
+l7xg2344dw Due prezzi
+1qt9kmvlwj0 Il cliente paga 17, il venditore tiene 14; il loro scarto di 3 è l’imposta.
+233gcnucn2o Una quantità ridotta
+20lj2u1az9n Il cuneo riduce Q da 7 a 6, quindi alcuni guadagni di scambio scompaiono.
+17lewpzddhk Gettito trasferito
+1og7cefi1pm 18 = tQ entra nel bilancio pubblico e resta in W.
+yu1vmmbzb Perdita netta 1,5
+u448t7ozdt Il triangolo degli scambi mancanti vale 1,5; non è tutto ciò che perde un gruppo.
+n9st4jmodo Reintegra il gettito in W prima di misurare la perdita netta.
+1ijpa69oe57 Imposta su un mercato concorrenziale
+2wh8roc7vd Esercizio costruito a partire dal metodo A4.2; non è un testo né una soluzione ufficiale SSE.
+14v2sapu8em Scegliere il benchmark concorrenziale senza imposta.
+16rlk4ivzlt Risolvere le tre relazioni, non un unico prezzo.
+z7oj3i1ibg Reintegrare il bilancio pubblico prima di confrontare il benessere.
+26t3ij471s4 Tracciare D = 30−Q e S = 6+2Q, poi un cuneo verticale di 6 a Q = 6.
+112e2n355ou Etichettare 24 su D e 18 su S; il triangolo tra Q = 6 e 8 misura la DWL.
+26rbinrrlqt Un tax wedge significa…
+12ypenbg5in Uno scarto tra prezzo pagato e prezzo netto ricevuto
+1ll9lvnfs3j Finanzia il prelievo per unità.
+1vk319jz2ig Un costo fisico di fabbricazione
+1mkj2q95in8 Il prelievo cambia gli incentivi senza diventare una risorsa utilizzata.
+1ppx7zvyo67 Una carenza necessaria
+18jcpnjj4ez Un mercato tassato può equilibrarsi con meno vendite.
+1mtwgrx93dv Il PS con un costo fisso è…
+1xadq5u4ypf Ricavi meno costi variabili
+mmomlp0d0a Il profitto poi sottrae FC.
+7enmjpvs01 Automaticamente il profitto
+6bnsiyyoor Solo se FC = 0.
+1elwk5p21y6 La spesa dei clienti
+1qn9eikwv3y Questa è pQ, prima dei costi.
+g9f4ovu0vv Ricostruisci la causa della perdita fiscale.
+4v0nqfvhr5 L’imposta separa prezzo cliente e prezzo venditore
+2dpix968hjk La quantità scambiata scende
+26psvujxxqx Spariscono transazioni con valore>costo
+1k0y815s8ge Il loro guadagno perso è la perdita secca
+1qu1w0423fz L’imposta separa prezzo cliente e prezzo venditore → La quantità scambiata scende → Spariscono transazioni con valore>costo → Il loro guadagno perso è la perdita secca
+2c1aduyzxv0 Lo Stato riceve 20 senza altri cambiamenti. Questi 20 sono una DWL?
+wm5pabqgtg No, è un trasferimento
+2sbspu2irt Bisogna seguire anche gli scambi e i costi reali.
+1ob36za6w1r Sì, hanno lasciato i consumatori
+2jo3whxah Un euro perso da uno può essere ricevuto da un altro.
+1moibirv5qz No, quindi nessuna imposta crea mai una perdita
+hl3ft16s4p Gli scambi mancanti possono creare una DWL distinta.
+9s020x269f Ricostruisci W con un’imposta e nessuna esternalità.
+mxc02nc713 Il gettito si aggiunge alla somma dei surplus privati.
+uy5l0jqv9e Imposta 4; Q passa da 10 a 8; rette, nessun altro difetto: DWL?
+py7jkurklq Triangolo 4×2/2 = 4.
+n6lvtcxojb A4: D = 20−Q, S = 5+Q, t = 3. Calcola Q tassata.
+1tefefgxeox Offerta perfettamente fissa; tetto di prezzo ancora sopra il costo di fornitura. Il volume deve scendere?
+1kum1rkrylt Non necessariamente
+1m1jdino9qk La quantità fissa può restare invariata, con trasferimento di rendita come nel caso del petrolio.
+142tz1q0x4v Sempre, perché tetto = carenza
+266bonpgri Verifica offerta e dispositivo prima di applicare questo risultato.
+vjmwqbc5he Aumentare sempre
+1sgwl3kaora Un prezzo più basso non crea un’offerta fissa aggiuntiva.
+1a5j5obxp11 Net surplus loss
+a0w9joobfw Fewer alternatives
+1i3mx3e1w4q Larger burden
+1twzbr58esx Ricostruisco le tre relazioni di un’imposta o di un sussidio.
+5l0peatvy7 La domanda risponde al prezzo acquirente, l’offerta al prezzo venditore, il bilancio al cuneo.
+jupbr5fneq Conto entrate e spese pubbliche con il segno giusto.
+2bi6y807w8x Il gettito fiscale si aggiunge, il finanziamento di un aiuto si sottrae.
+1x2g0ezlflk Distinguo trasferimento, surplus di gruppo e perdita secca.
+n8qnvthgwp Una perdita privata può finanziare un guadagno altrove; solo la somma rivela la perdita netta.
+19kjlbo3oiz Verifico politica vincolante, lato corto, razionamento e quantità positive.
+xm37111t4q Queste ipotesi determinano le vendite e le aree valide.
+4e0asmdn9n Monopolio — perché vendere di meno può rendere di più
+1kdhs9h9n41 Ricavo marginale, margine ed entrata
+2ghtbjkofaj Controlli l’unica impresa del mercato. Una vendita in più può farti perdere ricavi sulle vendite precedenti: ricostruisci la scelta del monopolio prima di MR = MC.

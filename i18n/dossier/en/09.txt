@@ -1,0 +1,94 @@
+======================================================================
+7. SURPLUS, TAXES, SUBSIDIES AND REGULATED PRICES — L7
+======================================================================
+
+7.1 Who gets what?
+CS, consumer surplus: total value to buyers minus their payments.
+CS=integral_0^Q [p_D(q)-p_b] dq, if the units go to the buyers who
+value them most. For p_D=a-bQ: CS=(a-p_b)*Q/2.
+PS, producer surplus: revenue net of tax minus variable cost.
+PS=integral_0^Q [p_s-MC(q)] dq; for p_S=c+dQ: PS=(p_s-c)*Q/2.
+Profit=PS-FC. When prices differ, integrate the actual revenue
+instead of using a single pQ rectangle.
+Welfare W=CS+PS in the model without government or externality, with fixed costs
+unchanged. With government: add tax revenue, subtract subsidy
+spending. With an externality: add external benefits, subtract damages.
+When entry or fixed costs change, also include those real costs.
+
+A sum of surpluses measures monetary efficiency, not fairness.
+A transfer from CS to PS is not by itself a DWL. A deadweight loss
+is a NET loss of surplus compared with the efficient benchmark.
+The competitive model maximises W if demand is the social marginal
+benefit, supply the social marginal cost and the other assumptions hold.
+Monopoly, an externality or asymmetric information can break this result.
+
+L7 example: p_D=23-Q, p_S=2+2Q ->Q7,p16.
+CS=(23-16)*7/2=24.5; PS=(16-2)*7/2=49; W73.5.
+If Q is limited to 5 and the price is 18: CS12.5; PS55; W67.5; DWL6.
+Here producers gain 6 while consumers lose 12:
+the social loss is 6, not 12.
+
+7.2 Per-unit tax: write THREE relations
+QD(p_b)=QS(p_s)=Q; p_b=p_s+t.
+The consumer pays p_b; the producer keeps p_s; the government receives tQ.
+Whether the law makes the buyer or the seller remit the tax does not change
+the equilibrium of this model, for the same tax and the same trading possibilities.
+
+For p_D=a-bQ and p_S=c+dQ, b,d>0, interior solution:
+Q0=(a-c)/(b+d); Qt=(a-c-t)/(b+d).
+p_b=a-bQt; p_s=c+dQt; T=tQt.
+Rise in buyer price=b*t/(b+d).
+Fall in seller price=d*t/(b+d).
+DWL=t*(Q0-Qt)/2=t^2/[2(b+d)], WITHOUT externality/market power.
+Beyond the prohibitive tax, Q=0; do not extend the formulas to Q<0.
+
+Economic incidence: the less elastic side bears more.
+Local competitive form: buyer share=epsilon_S/(epsilon_S+|epsilon_D|),
+seller share=|epsilon_D|/(epsilon_S+|epsilon_D|).
+These shares are not a general rule for oligopoly or monopoly.
+A less elastic base causes less change in Q, so usually
+less DWL for the same levy, under the comparison assumptions.
+
+L7 tax t3: Q6,p_b17,p_s14,T18; CS18,PS36,W72,DWL1.5.
+The rectangles transferred to the government are not destroyed.
+A tax can nevertheless fund a public good or correct an externality:
+its DWL is not enough to judge the whole policy.
+
+7.3 Per-unit subsidy
+QD(p_b)=QS(p_s)=Q; p_s=p_b+s.
+The buyer pays less, the seller receives more, the government pays sQ.
+Qs=(a-c+s)/(b+d); W=CS+PS-sQ.
+Without externality: DWL=s*(Qs-Q0)/2. The additional units have a real
+cost above their benefit. With a positive externality, this formula
+without external correction can give the wrong diagnosis.
+L7 s3: Q8,p_b15,p_s18; CS32,PS64,spending24,W72,DWL1.5.
+
+7.4 Price ceiling and floor
+Price ceiling / cap: maximum price. Binding if the ceiling is below p* in the
+usual case. Quantity traded often limited by QS; shortage QD-QS.
+Draw the ceiling as a horizontal line; read QS and QD separately.
+CS also depends on rationing: the standard formula assumes the
+available units go to the buyers with the highest WTP.
+Random rationing, queues and search can add losses.
+PS falls; CS can rise OR fall; W falls without another failure.
+L7 ceiling 12: QS5,QD11; trades 5; CS42.5,PS25,W67.5,DWL6.
+A ceiling >=p* is non-binding in the simple competitive model.
+
+Price floor: minimum price, binding above p*. Excess supply.
+Without public purchases, quantity sold limited by QD; do not count QS
+as quantity consumed. With public purchases, include their cost and
+what happens to unsold output. The welfare result depends on this set-up.
+
+E2023 Russian oil: do not mechanically apply "ceiling ->shortage".
+Russian supply vertical beyond 50, ceiling 60 instead of 90: same volume
+8 million barrels/day; rent transfer 30*8 million=240 million
+USD/day. No fall in this supply under the assumptions; the ceiling
+targets one supplier, not necessarily the price of the whole world market.
+
+7.5 Taxes and revenue: a conclusion to check
+Revenue=t*Q(t). Lowering t reduces the levy per unit but can raise
+volume. The sign of Delta revenue is not universal without numbers.
+With inelastic demand and a small tax cut, volume changes little and
+revenue usually falls. Show both effects if the question
+does not allow numbers. A % VAT and a per-unit tax are not
+identical; E2025 explicitly allows treating VAT as per-unit.

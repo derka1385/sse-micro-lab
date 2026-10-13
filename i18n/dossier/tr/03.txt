@@ -1,0 +1,104 @@
+======================================================================
+1. ENVANTER VE MÜFREDAT HARİTASI
+======================================================================
+
+Aşağıdaki tüm adlar Microeconomics klasörüne göredir.
+
+S01 = assignments/Assignment3.pdf — 4 sayfa.
+S02 = assignments/Assignment2.pdf — 3 sayfa.
+S03 = assignments/Assignment4.pdf — 5 sayfa.
+S04 = assignments/Assignment5.pdf — 6 sayfa.
+S05 = assignments/Assignment6.pdf — 5 sayfa.
+S06 = lectures/Lecture 01 Micro 2026 15.16.11.pdf — 21 sayfa.
+S07 = lectures/Lecture 02 Micro 2026 15.16.11.pdf — 33 sayfa.
+S08 = lectures/Lecture 03 Micro 2026 15.16.11.pdf — 24 sayfa.
+S09 = lectures/Lecture 04 Micro 2026 15.16.11.pdf — 29 sayfa.
+S10 = lectures/Lecture 05 Micro 2026 15.16.11.pdf — 33 sayfa.
+S11 = lectures/Lecture 06 Micro 2026 15.16.11.pdf — 34 sayfa.
+S12 = lectures/Lecture 07 Micro 2026.pdf — 23 sayfa.
+S13 = lectures/Lecture 08 Micro 2026.pdf — 24 sayfa.
+S14 = lectures/Lecture 09 Micro 2026.pdf — 25 sayfa.
+S15 = lectures/Lecture 10 Micro 2026.pdf — 25 sayfa.
+S16 = lectures/Lecture 11 Micro 2026.pdf — 25 sayfa.
+S17 = lectures/Lecture 12 Mikro 2026.pdf — 20 sayfa.
+S18 = past exams/2020.pdf — 7 sayfa.
+S19 = past exams/2021.pdf — 5 sayfa.
+S20 = past exams/2022.pdf — 5 sayfa.
+S21 = past exams/2023.pdf — 6 sayfa.
+S22 = past exams/2024.pdf — 5 sayfa.
+S23 = past exams/2025.pdf — 6 sayfa.
+
+DERSLER -> BECERİLER -> UYGULAMALAR
+L1, Introduction, Friberg 1.1–2.1 ve 19: kıtlık, seçim, tahsis,
+  etkinlik ve bölüşüm, model varsayımları, türevler.
+L2, Supply and demand, Friberg 2.2–2.5: doğrudan/ters fonksiyonlar,
+  eğri kaymaları, denge ve şokların etkileri.
+  A4.2, A6.3 ve tüm sınavlardaki politikalar için temel.
+L3, Consumer choice, Friberg 5.1–5.6: tercihler, ordinal fayda,
+  kayıtsızlık, MRS, bütçe, iç veya köşe seçimi, davranışsal yanlılıklar.
+  A2.2; E2022 Q5; E2021 Q4e; Q5 tanımları.
+L4, Demand curves and elasticities, Friberg 6.1–6.4: bireysel talep,
+  toplama, telafi ve esneklikler. A2.1; E2020 Q5; Lerner.
+L5, From technology to costs, Friberg 3.1–3.7: üretim, MP, eş ürün eğrileri,
+  verimlilik, maliyet minimizasyonu, maliyet kategorileri, ölçeğe göre getiri.
+  E2021, E2023, E2025'in Q5'i; çok sık tekrarlanan tanımlar.
+L6, Supply by price taking firms, Friberg 4.1–4.8: MR=MC, p=MC,
+  kısa dönemde kapanma, uzun dönemde çıkış, toplama, giriş ve sıfır kâr.
+  E2020 Q5, E2024 Q5; tekelci rekabet mekanizmaları.
+L7, Efficiency, Friberg 7.1–7.5: CS, PS, refah, DWL, tavan/taban fiyat,
+  vergi ve sübvansiyon. A4.2; tüm sınavlardaki politikalar ve grafikler.
+L8, Monopoly and monopolistic competition, Friberg 9.1–9.3: MR,
+  piyasa gücü, Lerner, engeller, giriş, heterojen firmalar.
+  A4.1/A4.3; E2021 Q3; E2022 Q3; E2023 Q1; E2025 Q3d.
+L9, Price discrimination, Friberg 12.1: birinci/üçüncü/ikinci derece,
+  IC/IR, bundling, abonelik ve two-part tariff.
+  A5.1/A5.2; altı eski sınavın hepsinde var.
+L10, Oligopoly, Friberg 10.1–10.3: Cournot, Nash, tepki, Stackelberg,
+  homojen ve farklılaştırılmış Bertrand, firma sayısı, asimetrik maliyetler.
+  A5.3; E2020/21/22/23 Cournot hesapları; E2024/25 Bertrand hesapları.
+L11, Externalities, Friberg 13.1–13.2: özel ve sosyal maliyetler/faydalar,
+  Pigou, emisyonlar, izinler, Coase, kamu malları ve ortak kaynaklar.
+  A6.1/A6.3; büyük alıştırmalar E2020/23/24 ve kamu malları E2025.
+L12, Asymmetric information, Friberg 14.1–14.4: adverse selection,
+  lemons, sinyal/screening, moral hazard, asil-vekil, risk paylaşımı.
+  A6.2; altı sınavın hepsinde teorik veya sayısal sorular.
+A3: eşzamanlı/sıralı oyunlar, sosyal tercihler, taahhütler.
+  L10'da değinilen Nash'in uzantısı; ödevin hangi dersten geldiğini kapağı
+  belirtmiyor. Alışılmadık diye bir kenara atma.
+
+GÖZLEMLENEN FORMAT VE EĞİLİMLER
+2020–2025 sınavları 4 saat sürer, toplam 83 puanlık dört ana soru
+ve midterm yerine geçen 10 puanlık bir Q5 içerir.
+Talimatlar İngilizce, yapılandırılmış ve gerekçeli cevaplar ister.
+2020–2023 sınavları izin verilen materyalleri/hesap makinesini açıkça belirtir; eski
+bir sınavdan güncel bir izin çıkarma.
+L1 p.17–18, 2026 için duyurur: sınav 23 Ekim'de, midterm 28 Eylül'de,
+midterm L1–L6'yı kapsar, hand-ins 7 puan, midterm 10, final 83, toplam 100.
+Gösterilen eşikler: Pass 50, Good 60, Very good 70, Excellent 80.
+
+Alt soru sayısına göre değil, YILA göre sayım:
+- Piyasa gücü ve fiyatlama/ayrımcılık: 6/6, 2020–2025.
+- Rant akıl yürütmesiyle vergiler, sübvansiyonlar veya başka düzenlemeler:
+  6/6, 2020–2025; 2023'te gümrük vergileri ve tavan fiyat dahil.
+- Asimetrik bilgi: 6/6, 2020–2025.
+- Dar anlamda kamu malları: 5/6, 2020, 2021, 2022, 2024, 2025.
+  2023 ortak bir kaynağı/spektrumu ele alır; kamu VEYA ortak = 6/6.
+- Basit kamu malı tanımının ötesinde açıkça ele alınan dışsallıklar:
+  5/6, 2020, 2021, 2023, 2024, 2025.
+- Uluslararası ticaret veya karşılaştırmalı üstünlük: 5/6,
+  2020, 2021, 2022, 2024, 2025.
+- Cournot dengesi hesabı: 4/6, 2020, 2021, 2022, 2023.
+  Niteliksel Cournot/Bertrand karşılaştırması 2025'te de var.
+- Farklılaştırılmış Bertrand hesabı: 2/6, 2024, 2025.
+- Sayısal sıralı liderlik: 2/6, 2021 miktarlarla, 2024 fiyatlarla.
+- Açık müzayedeler: 2/6, 2023 ve 2025.
+- Açık model olarak platformlar/ağ etkileri/multihoming:
+  2/6, 2022 ve 2025; diğer sınavlar platformları bağlam olarak kullanır.
+- İsteğe bağlı Q5'te beş temel tanım: 6/6.
+
+BÜYÜK BİR SORUNUN KURULUŞ ŞABLONU
+Bir mekanizma tanımla -> temel bir durumu çöz -> bir varsayımı değiştir
+(vergi, giriş, maliyetler, ayrımcılık, bilgi veya karar sırası)
+-> dengeleri karşılaştır -> çiz -> sezgiyi açıkla.
+Konular birleşir: tekel + vergi, Cournot + asimetrik maliyetler,
+sübvansiyon + dışsallık, platform + ayrımcılık, kredi + IC.

@@ -1,0 +1,219 @@
+187lp75r5mv Behandla IC, IR, risk och likheter var för sig.
+lezd37ioi5 Ett svagt incitament innebär varken strikt ansträngning eller accepterande.
+dh719osuil Visa en konflikt i stället för att anta den utifrån ordet bonus.
+2d9tgl777b6 Siffrorna i E2020 gör chefens och ägarens val samstämmiga.
+17ovhd91bm9 Spel — välja mot någon som också väljer
+1stqtppif61 Bästa svar, jämvikter och trovärdighet
+n7g35w8l73 Dela eller ta potten? Rusta eller lita på den andra? Jämför dina val i varje scenario, behåll indifferenserna och bygg upp hela planen igen.
+vr42z4tub8 Rowena / X
+1zv02w2fqdt väljer en rad eller agerar först
+havgwywhc6 maximera sin egen nytta
+1gmq5bvxcu2 Colin / Y
+9aiuhlnfmm väljer en kolumn eller svarar efter att ha observerat
+obkdu1bpfv maximera sin egen vinst
+wqc5gtn3t7 Analysen
+1n9pgtv7wue håller varje spelares val och vinster isär
+1dliqueit0q identifiera stabilitet och effektivitet utan att blanda ihop dem
+1vifqqnyb0k Du väljer inte ensam utfallet av ditt val
+x0pbxj1gff Rowena och Colin kan var för sig dela en pott eller försöka ta den. Om båda delar får var och en 10; om bara en tar får den 20 och den andra 0. Om båda tar får de 0: värdet av ditt val beror på den andras val.
+1j0ldw7kvw6 Ett spel beskriver spelare, deras strategier, deras information och deras vinster. I ett simultant spel väljer var och en utan att observera den andras aktuella handling.
+edkhm8qdrj En handling har ingen fast vinst: att dela kan ge 10 eller 0 beroende på Colin.
+1g7suld45pe För att veta vad hon ska göra måste Rowena jämföra sina handlingar i varje scenario för motspelaren, i stället för att välja den största rutan i tabellen.
+1y1g7wezu0u Dela mot dela ger 10; ta mot dela ger 20. Samma motspelare, två privata val att jämföra.
+2dpnxxre0hg Du är Rowena: börja med att föreställa dig att Colin delar, fråga sedan vilket val som ger dig mest i just det scenariot.
+9qi3p8kwun Golden Balls: de monetära vinsterna
+dup59hasxc S=Split, N=Steal i detta assignment. Första talet: Rowena (rad), andra: Colin (kolumn). Monetära vinster; endast rena Nash i frågorna som följer.
+z5lckyzhuv Rowena
+20mnhbdjivw Colin
+1hmntqyoz3o S: dela
+1s3uuibln69 N: ta
+18fv6pj7i6p Varför är detta ett strategiskt problem?
+m2s9v0jlz5 Din vinst beror också på den andras handling
+16lb37npx99 Du måste förutse den andras val eller villkora ditt resonemang på det.
+2fpxm1h0svp Eftersom det största talet nödvändigtvis är ditt val
+2b1blkkf5dq En ruta anger en profil med två val; den andras val styr du inte direkt.
+1o0qenrvqc7 Eftersom var och en kan bestämma bådas val
+186jhmp9znr Varje spelare styr bara sin egen strategi.
+3qi380qwdq Det första talet hör inte alltid till spelaren som intresserar dig
+wwi85f4oyc I varje ruta får två personer vinster. Det första talet tillhör radspelaren Rowena, det andra Colin, kolumnspelaren. Om du byter plats på talen låter du någon besluta utifrån den andras vinst.
+26rpipo1oo9 Tabellkonvention: (u_rad,u_kolumn). Behåll alltid samma ordning när du drar av kostnader eller omvandlar pengar till nytta.
+1bfepurwgnt Tabellen kodar två preferensordningar i samma rutor.
+1nlpkdaxzpz En spelares bästa svar beror bara på den egna ordningen, inte på summan eller motspelarens vinst.
+1w88c3pco20 Ruta Rowena S, Colin N: (0,20). Rowena får 0, Colin 20. Det är inte ”Colin väljer det första talet”.
+4snx6xa70x Dölj motspelarens tal medan du jämför dina handlingar: då undviker du att lösa den andras problem i stället för ditt eget.
+pwvxk50ph2 I rutan (S,N)=(0,20), vilken vinst får Colin?
+2br0cs60oyf Colin är kolumnspelaren: hans vinst är det andra talet.
+1mhu5iyos64 0 är vinsten för Rowena, radspelaren.
+1sdh9dn0c31 Lås kolumnen och låt sedan Rowena välja
+2ebkqll3chr Anta att Colin delar. Rowena jämför 10 om hon delar med 20 om hon tar, så hon tar. Anta nu att Colin tar: Rowena får 0 i båda fallen, så båda valen är hennes bästa svar.
+21gogxrsx2i BR_i = best response: den handling som maximerar den privata vinsten mot en given handling från motspelaren. Ett bästa svar kan vara en mängd när det råder indifferens.
+93s2lubxm2 Colins val förblir låst under jämförelsen: annars mäter man inte en ensidig avvikelse.
+11e7423d68k En lika stor vinst gör det inte möjligt att eliminera en handling; den förblir optimal vid lika.
+175jomob8zb BR_Rowena(S)={N}. BR_Rowena(N)={S,N}. Noll utesluter inte ett bästa svar om alla alternativ också ger noll.
+21lvr45tccj Du varierar bara din rad, i en låst kolumn. Ringa in alla rutor som når din maximala vinst.
+2bglpkx2qr0 Mot Colin N, vilka är Rowenas bästa svar?
+1u2za4lqnuh Bara N
+20ycvis4nws S ger också 0; indifferensen behåller båda handlingarna.
+rpialj25c4 Båda maximerar hennes vinst 0 i denna kolumn.
+1ngdv2666j4 Ingen handling
+2em52tfbbaw Även om vinsten är noll finns ett maximum.
+hz4lnw1jtq Lås nu raden och låt sedan Colin välja
+asvsdi0ilv Anta att Rowena delar: Colin jämför 10 om han delar med 20 om han tar, så han tar. Om Rowena tar får han 0 i båda kolumnerna. Problemet är symmetriskt, men du måste använda de andra talen för att lösa det.
+211wz233q3j BR_Colin(S)={N}, BR_Colin(N)={S,N}. Kolumnspelarens bästa svar söks horisontellt med låst rad.
+1mxt250761n Att ändra båda valen samtidigt testar en koordinering, inte det bästa privata valet mot en given motspelare.
+1gr3s69vsoi Symmetri måste kontrolleras utifrån vinsterna; handlingarnas namn garanterar den inte.
+1gw1rshhp34 Mot S är Colins privata vinst av att byta från S till N 20−10=10.
+x418vdhalo Du är Colin: din avvikelse går från en kolumn till den andra, utan att flytta raden som Rowena valt.
+1t4x7z24ktd Mot Rowena S, hur mycket mer tjänar Colin på att byta från S till N?
+dl44vungkh Colin jämför de andra vinsterna: 20−10=10.
+12zgz3u4mfs 20 är hans nya vinst, inte ökningen jämfört med de ursprungliga 10.
+1yostz6dkf5 En Nash är en ruta där ingen spelare ensam kan förbättra sin vinst
+2614at9ge4c Titta på en ruta där var och en redan ger bästa svar på den andra. Att ändra ensam ger då ingen strikt vinst. I själviska Golden Balls klarar (S,N), (N,S) och (N,N) detta test, även om vissa spelare är indifferenta.
+1kre6i409kv Rent Nash: varje handling är ett bästa svar på den andra. Det är varken ett löfte om samarbete eller ett kollektivt optimum.
+1m2t3qes2n0 Vilket test definierar en Nashjämvikt?
+gihgvfj508 Ingen spelare förbättrar sin vinst genom att ändra ensam
+1q43pdhnwx6 Var och en svarar på den andras val; en avvikelse utan strikt vinst förstör inte Nash.
+1vw35xvfaml Summan av vinsterna är maximal
+1rvw76nluaf Det testar kollektiv effektivitet, inte individuell stabilitet.
+12i4hrlmokg Vid (S,N) kan Rowena också ta men stannar på 0; Colin skulle förlora på att dela.
+tc68f76zv2 Vid (S,S) tjänar var och en 10 mer på att ta ensam: rutan är alltså inte Nash trots sin kollektiva dragningskraft.
+24z3wqf8ogk (N,N) är Nash: att ensam byta till S behåller vinsten 0. En förbättring som kräver att båda byter är ingen ensidig avvikelse.
+2f367no9hac Fråga för varje spelare: ”om den andra inte rör sig, kan jag göra strikt bättre?”.
+1fzbphkxbtr Vilken lista innehåller exakt de rena Nashjämvikterna i själviska Golden Balls?
+s05s04kp3t De bästa svaren inkluderar indifferenserna mot N.
+1oqzj8bg8li Bara (N,N)
+26s0w2dyw1i Du glömde de bästa svaren vid lika i de asymmetriska profilerna.
+zj7j0lqn3z Vid (S,S) höjer det att ta ensam vinsten från 10 till 20.
+14zwru6031r Svagt dominant är inte strikt dominant
+bqafewirnb Att ta ger 20 i stället för 10 mot någon som delar. Mot någon som tar ger det att ta samma noll som att dela. Att ta är aldrig sämre och ibland bättre; det är inte bättre i alla fall.
+1fqhlo03voj N är svagt dominant: minst lika bra mot varje handling från motspelaren, strikt bättre mot vissa. En strikt dominant strategi skulle vara strikt bättre mot alla.
+p5j7vlsxdl Skillnaden gäller olikheterna, inte frestelsens psykologiska styrka.
+x9ralilhkn Indifferens förklarar varför andra profiler än (N,N) kan vara Nash.
+2c6xjbb0cwx Mot S: 20>10. Mot N: 0=0. Det saknas en strikt olikhet för att tala om strikt dominans.
+1mtw46fthn1 Stryk inte likhetstecknen bara för att en handling känns naturligare: de är ekonomisk information.
+16plbnsi1a9 Varför är N inte strikt dominant?
+f7qo44v3ly Den ger samma vinst som S mot N
+xpplt6rue6 0=0: denna likhet utesluter strikt dominans.
+9yrnj1j7qr Den ger alltid mindre än S
+11ztj92qs17 Mot S ger den 20 i stället för 10.
+1oe6dap1g3x Den kan aldrig ingå i en Nash
+15gfkv0r7t En svagt dominant strategi kan ingå i flera Nashjämvikter.
+9cxlen7s77 Individuellt stabilt kan vara dåligt för båda
+uyxpo946ki Vid (N,N) får Rowena och Colin 0. De skulle båda kunna få 10 genom att dela tillsammans. Men om den andra fortsätter att ta förbättrar det inte din vinst att dela ensam: möjligheten till ett bättre kollektivt utfall räcker inte för att göra det stabilt.
+vmp157inw (S,S) Paretodominerar (N,N), men är inte Nash i det själviska spelet. Effektivitet och jämvikt svarar på olika frågor.
+zhoae1xfq Pareto jämför två fördelningar: ingen förlorar och minst en vinner.
+cpwfwn4d5x Nash jämför en enda persons avvikelser medan de andra valen hålls fasta.
+1sbzdcggv3g Summa vid NN=0; summa vid SS=20. Ändå ger det mot S 20 att ta mot 10 att dela.
+q077k1uorj Du föreslår en koordinering för din motspelare. Kontrollera sedan om den andra fortfarande har intresse av att följa planen när ditt eget val är givet.
+23v0wgxg52y Är en ruta som maximerar summan av vinsterna automatiskt Nash?
+12egl825zqa Nej: var och en kan fortfarande vinna på att avvika ensam
+mxjwb9vhx5 De bästa svaren måste testas individuellt.
+21ynqca4xq6 Ja: den kollektiva vinsten förhindrar varje avvikelse
+289bnh8zw7l Kollektivet är inte varje självisk spelares målfunktion.
+1wqir33jl1u Om det stör dig att ligga efter är en nolla inte längre samma nolla
+2aakfpli5jz Anta att du drar av 1 från din nytta när den andra får mer pengar. Att få 0 mot någon som får 20 blir −1, medan 0 mot 0 förblir 0. Indifferensen som stödde de asymmetriska jämvikterna försvinner.
+8xdryosunb Med avund: SS(10,10), SN(−1,20), NS(20,−1), NN(0,0). N blir strikt dominant; enda rena Nash är NN.
+186049tkelo Valen maximerar nyttan enligt preferenserna, inte nödvändigtvis bara pengar.
+8o23hemcrl Mot N är N värt 0>−1; mot S är N värt 20>10. Båda jämförelserna är nu strikta.
+gka1pzkvmn I profilen SN avviker Rowena till N: hennes nytta går från −1 till 0. SN upphör att vara Nash.
+vaq6y71gpp Du ändrar inget belopp i potten: du ändrar vad beloppen betyder för dig.
+8sjzk8niwq I profilen SN med avund, hur mycket förbättrar Rowena sin nytta genom att byta till N?
+9xcrnipja9 nyttoenhet
+2gbgh5b0wbs Hon går från −1 till 0: en ökning med 1.
+plpdw72j3i Se upp för den gamla lösningens fälla: NN är inte längre Nash
+18kf3gy7wtc Du värderar nu den andras pengar lika mycket som dina egna. Så snart minst en delar betalas potten på 20 ut och var och en får nyttan 20. Vid (N,N) höjer det att dela ensam din nytta från 0 till 20 tack vare pengarna som den andra får.
+2c5mbbw1877 Lika altruism: u_i=m_i+m_j. Rena Nash SS,SN,NS; NN är inte Nash. Det personliga svaret ”SS och NN” som anges i A3.1 c är fel.
+1nv59wuooy Vid SS lämnar en avvikelse till N nyttan på 20: ingen strikt vinst, så SS är Nash.
+hvs2f17onn Vid NN skapar avvikelsen till S 20 för den andra, vilket den avvikande spelaren själv värderar: hen vinner strikt.
+10rznm7zhr2 SN: Rowenas nytta 0+20=20 och Colins 20+0=20. NN: 0+0=0. Samma pengar ger en annan nyttomatris.
+2ft6i9sbata Rätta NN med en enda konkret avvikelse; plugga inte in en lista med jämvikter som du inte kan bygga upp igen.
+1i2et0eufit Samma penningbelopp, nya nyttor
+v13q4ihwv Nytta u_i=pengar_i+pengar_j. Talen som visas är nyttor, inte en ny fördelning av pengar. Första talet: Rowena, andra: Colin.
+27eg9ygmayh Med u_i=m_i+m_j, vilka är exakt de rena Nashjämvikterna?
+prllhf2f56 Alla dessa rutor ger 20; vid NN förbättrar det att dela ensam 0 till 20.
+20frwg1vs1w Det är precis felet i den personliga lösningen: NN tillåter en lönsam avvikelse.
+lgsx4d2olf Bara NN
+2fvrznq6mzj Du behöll de själviska preferenserna i stället för att räkna om nyttorna.
+1nb3els1hv9 När den andras pengar räknas dubbelt blir det strikt dominant att dela
+cxna0sn6es Anta nu att du värderar en euro hos den andra som två euro i din nytta. Om den andra delar ger det att dela 30 mot 20 om du tar. Om den andra tar ger det att dela 40 mot 0: att dela blir bättre i varje scenario.
+1rsuv2hhjyg u_i=m_i+2 m_j: SS(30,30), SN(40,20), NS(20,40), NN(0,0). S strikt dominant; enda Nash SS.
+56or28vhww Mot S är det värt 10+2×10=30 att behålla 10 och ge 10; att ta allt är värt 20.
+8dwhlig9fv Mot N ger det att dela 20 till den andra, värderade till 40; att ta förstör allt och är värt 0.
+axla3kgvhm Vid SN är Rowenas pengar 0 men hennes nytta 40. Man måste ange om en matris visar pengar eller nytta.
+11nbgzeh6wv Du skiljer på vad som hamnar i din plånbok och värdet du tillskriver utfallet.
+15uajkagage Rowena delar, Colin tar 20; med u_R=m_R+2 m_C, vilken nytta har Rowena?
+kr3cephp65 0 är pengarna hon får; hennes nytta räknar också Colins vinst.
+10qs8l2sltj 20 motsvarar lika altruism, inte vikten 2.
+u9rsnkewym Två Nash säger inte vilken som kommer att spelas
+1x8whzqyvk8 Två länder föredrar att leva i fred tillsammans: vart och ett får 9. Men om det andra förbereder krig ger det 7 i stället för 0 att svara med krig. Gemensam fred och gemensamt krig är alltså båda stabila, även om fred är bättre för vart och ett.
+np82o00w82 Koordinationsspel A3: rena Nash (fred,fred) och (krig,krig). Matrisen ensam väljer inte en unik simultan jämvikt.
+5vgl7sq2pj Mot fred: fred 9>krig 8. Mot krig: krig 7>fred 0.
+m5prqo5zqk Föreställningar om den andras svar kan göra ett utfall troligt; ett icke-bindande tillkännagivande ändrar inte automatiskt vinsterna.
+1qtrblbje34 Att gå från krig/krig till fred/fred ger vart och ett 2, men ett ensidigt byte mot krig kostar 7.
+9xk5hy3il9 Du vill koordinera på fred: att övertyga den andra om ditt svar kan spela roll, men kontrollera om du faktiskt har ändrat den andras incitament.
+1860mfs1jzd Koordinering fred/krig
+3fs93sdhyd Första vinsten: X, radspelare; andra: Y, kolumnspelare. De två rena jämvikterna är fred/fred och krig/krig.
+2384s7d3ze7 Fred
+87f6a55m7l Krig
+1w0gmra09xf Vilken slutsats motiveras av enbart de simultana vinsterna?
+5dclnzb8ls Två rena Nash; inget unikt val påtvingat av matrisen
+1uikdb7uv42 Båda diagonalerna är ömsesidiga bästa svar.
+7wqluzitf4 Fred kommer nödvändigtvis att spelas eftersom 9>7
+2lmuf8rleu Det jämför två koordineringar; det privata valet beror på det förväntade valet hos den andra.
+1vjsm9ae4qt Krig är strikt dominant
+sogty5r6bj Mot fred ger fred 9 mot 8.
+xqehnlgbnf När någon observerar innan den agerar, börja från slutet
+oerhiw1qrn X agerar först i koordinationsspelet, och Y observerar. Om X väljer fred föredrar Y fred 9 framför krig 8; om X väljer krig föredrar Y krig 7 framför fred 0. X förutser alltså 9 genom att välja fred mot 7 genom att välja krig.
+1zp5qev5xh5 Bakåtinduktion: lös följarens optimala val i varje delspel och välj sedan i startnoden. Här är utfallet fred/fred.
+1cijfksj9dl Den första spelaren måste förutse det faktiska svaret, inte hålla den andras handling konstlat fast.
+1xqddmmltga Att gå över till ett observerbart beslut ändrar spelet; man kopierar inte bara det simultana spelets Nashjämvikter.
+xt1nssz682 Y:s reaktion: fred efter fred, krig efter krig. X jämför de inducerade utfallen 9 och 7, alltså fred.
+1zeqlw8669b Du är X: innan du spelar, fyll i Y:s två möjliga framtida svar, även det som till slut inte nås.
+1o7h39f538 Sekventiell koordinering
+255ehnhmj4g Y observerar X; vinster som i matris A3.
+10cgws0hy9y Y efter fred
+2bno703pwad Jämför 9 med 8
+1oiiibzvoga Väljer fred.
+1gcjnsnbptk Y efter krig
+10yp9x1hor7 Jämför 7 med 0
+6wit8mb8lo Väljer krig.
+dvi9cll3dh X i början
+rl97lf8zur Förutser båda svaren
+1dn5zonq5gu Väljer fred eftersom 9>7.
+1k8bw3d1yj3 I vilken ordning löser man ett sekventiellt spel i två steg?
+1cm6p53h520 Beskriva slutvinsterna och informationen
+17hsj6yhvjj Välja följarens bästa svar efter varje möjlig handling
+1740ld0xgzf Föra in dessa utfall i ledarens val
+k67akyr3np Ange den fullständiga strategin och det utfall som uppnås
+et6vjk0fsd Dra av vapenkostnaderna innan du jämför
+1lx50gfpel Länderna X och Y delar på sex enheter olja. Att rusta kostar X 1 och Y 3; ett land som ensamt är rustat får 5 av oljan, det andra 1. Om båda rustar försvinner oljan men kostnaderna är ändå betalda: en stor bruttoandel är ännu ingen nettovinst.
+1x3h67ykoox Nettovinster (X,Y): ingen rustad (3,3), bara X (4,1), bara Y (1,2), båda (−1,−3).
+1lo1bv4m76p Y, ensamt rustat, får 5 men lägger ut 3, så dess vinst är 2; orustade X får 1, inte 2.
+1vnh5e7906z Att blanda ihop den andras vinst med din egen kostnad kan ge ett bra utfall genom ett felaktigt resonemang.
+123dhqqy6l7 Bara X: 5−1=4 för X, 1 för Y. Båda rustade: 0−1=−1 för X och 0−3=−3 för Y.
+aowtt3m8eo Du är Y: innan du granskar dina alternativ, gör om varje oljeintäkt till en nettovinst med din kostnad 3.
+1o5fy0v5pv Vapen och olja: nettovinster
+1p22d4e3418 Pott 6; rustningskostnad X1, Y3. Det enda rustade landet får 5 före kostnad, det andra 1; om ingen rustar delas 3/3; om båda rustar förlorar de oljan. Första vinsten X, andra Y.
+1fuvda6yn8 X (kostnad 1)
+wvjk7omtrb Y (kostnad 3)
+2agxro88rqr Orustat
+1qxcoa0k2o0 Rustat
+2g7wow28kz5 Om bara Y är rustat, vilken nettovinst får Y?
+6ev7e5ldhc Det får 5 olja och betalar 3: 5−3=2. Orustade X får 1.
+1z5qjc07qpc 5 är bruttointäkten före kostnad.
+27hglkbciuv 1 är orustade X:s vinst, inte Y:s.
+k068zd9d2t En strategi säger också vad du skulle göra utanför den spelade vägen
+14ptqiyj6h9 X spelar först i vapenspelet. Efter att X har rustat föredrar Y att förbli orustat: 1>−3. Efter att X förblivit orustat föredrar Y också att förbli orustat: 3>2. X förutser då 4 genom att rusta mot 3 annars; men att bara skriva ”X rustar” glömmer hela Y:s plan.
+153cftrib23 SPNE = subgame perfect Nash equilibrium (delspelsperfekt Nashjämvikt). En följares strategi anger en handling i varje möjlig nod, även utanför jämviktsvägen.
+1trknyfih76 Reaktionen utanför vägen gör det möjligt att motivera det första valet: ledaren jämför vad som skulle hända om den bytte gren.
+25apq3nwx0t Ett slututfall är en fördelning av vinster; ensamt är det ingen fullständig strategiprofil.
+1i3s03jky51 X först: X rustar; Y rustar inte efter någon av X:s handlingar; utfall (4,1). Y:s svar efter orustat X ligger utanför vägen men är oumbärligt.
+265b8q2jpp1 Du fyller i två rutor i Y:s plan: ”efter X rustat” och ”efter X orustat”. En tom ruta lämnar resonemanget ofullständigt.
+jsyicl12wa Vilken är Y:s fullständiga optimala plan när X spelar först?
+23eo137hj0p Inte rusta efter X rustat OCH efter X orustat
+1fou9bct6uv Y jämför 1>−3 i den första grenen och 3>2 i den andra.
+2c6b29irfkb Inte rusta bara i den spelade grenen
+21lmpz4co8p Det saknas ett beslut utanför vägen som behövs för att ange en strategi.
+pozjw5e84q Rusta efter orustat X eftersom 5>3
+1tk4elyvw7u 5 är brutto: efter kostnaden 3 får Y 2<3.
+2e8metvgw2m Att ändra ordningen kan ändra utfallet — att tillkännage räcker inte

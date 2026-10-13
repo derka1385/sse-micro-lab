@@ -1,0 +1,224 @@
+1eizah3tc14 Se Y gioca per primo, X resta disarmato dopo Y armato perché 1>−1, ma si arma dopo Y disarmato perché 4>3. Y anticipa 2 armandosi contro 1 restando disarmato e sceglie quindi di armarsi. Una minaccia di X di armarsi a ogni costo non sarebbe credibile dopo Y armato.
+29nqhfs09uk Induzione a ritroso con ordine invertito: esito (1,2). Una minaccia credibile deve restare ottimale nel momento della sua esecuzione; un impegno può modificare i costi o le possibilità.
+vsn6ingc15 Y sceglie anticipando il guadagno netto della propria scelta dopo la reazione di X.
+jud96hhbxl Una promessa non vincolante non trasforma −1 in un guadagno superiore a 1; una vera regola di impegno deve cambiare gli incentivi o le opzioni.
+18yzwcn0vsj Y per primo: strategia X=(non armarsi dopo Y armato; armarsi dopo Y disarmato). Y si arma e riceve 2, X riceve 1.
+hbl81bo0x9 Valuta la minaccia del tuo avversario mettendoti nel momento in cui dovrebbe eseguirla, non nel momento in cui gli conviene annunciarla.
+nzv9dytw3 Quando Y gioca per primo, quale esito e quali guadagni netti seguono dall’induzione?
+10t2182se3y Solo Y armato; (X,Y)=(1,2)
+2bu4fy291hx X non risponde armandosi a Y armato; Y preferisce 2 all’1 che otterrebbe non armandosi.
+19cqdkzoo7c Solo X armato; (4,1)
+1oi3absnr34 È l’esito quando X gioca per primo. L’ordine inverso cambia il calcolo iniziale.
+1x8pbp6hlz9 Entrambi armati; (−1,−3)
+1nwmdwre3eg Dopo Y armato, X preferisce 1 a −1 e non si arma.
+1x1wehep36j Una miglior risposta confronta le tue azioni in uno stesso scenario dell’avversario.
+20wmred41yw Un’azione a pari merito con il massimo resta ottimale.
+2bz0c7t8gkn Nessun giocatore migliora allora il proprio guadagno deviando da solo: è Nash.
+94hfji3lv4 Il leader anticipa le risposte, anche dopo un’azione che non giocherà.
+tix6l0y2l0 Una minaccia deve restare una scelta ottimale quando la situazione si realizza.
+1ebmg4ypue6 Un Nash è stabile contro una deviazione unilaterale: in NN egoista, passare da solo a S lascia il tuo guadagno a 0. Entrambi potrebbero guadagnare 10 in SS, ma ciò richiede un cambiamento coordinato, quindi stabilità ed efficienza differiscono. Con altruismo uguale, il denaro dell’altro conta: passare da solo da N a S di fronte a N ti dà un’utilità 20, quindi NN smette di essere Nash. Nel gioco sequenziale si sceglie il piano ottimale del follower dopo ogni azione possibile, poi il leader anticipa queste risposte. L’esito non sostituisce la strategia fuori percorso.
+klci9jbun8 Fissare l’azione possibile dell’avversario
+9f8mzq0meb Confrontare tutti i tuoi guadagni e conservare le parità
+28y4tasel5d Cercare le migliori risposte reciproche
+1j1qorodv3z Se il gioco è sequenziale, risolvere il follower ovunque
+niwam5f8pn Verificare la credibilità al nodo di esecuzione
+1s4xzk5j05l Spiega perché NN può essere Nash senza essere buono per entrambi, poi perché NN smette di essere Nash con altruismo uguale. Concludi con la differenza tra esito e strategia completa in un gioco sequenziale.
+8vy8a641l1 Il proprio guadagno di fronte all’avversario fissato
+14njauy6nqp Una deviazione cambia solo la tua azione.
+u8dpcux70a Conservare le parità
+16ytj3yljhz Nash esclude i miglioramenti stretti, non i cambiamenti a guadagno uguale.
+pf748d78hg Stabilità ed efficienza separate
+vc3g16wgnr Un miglioramento in due non è una deviazione unilaterale.
+1z0jp0t2n44 Trasformare i guadagni in utilità
+8p588exx8k Con altruismo uguale, un passaggio a S di fronte a N dà utilità 20 invece di 0.
+1wsxc0vmcfd Tutto il piano del follower
+1dml9j6fxua Una strategia include le azioni fuori percorso e si risolve a ritroso.
+go0o6gdddo Nash esclude il guadagno unilaterale; l’efficienza confronta cambiamenti collettivi.
+vwayodjpmf Nel gioco egoista, N e S danno entrambe 0 di fronte a N: N è debolmente dominante.
+q3289vpip5 Verifica una deviazione a S di fronte a N: l’altro riceve 20 e la tua utilità passa da 0 a 20. NN non è più Nash.
+1zoz6y05snn Esercitazione costruita a partire dalle matrici A3 verificate in §13. Corregge esplicitamente le trappole della correzione personale; nessuna risposta modello è presentata come ufficiale.
+vckh83qy15 Che cosa significa BR?
+1nljyeyrrkz Best response: la scelta migliore di fronte a una data azione dell’avversario
+sgn5ep8m31 Si fissa l’avversario e si massimizza il proprio guadagno.
+ibicievo6w Biggest revenue: la casella più grande della tabella
+7z3c1qawen Non controlli entrambi i giocatori e i guadagni non sono necessariamente ricavi.
+5f6ck8nrhp Una strategia sequenziale contiene…
+8a7sp1vqpr Un’azione in ogni nodo in cui il giocatore potrebbe decidere
+1zsefxc075u Compresi i nodi non raggiunti in equilibrio.
+1t3g48qjkd8 Solo il risultato osservato
+532ro2i5t6 Il leader deve poter anticipare i rami alternativi.
+25wmki1e20r Ricostruisci il test del Nash puro.
+2axpnmjn5gi Fissare un’azione dell’avversario
+2ajnciqaqlg Confrontare tutte le proprie azioni e conservare le parità
+j30kqogmey Ripetere per l’altro giocatore
+1ffx9u0bg6g Individuare le caselle di migliori risposte reciproche
+1uojyedg7t0 Ricostruisci l’induzione a ritroso.
+ltt6u43zbg Calcolare i guadagni netti agli esiti finali
+1sjtmrxkcxk Determinare la scelta ottimale del follower dopo ogni azione possibile
+ymilfgkrd7 Far scegliere il leader anticipando queste risposte
+c85a4yvfrr Dare il profilo completo, anche fuori percorso, e l’esito
+18whjqkhhmq In SS con u_i=m_i+2 m_j e denaro (10,10), quale utilità ha ciascun giocatore?
+via7nby7xf Y, unico armato, riceve 5 di petrolio e paga 3. Il suo guadagno netto?
+1r3z2wx04g5 5−3=2. Non attribuirgli il guadagno 1 del giocatore disarmato.
+dcsbmrtffx Un’impresa minaccia una guerra dei prezzi che, una volta avvenuto l’ingresso, le renderebbe meno che accomodare l’ingresso. Senza impegno aggiuntivo, la minaccia è…
+8lno0qmybm Non credibile
+20oehqysmwt Non avrebbe interesse a eseguirla nel nodo in questione.
+25tw8mvvpsp Credibile perché annunciata pubblicamente
+1on5hen4c8g Un annuncio da solo non modifica i guadagni; bisogna spiegare che cosa vincola effettivamente l’impresa.
+oh1m1frpnj Un giocatore toglie 1 alla propria utilità se riceve meno del suo avversario. Perché bisogna rifare le migliori risposte?
+1maddkpquhu La matrice delle utilità cambia anche se il denaro distribuito resta identico
+1p1d7irbx3p Le strategie massimizzano queste nuove utilità; una vecchia indifferenza può scomparire.
+d7xflnjc93 I costi delle armi cambiano per forza
+ukv9ytcr0z L’esempio modifica le preferenze, non necessariamente una risorsa o un costo d’azione.
+rzkzcuumsw Un Nash dipende solo dal nome delle azioni
+hrcy6gxje8 Dipende dai guadagni e dall’informazione del gioco.
+116rhun5a2k All possible decision nodes
+4yocqkl0v0 Off-path choices
+16shnpjmoas Optimal continuation
+mjui28e8ex Compare against Split
+upo1sgn57v Tie against Steal
+1zdy3r8iu03 Leggere la matrice tenendo il giocatore di riga per primo.
+1vjipad5xgj Un guadagno dell’altro non deve decidere la tua scelta.
+fmbq2e7opc Conservare le migliori risposte a parità e distinguere dominanza debole/stretta.
+20rg9q6lcp3 Le parità cambiano la lista dei Nash.
+18hnzgpuj58 Ricalcolare le utilità se le preferenze cambiano.
+13xrgi9x8xi L’altruismo uguale rende NN non Nash, contrariamente alla correzione personale segnalata.
+pq9rougodl Risolvere ogni nodo del follower ed enunciare le risposte fuori percorso.
+25qwzfl0cmh Un esito da solo non costituisce una strategia completa.
+24vi7f5k5d0 Verificare i guadagni netti e la credibilità al momento dell’esecuzione.
+1vsez0ssnx5 Vanno inclusi i costi delle armi e le reazioni effettive.
+xb4abmwpjm Complementi d’esame — commercio, piattaforme, aste e scambio
+8je5n2uywq Riconoscere le regole e verificarne i limiti
+1p3tps6iak7 Questi temi sono attestati negli esami passati, ma le lezioni complete mancano dal corpus. Ricostruisci le decisioni, i prezzi relativi e le regole prima dei calcoli.
+x66mdyjy6 Tu, l’acquirente / paese North
+10bge1ykh3c sceglie un compito, un acquisto o uno scambio
+2gi063xujay ottenere più valore dell’alternativa sacrificata
+62i6shgmfg Il venditore / paese South
+24pqgl8ebos produce o propone uno scambio
+1mh7a4e6312 coprire i propri costi e ottenere un guadagno
+5wi1cl3x7i L’altro lato del mercato
+688btgi24f usa una piattaforma o fa un’offerta
+1ly0ytal62e trovare un’interazione profittevole
+8bchysbzsb tiene visibili totali, regole e ipotesi
+2gnpv4g5de4 distinguere guadagno aggregato, guadagno privato ed efficienza
+1ekwhp96dfi Lo Stato / la piattaforma
+23gblpk7lqf fissa dazio, accesso o regola d’asta
+11hf8346rm7 capire le risposte che una regola provoca
+1ckgu10q804 Quattro contesti d’esame, una stessa disciplina di ragionamento
+1hlxoo84ezh Potresti trovare commercio, una piattaforma, un’asta o uno scambio di snack. Questi temi compaiono negli esami passati, anche se le lezioni complete non sono nei file verificati. Ricostruiremo quindi gli strumenti attestati, separando le ipotesi certe da quelle che bisogna dichiarare.
+rsniva0284 Complementi d’esame §14: commercio, piattaforme, aste ed Edgeworth. I modelli qui sotto sono documentati nel dossier; questo percorso non pretende di ricostruire slide mancanti.
+156ls6aa5i4 Il nome dell’argomento non basta: un’asta al primo prezzo non si risolve come un’asta al secondo prezzo.
+2fbtb555gff Una domanda qualitativa può richiedere un meccanismo preciso senza fornire dati sufficienti per un numero unico.
+15bpgmsreqa «Uno shock meteorologico colpisce tutti i costi» non rivela da solo chi osserva quale segnale privato; non si può concludere automaticamente a una winner’s curse.
+12eo4m2ib40 Leggi il testo come un contratto: chi sceglie, chi sa che cosa, quale regola, quali unità? Solo dopo scegli lo strumento.
+2272whsitw9 Perché precisare che mancano le slide complete di questi temi?
+217lt7kbgof Per distinguere strumenti attestati e ipotesi aggiunte a scopo didattico
+1b4wn8fykqq L’esercitazione resta utile, ma non deve inventare l’autorità di un corso completo assente.
+1m7qnylqbqd Per eliminare questi temi dal ripasso
+qdwxhu4i8b Compaiono negli esami e vanno quindi studiati.
+p8p5reeu7b Per considerare ogni formula come universale
+vch28xvc0p Bisogna invece esplicitare il modello e i suoi limiti.
+uxfz6ejcdo Essere i migliori in tutto non dice a cosa dedicare il tuo tempo
+ytfzl5ak1c Esther produce un’analisi di dati in 1 ora e un testo in 2 ore. Abhijeet impiega 2 ore per l’analisi e 6 per il testo. Esther è più veloce in tutto, ma un testo costa a Esther solo 2 analisi sacrificate, contro 3 per Abhijeet: è questo confronto relativo a guidare la specializzazione.
+1hvmsqk0uuq Vantaggio assoluto: meno input per unità. Vantaggio comparato: costo opportunità più basso. E2020 dà a Esther il vantaggio comparato nella scrittura e ad Abhijeet nell’analisi.
+o73oydekem Il tempo passato su un compito non può più servire all’altro: è l’alternativa sacrificata.
+lck3gn1pe8 Anche chi è meno produttivo in tutto può avere un vantaggio comparato nel compito in cui il ritardo relativo è minore.
+24v1xfmgeeq Esther: costo di un testo=2 h/(1 h per analisi)=2 analisi. Abhijeet: 6/2=3 analisi. Viceversa un’analisi costa 0,5 testi a Esther e 1/3 ad Abhijeet.
+1lk483ja3ag Sei Esther: non chiederti solo «sono più veloce?», chiediti «quale altra produzione perdo se prendo questo compito?».
+svcs8u96fr Esther impiega 2 h per testo e 1 h per analisi. Quante analisi costa un testo?
+1mw3afbnjje analisi / testo
+1u0vcpifi1w 2 ore di testo avrebbero prodotto 2 analisi; costo opportunità 2.
+1cuucfixtze 0,5 è il costo di un’analisi in testi, il rapporto inverso.
+1ko32c9ccp6 Dalle ore per unità alle unità sacrificate: rispetta il verso del rapporto
+fq6h3lngwm Northland ha bisogno di 3 ore per unità di grano e 6 per unità di elettronica. Southland ha bisogno di 4 e 2 ore. Produrre un’unità di grano usa quindi a Northland il tempo di 0,5 elettronica, contro 2 a Southland: Northland sacrifica meno elettronica per il grano.
+248cy7xwj5r Se a_W e a_E sono ore per unità, OC(W in E)=a_W/a_E. North ha il vantaggio comparato nel grano, South nell’elettronica.
+1j1mi05cfui Come convertire 3 ore di grano in unità di elettronica sacrificate se un’unità di elettronica richiede 6 h?
+1qiey9ziegc Le ore si semplificano: 3 h/(6 h/E)=0,5 E.
+j59ib39uav Questo dà il costo di un’unità di elettronica in grano, non quello di un’unità di grano in elettronica.
+p7af4nwnkv Il numeratore è il tempo richiesto per il bene di cui cerchi il costo.
+p99cqis1dd Il denominatore converte questo tempo in unità dell’altro bene; le unità della tua risposta permettono di controllare l’inversione.
+257w8lt40i3 South: OC_W=4/2=2 E/W; OC_E=2/4=0,5 W/E. La simmetria degli intervalli di prezzo con questi numeri è una coincidenza.
+1iiqsdmslhw Scrivi le unità «E per W» accanto al rapporto prima di calcolare: così un’inversione diventa visibile.
+19vgqfbxakr South impiega 4 h per unità di grano e 2 h per unità di elettronica. Qual è il costo opportunità di un’unità di grano in elettronica?
+w21jq0rae0 4/2=2 unità di elettronica per unità di grano.
+o9gm2vy50j 0,5 è il costo di un’unità di elettronica in grano.
+kb0ykvc1pr La tua frontiera descrive ciò che puoi produrre, non tutto ciò che puoi consumare
+1gmy2afm1py Northland dispone di 120 ore. Dedicare tutto al grano dà 40 unità, tutto all’elettronica 20. I panieri intermedi esauriscono il tempo disponibile; importare permette poi di consumare un paniere diverso da quello prodotto.
+wajbn19s3a PPF North: 3 W+6 E=120 ⇒ E=20−0,5 W. South: 4 W+2 E=120 ⇒ E=60−2 W. La pendenza esprime il costo opportunità di W in E.
+18995h959r9 Il vincolo conta ore: ogni termine è quantità×ore per unità.
+25dk6w0lvg6 Un paniere consumato dopo lo scambio può stare oltre la PPF domestica senza che il paese abbia creato ore in più.
+1hvyswervhw North produce 40 W e 0 E; South 0 W e 60 E. Dopo lo scambio di 10 W contro 10 E: North consuma 30 W, 10 E e South 10 W, 50 E, panieri che in autarchia richiederebbero rispettivamente 150 h e 140 h.
+fcrdla261h Tieni due colonne distinte sul tuo foglio: produzione sotto il vincolo, poi consumo dopo esportazioni e importazioni.
+26z0k0iqee1 Le due frontiere di produzione con 120 ore
+18e4olb9c4f W=unità di grano, E=unità di elettronica. Le linee danno i panieri prodotti, non quelli consumati dopo il commercio. Tecnologie lineari dell’esempio E2025.
+11q6bf2ysvc W: unità di grano
+1m216qz65y5 E: unità di elettronica
+adofr4kawg North: 3 W+6 E=120
+8cfhz74u0b Un’unità di grano costa 0,5 unità di elettronica.
+jeoznsft6t South: 4 W+2 E=120
+8agalgrhb3 Un’unità di grano costa 2 unità di elettronica.
+19nlony2zro North consuma dopo lo scambio
+1qu9aab589q South consuma dopo lo scambio
+36r72o67sv Con 120 h e 6 h per unità di elettronica, quanta elettronica al massimo produce North da solo?
+11mqxs2jzbt 120/6=20; è l’intercetta verticale della sua PPF.
+vcqjn1krqd 40 è il massimo di grano: 120/3.
+b8cnqxkib1 Un prezzo tra i due sacrifici può convenire a entrambi
+o1id4wrzhb Northland accetta di dare un’unità di grano per ottenere un’unità di elettronica: produrre il grano le costa solo 0,5 elettronica. Southland accetta di dare un’unità di elettronica per ricevere un’unità di grano: produrla da sé le costerebbe 2 elettronica. Lo stesso scambio può quindi essere vantaggioso per ciascuno.
+1mctb3360cv Un prezzo relativo strettamente compreso tra i due costi opportunità permette guadagni potenziali: qui 0,5<p_W/p_E<2. Domanda e capacità determinano le quantità scambiate.
+26z9k3eyv13 North ottiene per unità di grano più elettronica di quanta gliene faccia sacrificare la produzione del grano.
+1rwk4dd7y South compra il grano con meno elettronica di quanta dovrebbe sacrificarne per produrlo da sé.
+1kxlilr2veq Al prezzo di 1 E per W: produrre il grano esportato richiede a North 3 h, contro 6 h per l’elettronica ricevuta. South esporta una E prodotta in 2 h invece di dedicare 4 h al W ricevuto.
+aer889z72l Sei North: accetti di esportare grano solo se l’elettronica ricevuta supera il tuo sacrificio interno di 0,5.
+eiy7nmsg7f Quale prezzo del grano in elettronica è strettamente vantaggioso per entrambi in questo esempio?
+24ofd60vzpv 1 E per W
+23eecpf6l4u 1 sta strettamente tra 0,5 e 2.
+2e2q8qakig9 3 E per W
+133ntnith71 South dovrebbe dare 3 E per un W che produrre gli costa solo 2 E.
+rqq0w8jy4d 0,25 E per W
+2a6da4xjmzo North riceverebbe meno delle 0,5 E sacrificate producendo il W.
+6d1go8506o Il prezzo mondiale fa emergere il bisogno di importare
+17bmw2cdrkc In un piccolo paese, gli acquirenti possono ottenere il bene al prezzo mondiale di 30. A questo prezzo domandano 50 unità, mentre i produttori locali ne offrono solo 10. Le 40 mancanti vengono importate: la domanda nazionale non deve uguagliare l’offerta nazionale.
+120hnr2op50 Con p_D=80−Q e p_S=20+Q: Q_D(p)=80−p, Q_S(p)=p−20 sul dominio positivo. Importazioni M=Q_D−Q_S.
+18w3z41t4id «Piccolo paese» significa qui che prende il prezzo mondiale come dato.
+j63x7rvlnj L’uguaglianza offerta=domanda riguarda il mercato incluse le importazioni, non solo la produzione domestica.
+18au2ohtsow p_w=30 ⇒ Q_D=50, Q_S=10, M=50−10=40. In autarchia: 80−Q=20+Q ⇒ Q=30 e p=50.
+x87ebkkfvj Sei un consumatore: puoi comprare al prezzo 30 anche se il paese non fabbrica tutta la quantità domandata.
+1ovplpp4ut8 Piccolo paese importatore: prezzo mondiale, poi dazio
+upj13nju97 Q in unità del bene; p in € per unità. Gli scarti orizzontali tra domanda e offerta sono le importazioni al prezzo mondiale e poi dopo il dazio.
+1fk2szba0mb Q: unità domestiche
+1258wbb5fbt p: € / unità
+1dospzaebmv Domanda p=80−Q
+ze96gaualg Al prezzo 30, Q_D=50; al prezzo 40, Q_D=40.
+v0gall4j2e Offerta p=20+Q
+1yz14kdl8a2 Al prezzo 30, Q_S=10; al prezzo 40, Q_S=20.
+o7cg6psgy7 Prezzo mondiale 30
+26qnwrrr8uc Piccolo paese: il suo dazio non modifica il prezzo mondiale.
+1ujdobk3ba Prezzo con dazio 10: 40
+2abiulget9r Finché il paese importa, p=p_w+τ.
+1vwrcayiikt Offerta in libero scambio 10
+1ujtx0380yz Domanda in libero scambio 50
+1y1gq7js730 Offerta con dazio 20
+1w62qgqsxds Domanda con dazio 40
+1dcoljb0odu A p_w 30, Q_D=80−p e Q_S=p−20. Quanto importa il paese?
+ys4owy2of4 Domanda 50 meno offerta 10=40.
+uidxwhmypk 60 somma le quantità, mentre le importazioni ne colmano la differenza.
+7gywyoxx6j 30 è la quantità di autarchia, non le importazioni al prezzo mondiale.
+1ercagxjf6a Il dazio sposta due decisioni private nello stesso momento
+j212paj3mb Lo Stato aggiunge 10 per unità importata. Finché il paese resta importatore, il prezzo interno sale a 40: i produttori locali fabbricano di più, i consumatori comprano di meno. Le importazioni calano per questi due canali, non solo perché viene riscossa una tassa.
+1oduzt99qk8 Piccolo paese importatore: p_dom=p_w+τ, Q_D=40, Q_S=20, M=20. Il gettito doganale riguarda le importazioni effettivamente rimaste.
+qt3wffq4ev La produzione locale aggiuntiva diventa redditizia al prezzo più alto, anche se il suo costo superava il prezzo mondiale.
+1keljmcfhkv Alcuni consumatori rinunciano a unità che valevano più di 30 ma meno di 40.
+234uxc06yr6 Dopo dazio 10: M=(80−40)−(40−20)=40−20=20; gettito=10×20=200.
+1zjsm5fpqs7 Sei al ministero: non moltiplicare il dazio per le vecchie 40 importazioni, perché gli agenti hanno reagito al nuovo prezzo.
+xr8053mf18 Dopo un dazio di 10, il paese importa 20 unità. Quale gettito doganale?
+1vf7waho52q τ×M_dopo=10×20=200.
+255f2ss0hv4 400 usa le 40 importazioni prima del dazio; sono diminuite.
+20ccr4xodh8 La tassa non è prelevata sulla produzione locale né su tutti i consumi.
+1pxbiscno68 Ciò che perde il consumatore non è interamente perso dal paese
+a779ubg4x7 Il prezzo più alto fa perdere 450 di surplus ai consumatori. I produttori locali recuperano 150 e lo Stato 200; questi guadagni restano nel paese. Mancano ancora 100: sono le risorse sprecate in una produzione più costosa e gli scambi utili abbandonati.
+1jbwzhxiylq Benessere nazionale=CS+PS+gettito tariffario. E2022: ΔCS=−450, ΔPS=+150, gettito 200 ⇒ ΔW=−100; DWL=due triangoli.
+1q744m02hu6 Una parte del prezzo più alto trasferisce surplus dagli acquirenti ai produttori e allo Stato.
+1nbsri7goc3 La DWL confronta costi e benefici reali: unità domestiche troppo care e unità consumate in meno.
+29lgdhes2ac DWL=0,5×10×[(20−10)+(50−40)]=100. Oppure −450+150+200=−100. CS passa 1250→800; PS 50→200.
+1vd22i2sxge Sommi le variazioni dell’intero paese; non dichiari il gettito fiscale «perso» solo perché esce dal tuo portafoglio.
+29bp8hg760h Con dazio 10, produzione 10→20 e domanda 50→40, quale DWL?

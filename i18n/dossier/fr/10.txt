@@ -1,0 +1,81 @@
+======================================================================
+8. MONOPOLE ET CONCURRENCE MONOPOLISTIQUE — L8
+======================================================================
+
+8.1 Monopole à prix unique
+Une firme fait face à la demande du marché, décroissante.
+R(Q)=p(Q)*Q ; MR=p(Q)+Q*p'(Q).
+pi(Q)=p(Q)*Q-C(Q) ; optimum intérieur MR=MC.
+Trouver Q avec MR=MC, puis trouver le PRIX sur la DEMANDE, pas sur MR.
+Quand vendre plus impose de baisser le prix de toutes les unités,
+MR<p pour une demande strictement décroissante.
+Demande inverse p=a-bQ : R=aQ-bQ^2 ; MR=a-2bQ, pente deux fois plus forte.
+MC constant c, FC F : Qm=(a-c)/(2b), pm=(a+c)/2,
+pi=(a-c)^2/(4b)-F, si produire est rentable dans l'horizon considéré.
+L'efficacité hors externalité exige p_D=MC ->Qeff=(a-c)/b.
+DWL=b*(Qeff-Qm)^2/2=(pm-c)*(Qeff-Qm)/2.
+
+L8 p.8–11 : p=12-Q, C=3+Q^2 ->MR12-2Q, MC2Q,
+Qm3,pm9,ATC4,profit15 ; Qeff4,p_eff8 ; DWL1.5.
+Le prix élevé transfère du surplus sur les unités vendues ; les unités
+non vendues malgré WTP>MC créent la perte sèche.
+Un faible prix absolu est compatible avec le monopole si MC faible et/ou
+demande élastique. Exemple de la levure E2023 Q1a.
+Le monopole n'a pas une courbe d'offre indépendante de la demande : MR
+dépend de sa forme, et un même prix peut correspondre à diverses quantités
+optimales sous diverses demandes. Référence E2022 Q4c.
+
+8.2 Lerner : dérivation à savoir expliquer
+epsilon_D=(dQ/dp)*(p/Q), donc (dp/dQ)*(Q/p)=1/epsilon_D.
+MR=p+Q*p'=p*(1+1/epsilon_D).
+À MR=MC : (p-MC)/p=-1/epsilon_D.
+Lerner L=(p-MC)/p : marge RELATIVE au prix, pas profit total ni (p-MC)/MC.
+|epsilon| grand ->faible marge relative ; demande peu sensible ->marge forte.
+Avec MC>0, optimum intérieur de prix unique sur la partie élastique,
+epsilon<-1 ; MC=0 peut donner epsilon=-1.
+Une figure appelée « inelastic demand » dans un support peut comparer
+des sensibilités relatives ; un monopole à MC positif n'optimise pas sur
+un point strictement inélastique. Une baisse de Q y augmenterait R et
+économiserait des coûts.
+Cette relation concerne la demande de la FIRME. En oligopole, ne pas
+substituer aveuglément l'élasticité du marché à celle qu'elle perçoit.
+
+8.3 Barrières et monopole naturel
+Barrières : réglementation/licence, brevet, contrôle d'un input essentiel,
+économies d'échelle/monopole naturel, comportements stratégiques.
+Monopole naturel : une firme peut servir le marché à moindre coût que
+plusieurs, sur la plage pertinente. Prix=MC peut ne pas couvrir FC.
+Brevet : perte statique de surplus contre incitations à investir/innover,
+à comparer dans le temps. E2024 Q2b ne demande pas de nier la DWL statique.
+La durée légale précise mentionnée dans un exercice est une donnée de
+l'énoncé, pas une vérification juridique par ce dossier.
+
+8.4 Concurrence monopolistique
+Nombreuses firmes, produits différenciés, entrée/sortie faciles ; une firme
+a une demande décroissante mais néglige généralement la réaction d'une
+concurrente précise. Elle choisit MR=MC.
+Court terme : profit positif ou négatif possible.
+Profit positif ->entrée ->demande par firme diminue et devient souvent
+plus élastique ->profit économique nul dans le modèle symétrique LR.
+Long terme : p=ATC MAIS p>MC ; profit nul ne signifie pas concurrence parfaite.
+Typiquement production sous la quantité minimisant ATC, « excess capacity ».
+Le nombre de firmes et la variété font partie de l'équilibre.
+
+Choc de demande négatif ->pertes initiales ->sorties ->demande des survivantes
+se redresse ->profit nul rétabli. Le nombre de firmes baisse ; la quantité
+par survivante n'a pas un signe universel sans fonction de demande/coûts.
+Si le choc ne change que la taille du marché dans un modèle standard à
+taille optimale constante, elle peut revenir au niveau antérieur.
+Choc de coût ->réoptimisation et entrée/sortie ; en oligopole avec barrières,
+la discipline du profit nul par libre entrée ne s'applique pas de même.
+
+8.5 Firmes hétérogènes
+Plus productives ->MC plus faible, prix souvent plus bas, volume/part de
+marché plus élevés. « Competitive reallocation » : croissance des efficaces,
+réduction/sortie des moins efficaces.
+Libre entrée peut impliquer E[pi]=0 AVANT de découvrir sa productivité,
+sans imposer pi=0 pour chaque firme une fois son type connu.
+L8 p.24, coût d'entrée20 et dé équiprobable : profits réalisés
+28,16,4,-8,-20,-20 ; moyenne0. Au dernier tirage, profit variable potentiel
+-12 : la firme s'arrête, limite sa perte à20. Cette table distingue
+profit attendu, profit réalisé et arrêt après coût d'entrée irrécupérable.

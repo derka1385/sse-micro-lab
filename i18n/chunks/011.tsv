@@ -1,0 +1,236 @@
+zon1174fie	La demande range les valeurs marginales de la plus forte à la plus faible.
+1k9cvfmpd50	Le rectangle 16×7 est payé ; seule la zone entre demande et prix reste aux clients.
+5bqx5r6qvn	Triangle : base 7 unités, hauteur 7 par unité, donc 24,5. Prendre 16×7 = 112 mesurerait la dépense, pas le gain.
+rr89ssb7ds	Tu as payé 16 mais aurais accepté 20 : ton gain est 4, pas 16 ni 20.
+twst4unccv	Au marché Q = 7, p = 16, demande 23−Q : calcule CS.
+1fqdt9hpuox	112 est la dépense pQ.
+h4dgin2gqg	49 oublie le facteur 1/2 du triangle.
+yoe3j00zol	Le vendeur garde un surplus, pas forcément un profit
+1e719uh7xkh	Le vendeur reçoit 16 par unité mais les premières unités lui coûtent moins que les dernières. Il garde les recettes après les coûts variables. Si une installation a coûté 10 indépendamment du volume, cette dépense fixe doit encore être retranchée pour connaître son profit.
+1tgp0vem8uk	Producer surplus (PS) = recettes−VC ; profit = PS−FC. Ici PS = (16−2)×7/2 = 49.
+a419trnyik	Le coût marginal décrit l’augmentation du coût variable, donc son aire donne VC.
+3me5w2zhqk	Un coût fixe ne figure pas dans cette aire marginale mais reste un coût réel du profit.
+1x4mnmdomtx	PS = 49 ; avec FC = 10, profit 39. Sans FC, ils coïncident, ce qui ne les rend pas synonymes.
+1czoe5mpydb	Tu gères l’atelier : annoncer 49 de profit en oubliant le loyer fixe de 10 surestime ce que tu gagnes.
+22igr6exwi	PS = 49 et FC = 10 : quel profit ?
+1vqxaw6a19e	Tu as laissé le coût fixe hors du profit.
+d22hwr871i	Additionner sans juger la répartition
+l7t93s7s6c	La société compte les gains des clients et des vendeurs. Elle trouve 73,5 sans politique dans notre marché. Cette somme dit combien de gain monétaire subsiste, mais pas si sa répartition entre personnes te paraît juste.
+q4y1qdqas2	Sans externalité ni État, et à coûts fixes inchangés : W = CS+PS. Efficacité et équité sont deux questions distinctes.
+9jpigc5x1c	CS et PS comptent les deux côtés du même marché sans compter deux fois le paiement.
+10h4piyj68w	Changer le partage à quantité identique peut changer l’équité sans changer le gain total.
+q6y6c857nf	Dans L7, limiter Q à 5 et fixer p = 18 donne CS = 12,5 et PS = 55 : W = 67,5. Les vendeurs gagnent 6, les clients perdent 12 ; le total perd 6.
+n279lsmea2	Tu représentes les clients : leur perte 12 est importante pour eux, mais ce n’est pas automatiquement la perte sociale 12.
+1huz597b89q	CS baisse de 12 et PS monte de 6, sans autre effet. Quelle perte totale ?
+1p62vzxp373	−12+6 = −6 ; les 6 reçus par les vendeurs sont transférés.
+jhmue87da4	Tu comptes toute la perte des acheteurs comme détruite.
+114rwgs93zy	Il faut additionner les variations signées, pas leurs valeurs absolues.
+dbvq0vobow	Une taxe : le client et le vendeur voient deux prix
+1j9i95tetk4	L’État exige 3 sur chaque unité échangée. Un client qui paie 17 ne laisse donc que 14 au vendeur. Pour qu’une transaction ait lieu, le client doit accepter son prix, le vendeur doit accepter le sien, et leur différence doit financer la taxe.
+1m8579qv96p	Trois relations : QD(p_b) = Q ; QS(p_s) = Q ; p_b = p_s+t. Le redevable légal ne détermine pas à lui seul l’incidence économique.
+27ihzzgad9s	La demande répond à ce qui sort de la poche du client.
+ramimy7i8k	L’offre répond à ce qui reste au vendeur après le prélèvement.
+1wv1urdziaf	Changer qui reverse la taxe ne change pas ce même écart dans ce modèle.
+cubu22l7u1	Que le client verse 14 au vendeur et 3 à l’État, ou 17 au vendeur qui reverse 3, les prix économiques restent 17 et 14.
+1aatc6qgkbh	Tu es vendeur redevable : peux-tu imposer toute la taxe au client si celui-ci peut renoncer à l’achat ?
+2glix0dzlke	Reconstruis le prix payé par le client.
+2edvtd48znx	p_b = p_s+t : le prix net vendeur plus la taxe par unité.
+yy2cjlzbma	Quelle relation respecte les trois poches ?
+l6occhcglg	Oui : client paie, vendeur garde, État prélève la différence.
+1ck1f6ums40	C’est le sens d’une subvention, pas d’une taxe.
+kds366rvpf	Il ne resterait alors aucun écart pour la taxe.
+c2qbc5mziw	On a construit le wedge avant de calculer les prix.
+uwt32p7u4f	La taxe supprime quelques transactions
+1bbh4h7ilx9	Une unité pouvait rapporter un petit gain au client et au vendeur ensemble. Elle ne sera plus échangée si ce gain ne suffit pas à payer les 3 exigés en plus. Le marché s’arrête donc avant le point sans taxe.
+4y2ii2yjt4	23−Q = 2+2Q+3 → Qt = 6. Une taxe n’est pas un coût physique de production, mais elle modifie l’incitation privée.
+8ob0sd4egv	Pour qu’ils échangent, valeur acheteur−coût vendeur doit couvrir le wedge 3.
+1pfrmwemfq0	À Q = 6, cet écart vaut 17−14 = 3 ; au-delà il devient inférieur à 3.
+2bdrv2v6u91	La quantité passe 7 → 6. Si tu écrivais 23−Q = 2+2Q−3, tu obtiendrais 8 : ce serait une subvention.
+cbvm6qcedk	Tu vends une unité qui crée 2 de gain total : une taxe 3 peut empêcher cet échange malgré son gain réel positif.
+kqxuatzavn	Avec t = 3, D = 23−Q, S = 2+2Q : calcule Qt.
+1wl8c1tez7g	8 vient du signe d’une subvention.
+2cvrbeo56sx	7 oublie le wedge fiscal.
+14bn30qq1xs	Retrouver les deux prix, puis leur variation
+upkm63kef4	Les clients paient 17 au lieu de 16. Les vendeurs gardent 14 au lieu de 16. L’État prélève 3, mais les clients n’en supportent ici que 1 par unité et les vendeurs 2 : les réactions du marché ont partagé le poids.
+vis6nsqd4d	p_b = D(6) = 17 ; p_s = S(6) = 14. L’incidence par unité compare chaque prix à p0 = 16.
+mcgmb6wp9e	La demande donne le prix maximal des clients pour Q = 6 ; l’offre donne le prix net nécessaire aux vendeurs.
+28rb5uyu7vx	La somme de la hausse acheteur 1 et de la baisse vendeur 2 doit retrouver la taxe 3.
+13dk2dz1y7	17−14 = 3 vérifie le wedge. Dire « les clients paient 17 de taxe » confond prix total et variation liée à la politique.
+sk5nloigvp	Tu es client : regarde le passage 16 → 17 pour mesurer ton incidence par unité, pas seulement le nom écrit sur la déclaration fiscale.
+lg3zbbcdx6	Quel prix paie le client après la taxe ?
+10tpb5979mk	14 est le prix net vendeur.
+1cfgr01zkfo	De combien le prix NET vendeur baisse-t-il ?
+1d9zlelr8fw	La taxe totale 3 est partagée entre les deux côtés.
+29bt491rk8d	Qui a le moins de possibilités de partir ?
+2dg02aqu2dl	Un côté qui peut facilement abandonner le marché évite une grande part du prélèvement. L’autre côté doit absorber davantage pour que les transactions continuent. La question est la sensibilité aux prix, pas le pouvoir juridique de reverser la taxe.
+13svb3b96tp	Dans le modèle concurrentiel local, le côté relativement moins élastique supporte davantage. Parts : εS/(εS+|εD|) pour les acheteurs, |εD|/(εS+|εD|) pour les vendeurs.
+ctemxynyai	Une forte réponse de quantité rend la fuite vers d’autres usages ou marchés plus facile.
+1wq7teuosyr	Une offre verticale ne réduit pas Q face au prix net : le vendeur peut alors absorber toute la taxe.
+1jvu10z1lul	Ces parts ne sont pas une loi générale du monopole ou du Bertrand différencié.
+48fts9642k	Dans nos droites, hausse p_b = t/3 et baisse p_s = 2 t/3. Avec une offre parfaitement fixe, Q reste inchangé et le prix net vendeur peut baisser de toute la taxe.
+gjw9c35s87	Tu n’as aucune autre utilisation pour un stock périssable : tu peux supporter une taxe même si le client est légalement redevable.
+1a737l9uz01	Demande très inélastique, offre élastique : qui supporte plutôt la taxe ?
+rszu842vxz	Les acheteurs
+1g18bfkkxzw	Ils réduisent peu leurs achats ; ils absorbent une plus grande hausse de prix.
+ld07eltrik	Les vendeurs parce qu’ils reversent la taxe
+223xqkxbdx1	Le redevable légal ne suffit pas à déterminer l’incidence.
+3c17eb9cr1	Toujours moitié-moitié
+14cgfh078o4	Ce partage exige des sensibilités particulières.
+18enq9b8qh7	L’argent fiscal est transféré ; les échanges manquants sont perdus
+280vpj33klq	Les clients perdent 6,5 de surplus et les vendeurs 13. L’État reçoit 18. Une fois ce transfert réintégré, la société ne perd que 1,5 : le gain réel des unités qui auraient été échangées entre 6 et 7.
+1kkjfz7diay	Après taxe : CS = 18, PS = 36, T = 3×6 = 18 ; W = CS+PS+T = 72. DWL = 73,5−72 = 1,5.
+2eaxopeak	Le paiement fiscal reste dans les poches de la collectivité dans cette comptabilité simplifiée.
+20wqp933si9	La valeur moins coût des échanges manquants décroît de 3 à 0 : un triangle de base 1 et hauteur 3.
+1v14worjmsu	Ce benchmark suppose concurrence sans externalité : une taxe corrective se juge autrement.
+17mz0qx664c	DWL = 3×(7−6)/2 = 1,5 ; compter 18 de recettes comme détruites ferait disparaître de l’argent qui a simplement changé de destinataire.
+1e5j7q6jk4n	Tu es ministre : annonce séparément recettes 18, redistribution et perte d’efficacité 1,5.
+1g5f0jlsfwe	Quelle recette fiscale pour t = 3 et Q = 6 ?
+1na9sac7gos	Quelle perte sèche totale ?
+1rbckffaroc	19,5 omet les recettes fiscales 18 dans le welfare.
+2cmh0tbvu9g	18 est un transfert fiscal, pas la DWL.
+2dh4ut0o7wp	Une subvention inverse le wedge
+10jmkwbxpuh	L’État verse 3 par unité. Un vendeur peut recevoir 18 alors que le client ne paie que 15. Les deux parties veulent davantage d’échanges, mais les dernières unités coûtent plus à produire qu’elles ne valent aux clients.
+2dir0ncsnlr	p_s = p_b+s ; Qs = 8. W = CS+PS−sQ = 32+64−24 = 72 sans bénéfice externe.
+2fw5ovhxj1d	Le budget public paie la différence entre ce que reçoit le vendeur et ce que verse le client.
+1zwblm0iild	Au-delà de Q = 7, coût réel>valeur réelle ; l’aide rend ces unités privées attractives sans effacer leur coût.
+1zg6be4draa	Avec externalité positive, il faudrait ajouter le bénéfice externe avant de conclure.
+1x0jahi1ppn	2+2Q = 23−Q+3 → Q = 8 ; prix client 15, prix vendeur 18 ; dépense 3×8 = 24 ; DWL = 1,5.
+3v7xvnu60i	Tu achètes grâce à une aide : ton gain privé ne dit pas si le financement crée un gain social net.
+1jelycws5qf	CS = 32, PS = 64, dépense 24, aucune externalité : W ?
+10hongsmfa9	Il faut soustraire la dépense, pas l’ajouter.
+185vmfjqlu6	96 oublie ceux qui financent l’aide.
+7k8rrnspxi	Un prix bas ne crée pas les unités manquantes
+94ne21xpoq	L’État interdit de vendre au-dessus de 12. Beaucoup de clients veulent acheter à ce prix, mais les vendeurs ne veulent fournir que 5. La règle réduit le prix affiché ; elle ne force pas les coûts à disparaître ni les clients à obtenir tous une unité.
+1djeufljz2n	Plafond contraignant : QS = 5, QD = 11, pénurie 6. Les échanges sont limités à 5 dans ce dispositif simple.
+2gfxz6im0sf	S(5) = 12 : servir davantage coûterait plus que le prix autorisé.
+1u339wmveg3	D(11) = 12 : les clients en demandent 11 ; confondre demande et ventes invente 6 unités.
+cq7sv1arw2	CS = 42,5 suppose que les 5 unités vont aux WTP les plus élevées ; files et allocation aléatoire peuvent réduire ce gain.
+jebcwb9lmb	Avec allocation efficace, CS = (23−12)×5−5²/2 = 42,5 ; PS = 25 ; W = 67,5. Le client exclu n’a pas gagné un achat à 12.
+2dpatwdxks6	Tu vois un loyer plafonné, mais aucune annonce disponible : distingue prix abordable et logement obtenu.
+isllnafotj	Au plafond 12 : QS5 et QD11. Combien d’unités manquent ?
+cmzz8e1cw4	Pénurie = QD−QS = 11−5 = 6.
+1s3pmyrsbk	11 est la demande totale, pas la pénurie.
+12b8ok8juof	Le CS = 42,5 est-il garanti quelle que soit la distribution des 5 unités ?
+1hztrmiwahy	Non : il suppose les acheteurs aux WTP les plus élevées servis
+845fcsth8a	Une allocation aléatoire ou des coûts de file peuvent réduire le surplus.
+1u5rqd2aus3	Oui parce que le prix est 12
+1n31di274w3	Le prix ne dit pas qui obtient les unités.
+2b75cje9jmz	Non parce que tous les clients paient 23
+jyim34r0fn	23 est l’interception de demande, pas le prix payé.
+mjmz620cfz	Plafond de 12 : deux quantités à lire
+2eyaygfhvrc	Q : unités
+bqnfidt1bc	Prix par unité
+1ot58j050p6	Au plafond 12, les vendeurs offrent 5 et les acheteurs demandent 11. Sans achats publics ni autre allocation, seules 5 unités peuvent être échangées.
+10n1xhxw77i	Plafond 12
+fwuoqlvob6	Interdiction de vendre plus cher ; aucune obligation de produire davantage.
+224p4i1n2ud	Vérifier les coins et les institutions
+1nybuhyqebg	Un plafond fixé au-dessus du prix libre ne gêne personne. Un plancher élevé peut laisser des invendus, sauf si l’État les achète. Une taxe énorme peut arrêter les échanges : une quantité négative n’est jamais un marché possible.
+2dptcr9iaq9	Avec D = 23−Q, S = 2+2Q : taxe prohibitive 21 → Q = 0 ; plafond 18 non contraignant ; plancher 18 sans rachat public → QD5, QS8, seulement 5 vendues.
+yiq0y2ztzu	Les droites donnent des candidats, pas le droit de vendre une quantité négative.
+zd2x83uk74	À un plancher, les acheteurs peuvent être le côté court ; compter toute l’offre comme consommée surestime les échanges.
+1x6he357kuk	Le plafond pétrolier E2023 porte sur une offre russe fixe : le volume peut rester 8 millions, avec transfert de rente.
+ttia3s1rmp	Si t = 24, (21−24)/3 = −1 doit devenir 0. À p = 18, l’offre 8 et la demande 5 ne permettent pas 8 ventes privées.
+1zy4grmn4vo	Tu corriges une copie : avant un triangle, demande « cette politique contraint-elle vraiment l’équilibre, et qui achète ? »
+23mo5msvx8n	Plancher 18, QD5, QS8, aucun achat public : ventes ?
+y7f5nj8v7f	La demande limite les ventes ;3 unités offertes restent invendues.
+1j7d2gpcze	Offrir n’est pas vendre.
+1olxd7s8wlj	On ne somme pas offre et demande.
+2d3sqdxc1z	Taxe 24 dans notre marché : quelle quantité réalisable ?
+1um1ed9bk93	La taxe dépasse 21, l’écart maximal valeur-coût. La quantité est bornée à 0.
+142u5i01d46	La solution linéaire négative est hors du domaine économique.
+1spsxoq8zn1	Une politique peut faire deux choses à la fois
+yw14qh00l1	Baisser une taxe réduit les euros prélevés sur chaque unité mais peut relancer les échanges. L’État ne connaît donc pas sa nouvelle recette en regardant seulement le taux. Pour les clients, prix, quantité et accès doivent aussi être distingués.
+1l5gpnkv0hi	R(t) = tQ(t). Comparer les budgets et les surplus au même benchmark ; ne pas généraliser l’incidence concurrentielle au pouvoir de marché.
+28aeipql23t	Le budget est un produit de deux éléments qui bougent en sens opposés.
+2945z58yyhq	Dans notre exemple, t = 3 donne R = 18 ; t = 2 donne Q = 19/3 et R = 38/3≈12,67 : la base augmente mais la recette baisse.
+29tov9k8ogf	Le bien-être fiscal dépend aussi de ce que finance l’État, au-delà du modèle partiel.
+1g46ikec5kz	Pour A4.2, D = 20−Q, S = 5+Q, t = 3 : Q = 6, prix 14/11, recette 18, W = 54. Les trois relations restent les mêmes malgré de nouveaux nombres.
+s6mbjgg2y9	Tu changes d’énoncé à l’examen : garde la méthode, pas la réponse 17/14 du premier exemple.
+qjawcmwspa	Remets la méthode dans son ordre logique.
+17o1scs0agb	Identifier les acteurs, la règle et le benchmark
+166w8836iei	Écrire demande, offre et wedge
+1rdjy8u3ul7	Résoudre Q et les deux prix
+e6wzd2f7av	Compter CS, PS et budget public
+1mn4bifjloq	Comparer le total et vérifier les coins
+1n5a5y67czz	Identifier les acteurs, la règle et le benchmark → Écrire demande, offre et wedge → Résoudre Q et les deux prix → Compter CS, PS et budget public → Comparer le total et vérifier les coins
+2g9kj0r3q57	La demande dépend de p_b, ce qui sort de leur poche.
+pd93wynkx1	L’offre dépend de p_s, ce qu’ils gardent.
+xj6mbk1hgp	p_b−p_s = t ; l’État reçoit t pour chaque unité encore échangée.
+f07u5ws715	Leur gain valeur−coût est positif mais inférieur au wedge.
+1c9j9lu8xi3	Un euro transféré à l’État n’est pas un euro de ressource détruite.
+1r1r8gc6cmf	Le client paie 17 et le vendeur garde 14 : les 3 restants vont à l’État. La quantité baisse de 7 à 6. Les 18 de recette sont un transfert, donc W = 18+36+18 = 72. Sans taxe W = 73,5 ; la DWL = 1,5 mesure le gain des échanges manquants, pas le budget fiscal.
+zrrbr0c91i	Les clients comparent valeur et prix payé.
+lw4039ah6k	Les vendeurs comparent coût et prix net.
+16jay4b0u2q	La taxe sépare ces deux prix.
+2cbozht4ugv	Certains échanges bénéfiques disparaissent.
+1fehagbb6bl	Le budget est réintégré et seuls les gains perdus restent en DWL.
+17byhpf24ib	Explique à un ami pourquoi une taxe 3 ne détruit pas 18 de richesse dans le marché D = 23−Q, S = 2+2Q. Identifie les deux prix, les recettes et les échanges manquants.
+l7xg2344dw	Deux prix
+1qt9kmvlwj0	Le client paie 17, le vendeur garde 14 ; leur écart 3 est la taxe.
+233gcnucn2o	Une quantité réduite
+20lj2u1az9n	Le wedge réduit Q de 7 à 6, donc certains gains d’échange disparaissent.
+17lewpzddhk	Recette transférée
+1og7cefi1pm	18 = tQ entre dans le budget public et reste dans W.
+yu1vmmbzb	Perte nette 1,5
+u448t7ozdt	Le triangle des échanges manquants vaut 1,5 ; ce n’est pas tout ce que perd un groupe.
+n9st4jmodo	Réintègre les recettes à W avant de mesurer la perte nette.
+1ijpa69oe57	Taxe sur un marché concurrentiel
+2wh8roc7vd	Exercice construit à partir de la méthode A4.2 ; ce n’est pas un énoncé ni un corrigé officiel SSE.
+14v2sapu8em	Choisir le benchmark concurrentiel sans taxe.
+16rlk4ivzlt	Résoudre les trois relations, pas un prix unique.
+z7oj3i1ibg	Réintégrer le budget public avant de comparer le welfare.
+26t3ij471s4	Tracer D = 30−Q et S = 6+2Q, puis un wedge vertical 6 à Q = 6.
+112e2n355ou	Étiqueter 24 sur D et 18 sur S ; le triangle entre Q = 6 et 8 mesure la DWL.
+26rbinrrlqt	A tax wedge signifie…
+12ypenbg5in	Un écart entre prix payé et prix net reçu
+1ll9lvnfs3j	Il finance le prélèvement par unité.
+1vk319jz2ig	Un coût physique de fabrication
+1mkj2q95in8	Le prélèvement change les incitations sans devenir une ressource utilisée.
+1ppx7zvyo67	Une pénurie nécessaire
+18jcpnjj4ez	Un marché taxé peut s’équilibrer avec moins de ventes.
+1mtwgrx93dv	PS avec un coût fixe est…
+1xadq5u4ypf	Recettes moins coûts variables
+mmomlp0d0a	Le profit retranche ensuite FC.
+7enmjpvs01	Le profit automatiquement
+6bnsiyyoor	Seulement si FC = 0.
+1elwk5p21y6	La dépense des clients
+1qn9eikwv3y	Celle-ci est pQ, avant coûts.
+g9f4ovu0vv	Reconstruis la cause de la perte fiscale.
+4v0nqfvhr5	La taxe sépare prix client et prix vendeur
+2dpix968hjk	La quantité échangée baisse
+26psvujxxqx	Des transactions dont valeur>coût disparaissent
+1k0y815s8ge	Leur gain perdu est la perte sèche
+1qu1w0423fz	La taxe sépare prix client et prix vendeur → La quantité échangée baisse → Des transactions dont valeur>coût disparaissent → Leur gain perdu est la perte sèche
+2c1aduyzxv0	L’État reçoit 20 sans autre changement. Ces 20 sont-ils une DWL ?
+wm5pabqgtg	Non, c’est un transfert
+2sbspu2irt	Il faut suivre aussi les échanges et les coûts réels.
+1ob36za6w1r	Oui, ils ont quitté les consommateurs
+2jo3whxah	Un euro perdu par l’un peut être reçu par l’autre.
+1moibirv5qz	Non, donc aucune taxe ne crée jamais de perte
+hl3ft16s4p	Des échanges manquants peuvent créer une DWL distincte.
+9s020x269f	Reconstruis W avec une taxe et aucune externalité.
+mxc02nc713	Les recettes sont ajoutées à la somme des surplus privés.
+uy5l0jqv9e	Taxe 4 ; Q passe de 10 à 8 ; droites, aucun autre défaut : DWL ?
+py7jkurklq	Triangle 4×2/2 = 4.
+n6lvtcxojb	A4 : D = 20−Q, S = 5+Q, t = 3. Calcule Q taxé.
+1tefefgxeox	Offre parfaitement fixe ; plafond de prix encore au-dessus du coût de fourniture. Le volume doit-il baisser ?
+1kum1rkrylt	Pas nécessairement
+1m1jdino9qk	La quantité fixe peut être inchangée, avec transfert de rente comme le cas pétrolier.
+142tz1q0x4v	Toujours, car plafond = pénurie
+266bonpgri	Vérifie l’offre et le dispositif avant d’appliquer ce résultat.
+vjmwqbc5he	Toujours augmenter
+1sgwl3kaora	Un prix inférieur ne crée pas une offre fixe supplémentaire.
+1a5j5obxp11	Net surplus loss
+a0w9joobfw	Fewer alternatives
+1i3mx3e1w4q	Larger burden
+1twzbr58esx	Je reconstruis les trois relations d’une taxe ou subvention.
+5l0peatvy7	La demande répond au prix acheteur, l’offre au prix vendeur, le budget au wedge.
+jupbr5fneq	Je compte recettes et dépenses publiques avec le bon signe.
+2bi6y807w8x	La recette fiscale est ajoutée, le financement d’une aide soustrait.
+1x2g0ezlflk	Je distingue transfert, surplus de groupe et perte sèche.
+n8qnvthgwp	Une perte privée peut financer un gain ailleurs ; seule la somme révèle la perte nette.
+19kjlbo3oiz	Je vérifie politique contraignante, côté court, rationnement et quantités positives.
+xm37111t4q	Ces hypothèses déterminent les ventes et les aires valides.
+4e0asmdn9n	Monopole — pourquoi vendre moins peut rapporter plus
+1kdhs9h9n41	Recette marginale, marge et entrée
+2ghtbjkofaj	Tu contrôles la seule entreprise du marché. Une vente en plus peut te faire perdre des recettes sur tes anciennes ventes : reconstruis le choix du monopole avant MR = MC.

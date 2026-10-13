@@ -1,0 +1,221 @@
+64ihacbxm5 Each R uses up more of the budget, so the intercept R = 8 moves closer to the origin.
+qbku3fovda U = LR still splits spending in two: 600/40 = 15 and 600/150 = 4.
+ip3xa2c57b New budget 40L + 150R = 1,200. At the choice (15,4), cost = 600 + 600 = 1,200; U = 60 instead of 75. Not a single euro of nominal income has disappeared.
+26p5zlzhdm8 You see the same bank balance but the items cost more. Say "I can buy less", not "my salary went down".
+18ph9d31dnx The price of R rises, your nominal income stays 1,200
+u5hmssfkiz After pR = 150, L = 30 − 3.75R. The vertical intercept stays at 30, the horizontal one goes from 10 to 8. New choice (R,L) = (4,15). The indifference curves are exact samples, the segments approximate visuals.
+znv3sw2dd0 New budget: L = 30 − 3.75R
+1w7rcv5uaf6 Same income, R pricier: lower purchasing power.
+261h0tj0omp New indifference: U = 60
+m2845c3fiy At the new optimum, LR = 60 instead of 75.
+ewlwu1q34k Old choice
+f3ozoujljx New choice
+1uezu8vt0p9 After pR = 150, with U = LR and I = 1,200, which R is optimal?
+klxixvr416 Half the spending, 600, goes to R: 600/150 = 4.
+r2pfsamzen After this price rise, nominal income is…
+2cicp68048h 960, because utility fell by 20%
+mkuz9cmcew An ordinal utility does not automatically convert a loss of satisfaction into nominal income.
+1umxpt5dd85 1,200, as before
+koohwxr4tl The price changes purchasing power, not the given amount I.
+1t1pf4dwjcy The price acts through two doors
+a9h6l0bwtn When R gets more expensive, it is less attractive relative to L: you substitute towards L. The same income also allows less total consumption: that is the income effect. Even if the total effect on L is zero in this example, that does not mean the two forces don't exist.
+21t0jg5plfi Substitution effect: reaction to the relative price with compensated utility. Income effect: reaction to the change in purchasing power. The decomposition requires a stated compensation benchmark.
+ddojyih39y The new price ratio changes what R costs in units of L, even if you receive money as compensation.
+utdn3k2ous The fall in purchasing power acts like a tightening of possibilities.
+1n90c3c2m70 For U = LR, L is normal: substitution towards L and the negative income effect on L work in opposite directions and offset each other in this case.
+1mk5xh25wbh Base A2: L = 15, R = 5. After pR = 150: L = 15, R = 4. An unchanged L does not prove "no effect": the partial effects can offset each other.
+lagumyv8o0 Even if part of the rise is refunded to you, one R still costs 3.75 L instead of 3. You still have a reason to change the mix.
+wyrnm9oqkt A money transfer restores your old satisfaction after the rise in pR. Has the relative price gone away?
+1v3mo45dph9 Yes, compensation removes all effects of the price
+x5daibt59x It can restore the level of satisfaction without restoring relative prices.
+1s0o2iesllb No, R stays relatively more expensive
+cfey6nqlyc The transfer shifts the budget in parallel; it does not restore the old slope.
+21ix1xqpjyw Buy back the old bundle or regain the old utility?
+1zslbbmu38x Two compensations have similar names but don't promise the same thing. One pays for exactly the old bundle at the new prices. The other gives just enough to regain the old satisfaction by choosing a new bundle; re-choosing can cost less than copying the old one.
+1i6zso17s7i The old bundle being affordable and the old utility being just reached are separate criteria. A strict improvement by re-choosing requires regular conditions; the general guarantee is "no worse".
+eclbrn3286 The new relative price generally makes the old bundle ill-suited.
+1ub56vgu78e If the old bundle is affordable, the best new choice cannot be worse than it.
+2ep7gg6y8cc With strict convexity and an old interior solution, re-choosing can be strictly better; at corners, don't systematically promise a strict improvement.
+xackl2yqg8 At the new prices 40 and 150, the old (15,5) costs 1,350. With I = 1,350, the new optimum is L = 16.875, R = 4.5, U = 75.9375 > 75. Just reaching U = 75 requires I = √(4×40×150×75) ≈ 1,341.64, so a transfer ≈ 141.64, against 150 to pay for the old bundle.
+1rf2whm1xl6 You can buy exactly your old bundle with 150 more. But by rearranging your purchases, you can reach the old satisfaction with a little less.
+10cfqz96vr0 At pL = 40 and pR = 150, how much does the old bundle (L,R) = (15,5) cost?
+1qnhuspn88x If a transfer makes the old bundle affordable, what general guarantee exists?
+1uuu2k62z5j The consumer must buy exactly the old bundle
+1wzgu0qn1b3 Being affordable is not an obligation to copy the mix.
+194oqvqjuh3 The best new choice is at least as good as the old one
+xyaft8ov5o They can always buy the old bundle again, and can sometimes do better.
+u1439q52p9 When a corner replaces the tangency
+s9esq0tyx Now suppose two drinks are perfect substitutes for you. If one gives more satisfaction per euro, you spend everything on it. A nice interior tangency does not necessarily exist: the edge of the budget can be the right place.
+ca6760xiut Perfect substitutes U = a·x + b·y: compare a/px and b/py. A corner if the ratios differ; every bundle on the budget is optimal if they are equal.
+1wq9gn9cizh The MUs are constant: buying more of the better good does not reduce its relative advantage.
+cxf5jabcz2 No interior rebalancing is needed if the ratios never become equal.
+qkrita3x1z When the ratios are equal, moving spending does not change utility: the choice is not unique.
+n36px4t96c Constructed example: U = 2x + y, I = 12, px = 2, py = 2. Gains per euro: 1 against 0.5. Choose x = 6, y = 0, U = 12. If px becomes 4, both ratios equal 0.5: the whole budget line is optimal.
+158kpgbsxjr If two apps do exactly the same job, but one gives twice the service for the same price, you don't need to buy a bit of each.
+2ctmgyam2ck U = 2x + y, I = 12 and px = py = 2. What is the optimal x?
+pldfkhbryp 2/2 > 1/2: all spending goes to x, so x = 12/2 = 6.
+c1cgosswhf If a/px = b/py for perfect substitutes, what do we know?
+22vum5ei4e9 x = y is necessarily the unique optimum
+2ci2y5gdu39 No preference for equal units is given.
+1q2jirwy4qo Every bundle on the budget is optimal
+ksso1gxl0d Both uses of spending bring exactly the same gain.
+1zenub5a5e When you need a kink, not a corner
+rdlxtki3ci A left shoe without a right one does not make an extra pair. If you consume the goods together in a fixed ratio, an unmatched unit adds nothing. You then look for the kink where the useful proportion is respected.
+1c1m1uswq06 Perfect complements U = min(x/a, y/b): at the efficient choice x/a = y/b. With 1:1 pairs, x = y = I/(px + py).
+1ye1ys808uu The smallest number of complete components limits the number of usable sets.
+1eblvbwazlo Buying an extra component spends budget without increasing the number of sets.
+2r2tx8999u The proportion rule together with the budget determines the highest affordable kink.
+1b0jmtonmi0 Constructed example: U = min(x,y), I = 30, px = 2, py = 3. x = y and 2x + 3y = 30 ⇒ x = y = 6. The bundle (9,4) also costs 30, but only gives U = 4.
+1c9ezzo8l1f You don't take nine left shoes and four right ones on the grounds that the budget is used up: only four pairs work.
+9d3dtabmir U = min(x,y), I = 30, px = 2, py = 3. How many optimal pairs?
+ghqrxu4enp A pair costs 2 + 3 = 5; 30/5 = 6.
+1ynz7xek3mf pairs
+1ddo26zuntt A question says "always consumed in a fixed ratio". First method?
+89fddp0v4r Always MUx/MUy = px/py, then a smooth tangency
+d2calwch8d The regular interior condition is not universal.
+17h2qaayamp Proportion at the kink + budget
+1uxtffa2cy8 Preferences are not smooth at the kink; an ordinary tangency does not apply.
+fhjauhfq4m From your choices to a demand: vary the right thing
+v8fuv0nje0 You now know how to choose a bundle. To build the demand for R, repeat the choice at several prices of R keeping income and pL fixed. For an Engel curve, vary income instead of the price; the two curves answer different questions.
+zao13klb63 Individual demand: R*(pR), I and pL constant. Engel curve: R*(I), prices constant. Private market demand sums the non-negative individual choices horizontally.
+q0kczomeue Preferences alone do not define a purchase; the constraints determine the affordable choice.
+1jxil1ak6y Changing a price and changing income modify the budget in two different ways: a pivot versus a parallel shift.
+19zchgezym9 Individual purchases are then added up at the same price, with zero for those who do not take part.
+fdtdcx7mi6 For U = LR and I = 1,200, R*(pR) = 600/pR: at 100, R = 6; at 120, R = 5; at 150, R = 4. With pR fixed at 120, I = 1,440 gives R = 6: that is a different Engel point.
+ixppy2x3bw You can explain "I buy 6 R" in two ways: either R is cheaper, or you are richer. The identical result does not make the causes identical.
+1pbvpl289go U = LR, I = 1,200, pR = 100. What is the optimal R?
+17zydhvdlsa 600 goes to R; 600/100 = 6.
+204gxh1pv8s To draw Engel, you vary…
+2am8g159qzb The price of R, income constant
+1jmu4ghhjog That is how you build the demand for R.
+16efyfi4gut Income, keeping prices constant
+1xoighmvxlb This isolates the relationship between resources and the quantity chosen.
+11zmlgn0xqa Utility represents an order; what you desire does not yet depend on feasibility.
+t5jthkmxo8 Prices and income impose the budget.
+154k2zo505f Shifting spending pays off if one use brings more MU per euro.
+3uv9bx2hu4 Interior tangency, corner and kink are not interchangeable.
+2g8h39b5bot A price change modifies the constraint and can change the bundle, without changing nominal income.
+wxv7ypdwbw The bundle (20,4) is preferred in the unconstrained list but costs 1,280, beyond the 1,200 available. For U = LR, at an interior point, the last euro must bring the same utility in both goods: L/120 = R/40, so L = 3R. With the budget, L = 15 and R = 5. When pR rises to 150, nominal income stays 1,200 but purchasing power falls; the choice becomes L = 15, R = 4 and U goes from 75 to 60.
+14isc0ousqh Rank bundles with preferences
+t7l0ligg3y Restrict the choice to affordable bundles
+qtfuroxb2r Compare the marginal gain per euro
+fmoyfloq3l Choose the method suited to the preferences
+wu1e8fx2yi Check, then redo the choice after a shock
+cqut9yq90f Explain to a friend why (20,4), though more useful, is not the A2 choice. Then explain the optimal bundle and what changes when pR goes to 150. Use your own words before the acronyms.
+22plty01tvh Affordability first
+12agtqnic5t 1,280 exceeds the budget of 1,200.
+wgkekuaw6z Same gain on the last euro
+szthopfcx3 A reallocation raises U as long as MU/price differ.
+ui3qfkrsit Tangency and budget together
+15rqcsfvahx L = 3R and then the budget give L = 15, R = 5.
+1mbmkqlq174 Same income, changed choice
+118gocdx2dz pR = 150 gives R = 4; I stays 1,200.
+5d9ndgaxxz U is ordinal: we compare a ranking, not a happiness ratio.
+o7wnd4d3vb I stays 1,200. It is purchasing power that falls when R gets more expensive.
+hgq9yddh7o Tangency assumes a regular interior. Perfect substitutes and perfect complements require corners or kinks.
+1azu4gcw4em Practice constructed on the structure of A2.2 and §4.6. The changed prices and the compensation are teaching variants; no official mark scheme is claimed.
+12r99l9m0lz Identify U = xy, positive prices and an interior solution.
+9o9vp6mmx6 Set MUx/px equal to MUy/py, then use the whole budget.
+1p305x7dmjp After the shock, keep I constant; distinguish bundle compensation from utility compensation.
+t30lr8jlhn After: x = 120/4 = 30, y = 120/15 = 8, U = 240.
+26aqgjhvwi4 With I = 270, re-choosing: x = 33.75, y = 9, U = 303.75 > 300.
+r9sigvdi35 x horizontal and y vertical: initial intercepts 60 and 20, slope −1/3.
+26qonmxj8e7 After py = 15: x intercept 60 unchanged; y intercept 16 and slope −4/15.
+1q05g39z7zy The compensated budget passes through the old bundle but keeps the new slope.
+ttfl8dme7w MRS_RL, with R horizontal, means…
+di3kp7o4sa R that you must give up for one L
+1mmjz2uria7 That swaps the added good and the axes.
+1927p3enfpc L you are willing to give up for one more R, at constant utility
+ajzy01bpyq The ratio comes from preferences; the market's sacrifice comes from prices.
+zbit5w21v3 Ordinal utility: an increasing transformation…
+akge7drmxr Necessarily preserves every numerical difference
+1bajfebce4r The gaps carry no cardinal meaning.
+1cgvdrf3573 Preserves the ranking of bundles
+1eh1ev12h1r It changes the numbers without changing the order.
+rxetqh44bz Why equalise MU/price at an interior optimum?
+w14vbg1v12 Because the two quantities must be equal
+rx4k61ipso Prices and preferences can justify different quantities.
+1s7v4o1um0i Otherwise a shift of spending improves utility
+1jm5jgcnivm The budget can stay constant during the reallocation.
+1pl1cgxn694 The price of a good rises, I is fixed. What falls is…
+uj12s96jv9 Nominal income, by definition
+1yhfwq4dpod Nominal income is the amount of money I, given as unchanged.
+age6si6mq6 Purchasing power, not necessarily nominal income
+gypmw03em0 The same sum buys less.
+2162g63uirz U = xy, I = 100, px = 5, py = 10. Find x*.
+4x73bnbgnn Spending on x is 50: x = 50/5 = 10.
+1fej26q5q45 U = min(x,y), I = 48, px = 3, py = 5. Find x* = y*.
+w3i56rddpt A pair costs 8; 48/8 = 6.
+a9w17fzejg U = 3x + y and px = py = 1. Method and choice?
+27lq9145wmy Necessarily look for an interior tangency
+gzds3c33qg The MUs do not converge when quantities change.
+1lzbnrfig1z Compare MU/price; the whole budget on x
+1bqro90hp5s Perfect substitutes keep constant ratios; 3 > 1.
+lrz2mymsdx Making the old bundle affordable after a shock guarantees…
+1b652382358 Strictly higher satisfaction in every case
+274s0alfipk A strict improvement needs more conditions; corners can give equality.
+twsh3vudar A new optimum at least as good as the old bundle
+1ezhaxmfup The consumer can choose that bundle or something better.
+yas75wu4al Relative prices
+24wwkzy299m A price increase necessarily lowers nominal income.
+rqhchvi1u6 This confuses the amount of money with what it can buy.
+p5o6xgt6r5 A higher price can lower purchasing power while nominal income remains constant.
+11oev1gg5bi Price and nominal income are separate givens.
+1cvcpatt9a7 I check the cost before ranking the affordable bundles.
+vio1xwm9lt The bundle preferred without a constraint can exceed the budget.
+20mlpkd6mq8 I define MRS with axes and a unit.
+indq0sf4j5 Swapping the axes inverts the relevant ratio.
+1no6soyjdbb I rebuild the last euro rather than reciting a tangency.
+1axg6s13ltb I can explain the deviation that would improve a non-optimal bundle.
+be8jn34bit I distinguish interior, corner and kink.
+eamcbgkgau I recognise perfect substitutes and perfect complements.
+hyzjczr1mb I separate nominal income, purchasing power and substitution.
+9o86xhvp8c Compensation does not automatically restore the relative price.
+1tn42hjdwvt I don't treat U as an amount of happiness.
+2gltxx8awrg The ranking is ordinal; a numerical ratio does not measure relative well-being.
+1feozkmwc30 Elasticities — how much do people react, in percentages?
+nbquag86xn Proportional reaction, signs and time horizon
+2fwaahnmlc3 A price rise can raise or lower revenue. You will learn to measure buyers' reaction, keep the right signs and recognise when an approximation is no longer enough.
+1qmnl62v4c The drivers
+1u4x1fh71fr choose their petrol consumption
+csrbw4koaj adapt their trips and spending to prices
+2dfxpdu2j8x The seller
+1iowku0jgxu watches how its sales react
+1s97rbarrzr understand its revenue without confusing it with profit
+26fo4n5h46o compare reactions in percentages
+1z43auyxvd3 keep the sign, the bases and the model consistent
+2c821mmr1xn The authority
+qzuwq737yb considers a target for cutting petrol use
+ok167gifdl predict the price rise needed and its limits
+2j9qvxvaht Same price rise, not the same freedom to react
+1wgifdaetgc The price of petrol rises tomorrow. You can avoid a trip, but you cannot instantly change car or home. Over several years, more options become possible: measuring the reaction requires stating the time horizon.
+dvbgir3xtk Elasticity measures the proportional sensitivity of quantity to a determinant. It depends on the point, the market and the horizon; it is not a fixed trait of the product.
+287trv2mrxs The same change in litres does not mean the same adjustment for a small and a large consumer.
+1zoevs0o07k A percentage measure relates the change to the starting consumption.
+1ih5lbk0s9o Substitution possibilities grow over time, so the quantity response can become larger.
+21m4q0dy3yd A2 gives εSR = −0.25 and εLR = −0.60 for petrol. For a price +5%, the approximation gives Q −1.25% in the short run and −3% in the long run.
+17ugj8vfm5h Tomorrow you can take fewer trips; next year you can choose a more fuel-efficient car. The model must know which decision we are talking about.
+1sploso9p3 Why can petrol be more elastic in the long run?
+21lhgk878mj Because a negative elasticity necessarily becomes positive over time
+1ryn5ffbg6a The sign stays that of the price–quantity reaction; it is often the magnitude that grows.
+7nycjev7qo More substitution possibilities become available
+132qsf1qjaj Vehicle, housing or how trips are organised can change.
+23nunzm9bol Before the acronym: compare two percentages
+1c7gl7c1noa If sales go from six to four, you have lost two units. But two out of six is a third, not two per cent. A price that goes from one to two has risen by a hundred per cent: compare proportional changes, not raw numbers.
+t6xw4et6ma Initial-base convention: ΔQ/Q0 and Δp/p0. The discrete elasticity is their ratio; the convention must stay the same in both percentages.
+bsj4py9anz An absolute change depends on the units chosen: litres or millilitres give different numbers.
+15ofa60cyn8 A percentage change divides by the initial value and removes this scale problem.
+whzrvfk781 The signs describe the direction: quantity down and price up give a negative ratio.
+1mk9pur1eby First you write "two units lost out of the six at the start", then you compare it with the price doubling.
+7qvc06ngl4 Q: 6 → 4, p: 1 → 2. With initial bases, what elasticity?
+1f3w161ezyd (−2/6)/(1/1) = −1/3. The negative sign is needed.
+seee7h6jwg −2/1 is a ratio of absolute changes. The bases Q0 and p0 are missing.
+upwtpeor22 Quantity falls when the price rises: keep the negative sign.
+dynsdyp6et Earn the point formula with the units
+93ja1cyfa9 A derivative tells you how many units of sales you lose for one extra euro. That is not yet a percentage. Multiplying by the starting price and dividing by the starting quantity turns this reaction into a percentage of quantity per percentage of price.
+197qig2mx0w Point price elasticity of demand: εD = (dQ/dp)·(p/Q). It is unit-free. With several determinants, use the appropriate partial derivative.
+1thojow9yxj dQ/dp is in units per euro. Which factor converts it into a unit-free proportional sensitivity?
+i2g5x0wejp (units/€) × (€/unit): the units cancel.
+6blnvgx8nj The units don't cancel; you get the inverse of the required factor.
+yozmauqbwu That does not normalise the changes by the levels.
+1nwavxbx6y4 dQ/dp gives an absolute reaction to a small price rise.

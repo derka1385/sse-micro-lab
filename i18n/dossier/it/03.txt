@@ -1,0 +1,104 @@
+======================================================================
+1. INVENTARIO E MAPPA DEL PROGRAMMA
+======================================================================
+
+Tutti i nomi qui sotto sono relativi alla cartella Microeconomics.
+
+S01 = assignments/Assignment3.pdf — 4 pagine.
+S02 = assignments/Assignment2.pdf — 3 pagine.
+S03 = assignments/Assignment4.pdf — 5 pagine.
+S04 = assignments/Assignment5.pdf — 6 pagine.
+S05 = assignments/Assignment6.pdf — 5 pagine.
+S06 = lectures/Lecture 01 Micro 2026 15.16.11.pdf — 21 pagine.
+S07 = lectures/Lecture 02 Micro 2026 15.16.11.pdf — 33 pagine.
+S08 = lectures/Lecture 03 Micro 2026 15.16.11.pdf — 24 pagine.
+S09 = lectures/Lecture 04 Micro 2026 15.16.11.pdf — 29 pagine.
+S10 = lectures/Lecture 05 Micro 2026 15.16.11.pdf — 33 pagine.
+S11 = lectures/Lecture 06 Micro 2026 15.16.11.pdf — 34 pagine.
+S12 = lectures/Lecture 07 Micro 2026.pdf — 23 pagine.
+S13 = lectures/Lecture 08 Micro 2026.pdf — 24 pagine.
+S14 = lectures/Lecture 09 Micro 2026.pdf — 25 pagine.
+S15 = lectures/Lecture 10 Micro 2026.pdf — 25 pagine.
+S16 = lectures/Lecture 11 Micro 2026.pdf — 25 pagine.
+S17 = lectures/Lecture 12 Mikro 2026.pdf — 20 pagine.
+S18 = past exams/2020.pdf — 7 pagine.
+S19 = past exams/2021.pdf — 5 pagine.
+S20 = past exams/2022.pdf — 5 pagine.
+S21 = past exams/2023.pdf — 6 pagine.
+S22 = past exams/2024.pdf — 5 pagine.
+S23 = past exams/2025.pdf — 6 pagine.
+
+LEZIONI -> COMPETENZE -> APPLICAZIONI
+L1, Introduction, Friberg 1.1–2.1 e 19: scarsità, scelta, allocazione,
+  efficienza e distribuzione, ipotesi dei modelli, derivate.
+L2, Supply and demand, Friberg 2.2–2.5: funzioni dirette/inverse,
+  spostamenti delle curve, equilibrio ed effetti degli shock.
+  Base per A4.2, A6.3 e per le politiche in tutti gli esami.
+L3, Consumer choice, Friberg 5.1–5.6: preferenze, utilità ordinale,
+  indifferenza, MRS, budget, scelta interna o d'angolo, bias comportamentali.
+  A2.2; E2022 Q5; E2021 Q4e; definizioni della Q5.
+L4, Demand curves and elasticities, Friberg 6.1–6.4: domanda individuale,
+  aggregazione, compensazione ed elasticità. A2.1; E2020 Q5; Lerner.
+L5, From technology to costs, Friberg 3.1–3.7: produzione, MP, isoquanti,
+  produttività, minimizzazione dei costi, categorie di costo, rendimenti.
+  Q5 di E2021, E2023, E2025; definizioni molto ricorrenti.
+L6, Supply by price taking firms, Friberg 4.1–4.8: MR=MC, p=MC,
+  chiusura di breve periodo, uscita di lungo periodo, aggregazione, entrata e profitto nullo.
+  E2020 Q5, E2024 Q5; meccanismi della concorrenza monopolistica.
+L7, Efficiency, Friberg 7.1–7.5: CS, PS, benessere, DWL, tetto/pavimento,
+  tassa e sussidio. A4.2; politiche e grafici di tutti gli esami.
+L8, Monopoly and monopolistic competition, Friberg 9.1–9.3: MR,
+  potere di mercato, Lerner, barriere, entrata, imprese eterogenee.
+  A4.1/A4.3; E2021 Q3; E2022 Q3; E2023 Q1; E2025 Q3d.
+L9, Price discrimination, Friberg 12.1: di primo/terzo/secondo grado,
+  IC/IR, bundling, abbonamento e two-part tariff.
+  A5.1/A5.2; presente in tutti e sei i vecchi esami.
+L10, Oligopoly, Friberg 10.1–10.3: Cournot, Nash, reazione, Stackelberg,
+  Bertrand omogeneo e differenziato, numero di imprese, costi asimmetrici.
+  A5.3; E2020/21/22/23 calcoli Cournot; E2024/25 calcoli Bertrand.
+L11, Externalities, Friberg 13.1–13.2: costi/benefici privati e sociali,
+  Pigou, emissioni, permessi, Coase, beni pubblici e risorse comuni.
+  A6.1/A6.3; grandi esercizi E2020/23/24 e beni pubblici E2025.
+L12, Asymmetric information, Friberg 14.1–14.4: adverse selection,
+  lemons, segnale/screening, moral hazard, principale-agente, condivisione del rischio.
+  A6.2; domande teoriche o numeriche in tutti e sei gli esami.
+A3: giochi simultanei/sequenziali, preferenze sociali, impegni.
+  Estensione del Nash accennato in L10; la copertina non precisa la
+  disciplina di provenienza del compito. Non scartarlo perché atipico.
+
+FORMATO E TENDENZE OSSERVATE
+Gli esami 2020–2025 durano 4 ore, hanno quattro domande principali
+per un totale di 83 punti e una Q5 sostitutiva del midterm, da 10 punti.
+Le istruzioni richiedono risposte in inglese, strutturate e motivate.
+Gli esami 2020–2023 precisano esplicitamente gli strumenti/calcolatrice ammessi; non
+estrapolare un'autorizzazione attuale da un vecchio esame.
+L1 p.17–18 annuncia per il 2026: esame il 23 ottobre, midterm il 28 settembre,
+midterm su L1–L6, hand-ins 7 punti, midterm 10, final 83, totale 100.
+Soglie indicate: Pass 50, Good 60, Very good 70, Excellent 80.
+
+Conteggio per ANNO, non per numero di sottodomande:
+- Potere di mercato e tariffazione/discriminazione: 6/6, 2020–2025.
+- Tasse, sussidi o altra regolamentazione con ragionamento sul surplus:
+  6/6, 2020–2025; include dazi doganali e tetto di prezzo nel 2023.
+- Informazione asimmetrica: 6/6, 2020–2025.
+- Beni pubblici in senso stretto: 5/6, 2020, 2021, 2022, 2024, 2025.
+  Il 2023 tratta una risorsa comune/spettro; pubblico O comune = 6/6.
+- Esternalità trattate esplicitamente oltre la semplice definizione di bene pubblico:
+  5/6, 2020, 2021, 2023, 2024, 2025.
+- Commercio internazionale o vantaggio comparato: 5/6,
+  2020, 2021, 2022, 2024, 2025.
+- Calcolo dell'equilibrio di Cournot: 4/6, 2020, 2021, 2022, 2023.
+  Confronto qualitativo Cournot/Bertrand anche nel 2025.
+- Calcolo di Bertrand differenziato: 2/6, 2024, 2025.
+- Leadership sequenziale numerica: 2/6, 2021 in quantità, 2024 in prezzi.
+- Aste esplicite: 2/6, 2023 e 2025.
+- Piattaforme/effetti di rete/multihoming come modelli espliciti:
+  2/6, 2022 e 2025; altri esami usano le piattaforme come contesto.
+- Cinque definizioni elementari nella Q5 facoltativa: 6/6.
+
+SCHEMA DI COSTRUZIONE DI UNA GRANDE DOMANDA
+Definire un meccanismo -> risolvere un caso base -> modificare un'ipotesi
+(tassa, entrata, costi, discriminazione, informazione o ordine delle decisioni)
+-> confrontare gli equilibri -> disegnare -> spiegare l'intuizione.
+I temi si combinano: monopolio + tassa, Cournot + costi asimmetrici,
+sussidio + esternalità, piattaforma + discriminazione, credito + IC.

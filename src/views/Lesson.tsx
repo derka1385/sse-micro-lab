@@ -2,7 +2,6 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { TOPICS } from '../content/catalog';
 import { WHY } from '../content/externalities';
 import { exam, finalsFor, LESSONS, lessonsForTopic } from '../content/lessons';
-import { PAIRS, SCENARIOS } from '../content/training';
 import type { ActorId, El, Lesson } from '../content/types';
 import { MODELS, fmt } from '../econ';
 import { AxisSlider, GraphInspector, InteractiveEconGraph, PolicyControl, UnitStrip, type Sel } from '../components/graph';
@@ -12,6 +11,7 @@ import { ExamQuestion } from '../components/Exam';
 import { LessonDiagram } from '../components/LessonDiagram';
 import { Abbr, DecodeCard, ProvTags, Rich, SourceRef } from '../components/text';
 import { ArrowLeft, ArrowRight } from '../components/icons';
+import { lang, t } from '../i18n';
 import { activeMisconceptions, familiarity, finishLesson, lessonState, markSeen, mastery, passCheck, setConfidence, setLessonBlock, useProgress } from '../store';
 
 export function Learn() {
@@ -19,34 +19,32 @@ export function Learn() {
   return (
     <div className="page">
       <header className="page-head">
-        <h1>Leçons guidées</h1>
-        <p className="lead">Une leçon = un mécanisme, découpé en blocs d’une seule idée. On part d’une situation et de ses acteurs ; le nom, le sigle et la formule viennent après.</p>
+        <h1>{t('Leçons guidées')}</h1>
+        <p className="lead">{t('Une leçon = un mécanisme, découpé en blocs d’une seule idée. On part d’une situation et de ses acteurs ; le nom, le sigle et la formule viennent après.')}</p>
       </header>
       <div className="lesson-list">
-        {TOPICS.map((t) => {
-          const available = lessonsForTopic(t.id);
+        {TOPICS.map((topic) => {
+          const available = lessonsForTopic(topic.id);
           const l = available[0];
           const s = l ? lessonState(p, l.id) : null;
-          const nRec = SCENARIOS.filter((x) => x.topic === t.id).length;
-          const nPairs = PAIRS.filter((x) => x.topic === t.id).length;
           return (
-            <article key={t.id} className={`lesson-card ${l ? 'has-lesson' : ''}`}>
-              <h3>{t.title}</h3>
-              <p className="meta">{t.lecture} · {t.en}</p>
+            <article key={topic.id} className={`lesson-card ${l ? 'has-lesson' : ''}`}>
+              <h3>{topic.title}</h3>
+              <p className="meta">{topic.lecture} · {topic.en}</p>
               {l ? (
                 <>
                   <p className="small">{l.teaser}</p>
                   <a className="button primary" href={`#/lesson/${l.id}`}>
-                    {!s?.startedAt ? 'Commencer' : s.finishedAt ? 'Revoir' : `Continuer · bloc ${s.block + 1}/${l.blocks.length}`}
+                    {!s?.startedAt ? t('Commencer') : s.finishedAt ? t('Revoir') : t('Continuer · bloc {i}/{n}', { i: s.block + 1, n: l.blocks.length })}
                     <ArrowRight />
                   </a>
-                  {available.slice(1).map((extra) => <p key={extra.id} className="small"><a href={`#/lesson/${extra.id}`}>{extra.mechanism} · {extra.blocks.length} blocs</a></p>)}
-                  <p className="small muted">{l.blocks.length} blocs · validation progressive · explication avec tes mots · examen en anglais · rappels espacés</p>
+                  {available.slice(1).map((extra) => <p key={extra.id} className="small"><a href={`#/lesson/${extra.id}`}>{extra.mechanism} · {t('{n} blocs', { n: extra.blocks.length })}</a></p>)}
+                  <p className="small muted">{t('{n} blocs · validation progressive · explication avec tes mots · examen en anglais · rappels espacés', { n: l.blocks.length })}</p>
                 </>
               ) : (
-                <p className="small muted">Leçon guidée pas encore construite. Déjà disponible : la source{nRec ? `, ${nRec} scénario(s) de reconnaissance` : ''}{nPairs ? `, ${nPairs} paire(s) de confusions` : ''}.</p>
+                <p className="small muted">{t('Leçon guidée pas encore construite.')}</p>
               )}
-              <p className="small">{t.refs.map((r) => <SourceRef key={r} r={r} />)}</p>
+              <p className="small">{topic.refs.map((r) => <SourceRef key={r} r={r} />)}</p>
             </article>
           );
         })}
@@ -60,7 +58,7 @@ export function LessonView({ id }: { id: string }) {
   const p = useProgress();
   const ls = lessonState(p, id);
   const [idx, setIdx] = useState(() => (lesson ? Math.min(ls.block, lesson.blocks.length - 1) : 0));
-  if (!lesson) return <div className="page"><p>Leçon introuvable. <a href="#/learn">Retour</a></p></div>;
+  if (!lesson) return <div className="page"><p>{t('Leçon introuvable.')} <a href="#/learn">{t('Retour')}</a></p></div>;
   const go = (i: number) => {
     setIdx(i);
     setLessonBlock(id, i);
@@ -69,10 +67,10 @@ export function LessonView({ id }: { id: string }) {
   return (
     <div className="page lesson">
       <header className="lesson-head">
-        <a href="#/learn" className="back"><ArrowLeft size={14} /> Leçons</a>
+        <a href="#/learn" className="back"><ArrowLeft size={14} /> {t('Leçons')}</a>
         <h1>{lesson.title}</h1>
-        <p className="meta">Mécanisme du jour : {lesson.mechanism}</p>
-        <div className="dots" role="navigation" aria-label="Blocs de la leçon">
+        <p className="meta">{t('Mécanisme du jour : {m}', { m: lesson.mechanism })}</p>
+        <div className="dots" role="navigation" aria-label={t('Blocs de la leçon')}>
           {lesson.blocks.map((b, i) => (
             <button key={b.id} type="button" className={`dot ${i === idx ? 'on' : ''} ${i <= ls.block ? 'reached' : ''}`} disabled={i > Math.max(ls.block, idx)} onClick={() => go(i)} title={`${i + 1}. ${b.title}`} aria-label={`Bloc ${i + 1} : ${b.title}`} aria-current={i === idx ? 'step' : undefined}>
               {String(i + 1).padStart(2, '0')}
@@ -86,18 +84,18 @@ export function LessonView({ id }: { id: string }) {
 }
 
 const ACCEPTANCE: [string, string][] = [
-  ['[[MPB]] = la valeur, pour l’acheteur, d’une unité de plus.', 'c:MPB'],
-  ['[[MPC]] = le coût privé de production d’une unité de plus.', 'c:MPC'],
-  ['[[Qm]] est là où les incitations privées s’équilibrent : MPB = MPC.', 'f:market'],
-  ['[[MEB]] = la valeur, pour les tiers, de l’effet positif d’une unité de plus.', 'c:MEB'],
-  ['{{MSB = MPB + MEB}}', 'f:msb'],
-  ['[[MSB]] n’est PAS l’argent du gouvernement.', 'c:MSB'],
-  ['[[Q*]] est la quantité efficace : MSB = MSC.', 'f:opt'],
-  ['Avec une externalité positive, Qm < Q*.', 'r:qs'],
-  ['Les unités manquantes créent une [[DWL]] : leur bénéfice social dépasse leur coût social.', 'a:dwl-under'],
-  ['Une subvention pigouvienne aligne l’incitation privée sur l’optimum social.', 'c:POL+'],
-  ['MEB constant = 20 ⇒ subvention optimale = 20.', 'r:s'],
-  ['Si MEB dépend de Q, on l’évalue à Q*, pas à l’intercept.', 'f:pigou'],
+  [t('[[MPB]] = la valeur, pour l’acheteur, d’une unité de plus.'), 'c:MPB'],
+  [t('[[MPC]] = le coût privé de production d’une unité de plus.'), 'c:MPC'],
+  [t('[[Qm]] est là où les incitations privées s’équilibrent : MPB = MPC.'), 'f:market'],
+  [t('[[MEB]] = la valeur, pour les tiers, de l’effet positif d’une unité de plus.'), 'c:MEB'],
+  [t('{{MSB = MPB + MEB}}'), 'f:msb'],
+  [t('[[MSB]] n’est PAS l’argent du gouvernement.'), 'c:MSB'],
+  [t('[[Q*]] est la quantité efficace : MSB = MSC.'), 'f:opt'],
+  [t('Avec une externalité positive, Qm < Q*.'), 'r:qs'],
+  [t('Les unités manquantes créent une [[DWL]] : leur bénéfice social dépasse leur coût social.'), 'a:dwl-under'],
+  [t('Une subvention pigouvienne aligne l’incitation privée sur l’optimum social.'), 'c:POL+'],
+  [t('MEB constant = 20 ⇒ subvention optimale = 20.'), 'r:s'],
+  [t('Si MEB dépend de Q, on l’évalue à Q*, pas à l’intercept.'), 'f:pigou'],
 ];
 
 function Finish({ lesson }: { lesson: Lesson }) {
@@ -107,33 +105,33 @@ function Finish({ lesson }: { lesson: Lesson }) {
   const finals = finalsFor(TOPICS.find((t) => lessonsForTopic(t.id).includes(lesson))?.nodes ?? [lesson.node]);
   return (
     <div className="finish">
-      <h3>Ce que tu dois pouvoir expliquer — et pourquoi</h3>
+      <h3>{t('Ce que tu dois pouvoir expliquer — et pourquoi')}</h3>
       <ul className="accept">
         {(lesson.acceptance ?? ACCEPTANCE.map(([text, key]) => ({ text, why: WHY[key]?.layers ?? [] }))).map(({ text: s, why }, index) => (
           <li key={index}>
             <Rich text={s} />
-            {why.length > 0 && <WhyChain layers={why} label="Pourquoi ?" />}
+            {why.length > 0 && <WhyChain layers={why} label={t('Pourquoi ?')} />}
           </li>
         ))}
       </ul>
       {finals.length > 0 && (
         <>
-          <h3>Les vrais sujets qui utilisent ce mécanisme</h3>
+          <h3>{t('Les vrais sujets qui utilisent ce mécanisme')}</h3>
           <ul className="plain">{finals.map((q) => <li key={q.id}><a href={`#/exam/${q.id}`} lang="en">{q.title}</a></li>)}</ul>
         </>
       )}
-      <h3>Maîtrise mesurée aujourd’hui</h3>
+      <h3>{t('Maîtrise mesurée aujourd’hui')}</h3>
       <MasteryBars m={m} />
       <div className="confidence">
-        <span>Ta confiance sur ce mécanisme :</span>
+        <span>{t('Ta confiance sur ce mécanisme :')}</span>
         {[1, 2, 3, 4, 5].map((n) => (
-          <button key={n} type="button" className={`conf ${conf === n ? 'on' : ''}`} onClick={() => setConfidence(lesson.node, n)} aria-label={`Confiance ${n} sur 5`}>{n}</button>
+          <button key={n} type="button" className={`conf ${conf === n ? 'on' : ''}`} onClick={() => setConfidence(lesson.node, n)} aria-label={t('Confiance {n} sur 5', { n })}>{n}</button>
         ))}
       </div>
       <div className="row wrap">
-        <a className="button primary" href="#/recall">Premier rappel espacé</a>
-        <a className="button" href="#/learn">Choisir la prochaine leçon</a>
-        <a className="button" href={`#/exam/${lesson.examId}`}>Refaire l’épreuve de la leçon</a>
+        <a className="button primary" href="#/recall">{t('Premier rappel espacé')}</a>
+        <a className="button" href="#/learn">{t('Choisir la prochaine leçon')}</a>
+        <a className="button" href={`#/exam/${lesson.examId}`}>{t('Refaire l’épreuve de la leçon')}</a>
       </div>
     </div>
   );
@@ -210,17 +208,17 @@ function BlockView({ lesson, idx, onNext, onPrev }: { lesson: Lesson; idx: numbe
           </div>
 
           {(block.economist || block.exam) && (
-            <div className="seg" role="tablist" aria-label="Niveau d’explication">
-              <button role="tab" aria-selected={level === 'human'} className={level === 'human' ? 'on' : ''} onClick={() => setLevel('human')}>Humain</button>
-              {block.economist && <button role="tab" aria-selected={level === 'economist'} className={level === 'economist' ? 'on' : ''} onClick={() => setLevel('economist')}>Économiste</button>}
-              {block.exam && <button role="tab" aria-selected={level === 'exam'} className={level === 'exam' ? 'on' : ''} onClick={() => setLevel('exam')}>Examen (EN)</button>}
+            <div className="seg" role="tablist" aria-label={t('Niveau d’explication')}>
+              <button role="tab" aria-selected={level === 'human'} className={level === 'human' ? 'on' : ''} onClick={() => setLevel('human')}>{t('Humain')}</button>
+              {block.economist && <button role="tab" aria-selected={level === 'economist'} className={level === 'economist' ? 'on' : ''} onClick={() => setLevel('economist')}>{t('Économiste')}</button>}
+              {block.exam && <button role="tab" aria-selected={level === 'exam'} className={level === 'exam' ? 'on' : ''} onClick={() => setLevel('exam')}>{t('Examen (EN)')}</button>}
             </div>
           )}
 
-          <p className="block-text" lang={level === 'exam' && block.exam ? 'en' : 'fr'}><Rich text={text} /></p>
+          <p className="block-text" lang={level === 'exam' && block.exam ? 'en' : lang}><Rich text={text} /></p>
 
           {block.decode?.map((k) => (familiarity(p, `abbr:${k}`) >= 2
-            ? <p key={k} className="small muted">Sigle déjà maîtrisé : <Abbr k={k} /> (clique pour revoir la fiche).</p>
+            ? <p key={k} className="small muted">{t('Sigle déjà maîtrisé :')} <Abbr k={k} /> {t('(clique pour revoir la fiche).')}</p>
             : <DecodeCard key={k} k={k} />))}
 
           {block.callout && (
@@ -230,15 +228,15 @@ function BlockView({ lesson, idx, onNext, onPrev }: { lesson: Lesson; idx: numbe
             </aside>
           )}
 
-          <div className="actions" role="group" aria-label="Approfondir">
-            <button type="button" className={`act ${open.why ? 'on' : ''}`} onClick={() => toggle('why')}>Pourquoi ?</button>
-            <button type="button" className={`act ${open.ex ? 'on' : ''}`} onClick={() => toggle('ex')}>Exemple concret</button>
-            <button type="button" className={`act ${open.me ? 'on' : ''}`} onClick={() => toggle('me')}>Si c’était moi ?</button>
-            {(block.diagram || block.graph.preset || lesson.id === 'ext-positive') && <button type="button" className={`act ${open.graph ? 'on' : ''}`} onClick={showOnGraph}>{block.diagram && block.diagram.kind !== 'curves' ? 'Montre-le sur le schéma' : 'Montre-le sur le graphe'}</button>}
+          <div className="actions" role="group" aria-label={t('Approfondir')}>
+            <button type="button" className={`act ${open.why ? 'on' : ''}`} onClick={() => toggle('why')}>{t('Pourquoi ?')}</button>
+            <button type="button" className={`act ${open.ex ? 'on' : ''}`} onClick={() => toggle('ex')}>{t('Exemple concret')}</button>
+            <button type="button" className={`act ${open.me ? 'on' : ''}`} onClick={() => toggle('me')}>{t('Si c’était moi ?')}</button>
+            {(block.diagram || block.graph.preset || lesson.id === 'ext-positive') && <button type="button" className={`act ${open.graph ? 'on' : ''}`} onClick={showOnGraph}>{block.diagram && block.diagram.kind !== 'curves' ? t('Montre-le sur le schéma') : t('Montre-le sur le graphe')}</button>}
           </div>
-          {open.why && <div className="panel" data-label="Pourquoi"><WhyChain layers={block.why} start={1} /></div>}
-          {open.ex && <div className="panel" data-label="Exemple concret"><Rich text={block.example} /></div>}
-          {open.me && <div className="panel" data-label="Si c’était toi"><Rich text={block.me} /></div>}
+          {open.why && <div className="panel" data-label={t('Pourquoi')}><WhyChain layers={block.why} start={1} /></div>}
+          {open.ex && <div className="panel" data-label={t('Exemple concret')}><Rich text={block.example} /></div>}
+          {open.me && <div className="panel" data-label={t('Si c’était toi')}><Rich text={block.me} /></div>}
 
           {block.special === 'chain' && <CausalChain steps={lesson.chain} />}
           {block.special === 'teachback' && <TeachBack rubric={lesson.teach} lessonId={lesson.id} tags={[lesson.node]} onValidated={() => passCheck(lesson.id, `${block.id}:validation`)} />}
@@ -246,7 +244,7 @@ function BlockView({ lesson, idx, onNext, onPrev }: { lesson: Lesson; idx: numbe
           {block.special === 'finish' && <Finish lesson={lesson} />}
 
           {gated && !understood && (
-            <button type="button" className="primary big" onClick={() => setUnderstood(true)}>J’ai compris, vérifier <ArrowRight /></button>
+            <button type="button" className="primary big" onClick={() => setUnderstood(true)}>{t('J’ai compris, vérifier')} <ArrowRight /></button>
           )}
 
           {understood && block.reveal && (
@@ -271,17 +269,17 @@ function BlockView({ lesson, idx, onNext, onPrev }: { lesson: Lesson; idx: numbe
 
           {block.result && gated && (
             // Outline until earned, then it fills and thickens: the result is the reward of the reasoning.
-            <figure className={`specimen ${canNext ? 'earned' : 'pending'}`} aria-label={canNext ? `${block.result[0]} : ${block.result[1]}` : 'Résultat à gagner en répondant'}>
+            <figure className={`specimen ${canNext ? 'earned' : 'pending'}`} aria-label={canNext ? `${block.result[0]} : ${block.result[1]}` : t('Résultat à gagner en répondant')}>
               <span className="specimen-value">{canNext ? block.result[1] : '?'}</span>
-              <figcaption className="specimen-read">{canNext ? block.result[0] : 'À gagner : réponds aux questions'}</figcaption>
+              <figcaption className="specimen-read">{canNext ? block.result[0] : t('À gagner : réponds aux questions')}</figcaption>
             </figure>
           )}
 
           <div className="block-nav">
-            <button type="button" className="ghost" onClick={onPrev} disabled={idx === 0}><ArrowLeft /> Précédent</button>
+            <button type="button" className="ghost" onClick={onPrev} disabled={idx === 0}><ArrowLeft /> {t('Précédent')}</button>
             {!last && (
               <button type="button" className="primary" onClick={onNext} disabled={!canNext}>
-                {canNext ? <>Bloc suivant <ArrowRight /></> : block.special === 'teachback' ? 'Valide ton explication pour continuer' : block.special === 'exam' ? 'Rends et enregistre ta copie pour continuer' : 'Réponds pour continuer'}
+                {canNext ? <>{t('Bloc suivant')} <ArrowRight /></> : block.special === 'teachback' ? t('Valide ton explication pour continuer') : block.special === 'exam' ? t('Rends et enregistre ta copie pour continuer') : t('Réponds pour continuer')}
               </button>
             )}
           </div>
@@ -299,7 +297,7 @@ function BlockView({ lesson, idx, onNext, onPrev }: { lesson: Lesson; idx: numbe
             <UnitStrip model={model} show={block.graph.show} policy={policy} cursor={cursor} onPick={(q) => { setCursor(q); setSel({ kind: 'unit', q }); }} />
           )}
           <GraphInspector model={model} show={block.graph.show} policy={policy} cursor={cursor} selected={sel} onClear={() => setSel(null)} />
-          <AxisSlider label="Curseur" display={`Q = ${fmt(cursor, 1)}`} value={cursor} min={0} max={model.qMax} step={0.5} onChange={setCursor} />
+          <AxisSlider label={t('Curseur')} display={`Q = ${fmt(cursor, 1)}`} value={cursor} min={0} max={model.qMax} step={0.5} onChange={setCursor} />
           {block.graph.policyControl && <PolicyControl model={model} policy={policy} setPolicy={setPolicy} allowOptimal={canNext} />}
           </>}
         </div>}

@@ -1,0 +1,220 @@
+277m3esfz76 The marginal condition is not enough without a maximum, feasibility and comparison with the shutdown alternative.
+2677jxi0o7r L6: C = 10 + q², p = 12. q = 6; R = 72, C = 46, π = 26. At q = 7, π = 84 − 59 = 25: producing more lowers profit.
+croq3lfhhd You take the price of twelve as outside information; you don't read it off the whole market demand to choose a monopoly markup.
+1f4ge5cufuy Quantity chosen at price 12
+2bvzm82qy0n C = 10 + q², p = 12. Which q maximises profit?
+29iupm7ggt1 MC = 2q; 12 = 2q ⇒ q = 6. The profit of 26 beats shutting down at −10.
+14fd7wk6dli At the same choice q = 6, what is π?
+voc2ikg0r6 Losing fifteen can be better than losing sixteen
+18aeaiv8wyu The price drops and you make a loss. If a fixed expense must be paid even when you close for the day, closing does not remove it. Producing can still fund part of that expense and reduce the loss: compare the two real alternatives.
+282goe4p865 Short run, unavoidable FC: produce if the best quantity gives R ≥ VC, i.e. p ≥ AVC(q*). At equality, indifference; otherwise shut down. The criterion is not simply π ≥ 0.
+k5h8vpn32 When shut down, revenue and variable cost disappear, but the unavoidable fixed cost remains.
+1k1kkqrvkft Producing is worthwhile if R − VC is positive: that contribution reduces the fixed loss.
+qhwlmjdflx If R < VC even at the best choice, producing deepens the loss; shutting down becomes better.
+ooshvr5ddz Another constructed situation: C = 16 + 4q + q², FC = 16 unavoidable, p = 6. MC = 4 + 2q ⇒ q = 1; R = 6, VC = 5, π = −15. Shutdown: π = −16. Producing avoids one euro of loss.
+1q2en7yw9f8 The rent is already due today. Opening earns one euro after the costs that depend on opening: you recover one euro of that rent, even if the day still runs at a loss.
+9yezx19nbj Producing can limit a loss
+1wonns4diqv Another constructed situation: C(q) = 16 + 4q + q², unavoidable fixed cost of 16. MC = 4 + 2q; AVC = 4 + q. At p = 6, q* = 1 and loss = 15, against 16 when shut down. The standard threshold is inf AVC = 4, reached as a limit as q → 0.
+1k7sr1rumuu At p = 6, MC reaches p at q = 1.
+zb4qo162gb At q = 1, AVC = 5 < p: part of the fixed cost is covered.
+16ueqvknhrj p = 6 is below ATC: profit is negative despite the decision to produce.
+7px3z3qfj Price p = 6
+22rpbb7b83y The price covers AVC at q*, but not ATC.
+16p6wq4sy9e q* = 1, loss 15
+7ks518c0ta C = 16 + 4q + q², p = 6, q = 1. What profit when producing?
+1ox6zxk6mac With FC = 16 unavoidable, is it better to produce at a loss of 15 or shut down at a loss of 16?
+1niiv9r77ro Shut down, because any negative profit is irrational
+1sxtkmhfk10 You must compare with −16, not with a zero alternative that is not available.
+lbgd3cc3vb Producing minimises the loss
+29u835odz2r Revenue of 6 covers VC = 5 and funds one euro of the fixed cost.
+7i541n9a9o Fixed does not necessarily mean sunk
+m597x70c08 An expense can stay the same for every positive quantity and still be avoided by not opening. So you must not remove all fixed costs from the reasoning without reading the horizon and the contract. The right test compares what really changes between the options.
+xs4r1p9bxo Fixed: does not vary with q over the domain. Sunk or unavoidable for the decision: cannot be recovered/avoided by the alternative option. In the long run, exit and adjusting inputs become possible.
+22lp72et2fa "Fixed" describes the relationship to volume; "sunk" describes whether it can be recovered.
+1mbjzuehszd If closing avoids the expense, it is part of the gain from closing and must enter the comparison.
+1k9p855ol6l The economic horizon is defined by the adjustment margins available, not by a universal number of months.
+959nl3av0e Same activity as the previous block: R = 6 and VC = 5. If the 16 is a payment already due, producing gives −15 against −16 when shut down. If the 16 is only due when opening, shutting down gives 0 and beats the loss of −15.
+cd0jqu37id Before saying "the fixed cost doesn't matter", ask whether you can cancel that bill by choosing the other option.
+cjhnjm7ehn A fixed payment of 16 is fully avoidable by not opening. Producing would give π = −15. What should you choose?
+16n7wl4n2bo Produce, as in the case of an unavoidable fixed cost
+jjunu8p0pn You kept an assumption that the question changed.
+1i9bnutmvu9 Don't open: the profit of that option is 0
+2654ozvpxv5 This fixed cost is avoidable, so the comparison is no longer −15 against −16.
+9en55ro360 The short run means…
+xbkvw0uame Exactly less than a year for every firm
+2cure9oesld No universal calendar length defines the horizon.
+1hucz7crhce At least one input stays fixed for the decision
+pv3g47p4g6 It is about the possibilities of adjustment.
+1oi8qdqcdqq Supply is not the whole MC curve without conditions
+yjjh863qn9 The equality p = MC gives a candidate in an interior situation. A price that is too low can lead to choosing zero; a capacity can lead to choosing its maximum. If marginal cost is constant and every sale brings a positive margin, there is not even a finite optimal quantity without an extra limit.
+2c0h292ynnm Individual supply: the relevant part of rising MC above the shutdown threshold, with constraints. Check non-negativity, capacity, maximum and avoidable costs.
+147f8my737w An interior FOC is not required at a boundary of the choice.
+1gr405xosv8 With a constant positive margin, each extra unit improves π further.
+fupz0tek73 A capacity closes this unbounded choice; a price below variable cost can make zero preferable.
+18xzyk8d9wj C = 5q, p = 10, capacity q ≤ 10: π = 5q, so q* = 10. Without capacity or another rising cost, π grows without bound: the equation 10 = 5 has no solution and no finite optimum is given.
+20qvp3atipp If each T-shirt brings a margin of five, you don't stop arbitrarily at six T-shirts: you look for what really limits production.
+25od356hl5e C = 5q, p = 10, 0 ≤ q ≤ 10. What is the optimal q?
+1esyl7e1c8x π = 5q rises over the whole domain: the maximum is at the boundary q = 10.
+23e2yppiwie Same case without capacity and without an extra rising cost: what do you conclude?
+144fpxfewas q = 5 because MC = 5
+d8dyed5yhu The number 5 is a cost per unit, not an optimal quantity.
+pa7sf2bdea This model provides no finite optimum
+2244g9zn8ng Each unit adds five of profit; an extra limit is needed.
+qoppmm7tgb From your workshop to all workshops
+22oma5mc2b2 The market adds up the units each firm offers at the same price. A firm whose price does not cover its threshold does not contribute a negative quantity: it produces zero. The entry of a new firm changes the number of plans added up and shifts market supply.
+1er60rem9ia QS(p) = Σ qi(p), respecting each threshold. L6: q1 = max(0,p − 2), q2 = max(0,p − 4). Piecewise supply.
+1ashzmvfhbp Firms receive the same price in the homogeneous competitive model.
+7ovfmkueuw Quantities add up, not prices or vertical marginal costs.
+2513cf6hqhu When a participation threshold is crossed, an extra firm starts contributing: the market relationship can have a kink.
+qrqq1mg3r0 L6: at p = 3, q1 = 1 and q2 = 0, so QS = 1. At p = 5, q1 = 3 and q2 = 1, so QS = 4. For p ≥ 4, QS = 2p − 6; you cannot use that segment at p = 3.
+24s8b4oap6m The neighbouring workshop closes temporarily at this price. Its absence reduces supply; it does not subtract units you have already made.
+g623ugzi4q q1 = max(0,p − 2), q2 = max(0,p − 4). What is QS at p = 3?
+1kg4b4w943g q1 = 1 and q2 = 0; QS = 1. The segment 2p − 6 is not valid here.
+105zfl1s344 Same market, what is QS at p = 5?
+2dxjylqdshc q1 = 3 and q2 = 1, so QS = 4.
+kijio44z9l Zero profit does not mean working for nothing
+1m5z5m16ald Stronger demand can raise prices and profits in the short run. If new identical workshops can enter easily, their units shift supply and then lower the price. In the free-entry model with constant costs, economic profit ends up at zero because the factors are already paid their opportunity cost.
+1ka6r0evyz8 Usual case of identical replicable firms: pLR = min ATC, zero economic profit, more firms for stronger demand. Economic cost includes the best alternative given up; PS = R − VC = π + FC when FC is unavoidable.
+1nb9ysyqxl9 A positive economic profit attracts resources as long as entry stays open.
+itlw8uia5t The extra supply lowers the price and the advantage of entering.
+219t1ag6jal Paying your work its alternative value is already an economic cost; zero after that cost is not zero income. The entry result changes if resources are scarce, or barriers or industry costs change.
+1tcltrixz4a L6 Naomi: supplies 30,000 + delivery 10,000 give an accounting cost of 40,000; an alternative salary of 50,000 gives an economic cost of 90,000. With constructed revenue of 90,000: accounting profit 50,000 and economic profit 0. Another L6 example C = 10 + q² at p = 12: PS = 72 − 36 = 36, but π = 26.
+16avqvgx2bx You earn fifty thousand in your business but give up a job that paid the same amount: you do not have an economic gain of fifty thousand over that alternative.
+ibgmp3ngd6 Explicit spending 40,000, salary given up 50,000. What economic cost, without double counting?
+aclpvn79jz 40,000 + 50,000 = 90,000; the use of your time has an alternative.
+14xij7bedaj Zero economic profit in the free-entry model means…
+1f14vob3z0n The owners and workers earn no income
+1b5lkyeknxw Their opportunity pay is already included in the costs.
+imw4diyqxp The factors already receive their opportunity pay
+xhkwozt75e Revenue covers the relevant explicit and implicit costs.
+1lw735w1e9b C = 10 + q², q = 6, p = 12. What producer surplus R − VC?
+1kvlc6gy2d2 72 − 36 = 36; it differs from the profit of 26 by FC = 10.
+gi9ljyv398 The inputs must really allow producing what is required.
+261ktxtkw2n An unbalanced mix allows a cost saving for the same output.
+16c4n7econc The bill, the cost per unit and the cost of the next unit answer three different questions.
+1l93fdsn5t The firm chooses q, but a capacity or a shutdown can make the optimum non-interior.
+gsy0i3qq10 The truly avoidable costs and the opportunity alternative determine the decision.
+1m22q0ard5p A firm's short-run result does not automatically describe the market in the long run.
+1msq6zgrk5t Diminishing MPL measures the effect of more labour with capital fixed. Returns to scale increase all inputs: Q = √(KL) has diminishing MPL but doubles Q when K and L double. A price-taking firm looks for a candidate p = MC, then checks constraints and shutdown. With C = 16 + 4q + q², p = 6 and an unavoidable fixed cost, q = 1 gives R = 6, VC = 5 and a loss of 15. Shutting down costs 16: producing limits the loss. If the fixed cost were avoidable, shutting down at zero profit would be better.
+jtu820v5cw Define the technology and the target output
+1962prtp7ty Equalise marginal productivity per euro if the interior allows it
+308y39va9g Build total, average and marginal without confusing them
+28u3sstryle Compare marginal revenue and marginal cost with the constraints
+1nusxvj0xap Compare producing, shutting down and exiting over the right horizon
+1z7m36498g1 Add up supplies and think about entry
+1iyno5iojv Your friend wants to close every firm that makes a loss and claims that diminishing MPL means decreasing returns to scale. Correct both ideas with numbers and explain what the right decision of a price-taking firm would be.
+n9udihrgaz One fixed input versus all inputs
+1nhbovzt657 The marginal product and returns to scale vary different things.
+128bgmm3udc p = MC for an interior candidate
+1mvn5au6xqm The next unit brings in p and costs MC, under the model's conditions.
+w218ey6t5p Compare R with VC if FC is unavoidable
+1qxs9epqxsb Producing can cover part of the fixed cost and limit the loss.
+u5hzprfixr Compare the losses available
+gybe9el9d0 −15 can beat −16; zero is not always an option.
+1342t1i8ea6 A loss is not enough: if the fixed cost is unavoidable, compare producing with the fixed loss from shutting down.
+29qoznhybqn The first test keeps other inputs fixed; the second multiplies all inputs.
+1qmausk857o Fixed means independent of volume; check separately whether it is avoidable in the alternative.
+kvphrrzvl1 Practice constructed from L5–L6 and the formats of finals E2020 Q5/E2025 Q5. The cost function is a teaching variant; solution recomputed, not official.
+1663vlomqj6 MC = 4 + 2q = 14 ⇒ q = 5. R = 70, VC = 45, C = 65. Profit = 5, PS = 25.
+26krc67719o Distinguish unavoidable fixed from variable; write MC.
+28l3l9woiny Find q with p = MC, check the maximum and non-negativity.
+ovhtq38syv Compute R, VC, C, π and PS without confusing them.
+9na023jg9w Compare profit levels with shutdown, then apply the long-run benchmark only under its assumptions.
+18t1832a3lr p = 8 ⇒ q = 2; R = 16, VC = 12, C = 32, π = −16 > −20 when shut down.
+2bsacs7o5uu ATC = 20/q + 4 + q; derivative = −20/q² + 1 = 0 ⇒ qLR = √20.
+2c2ur741omr pLR = ATC(qLR) = 4 + 2√20 ≈ 12.944; zero economic profit.
+1xzsmiu7qhz q horizontal and money per unit vertical: MC = 4 + 2q, AVC = 4 + q, ATC = 20/q + 4 + q.
+1uydr33hz6a At p = 14, q = 5 and the profit rectangle (p − ATC)q = 5.
+1hk037qjt1d At p = 8, q = 2 and p lies between AVC = 6 and ATC = 16: a loss of 16 but a positive variable contribution.
+o1ah0rrgr2 The minimum of ATC marks the long-run entry benchmark; it is not the short-run shutdown threshold.
+1cin3xhbgd1 MPL and APL mean…
+11ddp7v9k1c Two ways of writing Q/L
+gip08ledit Q/L is only the average product.
+87jyhizbyz Extra output of the marginal worker; output per worker on average
+1sx5zagcaya A difference and a ratio answer two distinct questions.
+26vbwmycx9g Returns to scale test…
+9raqiymhv4 More L with K fixed
+1cgk1jkdv1h That is the test of the marginal product of labour.
+utha6palst A proportional change in all inputs
+nji29qsbso We compare f(tK,tL) with t·f(K,L).
+y42zf19sjg Why produce with AVC < p < ATC and unavoidable FC?
+1c7j1w26if2 The firm necessarily makes a positive profit
+vgw39uzddn p < ATC still means a loss.
+240plswdmk9 R covers VC and part of FC, limiting the loss
+1tonyb359o4 Shutting down leaves the whole fixed loss.
+18kmo5kfjae Rebuild an industry's reaction to higher demand, with free entry and constant costs.
+b9z80vfch8 Higher demand raises the price in the short run
+oj0umvj9mi Positive economic profits attract entry
+t6kw3qwgra Market supply shifts right
+2f275kdhlaf The price returns towards min ATC and economic profit towards zero
+1tfi9xasc38 C = 12 + q², p = 10. Compute q*.
+2knmfy1oc5 MC = 2q, so q = p/2 = 5; π = 50 − 37 = 13 > −12 when shut down.
+jrfd02hvfs C = 30 + q² at q = 3. Compute AVC.
+2ee7olq85i7 VC = 9; AVC = 9/3 = 3, without FC.
+1t8fvri33nv Q = √(KL), Q̄ = 12, w = 4 and r = 1. Find the minimum cost.
+1xz9cdw5hg FC rises but stays unavoidable, p and VC unchanged. The interior q chosen…
+7v56ojkky9 Rises to spread the fixed cost over more units
+1r1cw5i2p7r This averaging reasoning does not replace profit maximisation at a given price.
+16j5h62exyn Does not change if the decision to produce stays relevant
+2f7aimpfzff MC is unchanged; the fixed cost changes π, not the marginal condition.
+x66tyhjmim Unavoidable fixed cost
+2bj8kslcrdb Covering VC
+21ewsd5axnz Q = √(KL) provides a counterexample.
+16i2714kgit One fixed input versus all inputs rising: two experiments.
+icq7foe67d I distinguish MP, AP, MRS and MRTS.
+1z3ed7e4kml I can name the actors, the axes and what stays constant.
+23shbrcfgk3 I minimise a cost with a technology and input prices.
+1y0wtichus1 Tangency is not enough without the physical target and the constraints.
+1c9y4oyq5su I separate diminishing marginal product from scale.
+1xt531pb860 I know which experiment varies one factor or all factors.
+2bi7ogvxdag I fill in TC, FC, VC, ATC, AFC, AVC and MC.
+2788k6a8hu1 I confuse neither average and marginal, nor derivative and the cost of a whole unit.
+1bdopr6xr7v I justify q with p = MC and check the boundaries.
+qnq9705f6c Capacity, constant cost, shutdown and non-negativity can change the method.
+1m734mx6wsh I compare shutting down and producing on the avoidable costs.
+294zlkvpsxx A loss can be the best option available in the short run.
+1bi9htnwxiy I link individual supply, entry and economic profit.
+vwaqewwxlk I add up non-negative quantities; zero profit includes opportunity costs.
+8st00rbno9 Surplus and policies — follow every euro
+rhyh5dpxuf Surplus, incidence and deadweight loss
+27rn84jibgc A tax takes money from someone. But is all that money lost? Follow the buyers, the sellers and the state before shading the triangles.
+1kc5vco99dk Buy the units worth at least their price.
+1e5hmukh2mh Keep some value after paying.
+185j6gvaofn Produce when the net price covers marginal cost.
+xd6c0q1iwx Cover their costs and keep a surplus.
+vaqjk8xjzn Counts everyone's real gains and costs.
+4hif064kfa Avoid confusing a transfer with destruction.
+1k1c2df99br Levies or funds a policy.
+80anhm7s4p Know its budget and the effects of its rule.
+25981xyhm2h One purchase: two possible gains
+cjgzsfjfjd A customer values a unit at 20. A seller can produce it for 12. If they agree on 16, each gains something compared with not trading; the payment passes from one pocket to the other.
+1j4m4di812c The total surplus of this unit is WTP−MC = 8. The price splits this gain but does not create a resource by itself.
+2g81j40r5sf The buyer receives a value of 20 but gives up 16: they keep 4.
+a54j4tpqh7 The seller receives 16 but uses resources worth 12: they keep 4.
+20m80rssfqm Adding up, the payment of 16 disappears: real value minus real cost leaves 8.
+1ndowdmag1j If the price goes from 16 to 18 for the same unit, the gains become 2 and 6; the total stays 8.
+2dd9625jniw You negotiate the price: try to get a better share of the 8, without claiming to have created 8 more.
+lbzi7cwmtq Value 20, cost 12, price 18: what is the TOTAL surplus of the unit?
+1jk5u496ogj 20−12 = 8; 18 is a transfer.
+1d8g37dykbd 2 is only the customer's gain.
+8z6j644huv 6 is only the seller's gain.
+j86vovoru1 Where does trade stop?
+1vmo0slw3jt The most interested customers buy first. To serve more people, sellers use more costly resources. They stop agreeing when the value of the next unit meets its cost.
+rfbd7kzsaf Under competition with no other failure: p_D = 23−Q and p_S = 2+2Q; equilibrium satisfies p_D = p_S.
+1a40p0lsfxo Before Q = 7, demand lies above cost: one more trade can make both gain.
+2a1rd5fpz4k After Q = 7, the cost exceeds the value: producing more would destroy surplus.
+4f2oh29r7m 23−Q = 2+2Q gives 3Q = 21, so Q = 7 and p = 16. At Q = 8, value 15 and cost 18: the extra unit is not worth its resources.
+26bvv0g3k1v You want to order one more unit: would you agree to pay 18 for a value of 15?
+1srs79arjqj With D = 23−Q and S = 2+2Q, compute Q with no policy.
+yl3rpsi8qu 16 is the price, not the quantity.
+xw3jb9dm3v L7: buyers' value and sellers' cost
+2a1fhw6dm7d Q: units traded
+3t0uq6qmjq Price / value / cost per unit
+27u7egxiybm Demand 23−Q; supply 2+2Q. Without a tax Q = 7, p = 16. With t = 3: Q = 6, buyer 17, seller 14. The vertical distance at the same Q is the tax.
+10nx37md2eo Value of the next unit for buyers.
+nv88zdh6ze Real cost of the next unit for sellers.
+1t2t9gz57op Buyer price needed to pay the seller and the tax of 3.
+6aplaa5x5g Without a tax
+1bgn8bb2hvk The customers' gain is an area
+17wgrrfjh4a Not all customers value their purchase at exactly 16. The keenest would have paid nearly 23, while the last one just accepts 16. Their gains added up form an area above the price paid.
+1pfftpg9xb8 Consumer surplus (CS): total value minus spending. Here CS = (23−16)×7/2 = 24.5, with allocation to the highest WTPs.

@@ -1,0 +1,107 @@
+======================================================================
+4. KONSUMENT, PREFERENSER, BUDGET OCH EFTERFRÅGAN — L3–L4
+======================================================================
+
+4.1 Preferenser och nytta
+Fullständighet: två varukorgar kan alltid rangordnas, indifferens inräknad.
+Transitivitet: om A föredras framför B och B framför C, föredras A framför C.
+Icke-mättnad / more-is-better: mer av önskvärda varor föredras.
+Ordinal nytta: U rangordnar korgar; en nytta på 100 betyder inte
+dubbelt så mycket lycka som en nytta på 50. En strikt
+växande transformation representerar samma preferenser.
+Exempel L3: U(E,F)=sqrt(EF), med E entertainment, F food.
+U=EF ger samma rangordning för positiva E,F; de numeriska nivåerna
+och derivatorna ändras, inte de optimala valen.
+
+MU_x = partiell derivata av U med avseende på x: marginalnyttan av vara x.
+Avtagande marginalnytta: en extra enhet tillför allt mindre
+nytta, vid given kvantitet av den andra varan. Blanda inte ihop denna
+egenskap med nyttans ordinala karaktär.
+
+Indifferenskurva: korgar som ger samma U. Under vanliga preferenser
+är den fallande, konvex mot origo och korsar inte en annan kurva
+för samma konsument; kurvor längre åt nordost föredras.
+Två önskvärda varor: positiv lutning är oförenlig med more-is-better.
+Om te är horisontellt och kaffe vertikalt, horisontella indifferenskurvor: bara
+kaffet spelar roll; te ger ingen marginalnytta (L3 p.10).
+
+4.2 MRS och budget: byt aldrig axlar utan att anpassa kvoterna
+Med x horisontellt och y vertikalt, längs en indifferenskurva:
+0=MU_x*dx+MU_y*dy ->dy/dx=-MU_x/MU_y.
+MRS_xy=MU_x/MU_y, absolutbeloppet av denna lutning: den mängd y som
+konsumenten är villig att avstå för en extra enhet x.
+I L3 F horisontellt och E vertikalt: lutning=-MU_F/MU_E.
+
+Budget p_x*x+p_y*y <= I; likhet i optimum vid icke-mättnad och positiva priser.
+y=I/p_y-(p_x/p_y)*x; skärningspunkter x=I/p_x och y=I/p_y.
+Inkomsten ökar: parallellförskjutning utåt, oförändrade priser.
+Priset på x ökar: y-skärningen oförändrad, x-skärningen minskar, brantare budget.
+En prisförändring minskar köpkraften; den ändrar inte nödvändigtvis
+den nominella inkomsten I.
+
+4.3 Inre optimum
+Max U(x,y) givet budgeten. Vid en inre tangeringspunkt:
+MU_x/MU_y=p_x/p_y, dvs. MU_x/p_x=MU_y/p_y.
+Intuition: den sista euron ger samma marginalnytta i båda
+användningarna. Annars höjs U av att flytta lite utgifter till den bättre användningen.
+Använd villkoret TILLSAMMANS MED budgeten, inte i stället för den.
+Det förutsätter en inre lösning och tillräckligt
+regelbundna preferenser; jämför hörn och knäckar vid behov.
+
+Räknekomplement, Cobb-Douglas U=x^alpha*y^beta, alpha,beta>0:
+x*=alpha/(alpha+beta)*I/p_x; y*=beta/(alpha+beta)*I/p_y.
+Motivering: MRS=(alpha/beta)*(y/x)=p_x/p_y, sedan budgeten.
+För U=xy: halva inkomsten på varje vara, inte halva antalet enheter.
+
+4.4 Perfekta substitut och komplement
+Perfekta substitut U=ax+by: MRS=a/b konstant; jämför a/p_x med b/p_y.
+Allt på x om a/p_x>b/p_y; allt på y i omvänt fall; varje blandning på
+budgetlinjen är optimal vid likhet. En unik tangering krävs inte.
+Exempel L4 p.10: 2 macchiato motsvarar 1 cappuccino, samma priser:
+köp bara cappuccino, mer nytta per euro.
+Perfekta komplement U=min(x/a,y/b): välj i knäcken x/a=y/b,
+eftersom omatchade enheter inte tillför något. Exempel vänster/höger sko.
+För ett par 1:1: x=y=I/(p_x+p_y).
+
+4.5 Efterfrågan och inkomst
+Räkna om optimum för varje pris på x, med I och de andra priserna
+konstanta; paren (p_x,x*) ritar den individuella efterfrågan.
+Engelkurva: optimal kvantitet som funktion av INKOMSTEN, konstanta priser.
+Normal vara: kvantiteten ökar med I; inferiör: minskar med I.
+Samma vara kan vara normal vid låg inkomst och inferiör vid hög inkomst
+(L4 exemplet med vandrarhemsnätter).
+Lyxvara: inkomstelasticitet >1; normal nödvändighetsvara: mellan 0 och 1.
+Dessa beteckningar rangordnar inte varans inneboende kvalitet.
+
+4.6 Substitution, inkomst och kompensation
+En prishöjning gör x relativt dyrare: substitution mot y.
+Den minskar också köpkraften: inkomsteffekt.
+L4 p.11–13: skatt på bensin, sedan en klumpsummeöverföring som precis räcker för
+att nå den GAMLA indifferenskurvan till de NYA priserna. Nyttan kan
+bibehållas medan bensinkonsumtionen minskar genom substitution.
+Överföringen tar inte bort det nya relativpriset.
+E2022 Q5: överföring som gör det möjligt att köpa den GAMLA KORGEN efter att
+en livsmedelssubvention tagits bort. Den gamla korgen förblir åtkomlig; med en
+gammal inre lösning och en strikt konvex indifferenskurva
+ger ett nytt val på den nya budgeten oftast högre nytta.
+Gammal korg åtkomlig och gammal nytta precis uppnådd är två
+olika kompensationskriterier. Den allmänna garantin är ”inte sämre
+ställd”; strikt förbättring kräver tangerings-/hörnvillkor.
+
+4.7 Marknadsefterfrågan
+QD(p)=summa_i max(0,q_i(p)). HORISONTELL summering vid givet pris.
+L4 p.19: q_H=10-p, q_L=5-p.
+QD=0 för p>=10; QD=10-p för 5<p<10; QD=15-2p för 0<=p<=5.
+Den aggregerade inversa efterfrågan har en knäck; kontrollera segmentet för varje optimum.
+
+4.8 Beteende, sociala preferenser och begränsningar
+L3: nyttan kan omfatta altruism, status, respekt, stolthet och illvilja.
+Att maximera nyttan är alltså inte detsamma som att maximera enbart sin egen konsumtion.
+Ultimatum game: ett positivt penningbud kan avvisas av rättviseskäl.
+Bristande självkontroll: omedelbar belöning mot framtida intresse.
+Heuristiker: enkla regler när optimering är svår.
+Loss aversion: förluster kan väga tyngre än jämförbara vinster.
+Framing: hur ett val presenteras påverkar beslutet.
+Overconfidence: överdriven tilltro till egen förmåga/information.
+Sociala preferenser i A3: omvandla penningutfall till NYTTOR
+innan du söker bästa svar.

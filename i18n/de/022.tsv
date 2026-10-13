@@ -1,0 +1,224 @@
+1eizah3tc14 Zieht Y zuerst, bleibt X nach gerüstetem Y ungerüstet, weil 1>−1, rüstet aber nach ungerüstetem Y auf, weil 4>3. Y erwartet 2 beim Aufrüsten gegenüber 1 ohne Rüstung und entscheidet sich daher fürs Aufrüsten. Eine Drohung von X, um jeden Preis aufzurüsten, wäre nach gerüstetem Y nicht glaubwürdig.
+29nqhfs09uk Rückwärtsinduktion mit umgekehrter Reihenfolge: Ergebnis (1,2). Eine glaubwürdige Drohung muss im Moment ihrer Ausführung optimal bleiben; eine Selbstbindung kann die Kosten oder Möglichkeiten verändern.
+vsn6ingc15 Y wählt, indem es die Nettoauszahlung seiner eigenen Wahl nach der Reaktion von X antizipiert.
+jud96hhbxl Ein unverbindliches Versprechen verwandelt −1 nicht in eine Auszahlung über 1; eine echte Bindungsregel muss die Anreize oder Optionen ändern.
+18yzwcn0vsj Y zuerst: Strategie X=(nach gerüstetem Y nicht aufrüsten; nach ungerüstetem Y aufrüsten). Y rüstet auf und erhält 2, X erhält 1.
+hbl81bo0x9 Beurteile die Drohung deines Gegners aus dem Moment heraus, in dem er sie ausführen müsste, nicht aus dem Moment, in dem es ihm passt, sie anzukündigen.
+nzv9dytw3 Wenn Y zuerst zieht: Welches Ergebnis und welche Nettoauszahlungen folgen aus der Rückwärtsinduktion?
+10t2182se3y Nur Y gerüstet; (X,Y)=(1,2)
+2bu4fy291hx X antwortet auf gerüstetes Y nicht mit Aufrüstung; Y zieht 2 der 1 vor, die es ohne Rüstung bekäme.
+19cqdkzoo7c Nur X gerüstet; (4,1)
+1oi3absnr34 Das ist das Ergebnis, wenn X zuerst zieht. Die umgekehrte Reihenfolge ändert die Anfangsrechnung.
+1x8pbp6hlz9 Beide gerüstet; (−1,−3)
+1nwmdwre3eg Nach gerüstetem Y zieht X 1 der −1 vor und rüstet nicht auf.
+1x1wehep36j Eine beste Antwort vergleicht deine Handlungen in ein und demselben Szenario des Gegners.
+20wmred41yw Eine Handlung, die mit dem Maximum gleichauf liegt, bleibt optimal.
+2bz0c7t8gkn Kein Spieler verbessert dann seine Auszahlung durch einseitiges Abweichen: Das ist Nash.
+94hfji3lv4 Der Führer antizipiert die Antworten, auch nach einer Handlung, die er nicht spielen wird.
+tix6l0y2l0 Eine Drohung muss eine optimale Wahl bleiben, wenn die Situation eintritt.
+1ebmg4ypue6 Ein Nash ist stabil gegen eine einseitige Abweichung: Beim egoistischen NN lässt ein alleiniger Wechsel zu S deine Auszahlung bei 0. Beide könnten bei SS 10 verdienen, aber das erfordert eine koordinierte Änderung, also unterscheiden sich Stabilität und Effizienz. Bei gleichem Altruismus zählt das Geld des anderen: Allein von N zu S gegen N zu wechseln gibt dir Nutzen 20, also ist NN kein Nash mehr. Im sequenziellen Spiel wählt man den optimalen Plan des Folgers nach jeder möglichen Handlung, dann antizipiert der Führer diese Antworten. Das Ergebnis ersetzt nicht die Strategie abseits des Pfads.
+klci9jbun8 Die mögliche Handlung des Gegners festhalten
+9f8mzq0meb Alle deine Auszahlungen vergleichen und Gleichstände behalten
+28y4tasel5d Gegenseitige beste Antworten suchen
+1j1qorodv3z Bei sequenziellem Spiel den Folger überall lösen
+niwam5f8pn Glaubwürdigkeit am Ausführungsknoten prüfen
+1s4xzk5j05l Erkläre, warum NN Nash sein kann, ohne für beide gut zu sein, und dann, warum NN bei gleichem Altruismus kein Nash mehr ist. Schließe mit dem Unterschied zwischen Ergebnis und vollständiger Strategie in einem sequenziellen Spiel.
+8vy8a641l1 Die eigene Auszahlung gegen den festgehaltenen Gegner
+14njauy6nqp Eine Abweichung ändert nur deine Handlung.
+u8dpcux70a Gleichstände behalten
+16ytj3yljhz Nash schließt strikte Verbesserungen aus, nicht Wechsel mit gleicher Auszahlung.
+pf748d78hg Stabilität und Effizienz getrennt
+vc3g16wgnr Eine Verbesserung zu zweit ist keine einseitige Abweichung.
+1z0jp0t2n44 Auszahlungen in Nutzen umrechnen
+8p588exx8k Bei gleichem Altruismus gibt ein Wechsel zu S gegen N Nutzen 20 statt 0.
+1wsxc0vmcfd Der ganze Plan des Folgers
+1dml9j6fxua Eine Strategie umfasst die Handlungen abseits des Pfads und wird rückwärts gelöst.
+go0o6gdddo Nash schließt einseitigen Gewinn aus; Effizienz vergleicht kollektive Änderungen.
+vwayodjpmf Im egoistischen Spiel bringen N und S gegen N beide 0: N ist schwach dominant.
+q3289vpip5 Teste eine Abweichung zu S gegen N: Der andere erhält 20 und dein Nutzen steigt von 0 auf 20. NN ist kein Nash mehr.
+1zoz6y05snn Übung, aufgebaut aus den in §13 geprüften A3-Matrizen. Sie korrigiert ausdrücklich die Fallen der persönlichen Lösung; keine Musterantwort wird als offiziell ausgegeben.
+vckh83qy15 Was bedeutet BR?
+1nljyeyrrkz Best response: beste Wahl gegenüber einer gegebenen Handlung des Gegners
+sgn5ep8m31 Man hält den Gegner fest und maximiert die eigene Auszahlung.
+ibicievo6w Biggest revenue: größtes Feld der Tabelle
+7z3c1qawen Du kontrollierst nicht beide Spieler, und Auszahlungen sind nicht unbedingt Erlöse.
+5f6ck8nrhp Eine sequenzielle Strategie enthält …
+8a7sp1vqpr Eine Handlung an jedem Knoten, an dem der Spieler entscheiden könnte
+1zsefxc075u Einschließlich der im Gleichgewicht nicht erreichten Knoten.
+1t3g48qjkd8 Nur das beobachtete Ergebnis
+532ro2i5t6 Der Führer muss die alternativen Zweige antizipieren können.
+25wmki1e20r Baue den Test für reines Nash neu auf.
+2axpnmjn5gi Eine Handlung des Gegners festhalten
+2ajnciqaqlg Alle eigenen Handlungen vergleichen und Gleichstände behalten
+j30kqogmey Für den anderen Spieler wiederholen
+1ffx9u0bg6g Die Felder gegenseitiger bester Antworten bestimmen
+1uojyedg7t0 Baue die Rückwärtsinduktion neu auf.
+ltt6u43zbg Die Nettoauszahlungen an den Endergebnissen berechnen
+1sjtmrxkcxk Die optimale Wahl des Folgers nach jeder möglichen Handlung bestimmen
+ymilfgkrd7 Den Führer unter Antizipation dieser Antworten wählen lassen
+c85a4yvfrr Das vollständige Profil, auch abseits des Pfads, und das Ergebnis angeben
+18whjqkhhmq Bei SS mit u_i=m_i+2 m_j und Geld (10,10): Welchen Nutzen hat jeder Spieler?
+via7nby7xf Y, als einziges gerüstet, erhält 5 Öl und zahlt 3. Seine Nettoauszahlung?
+1r3z2wx04g5 5−3=2. Schreib ihm nicht die Auszahlung 1 des ungerüsteten Spielers zu.
+dcsbmrtffx Ein Unternehmen droht mit einem Preiskrieg, der ihm nach erfolgtem Eintritt weniger einbrächte, als den Eintritt hinzunehmen. Ohne zusätzliche Selbstbindung ist die Drohung …
+8lno0qmybm Nicht glaubwürdig
+20oehqysmwt Es hätte am betreffenden Knoten kein Interesse, sie auszuführen.
+25tw8mvvpsp Glaubwürdig, weil sie öffentlich angekündigt wird
+1on5hen4c8g Eine Ankündigung allein ändert die Auszahlungen nicht; man muss erklären, was das Unternehmen tatsächlich bindet.
+oh1m1frpnj Ein Spieler zieht 1 von seinem Nutzen ab, wenn er weniger als sein Gegner erhält. Warum muss man die besten Antworten neu bestimmen?
+1maddkpquhu Die Nutzenmatrix ändert sich, auch wenn das verteilte Geld gleich bleibt
+1p1d7irbx3p Die Strategien maximieren diese neuen Nutzen; eine alte Indifferenz kann verschwinden.
+d7xflnjc93 Die Rüstungskosten ändern sich zwangsläufig
+ukv9ytcr0z Das Beispiel ändert die Präferenzen, nicht unbedingt eine Ressource oder Handlungskosten.
+rzkzcuumsw Ein Nash hängt nur vom Namen der Handlungen ab
+hrcy6gxje8 Es hängt von den Auszahlungen und der Information des Spiels ab.
+116rhun5a2k All possible decision nodes
+4yocqkl0v0 Off-path choices
+16shnpjmoas Optimal continuation
+mjui28e8ex Compare against Split
+upo1sgn57v Tie against Steal
+1zdy3r8iu03 Die Matrix lesen und dabei den Zeilenspieler zuerst nehmen.
+1vjipad5xgj Eine Auszahlung des anderen darf nicht über deine Wahl entscheiden.
+fmbq2e7opc Beste Antworten bei Gleichstand behalten und schwache/strikte Dominanz unterscheiden.
+20rg9q6lcp3 Gleichstände ändern die Liste der Nash-Gleichgewichte.
+18hnzgpuj58 Die Nutzen neu berechnen, wenn sich die Präferenzen ändern.
+13xrgi9x8xi Gleicher Altruismus macht NN zu keinem Nash, entgegen der gemeldeten persönlichen Lösung.
+pq9rougodl Jeden Knoten des Folgers lösen und die Antworten abseits des Pfads angeben.
+25qwzfl0cmh Ein Ergebnis allein ist keine vollständige Strategie.
+24vi7f5k5d0 Nettoauszahlungen und Glaubwürdigkeit im Moment der Ausführung prüfen.
+1vsez0ssnx5 Rüstungskosten und tatsächliche Reaktionen müssen einbezogen werden.
+xb4abmwpjm Prüfungsergänzungen — Handel, Plattformen, Auktionen und Tausch
+8je5n2uywq Die Regeln erkennen und ihre Grenzen prüfen
+1p3tps6iak7 Diese Themen sind in Altklausuren belegt, ihre vollständigen Vorlesungen fehlen aber im Korpus. Rekonstruiere Entscheidungen, relative Preise und Regeln vor den Rechnungen.
+x66mdyjy6 Du, Käufer / Land North
+10bge1ykh3c wählt eine Aufgabe, einen Kauf oder einen Tausch
+2gi063xujay mehr Wert erhalten als die geopferte Alternative
+62i6shgmfg Der Verkäufer / Land South
+24pqgl8ebos produziert oder schlägt einen Tausch vor
+1mh7a4e6312 seine Kosten decken und einen Gewinn erzielen
+5wi1cl3x7i Die andere Marktseite
+688btgi24f nutzt eine Plattform oder gibt ein Gebot ab
+1ly0ytal62e eine profitable Interaktion finden
+8bchysbzsb hält Summen, Regeln und Annahmen sichtbar
+2gnpv4g5de4 aggregierten Gewinn, privaten Gewinn und Effizienz unterscheiden
+1ekwhp96dfi Der Staat / die Plattform
+23gblpk7lqf legt Zoll, Zugang oder Auktionsregel fest
+11hf8346rm7 die Reaktionen verstehen, die eine Regel auslöst
+1ckgu10q804 Vier Prüfungskontexte, eine Denkdisziplin
+1hlxoo84ezh Du kannst auf Handel, eine Plattform, eine Auktion oder einen Snack-Tausch stoßen. Diese Themen kommen in Altklausuren vor, auch wenn ihre vollständigen Vorlesungen nicht in den geprüften Dateien sind. Wir rekonstruieren also die belegten Werkzeuge und trennen sichere Annahmen von solchen, die man angeben muss.
+rsniva0284 Prüfungsergänzungen §14: Handel, Plattformen, Auktionen und Edgeworth. Die folgenden Modelle sind im Dossier dokumentiert; dieser Kurs gibt nicht vor, fehlende Folien zu rekonstruieren.
+156ls6aa5i4 Der Name des Themas reicht nicht: Eine Erstpreisauktion löst man nicht wie eine Zweitpreisauktion.
+2fbtb555gff Eine qualitative Frage kann einen präzisen Mechanismus verlangen, ohne genug Daten für eine einzige Zahl zu liefern.
+15bpgmsreqa „Ein Wetterschock betrifft alle Kosten“ verrät für sich allein nicht, wer welches private Signal beobachtet; man kann nicht automatisch auf einen winner’s curse schließen.
+12eo4m2ib40 Lies die Aufgabe wie einen Vertrag: Wer wählt, wer weiß was, welche Regel, welche Einheiten? Erst dann wählst du das Werkzeug.
+2272whsitw9 Warum darauf hinweisen, dass die vollständigen Folien zu diesen Themen fehlen?
+217lt7kbgof Um belegte Werkzeuge von didaktisch ergänzten Annahmen zu unterscheiden
+1b4wn8fykqq Die Übung bleibt nützlich, darf aber nicht die Autorität einer fehlenden vollständigen Vorlesung erfinden.
+1m7qnylqbqd Um diese Themen aus der Wiederholung zu streichen
+qdwxhu4i8b Sie kommen in Prüfungen vor und müssen daher geübt werden.
+p8p5reeu7b Um jede Formel als universell zu betrachten
+vch28xvc0p Im Gegenteil: Modell und Grenzen müssen explizit gemacht werden.
+uxfz6ejcdo Überall der Beste zu sein sagt nicht, wofür du deine Zeit einsetzen solltest
+ytfzl5ak1c Esther erstellt eine Datenanalyse in 1 Stunde und einen Text in 2 Stunden. Abhijeet braucht 2 Stunden für die Analyse und 6 für den Text. Esther ist überall schneller, aber ein Text kostet Esther nur 2 geopferte Analysen, gegenüber 3 für Abhijeet: Dieser relative Vergleich leitet die Spezialisierung.
+1hvmsqk0uuq Absoluter Vorteil: weniger Inputs pro Einheit. Komparativer Vorteil: geringere Opportunitätskosten. E2020 gibt Esther den komparativen Vorteil beim Schreiben und Abhijeet bei der Analyse.
+o73oydekem Zeit, die für eine Aufgabe verwendet wird, steht für die andere nicht mehr zur Verfügung: Das ist die geopferte Alternative.
+lck3gn1pe8 Selbst wer überall weniger produktiv ist, kann einen komparativen Vorteil bei der Aufgabe haben, bei der der relative Rückstand am kleinsten ist.
+24v1xfmgeeq Esther: Kosten eines Textes=2 h/(1 h pro Analyse)=2 Analysen. Abhijeet: 6/2=3 Analysen. Umgekehrt kostet eine Analyse Esther 0,5 Texte und Abhijeet 1/3.
+1lk483ja3ag Du bist Esther: Frag nicht nur „Bin ich schneller?“, sondern „Welche andere Produktion verliere ich, wenn ich diese Aufgabe übernehme?“.
+svcs8u96fr Esther braucht 2 h pro Text und 1 h pro Analyse. Wie viele Analysen kostet ein Text?
+1mw3afbnjje Analysen / Text
+1u0vcpifi1w 2 Stunden Text hätten 2 Analysen ergeben; Opportunitätskosten 2.
+1cuucfixtze 0,5 sind die Kosten einer Analyse in Texten, das umgekehrte Verhältnis.
+1ko32c9ccp6 Von Stunden pro Einheit zu geopferten Einheiten: Achte auf die Richtung des Verhältnisses
+fq6h3lngwm Northland braucht 3 Stunden pro Einheit Weizen und 6 pro Einheit Elektronik. Southland braucht 4 und 2 Stunden. Eine Einheit Weizen zu produzieren beansprucht in Northland also die Zeit von 0,5 Elektronik, in Southland die von 2: Northland opfert weniger Elektronik für Weizen.
+248cy7xwj5r Wenn a_W und a_E Stunden pro Einheit sind, gilt OC(W in E)=a_W/a_E. North hat den komparativen Vorteil bei Weizen, South bei Elektronik.
+1j1mi05cfui Wie rechnet man 3 Stunden Weizen in geopferte Elektronikeinheiten um, wenn eine Elektronikeinheit 6 h braucht?
+1qiey9ziegc Die Stunden kürzen sich: 3 h/(6 h/E)=0,5 E.
+j59ib39uav Das ergibt die Kosten einer Elektronikeinheit in Weizen, nicht die einer Weizeneinheit in Elektronik.
+p7af4nwnkv Der Zähler ist die Zeit, die das Gut braucht, dessen Kosten du suchst.
+p99cqis1dd Der Nenner rechnet diese Zeit in Einheiten des anderen Guts um; die Einheiten deiner Antwort helfen, eine Umkehrung zu erkennen.
+257w8lt40i3 South: OC_W=4/2=2 E/W; OC_E=2/4=0,5 W/E. Die Symmetrie der Preisintervalle bei diesen Zahlen ist Zufall.
+1iiqsdmslhw Schreib die Einheiten „E pro W“ neben das Verhältnis, bevor du rechnest: So wird eine Umkehrung sichtbar.
+19vgqfbxakr South braucht 4 h pro Einheit Weizen und 2 h pro Elektronikeinheit. Welche Opportunitätskosten hat eine Einheit Weizen in Elektronik?
+w21jq0rae0 4/2=2 Elektronikeinheiten pro Einheit Weizen.
+o9gm2vy50j 0,5 sind die Kosten einer Elektronikeinheit in Weizen.
+kb0ykvc1pr Deine Grenze beschreibt, was du produzieren kannst, nicht alles, was du konsumieren kannst
+1gmy2afm1py Northland verfügt über 120 Stunden. Alles in Weizen zu stecken ergibt 40 Einheiten, alles in Elektronik 20. Die Bündel dazwischen schöpfen die verfügbare Zeit aus; Importe erlauben dann, ein anderes Bündel zu konsumieren als das produzierte.
+wajbn19s3a PPF North: 3 W+6 E=120 ⇒ E=20−0,5 W. South: 4 W+2 E=120 ⇒ E=60−2 W. Die Steigung drückt die Opportunitätskosten von W in E aus.
+18995h959r9 Die Restriktion zählt Stunden: Jeder Term ist Menge×Stunden pro Einheit.
+25dk6w0lvg6 Ein nach dem Handel konsumiertes Bündel kann jenseits der heimischen PPF liegen, ohne dass das Land zusätzliche Stunden geschaffen hat.
+1hvyswervhw North produziert 40 W und 0 E; South 0 W und 60 E. Nach dem Tausch von 10 W gegen 10 E konsumiert North 30 W, 10 E und South 10 W, 50 E, Bündel, die in Autarkie 150 h bzw. 140 h erfordern würden.
+fcrdla261h Führe zwei getrennte Spalten auf deinem Blatt: Produktion unter der Restriktion, dann Konsum nach Exporten und Importen.
+26z0k0iqee1 Die beiden Produktionsgrenzen mit 120 Stunden
+18e4olb9c4f W=Einheiten Weizen, E=Einheiten Elektronik. Die Linien zeigen die produzierten Bündel, nicht die nach dem Handel konsumierten. Lineare Technologien aus dem Beispiel E2025.
+11q6bf2ysvc W: Einheiten Weizen
+1m216qz65y5 E: Einheiten Elektronik
+adofr4kawg North: 3 W+6 E=120
+8cfhz74u0b Eine Einheit Weizen kostet 0,5 Einheiten Elektronik.
+jeoznsft6t South: 4 W+2 E=120
+8agalgrhb3 Eine Einheit Weizen kostet 2 Einheiten Elektronik.
+19nlony2zro North konsumiert nach dem Handel
+1qu9aab589q South konsumiert nach dem Handel
+36r72o67sv Mit 120 h und 6 h pro Elektronikeinheit: Wie viel Elektronik kann North allein höchstens produzieren?
+11mqxs2jzbt 120/6=20; das ist der Ordinatenabschnitt seiner PPF.
+vcqjn1krqd 40 ist das Maximum an Weizen: 120/3.
+b8cnqxkib1 Ein Preis zwischen den beiden Opfern kann beiden passen
+o1id4wrzhb Northland ist bereit, eine Einheit Weizen für eine Einheit Elektronik herzugeben: Weizen kostet es in der Produktion nur 0,5 Elektronik. Southland ist bereit, eine Einheit Elektronik für eine Einheit Weizen herzugeben: Selbst eine zu produzieren würde es 2 Elektronik kosten. Derselbe Tausch kann also für beide vorteilhaft sein.
+1mctb3360cv Ein relativer Preis strikt zwischen den beiden Opportunitätskosten ermöglicht potenzielle Gewinne: hier 0,5<p_W/p_E<2. Nachfrage und Kapazitäten bestimmen die getauschten Mengen.
+26z9k3eyv13 North erhält pro Einheit Weizen mehr Elektronik, als es für die Weizenproduktion opfert.
+1rwk4dd7y South kauft Weizen mit weniger Elektronik, als es opfern müsste, um ihn selbst zu produzieren.
+1kxlilr2veq Zum Preis 1 E pro W: Den exportierten Weizen zu produzieren kostet North 3 h, gegenüber 6 h für die erhaltene Elektronik. South exportiert eine in 2 h produzierte E, statt 4 h für das erhaltene W aufzuwenden.
+aer889z72l Du bist North: Du exportierst Weizen nur, wenn die erhaltene Elektronik dein heimisches Opfer von 0,5 übersteigt.
+eiy7nmsg7f Welcher Preis für Weizen in Elektronik ist in diesem Beispiel für beide strikt vorteilhaft?
+24ofd60vzpv 1 E pro W
+23eecpf6l4u 1 liegt strikt zwischen 0,5 und 2.
+2e2q8qakig9 3 E pro W
+133ntnith71 South müsste 3 E für ein W hergeben, das in der eigenen Produktion nur 2 E kostet.
+rqq0w8jy4d 0,25 E pro W
+2a6da4xjmzo North erhielte weniger als die 0,5 E, die es für die Produktion des W opfert.
+6d1go8506o Der Weltmarktpreis zeigt den Importbedarf
+17bmw2cdrkc In einem kleinen Land können die Käufer das Gut zum Weltmarktpreis 30 erhalten. Zu diesem Preis fragen sie 50 Einheiten nach, während die heimischen Produzenten nur 10 anbieten. Die fehlenden 40 werden importiert: Die nationale Nachfrage muss nicht dem nationalen Angebot entsprechen.
+120hnr2op50 Mit p_D=80−Q und p_S=20+Q: Q_D(p)=80−p, Q_S(p)=p−20 im positiven Bereich. Importe M=Q_D−Q_S.
+18w3z41t4id „Kleines Land“ bedeutet hier, dass es den Weltmarktpreis als gegeben nimmt.
+j63x7rvlnj Die Gleichheit Angebot=Nachfrage betrifft den Markt einschließlich Importen, nicht nur die heimische Produktion.
+18au2ohtsow p_w=30 ⇒ Q_D=50, Q_S=10, M=50−10=40. In Autarkie: 80−Q=20+Q ⇒ Q=30 und p=50.
+x87ebkkfvj Du bist Konsument: Du kannst zum Preis 30 kaufen, auch wenn das Land nicht die gesamte nachgefragte Menge herstellt.
+1ovplpp4ut8 Kleines Importland: Weltmarktpreis, dann Zoll
+upj13nju97 Q in Einheiten des Guts; p in € pro Einheit. Die horizontalen Abstände zwischen Nachfrage und Angebot sind die Importe zum Weltmarktpreis und dann nach dem Zoll.
+1fk2szba0mb Q: heimische Einheiten
+1258wbb5fbt p: € / Einheit
+1dospzaebmv Nachfrage p=80−Q
+ze96gaualg Beim Preis 30 ist Q_D=50; beim Preis 40 ist Q_D=40.
+v0gall4j2e Angebot p=20+Q
+1yz14kdl8a2 Beim Preis 30 ist Q_S=10; beim Preis 40 ist Q_S=20.
+o7cg6psgy7 Weltmarktpreis 30
+26qnwrrr8uc Kleines Land: Sein Zoll ändert den Weltmarktpreis nicht.
+1ujdobk3ba Preis mit Zoll 10: 40
+2abiulget9r Solange das Land importiert, gilt p=p_w+τ.
+1vwrcayiikt Angebot bei Freihandel 10
+1ujtx0380yz Nachfrage bei Freihandel 50
+1y1gq7js730 Angebot mit Zoll 20
+1w62qgqsxds Nachfrage mit Zoll 40
+1dcoljb0odu Bei p_w 30 gilt Q_D=80−p und Q_S=p−20. Wie viel importiert das Land?
+ys4owy2of4 Nachfrage 50 minus Angebot 10=40.
+uidxwhmypk 60 addiert die Mengen, während die Importe ihre Differenz füllen.
+7gywyoxx6j 30 ist die Autarkiemenge, nicht die Importe zum Weltmarktpreis.
+1ercagxjf6a Der Zoll verschiebt zwei private Entscheidungen zugleich
+j212paj3mb Der Staat schlägt 10 pro importierter Einheit auf. Solange das Land Importeur bleibt, steigt der Inlandspreis auf 40: Heimische Produzenten stellen mehr her, Konsumenten kaufen weniger. Die Importe sinken über diese beiden Kanäle, nicht nur, weil eine Abgabe erhoben wird.
+1oduzt99qk8 Kleines Importland: p_dom=p_w+τ, Q_D=40, Q_S=20, M=20. Die Zolleinnahmen betreffen die tatsächlich verbleibenden Importe.
+qt3wffq4ev Die zusätzliche heimische Produktion wird zum höheren Preis rentabel, obwohl ihre Kosten über dem Weltmarktpreis lagen.
+1keljmcfhkv Manche Konsumenten verzichten auf Einheiten, die ihnen mehr als 30, aber weniger als 40 wert waren.
+234uxc06yr6 Nach Zoll 10: M=(80−40)−(40−20)=40−20=20; Einnahmen=10×20=200.
+1zjsm5fpqs7 Du bist im Ministerium: Multipliziere den Zoll nicht mit den alten 40 Importen, denn die Akteure haben auf den neuen Preis reagiert.
+xr8053mf18 Nach einem Zoll von 10 importiert das Land 20 Einheiten. Welche Zolleinnahmen?
+1vf7waho52q τ×M_nachher=10×20=200.
+255f2ss0hv4 400 verwendet die 40 Importe vor dem Zoll; sie sind gesunken.
+20ccr4xodh8 Die Abgabe wird weder auf die heimische Produktion noch auf den gesamten Konsum erhoben.
+1pxbiscno68 Was der Konsument verliert, ist für das Land nicht vollständig verloren
+a779ubg4x7 Der höhere Preis kostet die Konsumenten 450 an Rente. Die heimischen Produzenten gewinnen 150, der Staat 200; diese Gewinne bleiben im Land. Es fehlen noch 100: Das sind die in teurerer Produktion verschwendeten Ressourcen und die aufgegebenen nützlichen Tauschgeschäfte.
+1jbwzhxiylq Nationale Wohlfahrt=CS+PS+Zolleinnahmen. E2022: ΔCS=−450, ΔPS=+150, Einnahmen 200 ⇒ ΔW=−100; DWL=zwei Dreiecke.
+1q744m02hu6 Ein Teil des höheren Preises überträgt Rente von den Käufern auf Produzenten und Staat.
+1nbsri7goc3 Der DWL vergleicht echte Kosten und Nutzen: zu teure heimische Einheiten und weniger konsumierte Einheiten.
+29lgdhes2ac DWL=0,5×10×[(20−10)+(50−40)]=100. Oder −450+150+200=−100. CS geht 1250→800; PS 50→200.
+1vd22i2sxge Du addierst die Veränderungen des ganzen Landes; du erklärst die Steuereinnahmen nicht für „verloren“, nur weil sie aus deinem Portemonnaie kommen.
+29bp8hg760h Mit Zoll 10, Produktion 10→20 und Nachfrage 50→40: Wie groß ist der DWL?

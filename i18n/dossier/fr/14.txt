@@ -1,0 +1,121 @@
+======================================================================
+12. INFORMATION ASYMÉTRIQUE, CONTRATS ET INCITATIONS — L12
+======================================================================
+
+12.1 Identifier ce qui est caché
+Asymmetric information : une partie sait quelque chose que l'autre ignore.
+Adverse selection : TYPE/qualité/risque privé, souvent avant le contrat.
+Moral hazard : ACTION/effort privé, souvent après le contrat.
+La présence de risque seule n'est pas une asymétrie d'information.
+Le diagnostic central : qui sait quoi, à quel moment, et quel choix cela affecte ?
+
+12.2 Lemons / antisélection
+L12 voitures : acheteur valorise haute qualité150, basse50 ; vendeur
+haute130, basse30 ; initialement probabilité haute0.5.
+Qualité observable : transactions possibles dans [130,150] et [30,50].
+Qualité inconnue de TOUS : WTP moyenne100, réserve vendeur moyenne80 ;
+transactions entre80 et100 possibles sous neutralité au risque du modèle.
+Vendeur informé seul : prix moyen100 ne fait pas vendre les bonnes voitures
+(réserve130). Elles sortent ; la qualité moyenne baisse ; acheteurs révisent
+leur WTP ; marché haut de gamme peut disparaître malgré gains potentiels.
+Il faut une croyance COHÉRENTE avec les vendeurs restant au prix offert.
+
+Assurance permis de conduire L12 : ceux qui pensent échouer davantage
+peuvent plus acheter, donc risque des assurés supérieur à la moyenne52%
+si sélection défavorable ; le contrat peut aussi changer l'effort (moral hazard).
+Réputation, garanties, certification, règles de qualité, droit au retour,
+information partagée, contrats de groupe et assurance obligatoire peuvent
+réduire l'antisélection ; leur efficacité dépend du mécanisme.
+E2020 Klarna, E2023 avis clients, E2024 normes du vin : une certification
+ou réputation collective peut permettre aux petites marques de garantir
+leur qualité et réduire l'avantage informationnel des grandes marques.
+
+12.3 Screening et signalling
+Screening : partie MOINS informée collecte/teste/structure un menu pour
+apprendre le type. Signalling : partie INFORMÉE entreprend une action
+observable pour révéler son type.
+Un signal crédible doit être suffisamment coûteux à imiter pour le mauvais
+type, relativement au bénéfice obtenu ; « coûteux » seul ne suffit pas.
+L12 éducation : salaire100 avec diplôme,60 sans ; coût C_A<C_S.
+Séparation si100-C_A>60 et100-C_S<60, donc C_A<40<C_S.
+Aux égalités, les types peuvent être indifférents ; préciser la sélection.
+Pooling : types choisissent même signal ; separating : signaux différents.
+La valeur de signal d'un diplôme ne prouve pas qu'il ne crée aucune compétence.
+
+12.4 Principal-agent et partage du risque
+Principal propose le contrat ; agent choisit un effort non parfaitement
+observable. Le résultat dépend de l'effort ET de chocs.
+Récompenser le résultat donne des incitations mais expose l'agent au risque.
+Salaire fixe : faible incitation monétaire à l'effort si celui-ci est coûteux.
+Partage de recette : agent conserve une partie du gain de l'effort et du risque.
+Agent paie une redevance fixe et conserve la recette : fortes incitations
+au gain marginal, mais supporte le risque. Franchise/location d'activité.
+Risque, responsabilité limitée et richesse peuvent rendre ce contrat difficile.
+
+L12 p.13–15, tableau vérifié : probabilité0.5 mauvais/bon état.
+Effort H, coût privé10 : recettes40 ou100 ->recette espérée70,
+surplus net total60. Effort L, coût0 : recettes20 ou40 ->espérance30.
+Salaire fixe w indépendant de la recette : agent préfère L ; reçoit w,
+propriétaire reçoit30-w ; le propriétaire porte le risque de recette.
+Partage50/50 : H donne agent0.5*70-10=25, propriétaire35 ;
+L donne agent15 ->H choisi. Risque partagé.
+Redevance fixe F au propriétaire, agent garde recette : H donne agent60-F,
+propriétaire F ; L30-F ->H. Agent porte le risque de recette.
+La participation exige aussi que l'agent préfère le contrat à son option
+extérieure ; une bonne incitation ne suffit pas à faire accepter le contrat.
+
+12.5 Crédit avec action cachée : méthode générale
+Projet coûte I0, recette R si succès,0 sinon. Emprunt D, remboursement Bk
+seulement en cas de succès, responsabilité limitée. Succès p_H avec effort
+H et p_L avec L, p_H>p_L. L procure bénéfice privé b.
+Utilité/espérance entrepreneur H=p_H*(R-Bk).
+Utilité entrepreneur L=p_L*(R-Bk)+b.
+Si apport personnel A investi d'avance, soustraire A dans LES DEUX cas
+lorsqu'on mesure le gain net depuis avant investissement ; il s'annule
+dans la comparaison d'effort à contrat donné.
+IC_H : (p_H-p_L)*(R-Bk)>=b.
+Profit espéré banque=p_choisi*Bk-D, à taux/coûts bancaires normalisés à0.
+Financement exige profit banque>=0 ET incitation H si le calcul repose sur H,
+ainsi que participation de l'entrepreneur selon son option extérieure.
+Remboursement trop haut peut détruire l'effort, diminuer p et réduire le
+remboursement ESPÉRÉ malgré un remboursement nominal plus élevé.
+
+A6/E2023 : R40,pH0.8,pL0.4,D20,Bk30.
+H8 ; L4+b. b2 ->H8>L6, banque24-20=4.
+b6 ->L10>H8, banque12-20=-8.
+Apport10, D10,Bk15 : H20 ; L10+b=12 ou16 ->H pour b2 ET b6 ;
+banque12-10=2 dans les deux cas. Après déduction de l'apport, gain
+entrepreneur H10 ; ne pas déduire l'apport seulement pour un effort.
+Condition sans apport : Bk<=40-b/0.4. Pour b6, Bk<=25 ; banque
+à effort H exige Bk>=20/0.8=25. À l'égalité, effort indifférent.
+
+12.6 Contrats, contrôle et pénalité
+E2025 nettoyage : paiement110 ; coût haute qualité100 ; basse70.
+Profit H10 ; profit L40-0.5*F. H au moins aussi bon siF>=60.
+F=60 donne indifférence ; F>60 rend H strictement préféré.
+Formule : pénalité minimale=(économie de coût privée)/(probabilité de détection),
+si pénalité payable, agent neutre au risque et aucun autre effet du contrat.
+Le paiement110 s'annule dans la comparaison ; il compte pour participation.
+
+Carpenter E2022 : forfait incite à économiser temps/coût, mais risque de
+sacrifier qualité cachée ; paiement horaire protège contre le risque de
+durée mais peut inciter à étirer les heures. Beaucoup d'autres clients
+augmentent le coût d'opportunité du temps et peuvent limiter cette incitation.
+Tipping E2023 : client observe mieux la qualité du service que le patron ;
+pourboire peut donner au serveur un lien entre qualité et rémunération.
+Deductible/franchise d'assurance : assuré supporte une partie du coût et
+garde une incitation à éviter le sinistre ; compromis assurance/incitation.
+Private equity : contrôle, information et implication peuvent réduire
+certains problèmes d'action cachée ; ne pas confondre automatiquement
+financement bancaire et financement en fonds propres.
+
+12.7 Bonus asymétrique : ne pas supposer le diagnostic avant le calcul
+E2020 Q4d : A rapporte100 avec0.75 et80 avec0.25 ->E profit95.
+B rapporte400 avec0.75 et-160 avec0.25 ->E profit260.
+Bonus1% des profits positifs,0 si perte : espérance0.95 pour A,3 pour B.
+Le dirigeant préfère B, et B maximise aussi le profit espéré brut ici ;
+net du bonus,94.05 contre257. Sur ces seules données et à neutralité au
+risque, le bonus ne crée pas de conflit sur le choix A/B. Un paiement
+convexe peut favoriser un risque excessif dans D'AUTRES nombres, mais
+ce n'est pas démontré par cet énoncé. Prudence si contraintes de faillite
+ou préférences pour le risque sont ajoutées : elles ne sont pas chiffrées ici.

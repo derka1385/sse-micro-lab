@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import { EXAM_DATE, NODES, TOPICS, downstream, nodeById, type Topic } from '../content/catalog';
 import { average, mastery, useProgress, type Progress } from '../store';
+import { Rich } from '../components/text';
+import { t } from '../i18n';
 
 type Row = { t: Topic; ready: number; rec: number; weak: number; imp: number; depth: number; prio: number; conf?: number };
 
@@ -21,11 +23,11 @@ function rows(p: Progress): Row[] {
 }
 
 const SORTS = {
-  prio: { label: 'Priorité combinée', fn: (a: Row, b: Row) => b.prio - a.prio },
-  depth: { label: 'Ordre des prérequis', fn: (a: Row, b: Row) => a.depth - b.depth },
-  rec: { label: 'Récurrence observée', fn: (a: Row, b: Row) => b.rec - a.rec },
-  weak: { label: 'Ta faiblesse', fn: (a: Row, b: Row) => b.weak - a.weak },
-  imp: { label: 'Importance conceptuelle', fn: (a: Row, b: Row) => b.imp - a.imp },
+  prio: { label: t('Priorité combinée'), fn: (a: Row, b: Row) => b.prio - a.prio },
+  depth: { label: t('Ordre des prérequis'), fn: (a: Row, b: Row) => a.depth - b.depth },
+  rec: { label: t('Récurrence observée'), fn: (a: Row, b: Row) => b.rec - a.rec },
+  weak: { label: t('Ta faiblesse'), fn: (a: Row, b: Row) => b.weak - a.weak },
+  imp: { label: t('Importance conceptuelle'), fn: (a: Row, b: Row) => b.imp - a.imp },
 };
 
 const pct = (x: number) => `${Math.round(x * 100)} %`;
@@ -38,11 +40,11 @@ export function FinalPrep() {
   return (
     <div className="page">
       <header className="page-head">
-        <h1>{days > 0 ? `${days} jours avant le final` : 'Jour du final'}</h1>
-        <p className="meta">Préparation finale · 23 octobre 2026, date du support L1</p>
-        <p className="lead">Classe les thèmes selon ce qui compte pour toi. La récurrence est un <b>historique observé</b> sur six finals (2020–2025) : elle décrit l’échantillon, elle ne prédit pas le prochain sujet (§1).</p>
+        <h1>{days > 0 ? t('{n} jours avant le final', { n: days }) : t('Jour du final')}</h1>
+        <p className="meta">{t('Préparation finale · 23 octobre 2026, date du support L1')}</p>
+        <p className="lead"><Rich text={t('Classe les thèmes selon ce qui compte pour toi. La récurrence est un **historique observé** sur six finals (2020–2025) : elle décrit l’échantillon, elle ne prédit pas le prochain sujet (§1).')} /></p>
       </header>
-      <div className="seg wrap" role="tablist" aria-label="Trier par">
+      <div className="seg wrap" role="tablist" aria-label={t('Trier par')}>
         {(Object.keys(SORTS) as (keyof typeof SORTS)[]).map((k) => (
           <button key={k} role="tab" aria-selected={sort === k} className={sort === k ? 'on' : ''} onClick={() => setSort(k)}>{SORTS[k].label}</button>
         ))}
@@ -50,7 +52,7 @@ export function FinalPrep() {
       <div className="table-wrap">
         <table className="ftable">
           <thead>
-            <tr><th>Thème</th><th>Prérequis prêts</th><th>Récurrence observée</th><th>Faiblesse</th><th>Importance</th><th>Confiance / mesuré</th><th>Priorité</th></tr>
+            <tr><th>{t('Thème')}</th><th>{t('Prérequis prêts')}</th><th>{t('Récurrence observée')}</th><th>{t('Faiblesse')}</th><th>{t('Importance')}</th><th>{t('Confiance / mesuré')}</th><th>{t('Priorité')}</th></tr>
           </thead>
           <tbody>
             {list.map((r) => {
@@ -59,7 +61,7 @@ export function FinalPrep() {
                 <tr key={r.t.id}>
                   <th>
                     <a href={r.t.lesson ? `#/lesson/${r.t.lesson}` : `#/map/${r.t.nodes[0]}`}>{r.t.title}</a>
-                    <span className="muted small"> {r.t.lecture}{r.t.lesson ? ' · leçon guidée' : ''}</span>
+                    <span className="muted small"> {r.t.lecture}{r.t.lesson ? ` · ${t('leçon guidée')}` : ''}</span>
                   </th>
                   <td><Measure v={r.ready} /></td>
                   <td title={r.t.history.map((h) => `${h.label} [${h.basis}]`).join('\n')}>{years.length ? `${years.length}/6` : '—'} <span className="muted small">{years.map((y) => String(y).slice(2)).join(' ')}</span></td>
@@ -74,14 +76,14 @@ export function FinalPrep() {
         </table>
       </div>
       <section className="card subtle small">
-        <h3>Comment c’est calculé</h3>
+        <h3>{t('Comment c’est calculé')}</h3>
         <ul className="plain">
-          <li><b>Prérequis prêts</b> : maîtrise moyenne des nœuds dont ce thème dépend sur la carte.</li>
-          <li><b>Récurrence observée</b> : années où le thème apparaît, d’après les comptages du dossier (§1) ou recomptées depuis sa carte des examens (§16) — survole la cellule pour le détail.</li>
-          <li><b>Faiblesse</b> : 1 − ta maîtrise mesurée (7 dimensions, rappels sur plusieurs jours).</li>
-          <li><b>Importance</b> : nombre de notions qui en dépendent sur la carte (calculé, pas décrété).</li>
-          <li><b>Priorité combinée</b> = 35 % faiblesse + 25 % récurrence + 25 % importance + 15 % prérequis prêts.</li>
-          <li>Parcours suggéré par le dossier (§20.6) : fondations → welfare → pouvoir de marché → défaillances → compléments → sujets chronométrés.</li>
+          <li><Rich text={t('**Prérequis prêts** : maîtrise moyenne des nœuds dont ce thème dépend sur la carte.')} /></li>
+          <li><Rich text={t('**Récurrence observée** : années où le thème apparaît, d’après les comptages du dossier (§1) ou recomptées depuis sa carte des examens (§16) — survole la cellule pour le détail.')} /></li>
+          <li><Rich text={t('**Faiblesse** : 1 − ta maîtrise mesurée (7 dimensions, rappels sur plusieurs jours).')} /></li>
+          <li><Rich text={t('**Importance** : nombre de notions qui en dépendent sur la carte (calculé, pas décrété).')} /></li>
+          <li><Rich text={t('**Priorité combinée** = 35 % faiblesse + 25 % récurrence + 25 % importance + 15 % prérequis prêts.')} /></li>
+          <li><Rich text={t('Parcours suggéré par le dossier (§20.6) : fondations → welfare → pouvoir de marché → défaillances → compléments → sujets chronométrés.')} /></li>
         </ul>
       </section>
     </div>

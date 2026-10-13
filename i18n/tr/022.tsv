@@ -1,0 +1,224 @@
+1eizah3tc14 Y önce oynarsa, X silahlı Y'den sonra silahsız kalır çünkü 1>−1, ama silahsız Y'den sonra silahlanır çünkü 4>3. Y silahlanarak 2'yi, silahsız kalarak 1'i öngörür ve bu yüzden silahlanmayı seçer. X'in ne pahasına olursa olsun silahlanma tehdidi, Y silahlandıktan sonra güvenilir olmazdı.
+29nqhfs09uk Sırası tersine çevrilmiş geriye doğru tümevarım: sonuç (1,2). Güvenilir bir tehdit uygulandığı anda optimal kalmalıdır; bir taahhüt maliyetleri ya da olanakları değiştirebilir.
+vsn6ingc15 Y, X'in tepkisinden sonra kendi seçiminin net kazancını öngörerek seçer.
+jud96hhbxl Bağlayıcı olmayan bir vaat −1'i 1'den büyük bir kazanca dönüştürmez; gerçek bir taahhüt kuralı teşvikleri ya da seçenekleri değiştirmelidir.
+18yzwcn0vsj Önce Y: X'in stratejisi=(Y silahlıysa silahlanma; Y silahsızsa silahlan). Y silahlanır ve 2 alır, X 1 alır.
+hbl81bo0x9 Rakibinin tehdidini, onu açıklamanın işine geldiği ana göre değil, uygulaması gereken ana kendini koyarak değerlendir.
+nzv9dytw3 Y önce oynadığında, tümevarımdan hangi sonuç ve hangi net kazançlar çıkar?
+10t2182se3y Yalnızca Y silahlı; (X,Y)=(1,2)
+2bu4fy291hx X, silahlı Y'ye silahlanarak yanıt vermez; Y, silahlanmayarak alacağı 1 yerine 2'yi tercih eder.
+19cqdkzoo7c Yalnızca X silahlı; (4,1)
+1oi3absnr34 Bu, X önce oynadığındaki sonuçtur. Ters sıra başlangıç hesabını değiştirir.
+1x8pbp6hlz9 İkisi de silahlı; (−1,−3)
+1nwmdwre3eg Y silahlandıktan sonra X 1'i −1'e tercih eder ve silahlanmaz.
+1x1wehep36j Bir en iyi yanıt, eylemlerini rakibin aynı senaryosu içinde karşılaştırır.
+20wmred41yw Maksimumla eşit bir eylem optimal kalır.
+2bz0c7t8gkn O zaman hiçbir oyuncu tek başına saparak kazancını artıramaz: bu Nash'tir.
+94hfji3lv4 Lider, oynamayacağı bir eylemden sonrakiler dahil yanıtları öngörür.
+tix6l0y2l0 Bir tehdit, durum gerçekleştiğinde optimal bir seçim olarak kalmalıdır.
+1ebmg4ypue6 Bir Nash tek taraflı bir sapmaya karşı istikrarlıdır: bencil NN'de tek başına S'ye geçmek kazancını 0'da bırakır. İkisi SS'de 10 kazanabilirdi, ama bu koordineli bir değişiklik gerektirir; dolayısıyla istikrar ve etkinlik farklıdır. Eşit özgecilikte diğerinin parası önemlidir: N'ye karşı tek başına N'den S'ye geçmek sana 20 fayda verir, bu yüzden NN Nash olmaktan çıkar. Sıralı oyunda takipçinin her olası eylemden sonraki optimal planı seçilir, sonra lider bu yanıtları öngörür. Sonuç, yol dışı stratejinin yerini tutmaz.
+klci9jbun8 Rakibin olası eylemini sabitlemek
+9f8mzq0meb Bütün kazançlarını karşılaştırmak ve eşitlikleri korumak
+28y4tasel5d Karşılıklı en iyi yanıtları aramak
+1j1qorodv3z Oyun sıralıysa takipçiyi her yerde çözmek
+niwam5f8pn Güvenilirliği uygulama düğümünde kontrol etmek
+1s4xzk5j05l NN'nin ikisi için iyi olmadan neden Nash olabileceğini, sonra eşit özgecilikte NN'nin neden Nash olmaktan çıktığını açıkla. Sıralı bir oyunda sonuç ile tam strateji arasındaki farkla bitir.
+8vy8a641l1 Sabitlenen rakibe karşı kendi kazancı
+14njauy6nqp Bir sapma yalnızca senin eylemini değiştirir.
+u8dpcux70a Eşitlikleri korumak
+16ytj3yljhz Nash kesin iyileşmeleri dışlar, eşit kazançlı değişiklikleri değil.
+pf748d78hg İstikrar ve etkinlik ayrı
+vc3g16wgnr İki kişilik bir iyileşme tek taraflı bir sapma değildir.
+1z0jp0t2n44 Kazançları faydaya çevirmek
+8p588exx8k Eşit özgecilikte N'ye karşı S'ye geçiş 0 yerine 20 fayda verir.
+1wsxc0vmcfd Takipçinin bütün planı
+1dml9j6fxua Bir strateji yol dışı eylemleri içerir ve geriye doğru çözülür.
+go0o6gdddo Nash tek taraflı kazancı dışlar; etkinlik kolektif değişiklikleri karşılaştırır.
+vwayodjpmf Bencil oyunda N ve S, N'ye karşı ikisi de 0 verir: N zayıf baskındır.
+q3289vpip5 N'ye karşı S'ye bir sapmayı test et: diğeri 20 alır ve faydan 0'dan 20'ye çıkar. NN artık Nash değil.
+1zoz6y05snn §13'te doğrulanan A3 matrislerinden kurulan alıştırma. Kişisel çözümdeki tuzakları açıkça düzeltir; hiçbir örnek cevap resmî olarak sunulmaz.
+vckh83qy15 BR ne anlama gelir?
+1nljyeyrrkz Best response: verilen bir rakip eylemine karşı en iyi seçim
+sgn5ep8m31 Rakip sabitlenir ve kendi kazancı maksimize edilir.
+ibicievo6w Biggest revenue: tablodaki en büyük hücre
+7z3c1qawen İki oyuncuyu birden kontrol etmezsin ve kazançlar mutlaka hasılat değildir.
+5f6ck8nrhp Sıralı bir strateji şunu içerir…
+8a7sp1vqpr Oyuncunun karar verebileceği her düğümde bir eylem
+1zsefxc075u Dengede ulaşılmayan düğümler dahil.
+1t3g48qjkd8 Yalnızca gözlemlenen sonuç
+532ro2i5t6 Lider alternatif dalları öngörebilmelidir.
+25wmki1e20r Saf Nash testini yeniden kur.
+2axpnmjn5gi Rakibin bir eylemini sabitlemek
+2ajnciqaqlg Kendi bütün eylemlerini karşılaştırmak ve eşitlikleri korumak
+j30kqogmey Diğer oyuncu için tekrarlamak
+1ffx9u0bg6g Karşılıklı en iyi yanıt hücrelerini belirlemek
+1uojyedg7t0 Geriye doğru tümevarımı yeniden kur.
+ltt6u43zbg Son sonuçlardaki net kazançları hesaplamak
+1sjtmrxkcxk Her olası eylemden sonra takipçinin optimal seçimini belirlemek
+ymilfgkrd7 Bu yanıtları öngörerek lidere seçtirmek
+c85a4yvfrr Yol dışı dahil tam profili ve sonucu vermek
+18whjqkhhmq u_i=m_i+2 m_j ve para (10,10) ile SS'de her oyuncunun faydası nedir?
+via7nby7xf Tek silahlı Y 5 petrol alır ve 3 öder. Net kazancı?
+1r3z2wx04g5 5−3=2. Ona silahsız oyuncunun 1 kazancını atfetme.
+dcsbmrtffx Bir firma, giriş gerçekleştikten sonra ona girişe uyum sağlamaktan daha az kazandıracak bir fiyat savaşıyla tehdit ediyor. Ek bir taahhüt olmadan tehdit…
+8lno0qmybm Güvenilir değildir
+20oehqysmwt İlgili düğümde onu uygulamak firmanın çıkarına olmazdı.
+25tw8mvvpsp Kamuoyuna açıklandığı için güvenilirdir
+1on5hen4c8g Bir duyuru tek başına kazançları değiştirmez; firmayı fiilen neyin bağladığını açıklamak gerekir.
+oh1m1frpnj Bir oyuncu rakibinden daha az alırsa faydasından 1 çıkarıyor. En iyi yanıtları neden yeniden bulmak gerekir?
+1maddkpquhu Dağıtılan para aynı kalsa bile fayda matrisi değişir
+1p1d7irbx3p Stratejiler bu yeni faydaları maksimize eder; eski bir kayıtsızlık ortadan kalkabilir.
+d7xflnjc93 Silah maliyetleri mutlaka değişir
+ukv9ytcr0z Örnek tercihleri değiştirir, mutlaka bir kaynağı ya da eylem maliyetini değil.
+rzkzcuumsw Bir Nash yalnızca eylemlerin adına bağlıdır
+hrcy6gxje8 Oyunun kazançlarına ve bilgisine bağlıdır.
+116rhun5a2k All possible decision nodes
+4yocqkl0v0 Off-path choices
+16shnpjmoas Optimal continuation
+mjui28e8ex Compare against Split
+upo1sgn57v Tie against Steal
+1zdy3r8iu03 Matrisi satır oyuncusunu önde tutarak okumak.
+1vjipad5xgj Diğerinin kazancı senin seçimini belirlememeli.
+fmbq2e7opc Eşitlikteki en iyi yanıtları korumak ve zayıf/kesin baskınlığı ayırt etmek.
+20rg9q6lcp3 Eşitlikler Nash listesini değiştirir.
+18hnzgpuj58 Tercihler değişirse faydaları yeniden hesaplamak.
+13xrgi9x8xi Eşit özgecilik, belirtilen kişisel çözümün aksine NN'yi Nash olmaktan çıkarır.
+pq9rougodl Takipçinin her düğümünü çözmek ve yol dışı yanıtları belirtmek.
+25qwzfl0cmh Bir sonuç tek başına tam bir strateji değildir.
+24vi7f5k5d0 Net kazançları ve uygulama anındaki güvenilirliği kontrol etmek.
+1vsez0ssnx5 Silah maliyetleri ve fiili tepkiler hesaba katılmalıdır.
+xb4abmwpjm Sınav ekleri — ticaret, platformlar, açık artırmalar ve takas
+8je5n2uywq Kuralları tanımak ve sınırlarını kontrol etmek
+1p3tps6iak7 Bu konular geçmiş sınavlarda yer alıyor, ama tam dersleri korpusta yok. Hesaplardan önce kararları, göreli fiyatları ve kuralları yeniden kur.
+x66mdyjy6 Sen, alıcı / North ülkesi
+10bge1ykh3c bir görev, bir satın alma ya da bir takas seçer
+2gi063xujay feda edilen alternatiften daha fazla değer elde etmek
+62i6shgmfg Satıcı / South ülkesi
+24pqgl8ebos üretir ya da takas önerir
+1mh7a4e6312 maliyetlerini karşılamak ve kazanç elde etmek
+5wi1cl3x7i Piyasanın diğer tarafı
+688btgi24f bir platform kullanır ya da teklif verir
+1ly0ytal62e kârlı bir etkileşim bulmak
+8bchysbzsb toplamları, kuralları ve varsayımları görünür tutar
+2gnpv4g5de4 toplam kazancı, özel kazancı ve etkinliği ayırt etmek
+1ekwhp96dfi Devlet / platform
+23gblpk7lqf gümrük vergisini, erişimi ya da açık artırma kuralını belirler
+11hf8346rm7 bir kuralın yol açtığı tepkileri anlamak
+1ckgu10q804 Dört sınav bağlamı, tek bir akıl yürütme disiplini
+1hlxoo84ezh Karşına ticaret, bir platform, bir açık artırma ya da bir atıştırmalık takası çıkabilir. Bu konular geçmiş sınavlarda yer alıyor, tam dersleri denetlenen dosyalarda olmasa bile. Bu yüzden belgelenmiş araçları yeniden kuracağız ve kesin varsayımları açıkça belirtilmesi gerekenlerden ayıracağız.
+rsniva0284 Sınav ekleri §14: ticaret, platformlar, açık artırmalar ve Edgeworth. Aşağıdaki modeller dosyada belgelenmiştir; bu yol eksik slaytları yeniden oluşturma iddiasında değildir.
+156ls6aa5i4 Konunun adı yetmez: birinci fiyat açık artırması ikinci fiyat açık artırması gibi çözülmez.
+2fbtb555gff Nitel bir soru, tek bir sayı için yeterli veri vermeden kesin bir mekanizma gerektirebilir.
+15bpgmsreqa "Bir hava şoku tüm maliyetleri etkiler" ifadesi tek başına kimin hangi özel sinyali gözlemlediğini göstermez; otomatik olarak bir winner’s curse sonucuna varılamaz.
+12eo4m2ib40 Soruyu bir sözleşme gibi oku: kim seçiyor, kim ne biliyor, hangi kural, hangi birimler? Aracı ancak ondan sonra seç.
+2272whsitw9 Bu konuların tam slaytlarının eksik olduğunu neden belirtmeli?
+217lt7kbgof Belgelenmiş araçları öğretim amacıyla eklenen varsayımlardan ayırmak için
+1b4wn8fykqq Alıştırma yararlı kalır, ama eksik bir tam dersin otoritesini uydurmamalıdır.
+1m7qnylqbqd Bu konuları tekrardan çıkarmak için
+qdwxhu4i8b Sınavlarda yer alıyorlar, bu yüzden çalışılmaları gerekir.
+p8p5reeu7b Her formülü evrensel saymak için
+vch28xvc0p Tersine, model ve sınırları açıkça belirtilmelidir.
+uxfz6ejcdo Her şeyde en iyi olmak, zamanını neye ayıracağını söylemez
+ytfzl5ak1c Esther bir veri analizini 1 saatte, bir metni 2 saatte üretir. Abhijeet analiz için 2 saat, metin için 6 saat harcar. Esther her şeyde daha hızlıdır, ama bir metin Esther'e yalnızca 2 feda edilen analize mal olur, Abhijeet'e ise 3'e: uzmanlaşmayı yönlendiren bu göreli karşılaştırmadır.
+1hvmsqk0uuq Mutlak üstünlük: birim başına daha az girdi. Karşılaştırmalı üstünlük: daha düşük fırsat maliyeti. E2020, yazmada karşılaştırmalı üstünlüğü Esther'e, analizde Abhijeet'e verir.
+o73oydekem Bir göreve harcanan zaman artık diğerine kullanılamaz: feda edilen alternatif budur.
+lck3gn1pe8 Her şeyde daha az üretken olan biri bile, göreli geriliğinin en küçük olduğu görevde karşılaştırmalı üstünlüğe sahip olabilir.
+24v1xfmgeeq Esther: bir metnin maliyeti=2 sa/(analiz başına 1 sa)=2 analiz. Abhijeet: 6/2=3 analiz. Tersine bir analiz Esther'e 0,5 metne, Abhijeet'e 1/3'e mal olur.
+1lk483ja3ag Esther'sin: yalnızca "daha hızlı mıyım?" diye sorma, "bu görevi alırsam hangi diğer üretimi kaybederim?" diye sor.
+svcs8u96fr Esther metin başına 2 sa, analiz başına 1 sa harcar. Bir metin kaç analize mal olur?
+1mw3afbnjje analiz / metin
+1u0vcpifi1w 2 saatlik metin 2 analiz üretirdi; fırsat maliyeti 2.
+1cuucfixtze 0,5, bir analizin metin cinsinden maliyetidir, ters oran.
+1ko32c9ccp6 Birim başına saatten feda edilen birimlere: oranın yönünü koru
+fq6h3lngwm Northland bir birim buğday için 3 saate, bir birim elektronik için 6 saate ihtiyaç duyar. Southland 4 ve 2 saate ihtiyaç duyar. Dolayısıyla bir birim buğday üretmek Northland'de 0,5 elektroniğin zamanını kullanır, Southland'de 2'sinin: Northland buğday için daha az elektronik feda eder.
+248cy7xwj5r a_W ve a_E birim başına saat ise, OC(W, E cinsinden)=a_W/a_E. North buğdayda, South elektronikte karşılaştırmalı üstünlüğe sahiptir.
+1j1mi05cfui Bir birim elektronik 6 sa gerektiriyorsa, 3 saatlik buğday feda edilen elektronik birimlerine nasıl çevrilir?
+1qiey9ziegc Saatler sadeleşir: 3 sa/(6 sa/E)=0,5 E.
+j59ib39uav Bu, bir birim elektroniğin buğday cinsinden maliyetini verir, bir birim buğdayın elektronik cinsinden maliyetini değil.
+p7af4nwnkv Pay, maliyetini aradığın mal için gereken zamandır.
+p99cqis1dd Payda bu zamanı diğer malın birimlerine çevirir; cevabının birimleri bir ters çevirmeyi yakalamanı sağlar.
+257w8lt40i3 South: OC_W=4/2=2 E/W; OC_E=2/4=0,5 W/E. Bu sayılarda fiyat aralıklarının simetrisi bir tesadüftür.
+1iiqsdmslhw Hesaplamadan önce oranın yanına "W başına E" birimlerini yaz: bu bir ters çevirmeyi görünür kılar.
+19vgqfbxakr South bir birim buğday için 4 sa, bir birim elektronik için 2 sa harcar. Bir birim buğdayın elektronik cinsinden fırsat maliyeti nedir?
+w21jq0rae0 Bir birim buğday başına 4/2=2 birim elektronik.
+o9gm2vy50j 0,5, bir birim elektroniğin buğday cinsinden maliyetidir.
+kb0ykvc1pr Sınırın ne üretebileceğini anlatır, tüketebileceğin her şeyi değil
+1gmy2afm1py Northland'in 120 saati var. Her şeyi buğdaya ayırmak 40 birim, her şeyi elektroniğe ayırmak 20 birim verir. Aradaki sepetler mevcut zamanı tüketir; ithalat ise üretilenden farklı bir sepeti tüketmeyi sağlar.
+wajbn19s3a PPF North: 3 W+6 E=120 ⇒ E=20−0,5 W. South: 4 W+2 E=120 ⇒ E=60−2 W. Eğim, W'nin E cinsinden fırsat maliyetini ifade eder.
+18995h959r9 Kısıt saatleri sayar: her terim miktar×birim başına saattir.
+25dk6w0lvg6 Ticaretten sonra tüketilen bir sepet, ülke ek saat yaratmadan yurt içi PPF'nin ötesinde olabilir.
+1hvyswervhw North 40 W ve 0 E üretir; South 0 W ve 60 E. 10 W'yi 10 E ile takas ettikten sonra North 30 W, 10 E, South 10 W, 50 E tüketir; bu sepetler otarşide sırasıyla 150 sa ve 140 sa gerektirirdi.
+fcrdla261h Kâğıdında iki ayrı sütun tut: kısıt altında üretim, sonra ihracat ve ithalattan sonra tüketim.
+26z0k0iqee1 120 saatle iki üretim sınırı
+18e4olb9c4f W=buğday birimleri, E=elektronik birimleri. Doğrular üretilen sepetleri gösterir, ticaretten sonra tüketilenleri değil. E2025 örneğinin doğrusal teknolojileri.
+11q6bf2ysvc W: buğday birimleri
+1m216qz65y5 E: elektronik birimleri
+adofr4kawg North: 3 W+6 E=120
+8cfhz74u0b Bir birim buğday 0,5 birim elektroniğe mal olur.
+jeoznsft6t South: 4 W+2 E=120
+8agalgrhb3 Bir birim buğday 2 birim elektroniğe mal olur.
+19nlony2zro North ticaretten sonra tüketir
+1qu9aab589q South ticaretten sonra tüketir
+36r72o67sv 120 sa ve bir birim elektronik için 6 sa ile North tek başına en fazla ne kadar elektronik üretir?
+11mqxs2jzbt 120/6=20; bu, PPF'sinin dikey eksen kesişimidir.
+vcqjn1krqd 40, buğdayın maksimumudur: 120/3.
+b8cnqxkib1 İki fedakârlık arasındaki bir fiyat ikisinin de işine gelebilir
+o1id4wrzhb Northland bir birim elektronik almak için bir birim buğday vermeyi kabul eder: buğdayı üretmek ona yalnızca 0,5 elektroniğe mal olur. Southland bir birim buğday almak için bir birim elektronik vermeyi kabul eder: kendisi üretse 2 elektroniğe mal olurdu. Dolayısıyla aynı takas her ikisi için de avantajlı olabilir.
+1mctb3360cv İki fırsat maliyeti arasında kesin olarak yer alan bir göreli fiyat potansiyel kazançlara izin verir: burada 0,5<p_W/p_E<2. Talep ve kapasiteler takas edilen miktarları belirler.
+26z9k3eyv13 North, bir birim buğday başına, o buğdayı üretmek için feda ettiğinden daha fazla elektronik alır.
+1rwk4dd7y South buğdayı, kendisi üretmek için feda etmesi gerekenden daha az elektronikle satın alır.
+1kxlilr2veq W başına 1 E fiyatında: ihraç edilen buğdayı üretmek North'un 3 saatini alır, alınan elektronik ise 6 saat gerektirirdi. South, alınan W'ye 4 saat ayırmak yerine 2 saatte üretilmiş bir E ihraç eder.
+aer889z72l North'sun: alınan elektronik 0,5'lik yurt içi fedakârlığını aşıyorsa buğday ihraç etmeyi kabul edersin.
+eiy7nmsg7f Bu örnekte elektronik cinsinden hangi buğday fiyatı ikisi için de kesin olarak avantajlıdır?
+24ofd60vzpv W başına 1 E
+23eecpf6l4u 1, kesin olarak 0,5 ile 2 arasında yer alır.
+2e2q8qakig9 W başına 3 E
+133ntnith71 South, üretmesi ona yalnızca 2 E'ye mal olan bir W için 3 E vermek zorunda kalırdı.
+rqq0w8jy4d W başına 0,25 E
+2a6da4xjmzo North, W'yi üreterek feda ettiği 0,5 E'den daha azını alırdı.
+6d1go8506o Dünya fiyatı ithalat ihtiyacını ortaya çıkarır
+17bmw2cdrkc Küçük bir ülkede alıcılar malı 30'luk dünya fiyatından alabilir. Bu fiyatta 50 birim talep ederler, yerli üreticiler ise yalnızca 10 birim arz eder. Eksik 40 birim ithal edilir: ulusal talebin ulusal arza eşit olması gerekmez.
+120hnr2op50 p_D=80−Q ve p_S=20+Q ile: pozitif alanda Q_D(p)=80−p, Q_S(p)=p−20. İthalat M=Q_D−Q_S.
+18w3z41t4id "Küçük ülke" burada dünya fiyatını veri olarak aldığı anlamına gelir.
+j63x7rvlnj Arz=talep eşitliği yalnızca yurt içi üretimi değil, ithalat dahil piyasayı ilgilendirir.
+18au2ohtsow p_w=30 ⇒ Q_D=50, Q_S=10, M=50−10=40. Otarşide: 80−Q=20+Q ⇒ Q=30 ve p=50.
+x87ebkkfvj Tüketicisin: ülke talep edilen miktarın tamamını üretmese bile 30 fiyatından satın alabilirsin.
+1ovplpp4ut8 Küçük ithalatçı ülke: dünya fiyatı, sonra gümrük vergisi
+upj13nju97 Q malın birimi cinsinden; p birim başına € cinsinden. Talep ile arz arasındaki yatay farklar, dünya fiyatında ve ardından gümrük vergisinden sonra ithalattır.
+1fk2szba0mb Q: yurt içi birimler
+1258wbb5fbt p: € / birim
+1dospzaebmv Talep p=80−Q
+ze96gaualg 30 fiyatında Q_D=50; 40 fiyatında Q_D=40.
+v0gall4j2e Arz p=20+Q
+1yz14kdl8a2 30 fiyatında Q_S=10; 40 fiyatında Q_S=20.
+o7cg6psgy7 Dünya fiyatı 30
+26qnwrrr8uc Küçük ülke: gümrük vergisi dünya fiyatını değiştirmez.
+1ujdobk3ba 10 gümrük vergisiyle fiyat: 40
+2abiulget9r Ülke ithalat yaptığı sürece p=p_w+τ.
+1vwrcayiikt Serbest ticarette arz 10
+1ujtx0380yz Serbest ticarette talep 50
+1y1gq7js730 Gümrük vergisiyle arz 20
+1w62qgqsxds Gümrük vergisiyle talep 40
+1dcoljb0odu p_w 30'da Q_D=80−p ve Q_S=p−20. Ülke ne kadar ithal eder?
+ys4owy2of4 Talep 50 eksi arz 10=40.
+uidxwhmypk 60 miktarları toplar, oysa ithalat aradaki farkı kapatır.
+7gywyoxx6j 30 otarşi miktarıdır, dünya fiyatındaki ithalat değil.
+1ercagxjf6a Gümrük vergisi iki özel kararı aynı anda kaydırır
+j212paj3mb Devlet ithal edilen her birime 10 ekler. Ülke ithalatçı kaldığı sürece iç fiyat 40'a çıkar: yerli üreticiler daha çok üretir, tüketiciler daha az satın alır. İthalat yalnızca bir vergi alındığı için değil, bu iki kanal yoluyla düşer.
+1oduzt99qk8 Küçük ithalatçı ülke: p_dom=p_w+τ, Q_D=40, Q_S=20, M=20. Gümrük geliri fiilen kalan ithalata uygulanır.
+qt3wffq4ev Ek yerli üretim, maliyeti dünya fiyatını aşsa bile daha yüksek fiyatta kârlı hale gelir.
+1keljmcfhkv Bazı tüketiciler 30'dan fazla ama 40'tan az değer taşıyan birimlerden vazgeçer.
+234uxc06yr6 10 gümrük vergisinden sonra: M=(80−40)−(40−20)=40−20=20; gelir=10×20=200.
+1zjsm5fpqs7 Bakanlıktasın: gümrük vergisini eski 40 birimlik ithalatla çarpma, çünkü aktörler yeni fiyata tepki verdi.
+xr8053mf18 10 gümrük vergisinden sonra ülke 20 birim ithal eder. Gümrük geliri nedir?
+1vf7waho52q τ×M_sonra=10×20=200.
+255f2ss0hv4 400, gümrük vergisinden önceki 40 birimlik ithalatı kullanır; ithalat azaldı.
+20ccr4xodh8 Vergi ne yerli üretimden ne de tüm tüketimden alınır.
+1pxbiscno68 Tüketicinin kaybettiği şey ülke için tamamen kaybedilmiş değildir
+a779ubg4x7 Daha yüksek fiyat tüketicilere 450 artık kaybettirir. Yerli üreticiler 150, devlet 200 kazanır; bu kazançlar ülkede kalır. Hâlâ 100 eksiktir: bunlar daha pahalı üretimde israf edilen kaynaklar ve vazgeçilen yararlı takaslardır.
+1jbwzhxiylq Ulusal refah=CS+PS+gümrük gelirleri. E2022: ΔCS=−450, ΔPS=+150, gelir 200 ⇒ ΔW=−100; DWL=iki üçgen.
+1q744m02hu6 Artan fiyatın bir kısmı artığı alıcılardan üreticilere ve devlete aktarır.
+1nbsri7goc3 DWL gerçek maliyet ve faydaları karşılaştırır: fazla pahalı yurt içi birimler ve daha az tüketilen birimler.
+29lgdhes2ac DWL=0,5×10×[(20−10)+(50−40)]=100. Ya da −450+150+200=−100. CS 1250→800; PS 50→200.
+1vd22i2sxge Bütün ülkenin değişimlerini toplarsın; vergi gelirini yalnızca cüzdanından çıktığı için "kayıp" ilan etmezsin.
+29bp8hg760h 10 gümrük vergisiyle, üretim 10→20 ve talep 50→40 iken DWL nedir?

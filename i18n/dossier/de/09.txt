@@ -1,0 +1,94 @@
+======================================================================
+7. RENTE, STEUERN, SUBVENTIONEN UND REGULIERTE PREISE — L7
+======================================================================
+
+7.1 Wer erhält was?
+CS, consumer surplus: Gesamtwert für die Käufer minus ihre Zahlungen.
+CS=Integral_0^Q [p_D(q)-p_b] dq, wenn die Einheiten an die Käufer gehen, die sie
+am höchsten bewerten. Für p_D=a-bQ: CS=(a-p_b)*Q/2.
+PS, producer surplus: Erlöse nach Steuer minus variable Kosten.
+PS=Integral_0^Q [p_s-MC(q)] dq; für p_S=c+dQ: PS=(p_s-c)*Q/2.
+Gewinn=PS-FC. Bei unterschiedlichen Preisen die tatsächlichen Erlöse integrieren,
+statt ein einziges Rechteck pQ zu verwenden.
+Wohlfahrt W=CS+PS im Modell ohne Staat und ohne Externalität, bei unveränderten
+Fixkosten. Mit Staat: Steuereinnahmen addieren, Subventionsausgaben
+abziehen. Mit Externalität: externe Nutzen addieren, Schäden abziehen.
+Wenn sich Eintritt oder Fixkosten ändern, auch diese realen Kosten einbeziehen.
+
+Eine Summe von Renten misst monetäre Effizienz, nicht Gerechtigkeit.
+Ein Transfer von CS zu PS ist für sich genommen kein DWL. Ein Wohlfahrtsverlust
+ist ein NETTO-Verlust an Rente gegenüber dem effizienten Vergleichsfall.
+Das Wettbewerbsmodell maximiert W, wenn die Nachfrage der soziale Grenznutzen,
+das Angebot die sozialen Grenzkosten sind und die übrigen Annahmen gelten.
+Monopol, Externalität oder asymmetrische Information können dieses Ergebnis aufheben.
+
+L7 Beispiel: p_D=23-Q, p_S=2+2Q ->Q7,p16.
+CS=(23-16)*7/2=24.5; PS=(16-2)*7/2=49; W73.5.
+Wird Q auf 5 begrenzt und der Preis ist 18: CS12.5; PS55; W67.5; DWL6.
+Hier gewinnen die Produzenten 6, während die Konsumenten 12 verlieren:
+der gesellschaftliche Verlust ist 6, nicht 12.
+
+7.2 Mengensteuer: DREI Beziehungen aufschreiben
+QD(p_b)=QS(p_s)=Q; p_b=p_s+t.
+Der Konsument zahlt p_b; der Produzent behält p_s; der Staat erhält tQ.
+Ob das Gesetz Käufer oder Verkäufer zur Abführung der Steuer verpflichtet, ändert
+das Gleichgewicht dieses Modells nicht, bei gleicher Steuer und gleichen Handelsmöglichkeiten.
+
+Für p_D=a-bQ und p_S=c+dQ, b,d>0, innere Lösung:
+Q0=(a-c)/(b+d); Qt=(a-c-t)/(b+d).
+p_b=a-bQt; p_s=c+dQt; T=tQt.
+Anstieg des Käuferpreises=b*t/(b+d).
+Rückgang des Verkäuferpreises=d*t/(b+d).
+DWL=t*(Q0-Qt)/2=t^2/[2(b+d)], OHNE Externalität/Marktmacht.
+Jenseits der prohibitiven Steuer ist Q=0; die Formeln nicht auf Q<0 ausdehnen.
+
+Ökonomische Inzidenz: die weniger elastische Seite trägt mehr.
+Lokale Wettbewerbsform: Anteil Käufer=epsilon_S/(epsilon_S+|epsilon_D|),
+Anteil Verkäufer=|epsilon_D|/(epsilon_S+|epsilon_D|).
+Diese Anteile sind keine allgemeine Regel für Oligopol oder Monopol.
+Eine wenig elastische Bemessungsgrundlage ändert Q weniger, also meist
+weniger DWL bei gleicher Abgabe, unter den Vergleichsannahmen.
+
+L7 Steuer t3: Q6,p_b17,p_s14,T18; CS18,PS36,W72,DWL1.5.
+Die an den Staat übertragenen Rechtecke werden nicht vernichtet.
+Eine Steuer kann dennoch ein öffentliches Gut finanzieren oder eine Externalität korrigieren:
+ihr DWL reicht nicht, um die ganze Maßnahme zu beurteilen.
+
+7.3 Mengensubvention
+QD(p_b)=QS(p_s)=Q; p_s=p_b+s.
+Der Käufer zahlt weniger, der Verkäufer erhält mehr, der Staat zahlt sQ.
+Qs=(a-c+s)/(b+d); W=CS+PS-sQ.
+Ohne Externalität: DWL=s*(Qs-Q0)/2. Die zusätzlichen Einheiten haben reale
+Kosten über ihrem Nutzen. Bei positiver Externalität kann diese Formel
+ohne externe Korrektur die falsche Diagnose liefern.
+L7 s3: Q8,p_b15,p_s18; CS32,PS64,Ausgaben24,W72,DWL1.5.
+
+7.4 Höchst- und Mindestpreis
+Price ceiling / cap: Höchstpreis. Bindend, wenn der Höchstpreis im üblichen
+Fall unter p* liegt. Gehandelte Menge oft durch QS begrenzt; Knappheit QD-QS.
+Den Höchstpreis waagerecht zeichnen; QS und QD getrennt ablesen.
+CS hängt auch von der Rationierung ab: die Standardformel nimmt an, dass die
+verfügbaren Einheiten an die Käufer mit der höchsten WTP gehen.
+Zufällige Rationierung, Warteschlangen und Suche können Verluste hinzufügen.
+PS sinkt; CS kann steigen ODER sinken; W sinkt ohne weiteres Versagen.
+L7 Höchstpreis 12: QS5,QD11; Handel 5; CS42.5,PS25,W67.5,DWL6.
+Ein Höchstpreis >=p* ist im einfachen Wettbewerbsmodell nicht bindend.
+
+Price floor: Mindestpreis, bindend oberhalb von p*. Angebotsüberschuss.
+Ohne staatliche Käufe ist die verkaufte Menge durch QD begrenzt; QS nicht
+als konsumierte Menge zählen. Mit staatlichen Käufen deren Kosten und den
+Verbleib der unverkauften Menge einbeziehen. Das Wohlfahrtsergebnis hängt von dieser Ausgestaltung ab.
+
+E2023 russisches Öl: „Höchstpreis ->Knappheit“ nicht mechanisch anwenden.
+Russisches Angebot jenseits von 50 senkrecht, Höchstpreis 60 statt 90: gleiches Volumen
+8 Millionen Barrel/Tag; Rententransfer 30*8 Millionen=240 Millionen
+USD/Tag. Unter den Annahmen kein Rückgang dieses Angebots; der Höchstpreis
+zielt auf einen Lieferanten, nicht unbedingt auf den Preis des ganzen Weltmarkts.
+
+7.5 Steuern und Einnahmen: eine zu prüfende Schlussfolgerung
+Revenue=t*Q(t). Eine Senkung von t verringert die Abgabe pro Einheit, kann aber
+das Volumen erhöhen. Das Vorzeichen von Delta revenue ist ohne Zahlen nicht allgemein.
+Bei unelastischer Nachfrage und kleiner Steuersenkung ändert sich das Volumen wenig und
+die Einnahmen sinken meist. Beide Effekte zeigen, wenn die Aufgabe
+keine Zahlen zulässt. Eine prozentuale MwSt und eine Mengensteuer sind nicht
+identisch; E2025 erlaubt ausdrücklich, die MwSt als Mengensteuer zu behandeln.

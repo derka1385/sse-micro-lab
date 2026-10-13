@@ -1,0 +1,182 @@
+1o5erzw7b5l Two triangles: 0.5×10×10 + 0.5×10×10=100.
+5mzj28x80t 200 is the state's revenue, a domestic transfer in this benchmark.
+oai01gjw2o 450 is the CS loss; it also includes the transfers to producers and the state.
+2471u0ya2cb Beyond autarky, the formula p_w+τ stops applying
+198b82q7sod Our country's autarky price is 50. A tariff of 30 would naively suggest a price of 60, but at that price there would be no need to import anymore: the market can clear locally at 50. Once the tariff is prohibitive, it doesn't generate revenue on imports that don't exist.
+a4d4dmi18m Prohibitive threshold=p_autarky−p_w=20. For τ≥20 in this model, M=0 and p=50. A large country that influences p_w requires a different model, with terms of trade.
+3knvc455fe At a price above 50, domestic supply would exceed demand; imports therefore no longer set the marginal price.
+14380gr7j0n The small-country assumption rules out effects on p_w; you mustn't import a large-country conclusion without analysing it.
+14y5q611pp1 τ=30: p=50, Q_D=Q_S=30, M=0 and revenue 0. It's not p 60, Q_D=20, Q_S 40 with "imports −20".
+17j1hv5tht9 Check M≥0 before applying an importing-country formula; negative imports signal that you've switched regime.
+1svndx0i1nq p_D = 80−Q, p_S = 20+Q, p_w = 30, tariff 30: what domestic price?
+1j61prjd4p2 The autarky price is 50 and the tariff is prohibitive: the country stops importing.
+md2av90rxn p_w+τ=60 no longer applies because the country doesn't remain an importer.
+1harw0r6zqq Why not draw a conclusion here about a large country's optimal tariff?
+1jjnsjmv2xp The world price is taken as given in our model
+28e8dn1fr5f An effect on the foreign price and the terms of trade would require other relationships.
+1lko7zhnnp6 Because no country can influence the world price
+23osnd5dgzg That's a small-country assumption, not a universal truth.
+1g2kpf11bf0 A country that gains can contain people who lose
+1cpwmxx4nnm Cheaper imported food benefits consumers. But owners of farmland receive less for their output; labour may leave agriculture and move into manufacturing. Any total gain doesn't automatically compensate each loser.
+xewgl44cxy Specific factors: land tied to agriculture, capital tied to manufacturing, mobile labour. Each sector hires according to p_j MP_Lj=w; distributional effects are distinct from aggregate gains.
+1amlx0d4v9x The fall in the agricultural price reduces the value of the marginal product of farm labour at a given employment level.
+ezwph7ndt Labour's adjustment changes the incomes of the specific factors; the effect on the real wage also depends on workers' basket and on prices.
+1yai4emgfn1 Food-importing country: a lower import price can improve the terms of trade, while landowners lose. For an agricultural exporter, a lower price received worsens the terms of trade instead.
+27gxj8hiqdw You own land: "the country gains" isn't a description of your income. Ask which good your factor helps produce and what happens to its price.
+22lx9oj0iv0 Does a rise in national welfare prove that every factor owner gains?
+1wih37boki4 No, the effects depend on the sector and the factor
+3tr9dy3z1z The aggregate gain can coexist with losses for land or another specific factor.
+1os4d5ay9fm Yes, because the total surplus is shared automatically
+1uv6pmcz876 Aggregation doesn't describe whether losers are actually compensated.
+wpkicf9ytp Yes, the real wage necessarily rises in terms of all goods
+ada8r6mgjk The real wage depends on the nominal wage and the price basket.
+aquuyapeum A platform's value also comes from who is on it
+m7keekapo7 You want to rent sports equipment. An empty app helps you little; it becomes useful if many owners list relevant equipment on it. Those owners, in turn, have more reason to join if there are already renters: each side influences the value of the other.
+19o65l35h6 Indirect/cross-side network effect: more participants on one side attract the other. Direct effect: users on the same side increase value for each other, as in a multiplayer game.
+27sgiz6q9jm The platform organizes an interaction, not just a collection of pages.
+1i5upk2f261 A direct network links utility to one's own group; a cross-side effect goes from one group to the other.
+1ei63toaf0v Many artists attract an audience; a large audience attracts artists. Reliable reviews and secure payment also make interactions possible, regardless of the mere number of accounts.
+1tpmhgf9wq7 Ask "more of whom makes this service useful for whom?". That sentence identifies both sides and the direction of the effect.
+1xztqyf3iyt More owners listing gear attract renters. Which effect?
+fx8mrpn5jf Indirect/cross-side
+3jqm7wi211 Value rises on one side thanks to the presence of the other side.
+1ctx2ttf3qf Direct between renters
+jpgrh4fsvy The new participants are owners, not renters on the same side.
+z2i2gtmvcl Necessarily decreasing marginal cost
+1cdqj1kvscx The effect describes the network's value, not directly the cost technology.
+p9uuxu76dt To get started, give the first side a reason to come
+fknxyfc8f6 Without owners, nobody comes to rent; without renters, nobody lists their equipment. The platform can subsidize one side to make joining worthwhile for the other. Offering free access can therefore build the network, as well as sorting users by willingness to pay.
+17mvw817jez Chicken-and-egg problem: participation is complementary across sides. Freemium can combine kick-starting the network and self-selection.
+5btdvzerdv The cost of attracting one side can be offset by the value it creates for the other.
+1hj5binnx3w The right subsidy depends on the reactions and revenues of each side; "everything free" isn't a profitable model by itself.
+cr62oruosq A concert platform can offer free access to the first artists to attract an audience, then monetize another interaction. Matching, quality and trust still need checking.
+nwr71vis1u You're launching the platform: say which side gets help, which other side reacts and how the platform can capture value.
+1bp3qy6q1wn Rebuild a plausible launch strategy.
+2cq19lalp6t Low participation on each side makes the other unattractive
+21gqyt721le Targeted help to attract a first side
+22y7hudo2me Higher value of the platform for the other side
+269ql8fmjlb Cross participation, then a monetization option to check
+53yf5k6o9h A big network isn't automatically a natural monopoly
+h0f2wp8q18 A user can sometimes keep accounts on several apps without high cost. An entrant can then attract interactions without making people abandon the existing network entirely. Conversely, exclusivity and switching costs make that entry harder.
+7ia8cy7wiz Multi-homing: using several platforms. Single-homing: just one. Network effects can favour concentration or tipping, but don't prove a natural monopoly in every digital market.
+1ga74lzcwiz The installed network becomes less unassailable if its users can also join the new service.
+3awsnfop66 Concentration also depends on quality, differentiation, congestion, exclusivity rules and switching costs.
+1kdojb4z4fm An owner can list their equipment on two apps. An exclusivity clause or a non-transferable reputation can make this multi-homing harder.
+88txjwalm1 You're analysing a dominant platform: look for what actually stops a user or supplier from trying a rival.
+1gdgdqsakzd Which element makes it easier for another platform to enter, all else equal?
+iyri5n8kkx Easy multi-homing by users
+znmjb1pxv4 They can access the entrant without fully leaving the incumbent.
+1x3l5m7ex8d Mandatory seller exclusivity
+digq3snslv It deprives the entrant of one side of the market.
+ksejfuk0sr Very high switching costs
+1tqvck5p5d2 They make it harder for users to move.
+qwglzmcvex In a second-price sale, your bid mainly decides whether you win
+1pxphvfrt9t You take part in a sealed-bid auction where the highest bidder wins but pays the second-highest bid. So your bid doesn't directly set your price if you win. With private values in the basic model, bidding your true value makes you win exactly when the best rival price doesn't exceed what the item is worth to you.
+zd5np4j5sa Vickrey: second-price sale. Truthful bidding is weakly dominant under the model's assumptions of private values and monetary utility.
+8zz7avwta8 If the rival price is below your value, winning is profitable; underbidding could deprive you of it.
+j53reerfah If the rival price exceeds your value, winning would lose money; overbidding could create that loss.
+89108m52ls Values 80,100,92 million, truthful bids: bidder 2 wins, pays 92 and gets 100−92=8 of surplus.
+1sgyf0zwsd4 The item is worth 100 to you: a bid above 100 doesn't lower the rival price and can make you accept a price at which you lose.
+20zanplfq4u Second-price sale: not all values are paid
+1yyyg5zvba8 million
+1rp18ru01ha Private values 80,100,92; truthful bids. Bidder 2 wins and pays 92, not 100. Their monetary surplus is 8.
+d4t7z7s1n1 Bidder 1's value
+12jlipm89kf Bid of 80 under truthful bidding.
+29i202o0eue Bidder 2's value, winner
+v4k4mbiyqt Highest value, bid of 100.
+2g92mteqama Bidder 3's value / price paid
+291rtt2qsu2 Second-highest bid: it determines the winner's payment.
+1s7f25xpctx Private values 80,100,92, truthful bids: how much does the winner pay?
+1r4bfo2gufy The winner is bidder 2 at 100; they pay the second bid, 92.
+6czq4rmzh 100 is their bid and value, not the second-price payment.
+1lfcr3q5gpo 80 is the lowest bid, not the second-highest.
+28ii63iqisa What surplus does the winner who values the item at 100 and pays 92 get?
+1q0jxgxprm1 Value−payment=100−92=8.
+1uslufmpxl8 The payment rule is an assumption, not a detail
+11jridxsq5l Imagine the item is worth 100 to you. In a second-price auction, underbidding at 90 can make you lose against 95, whereas buying at 95 would have given a gain of 5. In a first-price auction, your bid becomes your payment: the logic of truthful bidding therefore doesn't carry over.
+1qel749iqne Weakly dominant truthful bidding concerns the model's Vickrey rule. In a first-price auction, the trade-off between the probability of winning and the margin requires a strategic analysis of rivals.
+1p0d1dd6eh4 In a second-price auction, changing your bid without changing the winner doesn't change the price set by others.
+1p6sp89tsit In a first-price auction, raising your bid directly reduces the surplus conditional on winning; you need additional beliefs to compute an optimal bid.
+28b76gxt6pr True value 100, best rival bid 95: bidding 100 wins at price 95; bidding 90 forgoes a gain of 5. Bidding 110 against 105 would win with a loss of 5.
+29znnipkc02 When you read "winner pays own bid", stop reciting "bid your value" and identify the new trade-off.
+2gefmprwxai Is truthful bidding weakly dominant in every auction?
+26m5d8fyydi No, you need the second-price rule and its assumptions
+75givght3h First price and common values change the problem.
+1paa2o84256 Yes, whatever price is paid
+1yboyg7u7gq In a first-price auction, your bid determines your payment; the previous proof no longer works.
+rqtkzajnfn When the buyer is the state, the ranking flips
+1np1hijf6fw The town council buys an identical service from three firms. Their costs are 20,000, 24,000 and 28,000. In a reverse second-price procurement auction, the cheapest wins but receives the second-lowest bid: it keeps the difference as profit.
+1yyobgm5t57 Reverse second-price procurement: the lowest bid wins, payment equals the second-lowest, under the model's same quality and private costs.
+1whafo9hpyj The procurer wants to buy a service, not sell an item to the highest bidder.
+1pmat6sqlk9 The rule gives the supplier a reason to reveal its cost in the private-cost model, but it doesn't automatically solve hidden quality after the contract is awarded.
+gn97z3rwp1 A wins with cost 20,000, receives 24,000 and earns 4,000. A payment of 24,000 isn't a profit of 24,000.
+12idvs98ydx You're A: your margin is the payment received minus the resources you use; keep the same monetary unit in both terms.
+1mrijou06sm Costs 20,000, 24,000, 28,000 and a reverse second-price auction: the winner's payment?
+1tmi6mcyxz3 The lowest bid wins; the payment is the second-lowest, 24,000.
+bnav75dygd 20,000 is its cost/bid, not the payment under this rule.
+2eyo8oyoabu 28,000 is the third bid.
+21rjpw90zg6 Cost 20,000, payment 24,000: supplier's profit?
+2e749kf9dxf Winning can reveal you were the most optimistic — if you had a private signal
+2u0dow4iak Several firms estimate the uncertain cost of the same construction project. If each receives a private signal and the lowest bidder wins, winning can indicate you underestimated the cost relative to the others. By contrast, a common weather shock known only through the same public distribution isn't enough to prove this informational selection.
+1afutqcams3 Winner’s curse: information contained in the event "winning", in a common-value/common-cost model with private signals. E2025 doesn't specify these signals on its own.
+tp0a49uz7m A winner selected on an extreme estimate must revise the estimate conditional on winning.
+1681zjo7y7i Without differing private information, this selection mechanism is missing; the contractual risk still needs analysing with the data given.
+1i0js9wqrfz In a sale, the winner may be the most optimistic about the value. In a construction tender, the winner may be the most optimistic about a low cost, hence the risk of a loss-making contract.
+12ntrnt1nq2 Only write "winner’s curse" after saying who observes which signal and why winning brings additional information.
+1tlfy7z9zcv A question only says "future weather affects everyone's cost". Can you claim an informational winner’s curse?
+1aup9xcakyh No, the private signals and selection haven't been specified yet
+2ev516285mn The common shock creates risk, not automatically an informational disadvantage conditional on winning.
+1pjda9sa70f Yes, any common risk is enough
+178gwbmim18 That's the E2025 trap: you have to explain the additional information revealed by winning.
+sj35okbcu3 No, because auctions never involve risk
+1pld902d6s5 Risk is certainly possible; it's the informational mechanism that remains to be shown.
+lvax2l9o2v Two people, the same totals, different tastes
+13fn87xpk3y Christina and Sebastian each have 10 drinks and 10 snacks. Christina values a drink as much as a snack; Sebastian values a snack as much as two drinks. A trade can therefore move snacks to the person who values them relatively more, without producing a single extra good.
+1905irt49n6 E2021: U_C=D_C+S_C; U_S=D_S+2 S_S. Edgeworth box of dimensions 20 drinks×20 snacks, with opposite origins and complementary allocations.
+14z0wq59123 An allocation to Sebastian automatically determines Christina's through the fixed totals.
+2apq8qz7npt The gains come from a better match between goods and preferences, not from an increase in the number of snacks.
+16qe24kg2ie At the start: U_C=10+10=20; U_S=10+2×10=30. In Sebastian's coordinates (D,S), Christina has (20−D, 20−S).
+lb0mgr5gds You're Sebastian: you'd be willing to give up to 2 drinks for a snack; Christina only requires one drink to give up a snack at the margin.
+b79xfmli9k Trade: Sebastian's bundles, Christina's as the complement
+14ecc98vq0x Sebastian's coordinates: D_S horizontal, S_S vertical, totals 20/20. Christina receives (20−D_S, 20−S_S). This feasibility slice doesn't replace the two-origin drawing: it shows the two initial utility levels.
+2xgilm6hyd D_S: Sebastian's drinks
+d1xrcm1cws S_S: Sebastian's snacks
+2g35r0ati0n Sebastian U=30: S=15−D/2
+2gcrcvhvxx2 Above it, Sebastian prefers the bundle to his initial endowment.
+288raxa1h6s Christina U=20: S=20−D
+v53q8uuhcm Below it, Christina prefers the outcome to the endowment, since more of the totals is left for Christina.
+fzp4bj31zd Efficient edge D_S=0
+6932gujk51 No more drinks to transfer from Sebastian to Christina.
+22a98u4tmfk Efficient edge S_S=20
+2eheswqm67r No more snacks to transfer from Christina to Sebastian.
+9qkrbzuvy6 Endowment: U_S=30, U_C=20
+21a6gf9clhr Trade: U_S=31, U_C=21
+18s1nyjrtce Efficient and better for both
+1e6j4c5p3jk Sebastian owns 7 drinks out of a total of 20. How many does Christina own?
+1m7ajwrgj8u drinks
+16dq7li7ie2 20−7=13. Every allocation must respect the totals.
+cqnjuo3bk9 The two bundles are complementary, not identical once they trade.
+1umkxf1pmp4 Test both utilities before declaring a mutual gain
+221oait5qxa Sebastian gives Christina 3 drinks and receives 2 snacks. He ends up with 7 drinks and 12 snacks; Christina with 13 and 8. Each one's utility rises by one unit: a price of 1.5 drinks per snack lies between their relative willingness to trade.
+1m05gl9s4k2 Pareto improvement: nobody worse off, at least one strictly better off. Here U_S=31>30 and U_C=21>20.
+6n96avz59v Sebastian values his two extra snacks at 4 drinks, more than the 3 given up.
+1n5rrng2up Christina loses 2 snacks but receives 3 drinks; Christina's utility rises too.
+f6yqh7hh8c In Sebastian's coordinates: not losing requires D+2 S≥30 and D+S≤20; at least one strict inequality for a real improvement.
+23rbo23wmgz Don't call a trade good because one player gains: also check the bundle left to the other.
+809c51sb00 After the trade, Sebastian has (7 D, 12 S) and U=D+2 S. What utility?
+14vl01muww4 7+2×12=31, versus 30 at the start.
+2dqrnp4sewj Christina has (13 D, 8 S) and U=D+S. What utility?
+1mvrob1dbsr 13+8=21, versus 20 at the start.
+1xg6ccld7pu Different MRSs don't always meet at a tangency
+1lskq2e460w Christina's and Sebastian's linear tastes don't change with their bundle. As long as Sebastian still has drinks and Christina snacks, a small trade at a price between 1 and 2 can improve both. Efficiency is therefore reached at a physical limit: Sebastian has no drinks left or owns all the snacks.
+w0dv4l1zhr Under smooth preferences with an interior optimum, MRS_C=MRS_S. With perfect substitutes here, the MRSs stay different: efficient allocations lie on the edges D_S=0 or S_S=20.
+1pj1udbqdor The tangency condition is a condition for an interior optimum, not a universal equation for every efficient allocation.
+51v0bf87u0 Useful trade stops when the good to be moved in the favourable direction is no longer available, not when tastes become identical.
+1k9c158gvub From the initial endowment without making anyone worse off, the reachable efficient edge is D_S=0 and 15≤S_S≤20. At (0,17), U_S=34 and U_C=23: both gain, and Sebastian can't give up any more drinks.
+2bs2n9318uf First check whether a beneficial marginal trade is still feasible. If a stock is exhausted, don't impose an impossible MRS equality.
+qtvbnost0a Which Sebastian allocation is efficient and improves both from (10,10)?
+u4zii61e7q U_S=34>30, U_C=23>20; Sebastian has no drinks left to transfer for a mutual gain.
+1a966a89cug Both have gained, but Sebastian still has drinks and Christina snacks: further gains are possible.
+1hniipbqvo9 That's the initial endowment; their relative willingness to trade differs and a useful trade is feasible.
+cqren79zcu A gain can't be judged without an opportunity cost or relevant option.
+1cxuhv6bmv7 A given world price, second price or private signals imply different models.

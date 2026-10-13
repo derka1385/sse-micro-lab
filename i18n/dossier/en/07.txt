@@ -1,0 +1,48 @@
+======================================================================
+5. ELASTICITIES — L4 AND A2
+======================================================================
+
+Elasticity of Q with respect to z: % change in Q for a 1% change
+in z, locally. Discrete form in L4: (Delta Q/Q0)/(Delta z/z0).
+Point form: epsilon_Q,z=(dQ/dz)*(z/Q); partial derivative if needed.
+
+Own price: epsilon_D=(dQD/dp)*(p/QD), usually negative.
+Supply: epsilon_S=(dQS/dp)*(p/QS), usually positive.
+Cross price: epsilon_ij=(partial Q_i/partial p_j)*(p_j/Q_i).
+Income: eta=(partial Q/partial I)*(I/Q).
+Positive cross price -> substitutes; negative -> complements.
+Negative income -> inferior; positive -> normal; >1 -> luxury.
+Inelastic demand: -1<epsilon_D<0; unit elastic: -1; elastic: <-1.
+Perfectly inelastic: 0, vertical curve. Perfectly elastic:
+infinite absolute value, horizontal curve in the limiting case.
+
+Approximate change: %Delta Q ≈ epsilon * %Delta z.
+Quantity target: %Delta z ≈ %Delta Q / epsilon.
+Keep the sign: a price fall and a negative epsilon give a rise in Q.
+For a large change, state the convention; the linear approximation
+is not an identity of a constant-elasticity function.
+If Q=A*p^epsilon, exactly: Q1/Q0=(p1/p0)^epsilon.
+Arc elasticity (complement): use the averages (Q0+Q1)/2 and
+(p0+p1)/2 in both percentages. Do not mix conventions.
+
+L4 examples: Q goes 6->4, p 1->2: epsilon on the initial base=-1/3.
+epsilon=-1.5, price falls by 10% ->Q rises by approximately 15%.
+epsilon=-0.5, target Q +5% ->price about -10%.
+eta=-2, income +10% ->Q about -20%.
+
+Linear demand Q=a-bp: derivative=-b constant, epsilon=-b*p/(a-bp)
+VARIABLE. The higher p, the larger |epsilon|, for fixed parameters.
+Inverse demand p=A-BQ: epsilon=-p/(B*Q).
+Do not use dp/dQ instead of dQ/dp without taking the inverse.
+Revenue R=pQ: dR/dp=Q*(1+epsilon_D).
+Elastic demand: a price rise lowers R; inelastic: a price rise
+raises R; unit elastic: revenue locally stationary.
+Profit also depends on costs: maximum revenue and maximum profit
+are not always at the same price.
+
+Longer horizon -> often more substitution possibilities.
+Narrow product definition -> often more substitutes.
+L4 alcohol study, values from the MATERIALS, not universal rules:
+Own-price spirits -1.3, beer -0.9, wine -0.2; cross-price Denmark
+0.3/0.5/0.2; income 1.4/1.0/0.6; stores and Fridays 0.1/0.2/0.2.
+These numbers illustrate empirical estimation, not a formula to memorise.

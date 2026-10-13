@@ -1,0 +1,210 @@
+th0n2b09ze dQ/Q tepkiyi miktara göre, dp/p ise fiyata göre ölçer.
+1fyhmpslm6f Piyasa ve nokta tanımlandığı sürece oranları farklı birimler arasında karşılaştırılabilir.
+a5d1x9fbro Kurgulanmış talep Q = 12 − p: dQ/dp = −1. p = 4 noktasında Q = 8, ε = −1×4/8 = −0,5.
+22bdxqrat0a “Euro başına bir kayıp satış”ı “fiyatın yüzde biri için satışların yüzde kaçı”na dönüştürürsün.
+kq8rm2loq8 Aynı doğru, farklı duyarlılıklar
+1l33i6j2jxa Q, birim
+1duujjeodb3 Öğretici örnek Q = 12 − p. Doğrudan eğim dQ/dp = −1 sabittir ama ε = −p/Q değişir: (8,4)’te −0,5, (6,6)’da −1, (4,8)’de −2.
+l5132hoh2y Talep: p = 12 − Q
+1favkmrdvqs 1 €’luk artış için bir birim kaybetmek her noktada aynı yüzde değildir.
+cukp4x30vo Q’nun p’ye göre nokta esnekliğini yeniden kur.
+1gz60q5tk0p Mutlak türev p/Q ile normalleştirilir.
+14fts9r4fjf Q = 12 − p. p = 4’te εD nedir?
+1yd6nnzfyrl Q = 8 ve dQ/dp = −1, dolayısıyla εD = −4/8 = −0,5.
+2is9xu8gx0 Fonksiyonun türevini yanlış yönde alma
+gq6isa529x Bazen soru sana fiyatı miktarın fonksiyonu olarak verir. O zaman eğimi “birim başına kaç euro”ya cevap verir; oysa talep esnekliği “euro başına kaç birim”i sorar. Hesaplamadan önce talebi yeniden yaz ya da türevi doğru şekilde ters çevir.
+10026115t1h p = A − BQ ise Q = (A − p)/B, dQ/dp = −1/B ve εD = −p/(BQ).
+7i751x6f20 Olağan bir grafiğin eksenleri p(Q)’yu gösterir ama aranan cevap Q(p)’dir.
+1vz62xwgj17 İlişki yerel olarak tersinir olduğunda dp/dQ ve dQ/dp birbirinin tersidir.
+1uyb8lj6lkk Bu ters çevirmeyi unutmak, bazen hâlâ makul bir işareti olan yanlış bir sonuç verir.
+b9vjowzofd Farklı durum: p = 20 − 2Q. Q = 5’te p = 10. dQ/dp = −1/2; ε = −(1/2)×10/5 = −1, −4 değil.
+1qj9q8k56pq Kâğıtta −2 eğimini görürsen “neyin başına iki ne?” diye sor. Bu soru çoğu zaman ters çevirmeyi fark etmeye yeter.
+1y3qam95k2s p = 20 − 2Q, Q = 5, p = 10. εD nedir?
+1wz9kw5lz14 dQ/dp = −1/2 yerine dp/dQ = −2 kullandın.
+21hmhth0t5w Eğim kıpırdamaz, esneklik kıpırdar
+1qc8c4updw9 Q = 12 − p üzerinde fazladan her euro her yerde bir birim kaybettirir. Ama kaybedilen bir birim çok sattığında az, az sattığında çok ağırlık taşır. Doğru değişmez; orantılı tepki noktaya bağlıdır.
+xddv17i64l Doğrusal talep Q = a − bp: doğrudan eğim −b sabit, ε = −bp/(a − bp) değişken. İnelastik: |ε| < 1; elastik: |ε| > 1.
+1ib30yvn4cz Türev mutlak değişimi ölçer ve bu doğru üzerinde sabit kalır.
+13gt0zu7cwp Eğri üzerinde hareket ettikçe p/Q çarpanı değişir.
+2cmqqk7ft93 Yüksek fiyatta ve küçük Q’da belli bir kayıp, Q’nun daha büyük ve fiyatın daha küçük bir yüzdesidir.
+1f2gd2emlp5 Aynı Q = 12 − p: p = 4’te Q = 8 ve ε = −0,5; p = 6’da Q = 6 ve ε = −1; p = 8’de Q = 4 ve ε = −2.
+1uoo44yb8tu Sekizde bir satışı kaybetmek dörtte birini kaybetmekten daha az ağırdır, iki kayıp da bir euroluk artıştan gelse bile.
+usmzqe2r7z Q = 12 − p: p = 8’de εD’yi hesapla.
+1pur74kov50 εD = −2 şu tür bir talebi tanımlar…
+295n66y022r İnelastik, çünkü −2, −1’den küçüktür
+u9o4a6k39w |ε| 1 ile karşılaştırılır; negatif işaret yönü tanımlar, küçük bir büyüklüğü değil.
+23k6o52w39o Elastik
+2gcrqhn9xmi Mutlak değerce orantılı tepki 1’i aşar.
+7tl4xuf3e4 Satıcı birim başına daha fazla kazanır ama daha az satar
+bqm2eygwdn Bir fiyat artışının hasılat üzerinde iki etkisi vardır: satılan her birim daha fazla getirir ama bazı satışlar kaybolur. Alıcılar az tepki verirse ilk etki baskındır. Çok tepki verirlerse satış kaybı baskındır.
+o3glwurr3c R = pQ(p), dolayısıyla dR/dp = Q + p·dQ/dp = Q(1 + εD). İnelastik: p’deki artış R’yi yerel olarak artırır; elastik: R’yi azaltır.
+whtzo0u4an R = pQ(p). p değiştiğinde iki etkiyi de hangi ifade sayar?
+y4rbzj4zdg Q, satışlardaki yüksek fiyattan gelir; p·dQ/dp satışlardaki değişimden gelir.
+xkgw2y0ad6 Yalnızca Q
+10rvo8q12in Alıcıların miktarlarını değiştirdiğini unutuyorsun.
+1kzk74njn02 Yalnızca p·dQ/dp
+275y3v88b3z Satılmaya devam eden birimlerden alınan fazlayı unutuyorsun.
+1297rboq669 pQ’nun iki bileşeni de değişir; çarpım kuralı gerekir.
+1sw3lh3lm2y Q > 0 iken 1 + εD’nin işareti hangi etkinin baskın olduğunu gösterir.
+151y6m1ijqz Bu sonuç küçük, yerel bir değişimle ilgilidir; büyük bir değişim için iki hasılatı doğrudan hesapla.
+1dsn9y2aoun Q = 12 − p için: p = 4’te R = 32; p = 5’te Q = 7, R = 35. p = 8’de R = 32; p = 9’da Q = 3, R = 27.
+1ldqx7r2aah Bir koltuğu daha pahalıya satıyorsun. Kuyruktan ayrılan öğrencileri unutma: yeni etiket hasılatının tamamı değil.
+48gvi6bsmh Fiyat yükselir; hasılat her zaman yükselmez
+al6seu2os6 € hasılat
+1xi5gp6fvn2 Aynı kurgulanmış talep Q = 12 − p. Hasılat = pQ; henüz maliyet verilmediği için bunlar kâr değil hasılattır.
+3rgce7n9ou R = 6×6 = 36; birim esneklik, bu doğru için R’nin tepesi.
+sinj0k6rbt R = 8×4 = 32; yerel olarak elastik talep.
+23640mgfie1 εD = −0,4. p’deki küçük bir artış R’ye ne yapar?
+pndtaernk Q düştüğü için R düşer
+1kba7x52p22 Satılmaya devam eden birimlerden alınan fiyatı unutuyorsun.
+d6g3y205v5 R artar
+2f62z4rtdqq 1 + ε = 0,6 > 0: miktar, fiyatın arttığından orantılı olarak daha az düşer.
+25p13v3jowo Q = 12 − p: p = 6’da hasılat ne?
+2e6m06fcc7x Q = 6, dolayısıyla R = 6×6 = 36.
+1lf180i6g31 Azami hasılat azami kâr demek değildir
+1abgnp3t3wc Satıcı hasılatının tamamını tutmaz: üretmek için de öder. Dolayısıyla pQ’yu maksimize eden fiyat, çok pahalıya mal olan birimleri üretmeye yol açabilir. Esneklik seçimin bir kısmını açıklar; kâr için maliyetler de gerekir.
+1i58i8jmo6s Kâr π = R − C. Azami R içeride MR = 0 demektir; azami kâr diğer kontrollerle birlikte MR = MC demektir.
+1s3qfef8sqq Ek bir satış, kattığından daha fazlasına mal olurken hasılatı artırabilir.
+19cwz4rou9t Hasılat maksimizasyonu bu ek maliyeti yok sayar.
+18m60n0aybt MC > 0 olur olmaz kâr için anlamlı durma noktası genellikle hasılat tepesinden önce gelir.
+2th76fhh0g Aynı ters talep p = 12 − Q, kurgulanmış maliyet C = 2Q. Azami hasılat: Q = 6, p = 6, kâr = 36 − 12 = 24. Azami kâr: MR = 12 − 2Q = 2 ⇒ Q = 5, p = 7, kâr = 35 − 10 = 25.
+19go82xzq0e Yalnızca kasaya ne kadar girdiğine bakmazsın; kahvelerin maliyetinden sonra ne kaldığına bakarsın.
+aucpyuhvrt Birim esnek bir talep ε = −1 azami kârı garanti eder mi?
+b0q7qlruhh Evet, çünkü hasılat azamidir
+1t5bvxq4k4j Bu ancak maliyetler ve tanım aralığı hakkında ek varsayımlarla garanti olurdu.
+1wltdfol9ac Hayır, yerel olarak durağan bir hasılatı gösterir; kâr için maliyetler önemlidir
+1krgoorn14y Kâr, MR’yi marjinal maliyetle karşılaştırır.
+ncbsb2f6ts A2: tahmin etmek için işareti ve zaman ufkunu kullan
+1w93uptld75 Yetkili makam daha yüksek bir benzin fiyatının etkisini bilmek istiyor. İstenen zaman ufkuyla başla ve talebin negatif işaretini koru. Fiyat artışı negatif bir esneklikle çarpılınca miktarda düşüş verir.
+1durs949tjb Yaklaşım: %ΔQ ≈ ε·%Δp. Bir hedef için: %Δp ≈ %ΔQ/ε.
+1nj4r8kj7at Fiyatın %1’i başına miktar yüzdesi, ε’nin tam anlamıdır.
+2apnpiy94nu Verili bir değişim için çarpmak bu mantığı yerel bir yaklaşım olarak korur.
+2fe7pm9hm74 Gereken politikayı bulmak için hesap ters çevrilir ama işaretler korunur.
+zptgdjd72j A2: εSR = −0,25; εLR = −0,60. Fiyat +%5 ⇒ QSR ≈ −%1,25, QLR ≈ −%3. Hedef QLR −%15 ⇒ fiyat ≈ (−15)/(−0,60) = +%25.
+b9wjr2qns1 Hesap makinesine dokunmadan önce yönü tahmin et: azalan bir talepte benzini azaltmak için fiyat artmalıdır.
+1ilybs6nopr εSR = −0,25 ve fiyat +%5. Q’daki yaklaşık değişim % olarak?
+1zzvonvk0u1 −0,25×5 = −%1,25. Miktardaki düşüşü koru.
+24r3k50xfdp εLR = −0,60; hedef Q −%15. Yaklaşık fiyat artışı % olarak?
+1mhfv4yo03s (−15)/(−0,60) = +%25. Bu orantılı yaklaşımdır.
+1k6skzlhm43 Büyük bir değişim yaklaşımın sınırını ortaya koyar
+88q0oziz08 Yüzdeleri çarpmak başlangıç noktasına yakın pratiktir. Büyük bir artışta talebin eğriliği önem kazanabilir. Soru sabit esneklikli bir fonksiyon dayatıyorsa farklı bir kesin ilişki verir: sayıdan önce kuralı belirt.
+1i0hv1ucgt1 Q = A·p^ε ise Q1/Q0 = (p1/p0)^ε. Dolayısıyla p1/p0 = (Q1/Q0)^(1/ε). Doğrusal yaklaşım bu kesin özdeşlik değildir.
+1yns6fs3oka Yerel esneklik sonsuz küçük bir tepkiyi ölçer; uzun bir değişime tek bir eğim uygulamak yolu basitleştirir.
+5u90jlitdc Sabit esneklikli bir fonksiyon yolun tamamını tanımlar ve kesin hesaplamaya izin verir.
+1fr0vxi7jyb İki sonuç farklı kurallara dayanır; biri, ötekini bir özdeşlik gibi sunmaya izin vermez.
+1litnvor235 A2: hedef Q1/Q0 = 0,85 ve ε = −0,60. Q = A·p^−0,6 ise kesin: p1/p0 = 0,85^(−1/0,6) ≈ 1,3111, yani +%31,11. Olağan yaklaşım: +%25. Fark ≈ 6,11 yüzde puan.
+23s07clcmg4 Sonucu göstermeden önce “orantılı yaklaşım” ya da “kesin sabit fonksiyon” yazarsın: böylece değerlendiren seçilen modeli görür.
+bi4y6kh9h1 ε = −0,60 ile −%15 hedefi için +%25 sonucu…
+18fbvy8nasw ε’nin başlangıçta −0,60 olduğu her fonksiyon için kesindir
+36tcnn8vro Başlangıç noktasındaki bir esneklik fonksiyonun tamamını belirlemez.
+gdjd6bsasc Orantılı yaklaşımdır, Q = A·p^−0,6’nın kesin sonucu değil
+2chgtefqu6j Üslü fonksiyonun kesin hesabı yaklaşık +%31,11 verir.
+ns2nu0gitf Kurgulanmış talep Q = A/p, dolayısıyla ε = −1. Q’yu yarıya indirmek için p tam olarak yüzde kaç artmalı?
+j4f04y1ptq Q1/Q0 = p0/p1 = 1/2 ⇒ p1 = 2p0: fiyat +%100, +%50 değil.
+7uavg115yf Değişen fiyat başka bir malın fiyatı
+28d1gy1j8uk Çayın fiyatı artıyor ve daha fazla kahve alıyorsun: bu, birinin ötekinin yerine geçtiğini düşündürür. Bisküvinin fiyatı artıyor ve onlarla birlikte içilen kahveler azalıyor: bu tamamlayıcılığı düşündürür. İşaret, “her talep negatiftir” kuralından değil, gerçekten değişen belirleyiciden okunur.
+6awag2yska Çapraz fiyat esnekliği εij = (∂Qi/∂pj)·(pj/Qi). Pozitif: ikameler; negatif: tamamlayıcılar, verili modelde.
+1i7szcj8pr1 i malının fiyatı veri kalır: başka bir fiyatın yol açtığı talep kayması ölçülür.
+zywx2u5ilh Öteki mal daha az cazip hâle gelir ve i’ye geçilirse tepki pozitiftir.
+1mkm4sy16ol Mallar birlikte kullanılıyorsa birini pahalılaştırmak ikilinin kullanımını azaltır ve Qi’yi düşürebilir.
+f42o4v50lg Kurgulanmış alıştırma: εkahve,çay = +0,4 ve çay fiyatı +%10 ⇒ kahve ≈ +%4. εkahve,bisküvi = −0,2 ve bisküvi fiyatı +%10 ile ⇒ kahve ≈ −%2.
+27gcw82o8d4 İşareti hesaplamadan önce açıklayabilirsin: “çayın yerine koyuyorum” ya da “ikiliden daha az alıyorum”.
+24n2g9cduxn εkahve,çay = +0,4. Çay fiyatı +%10. Kahvelerdeki yaklaşık değişim % olarak?
+hfxt4j37bw 0,4×10 = +%4. Bu durumda kahve ve çay ikamedir.
+r474x9lh9y Negatif bir çapraz esneklik şunu gösterir…
+18ybbgx4tn8 Bağlar hakkında bilgi içermeyen sıradan bir kendi fiyatı talebi
+1o1mwopd70 Fiyatın indisi önemlidir: söz konusu olan başka bir malın fiyatı pj’dir.
+ygwd4q9il0 Tamamlayıcılar
+kl1evt9kj4 Öteki malın fiyatı artar ve incelenen malın miktarı düşer.
+11j49agcqy Gelirin değiştiğinde işaret başka bir şey anlatır
+153kb8wzcy9 Daha fazla gelirle normal bir maldan daha fazla alabilirsin. Bütçe darken kullandığın bir malı da bırakabilirsin: o zaman o gelir aralığında düşük maldır. Bu terimler malın ahlaki ya da maddi kalitesini değil, bir miktar tepkisini tanımlar.
+q1kxeujxcf Gelir esnekliği η = (∂Q/∂I)·(I/Q). η < 0: düşük mal; η > 0: normal; η > 1: lüks; 0 < η < 1: normal zorunlu mal.
+1qm9ole8pzx Fiyatlar sabitken gelir erişilebilir sepetleri değiştirir.
+tzyco1cmt0 Tepki tercihlere ve gözlenen gelir düzeyine bağlıdır.
+1c757h4vx72 Aynı mal, ihtiyaçlar ve alternatifler değiştiğinde kategori değiştirebilir.
+1hsoo8v8si0 Kurgulanmış örnekler: η = −2, gelir +%10 ⇒ Q ≈ −%20. η = 1,4, gelir +%10 ⇒ Q ≈ +%14: bu mal incelenen aralıkta normal ve lükstür.
+jw6iwyv24o Düşük gelirde bir hostel normal seçeneğin olabilir, sonra imkânların arttıkça yerini bir otel alabilir. “Düşük mal” bu seçimi tanımlar.
+2fr0610vuek η = −2, gelir +%10. Q’daki yaklaşık değişim % olarak?
+2e6x155iifc −2×10 = −%20. Mal bu aralıkta düşük maldır.
+1epd5rswiye η = 1,4 şu demektir…
+26v4ydzxl75 Pahalı olduğu için kalitesiz bir mal
+iazl3mcki1 Bu sınıflandırma ne kaliteyi ne de fiyat düzeyini yargılar.
+1hdp69021yv Miktarı gelirden orantılı olarak daha fazla artan normal bir mal
+1g0ton7yifo 1,4 > 1: gelir esnekliği anlamında lüks mal.
+1jr4k7lg1t8 İki nokta: hangi tabanı kullandığını belirt
+kcamnir2kv 6’dan 4’e bir değişim, taban olarak 6, 4 ya da ortalamalarını alırsan aynı yüzdeyi vermez. İki noktayı simetrik karşılaştırmak için yay yöntemi ortalamaları kullanır. Öteki değişken için başlangıç tabanıyla karıştırılmamalıdır.
+lh46rr9fwk Yay esnekliği: [ΔQ/((Q0+Q1)/2)] / [Δp/((p0+p1)/2)]. İki payda da aynı kurala uyar.
+s4mefamj6h Başlangıç tabanı, değişimi hangi yönde izlediğine bağlıdır.
+16xle7jl6ar Ortalamalar iki noktaya simetrik davranır.
+twtey4ps2k Tabanı değiştirmek kesikli ölçüyü değiştirir; kuralı belirtmek hesabı yorumlanabilir kılar.
+2bfg9rvvkho Q: 6 → 4, p: 1 → 2. Yay: (−2/5)/(1/1,5) = −0,4/(2/3) = −0,6. L4’ün başlangıç tabanı: −1/3. Veriler aynı; kural farklı.
+1zrd346r3xz Kâğıdına “yay, ortalama tabanlar” yazar ve Q için beş, p için 1,5 kullanırsın; beş ile biri karıştırmazsın.
+1us8nsjopqd Q: 6 → 4, p: 1 → 2. Ortalama tabanlarla yay esnekliği ne?
+1jqo86dl1uf Ortalamalar: Q = 5, p = 1,5. (−2/5)/(1/1,5) = −0,6.
+1n14r19ikmj Ortalama Q ama başlangıç p’si kullanmak şunu verir…
+1cn5g1h1frd Tanım gereği yayla aynı şeyi
+8mpvxvz2k9 Yay iki yüzdede de ortalamaları alır.
+1rttxfnfykx Kaçınılması gereken bir kural karışımı
+1fcumo7ta0n Oran ne tanımlanan yay ölçüsüdür ne de başlangıç tabanlı ölçü.
+1m08l1fdmo1 Sınır durumlar ve son kontrol
+xl6k0loaa2 Fiyat hareket ettiğinde miktar hiç değişmiyorsa talep tam inelastiktir. Sınır modelde sonsuz küçük bir fiyat farkı alımları tersine çeviriyorsa tam elastiktir. Arada işareti ve noktayı koru: bütün bir doğruya otomatik olarak tek bir esneklik atayamazsın.
+17xeg5ye94h Dikey talep: ε = 0. Sınır durumda yatay talep: |ε| sonsuz. Q = 0’da ε = (dQ/dp)p/Q tanımsızdır; gerekçeliyse bir limite bak.
+1j82mjfklup Dikey bir doğru fiyattan bağımsız olarak Q’yu sabitler: dQ/dp = 0.
+2fjmu245s2f Yatay bir doğru kabul edilebilir fiyatı sabitler ve ideal modelde keyfi derecede güçlü bir miktar tepkisine izin verir.
+z5kqmkdkbu Q’ya bölmek bir tanım aralığı dayatır: Q’nun sıfır olduğu noktada gerekçesiz sonlu bir oran verme.
+1sjd4am4ck4 Kurgulanmış talep Q = 12 − p: p = 0 ve Q = 12’de o noktada ε = 0; bu tüm doğruyu dikey yapmaz. p alttan 12’ye yaklaştıkça Q 0’a yaklaşır ve |ε| çok büyür.
+1fw2bj584uf Sınıflandırmadan ya da hasılat hesaplamadan önce “hangi fiyat? hangi miktar? hangi değişken değişti? hangi kural?” diye kontrol edersin.
+ag9ro98t7c Tam inelastik bir talebin eğrisi…
+sjl9t4u08p Yataydır, çünkü ε = 0 yatay eğim demektir
+dca2dswwo2 dQ/dp’yi çizilen eğim dp/dQ ile karıştırdın.
+17i9caezzlr Dikeydir: p değiştiğinde Q değişmez
+1u0qch1dmob Q’nun orantılı tepkisi sıfırdır.
+170hodeyruu Fiyat artışının hasılatı neden düşürebileceğini kendi sözlerinle açıkla.
+27uhnaqwzcd Birim başına daha fazla
+122ytyr8ihs Kaybedilen satışlar
+1fgw68gohan Baskın orantılı tepki
+wfa59edzv0 Daha yüksek fiyat satılmaya devam eden her birimden daha fazla getirir ama satışları azaltır. Talep elastikse miktardaki orantılı düşüş fiyat artışından ağır basar: hasılat düşer.
+zf0nopyu8v Kendi fiyatı, başka bir fiyat ve gelir aynı tepkiyi tanımlamaz; kısa ve uzun dönem aynı olanakları sunmaz.
+1krcs26et5f Değişimi birimli ham bir eğimle değil, başlangıç düzeylerine göre karşılaştırmak isteriz.
+2dbd21z5be1 İşaret yönü tanımlar; büyüklük aynı doğru boyunca değişebilir.
+biu2gr5ep Yerel yaklaşım, yay ve kesin üslü fonksiyon farklı rakamlar verebilir.
+zanm4c6l3z Tepki ikameyi, malın türünü, bir miktar hedefini ya da hasılata etkiyi gösterir; bir kâr hesabının yerini tutmaz.
+1pum31gpx28 ε = −0,6, belirtilen zaman ufkunda ve noktada p arttığında Q’da orantılı bir düşüşü tanımlar. −15/(−0,6) = +%25 hesabı orantılı yaklaşımdır. Değişimin tamamı için Q = A·p^−0,6 dayatılırsa kesin artış yaklaşık %31,11’dir. İnelastik bir talep küçük bir fiyat artışında hasılatı yükseltir; kâr maliyetlere de bağlıdır ve büyük bir değişim düzeylerin karşılaştırılmasını gerektirir.
+24ksbgoyrs Değişkeni ve zaman ufkunu belirle
+27vn4gnu83f Tepkiyi yüzdelere çevir
+maiwn1fgdz İşareti ve noktayı koru
+1u9ldqbbdzk Belirtilen bir kurala göre hesapla
+knek3w6ome İktisadi karara geri dön
+uyg30g9nby Bir arkadaşın “benzinin ε’si −0,6, yani fiyatını %25 artırmak Q’yu tam %15 azaltır ve kârı mutlaka artırır” diyor. Neyin doğru olduğunu, neyin eksik olduğunu ve nasıl akıl yürüteceğini açıkla.
+5w0sgi59l3 Negatif orantılı duyarlılık
+oh9esg6g33 Fiyatta %1 artış yerel olarak Q’da yaklaşık %0,6 azalma verir.
+lk2uppaifk %25 bir yaklaşımdır
+1kv1etf0v7o Büyük bir değişim açık bir model ya da kural gerektirir.
+lubmbxeel4 |ε| < 1 ile fiyat etkisi yerel olarak baskındır.
+kwyngprinw Kâr için maliyetler
+1a0e398p3fd Hasılat π hakkında sonuca varmaya yetmez.
+c6vwww5n82 Türev p/Q ile normalleştirilmelidir; bir doğru üzerinde esneklik noktayla değişir.
+17p6i00pqoi %25, A2 hedefi için yaklaşımdır. Q = A·p^−0,6 için kesin çözüm yaklaşık +%31,11’dir.
+1wuw3azlq36 Kâr maliyetleri çıkarır. Daha yüksek hasılat daha yüksek kârı kanıtlamaz.
+1iet1i42reo L4, A2.1 ve §20 tuzaklarına dayalı kurgulanmış alıştırma. Doğrusal talebin ve kesin hedefin değerleri didaktik varyantlardır, resmî bir sınav sorusu değil.
+2bex13zy1i0 dQ/dp = −2, Q = 80, ε = −2×20/80 = −0.5 : inelastic.
+svbbli5lp6 p1/p0 = 0.8^(−2) = 1.5625, exact +56.25%. Approximation: (−20)/(−0.5) = +40%.
+vonuwse6vt Doğrudan talebi belirle ve istenen noktada Q’yu hesapla.
+1rkwgau46fn Türevi p/Q ile normalleştir, sonra |ε| ile sınıflandır.
+205ik13qbbn Yerel bir sonucu körü körüne genellemek yerine iki noktada R = pQ’yu hesapla.
+1coehiwdse0 Öteki piyasadaki kesin değişim için üslü fonksiyonun oranını kullan.
+1enkr6gx67j (Q,p) = (80,20) ve (70,25)’i, sonra karşılık gelen pQ dikdörtgenlerini işaretle.
+28xcgcfui4o Bu doğruyu sabit esneklikli öteki piyasayı göstermek için kullanma.
+1hy6rg6vb3i Bir talep şu durumda elastiktir…
+1bk365e7o45 Büyüklüğü ne olursa olsun εD negatifse
+hwx8ul3jsw Azalan taleplerin çoğu negatif işaretlidir; bu büyüklüğü sınıflandırmaya yetmez.
+wqo8a2ao4f Q’nun orantılı tepkisi fiyatınkini aşar.
+awyf40xayi Pozitif bir çapraz esneklik şunu gösterir…
+gf46ebxwq1 Bir lüks mal
+12p9sicfth6 Lüks, çapraz esneklikle değil gelir esnekliğiyle okunur.
+1zud98yev5d Verili modelde ikameler
+12lkc97iadv Öteki malın fiyatı artar ve incelenen talep artar.
+1edylwewpik Türev neden p/Q ile normalleştirilir?
+q83w0ctw1t Tüm esneklikleri pozitif yapmak için
+1v4fkhyt77j Normalleştirme türevin işaretini kaldırmaz.
+nz2doue3po Mutlak tepkiyi orantılı tepkiye çevirmek için

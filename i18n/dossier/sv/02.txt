@@ -1,0 +1,73 @@
+======================================================================
+0. HUR DU ANVÄNDER DEN HÄR FILEN OCH VAD DEN TÄCKER
+======================================================================
+
+Mål: förstå mekanismerna, känna igen vilken modell som ska tillämpas,
+kunna härleda formlerna, räkna, rita och förklara på engelska.
+Detta dossier är en pedagogisk sammanfattning, inte en officiell SSE-lösning.
+Numeriska resultat som presenteras som ”omräknade” har härletts ur
+uppgiftstexterna. Personliga svar i assignments behandlas inte
+som en auktoritet. De viktigaste felen eller oklarheterna är markerade.
+
+Hela korpusen i mappen Microeconomics: 23 PDF:er, 373 sidor.
+12 föreläsningar, 5 assignments numrerade 2 till 6, 6 slutprov 2020 till 2025.
+Text extraherad från alla sidor; visuell genomgång av föreläsningar och
+assignments, med kontroll av tabeller inbäddade som bilder och av
+relevanta beräkningar. Sista sidan i tentan 2020 är tom.
+Sidantalen inkluderar omslag, instruktioner och tomma sidor.
+
+Korpusens begränsningar, att behålla i varje sammanfattning som görs utifrån den:
+- Inget assignment 1 eller 7 finns.
+- Endast föreläsningarna 1 till 12 finns. Schemat i Lecture 1
+  aviserar fortfarande plattformar och internationell handel vecka 7.
+- Auktioner och vissa delar av spelteori förekommer i
+  tentor eller assignments utan motsvarande fullständig föreläsning här.
+- De sex PDF:erna med past exams är SLUTTENTOR, inte midterms,
+  och innehåller inga officiella lösningar.
+- En frekvens över sex gamla tentor beskriver detta urval; den är
+  ingen sannolikhet för att förekomma på nästa tenta.
+- Datum, regler och aktuella exempel som nämns är materialets.
+  Detta dossier kontrollerar inte de nuvarande administrativa reglerna på Canvas.
+
+Källmarkeringar: L1 till L12 = föreläsningar; A2 till A6 = assignments;
+E2020 till E2025 = tentor. ”p.” betyder PDF-sida, räknad från 1.
+”Komplement” = en rekonstruerad standardförklaring för att lösa en uppgift,
+inte ett påstående om att en extra föreläsning har hittats.
+
+PROMPT ATT GE CHATGPT TILLSAMMANS MED DENNA FIL
+”Du är min handledare i mikroekonomi inför tentan SSE BE 501. Använd detta
+dossier som huvudkontext. Förklara på svenska och behåll de engelska
+termerna och förkortningarna jag kommer att möta på tentan. För varje
+ny symbol, skriv ut dess engelska namn, översätt det, ange dess enheter
+och dess roll. För varje formel, förklara var den kommer ifrån, varför den
+gäller, dess antaganden, hur man känner igen när den ska användas och när
+den inte gäller. Låt mig först identifiera målet, bivillkoren,
+valvariabeln och modellen. Föreslå övningar med stigande svårighet,
+låt mig försöka och rätta sedan mitt resonemang och mina grafer.
+Träna mig också i att ge korta, motiverade svar på engelska.
+Skilj mellan dokumenterade delar, omräknade resultat och
+komplement. Hitta inte på officiella lösningar, frekvenser eller saknat
+kursinnehåll. Om jag ber om sammanfattningar, en webbplats eller övningar, täck även
+de gränsfall och fallgropar som listas här.”
+
+DISPOSITION
+1. Inventering och koppling mellan föreläsningar, assignments och tentor
+2. Gemensam logik och matematiska verktyg
+3. Utbud, efterfrågan, jämvikt och chocker
+4. Konsument, preferenser, budget och efterfrågan
+5. Elasticiteter
+6. Produktion, kostnader och utbud under konkurrens
+7. Överskott, skatter, subventioner och reglerade priser
+8. Monopol och monopolistisk konkurrens
+9. Diskriminering, segmentering, bundling och tariffer
+10. Oligopol, Cournot, Bertrand och Stackelberg
+11. Externaliteter, föroreningar, kollektiva nyttigheter och allmänningar
+12. Asymmetrisk information, kontrakt och incitament
+13. Spelteori i Assignment 3
+14. Tentakomplement: handel, plattformar, auktioner och utbyte
+15. Assignments: omräknade resultat och metoder
+16. Tentor: karta över frågor och referensresultat
+17. Övergripande formelsamling och val av metod
+18. Förteckning över förkortningar och symboler
+19. Tvåspråkigt lexikon över begrepp och tentaverb
+20. Fallgropar, rättelser, grafer och repetitionsväg

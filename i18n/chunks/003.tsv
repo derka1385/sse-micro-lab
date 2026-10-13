@@ -1,0 +1,217 @@
+7xsyc1uc4h	Ces panneaux « manquent » au sens où ce ne sont pas des panneaux détruits : ce sont des échanges qui auraient créé de la valeur et qui n’ont jamais eu lieu.
+1s1bn7ddyvi	Pour le panneau au point 20, l’acheteur devrait payer au moins 50 (le coût) pour une valeur personnelle de 40. Les 20 € des voisins ne sont pas dans sa poche.
+29xkfw5rieb	L’écart diminue de 18 vers 22 parce que MSB baisse et MPC monte : la perte du panneau au point 19 (63 − 48 = 15) est plus grande que celle du point 22 (0).
+1sonjsf10m7	Clique les petites barres sur le graphique : chacune est un panneau manquant, avec sa valeur sociale et son coût.
+1x9g192pgo8	Tu refuses le panneau au point 20 : il te coûterait 50 pour 40 de valeur. Raisonnable pour toi. Mais tes voisins y auraient gagné 20 : à vous tous, 60 de valeur pour 50 de coût. Un bon accord collectif que personne ne signe.
+178qmryrz9y	Les barres entre 18 et 22 sont les panneaux manquants. Chaque barre va de MPC (coût) à MSB (valeur sociale) : sa hauteur est ce que la société perd sur ce panneau.
+kehs6ghc6u	Panneau au point Q = 20 : combien la société perd-elle parce qu’il n’est pas produit ? (MSB − MPC)
+1jyqxfmcdiu	20 = MEB : c’est l’écart MSB − MPB. On cherche valeur sociale − coût : MSB − MPC.
+1bahqy71lp8	MPB − MPC = 40 − 50 = −10 : c’est pourquoi l’acheteur refuse. Mais la perte sociale compare MSB à MPC.
+2a1ogp4q5zv	courbes A6
+20ttd7swtld	raisonnement unité par unité
+t4g41tb9gg	Ce que la société perd : la perte sèche
+1yjcnyu8yp4	DWL, valeur jamais créée
+1hr4wia57kg	Pour chaque panneau manquant, la société perd (sa valeur sociale − son coût). Le panneau au point 18 aurait apporté 20 de plus, celui au point 22 : 0. Additionne toutes ces pertes : tu obtiens l’aire du triangle entre MSB et MPC, de 18 à 22.
+8p7mcv939s	[[DWL]] = aire entre MSB et MSC sur [Qm, Q*] = ½ × (22 − 18) × 20 = 40.
+rp41f5sw7y	Cette zone a la forme d’un triangle. Base et hauteur ?
+17zvv6rig2i	Base 22 − 18 = 4 ; hauteur 66 − 46 = 20 (l’écart à Q = 18)
+10ou2ll4f6x	Oui : l’écart vaut 20 au point 18 et tombe à 0 au point 22.
+upelu3lzf9	Base 22 ; hauteur 20
+abxhih2d32	La base ne part pas de 0 : seules les unités entre 18 et 22 manquent.
+1h0cfwpenk1	Base 4 ; hauteur 46
+29vbncflj42	46 est un prix, pas l’écart entre valeur sociale et coût.
+13d8wz7fmvb	Vérification par le bien-être total : W(22) − W(18) = 1210 − 1170 = 40 (§15 A6).
+221d4lw8s2a	Prends un panneau manquant entre 18 et 22. Sa hauteur dans le triangle = ce qu’il vaut pour la société (MSB) − ce qu’il coûte à produire (MPC). Cette différence, c’est du bien-être qu’on aurait pu créer et qu’on n’a pas créé. Fais-le pour chaque panneau manquant : les tranches empilées forment le triangle.
+26dxyy7ozb	C’est un triangle parce que l’écart vaut 20 au point 18 et 0 au point 22, et qu’il diminue en ligne droite (courbes linéaires) : la somme des tranches = ½ × base × hauteur (§2.3).
+22z22fqd8z5	Le benchmark est SOCIAL : on mesure ce que la société perd par rapport au MEILLEUR résultat pour elle (Q* = 22), pas par rapport au marché. Entre 18 et 22, il n’y a d’ailleurs rien entre MPB et MPC : MPB est SOUS MPC (§11.2, §20.2).
+fy9rr4pk1r	Vérification : W = CS + PS + bénéfice externe. Sans intervention : 486 + 324 + 360 = 1170. À l’optimum : 1210. Écart : 40 = DWL (§15 A6).
+2u825hnpjw	Vaccins E2020 Q3 : DWL = ½ × (55 − 45) × 20 = 100.
+1gndepeu6w3	Tes voisins et toi auriez pu, ensemble, payer 4 panneaux de plus et en sortir plus riches de 40 € au total. Ces 40 € ne sont allés à personne : ils n’ont jamais existé.
+2el1lhc0l51	Clique le triangle rouge : chaque tranche verticale est un panneau manquant ; sa hauteur = MSB − MSC à ce point.
+oi51s5j3hd	Calcule la DWL du marché sans intervention.
+t9javt8wup	Tu as oublié le ½ : l’écart n’est pas 20 pour chaque panneau manquant, il passe de 20 à 0.
+wmrscwkzl5	360 = 20 × 18 = bénéfice externe TOTAL des panneaux produits. Ce n’est pas une perte.
+4a7ajkhmmf	440 = 20 × 22 : dépense de la subvention optimale. C’est un transfert, pas la DWL.
+1r2yoih6dxx	Pourquoi le triangle est-il AU-DESSUS de MPC et EN DESSOUS de MSB ?
+ysaowetgrs	Parce que la hauteur de chaque tranche = valeur sociale du panneau manquant − son coût
+rtnkd0quol	Exactement : c’est la valeur nette perdue, unité par unité.
+1b25d7h1h4g	Parce qu’une DWL est toujours entre l’offre et la demande
+13atmw15kg0	Pas ici : entre 18 et 22, MPB est sous MPC. Avec une externalité, le benchmark est SOCIAL (MSB, MSC).
+1bg1eswfmj3	Parce que l’État paie ce triangle
+1ypc697sqhu	Personne ne paie ce triangle : c’est une valeur qui n’existe pas.
+1o5odl4yb3d	mesure de la DWL
+3oxv464gey	Comment faire acheter les panneaux manquants ?
+wlpgg0rexl	Le problème : l’acheteur ignore les 20 € des voisins. Idée : l’État verse 20 € par panneau. Ton calcul privé devient alors « ma valeur + 20 » = exactement la valeur pour la société. Tu achètes donc comme si tu comptais tes voisins.
+kjrkeko9n0	Subvention pigouvienne : {{s* = MEB(Q*) = 20}}. Équilibre : MPB + s = MPC ⇒ Q = 22 ; p_b = 34, p_s = 54.
+12w0eyn2v14	De combien doit être la subvention par panneau pour que le marché s’arrête exactement à 22 ?
+24olx5mt6y7	Oui : elle comble exactement l’écart entre MPB et MSB au point Q*.
+1x6hb6508f4	40 = la DWL
+cm0suy4d8z	La DWL est une aire (€), la subvention un montant par unité (€/panneau).
+1fqa4u5zp9p	54 = le coût du 22e panneau
+vyz92fu7n	L’État ne paie pas tout le panneau : seulement l’écart entre valeur sociale et valeur privée.
+2cinsld7cxg	C’est la dépense TOTALE de l’État, pas le montant par panneau.
+2359unwxbvb	Ton analogie est juste
+2fqx9gmwhar	« J’achèterais 18 panneaux. La société en voudrait 22. L’État aide à rendre les panneaux supplémentaires rentables pour moi. » ✓ Version précise : une subvention par unité {{s* = MEB(Q*) = 20}} fait passer ton incitation de MPB à MPB + 20 = MSB.
+1dp304xm7b2	20 exactement parce qu’il faut que la décision privée (MPB + s = MPC) tombe au même endroit que la décision sociale (MSB = MPC). Comme MSB = MPB + 20, il suffit que s = 20.
+1h9zqhanjgu	On l’évalue au point Q* parce que la subvention doit payer exactement le bénéfice externe de la DERNIÈRE unité qu’on veut voir produite. Ici MEB est constant, donc MEB(22) = 20. Si MEB dépend de Q, il faut MEB(Q*) — bloc suivant.
+1tx0sp3v9v7	Peu importe qui reçoit juridiquement la subvention (acheteur ou vendeur) : seul l’écart p_s − p_b = s compte, la quantité est la même (§7.2–7.3).
+eamhjddt7o	Le bien-être augmente malgré la dépense : W = CS + PS − subvention + bénéfice externe = 726 + 484 − 440 + 440 = 1210 > 1170. La subvention est un transfert ; le vrai gain = les 40 de DWL récupérés (§15 A6).
+1mmxbtcz0pd	Bonus écologique par panneau ou par véhicule électrique : une aide par unité achetée.
+26zab1isxqp	L’État te dit : « pour chaque panneau, je te rembourse 20 € ». Le panneau au point 20, qui valait 40 pour toi, vaut maintenant 60 pour ton portefeuille — plus que son coût de 50 : tu l’achètes. Tu t’arrêtes au 22e, où ta valeur + 20 = coût = 54.
+1gfarylfu1j	La courbe pointillée bleue MPB + s se superpose à MSB quand s = 20. Bouge le curseur de subvention : à 20, l’équilibre tombe exactement sur Q* = 22. Le rectangle gris = dépense de l’État (20 × 22 = 440).
+cekhpe0ftm	verse s* = 20 €
+1r2auh82o1q	Avec s = 20, quel prix PAIE l’acheteur pour le 22e panneau ?
+zillb8pg3p	L’acheteur paie sa valeur marginale : p_b = MPB(22).
+6gtzic1sf4	p_b = MPB(22) = 100 − 66 = 34. Le vendeur reçoit p_s = 34 + 20 = 54 = MPC(22).
+lnl1r97p0e	54 est ce que REÇOIT le vendeur (p_s). L’acheteur paie 20 de moins.
+msd3ms804g	La dépense publique de 440 (= 20 × 22) est-elle une perte sèche ?
+1a43q2rovfr	Oui, c’est de l’argent perdu par l’État
+17ozpk7igwq	L’argent n’est pas détruit : il passe des contribuables aux acheteurs et vendeurs.
+1l25eowibjk	Non : c’est un transfert. Dans W on le soustrait, mais il réapparaît dans CS et PS
+1795rzyemcl	Exact. Le bien-être passe de 1170 à 1210.
+1f7tjsu24ur	On ne la compte pas dans le bien-être
+3apiqm3v78	Il FAUT la compter (− 440), sinon on surestime W ; elle est compensée par les gains qu’elle finance.
+25n5ox0e8wr	Pigou
+29f7c8gry7j	analogie de l’élève
+1gnzhrub04	Et si le bénéfice externe dépend de Q ?
+2qalftese7	s* = MEB(Q*) quand MEB = 30 − Q
+lxl5xb9m6m	Imagine que les premiers panneaux de la ville remplacent les centrales les plus sales, et les suivants des sources plus propres : chaque panneau supplémentaire aide un peu moins. MEB n’est plus constant : {{MEB = 30 − Q}}. Quelle subvention faut-il alors ?
+akzflmje30	MSB = 130 − 4Q ⇒ Q* = 20. {{s* = MEB(Q*) = 10}} — pas l’intercept 30, pas MEB(Qm) = 12.
+2fioxsk9vhv	Variante construite
+tani8v6czt	MEB = 30 − Q n’est pas dans le cours : c’est un complément pour entraîner la règle documentée en §11.3 (« évaluer à la quantité efficiente »). Le cours l’applique côté négatif : essence, MEC = Q ⇒ t* = MEC(30) = 30, pas MEC(45) = 45.
+1tuq1eapzn4	Au point Q*, l’acheteur subventionné doit être indifférent entre acheter et ne pas acheter : MPB(Q*) + s = MPC(Q*). Comme MPC(Q*) = MSB(Q*) = MPB(Q*) + MEB(Q*), on obtient s = MEB(Q*).
+1emu1cf4xtt	Pas l’intercept : 30 est le bénéfice externe du TOUT PREMIER panneau, pas du 20e. Une subvention de 30 paierait chaque panneau comme s’il était le plus utile : sur-incitation, le marché irait jusqu’à 24.
+20i0qu0bod8	Pas MEB(Qm) non plus : le marché ne restera pas à Qm une fois subventionné. La bonne valeur est celle de la dernière unité SOUHAITABLE (§11.3, §20.2).
+1f01gzswcvk	Même logique côté négatif (L11, E2023) : MEC = Q, Q* = 30 ⇒ taxe t* = MEC(30) = 30, pas 45.
+28ixvfpzkem	L’État te paie pour le service que rend TON DERNIER panneau aux voisins — pas pour celui que rendait le premier panneau de la ville.
+1zlfkpyoq04	Graphique de la variante : MEB descend, MSB = MPB + MEB est plus pentue. Essaie s = 30 (trop), s = 12, puis s = 10 : seule la dernière tombe pile sur Q* = 20.
+xvkkho9279	Avec MEB = 30 − Q et Q* = 20, quelle subvention par panneau implémente l’optimum ?
+164e588whaa	30 (la valeur de MEB à l’origine)
+8xl6pde7kd	Avec s = 30, le marché irait jusqu’à Q = 24 > 20 : trop de panneaux, nouvelle DWL de 48. Essaie sur le graphique.
+sil3co0oy3	12 = MEB(18), évalué au marché initial
+1fr4uiagtac	Mauvais point : avec s = 12 le marché irait à 20,4. Il faut la valeur à la quantité visée.
+kpvo2nkmv	10 = MEB(20), évalué à Q*
+1h07pk6b5d5	Si l’État verse quand même s = 30, quelle quantité le marché échange-t-il ?
+2fkm1uiz8ul	Résous 100 − 3Q + 30 = 10 + 2Q.
+13gzz9f18z5	130 − 3Q = 10 + 2Q ⇒ Q = 24 > Q* = 20 : sur-production, DWL = ½ × 4 × 24 = 48.
+1mr92zf2k1f	20 serait atteint avec s = 10. Avec 30, la subvention pousse plus loin.
+15xreoepsig	variante construite MEB = 30 − Q
+27kvo2z15uv	évaluer à Qeff
+1t57cddighv	essence t* = 30
+1adrhm4zz7d	La chaîne complète
+10bidu2yij6	Remets le mécanisme dans l’ordre : chaque maillon CAUSE le suivant.
+58zyql5jj0	Chaque étape n’est vraie que parce que la précédente l’est : si les voisins ne gagnaient rien (MEB = 0), Qm serait déjà optimal et il n’y aurait ni DWL ni subvention.
+d1s4wnpajm	Remplace « panneaux » par « vaccins » : la chaîne est identique, seuls les chiffres changent (E2020 Q3).
+21b5q6ffhdx	J’achète pour moi → mes voisins gagnent aussi → je ne le compte pas → j’achète trop peu → la société perd → l’État paie la différence → j’achète la bonne quantité.
+1wt2qan6qd7	Le graphique complet : les deux quantités, l’écart MEB entre MPB et MSB, et la perte sèche.
+12inzl2yn0l	Clique les maillons dans l’ordre causal.
+1ib1a5rab53	L’acheteur compare sa valeur privée (MPB) au prix
+1w40pth47fz	Chaque panneau procure aussi 20 aux voisins (MEB)
+1f5i254a64i	Le marché ignore ce bénéfice : il s’arrête à Qm = 18
+1z4zg75vnmt	La société voudrait Q* = 22 (MSB = MSC)
+az5v5as9bw	Les panneaux manquants créent une DWL de 40
+cdrbjxoacd	Une subvention s* = MEB(Q*) = 20 aligne l’incitation privée sur la valeur sociale
+2ay4y8y6vi0	Explique-le-moi
+5jo3cwdkx6	Sans regarder au-dessus, explique avec tes mots pourquoi le marché des panneaux solaires s’arrête trop tôt et ce que peut faire l’État. Les analogies sont bienvenues : on évalue les LIENS DE CAUSE, pas le vocabulaire.
+2e1bv7zqyre	Expliquer force à reconstruire la chaîne au lieu de la reconnaître : c’est ce qui révèle les maillons manquants.
+27or8iispdg	Commence par « Quand j’achète un panneau, je regarde… ».
+2b3qw0bzpke	Raconte-le comme si tu l’expliquais à un ami qui hésite à acheter des panneaux.
+108acgpy4t1	Le graphique reste visible : tu peux t’en servir pour raconter.
+1v9q0e5w2dk	Question d’examen (EN)
+1mqddbt0kok	Nouveau contexte, même mécanisme : les vaccins, tirés de E2020 Q3. Réponds en anglais, sans indice. Le corrigé détaillé s’affiche ensuite.
+g5h8kvk4bh	Changer de contexte vérifie que tu as compris le mécanisme, pas mémorisé « 18 et 22 ».
+1a4f5vw6a7v	Commence par identifier le modèle : quelle courbe s’écarte de sa version privée ?
+1lmkwks5edj	Tu es à l’examen. Personne ne te dit « externalité positive » : c’est à toi de le voir dans l’énoncé.
+1cnpake881k	Pas de graphique en mode examen : dessine-le de tête sur une feuille (axes, MPB, MSB, MPC, Qm, Q*, DWL).
+1x85dzrgtwj	Ce que tu sais faire maintenant
+2b298tclhmn	La leçon est terminée. Ta maîtrise ne monte vraiment qu’avec des rappels sur plusieurs jours : le premier rappel espacé t’attend dans « Révisions ».
+i7aley9fq6	Une réussite le jour même prouve la compréhension ; une réussite trois jours plus tard prouve la mémoire. L’examen demande les deux.
+gncs5h0vnt	Prochaine étape suggérée : Graph Lab (essence, textiles) pour voir le cas négatif avec les mêmes outils.
+1l1rydyvxdb	Demain, tu devras reconstruire MSB sans aide. Pas réciter : reconstruire.
+1ctkfk9k8lr	Le graphique complet de la leçon.
+bywrhaytbb	J’achète un panneau pour moi
+27nexxg6mws	je compare sa valeur pour MOI (MPB) à son prix
+1l94peacvr3	Mes voisins respirent mieux
+1qx8z9l4lbt	chaque panneau remplace une électricité plus polluante : MEB = 20 pour eux
+1kmf13nn9lh	Personne ne compte ces 20 €
+20lcdqymsgi	ils ne passent par aucun prix : ni l’acheteur ni le vendeur ne les reçoivent
+1a6cw0fsh02	Le marché s’arrête à Qm = 18
+ewfjk8eer5	là où MPB = MPC ; au-delà, l’acheteur seul ne trouve plus le panneau rentable
+fn75qd8m0s	La société voudrait Q* = 22
+9e9wug0cw3	elle compte acheteur + voisins : MSB = MPB + MEB = MSC
+77b2cyat63	Les panneaux 18 → 22 manquent : DWL = 40
+1qnu1aismcy	chacun valait plus pour la société (MSB) qu’il ne coûtait (MSC)
+tvt0qpffl1	Subvention s* = MEB(Q*) = 20
+2bpx0tvuvdt	elle ajoute à l’incitation privée exactement le bénéfice externe de la dernière unité souhaitable
+1t91h4wu7xb	L’acheteur regarde sa valeur privée
+6x7y7sg338	Point de départ : l’acheteur compare ce que vaut le panneau POUR LUI (MPB) à son prix.
+17rejg4z3d	En économiste : MPB (Marginal Private Benefit) = la valeur d’un panneau de plus pour l’acheteur.
+1qw5umhlt7j	Les tiers en profitent aussi
+28o2oc4vjwn	Chaque panneau procure un bénéfice à des gens hors de la transaction (moins de pollution) : MEB.
+137b3k1j7f6	En économiste : externalité positive ; MEB (Marginal External Benefit) = bénéfice pour les autres d’un panneau de plus.
+153ni7s4wkt	Le marché ignore ce bénéfice
+3bqxqts5z6	Le maillon central : personne dans la transaction ne reçoit le bénéfice des tiers, donc personne ne le compte. C’est POURQUOI le marché s’arrête trop tôt.
+s7p0jlytq4	En économiste : les acheteurs n’« internalisent » pas le bénéfice externe.
+2chdf2ck8j2	Le marché produit trop peu
+e32iah16vf	Conséquence : la quantité de marché (18) est inférieure à l’optimum social (22).
+f3b5oh1oao	En économiste : Qm (équilibre de marché, MPB = MPC) < Q* (optimum social).
+1rj5rcaqazh	L’optimum social est plus élevé
+1nf9cm3d3ey	La société, qui compte acheteur + tiers, voudrait plus de panneaux : Q* où MSB = MSC.
+9qzcyfj5l	En économiste : Q* où MSB = MSC, avec MSB = MPB + MEB.
+1cxdo7cwvh2	Une subvention peut internaliser le bénéfice
+kfay7mgmrf	Remède : une subvention par unité égale à MEB(Q*) aligne l’incitation privée sur la valeur sociale.
+ezq4bne9rr	En économiste : subvention pigouvienne s* = MEB(Q*) = 20.
+20j9kkjbxx5	MSB n’est pas de l’argent versé : c’est la VALEUR d’un panneau de plus pour toute la société (MPB + MEB). La subvention, elle, est de l’argent.
+ycpjdzuqrh	Avec une externalité POSITIVE, le marché produit TROP PEU (18 < 22). C’est l’externalité négative qui mène à la surproduction.
+muoqq1u5m8	La dépense de subvention est un transfert (contribuables → acheteurs/vendeurs). La DWL, ce sont les panneaux utiles jamais produits.
+27uvqg5y5o8	Sans intervention, le marché s’arrête à Qm = 18. Q* = 22 n’est atteint qu’avec la subvention.
+w6z305cxkv	Quand j’achète un panneau, je compare ce qu’il vaut POUR MOI (MPB) à son prix. Mais chaque panneau réduit aussi la pollution pour mes voisins : un bénéfice externe (MEB = 20) que personne dans la transaction ne reçoit, donc que personne ne compte. Le marché s’arrête là où MPB = MPC (18 panneaux), alors que la société, qui compte aussi les voisins (MSB = MPB + MEB), voudrait aller jusqu’à MSB = MSC (22). Les panneaux 18 → 22 valaient plus pour la société qu’ils ne coûtaient : c’est la perte sèche (40). Une subvention par panneau égale à MEB(Q*) = 20 rend ces panneaux rentables pour l’acheteur et amène le marché à 22.
+a8umzo4ln7	Que signifie [[MEB]], littéralement ?
+rk4goy9wo9	Marginal External Benefit : le bénéfice pour les AUTRES d’une unité de plus
+4j31ysk60p	Marginal Economic Benefit : le profit du producteur
+1mlaaa85jnh	E = External : il s’agit des tiers.
+1xnkvv4sozv	Le bénéfice externe total de toutes les unités
+1i3phwyi5k	Marginal = UNE unité de plus. Le total est l’aire sous MEB.
+18z5rag4ux9	Que signifie [[MSB]] ?
+219es21sac1	La valeur d’une unité de plus pour toute la société : acheteur + tiers
+1dir0ou7e33	Exact : MSB = MPB + MEB.
+6e43uqngbz	Le budget que l’État consacre à chaque unité
+2b73hdpbei7	MSB est une valeur, pas une dépense publique.
+14cv5orxopa	Le bénéfice marginal du vendeur
+mj4txxqyao	Le vendeur n’a pas de « bénéfice marginal » ici : il a un coût (MPC) et un surplus (PS).
+kj0wgjdn9i	Qui reçoit le bénéfice mesuré par [[MPB]] ?
+157aavfmy6d	L’acheteur, et lui seul
+y77ub4621c	Exact : P = Private.
+1hzroufqx51	Ça, c’est MEB.
+22n9ecspyux	La société entière
+20wgs69wzlf	Ça, c’est MSB.
+g2xiaf33tp	Pourquoi MSB est-elle au-dessus de MPB ?
+y7z22c2bx0	Parce que chaque unité procure aussi un bénéfice aux tiers (MEB > 0)
+2cdrdgjnnkx	Exact : l’écart vertical = MEB.
+1ohjqc5n7qt	Parce que l’État ajoute de l’argent
+zcukmjz625	Aucune intervention n’est nécessaire pour que MSB existe.
+1fehcgk8cvx	Parce que le coût social est plus élevé
+n3in0jmk7k	Ça concernerait MSC et MEC (externalité négative).
+ovf8euutya	Pourquoi le marché s’arrête-t-il à Qm et pas à Q* ?
+dxpklaor46	Au-delà de Qm, l’acheteur ne valorise pas assez le panneau suivant (MPB < MPC) car il ne compte pas le bénéfice des voisins
+1i67mmq3r8c	Parce que Qm est l’optimum social
+28gt7wnjggl	Qm est l’équilibre privé ; l’optimum social est Q*.
+1vmakr0miof	Parce que les producteurs n’arrivent pas à produire plus
+2bmj3zjao0y	Ils le pourraient, mais aucun acheteur ne paierait le coût.
+2ff4sai0hgo	Qu’est-ce qui est perdu dans le triangle de DWL ?
+2wbga4fpxt	La valeur nette des unités jamais produites alors que leur bénéfice social dépassait leur coût social
+1vztj90ikzr	L’argent dépensé par l’État
+zzent3w3fq	Une dépense publique est un transfert.
+pwi2kvy03g	Le bénéfice total des voisins
+21u1fdde12j	Le bénéfice externe des unités produites est bien reçu ; la DWL concerne les unités manquantes.
+23pexo7h5h7	Reconstruis MSB à partir des acteurs.
+27i6w0mwiam	Le bénéfice des tiers s’ajoute, il ne se soustrait pas.
+qm2kq75m42	MEC est un coût externe : il va dans MSC, pas dans MSB.
+2fkwd71cpwf	Valeur pour la société = valeur pour l’acheteur (MPB) + valeur pour les tiers (MEB).
+1xylqcx1160	Reconstruis la condition de l’optimum social.
+14xpp3qe3du	C’est l’équilibre du MARCHÉ, pas l’optimum social.
+2dkddaojxk2	La société ajoute des unités tant que leur valeur sociale dépasse leur coût social : MSB = MSC.
+2c95bio5aut	Reconstruis la subvention optimale.
+1kpzyuykw5c	L’intercept est le bénéfice externe de la PREMIÈRE unité, pas de la dernière souhaitable.
+d2i0ox2brk	Une fois subventionné, le marché ne reste pas à Qm : évalue à Q*.
+15v3ebw8yy0	Au point Q*, il faut MPB + s = MPC = MSB, donc s = MSB − MPB = MEB(Q*).

@@ -1,0 +1,218 @@
+sq3xmx63sb Rebuild MSC for a negative externality.
+1btk7w1nuh4 The optimal corrective tax is computed…
+1bxapkqysi0 By always evaluating MEC at Qm
+ygez7a3y0i The tax is precisely what changes Qm.
+gnh6hs5x5d By evaluating MEC at the efficient quantity
+1953cll6ntt First find Q* from MSB = MSC.
+u850qbfnuj MPB = 100 − Q, MPC = 10 + Q, MEC = Q: what Q*?
+1853xem6kvk Textiles: MPB = 200 − Q, MPC = 80 + Q, MEC = Q. What optimal tax?
+1btxx8lj6qr Q* = 40, then MEC(40) = 40.
+dcptp399uv Unpriced external damage
+1pq50thu1jw Different marginal abatement costs
+1qxrcfymdqu MSC = MPC + MEC: private costs and third-party damage count together.
+em5abf19j0 Both effects concern the same extra unit.
+1wwhj45gn5c The private price ignores MEC as long as the effect is not internalized.
+vurscpvpqb Qm = 45, Q* = 30: the units beyond 30 create the DWL.
+1243z1yqfyl At Qm, MPB = MPC; at Q*, MSB = MSC.
+16jb0avtl2m The excess units have a social cost greater than their value.
+gw1hhl6nwg Total damage and DWL are two different areas.
+1bo2cyb5pd2 Total damage includes the damage from socially useful units.
+1obr5qi78mh DWL measures only the avoidable net loss relative to Q*.
+2binhutfmrl t* = MEC(Q*): here 30; a tax of 20 improves things but leaves a DWL of 37.5.
+1wtnh0gyn4o Marginal damage depends on the quantity chosen.
+1fopo6bevff A tax is a transfer; it can correct a pre-existing distortion.
+1vx2gy7y4d6 Remaining pollution and abatement are two different axes.
+1fhtal0jjic Reducing pollution means moving left on an emissions axis.
+4073dt1wof The firm compares MAC with the tax; society compares MAC with MEC.
+238mv5yffl6 Permits and Coase require their conditions to be made explicit.
+2efzqk22zrx Frictionless permit trading equalizes MACs and minimizes the cost of a given cap.
+1ucxky3cjvm Coase assumes defined rights and zero transaction costs; the rights change the distribution.
+1izbt9qegjk Public goods and commons — the clean street and the lake
+1ht854qnsm6 Shared value, contribution and open access
+2cdphfmken6 Why does a useful street stay underfunded, while a useful lake attracts too many fishers? Follow the residents, then the entrants, before summing or differentiating.
+qhhmm0c4vj Anna
+2786tzq0nzz lives on the street and can contribute
+1stzpuj1dlx enjoy a clean street while keeping some budget
+l0q2ql6iwg The contractor
+d3jskdh76v produces the common level of cleaning
+16ncxloza8n cover the resources for the next unit
+bf0vtm6ju1 Bilal and Clara
+69d9ymhyi7 enjoy the same level even without paying
+16h5xp3wvfp benefit from the service
+1wg7254voln The community
+ak1c9hdq2n counts all benefits and costs
+2f4r7gh6t0e choose the level that maximizes surplus
+1e9c8bcszwh The town hall
+1rgm7727xpn can organize contributions and access rules
+1oh4uq3lzj1 correct the relevant incentive
+1jlz3ac8fu1 Who benefits when your street is cleaned?
+14x4s25yw93 Anna, Bilal and Clara live on the same street. If a truck adds one unit of cleaning, all three see a cleaner street: there's no need to buy three copies of the same cleaning. The contractor, however, has to pay for time and equipment for that extra unit.
+56cruk9m3v In model A6, the level Q of cleaning is a pure public good: the same Q benefits every resident.
+6a5gabuwl1 The level of cleanliness is shared: Clara's benefit doesn't take away Anna's.
+228ll5nfd2p Here we assume that a resident who doesn't pay cannot be excluded; this assumption is part of the model, not of every real service.
+v0t6geriez Three residents and three common units give Q=3 for each, not Q=1 per resident.
+1jk3kxrxc98 You come home after the truck has passed. You benefit from the clean street even if your neighbour paid for it.
+nh9yk5jwab Three residents enjoy a street cleaned to level Q=3. What Q does Clara consume?
+1lxo1bwy4it Right: the shared service has the same level for everyone.
+izjpr3uuuq You're dividing up a private good. Shared cleanliness is not split into three.
+up24qnb1n4 You can add up their benefits, not multiply the physical level.
+13f55k6zov3 First question: does your use take something away from others?
+yfgdcmh2v9 When you eat a sandwich, nobody else can eat that same sandwich. When you read a freely published research result, your neighbour can still read it. Ask what happens to the other person's ability to use it before looking at who pays for the good.
+nkrfanto6c Rivalry: one person's use reduces others' possibilities of use. Non-rivalry does not mean zero production cost.
+1nw04yw6opx Producing the first service can be expensive even if an extra user deprives nobody.
+1cs3i9mcefw The criterion concerns competing consumption; "provided by the state" is a different criterion.
+g5onxl3uac A PDF may cost €1,000 to produce; two people reading it doesn't require two physical PDFs.
+15dtaq2cey3 You take the last seat on a bus: someone is left outside. Compare with listening to a radio alert that has already been broadcast.
+laighy68mq A service is expensive to create but one more reader bothers nobody. Is it necessarily rival?
+11o1aznjt6r Yes, because it's expensive
+m2p5xa9q09 Production cost is not rivalry in consumption.
+1gcc7ehso1h No: it can be non-rival
+2fa3r3m9qks Right: check the effect of your use on others' use.
+12my0de8wqh Yes, if it's private
+1ldh15byq2q Private ownership and rivalry answer different questions.
+1cdsbrkdrkz Second question: can you close the door?
+1nmkpvljw46 A platform can deny access to an account that doesn't pay, even if its videos aren't congested. A clean street also benefits residents who refuse to pay. Exclusion is therefore a separate question from rivalry.
+xq91g5px08 Excludability: the possibility of preventing access. The four boxes are private, club, common and pure public.
+1bhx7b747sd The word "public" here describes two economic characteristics, not the name of the owner.
+yb36q8ucbx Rules and technology change exclusion: a toll can move a road to another box.
+1bzs296utxd Uncongested subscription video: excludable and non-rival, so a club good. Unrestricted fishing: non-excludable but rival, so a common resource.
+1wmbecuw455 If you run a subscription, can you deactivate my access? If so, access is excludable, even if you take no file away from your other customer.
+1sovv2nwtdr An open-access fishery, where your catch reduces others' catch, is…
+208q3adapnm A pure public good
+1pci4xsm1bq Non-rivalry is missing: the fish caught are no longer available.
+wrohklbevq A common resource
+iru7xzvxyp Non-excludable but rival: that's the commons box.
+rr7c0pc0fx A club good
+2a8qaiclu7z A club can exclude; here access is open.
+21c66bkb1jp A road can change boxes
+13t8bkkbjyg At three in the morning, your car barely bothers others on an empty road. At eight, it lengthens their journey. If a toll is added, yet another property changes: access becomes controllable.
+1y8vigg41fo Congestion creates rivalry. A road is therefore not always a pure public good.
+uijei5cuvj Economic characteristics depend on the situation, not on the label "infrastructure".
+1q8mx4u1sf1 A toll acts on exclusion; it doesn't automatically remove physical congestion.
+1krhh8b3mf4 Toll tunnel with a traffic jam: excludable access and rival use at the margin.
+1h09nlq17rr You reach the toll at rush hour: ask the two questions separately before writing "public good".
+1ps7d04sjbj Is a congested toll tunnel a pure public good?
+1bqbkrtunm No, it is excludable and rival at the margin
+3olst60x36 The toll controls access, and congestion makes others bear your use.
+1972z8cf6pc Yes, because it serves the public
+29cqxzxlul5 "Serves the public" checks neither of the two economic criteria.
+1y23ctpr94u Yes, because a tunnel is expensive
+27ugd9whcxy Construction cost doesn't determine this classification.
+ms651uj76a How much is the next unit worth to each person?
+vc85ytsco8 The street is already cleaned to level Q=3. Anna would pay up to €12 for one very small extra unit, Bilal €9 and Clara €6. These amounts describe additional value, not what they would pay in total for the whole street.
+27c3hih6lg8 MB means marginal benefit: willingness to pay for the extra unit. A6: MB_A=15−Q, MB_B=12−Q, MB_C=9−Q as long as these values are positive.
+298me1m1n4e The next unit improves the situation of all three residents at once.
+1qr2h2n0ox2 The total benefit of several units is a sum/area; the height of the curve describes only the marginal.
+20vbiagydob At Q=3: 15−3=12, 12−3=9 and 9−3=6 (€ per unit).
+1vipdqg7atl You're Clara: you check whether the next pass is worth €6 to you. You're not yet announcing your neighbours' benefit.
+1b33pzjws6o One level of cleaning, three marginal values
+66ol3hkakf Q = common units of cleaning; height = € per extra unit. Each MB is truncated at zero; the social curve adds up the heights, never the quantities.
+d5x9gr815q Q: common units of cleaning
+1mau3gzqwdx € / extra unit
+2djiu0uuwkb MB Anna = max(0,15−Q)
+2717z14piwf Value of the same addition for Anna.
+1cyp8ze8eyy MB Bilal = max(0,12−Q)
+2dniz9tcbdp Value of the same addition for Bilal.
+1dt90pkrmqv MB Clara = max(0,9−Q)
+vq2p0w7by2 Value of the same addition for Clara.
+fl7gunudcb Sum of positive MBs
+4aiegu3vag Slope −3, then −2, then −1: one beneficiary drops out of the sum at each threshold.
+1cy2abol1v3 Real cost of the next unit of cleaning.
+vmw942ys6h Efficient Q = 3
+22cra522yka With MB_C=9−Q, what is Clara's marginal value at Q=3?
+1wfbz0dbarf € / unit
+102z2b0oe8l 9−3=6 € per unit of cleaning.
+7iw6egzehz 9 is the intercept, not the value at the level already reached.
+57gzh3axk2 22.5 is the total benefit over [0,3]: 9×3−3²/2. It is not the marginal value at 3.
+ba59rg1wku Society adds up three values of the same pass
+dyezmch0ls The truck can add a single common unit. It brings €12 to Anna, €9 to Bilal and €6 to Clara: in total, it is worth €27. Adding up their quantities would mean counting the same level of clean street three times.
+153vxl765pj For a public good, marginal benefits are summed vertically at the same Q: MB_social(Q)=Σ_i max(0,MB_i(Q)).
+89kcfor3p0 To find what the common unit is worth at Q=3, what must you add up?
+29k3be0aw0u The three heights at the same Q: a single unit brings three gains.
+1co5whkj6tr The three Qs
+g5hp36ockf That horizontal rule concerns the individual quantities of a private good.
+kad3nxqasz Each resident benefits from the addition: the collective evaluator counts each benefit once.
+27ecm1t6zu6 With a private good, you can buy distinct units; here, the common level Q is precisely what rules out that horizontal reasoning.
+1phsi0ka6ur For Q≤9, all three MBs are positive: (15−Q)+(12−Q)+(9−Q)=36−3 Q.
+2gaa90j3js1 You're organizing the cleaning for the three neighbours. Before ordering, ask each of them the value of the same extra pass.
+21c28s70pvj Rebuild the social sum when all three MBs are positive.
+gelr7k43hn You add the marginal willingness to pay at the same level Q, hence 36−3 Q.
+1shi39agvwj When does the extra pass stop being worth its cost?
+29i7bez56f9 The next addition costs €27 in resources. At low levels of cleaning, the three gains together exceed this cost: improving the street adds welfare. At Q=3, the collective gain at the margin equals the cost; beyond that, it falls below.
+hhz6tr0wk6 Interior optimum for the public good: Σ MB_i(Q)=MC(Q), checking the segment of positive MBs.
+24xfv3q36cb The supplier must use real resources, whether one person or three benefit.
+1p5l9pqc62g The test is social: no single resident needs to value the unit at €27.
+6sq60pvegs 36−3 Q=27 ⇒ 3 Q=9 ⇒ Q=3. At this quantity, the MBs are 12, 9, 6 and their sum exactly covers MC=27.
+1b7jskjgp8u You must justify the level to a residents' association: explain the cost and the three benefits before pulling out the equation.
+1zfdswvlvhh Efficient common level
+1lex8iy7nch MB_A=15−Q, MB_B=12−Q, MB_C=9−Q and MC=27. What Q maximizes surplus?
+2dlbzepdhlf 36−3 Q=27 gives Q=3, which is below all three thresholds 9, 12, 15.
+111xe6aprm6 9 is the difference 36−27; you still need to divide it by 3.
+2c75av6gnhy Nobody would pay MC alone at the start, but the collective benefits are worth 36>27.
+28tdj3iwkcc A negative value is not a dislike to be invented
+219f4icvenx A small shared garden pleases Léa a lot and Sam a little. After Q=2, Sam simply doesn't want any more garden: their value is zero, not a nuisance. Mechanically extending their line below zero would wrongly subtract benefit from Léa.
+upu2b9fl0d With MB_L=max(0,8−Q), MB_S=max(0,2−Q), the thresholds define different segments. If a unit really harmed Sam, another model would be needed.
+25yoci51ctx Linear functions summarize demand over its relevant domain; a negative quantity or a negative WTP is not automatically admissible.
+17pm371xamf You must solve within a segment, then check that the solution belongs to that segment.
+29tohiqvw12 With MC=3: 10−2 Q=3 gives 3.5, but the two-beneficiary segment requires Q≤2. On Q≥2, 8−Q=3 gives Q=5; Sam's value is 0 and Léa's 3.
+1z704x74xqx You're Sam: you say "I don't want any more", not "pay me to put up with this garden". Don't let a line change your preferences.
+17lxpz9k72s For these two truncated MBs and MC=3, what is the efficient level?
+1nixis31wgv Beyond 2, only Léa contributes to the sum: 8−Q=3 ⇒ Q=5.
+se137d6jxj At 3.5, the formula 10−2 Q counts a negative WTP for Sam; it lies outside that segment.
+110yim9divd 2 is a threshold where the formula changes, not necessarily the optimum.
+4h3f1x1850 300 students don't split the speed into 300 pieces
+mvdd0rb00b A campus chooses the quality of a shared wifi. Each of the 300 students benefits from the same speed Q. An extra student adds a willingness to pay to the collective calculation; they don't ask for a separate speed to sit alongside everyone else's.
+27vj3xnjgky E2022: 300 people with MB_i=10−Q and MC=1,500 give 300(10−Q)=1,500.
+57uul42rxi The unit price of the common good is a cost for the whole service, not the price of 300 separate private connections.
+tb45583srj The units of the equation are euros per unit of speed on both sides.
+aud8p8v7km 300(10−Q)=1,500 ⇒ 10−Q=5 ⇒ Q=5. Each student values the margin at 5; 300×5=1,500.
+fi86frs6il You're revising with friends on the same network: asking "what common speed?" is more useful than "how many speeds does each buy?".
+88of5jvkpb 300 students each have MB=10−Q; common MC=1,500. What Q is efficient?
+s676f8donb units of quality
+puhkzj37xs First divide 1,500 by 300: required individual MB=5, so Q=5.
+19r9vjkvj3d 1,500 is a monetary marginal cost, not a quantity.
+111uiqagihn 300×10 is the sum of MBs at Q=0, not an optimal quantity.
+27uxik0ioyh If your neighbour pays, why would you pay too?
+2d3gs40waxo Anna is considering paying for the cleaning. Bilal knows they will enjoy the street even if they keep their money. They can wait for Anna's contribution and state too low a value to cut their bill, even though the clean street matters a lot to them.
+zvpu75x4t3 Free rider: benefiting without contributing. Non-exclusion creates an incentive to under-contribute and under-reveal one's WTP.
+1hq2ti71dcu The private gain from paying includes only the benefit the payer gets back; the neighbours' gain stays outside their trade-off.
+1i4eux4fk1y A lack of contribution doesn't prove a lack of value: it can be a rational response to the access rule.
+27piqkcmnqi In L11, MB_H=20−h and MC=14: H alone chooses h=6, whereas MB_H+MB_L=30−2 h gives h=8 collectively.
+wx35zyue36 You ask yourself "will the street be clean even if I don't pay?". If so, you see the private temptation that collective funding must solve.
+l4qmnk4rm0 Does free riding always imply zero voluntary provision?
+ebr8svfyel Yes, nobody values the good
+jha1yfod3c The problem is about contribution, not value; H can fund h=6.
+1nbs5sydqvz No, a resident can fund a positive but insufficient level
+1592lqzbqt3 Here H funds 6, whereas the collective optimum is 8.
+1koch21aobj No, it necessarily makes the level efficient
+hioxuiqokt The others' benefits remain absent from the individual choice.
+27edyea98v6 A collective rule can fund what everyone expects others to pay for
+2gftayytguw Residents can accept a compulsory contribution to fund the common level. This prevents people from benefiting by simply refusing to take part. But announcing the right level of service still requires knowing the benefits and costs; collecting money is not automatic proof of efficiency.
+1h45k2nxdhw Compulsory funding can reduce the free-rider problem. In the benchmark, payments fund real resources; information, collection costs and tax effects must also be examined if the problem includes them.
+py5sle90br Changing the contribution rule changes the incentive to keep one's money while still enjoying the good.
+25kieb1k8vw The efficient level and the split of the funding are two different decisions; beneficiaries don't necessarily have the same WTP.
+gcbv9sgcjs At Q=3 in A6, 12+9+6=27 justifies the last unit. That doesn't mean each resident must pay €27 for that unit.
+yhv1osrgq7 You're negotiating with the neighbours: first determine whether the pass is worth its cost, then discuss how to split the bill.
+1d3jxmtcto6 Why is "everyone pays MC=27" not the public-good condition?
+2yxgjm3b39 Because all three benefit from the same unit: their MBs add up
+twnplcwoee The cost of the common unit is counted once, and each person's benefit once.
+1avyln7s2xn Because the service is free to produce
+97tteyt3yu MC=27 represents precisely the resources needed.
+8079l3wifd Because only the highest WTP counts
+yi4v1pmlj9 The value to the other beneficiaries also counts in the collective surplus.
+20omqicmjeg The fisher free to enter also takes fish from the others
+12wu5ez8trv A lake is open to all. Your boat brings in a catch, but it reduces the stock available to the boats already there. You compare your own revenue with the cost of going out; you don't bear the loss your entry imposes on the other fishers.
+cn07nkegbb A common resource is non-excludable but rival. Open access leads to overuse, whereas the pure public good suffered from under-contribution.
+1ozi1tmu7ra The entrant keeps their own catch without compensating the drop in others' catch.
+29hec9kxrum A valuable resource can therefore be overexploited precisely because everyone wants to benefit from it.
+xh6a7hjk9c Not paying for a clean street = free riding. Adding a boat that reduces others' catch = pressure on a commons.
+2ayhnvhetu4 You're the new fisher: a profitable trip for you is not yet proof that one more boat makes the lake as a whole better off.
+1t2q3q8kslk Which problem belongs to the commons rather than the pure public good?
+1dbd7ehxtw3 Too few contributions to the shared service
+dev25oqvj0 That's the public good's funding problem.
+1hpxb3redkx Too many boats entering a rival open-access fishery
+25slhkatldk Each entrant ignores part of the scarcity they impose on others.
+1n99746kr95 A production cost that is necessarily zero
+1skakotd18y Boats use fuel and labour.
+1jzxdv0k9rs Your average revenue is not what your boat adds to the lake
+16soxv7fnpn With n identical boats, each shares the total revenue. The fisher therefore compares their average share with the individual cost. Society asks instead how much total revenue rises if one more boat enters: it also counts the drop in the others' catch.

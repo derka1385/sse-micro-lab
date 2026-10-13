@@ -1,0 +1,210 @@
+th0n2b09ze dQ/Q misura la reazione rispetto alla quantità; dp/p rispetto al prezzo.
+1fyhmpslm6f Il loro rapporto è confrontabile tra unità diverse, purché si definiscano mercato e punto.
+a5d1x9fbro Domanda costruita Q = 12 − p: dQ/dp = −1. Nel punto p = 4, Q = 8, ε = −1×4/8 = −0,5.
+22bdxqrat0a Converti «una vendita persa per euro» in «quanti punti percentuali di vendite per un punto percentuale di prezzo».
+kq8rm2loq8 Stessa retta, sensibilità diverse
+1l33i6j2jxa Q, unità
+1duujjeodb3 Esempio didattico Q = 12 − p. La pendenza diretta dQ/dp = −1 è costante, ma ε = −p/Q varia: −0,5 in (8,4), −1 in (6,6), −2 in (4,8).
+l5132hoh2y Domanda: p = 12 − Q
+1favkmrdvqs Perdere un’unità per 1 € di aumento non rappresenta la stessa percentuale in tutti i punti.
+cukp4x30vo Ricostruisci l’elasticità puntuale di Q rispetto a p.
+1gz60q5tk0p La derivata assoluta è normalizzata con p/Q.
+14fts9r4fjf Q = 12 − p. Quale εD a p = 4?
+1yd6nnzfyrl Q = 8 e dQ/dp = −1, quindi εD = −4/8 = −0,5.
+2is9xu8gx0 Non derivare la funzione nel verso sbagliato
+gq6isa529x A volte un testo ti dà il prezzo in funzione della quantità. La sua pendenza risponde allora a «quanti euro per unità», mentre l’elasticità della domanda chiede «quante unità per euro». Riscrivi la domanda o inverti correttamente la derivata prima di calcolare.
+10026115t1h Se p = A − BQ, allora Q = (A − p)/B, dQ/dp = −1/B e εD = −p/(BQ).
+7i751x6f20 Gli assi di un grafico usuale mostrano p(Q), ma la risposta cercata è Q(p).
+1vz62xwgj17 dp/dQ e dQ/dp sono reciproche quando la relazione è localmente invertibile.
+1uyb8lj6lkk Dimenticare questa inversione dà un risultato sbagliato che talvolta conserva un segno plausibile.
+b9vjowzofd Situazione diversa: p = 20 − 2Q. A Q = 5, p = 10. dQ/dp = −1/2; ε = −(1/2)×10/5 = −1, e non −4.
+1qj9q8k56pq Se vedi la pendenza −2 sul foglio, chiediti «due cosa per cosa?». Questa domanda basta spesso a scovare l’inversione.
+1y3qam95k2s p = 20 − 2Q, Q = 5, p = 10. Quale εD?
+1wz9kw5lz14 Hai usato dp/dQ = −2 al posto di dQ/dp = −1/2.
+21hmhth0t5w La pendenza non si muove, l’elasticità sì
+1qc8c4updw9 Su Q = 12 − p, ogni euro in più fa perdere un’unità ovunque. Ma un’unità persa pesa poco quando vendi molto e molto quando vendi poco. La retta è invariata; la reazione proporzionale dipende dal punto.
+xddv17i64l Domanda lineare Q = a − bp: pendenza diretta −b costante, ε = −bp/(a − bp) variabile. Anelastica: |ε| < 1; elastica: |ε| > 1.
+1ib30yvn4cz La derivata misura la variazione assoluta e resta costante su questa retta.
+13gt0zu7cwp Il fattore p/Q cambia quando ti sposti sulla curva.
+2cmqqk7ft93 A prezzo alto e Q piccola, una perdita data rappresenta una percentuale più grande di Q e una percentuale più piccola del prezzo.
+1f2gd2emlp5 Stessa Q = 12 − p: a p = 4, Q = 8 ed ε = −0,5; a p = 6, Q = 6 ed ε = −1; a p = 8, Q = 4 ed ε = −2.
+1uoo44yb8tu Perdere una vendita su otto pesa meno che perderne una su quattro, anche se entrambe le perdite vengono da un euro di aumento.
+usmzqe2r7z Q = 12 − p: calcola εD a p = 8.
+1pur74kov50 εD = −2 descrive una domanda…
+295n66y022r Anelastica perché −2 è minore di −1
+u9o4a6k39w Si confronta |ε| con 1; il segno negativo descrive il verso, non una piccola intensità.
+23k6o52w39o Elastica
+2gcrqhn9xmi La reazione proporzionale in valore assoluto supera 1.
+7tl4xuf3e4 Il venditore guadagna di più per unità, ma vende meno
+bqm2eygwdn Un aumento di prezzo ha due effetti sul ricavo: ogni unità venduta rende di più, ma alcune vendite scompaiono. Se gli acquirenti reagiscono poco, domina il primo effetto. Se reagiscono molto, domina la perdita di vendite.
+o3glwurr3c R = pQ(p), quindi dR/dp = Q + p·dQ/dp = Q(1 + εD). Anelastica: un aumento di p accresce R localmente; elastica: lo riduce.
+whtzo0u4an R = pQ(p). Quando p cambia, quale espressione conta i due effetti?
+y4rbzj4zdg Q viene dal prezzo più alto sulle vendite; p·dQ/dp viene dalla variazione delle vendite.
+xkgw2y0ad6 Solo Q
+10rvo8q12in Dimentichi che gli acquirenti cambiano la loro quantità.
+1kzk74njn02 Solo p·dQ/dp
+275y3v88b3z Dimentichi il supplemento ricevuto sulle unità ancora vendute.
+1297rboq669 Entrambe le componenti di pQ variano; serve la regola del prodotto.
+1sw3lh3lm2y Il segno di 1 + εD indica quale effetto domina quando Q > 0.
+151y6m1ijqz Questa conclusione riguarda una piccola variazione locale; per una grande variazione, calcola direttamente i due ricavi.
+1dsn9y2aoun Per Q = 12 − p: a p = 4, R = 32; a p = 5, Q = 7, R = 35. A p = 8, R = 32; a p = 9, Q = 3, R = 27.
+1ldqx7r2aah Vendi un posto a un prezzo più alto. Non dimenticare gli studenti che lasciano la fila: il nuovo cartellino non è tutto il tuo ricavo.
+48gvi6bsmh Il prezzo sale; il ricavo non sale sempre
+al6seu2os6 € di ricavo
+1xi5gp6fvn2 Stessa domanda costruita Q = 12 − p. Ricavo = pQ; sono ricavi, non profitti, perché non è ancora dato alcun costo.
+3rgce7n9ou R = 6×6 = 36; elasticità unitaria, massimo di R per questa retta.
+sinj0k6rbt R = 8×4 = 32; domanda localmente elastica.
+23640mgfie1 εD = −0,4. Che cosa fa a R un piccolo aumento di p?
+pndtaernk R scende perché Q scende
+1kba7x52p22 Dimentichi il prezzo ricevuto sulle unità che restano vendute.
+d6g3y205v5 R aumenta
+2f62z4rtdqq 1 + ε = 0,6 > 0: la quantità scende proporzionalmente meno di quanto salga il prezzo.
+25p13v3jowo Q = 12 − p: quale ricavo a p = 6?
+2e6m06fcc7x Q = 6, quindi R = 6×6 = 36.
+1lf180i6g31 Ricavo massimo non vuol dire profitto massimo
+1abgnp3t3wc Il venditore non tiene tutto il ricavo: paga anche per produrre. Il prezzo che massimizza pQ può quindi portare a produrre unità che costano troppo. L’elasticità spiega una parte della scelta; per il profitto servono anche i costi.
+1i58i8jmo6s Profitto π = R − C. R massimo implica MR = 0 all’interno; profitto massimo implica MR = MC con le altre verifiche.
+1s3qfef8sqq Una vendita in più può aumentare il ricavo costando però più di quanto aggiunge.
+19cwz4rou9t La massimizzazione del ricavo ignora questo costo aggiuntivo.
+18m60n0aybt Appena MC > 0, l’arresto rilevante per il profitto arriva in genere prima del massimo del ricavo.
+2th76fhh0g Stessa domanda inversa p = 12 − Q, costo costruito C = 2Q. Ricavo massimo: Q = 6, p = 6, profitto = 36 − 12 = 24. Profitto massimo: MR = 12 − 2Q = 2 ⇒ Q = 5, p = 7, profitto = 35 − 10 = 25.
+19go82xzq0e Non guardi solo quanto entra in cassa; guardi ciò che resta dopo il costo dei caffè.
+aucpyuhvrt Una domanda unitaria ε = −1 garantisce un profitto massimo?
+b0q7qlruhh Sì, perché il ricavo è massimo
+1t5bvxq4k4j Sarebbe garantito solo con ipotesi aggiuntive su costi e dominio.
+1wltdfol9ac No, indica un ricavo localmente stazionario; per il profitto contano i costi
+1krgoorn14y Il profitto confronta MR con il costo marginale.
+ncbsb2f6ts A2: usa segno e orizzonte per prevedere
+1w93uptld75 L’autorità vuole sapere l’effetto di un prezzo della benzina più alto. Comincia dall’orizzonte richiesto e mantieni il segno negativo della domanda. Un aumento di prezzo moltiplicato per un’elasticità negativa dà un calo della quantità.
+1durs949tjb Approssimazione: %ΔQ ≈ ε·%Δp. Per un obiettivo: %Δp ≈ %ΔQ/ε.
+1nj4r8kj7at La percentuale di quantità per 1 % di prezzo è esattamente il significato di ε.
+2apnpiy94nu Per una variazione data, moltiplicare conserva questa logica come approssimazione locale.
+2fe7pm9hm74 Per trovare la politica necessaria si inverte il calcolo, ma si conservano i segni.
+zptgdjd72j A2: εSR = −0,25; εLR = −0,60. Prezzo +5 % ⇒ QSR ≈ −1,25 %, QLR ≈ −3 %. Obiettivo QLR −15 % ⇒ prezzo ≈ (−15)/(−0,60) = +25 %.
+b9wjr2qns1 Prima di battere sulla calcolatrice, prevedi il verso: per ridurre la benzina con una domanda decrescente, il prezzo deve salire.
+1ilybs6nopr εSR = −0,25 e prezzo +5 %. Variazione approssimativa di Q in %?
+1zzvonvk0u1 −0,25×5 = −1,25 %. Mantieni il calo della quantità.
+24r3k50xfdp εLR = −0,60; obiettivo Q −15 %. Aumento di prezzo approssimativo in %?
+1mhfv4yo03s (−15)/(−0,60) = +25 %. È l’approssimazione proporzionale.
+1k6skzlhm43 Una grande variazione rivela il limite dell’approssimazione
+88q0oziz08 Moltiplicare percentuali è pratico vicino al punto di partenza. Per un forte aumento, la curvatura della domanda può contare. Se il testo impone una funzione a elasticità costante, essa dà una relazione esatta diversa: dichiara la convenzione prima del numero.
+1i0hv1ucgt1 Se Q = A·p^ε, allora Q1/Q0 = (p1/p0)^ε. Quindi p1/p0 = (Q1/Q0)^(1/ε). L’approssimazione lineare non è questa identità esatta.
+1yns6fs3oka L’elasticità locale misura una reazione infinitesimale; applicare un’unica pendenza a una lunga variazione semplifica il percorso.
+5u90jlitdc Una funzione a elasticità costante descrive tutto il percorso e permette un calcolo esatto.
+1fr0vxi7jyb I due risultati seguono convenzioni diverse; l’uno non autorizza a presentare l’altro come identità.
+1litnvor235 A2: obiettivo Q1/Q0 = 0,85 ed ε = −0,60. Esatto se Q = A·p^−0,6: p1/p0 = 0,85^(−1/0,6) ≈ 1,3111, cioè +31,11 %. Approssimazione usuale: +25 %. Scarto ≈ 6,11 punti percentuali.
+23s07clcmg4 Scrivi «approssimazione proporzionale» o «funzione costante esatta» prima di mostrare il risultato: così il correttore vede il modello scelto.
+bi4y6kh9h1 Il risultato +25 % per l’obiettivo −15 % con ε = −0,60 è…
+18fbvy8nasw Esatto per ogni funzione in cui ε vale −0,60 all’inizio
+36tcnn8vro Un’elasticità nel punto di partenza non fissa l’intera funzione.
+gdjd6bsasc L’approssimazione proporzionale, non il risultato esatto di Q = A·p^−0,6
+2chgtefqu6j Il calcolo esatto della funzione potenza dà circa +31,11 %.
+ns2nu0gitf Domanda costruita Q = A/p, quindi ε = −1. Per dimezzare Q, di quanto deve aumentare p, esattamente, in %?
+j4f04y1ptq Q1/Q0 = p0/p1 = 1/2 ⇒ p1 = 2p0: prezzo +100 %, non +50 %.
+7uavg115yf Il prezzo che cambia è quello di un altro bene
+28d1gy1j8uk Il prezzo del tè aumenta e compri più caffè: ciò suggerisce che l’uno sostituisce l’altro. Il prezzo dei biscotti aumenta e i caffè consumati con essi diminuiscono: ciò suggerisce complementarità. Il segno si legge sulla determinante realmente modificata, non su una regola «ogni domanda è negativa».
+6awag2yska Elasticità incrociata εij = (∂Qi/∂pj)·(pj/Qi). Positiva: sostituti; negativa: complementi, nel modello dato.
+1i7szcj8pr1 Il prezzo del bene i resta dato: si misura uno spostamento della sua domanda causato da un altro prezzo.
+zywx2u5ilh Se l’altro bene diventa meno interessante e si passa a i, la reazione è positiva.
+1mkm4sy16ol Se i beni si usano insieme, rincarare l’uno riduce l’uso della coppia e può ridurre Qi.
+f42o4v50lg Esercitazione costruita: εcaffè,tè = +0,4 e prezzo del tè +10 % ⇒ caffè ≈ +4 %. Con εcaffè,biscotti = −0,2 e prezzo dei biscotti +10 % ⇒ caffè ≈ −2 %.
+27gcw82o8d4 Puoi spiegare il segno prima di calcolare: «sostituisco il tè» oppure «prendo meno della coppia».
+24n2g9cduxn εcaffè,tè = +0,4. Prezzo del tè +10 %. Variazione approssimativa dei caffè in %?
+hfxt4j37bw 0,4×10 = +4 %. Caffè e tè sono sostituti in questa situazione.
+r474x9lh9y Un’elasticità incrociata negativa indica…
+18ybbgx4tn8 Una normale domanda al prezzo proprio, senza informazioni sui legami
+1o1mwopd70 Conta l’indice del prezzo: si tratta di pj, il prezzo di un altro bene.
+ygwd4q9il0 Complementi
+kl1evt9kj4 Il prezzo dell’altro bene sale e la quantità del bene studiato scende.
+11j49agcqy Quando cambia il tuo reddito, il segno racconta un’altra cosa
+153kb8wzcy9 Con più reddito puoi comprare di più di un bene normale. Puoi anche abbandonare un bene usato soprattutto quando il budget era stretto: è allora inferiore in quell’intervallo di reddito. Questi termini descrivono una reazione di quantità, non la qualità morale o materiale del bene.
+q1kxeujxcf Elasticità al reddito η = (∂Q/∂I)·(I/Q). η < 0: inferiore; η > 0: normale; η > 1: di lusso; 0 < η < 1: necessità normale.
+1qm9ole8pzx Il reddito cambia i panieri accessibili mentre i prezzi restano costanti.
+tzyco1cmt0 La risposta dipende dalle preferenze e dal livello di reddito osservato.
+1c757h4vx72 Uno stesso bene può cambiare categoria quando cambiano bisogni e alternative.
+1hsoo8v8si0 Esempi costruiti: η = −2, reddito +10 % ⇒ Q ≈ −20 %. η = 1,4, reddito +10 % ⇒ Q ≈ +14 %: questo bene è normale e di lusso nell’intervallo studiato.
+jw6iwyv24o Un ostello può essere la tua opzione normale con un piccolo reddito, poi essere sostituito da un hotel quando i tuoi mezzi crescono. «Inferiore» descrive questa scelta.
+2fr0610vuek η = −2, reddito +10 %. Variazione approssimativa di Q in %?
+2e6x155iifc −2×10 = −20 %. Il bene è inferiore in questo intervallo.
+1epd5rswiye η = 1,4 significa…
+26v4ydzxl75 Bene di cattiva qualità perché è caro
+iazl3mcki1 Questa classificazione non giudica né la qualità né il livello del prezzo.
+1hdp69021yv Bene normale la cui quantità cresce più che proporzionalmente al reddito
+1g0ton7yifo 1,4 > 1: bene di lusso nel senso dell’elasticità al reddito.
+1jr4k7lg1t8 Due punti: dichiara quale base usi
+kcamnir2kv Una variazione da 6 a 4 non dà la stessa percentuale se prendi come base 6, 4 o la loro media. Per confrontare due punti in modo simmetrico, il metodo dell’arco usa le medie. Non va mescolato con una base iniziale per l’altra variabile.
+lh46rr9fwk Elasticità d’arco: [ΔQ/((Q0+Q1)/2)] / [Δp/((p0+p1)/2)]. I due denominatori seguono la stessa convenzione.
+s4mefamj6h La base iniziale dipende dal verso in cui percorri la variazione.
+16xle7jl6ar Le medie trattano i due punti in modo simmetrico.
+twtey4ps2k Cambiare base cambia la misura discreta; precisare la convenzione rende il calcolo interpretabile.
+2bfg9rvvkho Q: 6 → 4, p: 1 → 2. Arco: (−2/5)/(1/1,5) = −0,4/(2/3) = −0,6. Base iniziale di L4: −1/3. I dati sono identici; la convenzione differisce.
+1zrd346r3xz Sul foglio scrivi «arco, basi medie» e usi cinque per Q e 1,5 per p; non mescoli cinque e uno.
+1us8nsjopqd Q: 6 → 4, p: 1 → 2. Quale elasticità d’arco con basi medie?
+1jqo86dl1uf Medie: Q = 5, p = 1,5. (−2/5)/(1/1,5) = −0,6.
+1n14r19ikmj Usare Q medio ma p iniziale dà…
+1cn5g1h1frd La stessa cosa dell’arco per definizione
+8mpvxvz2k9 L’arco prende le medie in entrambe le percentuali.
+1rttxfnfykx Una mescolanza di convenzioni da evitare
+1fcumo7ta0n Il rapporto non è né la misura d’arco definita, né la misura su base iniziale.
+1m08l1fdmo1 I casi limite e l’ultima verifica
+xl6k0loaa2 Se la quantità non cambia mai quando il prezzo si muove, la domanda è perfettamente anelastica. Se uno scarto infinitesimale di prezzo fa ribaltare gli acquisti nel modello limite, è perfettamente elastica. In mezzo, mantieni segno e punto: non puoi attribuire automaticamente un’unica elasticità a tutta una retta.
+17xeg5ye94h Domanda verticale: ε = 0. Domanda orizzontale nel caso limite: |ε| infinita. A Q = 0, ε = (dQ/dp)p/Q non è definita; esamina un limite se giustificato.
+1j82mjfklup Una retta verticale fissa Q qualunque sia il prezzo: dQ/dp = 0.
+2fjmu245s2f Una retta orizzontale fissa il prezzo ammissibile e permette nel modello ideale una reazione della quantità arbitrariamente forte.
+z5kqmkdkbu La divisione per Q impone un dominio: nel punto in cui Q è nulla, non dare un rapporto finito senza giustificazione.
+1sjd4am4ck4 Domanda costruita Q = 12 − p: a p = 0 e Q = 12, ε = 0 nel punto; ciò non rende verticale tutta la retta. Quando p si avvicina a 12 da sotto, Q si avvicina a 0 e |ε| diventa molto grande.
+1fw2bj584uf Verifichi «quale prezzo? quale quantità? quale variabile è cambiata? quale convenzione?» prima di classificare o calcolare un ricavo.
+ag9ro98t7c Una domanda perfettamente anelastica ha una curva…
+sjl9t4u08p Orizzontale, perché ε = 0 significa pendenza orizzontale
+dca2dswwo2 Hai confuso dQ/dp con la pendenza disegnata dp/dQ.
+17i9caezzlr Verticale: Q non cambia quando cambia p
+1u0qch1dmob La reazione proporzionale di Q è nulla.
+170hodeyruu Spiega con parole tue perché un aumento di prezzo può ridurre il ricavo.
+27uhnaqwzcd Di più per unità
+122ytyr8ihs Vendite perse
+1fgw68gohan Reazione proporzionale dominante
+wfa59edzv0 Il prezzo più alto rende di più su ogni unità ancora venduta, ma riduce le vendite. Se la domanda è elastica, il calo proporzionale della quantità supera l’aumento del prezzo: il ricavo diminuisce.
+zf0nopyu8v Prezzo proprio, altro prezzo e reddito non descrivono la stessa reazione; breve e lungo periodo non offrono le stesse possibilità.
+1krcs26et5f Si vuole confrontare la variazione rispetto ai livelli di partenza, non una pendenza grezza con unità.
+2dbd21z5be1 Il segno descrive il verso; l’intensità può variare lungo la stessa retta.
+biu2gr5ep Approssimazione locale, arco e funzione potenza esatta possono dare cifre diverse.
+zanm4c6l3z La reazione indica sostituzione, tipo di bene, obiettivo di quantità o effetto sul ricavo, senza sostituire un calcolo del profitto.
+1pum31gpx28 ε = −0,6 descrive un calo proporzionale di Q quando p aumenta, sull’orizzonte e nel punto precisati. Il calcolo −15/(−0,6) = +25 % è l’approssimazione proporzionale. Se si impone Q = A·p^−0,6 per tutta la variazione, l’aumento esatto è circa 31,11 %. Una domanda anelastica fa salire il ricavo per un piccolo aumento di prezzo; il profitto dipende anche dai costi, e una grande variazione richiede di confrontare i livelli.
+24ksbgoyrs Identificare variabile e orizzonte
+27vn4gnu83f Trasformare la reazione in percentuali
+maiwn1fgdz Mantenere segno e punto
+1u9ldqbbdzk Calcolare con una convenzione dichiarata
+knek3w6ome Tornare alla decisione economica
+uyg30g9nby Un’amica dice «la benzina ha ε = −0,6, quindi aumentarne il prezzo del 25 % riduce Q esattamente del 15 % e aumenta per forza il profitto». Spiega che cosa è corretto, che cosa manca e come ragioneresti.
+5w0sgi59l3 Sensibilità proporzionale negativa
+oh9esg6g33 1 % di prezzo in più dà localmente circa lo 0,6 % di Q in meno.
+lk2uppaifk 25 % è un’approssimazione
+1kv1etf0v7o Una grande variazione richiede un modello o una convenzione esplicita.
+lubmbxeel4 Con |ε| < 1, l’effetto prezzo domina localmente.
+kwyngprinw Costi per il profitto
+1a0e398p3fd Il ricavo non basta per concludere su π.
+c6vwww5n82 La derivata va normalizzata con p/Q; su una retta l’elasticità varia con il punto.
+17p6i00pqoi 25 % è l’approssimazione per l’obiettivo di A2. Per Q = A·p^−0,6, la soluzione esatta è circa +31,11 %.
+1wuw3azlq36 Il profitto sottrae i costi. Un ricavo più alto non prova un profitto più alto.
+1iet1i42reo Esercitazione costruita su L4, A2.1 e le trappole del §20. I valori della domanda lineare e dell’obiettivo esatto sono varianti didattiche, non un testo ufficiale.
+2bex13zy1i0 dQ/dp = −2, Q = 80, ε = −2×20/80 = −0.5 : inelastic.
+svbbli5lp6 p1/p0 = 0.8^(−2) = 1.5625, exact +56.25%. Approximation: (−20)/(−0.5) = +40%.
+vonuwse6vt Identificare la domanda diretta e calcolare Q nel punto richiesto.
+1rkwgau46fn Normalizzare la derivata con p/Q, poi classificare con |ε|.
+205ik13qbbn Calcolare R = pQ nei due punti invece di estrapolare alla cieca una conclusione locale.
+1coehiwdse0 Per la variazione esatta dell’altro mercato, usare il rapporto della funzione potenza.
+1enkr6gx67j Segnare (Q,p) = (80,20) e (70,25), poi i rettangoli pQ corrispondenti.
+28xcgcfui4o Non usare questa retta per rappresentare l’altro mercato a elasticità costante.
+1hy6rg6vb3i Una domanda è elastica se…
+1bk365e7o45 εD è negativa, qualunque sia il suo valore assoluto
+hwx8ul3jsw La maggior parte delle domande decrescenti ha segno negativo; questo non basta a classificarne l’intensità.
+wqo8a2ao4f La reazione proporzionale di Q supera quella del prezzo.
+awyf40xayi Un’elasticità incrociata positiva indica…
+gf46ebxwq1 Un bene di lusso
+12p9sicfth6 Il lusso si legge con l’elasticità al reddito, non con quella incrociata.
+1zud98yev5d Sostituti nel modello dato
+12lkc97iadv Il prezzo dell’altro bene aumenta e la domanda studiata aumenta.
+1edylwewpik Perché normalizzare la derivata con p/Q?
+q83w0ctw1t Per rendere positive tutte le elasticità
+1v4fkhyt77j La normalizzazione non elimina il segno della derivata.
+nz2doue3po Per convertire la reazione assoluta in reazione proporzionale

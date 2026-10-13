@@ -1,0 +1,219 @@
+187lp75r5mv	Traiter séparément IC, IR, risque et égalités.
+lezd37ioi5	Incitation faible n’implique ni effort strict ni acceptation.
+dh719osuil	Démontrer un conflit plutôt que le supposer à partir du mot bonus.
+2d9tgl777b6	Les nombres de E2020 alignent les choix du dirigeant et du propriétaire.
+17ovhd91bm9	Jeux — choisir face à quelqu’un qui choisit aussi
+1stqtppif61	Meilleures réponses, équilibres et crédibilité
+n7g35w8l73	Partage ou prends la cagnotte ? Arme-toi ou fais confiance ? Compare tes choix dans chaque scénario, garde les indifférences et reconstruis le plan complet.
+vr42z4tub8	Rowena / X
+1zv02w2fqdt	choisit une ligne ou agit d’abord
+havgwywhc6	maximiser sa propre utilité
+1gmq5bvxcu2	Colin / Y
+9aiuhlnfmm	choisit une colonne ou répond après observation
+obkdu1bpfv	maximiser son propre gain
+wqc5gtn3t7	L’analyste
+1n9pgtv7wue	garde les choix et gains de chacun séparés
+1dliqueit0q	identifier stabilité et efficacité sans les confondre
+1vifqqnyb0k	Tu ne choisis pas seul le résultat de ton choix
+x0pbxj1gff	Rowena et Colin peuvent chacun partager une cagnotte ou tenter de la prendre. Si les deux partagent, chacun reçoit 10 ; si un seul prend, il reçoit 20 et l’autre 0. Si les deux prennent, ils reçoivent 0 : la valeur de ton choix dépend du choix de l’autre.
+1j0ldw7kvw6	Un jeu décrit des joueurs, leurs stratégies, leur information et leurs gains. Dans un jeu simultané, chacun choisit sans observer l’action courante de l’autre.
+edkhm8qdrj	Une action ne porte pas un gain fixe : partager peut donner 10 ou 0 selon Colin.
+1g7suld45pe	Pour savoir quoi faire, Rowena doit comparer ses actions dans chaque scénario rival, plutôt que choisir la plus grande case du tableau.
+1y1g7wezu0u	Partager face à partager donne 10 ; prendre face à partager donne 20. Le même rival, deux choix privés à comparer.
+2dpnxxre0hg	Tu es Rowena : commence par imaginer que Colin partage, puis demande quel choix te rapporte le plus dans ce scénario précis.
+9qi3p8kwun	Golden Balls : les gains monétaires
+dup59hasxc	S=Split, N=Steal dans cet assignment. Premier nombre : Rowena (ligne), second : Colin (colonne). Gains monétaires ; Nash purs uniquement dans les questions qui suivent.
+z5lckyzhuv	Rowena
+20mnhbdjivw	Colin
+1hmntqyoz3o	S : partager
+1s3uuibln69	N : prendre
+18fv6pj7i6p	Pourquoi est-ce un problème stratégique ?
+m2s9v0jlz5	Ton gain dépend aussi de l’action de l’autre
+16lb37npx99	Tu dois anticiper ou conditionner ton raisonnement à son choix.
+2fpxm1h0svp	Parce que le plus gros nombre est forcément ton choix
+2b1blkkf5dq	Une case donne un profil de deux choix ; tu ne contrôles pas directement celui de l’autre.
+1o0qenrvqc7	Parce que chacun peut décider du choix des deux
+186jhmp9znr	Chaque joueur contrôle seulement sa propre stratégie.
+3qi380qwdq	Le premier nombre n’est pas toujours celui du joueur qui t’intéresse
+wwi85f4oyc	Dans chaque case, deux personnes reçoivent des gains. Le premier nombre appartient au joueur de ligne, Rowena ; le second à Colin, joueur de colonne. Si tu inverses ces nombres, tu fais décider quelqu’un avec le gain de l’autre.
+26rpipo1oo9	Convention du tableau : (u_ligne,u_colonne). Toujours conserver le même ordre quand on retire des coûts ou transforme de l’argent en utilité.
+1bfepurwgnt	Le tableau code deux classements de préférences dans les mêmes cases.
+1nlpkdaxzpz	La meilleure réponse d’un joueur dépend uniquement de son propre classement, pas de la somme ou du gain de son rival.
+1w88c3pco20	Case Rowena S, Colin N : (0,20). Rowena reçoit 0, Colin 20. Ce n’est pas « Colin choisit le premier nombre ».
+4snx6xa70x	Cache le nombre de ton rival pendant que tu compares tes actions : tu évites de résoudre son problème à la place du tien.
+pwvxk50ph2	À la case (S,N)=(0,20), quel gain reçoit Colin ?
+2br0cs60oyf	Colin est le joueur de colonne : son gain est le second nombre.
+1mhu5iyos64	0 est le gain de Rowena, joueur de ligne.
+1sdh9dn0c31	Fixe la colonne, puis fais choisir Rowena
+2ebkqll3chr	Suppose que Colin partage. Rowena compare 10 si elle partage à 20 si elle prend, donc elle prend. Suppose maintenant que Colin prend : Rowena obtient 0 dans les deux cas, donc les deux choix sont ses meilleures réponses.
+21gogxrsx2i	BR_i = best response : action maximisant le gain privé face à une action rivale donnée. Une meilleure réponse peut être un ensemble quand il y a indifférence.
+93s2lubxm2	Le choix de Colin reste fixé pendant la comparaison : sinon on ne mesure pas une déviation unilatérale.
+11e7423d68k	Un gain égal ne permet pas d’éliminer une action ; elle reste optimale à égalité.
+175jomob8zb	BR_Rowena(S)={N}. BR_Rowena(N)={S,N}. Le zéro n’interdit pas une meilleure réponse si toutes les alternatives donnent aussi zéro.
+21lvr45tccj	Tu fais varier uniquement ta ligne, dans une colonne fixée. Entoure toutes les cases qui atteignent le maximum de ton gain.
+2bglpkx2qr0	Face à Colin N, quelles sont les meilleures réponses de Rowena ?
+1u2za4lqnuh	N seulement
+20ycvis4nws	S donne également 0 ; l’indifférence conserve les deux actions.
+rpialj25c4	Les deux maximisent son gain 0 dans cette colonne.
+1ngdv2666j4	Aucune action
+2em52tfbbaw	Même si le gain est nul, un maximum existe.
+hz4lnw1jtq	Fixe maintenant la ligne, puis fais choisir Colin
+asvsdi0ilv	Suppose que Rowena partage : Colin compare 10 en partageant à 20 en prenant, donc il prend. Si Rowena prend, il obtient 0 dans les deux colonnes. Le problème est symétrique, mais tu dois utiliser les seconds nombres pour le résoudre.
+211wz233q3j	BR_Colin(S)={N}, BR_Colin(N)={S,N}. Les meilleures réponses de colonne se cherchent horizontalement à ligne fixée.
+1mxt250761n	Changer les deux choix à la fois teste une coordination, pas le meilleur choix privé face à un rival donné.
+1gr3s69vsoi	La symétrie doit être vérifiée à partir des gains ; elle n’est pas garantie par les noms des actions.
+1gw1rshhp34	Face à S, le gain privé de passer de S à N est 20−10=10 pour Colin.
+x418vdhalo	Tu es Colin : ta déviation passe d’une colonne à l’autre, sans déplacer la ligne choisie par Rowena.
+1t4x7z24ktd	Face à Rowena S, combien Colin gagne-t-il de plus en passant de S à N ?
+dl44vungkh	Colin compare les seconds gains :20−10=10.
+12zgz3u4mfs	20 est son nouveau gain, pas la hausse par rapport aux 10 initiaux.
+1yostz6dkf5	Un Nash est une case où aucun joueur ne peut améliorer seul son gain
+2614at9ge4c	Regarde une case où chacun est déjà en meilleure réponse à l’autre. Changer seul n’apporte alors aucun gain strict. Dans Golden Balls égoïste, (S,N), (N,S) et (N,N) passent ce test, même si certains joueurs sont indifférents.
+1kre6i409kv	Nash pur : chaque action est une meilleure réponse à l’autre. Ce n’est ni une promesse de coopération ni un optimum collectif.
+1m2t3qes2n0	Quel test définit un équilibre de Nash ?
+gihgvfj508	Aucun joueur n’améliore son gain en changeant seul
+1q43pdhnwx6	Chacun répond au choix de l’autre ; une déviation sans gain strict ne détruit pas Nash.
+1vw35xvfaml	La somme des gains est maximale
+1rvw76nluaf	Cela teste l’efficacité collective, pas la stabilité individuelle.
+12i4hrlmokg	À (S,N), Rowena peut prendre aussi mais reste à 0 ; Colin perdrait en partageant.
+tc68f76zv2	À (S,S), chacun gagne 10 de plus en prenant seul : la case n’est donc pas Nash malgré son attrait collectif.
+24z3wqf8ogk	(N,N) est Nash : passer seul à S garde son gain 0. Une amélioration seulement à deux ne constitue pas une déviation unilatérale.
+2f367no9hac	Pour chaque joueur, demande « si l’autre ne bouge pas, est-ce que je peux faire strictement mieux ? ».
+1fzbphkxbtr	Quelle liste contient exactement les Nash purs de Golden Balls égoïste ?
+s05s04kp3t	Les meilleures réponses incluent les indifférences face à N.
+1oqzj8bg8li	(N,N) seulement
+26s0w2dyw1i	Tu as oublié les meilleures réponses à égalité aux profils asymétriques.
+zj7j0lqn3z	À (S,S), prendre seul augmente le gain de 10 à 20.
+14zwru6031r	Faiblement dominant n’est pas strictement dominant
+bqafewirnb	Prendre donne 20 au lieu de 10 face à quelqu’un qui partage. Face à quelqu’un qui prend, prendre donne le même zéro que partager. Prendre n’est jamais moins bon et est parfois meilleur ; il n’est pas meilleur dans tous les cas.
+1fqhlo03voj	N est faiblement dominant : au moins aussi bon contre toute action rivale, strictement meilleur contre certaines. Une stratégie strictement dominante serait strictement meilleure contre toutes.
+p5j7vlsxdl	La distinction porte sur les inégalités, pas sur la force psychologique de la tentation.
+x9ralilhkn	L’indifférence explique pourquoi d’autres profils que (N,N) peuvent être Nash.
+2c6xjbb0cwx	Contre S :20>10. Contre N :0=0. Il manque une inégalité stricte pour parler de dominance stricte.
+1mtw46fthn1	Tu ne supprimes pas les signes égal parce que tu trouves une action plus naturelle : ce sont des informations économiques.
+16plbnsi1a9	Pourquoi N n’est-il pas strictement dominant ?
+f7qo44v3ly	Il donne le même gain que S contre N
+xpplt6rue6	0=0 : cette égalité exclut la dominance stricte.
+9yrnj1j7qr	Il donne toujours moins que S
+11ztj92qs17	Contre S, il donne 20 au lieu de 10.
+1oe6dap1g3x	Il ne peut jamais appartenir à un Nash
+15gfkv0r7t	Une stratégie faiblement dominante peut appartenir à plusieurs Nash.
+9cxlen7s77	Stable individuellement peut être mauvais pour les deux
+uyxpo946ki	À (N,N), Rowena et Colin reçoivent 0. Ils pourraient tous les deux recevoir 10 en partageant ensemble. Mais si l’autre continue de prendre, partager seul n’améliore pas ton gain : la possibilité d’un meilleur résultat collectif ne suffit pas à le rendre stable.
+vmp157inw	(S,S) domine (N,N) au sens de Pareto, mais n’est pas Nash dans le jeu égoïste. Efficacité et équilibre répondent à des questions distinctes.
+zhoae1xfq	Pareto compare deux allocations : personne ne perd et au moins un gagne.
+cpwfwn4d5x	Nash compare les déviations d’une seule personne en maintenant les autres choix fixes.
+1sbzdcggv3g	Somme à NN=0 ; somme à SS=20. Pourtant, face à S, prendre rapporte 20 contre 10 en partageant.
+q077k1uorj	Tu proposes une coordination à ton rival. Vérifie ensuite s’il garde intérêt à respecter ce plan une fois ton propre choix donné.
+23v0wgxg52y	Une case qui maximise la somme des gains est-elle automatiquement Nash ?
+12egl825zqa	Non : chacun peut encore gagner à dévier seul
+mxjwb9vhx5	Il faut tester les meilleures réponses individuellement.
+21ynqca4xq6	Oui : le gain collectif interdit toute déviation
+289bnh8zw7l	Le collectif n’est pas la fonction objectif de chaque joueur égoïste.
+1wqir33jl1u	Si être derrière te déplaît, un zéro n’est plus le même zéro
+2aakfpli5jz	Suppose que tu retires 1 à ton utilité quand l’autre reçoit plus d’argent. Recevoir 0 face à quelqu’un qui reçoit 20 devient−1, alors que recevoir 0 face à 0 reste 0. L’indifférence qui soutenait les équilibres asymétriques disparaît.
+8xdryosunb	Avec envie : SS(10,10), SN(−1,20), NS(20,−1), NN(0,0). N devient strictement dominant ; seul Nash pur NN.
+186049tkelo	Les choix maximisent l’utilité selon les préférences, pas nécessairement l’argent seul.
+8o23hemcrl	Face à N, choisir N vaut 0>−1 ; face à S, N vaut 20>10. Les deux comparaisons sont maintenant strictes.
+gka1pzkvmn	Au profil SN, Rowena dévie vers N : son utilité passe de −1 à 0. SN cesse d’être Nash.
+vaq6y71gpp	Tu ne changes aucun montant de la cagnotte : tu changes ce que ces montants représentent pour toi.
+8sjzk8niwq	Au profil SN avec envie, de combien Rowena améliore-t-elle son utilité en passant à N ?
+9xcrnipja9	unité d’utilité
+2gbgh5b0wbs	Elle passe de −1 à 0 : hausse de 1.
+plpdw72j3i	Attention au piège de l’ancien corrigé : NN n’est plus Nash
+18kf3gy7wtc	Tu valorises maintenant l’argent de l’autre autant que le tien. Dès qu’au moins un partage, les 20 de la cagnotte sont distribués et chacun obtient une utilité 20. À (N,N), partager seul fait passer ton utilité de 0 à 20 grâce à l’argent reçu par l’autre.
+2c5mbbw1877	Altruisme égal : u_i=m_i+m_j. Nash purs SS,SN,NS ; NN n’est pas Nash. La réponse personnelle « SS et NN » signalée dans A3.1 c est erronée.
+1nv59wuooy	À SS, dévier vers N laisse son utilité à 20 : pas de gain strict, donc SS est Nash.
+hvs2f17onn	À NN, la déviation vers S crée 20 pour l’autre, que le joueur valorise lui-même : il gagne strictement.
+10rznm7zhr2	SN : utilité Rowena 0+20=20 et Colin 20+0=20. NN :0+0=0. La même monnaie produit une autre matrice d’utilités.
+2ft6i9sbata	Tu corriges NN en faisant une seule déviation concrète ; ne retiens pas une liste d’équilibres sans pouvoir la reconstruire.
+1i2et0eufit	Mêmes sommes d’argent, nouvelles utilités
+v13q4ihwv	Utilité u_i=argent_i+argent_j. Les nombres affichés sont des utilités, pas un nouveau partage de monnaie. Premier nombre : Rowena, second : Colin.
+27eg9ygmayh	Avec u_i=m_i+m_j, quels sont exactement les Nash purs ?
+prllhf2f56	Toutes ces cases donnent 20 ; à NN, partager seul améliore 0 en 20.
+20frwg1vs1w	C’est précisément l’erreur du corrigé personnel : NN admet une déviation profitable.
+lgsx4d2olf	NN seulement
+2fvrznq6mzj	Tu as conservé les préférences égoïstes au lieu de recalculer les utilités.
+1nb3els1hv9	Quand l’argent de l’autre compte double, partager devient strictement dominant
+cxna0sn6es	Suppose maintenant que tu valorises un euro chez l’autre comme deux euros dans ton utilité. Si l’autre partage, partager donne 30 contre 20 en prenant. S’il prend, partager donne 40 contre 0 : partager devient meilleur dans chaque scénario.
+1rsuv2hhjyg	u_i=m_i+2 m_j : SS(30,30), SN(40,20), NS(20,40), NN(0,0). S strictement dominant ; seul Nash SS.
+56or28vhww	Face à S, garder 10 et donner 10 vaut 10+2×10=30 ; tout prendre vaut 20.
+8dwhlig9fv	Face à N, partager donne 20 à l’autre, valorisés 40 ; prendre détruit tout et vaut 0.
+axla3kgvhm	À SN, l’argent de Rowena est 0 mais son utilité 40. Il faut annoncer si une matrice affiche de l’argent ou de l’utilité.
+11nbgzeh6wv	Tu distingues ce que tu reçois dans ton portefeuille et la valeur que tu attribues au résultat.
+15uajkagage	Rowena partage, Colin prend 20 ; avec u_R=m_R+2 m_C, quelle utilité a Rowena ?
+kr3cephp65	0 est son argent reçu ; son utilité compte aussi le gain de Colin.
+10qs8l2sltj	20 correspond à l’altruisme égal, pas au poids 2.
+u9rsnkewym	Deux Nash ne te disent pas lequel sera joué
+1x8whzqyvk8	Deux pays préfèrent être en paix ensemble : chacun obtient 9. Mais si l’autre se prépare à la guerre, répondre par la guerre donne 7 plutôt que 0. La paix commune et la guerre commune sont donc toutes deux stables, même si la paix est meilleure pour chacun.
+np82o00w82	Jeu de coordination A3 : Nash purs (paix,paix) et (guerre,guerre). La matrice seule ne sélectionne pas un équilibre simultané unique.
+5vgl7sq2pj	Face àpaix, paix 9>guerre 8. Face àguerre, guerre 7>paix 0.
+m5prqo5zqk	Les croyances sur la réponse de l’autre peuvent rendre une issue plausible ; une annonce non contraignante ne change pas automatiquement les gains.
+1qtrblbje34	Passer de guerre/guerre à paix/paix fait gagner 2 à chacun, mais un passage unilatéral face àguerre fait perdre 7.
+9xk5hy3il9	Tu veux coordonner la paix : convaincre l’autre de ta réponse peut compter, mais vérifie si tu as réellement modifié ses incitations.
+1860mfs1jzd	Coordination paix/guerre
+3fs93sdhyd	Premier gain : X, joueur de ligne ; second : Y, joueur de colonne. Les deux équilibres purs sont paix/paix et guerre/guerre.
+2384s7d3ze7	Paix
+87f6a55m7l	Guerre
+1w0gmra09xf	Quelle conclusion est justifiée par les seuls gains simultanés ?
+5dclnzb8ls	Deux Nash purs ; aucun choix unique imposé par la matrice
+1uikdb7uv42	Les deux diagonales sont des meilleures réponses mutuelles.
+7wqluzitf4	La paix sera forcément jouée car 9>7
+2lmuf8rleu	Cela compare deux coordinations ; le choix privé dépend du choix anticipé de l’autre.
+1vjsm9ae4qt	La guerre est strictement dominante
+sogty5r6bj	Face àpaix, paix rapporte 9 contre 8.
+xqehnlgbnf	Quand quelqu’un observe avant d’agir, commence par la fin
+oerhiw1qrn	X agit d’abord dans le jeu de coordination, et Y observe. Si X choisit paix, Y préfère paix 9 à guerre 8 ; si X choisit guerre, Y préfère guerre 7 à paix 0. X anticipe donc 9 en choisissant paix contre 7 en choisissant guerre.
+1zp5qev5xh5	Induction à rebours : résoudre les choix optimaux du suiveur dans chaque sous-jeu, puis choisir au nœud initial. Ici l’issue est paix/paix.
+1cijfksj9dl	Le premier joueur doit anticiper la réponse effective, pas maintenir l’autre action artificiellement fixe.
+1xqddmmltga	Le passage à une décision observable modifie le jeu ; on ne recopie pas simplement les Nash du jeu simultané.
+xt1nssz682	Réaction Y : paix après paix, guerre après guerre. X compare les issues induites 9 et 7, donc paix.
+1zeqlw8669b	Tu es X : avant de jouer, remplis les deux réponses futures possibles de Y, même celle qui ne sera finalement pas atteinte.
+1o7h39f538	Coordination séquentielle
+255ehnhmj4g	Y observe X ; gains comme dans la matrice A3.
+10cgws0hy9y	Y après paix
+2bno703pwad	Compare 9 à 8
+1oiiibzvoga	Choisit paix.
+1gcjnsnbptk	Y après guerre
+10yp9x1hor7	Compare 7 à 0
+6wit8mb8lo	Choisit guerre.
+dvi9cll3dh	X au départ
+rl97lf8zur	Anticipe les deux réponses
+1dn5zonq5gu	Choisit paix car 9>7.
+1k8bw3d1yj3	Dans quel ordre résout-on un jeu séquentiel à deux étapes ?
+1cm6p53h520	Décrire les gains terminaux et l’information
+17hsj6yhvjj	Choisir la meilleure réponse du suiveur après chaque action possible
+1740ld0xgzf	Reporter ces issues dans le choix du leader
+k67akyr3np	Énoncer stratégie complète et issue obtenue
+et6vjk0fsd	Retire les coûts d’armes avant de comparer
+1lx50gfpel	Les pays X et Y se partagent six unités de pétrole. S’armer coûte 1 à X et 3 à Y ; un pays seul armé reçoit 5 de pétrole, l’autre 1. Si les deux s’arment, le pétrole disparaît mais les coûts restent payés : un gros partage brut n’est pas encore un gain net.
+1x3h67ykoox	Gains nets (X,Y) : aucun armé (3,3), X seul (4,1), Y seul (1,2), les deux (−1,−3).
+1lo1bv4m76p	Y seul armé reçoit 5 mais dépense 3, donc son gain 2 ; X non armé reçoit 1, pas 2.
+1vnh5e7906z	Confondre le gain de l’autre avec ton propre coût peut produire une bonne issue par un raisonnement faux.
+123dhqqy6l7	X seul :5−1=4 pour X,1 pour Y. Deux armés :0−1=−1 pour X et 0−3=−3 pour Y.
+aowtt3m8eo	Tu es Y : avant d’examiner tes options, transforme chaque recette de pétrole en gain net avec ton coût 3.
+1o5fy0v5pv	Armes et pétrole : gains nets
+1p22d4e3418	Pool 6 ; coût d’armement X1, Y3. Un seul armé reçoit 5 avant coût, l’autre 1 ; aucun armé partage 3/3 ; deux armés perdent le pétrole. Premier gain X, second Y.
+1fuvda6yn8	X (coût 1)
+wvjk7omtrb	Y (coût 3)
+2agxro88rqr	Non armé
+1qxcoa0k2o0	Armé
+2g7wow28kz5	Si Y est seul armé, quel gain net reçoit Y ?
+6ev7e5ldhc	Il reçoit 5 de pétrole et paie 3 :5−3=2. X non armé reçoit 1.
+1z5qjc07qpc	5 est la recette brute avant coût.
+27hglkbciuv	1 est le gain de X non armé, pas celui de Y.
+k068zd9d2t	Une stratégie dit aussi ce que tu ferais hors du chemin joué
+14ptqiyj6h9	X joue d’abord dans le jeu d’armes. Après X armé, Y préfère rester non armé :1>−3. Après X non armé, Y préfère aussi rester non armé :3>2. X anticipe alors 4 en s’armant contre 3 sinon ; mais écrire seulement « X arme » oublie tout le plan de Y.
+153cftrib23	SPNE = subgame perfect Nash equilibrium. Une stratégie du suiveur spécifie une action à chaque nœud possible, y compris hors du chemin d’équilibre.
+1trknyfih76	La réaction hors chemin permet de justifier le choix initial : le leader compare ce qui arriverait s’il changeait de branche.
+25apq3nwx0t	Un résultat terminal est une allocation de gains ; ce n’est pas à lui seul un profil complet de stratégies.
+1i3s03jky51	X d’abord : X arme ; Y ne s’arme après aucune action de X ; issue (4,1). La réponse de Y après X non armé est hors chemin mais indispensable.
+265b8q2jpp1	Tu remplis deux cases dans le plan de Y : « après X armé » et « après X non armé ». Une case vide laisse le raisonnement inachevé.
+jsyicl12wa	Quel est le plan complet optimal de Y quand X joue d’abord ?
+23eo137hj0p	Ne pas armer après X armé ET après X non armé
+1fou9bct6uv	Y compare 1>−3 dans la première branche et 3>2 dans la seconde.
+2c6b29irfkb	Ne pas armer seulement dans la branche jouée
+21lmpz4co8p	Il manque une décision hors chemin nécessaire pour spécifier une stratégie.
+pozjw5e84q	Armer après X non armé car 5>3
+1tk4elyvw7u	5 est brut : après coût 3, Y obtient 2<3.
+2e8metvgw2m	Changer l’ordre peut changer l’issue — annoncer ne suffit pas

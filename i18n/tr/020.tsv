@@ -1,0 +1,214 @@
+u7mxoagap Maliyeti 60 olan adaysın: ilan edilen 100 ücretle yetinme, diplomayı almanın maliyetini çıkar.
+244urxrnkv6 Diplomayla ücret 60'tan 100'e çıkıyor. Hangi maliyet bir adayı kayıtsız bırakır?
+bk6gv3a7bq 100−C=60 ⇒ C=40. Bu eşikte adayın kesin bir tercihi yoktur.
+19ta0dw6j5d Neden "sinyal pahalıdır" demek yetmez?
+1au8hb4l71c Teşvikler türe göre farklı olmalı
+1e307remc74 Bütün türler onu taklit etmek isterse, türleri ayırmaz.
+1pl29mt5eme Bir sinyal her zaman bedava olmalıdır
+1n8cuoxr3fq Türe göre farklı bir maliyet, ona tam da güvenilirliğini verebilir.
+1fcwg9v5nj9 Sahip görünmeyen bir çabayı emredemez
+nacul9nyp Bir sahip adına bir dükkân işletiyorsun. Daha çok çalışmak sana 10'a mal oluyor ve hasılatı artırıyor, ama sonuç iyi ya da kötü bir duruma da bağlı. Sahip hasılatı görüyor ama çabanı tam göremiyor: çabayı varsaymak yerine sana çaba göstermen için bir neden vermeli.
+1ssmkvgi0z2 Asıl-vekil: vekil gizli bir çaba seçer; asıl bir sözleşme önerir. H eşit olasılıkla 40/100 üretir, L: 20/40; beklenen hasılat 70 ve 30.
+26s9uv8dfti H ile bile kötü bir sonuç mümkündür: sonuç eylemi tam olarak belirlemez.
+nuej9ag8yt Toplam artık H=70−10=60, L=30'u aşar, ama bu toplu sıralama vekilin seçimini otomatik olarak belirlemez.
+18dxunvmzuo H: 0,5×40+0,5×100=70; L: 0,5×20+0,5×40=30. Çaba, 10 maliyete karşılık 40 beklenen hasılat ekler.
+156sggslp12 Çabayı kendi net ödemene bakarak seçersin; sahibin kazancı yorgunluğunun bedelini otomatik olarak ödemez.
+jdxtpthzyo H altında hasılat eşit olasılıkla 40 ya da 100, çaba maliyeti 10: beklenen toplam artık nedir?
+g83kh6bqn1 0,5×40+0,5×100−10=60. Olası bir ücret, sahip ile vekil arasında bir transferdir.
+m82p3sy9sn 70 beklenen hasılattır; gerçek çaba maliyeti 10 çıkarılmalı.
+rs3qe36dit Sabit ücret riskten korur ama çabayı ödüllendirmez
+1e0dzn1sz3c Sahip, ciro ne olursa olsun sana w öder. Çok da çalışsan az da çalışsan aynı ücreti alırsın, ama H sana 10 daha fazlaya mal olur. Başka bir motivasyonun olmadığı bu modelde L'yi seçersin; sahip için beklenen hasılatı 70 yazmak bu yüzden tutarsız olur.
+1uvsg48lxov Sabit ücretle: U_H=w−10<U_L=w. Sahip 30−w alır ve hasılat riskini taşır.
+2edsw1ijzcu Hasılat farkı ücretini değiştirmez, dolayısıyla çaba maliyetini telafi etmez.
+uqlqv0w424 Bu sonuç başka teşvik ya da motivasyonların olmamasına bağlıdır; her gerçek çalışanı otomatik olarak tanımlamaz.
+2ay8bxerlwp w=20 ise: H sana 10, L 20 verir. L'yi seçersin; sahip beklenen değer olarak 30−20=10 alır.
+2dx8cvztyj0 "Bir euro fazladan hasılat ücretimi değiştirir mi?" diye sorarsın. Bu sabit ücretle cevap hayır.
+1ub17q3sj92 Sabit w ve maliyet H=10, L=0 iken vekil için hangi çaba optimaldir?
+15zmou98ojn H, çünkü toplam hasılatı maksimize eder
+1fcj2daflfm Vekil bu ek hasılatı almaz. Onun özel kazançlarını karşılaştır.
+gcrtw2fb1v L, çünkü ücreti aynı kalır ve çaba daha az maliyetlidir
+vvmkeyxs73 w>w−10; asılın hasılatı ardından L ile hesaplanmalı.
+21jl4wtr4ac Hasılat paylaşımı çabaya özel bir getiri sağlar
+1gpxhmvkov3 Sahip artık sana hasılatın yarısını öneriyor. Daha çok çalışarak ek cironun bir kısmını alırsın. Ödemenin şoklarla değişmesini de kabul edersin: teşvik, riske maruz kalmayla birlikte gelir.
+77q5vu7az4 50/50 paylaşım: U_H=0,5×70−10=25; U_L=0,5×30=15. H teşvik uyumlu olur; sahip 35 alır.
+1a4fvgeoiuk Çaba 40 beklenen hasılat ekler, bunun 20'sini sen tutarsın; bu da 10 maliyetini karşılar.
+1vcea0czgcl Risk nötrlüğü altında burada beklenen değerleri karşılaştırmak yeterli; riskten kaçınma sözleşmenin kabulünü değiştirebilir.
+3ss8c5r7uf H altında net kazancın kötü durumda 10 (20−10), iyi durumda 40 (50−10), yani beklenen değer olarak 25.
+1877v88citi Dükkânı işletiyorsun: çaba artık sana 10 maliyete karşılık 20 ek beklenen ücret getiriyor.
+28ouo5t2uhf Çabadan kim yararlanır?
+2901249h8as beklenen €
+1r4lmpng1kj Riske nötr vekil; H çabası 10'a mal olur ve 1/2 olasılıkla 40/100 üretir; L çabası 0'a mal olur ve 1/2 olasılıkla 20/40 üretir. 50/50 paylaşım.
+17yz9b8aqse Vekil H: 0,5×70−10
+250ga046w0s Vekil hasılat artışının yarısını alır ama çaba maliyetinin tamamını öder.
+16yofhfh3ax Vekil L: 0,5×30
+1bdbwfitbhc Çaba maliyeti yok; daha düşük gelir.
+2eonin2eh1d H ise sahip
+1d7ydijbee Beklenen 70 hasılatın diğer yarısı.
+3s70lfukax Toplam artık H: 70−10
+13nbopazdt9 Parasal paylaşım kaybedilmiş bir kaynak değildir.
+1dc2r6y8bjz Hasılatın %50'si ile H=(40,100), çaba maliyeti 10 iken vekil hangi beklenen net kazancı elde eder?
+1mv4o4a6hoa 35, çaba maliyetinden önceki hasılat payıdır.
+19us6fwui20 60 toplam artıktır; sahip de bir kısmını tutar.
+1xxenf6294c Kimse sözleşmeyi kabul etmezse güçlü teşvikler yetmez
+tk0keasvl0 Sabit bir F ücreti ödeyip tüm hasılatı tutabilirsin. Her hasılat kazancı senindir, bu yüzden H, L altındaki 30−F'ye karşı 60−F getirir. Ama F çok yüksekse, en iyi çaba bile sana dış seçeneğinden daha azını bırakır; sözleşmeyi reddedersin.
+2bsg8bi0p10 IC = incentive compatibility: istenen eylemi seçmek. IR = individual rationality: katılmayı dış seçeneğe tercih etmek. Sabit ücret riski vekile aktarır.
+xdwze0womn F, H/L karşılaştırmasında birbirini götürür, dolayısıyla belirli bir çabada bu teşviki değiştirmez.
+2ddw42v0ujm Sözleşmeyi imzalamamakla karşılaştırdığında F birbirini götürmez: katılımdan elde ettiğin net kazancı azaltır.
+sxv6owmuo5 Dış seçenek 15 ve risk nötrlüğüyle: 60−F≥15 ⇒ F≤45. F=50, H'yi en iyi çaba olarak korur ama yalnızca 10 verir: sözleşme reddedilir.
+1u72vud5tcs İmzalamadan önce iki soru sor: "İmzalarsam ne yapacağım?" ve ardından "İmzalamak işime gelir mi?".
+5gzkjfuf8 H 60−F veriyorsa ve dış seçeneğin 15 ise, IR'yi sağlayan en yüksek ücret nedir?
+163k5lrgo5 60−F≥15 ⇒ F≤45. 45'te kayıtsızlıkla zayıf katılım.
+yrkubo5vq9 F=50 H'yi teşvik eder ama 15'lik dış seçeneğe karşı 10 verir. Hangi sorun kalır?
+1gl1e5qstn5 IR sağlanmaz
+1ymns94fkmx Vekil, imzalasa H'yi seçecek olsa bile reddeder.
+1liz78e1563 IC zorunlu olarak sağlanmaz
+ig7kwhmist H 10, L −20 verir: H çabalar arasında en iyisi olmaya devam eder.
+1nuls7gd6p9 Girişimci geri ödemeden sonra kendisine kalana bakar
+1buvrv47hyr Banka, başarı halinde 40, aksi halde sıfır getiren bir proje için 20 borç verir. Yalnızca başarı halinde 30 ister. H ile 0,8 olasılıkla başarılı olursun; L ile yalnızca 0,4, ama L sana bankanın almadığı özel bir fayda b sağlar.
+sj65d8emv7 Sınırlı sorumluluk: U_H=p_H(R−B), U_L=p_L(R−B)+b. Vaat edilen geri ödeme B yalnızca başarı halinde ödenir.
+1791xujllo1 Geri ödemeyi artırmak, çaban başarılı olduğunda elinde kalan kazancı azaltır.
+2f82dkobdol Özel bir fayda, proje banka için daha az değer yaratsa bile düşük çabayı cazip kılabilir.
+aq3vkx1zy5 R−B=10. H 0,8×10=8 verir. L 0,4×10+b=4+b verir: b=2 ile H 6'ya karşı 8 kazandırır; b=6 ile L 8'e karşı 10 kazandırır.
+1yly10k1khf Borçlusun: bankanınkini hesaplamadan önce her eylem için kendi kazancını hesapla.
+z9n1h5fsb5 Nominal geri ödeme çabayı senin yerine seçmez
+1gcg6vya7p9 R=40, p_H=0,8, p_L=0,4, başarı halinde geri ödeme B=30, kredi D=20, özel fayda b=6. Borçlu L'yi seçer: banka için p_L kullanılmalı.
+n0wj1c5sks Girişimci H: 0,8×10
+xwx1gfyu6j Başarı halinde 10 kalıntı hasılat.
+fdspwa1ftt Girişimci L: 0,4×10+6
+eqqoy4txyu 6'lık özel fayda L'yi tercih edilir kılar.
+ep9at6mfdm Bankanın gerçek hasılatı: 0,4×30
+18qegyt6a5g Başarı olasılığı fiilen seçilen eyleme bağlıdır.
+1ebypqi4l2w Verilen kredi
+o4qjbxj43h 12 hasılatla banka 8 kaybeder; bu 20 onun kârı değildir.
+29ltto0ogc4 R=40, B=30, p_L=0,4 ve b=6 iken L girişimciye hangi kazancı sağlar?
+15hy6ckwzcl 0,4×(40−30)+6=10; bu U_H=8'den fazladır.
+u3v1waf010 L'nin 6'lık özel faydası eksik.
+1dcw15o520t 12, L seçilirse bankanın beklenen hasılatıdır, borçlunun kazancı değil.
+1z0bcxjlk85 Teşvik formülü iki seçim karşılaştırılınca ortaya çıkar
+11cyjd626mv H'yi seçmek için, başarı olasılığındaki artıştan vazgeçtiğin özel faydadan daha fazlasını kazanmalısın. Geri ödeme başarı halindeki kazancını azaltır, dolayısıyla sonunda çabanı yok edebilir. Banka, tam da L'yi seçtiren bir geri ödemeyi haklı çıkarmak için H'yi varsayamaz.
+29zqs6ynoy0 IC_H: (p_H−p_L)(R−B)≥b. Banka: p_seçilen B−D; olasılık fiilen seçilen eyleme karşılık gelmeli.
+1ap29drnzt3 Hangi karşılaştırma H'nin en az L kadar iyi olmasını garanti eder?
+8ppl4ygybh L'nin faydası dahil tam özel kazançlar karşılaştırılır.
+r8c89eypx3 Yalnızca p_H B ≥ D
+2bouo19oyrg Bu, borçlunun H'yi seçtiğini göstermeden bankayı H altında kontrol eder.
+nl9cl527no b=6 ve B=30'da IC 0,4×10≥6 gerektirir: yanlış.
+28ndfav5v7n L ile, 30'luk nominal vaade rağmen banka hasılatı 12'ye düşer; 20 kredi düşülünce kâr −8'dir.
+1nefhxc4cv1 b=2 ise H seçilir ve banka 0,8×30−20=4 kazanır. b=6 ise L seçilir ve banka 0,4×30−20=−8 kaybeder.
+1gesa78bufp Bankacısın: kâğıt üzerinde daha yüksek bir vaat, mutlaka daha yüksek bir beklenen geri ödeme anlamına gelmez.
+1mc7o37cqn1 b=6, R=40, B=30, D=20, p_H=0,8, p_L=0,4 için fiilen hangi banka kârı oluşur?
+1nrqxbv7mzu L, H altındaki 8'e karşı girişimciye 10 getirir. Dolayısıyla banka p_L kullanır: 0,4×30−20=−8.
+z2dvjz8qf8 4, yanlışlıkla p_H kullanır: IC_H sağlanmaz.
+66upyarz1d 12 brüt beklenen geri ödemedir; 20 kredi bankanın maliyetidir.
+1oh6jrl160e Öz sermaye katkısı çabayı geri getirebilir — maliyetini silmeden
+22bovktw23v Kendi paranden 10 koyarsın, bu yüzden banka yalnızca 10 borç verir ve başarı halinde 15 ister. Başarı halinde sana 25 kalır: başarının özel ödülü, b=6 olsa bile H'yi sağlamaya yetecek kadar büyük hale gelir. Kazancın yatırımdan önceki andan ölçülürse, katkı her iki eylemde de çıkarılmalıdır.
+25mjx29okwf B=15 ile: U_H=0,8×25=20; U_L=0,4×25+6=16, A=10 düşülmeden önce. Banka=0,8×15−10=2. H altında girişimcinin net kazancı=10.
+1rbzwlmhwd0 Katkı borç ihtiyacını azaltır; daha düşük geri ödeme başarı kazancının daha fazlasını vekile bırakır.
+13kyxm5vu00 Zaten ödenmiş bir maliyet, belirli bir sözleşmede çaba karşılaştırmasında birbirini götürür, ama toplam katılım net kazancında götürmez.
+1uh5rijmtr5 Katkı olmadan ve b=6 ile: IC_H, B≤40−6/0,4=25 gerektirir. H altında kârlı bir banka B≥20/0,8=25 gerektirir; B=25'te vekil kayıtsızdır, dolayısıyla H bir eşitlik kuralı gerektirir.
+1vm95kne6zz Katkını yalnızca çok çalıştığında düşmezsin: onu her iki senaryoda da eylemi seçmeden önce koyarsın.
+1mbiwzk92d7 Katkı 10, kredi 10, B=15, R=40, b=6: girişimci en iyi çabasını seçerse banka kârı nedir?
+2cf99cfntel Katkıdan önce H 16'ya karşı 20 verir, dolayısıyla H; banka 0,8×15−10=2.
+29cuk22gutc 10 katkı zaten dahilken girişimci H altında hangi net kazancı elde eder?
+72zay5ykg1 20, 10'luk başlangıç katkısı düşülmeden önceki kazançtır.
+1zw3e8zyuqw Bir ceza düşük kalitenin özel ekonomisini değiştirir
+tl6g6jj6zd Temizlik firması 110 alır. Yüksek kalite ona 100'e, düşük kalite 70'e mal olur, ama bir denetim düşüşü 0,5 olasılıkla tespit eder ve F cezası doğurur. İki seçime ortak ödeme teşviki belirlemez: maliyet tasarrufunu beklenen yaptırımla karşılaştır.
+1b7bjpbczkw H: kâr 10. L: kâr 40−0,5 F. Zayıf IC: F≥60; ceza ödenebilir ve risk nötrlüğü altında F>60 için H kesin olarak tercih edilir.
+1bzr90jbyko L'yi seçmek 30 tasarruf sağlar; denetim cezayı yalnızca iki seferde bir ödetir.
+1ghwedtbcz3 F=60, L'den beklenen değer olarak 30 alır ve kazancını H'ninkine eşitler: ek bir kural olmadan bu, H'yi kesin olarak seçtirmez.
+2vg7tpwrhj F = 60: L 40−30 = 10 = H verir. F = 70: L 5 < H = 10 verir. Katılım yine dış seçenekle karşılaştırılmalı.
+8nw1sr0gz4 Hizmet sağlayıcısın: yalnızca cezanın ilan edilen tutarını değil, hile yapmanın beklenen maliyetini hesapla.
+1lpwsn9ty5t Maliyet H = 100, L = 70, tespit olasılığı 0,5: hangi asgari ceza zayıf IC'yi sağlar?
+26w01tifnz1 (100−70)/0,5=60. 60'ta kayıtsızlık vardır; kesin H için 60'ın üstü.
+fnh0dpz5cj 30 maliyet tasarrufudur; tespit şansı ikide bir olduğundan F'nin iki katı olması gerekir.
+1i3bjdio240 F=60'ta H kesin olarak daha mı iyi?
+1usv7db5y7j Hayır, kârlar eşit
+1i0lg562yoh Evet, IC sağlanır sağlanmaz
+1l9zv03608h Zayıf bir eşitsizlik kayıtsızlığa izin verir.
+1k8fypkuqij Sonuca dayalı bir prim otomatik olarak çatışma anlamına gelmez
+ampauqegkd Bir yönetici iki riskli proje arasında seçim yapıyor. Yalnızca kazançlar üzerinden ödenen bir primin onu mutlaka kötü projeye ittiğini düşünebilirsin. Önce beklenen değerleri hesapla: sınavdaki rakamlarla, tercih ettiği proje aynı zamanda sahiplere en çok kazandıran projedir.
+2034vvexgld E2020: A 0,75 olasılıkla 100 ve 0,25 olasılıkla 80 getirir; B: 0,75 ile 400 ve 0,25 ile −160. Pozitif kârların %1'i prim, zararda sıfır.
+1lw0sfvesyn A brüt kâr 95, prim 0,95, net 94,05 verir. B brüt kâr 260, prim 3, net 257 verir.
+1bmd0etrbaz Risk nötrlüğü altında prim de net kâr da B'yi birinci sıraya koyar; dolayısıyla veriler tek başına sahibin aleyhine bir seçimi kanıtlamaz.
+6xm5clzo6o B: 0,75×400+0,25×(−160)=260; prim 0,75×4+0,25×0=3; net 257.
+1unm3yj1hp5 Cevabını düzeltiyorsun: "primler mutlaka aşırı risk yaratır" ifadesini bu sorudaki seçimlerin karşılaştırmasıyla değiştir.
+2dux383357m Bu rakamlarla ve risk nötrlüğü altında ne sonuç çıkarılabilir?
+27q7ztm973l Bir A/B çatışması kanıtlanmıştır
+15js3igpeyb Yönetici B'yi seçer ve B, 257 ile net kârı da maksimize eder.
+2gbwugskl0c Başka rakamlar çatışma yaratabilse de burada seçimler uyumlu
+utw3kuossq Olası mekanizma, verilen kazançların hesaplanmasının yerini tutmaz.
+1pyy7vamibn B projesi negatif beklenen kâr verir
+u7inym9uto Karşı taraf, sözleşmeyi bilmediği bir şeye kolayca bağlayamaz.
+251qbj1ly1 İyi bir araba başka bir fiyat gerektirir; çaba onu sağlayana maliyet getirir.
+ui4k2ckmad Her vekil, varsayılan artığı değil, kendi kazancını maksimize eden seçeneği seçer.
+1wdj4k6kqxa Kalan satıcılar ortalama kaliteyi değiştirir; fiilen teşvik edilen çaba p'yi değiştirir.
+202a9adw8ql Bir sözleşme hesaplarda kullanılan davranışı teşvik etmeli ve taraflarca kabul edilmelidir.
+1wcc9e0l9p0 Gizli bir tür, ortalama bir fiyatta iyi arabaları piyasadan çıkarabilir: bu ters seçimdir. Gizli çaba önerilen ödemeye tepki verir: bu ahlaki tehlikedir. Kredide borçlu p_H(R−B) ile p_L(R−B)+b'yi karşılaştırır. B, başarıdan borçluya çok az bırakırsa, L tercih edilir hale gelebilir; o zaman banka p_H değil p_L kullanmalıdır. IC istenen seçimi garanti eder, IR ise en az dış seçeneğe eşit bir kazanç gerektirir. İkisi de gereklidir.
+2fvkuyi082l Bir bilgi ya da eylem gözlemlenemez
+bvzzg8xq57 Türler ya da eylemler özel kazançları değiştirir
+6kn5cdxufq Sözleşme seçer ya da teşvik eder
+o85nsg58ml Sonuç inançları ya da başarı olasılığını değiştirir
+2fc2d4iz7dc Önce IC, sonra IR ve kârlılık kontrol edilir
+1joacmutdc Bir arkadaşına gizli tür ile gizli çaba arasındaki farkı açıkla. Krediyi kullanarak "banka 30 geri alacak" demenin neden yetmediğini göster, sonra IC ve IR'yi ayırt et.
+80l7hnqlhp Gizli bilgiyi adlandırmak
+176srikuz0d Adverse selection için tür/kalite, moral hazard için eylem/çaba.
+27jyteurc6r Vekilin kazançlarını karşılaştırmak
+gil32y0ljp H ve L, geri ödeme sonrası kalanı ve özel faydayı içermelidir.
+rbbgulogzk Çabayı çıkarsamak
+1hnxjrsrskc IC, H'yi en az L kadar iyi kılar; bu varsayılmaz.
+4udlmx2vdz Gerçek olasılığı kullanmak
+1wxc6qt6fjv Banka kârı fiilen seçilen davranışa bağlıdır.
+19knkf5mnz7 Kabulü kontrol etmek
+1efpahtc3v IR sözleşmeyi dış seçenekle karşılaştırır.
+28u5hnm97su Gizli tür katılımcıları seçer; gizli eylem sözleşmeden etkilenen bir seçimdir.
+zresp3p66q Önce U_H ve U_L'yi yaz. Banka p_H'yi ancak H fiilen teşvik ediliyorsa kullanabilir.
+1ylxra6pq5t IC önerilen eylemleri ya da sözleşmeleri karşılaştırır; IR katılımı dış seçenekle karşılaştırır.
+1z0lthf0ilb A6/L12/E2023'ten yeniden kurulmuş alıştırma; hesaplar dosyada doğrulandı. Sorular ve örnek cevap öğreticidir, resmî çözüm değildir.
+12pq4nz16pp H=0,8×10=8; L=0,4×10+6=10, hence L. Bank=0,4×30−20=−8.
+20qs10o2t9l H before equity 20>L=16. Entrepreneur 20−10=10; bank 0,8×15−10=2.
+1279ubhtnd2 Bir sinyali kim başlatır?
+2a03fdtatro Bilgili taraf
+1v8rspx425b Türünü ortaya koyabilecek gözlemlenebilir bir eylem seçer.
+1exnbzvj1op Her zaman devlet
+q23bzikh1t Sinyal bir diploma, bir garanti ya da özel bir aktörün eylemi olabilir.
+7e9rvnwm3k Bir sözleşmede IR ne anlama gelir?
+1s07nnd8kt5 Dış seçeneğe göre katılım
+26iro88z2pu Individual rationality: sözleşmenin dışında kalmak yerine kabul etmek.
+u3tkjjrjsk H'yi kesin olarak dayatmak
+1b21ynamnqa Bu, kayıtsızlıklara dikkat ederek teşvikle ilgilidir.
+4th4ag8iis Arabaların seçilmesini yeniden kur.
+dbqhwsqxdm Yarı yarıya iyi bir kaliteye dayalı ortalama fiyat
+m6zyxiqtax İyi satıcı rezerv fiyatının altında reddeder
+5l8ifj9yo5 Sunulan arabaların kalitesi düşer
+251vrykcxnj Alıcı, kalan satıcılara göre WTP'sini günceller
+1e4lutj2x26 Gizli çabalı bir kredi hangi sırayla analiz edilir?
+l37s7dqptk Borçlunun H ve L için kazançlarını, özel fayda dahil, yazmak
+ad7lr2gfoq Fiilen seçilen çabayı bulmak için kazançları karşılaştırmak
+17gwvmdc5qd Onun başarı olasılığını banka hasılatında kullanmak
+43o6jux9m9 Katılımı ve eşitlik durumlarındaki varsayımları da kontrol etmek
+1p2uox8xnmk R=40, B=30, p_H=0,8, p_L=0,4, b=2: 20 krediyle banka kârı nedir?
+y20gx9dwpi H=8>L=6, dolayısıyla banka 0,8×30−20=4.
+z75mo1thpn Özel tasarruf 30 ve tespit olasılığı 0,25: zayıf IC için asgari ceza nedir?
+1mebea9gav1 0,25 F≥30 ⇒ F≥120; eşitlik = kayıtsızlık.
+px8b0c0nac Götürü ücretle çalışan bir usta zaman kazanmak için gizli bir kaliteyi feda edebilir. Hangi araç bu sorunu hedefler?
+14prz5t86b7 Bir denetim ve doğrulanabilir kaliteye bağlı bir ödeme
+1l3abxoxmla Bu, çok düşük kalitenin beklenen maliyetini hizmet sağlayıcıya yükleyebilir.
+299p91lxdq5 Eylemleri karşılaştırmadan yalnızca ortalama ücreti hesaplamak
+1khzwmulxve Ortak ücret ustanın hangi kaliteyi seçeceğini göstermez.
+i8m3itvkza Her götürü ücretin her zaman kötü olduğunu söylemek
+26egwijlk7z Zaman kazanma teşvikleri yararlı olabilir; ödünleşimi ele almak gerekir.
+jjq8n3cmh2 İyi bilgilenmiş bir satıcı, kötü ürünlerin yerine getirmeyi çok pahalı kıldığı bir garanti sunar. Hangi mantık bu sinyali güvenilir kılabilir?
+qhoa5mpdly Kötü tür, maliyetine göre onu taklit etmekten daha az kazanır
+vt0azbrsb4 Garanti yalnızca görünür olmakla kalmamalı, türe göre farklı seçimler yaratmalıdır.
+1kcezt4bkir Garanti gözlemlenebilir, dolayısıyla tüm türler mutlaka ortaya çıkar
+1ddmy2tgpjo Kolayca taklit edilebilen bir eylem türleri ayırmaz.
+u14j6ys8ht Müşteri bir menü önerdi, dolayısıyla satıcı screening yapıyor
+1dzy0044xjp Bu bağlamda inisiyatif bilgili satıcıdan gelir: bu bir sinyaldir.
+8kv59uxsbd Action conditional on signing
+1ink4m6dnvl Different choices by type
+27e0h87yfhz Both may pool
+j75i1gbp4r Kimin neyi bildiğini belirlemek ve gizli tür, gizli eylem ve ortak riski ayırt etmek.
+2gfit114393 Sigorta gibi bir bağlam kelimesi modeli senin yerine seçmez.
+1tlnksocb4d Kaliteler hakkındaki inançların kalan satıcılara karşılık geldiğini kontrol etmek.
+w8dz7z1gn Ortalama fiyat kendisi arzın bileşimini değiştirebilir.
+1p52jm2b26q Asılınkileri hesaplamadan önce tam özel kazançları karşılaştırmak.
+1k7pq1ag8fd Başarı olasılığı fiilen teşvik edilen çabaya bağlıdır.

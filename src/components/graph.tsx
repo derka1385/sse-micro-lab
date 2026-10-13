@@ -9,6 +9,7 @@ import { WHY } from '../content/externalities';
 import { WhyChain } from './learning';
 import { Rich } from './text';
 import { Cross } from './icons';
+import { t } from '../i18n';
 
 export type Sel = { kind: 'curve' | 'area' | 'marker'; id: El } | { kind: 'unit'; q: number } | null;
 
@@ -60,16 +61,18 @@ export function unitStory(m: ExtModel, q: number, policy: number, social: boolea
   const privB = mpb(m, q) + (pos ? policy : 0);
   const privC = mpc(m, q) + (pos ? 0 : policy);
   const traded = privB >= privC - 1e-9;
+  const sub = pos && policy ? ' ' + t('(subvention comprise)') : '';
+  const tax = !pos && policy ? ' ' + t('(taxe comprise)') : '';
   const lines = [
     traded
-      ? `Échangée : elle vaut ${fmt(privB)} pour l’acheteur${pos && policy ? ' (subvention comprise)' : ''} et coûte ${fmt(privC)}${!pos && policy ? ' (taxe comprise)' : ''} au vendeur.`
-      : `Pas échangée : l’acheteur ne paierait que ${fmt(privB)}${pos && policy ? ' (subvention comprise)' : ''} pour un coût de ${fmt(privC)}${!pos && policy ? ' (taxe comprise)' : ''}.`,
+      ? t('Échangée : elle vaut {b} pour l’acheteur{sub} et coûte {c}{tax} au vendeur.', { b: fmt(privB), sub, c: fmt(privC), tax })
+      : t('Pas échangée : l’acheteur ne paierait que {b}{sub} pour un coût de {c}{tax}.', { b: fmt(privB), sub, c: fmt(privC), tax }),
   ];
   if (social) {
     const gap = msb(m, q) - msc(m, q);
-    lines.push(`Pour la société : valeur ${fmt(msb(m, q))} − coût ${fmt(msc(m, q))} = ${gap >= 0 ? '+' : ''}${fmt(gap)}.`);
-    if (!traded && gap > 1e-9) lines.push(`⇒ Unité manquante : la société perd ${fmt(gap)} € parce qu’elle n’est pas produite.`);
-    if (traded && gap < -1e-9) lines.push(`⇒ Unité en trop : elle détruit ${fmt(-gap)} € de bien-être.`);
+    lines.push(t('Pour la société : valeur {v} − coût {c} = {g}.', { v: fmt(msb(m, q)), c: fmt(msc(m, q)), g: `${gap >= 0 ? '+' : ''}${fmt(gap)}` }));
+    if (!traded && gap > 1e-9) lines.push(t('⇒ Unité manquante : la société perd {g} € parce qu’elle n’est pas produite.', { g: fmt(gap) }));
+    if (traded && gap < -1e-9) lines.push(t('⇒ Unité en trop : elle détruit {g} € de bien-être.', { g: fmt(-gap) }));
   }
   return lines;
 }
@@ -201,8 +204,8 @@ export function InteractiveEconGraph({ model: m, show, focus, policy: rawPolicy,
         ))}
         <line x1={ml} x2={ml + pw} y1={y(0)} y2={y(0)} className="g-axis" />
         <line x1={ml} x2={ml} y1={mt} y2={y(0)} className="g-axis" />
-        <text x={ml + pw + 8} y={y(0) + 4} className="g-axlabel" aria-label={`Q, en ${m.unit}`}>Q</text>
-        <text x={ml - 40} y={mt + 4} className="g-axlabel">€ / unité</text>
+        <text x={ml + pw + 8} y={y(0) + 4} className="g-axlabel" aria-label={t('Q, en {u}', { u: m.unit })}>Q</text>
+        <text x={ml - 40} y={mt + 4} className="g-axlabel">{t('€ / unité')}</text>
 
         {/* areas */}
         {has('CS') && <path key={k('CS')} d={band((q) => mpb(m, q), () => A.now.pBuyer, 0, qNow)} className={cls('CS', 'area area-cs')} onClick={() => onSelect({ kind: 'area', id: 'CS' })} />}
@@ -246,12 +249,12 @@ export function InteractiveEconGraph({ model: m, show, focus, policy: rawPolicy,
 
         {/* missing / excess units */}
         {units.map((q) => {
-          const t = Math.max(dwlTop(q), dwlBot(q)), b = Math.min(dwlTop(q), dwlBot(q));
+          const top = Math.max(dwlTop(q), dwlBot(q)), b = Math.min(dwlTop(q), dwlBot(q));
           const sel = selected?.kind === 'unit' && Math.abs(selected.q - q) < 1e-9;
           return (
-            <g key={`u${q}`} className={`unit ${sel ? 'unit-sel' : ''} ${focus === 'UNITS' ? 'pulse' : ''}`} onClick={(e) => { e.stopPropagation(); onSelect({ kind: 'unit', q }); onCursor(q); }} role="button" aria-label={`Unité au point ${q}`}>
-              <rect x={x(q) - 9} y={y(t) - 4} width={18} height={Math.max(8, y(b) - y(t) + 8)} fill="transparent" />
-              {t - b > 1e-6 ? <line x1={x(q)} x2={x(q)} y1={y(t)} y2={y(b)} className="unit-bar" /> : <circle cx={x(q)} cy={y(t)} r={3} className="unit-dot" />}
+            <g key={`u${q}`} className={`unit ${sel ? 'unit-sel' : ''} ${focus === 'UNITS' ? 'pulse' : ''}`} onClick={(e) => { e.stopPropagation(); onSelect({ kind: 'unit', q }); onCursor(q); }} role="button" aria-label={t('Unité au point {q}', { q })}>
+              <rect x={x(q) - 9} y={y(top) - 4} width={18} height={Math.max(8, y(b) - y(top) + 8)} fill="transparent" />
+              {top - b > 1e-6 ? <line x1={x(q)} x2={x(q)} y1={y(top)} y2={y(b)} className="unit-bar" /> : <circle cx={x(q)} cy={y(top)} r={3} className="unit-dot" />}
             </g>
           );
         })}
@@ -287,7 +290,7 @@ export function GraphInspector({ model: m, show, policy: rawPolicy, cursor, sele
       <div className="inspector">
         <div className="insp-head">
           <span className="insp-q">Q = {fmt(cursor, 1)}</span>
-          <span className="muted small">Déplace le curseur · clique une courbe, une zone ou une barre</span>
+          <span className="muted small">{t('Déplace le curseur · clique une courbe, une zone ou une barre')}</span>
         </div>
         {curves.length > 0 && (
           <div className="readout">
@@ -309,9 +312,9 @@ export function GraphInspector({ model: m, show, policy: rawPolicy, cursor, sele
     const g = GLOSS[selected.id];
     title = c?.label ?? selected.id;
     literal = selected.id === 'POL'
-      ? pos ? 'Ce que vaut une unité de plus pour le portefeuille de l’acheteur une fois la subvention versée : MPB + s.' : 'Ce que coûte une unité de plus au producteur une fois la taxe payée : MPC + t.'
+      ? pos ? t('Ce que vaut une unité de plus pour le portefeuille de l’acheteur une fois la subvention versée : MPB + s.') : t('Ce que coûte une unité de plus au producteur une fois la taxe payée : MPC + t.')
       : g ? `${g.english} — ${g.french}. ${g.literal}.` : '';
-    value = c ? `Au point Q = ${fmt(cursor, 1)} : ${fmt(c.f(cursor))} € par unité.` : '';
+    value = c ? t('Au point Q = {q} : {v} € par unité.', { q: fmt(cursor, 1), v: fmt(c.f(cursor)) }) : '';
     whyId = c?.why ?? '';
   } else if (selected.kind === 'area') {
     const id = selected.id;
@@ -319,38 +322,38 @@ export function GraphInspector({ model: m, show, policy: rawPolicy, cursor, sele
     const inside = cursor >= lo && cursor <= hi;
     if (id === 'DWL') {
       const under = A.now.q < A.qStar;
-      title = under ? 'Perte sèche — unités manquantes' : 'Perte sèche — unités en trop';
+      title = under ? t('Perte sèche — unités manquantes') : t('Perte sèche — unités en trop');
       literal = under
-        ? 'Ces unités ne sont pas produites alors que leur bénéfice social dépasse leur coût social.'
-        : 'Ces unités sont produites alors que leur coût social dépasse leur bénéfice social.';
-      value = `Aire = ${fmt(A.dwlNow)} € (entre Q = ${fmt(lo)} et Q* = ${fmt(A.qStar)}).`;
-      if (inside) extra = [`Tranche au point Q = ${fmt(cursor, 1)} : |MSB − MSC| = |${fmt(msb(m, cursor))} − ${fmt(msc(m, cursor))}| = ${fmt(Math.abs(msb(m, cursor) - msc(m, cursor)))} € perdus sur cette unité.`];
-      else extra = ['Place le curseur dans la zone pour voir la tranche d’une unité.'];
+        ? t('Ces unités ne sont pas produites alors que leur bénéfice social dépasse leur coût social.')
+        : t('Ces unités sont produites alors que leur coût social dépasse leur bénéfice social.');
+      value = t('Aire = {a} € (entre Q = {lo} et Q* = {q}).', { a: fmt(A.dwlNow), lo: fmt(lo), q: fmt(A.qStar) });
+      if (inside) extra = [t('Tranche au point Q = {q} : |MSB − MSC| = |{b} − {c}| = {g} € perdus sur cette unité.', { q: fmt(cursor, 1), b: fmt(msb(m, cursor)), c: fmt(msc(m, cursor)), g: fmt(Math.abs(msb(m, cursor) - msc(m, cursor))) })];
+      else extra = [t('Place le curseur dans la zone pour voir la tranche d’une unité.')];
       whyId = under ? 'a:dwl-under' : 'a:dwl-over';
     } else if (id === 'CS') {
-      title = 'Surplus du consommateur (CS)'; literal = 'Gain net des acheteurs : pour chaque unité achetée, sa valeur pour l’acheteur moins le prix payé.';
-      value = `Aire = ${fmt(A.now.CS)} €.`; whyId = 'a:cs';
-      if (cursor <= A.now.q) extra = [`Tranche au point ${fmt(cursor, 1)} : MPB ${fmt(mpb(m, cursor))} − p_b ${fmt(A.now.pBuyer)} = ${fmt(mpb(m, cursor) - A.now.pBuyer)}.`];
+      title = t('Surplus du consommateur (CS)'); literal = t('Gain net des acheteurs : pour chaque unité achetée, sa valeur pour l’acheteur moins le prix payé.');
+      value = t('Aire = {a} €.', { a: fmt(A.now.CS) }); whyId = 'a:cs';
+      if (cursor <= A.now.q) extra = [t('Tranche au point {q} : MPB {b} − p_b {p} = {g}.', { q: fmt(cursor, 1), b: fmt(mpb(m, cursor)), p: fmt(A.now.pBuyer), g: fmt(mpb(m, cursor) - A.now.pBuyer) })];
     } else if (id === 'PS') {
-      title = 'Surplus du producteur (PS)'; literal = 'Gain net des vendeurs : pour chaque unité vendue, le prix reçu moins son coût marginal.';
-      value = `Aire = ${fmt(A.now.PS)} €.`; whyId = 'a:ps';
-      if (cursor <= A.now.q) extra = [`Tranche au point ${fmt(cursor, 1)} : p_s ${fmt(A.now.pSeller)} − MPC ${fmt(mpc(m, cursor))} = ${fmt(A.now.pSeller - mpc(m, cursor))}.`];
+      title = t('Surplus du producteur (PS)'); literal = t('Gain net des vendeurs : pour chaque unité vendue, le prix reçu moins son coût marginal.');
+      value = t('Aire = {a} €.', { a: fmt(A.now.PS) }); whyId = 'a:ps';
+      if (cursor <= A.now.q) extra = [t('Tranche au point {q} : p_s {p} − MPC {c} = {g}.', { q: fmt(cursor, 1), p: fmt(A.now.pSeller), c: fmt(mpc(m, cursor)), g: fmt(A.now.pSeller - mpc(m, cursor)) })];
     } else if (id === 'GOV') {
-      title = pos ? 'Dépense de subvention' : 'Recette fiscale';
-      literal = pos ? 'Ce que paient les contribuables : s par unité échangée. Un transfert, pas une destruction.' : 'Ce que reçoit l’État : t par unité échangée. Un transfert, pas une perte sèche.';
+      title = pos ? t('Dépense de subvention') : t('Recette fiscale');
+      literal = pos ? t('Ce que paient les contribuables : s par unité échangée. Un transfert, pas une destruction.') : t('Ce que reçoit l’État : t par unité échangée. Un transfert, pas une perte sèche.');
       value = `${fmt(policy)} × ${fmt(A.now.q)} = ${fmt(Math.abs(A.now.gov))} €.`; whyId = pos ? 'a:gov+' : 'a:gov-';
     } else if (id === 'EXT') {
-      title = pos ? 'Bénéfice externe total' : 'Dommage externe total';
-      literal = pos ? 'Somme des bénéfices reçus par les tiers pour toutes les unités produites (aire sous MEB).' : 'Somme des dommages subis par les tiers pour toutes les unités produites (aire sous MEC).';
-      value = `Aire = ${fmt(Math.abs(A.now.ext))} €.`; whyId = pos ? 'a:ext+' : 'a:ext-';
+      title = pos ? t('Bénéfice externe total') : t('Dommage externe total');
+      literal = pos ? t('Somme des bénéfices reçus par les tiers pour toutes les unités produites (aire sous MEB).') : t('Somme des dommages subis par les tiers pour toutes les unités produites (aire sous MEC).');
+      value = t('Aire = {a} €.', { a: fmt(Math.abs(A.now.ext)) }); whyId = pos ? 'a:ext+' : 'a:ext-';
     }
   } else if (selected.kind === 'marker') {
-    if (selected.id === 'QM') { title = `Qm = ${fmt(A.market.q)}`; literal = 'Ici MPB = MPC : le dernier échange vaut autant pour l’acheteur qu’il coûte au producteur. Au-delà, MPB < MPC : plus aucun prix n’arrange les deux.'; whyId = 'f:market'; }
-    else if (selected.id === 'QS') { title = `Q* = ${fmt(A.qStar)}`; literal = 'Ici MSB = MSC : la dernière unité vaut pour la société exactement ce qu’elle lui coûte. Avant, ajouter augmente le bien-être ; après, le diminue.'; whyId = 'f:opt'; }
-    else if (selected.id === 'QP') { title = `Q avec politique = ${fmt(A.now.q)}`; literal = pos ? 'Ici MPB + s = MPC : la décision privée subventionnée s’arrête.' : 'Ici MPB = MPC + t : la décision privée taxée s’arrête.'; whyId = pos ? 'c:POL+' : 'c:POL-'; }
-    else if (selected.id === 'PRICES') { title = `p_b = ${fmt(A.now.pBuyer)} · p_s = ${fmt(A.now.pSeller)}`; literal = pos ? 'L’acheteur paie p_b ; le vendeur reçoit p_s = p_b + s ; l’État paie l’écart.' : 'L’acheteur paie p_b ; le vendeur garde p_s = p_b − t ; l’État encaisse l’écart.'; whyId = 'r:gov'; }
+    if (selected.id === 'QM') { title = `Qm = ${fmt(A.market.q)}`; literal = t('Ici MPB = MPC : le dernier échange vaut autant pour l’acheteur qu’il coûte au producteur. Au-delà, MPB < MPC : plus aucun prix n’arrange les deux.'); whyId = 'f:market'; }
+    else if (selected.id === 'QS') { title = `Q* = ${fmt(A.qStar)}`; literal = t('Ici MSB = MSC : la dernière unité vaut pour la société exactement ce qu’elle lui coûte. Avant, ajouter augmente le bien-être ; après, le diminue.'); whyId = 'f:opt'; }
+    else if (selected.id === 'QP') { title = t('Q avec politique = {q}', { q: fmt(A.now.q) }); literal = pos ? t('Ici MPB + s = MPC : la décision privée subventionnée s’arrête.') : t('Ici MPB = MPC + t : la décision privée taxée s’arrête.'); whyId = pos ? 'c:POL+' : 'c:POL-'; }
+    else if (selected.id === 'PRICES') { title = `p_b = ${fmt(A.now.pBuyer)} · p_s = ${fmt(A.now.pSeller)}`; literal = pos ? t('L’acheteur paie p_b ; le vendeur reçoit p_s = p_b + s ; l’État paie l’écart.') : t('L’acheteur paie p_b ; le vendeur garde p_s = p_b − t ; l’État encaisse l’écart.'); whyId = 'r:gov'; }
   } else if (selected.kind === 'unit') {
-    title = `Unité au point Q = ${fmt(selected.q)}`;
+    title = t('Unité au point Q = {q}', { q: fmt(selected.q) });
     literal = '';
     extra = unitStory(m, selected.q, policy, true);
     whyId = A.now.q < A.qStar ? 'a:dwl-under' : 'a:dwl-over';
@@ -360,12 +363,12 @@ export function GraphInspector({ model: m, show, policy: rawPolicy, cursor, sele
     <div className="inspector inspector-sel">
       <div className="insp-head">
         <b>{title}</b>
-        <button type="button" className="icon-btn" onClick={onClear} aria-label="Fermer l’inspecteur"><Cross size={14} /></button>
+        <button type="button" className="icon-btn" onClick={onClear} aria-label={t('Fermer l’inspecteur')}><Cross size={14} /></button>
       </div>
       {literal && <p><Rich text={literal} /></p>}
       {value && <p className="muted">{value}</p>}
       {extra.length > 0 && <ul className="story">{extra.map((l, i) => <li key={i}>{l}</li>)}</ul>}
-      {why && <WhyChain layers={why.layers} label="Pourquoi ?" key={whyId + title} />}
+      {why && <WhyChain layers={why.layers} label={t('Pourquoi ?')} key={whyId + title} />}
     </div>
   );
 }
@@ -393,10 +396,10 @@ export function UnitStrip({ model: m, show, policy: rawPolicy, cursor, onPick }:
   return (
     <div className="units-wrap">
       <div className="units-cap">
-        <span>Graisse = incitation privée {policy ? (pos ? '(MPB + s − MPC)' : '(MPB − MPC − t)') : '(MPB − MPC)'}{step > 1 ? ` · une unité sur ${step}` : ''}</span>
-        {social && <span>Souligné : manquante · barré : en trop</span>}
+        <span>{t('Graisse = incitation privée')} {policy ? (pos ? '(MPB + s − MPC)' : '(MPB − MPC − t)') : '(MPB − MPC)'}{step > 1 ? ` · ${t('une unité sur {n}', { n: step })}` : ''}</span>
+        {social && <span>{t('Souligné : manquante · barré : en trop')}</span>}
       </div>
-      <div className="units" style={style} role="group" aria-label="Les unités une par une">
+      <div className="units" style={style} role="group" aria-label={t('Les unités une par une')}>
         {units.map((q) => {
           const traded = q <= A.now.q + 1e-9;
           const gap = msb(m, q) - msc(m, q);
@@ -410,7 +413,7 @@ export function UnitStrip({ model: m, show, policy: rawPolicy, cursor, onPick }:
               className={cls}
               style={{ '--a': mpb(m, q) - mpc(m, q) } as CSSProperties}
               onClick={() => onPick(q)}
-              aria-label={`Unité ${q} : ${traded ? 'échangée' : 'pas échangée'}${missing ? ', manquante pour la société' : ''}${excess ? ', en trop pour la société' : ''}`}
+              aria-label={`${t('Unité {q} :', { q })} ${traded ? t('échangée') : t('pas échangée')}${missing ? `, ${t('manquante pour la société')}` : ''}${excess ? `, ${t('en trop pour la société')}` : ''}`}
             >
               {q}
             </button>
@@ -442,7 +445,7 @@ export function PolicyControl({ model: m, policy, setPolicy, allowOptimal = true
   return (
     <div className="policy">
       <AxisSlider
-        label={pos ? 'Subvention par unité' : 'Taxe par unité'}
+        label={pos ? t('Subvention par unité') : t('Taxe par unité')}
         display={`${pos ? 's' : 't'} = ${fmt(policy)}`}
         value={policy}
         min={0}
@@ -451,8 +454,8 @@ export function PolicyControl({ model: m, policy, setPolicy, allowOptimal = true
         onChange={(v) => { cancelAnimationFrame(raf.current); setPolicy(v); }}
       />
       <div className="policy-actions">
-        {allowOptimal && <button type="button" className="ghost small nowrap" onClick={() => animate(A.optimalPolicy)}>Animer jusqu’à {pos ? 's*' : 't*'} = {fmt(A.optimalPolicy)}</button>}
-        <button type="button" className="ghost small nowrap" onClick={() => animate(0)}>Retirer la politique</button>
+        {allowOptimal && <button type="button" className="ghost small nowrap" onClick={() => animate(A.optimalPolicy)}>{t('Animer jusqu’à')} {pos ? 's*' : 't*'} = {fmt(A.optimalPolicy)}</button>}
+        <button type="button" className="ghost small nowrap" onClick={() => animate(0)}>{t('Retirer la politique')}</button>
       </div>
       <p className="policy-read"><span>Q = {fmt(A.now.q)}</span><span>Q* = {fmt(A.qStar)}</span><span>DWL = {fmt(A.dwlNow)}</span></p>
     </div>
@@ -482,18 +485,18 @@ export function WelfareTable({ model: m, policy }: { model: ExtModel; policy: nu
   const A = analyze(m, policy);
   const pos = m.kind === 'positive';
   const cols = [
-    { h: 'Sans intervention', o: A.market, d: A.dwlMarket },
+    { h: t('Sans intervention'), o: A.market, d: A.dwlMarket },
     { h: `${pos ? 's' : 't'} = ${fmt(policy)}`, o: A.now, d: A.dwlNow },
-    { h: `Optimum (${pos ? 's*' : 't*'} = ${fmt(A.optimalPolicy)})`, o: A.optimal, d: 0 },
+    { h: `${t('Optimum')} (${pos ? 's*' : 't*'} = ${fmt(A.optimalPolicy)})`, o: A.optimal, d: 0 },
   ];
   const rows: { label: string; get: (c: (typeof cols)[number]) => number; note: string }[] = [
-    { label: 'Q', get: (c) => c.o.q, note: 'quantité échangée' },
-    { label: 'CS', get: (c) => c.o.CS, note: 'acheteurs' },
-    { label: 'PS', get: (c) => c.o.PS, note: 'vendeurs' },
-    { label: pos ? 'État (− subvention)' : 'État (+ recette)', get: (c) => c.o.gov, note: 'transfert' },
-    { label: pos ? '+ bénéfice externe' : '− dommage externe', get: (c) => c.o.ext, note: 'tiers' },
-    { label: 'W', get: (c) => c.o.W, note: 'bien-être total' },
-    { label: 'DWL', get: (c) => c.d, note: 'vs optimum' },
+    { label: 'Q', get: (c) => c.o.q, note: t('quantité échangée') },
+    { label: 'CS', get: (c) => c.o.CS, note: t('acheteurs') },
+    { label: 'PS', get: (c) => c.o.PS, note: t('vendeurs') },
+    { label: pos ? t('État (− subvention)') : t('État (+ recette)'), get: (c) => c.o.gov, note: t('transfert') },
+    { label: pos ? t('+ bénéfice externe') : t('− dommage externe'), get: (c) => c.o.ext, note: t('tiers') },
+    { label: 'W', get: (c) => c.o.W, note: t('bien-être total') },
+    { label: 'DWL', get: (c) => c.d, note: t('vs optimum') },
   ];
   return (
     <div className="table-wrap">

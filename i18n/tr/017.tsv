@@ -1,0 +1,212 @@
+25ly7ey3zjm Talep toplam zarara eşittir
+21vjy4csdpb MPB zararları değil, marjinal özel değeri ölçer.
+16vwn5591d8 Kayıp fazla birimlerden gelir
+198w0demy9x İlk 30 birim sosyal olarak yararlı kalır. Etkinlik kaybı 30 ile 45 arasındaki birimlerden gelir: her biri topluma değerinden fazlasına mal olur. Yalnızca aşırı aralıktaki bu fark toplanır, tüm birimlerin tüm zararları değil.
+2f45bvfyw9f DWL = Q*’dan Qm’ye MSC ile MSB arasındaki alan. Eğriler doğrusaldır: {{DWL = ½ × (45 − 30) × 45 = 337,5}}.
+igix0dufw5 Toplam zarar, faydası üretimlerini hâlâ haklı çıkaran birimleri de içerir.
+1hdmh5w8kdk DWL, elde edilen refahı modelde ulaşılabilir en iyi miktardaki refahla karşılaştırır.
+y0kjfdyz22 Q = 45’te MSC − MPB = 100 − 55 = 45; Q = 30’da bu fark sıfırdır. Üçgen buradan gelir.
+1obhpz0qo74 1.012,5’lik toplam zarar ve 337,5’lik DWL aynı soruya cevap vermez.
+1nackaxw0wc Tüm benzini kaldırmak çok yararlı yolculukları da kaldırırdı. Etkinlik, toplam maliyeti değerini aşan birimlerin kaldırılmasını gerektirir.
+15xgxpd2ld4 EXT ve DWL alanlarını karşılaştır. Biri tüm zararı ölçer; öteki yalnızca Qm > Q* yüzünden ortaya çıkan, önlenebilir net kaybı.
+23uryg4sk3q 30 ile 45 arasında üçgen, son yükseklik 45: DWL ne kadar?
+22cl2jwbbi1 DWL burada neden toplam zarardan küçüktür?
+24wg6t0uxag Çünkü sakinlerin zararları sayılmaz
+19phomicign MSC’de ve refahta tamamen sayılırlar.
+zmizyt23hh Bazı kirletici birimler sosyal olarak yararlı kalır
+nvtalpfdq3 Faydaları sosyal maliyetlerini aşar; Q*’a aittirler.
+zj28d0rcqt Bir vergi sürücünün kararını değiştirir
+1ou8zf0krmt Devlet litre başına bir tutar alabilir. Sürücü o zaman istasyonun aldığından fazlasını öder. Bu fark seçilen miktarı azaltır: özel fiyatta kârlı görünen bir litre vergiyle birlikte kârlı olmaktan çıkabilir.
+miafmm37f2 Vergi takozu: pb − ps = t, burada pb = MPB(Q), ps = MPC(Q). Denge: MPB = MPC + t.
+15g3dlaq9c3 Alıcılar fiilen ödedikleri pb’ye göre karar verir.
+1g26l93ljhh Satıcılar aldıkları ps’ye göre karar verir.
+1rxsqvjyr3z Vergi bu iki kararı birbirine bağlar: pb = ps + t. Vergiyi resmî olarak yatıran, iktisadi yükün tamamını taşımak zorunda değildir.
+12cd9l9hwsy t = 20 ile: 100 − Q = 10 + Q + 20 ⇒ Q = 35. pb = 65; ps = 45; 65 − 45 = 20.
+1iwcr2ve9hf Litrenin değerini artık istasyonun aldığı 45 ile değil, cebinden çıkan 65 ile karşılaştırıyorsun.
+1f4ft6xnyp2 MPC + vergi eğrisi müdahaleden sonraki özel kararı belirler. 20’lik vergi her yerde MSC ile çakışmaz.
+2gg8iftzlth 20’lik vergiyle hangi miktar değişilir?
+bnwcix83l6 Q = 35’te sürücü hangi fiyatı öder?
+1q4r3avtt4 İstasyon hangi net fiyatı alır?
+2g0elkgs1nj Bir iyileşme mutlaka optimum değildir
+10vxnvcyl2o 20’lik vergi on fazla birimi kaldırır ama piyasa 30 yerine 35’te kalır. 35’te marjinal zarar 35’tir, vergiden yüksektir. Son birim sosyal maliyetine göre hâlâ fazla ucuzdur.
+uq2bireerh Kalan DWL: ½ × (35 − 30) × [MSC(35) − MPB(35)] = 37,5.
+1lr6nxeda4s Vergi sonrası miktarın düştüğünü saptamakla yetinmeyip onu Q* ile karşılaştırmak gerekir.
+zg3z4g1hl9 30 ile 35 arasında sosyal maliyet hâlâ değeri aşar.
+2crrla1sa8q Vergi geliri devlete bir transferdir; kendi başına kaynakların yok edilmesi değildir.
+1ijnuco3e97 Q = 35’te MSC = 80 ve MPB = 65: yükseklik 15, taban 5, dolayısıyla DWL = 37,5. Vergi geliri = 20 × 35 = 700.
+13skzympsav 337,5’i 37,5 ile karşılaştırarak “daha iyi”, sonra Q > 30’u görerek “hâlâ yetersiz” diyebilirsin.
+1pqq40xovd4 Küçük kalan üçgen önlenebilir kayıptır. Vergi geliri dikdörtgeni bir transferdir.
+1scvmseen6l 20’lik vergiden sonra taban 5 ve yükseklik 15: ne kadar DWL kalır?
+1b699pheeoa 700’lük vergi geliri otomatik olarak DWL midir?
+1o33b6ta70e Evet, her vergi ödemesi kaybolur
+24dy3gzgrkx Parayı devlet alır; buharlaşmaz.
+s29rvfmqqt Hayır, devlet tarafında sayılan bir transferdir
+24xe7ki6oti W’yi hesaplamak için CS + PS + geliri topla, sonra gerçek zararı çıkar.
+8dan6r9lzd Doğru vergi neden 45 değil 30’dur
+1e3w2pr7awr Özel kararların tam olarak 30’luk etkin miktarda durmasını istiyorsun. Dolayısıyla litrenin zararı bu noktada ödetilmelidir. 45’lik bir vergi eski piyasanın zararını alırdı; miktarı fazla düşürürdü.
+1p43p3uydbo Pigou vergisi {{t* = MEC(Q*) = 30}}. Q*’da: pb = 70, ps = 40, fark = 30. Bu kural, başka açılardan rekabetçi bir piyasa ve henüz içselleştirilmemiş bir dışsallık varsayar.
+1c3nz84x22z Vergiden sonra miktar değişir: marjinal zarar da değişir.
+17d5f7jqjlo Dolayısıyla önce MSB = MSC ile Q* seçilir, sonra MEC Q*’da değerlendirilir.
+48egi8bw63 30’luk bir vergi marjinal teşviki hedef noktada hizalar; MPC + 30’un her miktarda MSC ile çakışması gerekmez.
+15sytsvcjba t = 30, 100 − Q = 10 + Q + 30 verir, dolayısıyla Q = 30. Gelir = 900; bu modelde DWL = 0.
+i1gjbgkkt5 Dışsal etkinin fiyatını eski depo dolumunun son litresi için değil, toplumun tutmak istediği son litre için belirliyorsun.
+fs1lkzrxpb Politikada 20, 30, sonra 45’i dene. Amaç, vergiyi olabildiğince yüksek yapmak değil, Qp’yi Q* ile hizalamaktır.
+1598p30xrt2 MEC = Q ve Q* = 30: optimal vergi nedir?
+2fw19ptz14q t* = MEC(Q*)’da MEC’yi nerede değerlendirirsin?
+atwm9e180a Her zaman eski özel miktarda
+4xt8zycbod Bu miktar tam da verginin değiştireceği miktardır.
+78rxm81d0l Sosyal olarak etkin miktarda
+2bgiq1jqwu8 Özel teşvikin hizalanması gereken nokta budur.
+157batntzxr Eksen değişirse akıl yürütmen bunu fark etmeli
+hj4ehipspc Bir işletme üretimini aynı ölçüde azaltmadan emisyonlarını azaltabilir. Burada eksen kalan emisyonları (e) sayar. Sola gitmek daha fazla arıtmak demektir. İlk azaltımlar kolaydır; sonuncular daha pahalıdır. Bu grafiği sağa doğru okurken MAC’ın düşmesinin nedeni budur.
+2ug73td5dm MAC = marjinal azaltım maliyeti. L11: MAC = 10 − e, MEC = e/2. Vergi altında firma MAC = t’yi seçer; toplum MAC = MEC’yi seçer.
+t6akyzkay2 Bir emisyon azaltımı MEC kadar zararı önler ama kaynak olarak MAC kadar maliyetlidir.
+1usu7wt1uit Önlenen zarar azaltım maliyetini aştığı sürece azaltmak yararlıdır.
+1zmicrh8jpv Emisyonları vergilendirmek, kaldırılan her birimde t tasarruf ettirir: firma MAC = t olana kadar azaltır.
+2gom9nb5xtq Vergi 2: 10 − e = 2 ⇒ e = 8. Optimum: 10 − e = e/2 ⇒ e = 20/3, vergi = 10/3. Üretim üzerinden vergi ancak birim başına emisyonlar sabitse eşdeğerdir.
+mc4xb1tk78 Kazanı değiştirmek, fabrikanı kapatmadan kirliliği önleyebilir. Bu yüzden senden üretilen bir miktar mı yoksa salınan bir miktar mı istendiğini kontrol et.
+sojwgfd06i Dikkat: eksen kalan kirliliği ölçer
+2fibds4nmkh e, kalan emisyonlar
+2827vj9qt51 önlenen birim başına €
+1frpa6y51cp L11: MAC = 10 − e, MEC = e/2. Sağa gittikçe kirliliği o kadar az azaltmış olursun. MAC = MEC noktası e = 20/3 verir.
+2bupwtx2wyb e düzeyinden başlayarak bir emisyon birimini daha kaldırmanın maliyeti.
+uxlftyuybm Bu emisyon birimini kaldırarak önlenen zarar.
+tgpczr4kxl Optimum: e = 6,67
+20x8hk3r3kg MAC = 10 − e. t = 2’lik bir emisyon vergisiyle firma hangi emisyon düzeyini seçer?
+5ph1rflclx emisyonlar
+hf02nhi9ww Etkin emisyonlar için 10 − e = e/2’yi çöz.
+b86mk9i517 Aynı tavan, çabanın farklı dağılımları
+1xn8szkxb16 İki fabrika toplam emisyonları azaltmalı. Birincisi düşük maliyetle arıtabilir; ikincisinin tesisi uyarlanması zor bir tesistir. İkisinden de tam olarak aynı çabayı istemek kaynak israfıdır: birincisi daha fazla azaltabilir, izin satabilir ve ikincisini en pahalı azaltımlardan kurtarabilir.
+1gxl12zqj7 Sürtünmesiz ticaret ve iç çözümlerle izinler MAC’ları izin fiyatında eşitler. Tavan toplam emisyonları belirler; ilk dağıtım rantları paylaştırır.
+6ep3rdx4n6 MAC’lar farklı olduğunda bir azaltım birimini daha ucuz firmaya kaydırmak toplam maliyeti düşürür.
+1pqrhn2g52x Tasarruf edilen maliyet gerekli tazminatı aştığı sürece ticaret kârlı kalır.
+28dgzpj48si MAC’lar eşitken, aynı tavan için hiçbir marjinal kaydırma toplam maliyeti daha fazla düşürmez.
+1plnvsat25c Kurgusal örnek: MAC_A = 4 ve MAC_B = 10. A’ya bir birim daha azalttırmak B’nin bir birim daha az azaltmasına izin verir: ticaret maliyetlerinden önce 6 net tasarruf.
+16cta04wqpu Bir tonu 4’e kaldırabiliyorsan, o ton için 10 harcayacak bir işletmeye 4’ten pahalıya izin satabilirsin.
+1j8iq0c6vo0 Önlenen sonraki ton nerede ne kadara mal oluyor?
+1pe5y6zx86y ton başına €
+rt10rmvmqx Marjinal bir değişimi göstermek için kurgulanmış örnek; iki gerçek fabrikanın toplam maliyetleri değildir.
+kmaimp2f22 Fabrika A
+210s2pobwkm Biraz daha fazla azaltım 4’e mal olur.
+k9tirjq61x Fabrika B
+16afpvpdci3 Biraz daha az azaltım 10 tasarruf ettirir.
+2bmet6i4isx A 4’e, B 10’a azaltıyor. Çabanın hangi kaydırılması maliyetleri düşürür?
+aay3spfemr B daha çok arıtır, çünkü MAC’ı daha yüksektir
+1mcm99sjrou Çabayı daha pahalı firmaya kaydırmış olurdun.
+1ihsnav4hna A daha çok arıtır; B daha az arıtır
+3whqvatyy8 Önlenen aynı ton 10 yerine 4’e mal olur.
+13arocddfvj Aynı kotalar her zaman en ucuzudur
+8lwv7oeuoi Farklı MAC’ları hesaba katmazlar.
+1dv13fal0p9 B’den A’ya kaydırılan bir ton için maliyet tasarrufu ne kadar?
+jmclkxj1jw B’de tasarruf edilen 10 − A’da harcanan 4 = 6.
+8h0s3ttbkp Kimse arıtma maliyetini bilmezken vergi mi kota mı
+1prw0o30igc Devlet, fabrikaların emisyonlarını azaltmasının ne kadara mal olacağını bilmeden aracını seçmek zorundadır. Vergiyle kirletmenin fiyatını belirler: her fabrika sonraki ton ona vergi kadar mal olana dek azaltır, dolayısıyla emisyon miktarı gerçek maliyetine bağlıdır. Kotayla miktarı belirler: emisyonlar bilinir ama oraya ulaşmanın maliyeti bilinmez. Her fazla ton çok hızlı artan zararlar veriyorsa, miktarda yanılmak pahalıdır: kota daha iyi korur.
+yai546zvjc Belirsizlik altında araç seçimi (“prices versus quantities”): çok dik bir [[MEC]] ve belirsiz bir [[MAC]] ile verginin miktar hatası büyük bir kayıp yaratır; kota e’yi sabitler ve bu kaybı sınırlar. MEC yatık, MAC dikse tersidir: vergi aşırı uyum maliyetini önler. Bu, genel bir kural değil, göreli eğimlere dayalı bir argümandır.
+aahl2scaon Vergi önlenen tonun fiyatını garanti eder, ton sayısını değil: arıtma beklenenden pahalıysa fabrikalar daha çok kirletir.
+enwa6hu67n Kota ton sayısını garanti eder, maliyeti değil: arıtma beklenenden pahalıysa fabrikalar tavana uymak için çok öder.
+a0b5twhfg9 İki hatadan hangisinin daha pahalı olduğu eğimlere bağlıdır: marjinal zarar hızla artıyorsa her fazla ton çok pahalıdır, dolayısıyla miktarı sabitlemek tercih edilir.
+bbhiowkfw8 Kurgusal örnek: MEC = 3e ve beklenen MAC 10 − e ⇒ e = 2,5 ve t = 7,5. Gerçekte MAC = 12 − e ise optimum e = 3 olur. 7,5’lik vergi e = 4,5 bırakır: kayıp ½ × 1,5 × 6 = 4,5. 2,5’lik kota yalnızca 0,5 sapar: kayıp ½ × 0,5 × 2 = 0,5.
+1h9yyvnyzqw Alman hükümetine danışmanlık yapıyorsun (E2021 Q1d): kömürün zararı hızla artıyor ve arıtma maliyeti iyi bilinmiyor. Büyük hatayı önleyen aracı, burada kotayı, seçer ve eğimlerle gerekçelendirirsin.
+95tb6ncy9d Arıtmanın gerçek maliyeti ancak seçimden sonra bilinir
+1gbbtrh2whm Kurgusal örnek. MEC = 3e hızla artar; MAC’ın 10 − e olması beklenir ama 12 − e çıkar. Planlanan: e = 2,5 ve t = 7,5. Gerçek optimum: e = 3. Vergi e = 4,5 bırakır (kayıp 4,5); kota 2,5’te kalır (kayıp 0,5).
+1m6k6vxbi5i Beklenen MAC: 10 − e
+9hvbqre841 Devletin, sonraki tonu önlemenin maliyeti olduğunu düşündüğü tutar.
+1ijl3owisz1 Gerçek MAC: 12 − e
+22bw15k4la0 Araç seçildikten sonra ortaya çıkan gerçek maliyet: arıtma beklenenden pahalı.
+4hg4wmcug0 Sonraki tonun zararı hızla artar: fazla bir ton sakinlere giderek daha pahalıya mal olur.
+1ryt7rintmw Vergi t = 7,5
+2b01fxj5fr8 Vergi kirletmenin fiyatını belirler: firma, gerçek maliyeti ne olursa olsun MAC = 7,5’e kadar kirletir.
+vaqo2m45tm Kota e = 2,5
+unn4aepnps Kota miktarı belirler: oraya ulaşmanın maliyeti ne olursa olsun 2,5.
+ijlohemiz1 Gerçek optimum: e = 3
+1u1o4reilg8 Vergi: e = 4,5
+1hih1p6ofcs Çok dik marjinal zarar, iyi bilinmeyen arıtma maliyeti. Hangi araç kaybı en iyi sınırlar?
+d9r7zdiq8q Vergi, çünkü her zaman daha etkindir
+8iutmeyn5n Belirsizlik altında hiçbir araç her zaman kazanmaz: her şey eğimlere bağlıdır.
+rkcswzr9ea Kota (emisyon tavanı)
+270e5w3wj4b Miktarı sabitler: çok fazla kirletmek gibi pahalı bir hatadan kaçınılır.
+2f6l8a9htjr Fark etmez: vergi ve kota her zaman aynı sonucu verir
+1qv4mvj423w Belirsizlik yokken çakışırlar; belirsizlikte biri fiyatı, öteki miktarı sabitler.
+21wdyq656by Gerçek MAC 12 − e ve vergi 7,5: firma ne kadar emisyon tutar?
+gx32972zxc 12 − e = 7,5 ⇒ e = 4,5; optimum 3 yerine.
+1n0gl9uvpyr Pazarlık, kesin koşullar altında içselleştirebilir
+fgh8cg8d3c Bir fabrika ve komşusu kolayca pazarlık edebiliyor ve kirletme hakkının ya da temiz hava talep etme hakkının kime ait olduğunu biliyorsa, yararlı bir azaltımın kazancını paylaşabilirler. Ama yüz bin mağdur, tartışmalı ölçümler ve pahalı sözleşmeler bu anlaşmayı engelleyebilir.
+1z9r3mpyjr0 Coase: tanımlı haklar ve sıfır işlem maliyetleri, teoremin varsayımları altında etkin bir dağılıma izin verir. Hakların dağıtımı ödemeleri ve bölüşümü değiştirir.
+18iuwt4sr51 Bir zarardan kaçınmak azaltımın maliyetinden değerliyse, paylaşılacak bir artık vardır.
+2dlx1ah948r İlk hak, değişikliği elde etmek için kimin ödemesi gerektiğini belirler.
+19you3kf3q8 Ölçüm, koordinasyon ve sözleşme maliyetleri artığı aşıp anlaşmayı engelleyebilir. Tekel yaratan bir birleşme de başka bir çarpıklık getirebilir.
+erf1aqjuiw Gürültüyü azaltmak atölyeye 20’ye mal olur, komşu için 50 değerindedir. Hak başlangıçta atölyeye aitse, 20 ile 50 arasında bir tazminat azaltımı ikisi için de kârlı kılar.
+18rr7c5p9oy Daha iyi uyumak için 50’ye kadar öderdin. Atölye 20’den itibaren kabul eder. Ama açık bir hak ya da uygulanabilir bir sözleşme olmadan bu olası kazanç anlaşmayı garanti etmez.
+mn8y8trje2 Bir anlaşmanın artığı
+1ikey9pw30t Kurgusal örnek; koşullu etkinlik, her gerçek pazarlığın başarılı olacağı vaadi değil.
+26ijjfpnh16 Komşu
+ua17j6bj8r Önlenebilir zararı değerlendirir: 50
+1o5m3m1pvbk Azaltım için en fazla 50 ödemeyi kabul ederdi.
+1byatp5uac4 Atölye
+1dxb3tnbtzv Azaltım maliyetini değerlendirir: 20
+1erz2sqjtga 20’nin üstünde bir tazminat onu kazançlı çıkarır.
+2azxzw9pecd İkisi
+12alwuf96a5 20 ile 50 arasında bir ödeme arar
+wbdpldz5eg Pazarlık mümkünse 30’luk toplam artık paylaşılabilir.
+1or9qes60gm Hakların ilk dağıtımını değiştirmek neyi mutlaka değiştirir?
+10sd3zwoqvo Etkin miktar her zaman değişmelidir
+o8a3sa2bzt Maliyetsiz pazarlıkta teoremin sonucu bu değildir.
+1636vi0g33x Kimin ödediğini ve kazançların dağılımını
+1hbjx3egntt Coase varsayımları altında etkinlik aynı kalabilir ama gelirler değişir.
+25k435p854p Hiçbir şeyi, ödemeleri bile
+29w7447c3et İlk hak başlangıç noktasını ve tazminatları değiştirir.
+5wkpun1n0i Aynı mekanizma, başka sayılar: tekstil
+t411qffao Ürünü değiştirelim. Tekstil kirletir; denklemler farklıdır ama soru aynı kalır: “özel kararlar hangi maliyeti unutuyor?”. Bu sorudan yeniden başla, sonra iki dengeyi kur. Benzin piyasasının sonuçlarını ezberlemene gerek yok.
+1lh9l5a3q6s Dosyadaki E2024 vakası: MPB = 200 − Q, MPC = 80 + Q, MEC = Q, dolayısıyla MSC = 80 + 2Q.
+v50oj8g3dw Ürünün adı yöntemi belirlemez; teşvikler ve eksik maliyet belirler.
+17enm1zrbm5 Özel denge MEC’yi göz ardı eder, sosyal optimum ise ekler.
+20wlm9ond74 Vergi ancak Q* bulunduktan sonra hesaplanır; DWL fazla birimleri ölçer.
+30g4cpik6i Qm = 60; Q* = 40; optimal vergi 40; Qm’de DWL yüksekliği: MSC − MPB = 200 − 140 = 60; DWL = ½ × 20 × 60 = 600.
+1y2zf9qkggk Yeni bir soru metni karşısında, belleğinde bir formül aramadan önce üçüncü kişileri ve göz ardı edilen maliyeti belirle.
+zin21imwsf Grafik tekstil için parametre değiştirir. Özel ve sosyal akıl yürütme aynı kalır.
+22shneqb7aw Tekstil: 200 − Q = 80 + 2Q. Q* nedir?
+1a7ftp1zcvp MEC = Q ile tekstil için optimal vergi nedir?
+1rh8bcex1gg Qm = 60, Q* = 40, son marjinal fark 60: DWL ne kadar?
+1shylkody4e Kararlarını aldıkları ve ödedikleri şeye göre verirler.
+toplml3e4t MEC özel işlemde yer almaz.
+143h7tj332w MSC = MPC + MEC tüm gerçek marjinal maliyetleri toplar.
+17nsgm3nv7c MPB = MPC, MSB = MSC olan Q*’dan büyük bir Qm verir.
+23icvn36mlf t* = MEC(Q*) rekabetçi piyasayı etkin miktarda durdurur.
+10nci0q87af Sürücü özel değerine ve fiyata göre alır; istasyon özel maliyetine göre üretir. Sakinler işlemlerine girmeyen bir zarara katlanır. Dolayısıyla sosyal maliyet MSC = MPC + MEC özel maliyeti aşar. Qm = 45 piyasası, sosyal maliyeti değerini aşan litreler içerir; Q* = 30 bunları dışlar. MEC(Q*) = 30’a eşit bir vergi bu marjinal zararı ödetir ve özel kararları etkin miktarla hizalar.
+lt2ka8zb9z Sürücü ve istasyon özel kazançları ve maliyetleri karşılaştırır
+gjchva5wu9 Sakinler ödenmemiş bir zarara katlanır
+rem819d1sd Sosyal maliyet özel maliyeti aşar
+3p4qdy3lu5 Piyasa sosyal olarak aşırı birimler tüketir
+1wbn1fasyu9 Q*’da değerlendirilen bir vergi marjinal teşviki düzeltir
+2296o3lm1q0 Bir arkadaşına, depo dolumunun alıcı ve satıcı için kârlı olup aynı zamanda toplum için fazla litre içerebileceğini açıkla. Aktörleri, unutulan maliyeti, Qm/Q*’ı ve optimal vergiyi birbirine bağla.
+sskh3oy9ev Özel karar
+1651rd9m10a Sürücü ve istasyon yalnızca özel kazançları ve maliyetleri sayar.
+15ys9rqcipq Üçüncü kişilerin maliyeti
+15dt9443l7g Sakinlere verilen zarar özel fiyatta yoktur.
+232q03ik2o4 Neden fazla litre
+207dsrvo8ko MSC > MPC, Qm > Q* demektir: fazla birimler topluma değerlerinden fazlasına mal olur.
+g7kb51kx88 Düzeltme
+20vtzby7bf Optimal vergi, eski miktarda değil Q*’da değerlendirilen marjinal zarardır.
+1a978kjd9h0 MEC bir birim daha olmasının zararını ölçer; toplam zarar tüm birimleri toplar.
+12vgmb3diyy Q*’ı bul, sonra MEC(Q*)’ı değerlendir. Vergi miktarı değiştirir, dolayısıyla eski MEC(Qm) hedef değildir.
+75v2c6gbjo Vergi geliri devletin aldığı bir transferdir. DWL net bir refah kaybını ölçer.
+16qpbt24691 Bir fabrika çalışanlarına ödeme yapıyor ama komşulara gürültü için tazminat ödemiyor. Dışsallık nerede?
+dmjvodrdrb Ücretlerde
+145imeugoyz Bunlar zaten özel maliyetlerdedir.
+2b72i52mohh Tazmin edilmeyen gürültüde
+10c88w50jn6 Değişimin dışındaki üçüncü kişileri etkiler.
+1rvaiqil4z Gönüllü bir değişim neden etkin olmayabilir?
+kdebpm9rcs Çünkü her değişim refahı yok eder
+1qtzwu56gs9 Değişim kazanç yaratabilir; tüm etkileri saymak gerekir.
+xrin89ezrc Üçüncü kişiler ödenmemiş bir zarara katlanabilir
+1kg3j38aa3e Özel anlaşma herkesin refahını garanti etmez.
+21clzhr7yxl MEC şunu ifade eder…
+1pghghsg15z Tüm birimlerin toplam zararı
+10bqhiyo7v9 Bu MEC’nin integralidir.
+2g93wwa26j9 Bir birim daha olmasının üçüncü kişilere zararı
+ohoqokjp6p Marjinal = bir birim daha.
+2csziwrmm8s İyi tanımlanmış bir kirletme hakkı ve maliyetsiz pazarlık, Coase’a göre şunu garanti eder…
+1u9pks66g6h Devletin her zararı otomatik olarak ödemesini
+1y9d68aq214 Coase tarafların pazarlığını anlatır.
+18sl0y77vg4 Haklara bağlı bir dağılımla etkin pazarlık yapma olanağını
+ra58mmk0g1 Varsayımlar haklar ve maliyetlerle ilgilidir; ödemeler değişir.

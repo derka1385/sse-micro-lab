@@ -1,0 +1,107 @@
+======================================================================
+4. KONSUMENT, PRÄFERENZEN, BUDGET UND NACHFRAGE — L3–L4
+======================================================================
+
+4.1 Präferenzen und Nutzen
+Vollständigkeit: zwei Güterbündel lassen sich immer ordnen, Indifferenz eingeschlossen.
+Transitivität: Wird A gegenüber B und B gegenüber C bevorzugt, wird A gegenüber C bevorzugt.
+Nichtsättigung / more-is-better: mehr von erwünschten Gütern wird bevorzugt.
+Ordinaler Nutzen: U ordnet Bündel; ein Nutzen von 100 bedeutet nicht
+doppelt so viel Glück wie ein Nutzen von 50. Eine streng
+monoton steigende Transformation stellt dieselben Präferenzen dar.
+Beispiel L3: U(E,F)=sqrt(EF), mit E entertainment, F food.
+U=EF ergibt dieselbe Rangfolge für positive E,F; die Zahlenwerte
+und die Ableitungen ändern sich, nicht die optimalen Entscheidungen.
+
+MU_x = partielle Ableitung von U nach x: Grenznutzen des Guts x.
+Abnehmender Grenznutzen: eine weitere Einheit bringt immer weniger
+Nutzen, bei gegebener Menge des anderen Guts. Diese Eigenschaft nicht
+mit dem ordinalen Charakter des Nutzens verwechseln.
+
+Indifferenzkurve: Bündel mit demselben U. Bei üblichen Präferenzen
+ist sie fallend, zum Ursprung konvex und schneidet keine andere Kurve
+desselben Konsumenten; Kurven weiter nordöstlich werden bevorzugt.
+Zwei erwünschte Güter: positive Steigung ist mit more-is-better unvereinbar.
+Tee horizontal und Kaffee vertikal, horizontale Indifferenzkurven: nur
+Kaffee zählt; Tee bringt keinen Grenznutzen (L3 p.10).
+
+4.2 MRS und Budget: nie die Achsen tauschen, ohne die Verhältnisse anzupassen
+Mit x horizontal und y vertikal gilt entlang einer Indifferenzkurve:
+0=MU_x*dx+MU_y*dy ->dy/dx=-MU_x/MU_y.
+MRS_xy=MU_x/MU_y, Betrag dieser Steigung: Menge an y, die der
+Konsument für eine zusätzliche Einheit x aufzugeben bereit ist.
+In L3 F horizontal und E vertikal: Steigung=-MU_F/MU_E.
+
+Budget p_x*x+p_y*y <= I; Gleichheit im Optimum bei Nichtsättigung und positiven Preisen.
+y=I/p_y-(p_x/p_y)*x; Achsenabschnitte x=I/p_x und y=I/p_y.
+Einkommen steigt: Parallelverschiebung nach außen, Preise unverändert.
+Preis von x steigt: y-Achsenabschnitt unverändert, x-Achsenabschnitt sinkt, Budget steiler.
+Eine Preisänderung senkt die Kaufkraft; sie ändert nicht unbedingt
+das Nominaleinkommen I.
+
+4.3 Inneres Optimum
+Max U(x,y) unter der Budgetrestriktion. Bei einer inneren Tangentiallösung:
+MU_x/MU_y=p_x/p_y, also MU_x/p_x=MU_y/p_y.
+Intuition: der letzte Euro bringt in beiden Verwendungen denselben
+Grenznutzen. Sonst erhöht eine kleine Umschichtung zur besseren Verwendung U.
+Diese Bedingung ZUSAMMEN MIT dem Budget verwenden, nicht stattdessen.
+Sie setzt eine innere Lösung und hinreichend
+reguläre Präferenzen voraus; bei Bedarf Randlösungen und Knicke vergleichen.
+
+Rechenergänzung, Cobb-Douglas U=x^alpha*y^beta, alpha,beta>0:
+x*=alpha/(alpha+beta)*I/p_x; y*=beta/(alpha+beta)*I/p_y.
+Begründung: MRS=(alpha/beta)*(y/x)=p_x/p_y, dann das Budget.
+Für U=xy: die Hälfte des Einkommens für jedes Gut, nicht die Hälfte der Stückzahl.
+
+4.4 Perfekte Substitute und Komplemente
+Perfekte Substitute U=ax+by: MRS=a/b konstant; a/p_x mit b/p_y vergleichen.
+Alles für x, wenn a/p_x>b/p_y; alles für y im umgekehrten Fall; jede Mischung auf
+der Budgetgeraden ist bei Gleichheit optimal. Eine eindeutige Tangentiallösung ist nicht nötig.
+Beispiel L4 p.10: 2 Macchiati entsprechen 1 Cappuccino, gleiche Preise:
+nur Cappuccini kaufen, mehr Nutzen pro Euro.
+Perfekte Komplemente U=min(x/a,y/b): am Knick x/a=y/b wählen,
+denn nicht passende Einheiten bringen nichts. Beispiel linke/rechte Schuhe.
+Für ein Paar 1:1: x=y=I/(p_x+p_y).
+
+4.5 Nachfrage und Einkommen
+Das Optimum für jeden Preis von x neu berechnen, I und die anderen Preise
+konstant halten; die Paare (p_x,x*) ergeben die individuelle Nachfrage.
+Engel-Kurve: optimale Menge in Abhängigkeit vom EINKOMMEN, Preise konstant.
+Normales Gut: Menge steigt mit I; inferior: sinkt mit I.
+Dasselbe Gut kann bei niedrigem Einkommen normal und bei hohem inferior sein
+(L4 Beispiel der Hostelnächte).
+Luxusgut: Einkommenselastizität >1; normales notwendiges Gut: zwischen 0 und 1.
+Diese Bezeichnungen sagen nichts über die Qualität des Guts an sich.
+
+4.6 Substitution, Einkommen und Kompensation
+Ein Preisanstieg macht x relativ teurer: Substitution hin zu y.
+Er senkt auch die Kaufkraft: Einkommenseffekt.
+L4 p.11–13: Steuer auf Benzin, dann eine Pauschalzahlung, die gerade reicht,
+um die ALTE Indifferenzkurve zu den NEUEN Preisen zu erreichen. Der Nutzen kann
+gehalten werden, während der Benzinverbrauch durch Substitution sinkt.
+Diese Zahlung hebt das neue relative Preisverhältnis nicht auf.
+E2022 Q5: Zahlung, mit der das ALTE BÜNDEL nach Wegfall
+einer Lebensmittelsubvention gekauft werden kann. Das alte Bündel bleibt erschwinglich; bei einer
+alten inneren Lösung und einer streng konvexen Indifferenzkurve
+ergibt eine neue Wahl auf dem neuen Budget meist einen höheren Nutzen.
+Altes Bündel erschwinglich und alter Nutzen gerade erreicht sind zwei
+verschiedene Kompensationskriterien. Die allgemeine Garantie ist „nicht schlechter
+gestellt“; eine strikte Verbesserung erfordert Tangential-/Randbedingungen.
+
+4.7 Marktnachfrage
+QD(p)=Summe_i max(0,q_i(p)). HORIZONTALE Addition bei gegebenem Preis.
+L4 p.19: q_H=10-p, q_L=5-p.
+QD=0 für p>=10; QD=10-p für 5<p<10; QD=15-2p für 0<=p<=5.
+Die aggregierte inverse Nachfrage hat einen Knick; das Segment jedes Optimums prüfen.
+
+4.8 Verhalten, soziale Präferenzen und Grenzen
+L3: Nutzen kann Altruismus, Status, Respekt, Stolz und Missgunst enthalten.
+Nutzenmaximierung ist also nicht dasselbe wie Maximierung des eigenen Konsums.
+Ultimatum game: Ablehnung eines positiven Geldangebots aus Fairnessgründen möglich.
+Mangelnde Selbstkontrolle: sofortige Belohnung gegen künftiges Interesse.
+Heuristiken: einfache Regeln, wenn Optimierung schwierig ist.
+Loss aversion: Verluste können stärker wiegen als vergleichbare Gewinne.
+Framing: die Darstellung einer Wahl beeinflusst die Entscheidung.
+Overconfidence: übermäßiges Vertrauen in eigene Fähigkeiten/Informationen.
+Soziale Präferenzen in A3: Geldauszahlungen in NUTZEN umrechnen,
+bevor man die besten Antworten sucht.

@@ -1,0 +1,81 @@
+======================================================================
+8. MONOPOLY AND MONOPOLISTIC COMPETITION — L8
+======================================================================
+
+8.1 Single-price monopoly
+One firm faces the downward-sloping market demand.
+R(Q)=p(Q)*Q; MR=p(Q)+Q*p'(Q).
+pi(Q)=p(Q)*Q-C(Q); interior optimum MR=MC.
+Find Q with MR=MC, then find the PRICE on the DEMAND curve, not on MR.
+When selling more requires lowering the price of all units,
+MR<p for a strictly downward-sloping demand.
+Inverse demand p=a-bQ: R=aQ-bQ^2; MR=a-2bQ, twice as steep.
+Constant MC c, FC F: Qm=(a-c)/(2b), pm=(a+c)/2,
+pi=(a-c)^2/(4b)-F, if producing is profitable over the horizon considered.
+Efficiency without externality requires p_D=MC ->Qeff=(a-c)/b.
+DWL=b*(Qeff-Qm)^2/2=(pm-c)*(Qeff-Qm)/2.
+
+L8 p.8–11: p=12-Q, C=3+Q^2 ->MR12-2Q, MC2Q,
+Qm3,pm9,ATC4,profit15; Qeff4,p_eff8; DWL1.5.
+The high price transfers surplus on the units sold; the units
+not sold despite WTP>MC create the deadweight loss.
+A low absolute price is compatible with monopoly if MC is low and/or
+demand is elastic. Example of yeast E2023 Q1a.
+A monopoly has no supply curve independent of demand: MR
+depends on its shape, and the same price can correspond to various optimal
+quantities under various demands. Reference E2022 Q4c.
+
+8.2 Lerner: a derivation you must be able to explain
+epsilon_D=(dQ/dp)*(p/Q), so (dp/dQ)*(Q/p)=1/epsilon_D.
+MR=p+Q*p'=p*(1+1/epsilon_D).
+At MR=MC: (p-MC)/p=-1/epsilon_D.
+Lerner L=(p-MC)/p: markup RELATIVE to price, not total profit nor (p-MC)/MC.
+Large |epsilon| ->small relative markup; insensitive demand ->high markup.
+With MC>0, a single-price interior optimum lies on the elastic part,
+epsilon<-1; MC=0 can give epsilon=-1.
+A figure labelled "inelastic demand" in the materials may compare
+relative sensitivities; a monopoly with positive MC does not optimise at
+a strictly inelastic point. Lowering Q there would raise R and
+save costs.
+This relation concerns the FIRM's demand. In oligopoly, do not
+blindly substitute the market elasticity for the one the firm perceives.
+
+8.3 Barriers and natural monopoly
+Barriers: regulation/licence, patent, control of an essential input,
+economies of scale/natural monopoly, strategic behaviour.
+Natural monopoly: one firm can serve the market at lower cost than
+several, over the relevant range. Price=MC may not cover FC.
+Patent: static surplus loss versus incentives to invest/innovate,
+to be compared over time. E2024 Q2b does not ask you to deny the static DWL.
+The precise legal duration mentioned in an exercise is a given of
+the question, not a legal check by this dossier.
+
+8.4 Monopolistic competition
+Many firms, differentiated products, easy entry/exit; a firm
+faces a downward-sloping demand but usually ignores the reaction of any
+specific competitor. It chooses MR=MC.
+Short run: positive or negative profit possible.
+Positive profit ->entry ->demand per firm falls and often becomes
+more elastic ->zero economic profit in the symmetric LR model.
+Long run: p=ATC BUT p>MC; zero profit does not mean perfect competition.
+Typically output below the ATC-minimising quantity, "excess capacity".
+The number of firms and variety are part of the equilibrium.
+
+Negative demand shock ->initial losses ->exits ->demand of the survivors
+recovers ->zero profit restored. The number of firms falls; output
+per survivor has no universal sign without demand/cost functions.
+If the shock only changes market size in a standard model with
+constant optimal size, it can return to its previous level.
+Cost shock ->re-optimisation and entry/exit; in oligopoly with barriers,
+the zero-profit discipline of free entry does not apply in the same way.
+
+8.5 Heterogeneous firms
+More productive ->lower MC, often lower price, higher volume/market
+share. "Competitive reallocation": the efficient grow,
+the less efficient shrink/exit.
+Free entry can imply E[pi]=0 BEFORE a firm discovers its productivity,
+without imposing pi=0 for each firm once its type is known.
+L8 p.24, entry cost 20 and a fair die: realised profits
+28,16,4,-8,-20,-20; mean 0. For the worst draw, potential variable profit
+-12: the firm shuts down, limiting its loss to 20. This table distinguishes
+expected profit, realised profit and shutdown after a sunk entry cost.

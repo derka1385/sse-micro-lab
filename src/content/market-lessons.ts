@@ -676,7 +676,7 @@ const PRICE_LEADER: LessonDiagramSpec = {
     { actor: 'Firme 1, suiveur', action: 'Pour tout p2, maximise (6 − 2 p1 + p2)p1.', consequence: 'BR1(p2) = (6 + p2)/4.' },
     { actor: 'Firme 2, leader', action: 'Anticipe ce choix et remplace p1 dans sa demande.', consequence: 'q2 = 7,5 − 1,75 p2.' },
     { actor: 'Firme 2, leader', action: 'Maximise p2(7,5 − 1,75 p2).', consequence: 'p2 = 15/7, puis p1 = 57/28.' },
-    { actor: 'Les deux firmes', action: 'Calculent les profits après les réactions.', consequence: 'π2 = 225/28 ; π1 = 3249/392. Le leader gagne davantage ici.' },
+    { actor: 'Les deux firmes', action: 'Calculent les profits après les réactions.', consequence: 'π2 = 225/28 ; π1 = 3249/392. Le suiveur gagne davantage ici.' },
   ],
 };
 const COURNOT_TAX: LessonDiagramSpec = {
@@ -828,7 +828,7 @@ const OLIGOPOLY = guidedLesson({
       'Le premier vendeur choisit maintenant un prix, pas une quantité. Il anticipe une réaction de prix du second. Comme une hausse de prix peut encourager le suiveur à relever aussi le sien, l’avantage du premier n’est pas celui du leader en quantités ; le suiveur peut même gagner davantage.',
       'E2024 ne précise pas les coûts. Sous hypothèse MC = FC = 0 : q1 = 6−2 p1+p2, q2 = 6−2 p2+p1. Si 2 est leader : BR1 = (6+p2)/4 ; q2 = 7,5−1,75 p2 ; p2 = 15/7, p1 = 57/28.',
       'Price leadership requires substituting the follower’s price reaction and stating missing cost assumptions explicitly.',
-      ['La réaction dépend de la variable stratégique : on ne substitue pas une réponse de quantité dans une demande en prix.', 'Sans coûts précisés, les résultats numériques sont conditionnels, pas un corrigé inconditionnel.', 'Ici π2 = 225/28≈8,036 et π1 = 3249/392≈8,288 : tous deux dépassent 8 du simultané, mais le leader gagne davantage.'],
+      ['La réaction dépend de la variable stratégique : on ne substitue pas une réponse de quantité dans une demande en prix.', 'Sans coûts précisés, les résultats numériques sont conditionnels, pas un corrigé inconditionnel.', 'Ici π2 = 225/28≈8,036 et π1 = 3249/392≈8,288 : tous deux dépassent 8 du simultané, mais le suiveur gagne davantage.'],
       'Simultané avec coûts nuls :p1 = p2 = 2, q1 = q2 = 4, πi = 8. Le passage séquentiel ne donne ni qL = 30 ni la formule (a−c)/(2b) du précédent jeu en quantités.',
       'Tu lis « firm 2 moves first in prices » : écris la réaction en prix de 1 etl’hypothèse de coûts avant de calculer quoi que ce soit.',
       [choice('price-leader-model', 'Les coûts sont absents de l’énoncé E2024. Comment présenter p2 = 15/7 ?', ['Comme résultat sous hypothèse explicite MC = FC = 0', 'Les paramètres de coût manquants ne peuvent pas être inventés silencieusement.'], [['Comme valeur officielle certaine quel que soit MC', 'Un changement de coût change les meilleures réponses.'], ['Comme résultat automatique de Stackelberg quantités', 'La variable stratégique est ici le prix.']]), num('price-leader-number', 'q2 = 7,5−1,75 p2, coûts 0. FOC = 7,5−3,5 p2 = 0 : p2 ?', 15/7, 'p2=7,5/3,5=15/7≈2,143.', [[2, '2 correspond au Nash simultané, sans anticipation de la réaction.']])], ['10.8', '16:E2024#Q4c', '16:E2024#Q4c', '20.1'], { diagram: PRICE_LEADER, provenance: 'recalc' }),

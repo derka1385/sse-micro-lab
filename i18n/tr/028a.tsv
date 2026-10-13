@@ -1,0 +1,200 @@
+1w0dy7dfn1a Neden-sonuç halkalarımı analiz et
+162wo0w5vxw En az birkaç cümle yaz.
+1lm94wqze1r Otomatik tespit yaklaşıktır: önerilen halkaları kontrol et ve farklı ifade ettiklerini işaretle.
+144ek6k0gpq halka tespit edilmedi
+1yinlvcipz0 halka var
+1k2mut90p1y bunu farklı ifade ettin
+mob8gfoo2b İnceltilecek kelimeler:
+29e56v90j9h Farklı söyledim
+20fbpc7abb0 Bu halkayı bana göster
+jedf4wa65s Olası kavram hatası
+calguv5a8z Demek istediğim bu değil
+4wt353yvos {a}/{b} neden-sonuç halkası
+gg677qjnyz Düzeltilecek {n} hata
+okaj0ybmxc Açıklamamı doğrula
+fl3ifyqdmi Sağlam nedensellik zinciri. Önemli olan her halkanın bir sonrakine yol açması — kelime dağarcığın hâlâ incelebilir.
+22vtd8splja Eksik halkalar var: açıklamanı tamamla, sonra analizi yeniden başlat.
+1m178ow0ggz Örnek açıklamayı gizle
+1orpnfdjrn2 Örnek bir açıklama gör
+1vmji71q5bg Cevabın…
+1a97w109j9a Yazılı cevabın
+h1kv2tvojc Örnek cevapla karşılaştır
+24pinnd05du Cevabının gerçekten içerdiklerini işaretle (tespit ettiklerimiz önceden işaretli):
+24ibfi3z0wm Dil: cevabın Fransızca görünüyor. Sınavda İngilizce yanıtla.
+1hkaaufi8au Doğrula
+1go3e5t4hwv (sübvansiyon dahil)
+th8g9g4lxu (vergi dahil)
+1r25w8mxaub Takas edildi: alıcı için değeri {b}{sub}, satıcıya maliyeti {c}{tax}.
+27snqtpzrqn Takas edilmedi: alıcı {c}{tax} maliyete karşılık yalnızca {b}{sub} öderdi.
+1dxsc91md0d Toplum için: değer {v} − maliyet {c} = {g}.
+2cerrvquumg ⇒ Eksik birim: üretilmediği için toplum {g} € kaybeder.
+5vzaj367vv ⇒ Fazla birim: {g} € refahı yok eder.
+6zguls8rqm Q, {u} cinsinden
+rzvcebd0a3 {q} noktasındaki birim
+1eakarhh4np Kaydırıcıyı hareket ettir · bir eğriye, alana ya da çubuğa tıkla
+wcpc7iawiu Sübvansiyon ödendikten sonra bir birim fazlasının alıcının cüzdanı için değeri: MPB + s.
+1ysgmvajwjs Vergi ödendikten sonra bir birim fazlasının üreticiye maliyeti: MPC + t.
+mtsy9zbnhs Q = {q} noktasında: birim başına {v} €.
+1lu86pozeqr Ölü ağırlık kaybı — eksik birimler
+1ghcoy82ygm Ölü ağırlık kaybı — fazla birimler
+1sprgoohm19 Bu birimlerin sosyal faydası sosyal maliyetini aştığı halde üretilmezler.
+213y6hh2bxw Bu birimlerin sosyal maliyeti sosyal faydasını aştığı halde üretilirler.
+1z2yk0izw7w Alan = {a} € (Q = {lo} ile Q* = {q} arasında).
+1mzjuoraerf Q = {q} noktasındaki dilim: |MSB − MSC| = |{b} − {c}| = bu birimde kaybedilen {g} €.
+vi1weanoi1 Bir birimin dilimini görmek için kaydırıcıyı alanın içine yerleştir.
+28wsypdqvq8 Alıcıların net kazancı: satın alınan her birim için alıcıya değeri eksi ödenen fiyat.
+23lmji4sqco Alan = {a} €.
+uqv2grq0v9 {q} noktasındaki dilim: MPB {b} − p_b {p} = {g}.
+1w50ru30hfl Satıcıların net kazancı: satılan her birim için alınan fiyat eksi marjinal maliyeti.
+qdspfnpbts {q} noktasındaki dilim: p_s {p} − MPC {c} = {g}.
+1vc7xr4gnjz Vergi mükelleflerinin ödediği: takas edilen birim başına s. Bir transfer, yok etme değil.
+fd2pz6j4ec Devletin aldığı: takas edilen birim başına t. Bir transfer, ölü ağırlık kaybı değil.
+16vc5gb6qkh Üretilen bütün birimler için üçüncü kişilerin aldığı faydaların toplamı (MEB altındaki alan).
+3ihwxnjtp5 Üretilen bütün birimler için üçüncü kişilerin uğradığı zararların toplamı (MEC altındaki alan).
+23zi22dezjq Burada MPB = MPC: son takas alıcı için üreticiye maliyeti kadar değerlidir. Ötesinde MPB < MPC: artık hiçbir fiyat ikisinin de işine gelmez.
+3hfvs3tqwp Burada MSB = MSC: son birimin toplum için değeri tam olarak ona maliyeti kadardır. Öncesinde eklemek refahı artırır, sonrasında azaltır.
+1a8fa5gcmvb Politikayla Q = {q}
+1o4hvb6j6pb Burada MPB + s = MPC: sübvansiyonlu özel karar durur.
+e1vhlhpsaq Burada MPB = MPC + t: vergilendirilmiş özel karar durur.
+2e4io5celml Alıcı p_b öder; satıcı p_s = p_b + s alır; farkı devlet öder.
+k72yc3991g Alıcı p_b öder; satıcı p_s = p_b − t tutar; farkı devlet tahsil eder.
+1krf0v2fcof Q = {q} noktasındaki birim
+ac3gc4wh9p Denetleyiciyi kapat
+1h4l0usl1oz Kalın = özel teşvik
+ucea0t4xma {n} birimde bir
+t8c36ven8k Altı çizili: eksik · üstü çizili: fazla
+uk448eqcwm Birimler tek tek
+qw3ejpurkx Birim {q}:
+1p59rx233dp takas edildi
+2glh5cu7zub takas edilmedi
+245ecwya078 toplum için eksik
+206wgklddb2 toplum için fazla
+glii9grfhi Birim başına sübvansiyon
+21yr6g9ohbv Birim başına vergi
+65esbam7w2 Şuraya kadar canlandır
+1s8s1kun54n Politikayı kaldır
+26ayrisf3hd Müdahalesiz
+12nyvf3o7p8 Optimum
+pkkdzpeo0y takas edilen miktar
+143fklon0lt alıcılar
+1400m5xf47z satıcılar
+1te2sjoc4up Devlet (− sübvansiyon)
+25xxpyq8pkx Devlet (+ gelir)
+1bv2vk4dsis transfer
+21gomb5jh34 + dışsal fayda
+r08mavd1i4 − dışsal zarar
+1zl0toxqoxq üçüncü kişiler
+150xp4u1ch1 toplam refah
+1cmm2mmfdnd optimuma göre
+202av860ibt Neden? Bir seviye daha derine
+29rzzq9m3bn Dibe ulaşıldı: bunun altında modelin varsayımları var.
+n62rksngja Daralt
+tmpjvt68if çünkü
+4ctug8ufjd Zaten başarıldı.
+yrlflvkby3 Bir sayı gir.
+32expacln Henüz değil. İpucu: {h}
+1bap79dmdo9 Henüz değil — akıl yürütmeyi yeniden yap.
+me9uxwfusa Cevabın
+rjjv0hjhfe cevabın
+1myvxolc3n7 Kontrol et
+2dfvciemw65 Cevap:
+2167viw13xk Kaydırıcı:
+lgpmvplgvt Orada değil: ilgili eğrilerin kesişimini ara.
+1442ass3zou Konumu onayla
+151bjtaej3u Doğru zincir: her halka bir sonrakine yol açar.
+1iynt8jpfrf {n} numaralı halka yerinde değil: ondan ÖNCE neyin doğru olması gerektiğini sor.
+207p2tscol Sırayı doğrula
+ctp87u0wkj Son öğeyi sil
+1u9oix6w7l1 Yeniden kuruldu.
+8w7d945c4x Henüz değil: hangi aktörler ilgili?
+bfv12bjoh9 Temel öğeler yerinde.
+13b23ooqnmf Örnek cevapla karşılaştır ve neyin eksik olduğunu aklında tut.
+f2zpe0si1h Mikro ders · iki kez fark edilen karışıklık
+23ztvhi1tu0 Kapat
+1jhw41yi8sx Dosyada bulunamayan referans:
+1jfep1u49at İnsan dili
+1ubf52o05qp Ekonomist dili
+1dpe1v831zn Sınav (EN)
+v5qffwt9i3 Dosyada olmayan kısaltma.
+2eperbkalil Dosyanın sözlüğünde:
+2eut6ctvcw6 [O] PDF'lerde görüldü · [A] standart eş ad · [C] eklenmiş tamamlayıcı (§18)
+9ns7ja6pof Kavramın tam kartı
+11tzuwzd7t5 Kelimesi kelimesine:
+1y0znx9ljug Üç düzey
+1z2yb48sjt0 Nedensellik zinciri
+1ll2sxx5dal Formül
+1wygkx1xyt5 Birimler:
+1vtie3gma0w Grafikte:
+ge74l85cm4 Varsayımlar
+1nq4pl3lris Ne zaman kullanılır
+23crdbf00ax Ne zaman KULLANILMAZ
+dqcw7i3wf2 Sık karışıklıklar
+w5zp36k6es Örnekler
+o50h29xgsi Sınavdaki tetikleyici kelimeler
+agp8kw2edx Tipik cevap (EN)
+14ihli93mkb Kaynaklar:
+12eq63n4ctm Nereden geliyor?
+4m3evynqcn Her terim
+sokbdis0e6 Sık karışıklık
+1mafbxsej1l Tetikleyici kelimeler
+kjeb22a4y7 Dosyadan birebir alıntı (kaynak dosya).
+17nl9we27jw Kaynaklar'da aç
+1qh9dk4vkfu Kartı aç
+1bf3gfno7wj Kelimesi kelimesine
+phrl81fjv5 Kim?
+fykkvlwjw7 Burada "marjinal"
+1uj8f701gib Birimler
+1yzab13vk8i Grafikte
+22b45bbibn3 Neden bu formül?
+11gj7wbvya8 dosya referansı
+2b5db4uq0wd Belgelenmiş
+1ydd8gnsws5 Yeniden hesaplanmış (dosya)
+16gsa1u86qa Öğretici ek
+1ryts69kosf Üretilmiş alıştırma
+2cm8rt3vuhl Pozitif dışsallık — üretilmiş alıştırma
+14vov2fqfkg Qm?
+jjeo0le91d Bu Q*: piyasa MPB kullanır.
+1zwocwbvosr Q*?
+6b74ahesh5 Bu Qm.
+fc5bfjnxnn DWL?
+1nvrwfflxim Optimal sübvansiyon?
+1vkqbzr2vgd s* ile alıcının ödediği fiyat?
+105vrib32x1 Negatif dışsallık — üretilmiş alıştırma
+1l6v4vwb9q7 Optimal vergi?
+41tdnf59tw t* ile vergi geliri?
+27b5mexmuc3 bir transfer, kayıp değil.
+1rrvfevnbr3 Bu başlangıçtaki DWL, gelir değil.
+14tik6vnx0s Birbirine yakın iki kavram: farkı açıkla
+uhhrtglpe9 Önce kendi ayrımını yaz (Fransızca ya da İngilizce). Ancak ondan sonra dosyadaki karşıtlıkla karşılaştır.
+d918qdgrls başarıldı
+duk1m6l30q yeniden çalışılacak
+311dqslyi2 Farkı kendi sözlerinle açıkla. Kim ilgili, ne değişiyor, grafikte nerede görülüyor?
+45i4cg9o4e Ayrımın…
+iegsxp5pfu Karşılaştır
+1kiv1puf9pk Ayrımının gerçekten içerdiği noktaları işaretle (tespit ettiklerimiz önceden işaretli):
+1tppedw7n1f Kaydedildi.
+2cxhke9azaa Bu karışıklık iki kez tekrarlanırsa hedefli bir mikro ders görünecek.
+vu05mr60dl Sınav modu · İngilizce · ipucusuz
+13m5zkuca7 {n} deneme · en iyi %{p}
+jucaxl3no3 henüz denenmedi
+1944cj8zvgz Sınav modu: İngilizce, sonra düzeltilir
+1rk3wgdlz4d SSE'deki gibi yaz: model, hesap, mekanizma, İngilizce. Düzeltme ekonomik mantıkla başlar, sonra hesap, grafik ve örnek cevap gelir; **model**, **mantık**, **hesap** ve **dil** hatalarını ayırır.
+200vidgirkz Gerçek sınavlar, yıl yıl
+1tvnkgavqyn 2020–2025 finallerinin bütün soruları. Veriler ve yönergeler sınavlardan alınmıştır (dosyadaki "past exams" klasörü), yeniden ifade edilmiştir; çözümler dosyanın §16'daki yeniden hesaplamalarıdır, resmî puanlama anahtarı değil. Q5 yalnızca ara sınavının yerini alırsa sayılır.
+2gjbrmeohw Final {y}
+1mfjf1z19pg Ödevler ve ders alıştırmaları
+2doptbi0pxo Yeniden kurulmuş bir ödev ve ders sonu sınavları: alıştırma için hazırlanmış, asla resmî sınav olarak sunulmayan çalışmalar.
+21xj2z1xnkp Birleşik öncelik
+ehoxym00ut Ön koşul sırası
+1qdvig7hf9c Gözlenen tekrar sıklığı
+10m03kgesvy Zayıf noktan
+i57p05k11m Kavramsal önem
+1xzkxeb0sgr Finale {n} gün
+vipkhcb1v4 Final günü
+1c02fle9ale Son hazırlık · 23 Ekim 2026, L1 slaytlarındaki tarih
+gipxx8gj6f Konuları senin için önemli olana göre sırala. Tekrar sıklığı altı final (2020–2025) üzerinden **gözlenen bir geçmiştir**: örneklemi tanımlar, bir sonraki sınavı öngörmez (§1).
+zfoebb79ew Sırala
+2fhbx1duzuf Konu
+1s22ryv5ucm Ön koşullar hazır
+12grnqoufsz Zayıflık
+1bzg6p06pv7 Önem

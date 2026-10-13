@@ -1,0 +1,214 @@
+u7mxoagap You're the candidate with cost 60: don't settle for the advertised wage of 100; subtract the cost of getting the degree.
+244urxrnkv6 The wage rises from 60 to 100 with a degree. What cost makes a candidate indifferent?
+bk6gv3a7bq 100−C=60 ⇒ C=40. At this threshold, the candidate has no strict preference.
+19ta0dw6j5d Why isn't "the signal is costly" enough?
+1au8hb4l71c Incentives must differ by type
+1e307remc74 If every type wants to imitate it, it doesn't separate the types.
+1pl29mt5eme A signal must always be free
+1n8cuoxr3fq A cost that differs by type is precisely what can make it credible.
+1fcwg9v5nj9 The owner can't order an invisible effort
+nacul9nyp You run a shop for an owner. Working harder costs you 10 and improves revenue, but the outcome also depends on a good or bad state. The owner observes revenue without seeing your effort perfectly: they must give you a reason to make the effort rather than assume it.
+1ssmkvgi0z2 Principal-agent: the agent chooses a hidden effort; the principal proposes a contract. H generates 40/100 with equal probability, L: 20/40; expected revenues 70 and 30.
+26s9uv8dfti Even with H, a bad outcome remains possible: the outcome doesn't perfectly identify the action.
+nuej9ag8yt Total surplus under H=70−10=60 exceeds L=30, but this collective ranking doesn't automatically determine the agent's choice.
+18dxunvmzuo H: 0.5×40+0.5×100=70; L: 0.5×20+0.5×40=30. Effort adds 40 of expected revenue for a cost of 10.
+156sggslp12 You choose effort by looking at your own net pay; the owner's gain doesn't automatically pay for your fatigue.
+jdxtpthzyo Under H, revenue 40 or 100 with equal probability and effort cost 10: what expected total surplus?
+g83kh6bqn1 0.5×40+0.5×100−10=60. Any wage is a transfer between owner and agent.
+m82p3sy9sn 70 is expected revenue; the real effort cost of 10 must be subtracted.
+rs3qe36dit A fixed wage protects against risk but doesn't reward effort
+1e0dzn1sz3c The owner pays you w whatever the turnover. You get the same wage whether you work a lot or a little, but H costs you 10 more. In this model with no other motivation, you choose L; writing the expected revenue of 70 for the owner would therefore be inconsistent.
+1uvsg48lxov With a fixed wage: U_H=w−10<U_L=w. The owner receives 30−w and bears the revenue risk.
+2edsw1ijzcu The revenue difference doesn't change your wage, so it doesn't compensate your effort cost.
+uqlqv0w424 This result depends on the absence of other incentives or motivations; it doesn't automatically describe every real employee.
+2ay8bxerlwp If w=20: H gives you 10, L gives you 20. You choose L; the owner expects 30−20=10.
+2dx8cvztyj0 You ask "does an extra euro of revenue change my pay?". With this fixed wage, the answer is no.
+1ub17q3sj92 With fixed w and cost H=10, L=0, which effort is optimal for the agent?
+15zmou98ojn H, because it maximizes total revenue
+1fcj2daflfm The agent doesn't receive this extra revenue. Compare their private gains.
+gcrtw2fb1v L, because their wage stays the same and the effort costs less
+vvmkeyxs73 w>w−10; the principal's revenue must then be computed with L.
+21jl4wtr4ac Revenue sharing gives effort a private return
+1gpxhmvkov3 The owner now offers you half the revenue. By working harder, you get part of the extra turnover. You also accept that your pay varies with shocks: the incentive comes with exposure to risk.
+77q5vu7az4 50/50 split: U_H=0.5×70−10=25; U_L=0.5×30=15. H becomes incentive compatible; the owner receives 35.
+1a4fvgeoiuk Effort adds 40 of expected revenue, of which you keep 20; that covers your cost of 10.
+1vcea0czgcl Comparing expected values is enough here under risk neutrality; risk aversion could change acceptance of the contract.
+3ss8c5r7uf Under H, your net gain is 10 in the bad state (20−10) and 40 in the good one (50−10), so 25 in expectation.
+1877v88citi You run the shop: effort now brings you 20 of extra expected pay for a cost of 10.
+28ouo5t2uhf Who benefits from the effort?
+2901249h8as expected €
+1r4lmpng1kj Risk-neutral agent; effort H costs 10 and generates 40/100 with probability 1/2; effort L costs 0 and generates 20/40 with probability 1/2. 50/50 split.
+17yz9b8aqse Agent H: 0.5×70−10
+250ga046w0s The agent gets half of the revenue increase but pays the full effort cost.
+16yofhfh3ax Agent L: 0.5×30
+1bdbwfitbhc No effort cost; lower income.
+2eonin2eh1d Owner if H
+1d7ydijbee The other half of the expected revenue of 70.
+3s70lfukax Total surplus H: 70−10
+13nbopazdt9 The monetary split is not a lost resource.
+1dc2r6y8bjz What expected net gain does the agent get with 50% of revenue H=(40,100), effort cost 10?
+1mv4o4a6hoa 35 is their revenue share before the effort cost.
+19us6fwui20 60 is the total surplus; the owner also keeps part of it.
+1xxenf6294c Strong incentives aren't enough if nobody accepts the contract
+tk0keasvl0 You can pay a fixed fee F and keep all the revenue. Every revenue gain is yours, so H yields 60−F against 30−F under L. But if F is too high, even the best effort leaves you less than your outside option; you turn down the contract.
+2bsg8bi0p10 IC = incentive compatibility: choosing the desired action. IR = individual rationality: preferring to participate over one's outside option. The fixed fee transfers the risk to the agent.
+xdwze0womn F cancels out in the H/L comparison, so it doesn't change this incentive for a given effort.
+2ddw42v0ujm F doesn't cancel out when you compare the contract with not signing: it reduces your net gain from participating.
+sxv6owmuo5 With an outside option of 15 and risk neutrality: 60−F≥15 ⇒ F≤45. F=50 keeps H as the best effort but gives only 10: contract refused.
+1u72vud5tcs Before signing, ask two questions: "what will I do if I sign?" and then "is it worth my while to sign?".
+5gzkjfuf8 If H gives 60−F and your outside option is 15, what maximum fee satisfies IR?
+163k5lrgo5 60−F≥15 ⇒ F≤45. At 45, weak participation with indifference.
+yrkubo5vq9 F=50 induces H but gives 10 against an outside option of 15. What problem remains?
+1gl1e5qstn5 IR fails
+1ymns94fkmx The agent will refuse, even though they would choose H if they signed.
+1liz78e1563 IC necessarily fails
+ig7kwhmist H gives 10 and L −20: H remains the best of the efforts.
+1nuls7gd6p9 The entrepreneur looks at what's left after repayment
+1buvrv47hyr The bank lends 20 for a project that yields 40 if it succeeds, zero otherwise. It asks for 30 only on success. With H you succeed with probability 0.8; with L only 0.4, but L gives you a private benefit b that the bank doesn't receive.
+sj65d8emv7 Limited liability: U_H=p_H(R−B), U_L=p_L(R−B)+b. The promised repayment B is paid only on success.
+1791xujllo1 Raising the repayment reduces the gain you keep when your effort succeeds.
+2f82dkobdol A private benefit can make low effort attractive even if the project generates less value for the bank.
+aq3vkx1zy5 R−B=10. H gives 0.8×10=8. L gives 0.4×10+b=4+b: with b=2, H earns 8 against 6; with b=6, L earns 10 against 8.
+1yly10k1khf You're the borrower: compute your gain for each action before computing the bank's.
+z9n1h5fsb5 The nominal repayment doesn't choose the effort for you
+1gcg6vya7p9 R=40, p_H=0.8, p_L=0.4, repayment on success B=30, loan D=20, private benefit b=6. The borrower chooses L: p_L must therefore be used for the bank.
+n0wj1c5sks Entrepreneur H: 0.8×10
+xwx1gfyu6j Residual revenue of 10 on success.
+fdspwa1ftt Entrepreneur L: 0.4×10+6
+eqqoy4txyu The private benefit of 6 makes L preferable.
+ep9at6mfdm Actual bank revenue: 0.4×30
+18qegyt6a5g The probability of success depends on the action actually chosen.
+1ebypqi4l2w Loan paid out
+o4qjbxj43h With revenue of 12, the bank loses 8; this 20 is not its profit.
+29ltto0ogc4 With R=40, B=30, p_L=0.4 and b=6, what gain does L give the entrepreneur?
+15hy6ckwzcl 0.4×(40−30)+6=10; that's more than U_H=8.
+u3v1waf010 The private benefit of 6 from L is missing.
+1dcw15o520t 12 is the bank's expected revenue if L is chosen, not the borrower's gain.
+1z0bcxjlk85 The incentive formula appears when you compare the two choices
+11cyjd626mv To choose H, you must gain more from the higher probability of success than the private benefit you give up. The repayment reduces your gain on success, so it can end up destroying your effort. The bank can't assume H to justify a repayment that is exactly what makes you choose L.
+29zqs6ynoy0 IC_H: (p_H−p_L)(R−B)≥b. Bank: p_chosen B−D; the probability must match the action actually chosen.
+1ap29drnzt3 Which comparison guarantees that H is at least as good as L?
+8ppl4ygybh The full private gains are compared, including L's benefit.
+r8c89eypx3 Only p_H B ≥ D
+2bouo19oyrg That checks the bank under H without showing that the borrower chooses H.
+nl9cl527no At b=6 and B=30, IC requires 0.4×10≥6: false.
+28ndfav5v7n With L, bank revenue falls to 12 despite the nominal promise of 30; net of the loan of 20, profit is −8.
+1nefhxc4cv1 If b=2, H is chosen and the bank earns 0.8×30−20=4. If b=6, L is chosen and it loses 0.4×30−20=−8.
+1gesa78bufp You're a banker: a higher promise on paper isn't necessarily worth a higher expected repayment.
+1mc7o37cqn1 For b=6, R=40, B=30, D=20, p_H=0.8, p_L=0.4, what bank profit is actually induced?
+1nrqxbv7mzu L gives the entrepreneur 10 against 8 under H. So the bank uses p_L: 0.4×30−20=−8.
+z2dvjz8qf8 4 wrongly uses p_H: IC_H doesn't hold.
+66upyarz1d 12 is the gross expected repayment; the loan of 20 is a cost to the bank.
+1oh6jrl160e Equity can restore effort — without erasing its cost
+22bovktw23v You put in 10 of your own money, so the bank lends only 10 and asks for 15 on success. You keep 25 on success: the private reward from success is again large enough to supply H, even with b=6. When your gain is measured from before the investment, the equity must be subtracted under both actions.
+25mjx29okwf With B=15: U_H=0.8×25=20; U_L=0.4×25+6=16, before deducting A=10. Bank=0.8×15−10=2. Entrepreneur's net gain under H=10.
+1rbzwlmhwd0 Equity reduces the need for debt; the lower repayment leaves more of the gain from success to the agent.
+13kyxm5vu00 A cost already paid cancels out in the effort comparison for a given contract, but not in the total net gain from participation.
+1uh5rijmtr5 Without equity and with b=6: IC_H requires B≤40−6/0.4=25. A profitable bank under H requires B≥20/0.8=25; at B=25, the agent is indifferent, so H requires a tie-breaking rule.
+1vm95kne6zz You don't subtract your equity only when you work hard: you put it in before choosing the action in both scenarios.
+1mbiwzk92d7 Equity 10, loan 10, B=15, R=40, b=6: what bank profit if the entrepreneur chooses their best effort?
+2cf99cfntel H gives 20 against 16 before equity, so H; bank 0.8×15−10=2.
+29cuk22gutc What net gain does the entrepreneur get under H, with the equity of 10 already included?
+72zay5ykg1 20 is the gain before deducting the initial equity of 10.
+1zw3e8zyuqw A penalty changes the private economics of low quality
+tl6g6jj6zd The cleaner receives 110. High quality costs them 100; low quality 70, but an inspection detects the drop with probability 0.5 and triggers a penalty F. The payment common to both choices doesn't determine the incentive: compare the cost saving with the expected sanction.
+1b7bjpbczkw H: profit 10. L: profit 40−0.5 F. Weak IC: F≥60; H strictly preferred for F>60, assuming the penalty can be paid and risk neutrality.
+1bzr90jbyko Choosing L saves 30; the inspection triggers the penalty only one time in two.
+1ghwedtbcz3 F=60 takes 30 in expectation from L and equalizes its payoff with H's: without an extra rule, this doesn't strictly select H.
+2vg7tpwrhj F = 60: L gives 40−30 = 10 = H. F = 70: L gives 5 < H = 10. Participation must still be compared with the outside option.
+8nw1sr0gz4 You're the contractor: compute the expected cost of cheating, not just the stated amount of the penalty.
+1lpwsn9ty5t Cost H = 100, L = 70, detection probability 0.5: what minimum penalty ensures weak IC?
+26w01tifnz1 (100−70)/0.5=60. At 60 there is indifference; above 60 for strict H.
+fnh0dpz5cj 30 is the cost saving; with a one-in-two chance of detection, F must be twice that.
+1i3bjdio240 At F=60, is H strictly better?
+1usv7db5y7j No, the profits are equal
+1i0lg562yoh Yes, as soon as IC is satisfied
+1l9zv03608h A weak inequality allows indifference.
+1k8fypkuqij An outcome bonus doesn't automatically imply a conflict
+ampauqegkd A manager chooses between two risky projects. You might think that a bonus paid only on gains necessarily pushes them toward the wrong project. Do the expected values first: in the exam's numbers, the project they prefer is also the one that earns the owners the most.
+2034vvexgld E2020: A yields 100 with 0.75 and 80 with 0.25; B: 400 with 0.75 and −160 with 0.25. Bonus of 1% of positive profits, zero in case of loss.
+1lw0sfvesyn A gives gross profit 95, bonus 0.95, net 94.05. B gives gross profit 260, bonus 3, net 257.
+1bmd0etrbaz The bonus and net profit both rank B first under risk neutrality; the data alone therefore don't show a choice contrary to the owner's interest.
+6xm5clzo6o B: 0.75×400+0.25×(−160)=260; bonus 0.75×4+0.25×0=3; net 257.
+1unm3yj1hp5 You're correcting your answer: replace "bonuses necessarily cause excessive risk" with a comparison of the choices in this problem.
+2dux383357m With these numbers and under risk neutrality, what can we conclude?
+27q7ztm973l An A/B conflict is shown
+15js3igpeyb The manager chooses B, and B also maximizes net profit at 257.
+2gbwugskl0c The choices are aligned here, even though other numbers could create a conflict
+utw3kuossq The potential mechanism doesn't replace computing the given payoffs.
+1pyy7vamibn Project B gives a negative expected profit
+u7inym9uto The other party can't simply make the contract conditional on what it doesn't know.
+251qbj1ly1 A good car requires a different price; effort costs the one who supplies it.
+ui4k2ckmad Each agent chooses the option that maximizes their own payoff, not the presumed surplus.
+1wdj4k6kqxa The remaining sellers change the average quality; the effort actually induced changes p.
+202a9adw8ql A contract must induce the behaviour used in the calculations and be accepted by the parties.
+1wcc9e0l9p0 A hidden type can drive good cars out at an average price: that's adverse selection. Hidden effort responds to the payment offered: that's moral hazard. In credit, the borrower compares p_H(R−B) with p_L(R−B)+b. If B leaves the borrower too little of the success, L can become preferable; the bank must then use p_L, not p_H. IC guarantees the desired choice, while IR requires a gain at least equal to the outside option. Both are necessary.
+2fvkuyi082l Information or an action is not observable
+bvzzg8xq57 Types or actions change private payoffs
+6kn5cdxufq The contract selects or incentivizes
+o85nsg58ml The outcome changes beliefs or the probability of success
+2fc2d4iz7dc Check IC, then IR and profitability
+1joacmutdc Explain to a friend the difference between a hidden type and hidden effort. Use credit to show why "the bank will be repaid 30" isn't enough, then distinguish IC and IR.
+80l7hnqlhp Name the hidden information
+176srikuz0d Type/quality for adverse selection, action/effort for moral hazard.
+27jyteurc6r Compare the agent's payoffs
+gil32y0ljp H and L must include the residual after repayment and the private benefit.
+rbbgulogzk Deduce the effort
+1hnxjrsrskc IC makes H at least as good as L; it isn't assumed.
+4udlmx2vdz Use the true probability
+1wxc6qt6fjv Bank profit depends on the behaviour actually chosen.
+19knkf5mnz7 Check acceptance
+1efpahtc3v IR compares the contract with the outside option.
+28u5hnm97su The hidden type selects the participants; the hidden action is a choice influenced by the contract.
+zresp3p66q First write U_H and U_L. The bank can use p_H only if H is actually induced.
+1ylxra6pq5t IC compares the actions or contracts offered; IR compares participation with the outside option.
+1z0lthf0ilb Practice rebuilt from A6/L12/E2023; calculations checked in the dossier. The questions and model answer are teaching material, not an official solution.
+12pq4nz16pp H=0,8×10=8; L=0,4×10+6=10, hence L. Bank=0,4×30−20=−8.
+20qs10o2t9l H before equity 20>L=16. Entrepreneur 20−10=10; bank 0,8×15−10=2.
+1279ubhtnd2 Who initiates a signal?
+2a03fdtatro The informed party
+1v8rspx425b It chooses an observable action that can reveal its type.
+1exnbzvj1op Always the state
+q23bzikh1t The signal can be a degree, a warranty or an action by a private agent.
+7e9rvnwm3k What does IR mean in a contract?
+1s07nnd8kt5 Participation compared with the outside option
+26iro88z2pu Individual rationality: accepting rather than staying out of the contract.
+u3tkjjrjsk Strictly imposing H
+1b21ynamnqa That's a matter of incentives, with attention to indifference.
+4th4ag8iis Rebuild the selection of cars.
+dbqhwsqxdm Average price based on a half-good quality
+m6zyxiqtax Good seller refuses below their reservation value
+5l8ifj9yo5 Quality of cars on offer deteriorates
+251vrykcxnj Buyer revises WTP based on the remaining sellers
+1e4lutj2x26 In what order should you analyze credit with hidden effort?
+l37s7dqptk Write the borrower's payoffs for H and L, private benefit included
+ad7lr2gfoq Compare the payoffs to find the effort actually chosen
+17gwvmdc5qd Use its probability of success in the bank's revenue
+43o6jux9m9 Also check participation and the assumptions at equalities
+1p2uox8xnmk R=40, B=30, p_H=0.8, p_L=0.4, b=2: bank profit with a loan of 20?
+y20gx9dwpi H=8>L=6, so bank 0.8×30−20=4.
+z75mo1thpn Private saving 30 and detection probability 0.25: minimum penalty for weak IC?
+1mebea9gav1 0.25 F≥30 ⇒ F≥120; equality = indifference.
+px8b0c0nac A craftsperson on a flat fee may sacrifice a hidden quality to save time. Which lever targets this problem?
+14prz5t86b7 An inspection and a payment that depends on verifiable quality
+1l3abxoxmla This can make the contractor bear the expected cost of too low a quality.
+299p91lxdq5 Computing only the average wage without comparing the actions
+1khzwmulxve The common wage doesn't show which quality the craftsperson will choose.
+i8m3itvkza Saying that every flat fee is always bad
+26egwijlk7z Incentives to save time can be useful; the trade-off must be handled.
+jjq8n3cmh2 A well-informed seller offers a warranty that bad products make very costly to honour. What logic can make this signal credible?
+qhoa5mpdly The bad type gains less from imitating it relative to its cost
+vt0azbrsb4 The warranty must create different choices by type, not just be visible.
+1kcezt4bkir The warranty is observable, so all types are necessarily revealed
+1ddmy2tgpjo An easily imitated action doesn't separate the types.
+u14j6ys8ht The customer proposed a menu, so the seller is screening
+1dzy0044xjp In this context, the initiative comes from the informed seller: it's a signal.
+8kv59uxsbd Action conditional on signing
+1ink4m6dnvl Different choices by type
+27e0h87yfhz Both may pool
+j75i1gbp4r Identify who knows what, and distinguish hidden type, hidden action and common risk.
+2gfit114393 A context word like insurance doesn't choose the model for you.
+1tlnksocb4d Check that beliefs about qualities match the sellers who remain.
+w8dz7z1gn The average price itself can change the composition of supply.
+1p52jm2b26q Compare the full private payoffs before computing the principal's.
+1k7pq1ag8fd The probability of success depends on the effort actually induced.

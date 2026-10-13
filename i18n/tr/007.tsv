@@ -1,0 +1,221 @@
+64ihacbxm5 Her R bütçeden daha fazla yer, bu yüzden R = 8 kesişimi orijine yaklaşır.
+qbku3fovda U = LR harcamayı yine ikiye böler: 600/40 = 15 ve 600/150 = 4.
+ip3xa2c57b Yeni bütçe 40L + 150R = 1.200. (15,4) seçiminde maliyet = 600 + 600 = 1.200; U = 75 yerine 60. Nominal gelirden tek bir euro bile kaybolmadı.
+26p5zlzhdm8 Banka bakiyen aynı ama ürünler daha pahalı. “Maaşım düştü” deme, “daha az alabilirim” de.
+18ph9d31dnx R’nin fiyatı yükselir, nominal gelirin 1.200 kalır
+u5hmssfkiz pR = 150’den sonra L = 30 − 3,75R. Dikey kesişim 30’da kalır, yatay olan 10’dan 8’e geçer. Yeni seçim (R,L) = (4,15). Farksızlık eğrileri kesin örneklerdir, parçalar yaklaşık görsellerdir.
+znv3sw2dd0 Yeni bütçe: L = 30 − 3,75R
+1w7rcv5uaf6 Aynı gelir, R daha pahalı: satın alma gücü azaldı.
+261h0tj0omp Yeni farksızlık: U = 60
+m2845c3fiy Yeni optimumda LR = 75 yerine 60.
+ewlwu1q34k Eski seçim
+f3ozoujljx Yeni seçim
+1uezu8vt0p9 pR = 150’den sonra, U = LR ve I = 1.200 ile hangi R optimaldir?
+klxixvr416 Harcamanın yarısı, 600, R’ye gider: 600/150 = 4.
+r2pfsamzen Bu fiyat artışından sonra nominal gelir…
+2cicp68048h 960, çünkü fayda %20 düştü
+mkuz9cmcew Sıralı (ordinal) bir fayda, memnuniyet kaybını otomatik olarak nominal gelire çevirmez.
+1umxpt5dd85 Önceki gibi 1.200
+koohwxr4tl Fiyat satın alma gücünü değiştirir, verili I tutarını değil.
+1t1pf4dwjcy Fiyat iki kapıdan etki eder
+a9h6l0bwtn R pahalılaşınca L’ye göre daha az cazip olur: L’ye doğru ikame edersin. Aynı gelir ayrıca daha az toplam tüketime izin verir: bu gelir etkisidir. Bu örnekte L üzerindeki toplam etki sıfır olsa bile bu iki gücün olmadığı anlamına gelmez.
+21t0jg5plfi İkame etkisi: telafi edilmiş faydada göreli fiyata tepki. Gelir etkisi: satın alma gücündeki değişime tepki. Ayrıştırma, açıkça belirtilmiş bir telafi referansı gerektirir.
+ddojyih39y Yeni fiyat oranı, telafi olarak para alsan bile R’nin L cinsinden maliyetini değiştirir.
+utdn3k2ous Satın alma gücündeki düşüş olanakların daralması gibi etki eder.
+1n90c3c2m70 U = LR için L normal maldır: L’ye doğru ikame ile L üzerindeki negatif gelir etkisi birbirine zıttır ve bu durumda birbirini dengeler.
+1mk5xh25wbh Temel A2: L = 15, R = 5. pR = 150’den sonra: L = 15, R = 4. Değişmeyen L “hiçbir etki yok” anlamına gelmez: kısmi etkiler birbirini dengeleyebilir.
+lagumyv8o0 Artışın bir kısmı sana geri ödense bile bir R hâlâ 3 yerine 3,75 L tutar. Bileşimi değiştirmek için hâlâ bir nedenin var.
+wyrnm9oqkt pR’deki artıştan sonra bir para transferi eski memnuniyetini geri getiriyor. Göreli fiyat ortadan kalktı mı?
+1v3mo45dph9 Evet, telafi fiyatın tüm etkilerini ortadan kaldırır
+x5daibt59x Göreli fiyatları geri getirmeden memnuniyet düzeyini geri getirebilir.
+1s0o2iesllb Hayır, R görece daha pahalı kalır
+cfey6nqlyc Transfer bütçeyi paralel kaydırır; eski eğimi geri getirmez.
+21ix1xqpjyw Eski sepeti yeniden almak mı, eski faydaya kavuşmak mı?
+1zslbbmu38x İki telafinin adı benzer ama aynı şeyi vaat etmez. Biri, yeni fiyatlarla tam olarak eski sepeti finanse eder. Öbürü, yeni bir sepet seçerek eski memnuniyete kavuşmaya yetecek kadarını verir; yeniden seçmek eskisini kopyalamaktan daha ucuza gelebilir.
+1i6zso17s7i “Eski sepet erişilebilir” ile “eski faydaya tam ulaşıldı” ayrı ölçütlerdir. Yeniden seçimle kesin iyileşme düzenli koşullar gerektirir; genel güvence “daha kötü değil”dir.
+eclbrn3286 Yeni göreli fiyat genellikle eski sepeti uygunsuz kılar.
+1ub56vgu78e Eski sepet erişilebilirse en iyi yeni seçim ondan kötü olamaz.
+2ep7gg6y8cc Kesin dışbükeylik ve eski iç çözüm varken yeniden seçim kesin olarak daha iyi olabilir; köşelerde sistematik olarak kesin bir iyileşme vaat etme.
+xackl2yqg8 Yeni fiyatlar 40 ve 150’de eski (15,5) 1.350’ye mal olur. I = 1.350 ile yeni optimum L = 16,875, R = 4,5, U = 75,9375 > 75. Tam U = 75’e ulaşmak I = √(4×40×150×75) ≈ 1.341,64 gerektirir, yani eski sepeti finanse etmek için gereken 150’ye karşı ≈ 141,64’lük bir transfer.
+1rf2whm1xl6 150 fazlasıyla eski sepetini aynen alabilirsin. Ama alımlarını yeniden düzenleyerek eski memnuniyete biraz daha azıyla ulaşabilirsin.
+10cfqz96vr0 pL = 40 ve pR = 150’de eski sepet (L,R) = (15,5) kaça mal olur?
+1qnhuspn88x Bir transfer eski sepeti erişilebilir kılarsa hangi genel güvence vardır?
+1uuu2k62z5j Tüketici tam olarak eski sepeti almak zorundadır
+1wzgu0qn1b3 Erişilebilirlik, bileşimi kopyalama zorunluluğu değildir.
+194oqvqjuh3 En iyi yeni seçim en az eskisi kadar iyidir
+xyaft8ov5o Her zaman eski sepeti yeniden alabilir, bazen daha iyisini yapabilir.
+u1439q52p9 Bir köşe teğetliğin yerini aldığında
+s9esq0tyx Şimdi iki içeceğin senin için tam ikame olduğunu varsay. Biri euro başına daha fazla memnuniyet sağlıyorsa her şeyi ona harcarsın. Güzel bir iç teğetlik mutlaka yoktur: bütçenin kenarı doğru yer olabilir.
+ca6760xiut Tam ikameler U = a·x + b·y: a/px ile b/py’yi karşılaştır. Oranlar farklıysa köşe; eşitse bütçedeki tüm sepetler optimaldir.
+1wq9gn9cizh MU’lar sabittir: daha iyi maldan daha fazla almak göreli üstünlüğünü azaltmaz.
+cxf5jabcz2 Oranlar hiç eşitlenmiyorsa içeride yeniden dengelemeye gerek yoktur.
+qkrita3x1z Oranlar eşitse harcamayı kaydırmak faydayı değiştirmez: seçim tek değildir.
+n36px4t96c Kurgulanmış örnek: U = 2x + y, I = 12, px = 2, py = 2. Euro başına kazanç: 0,5’e karşı 1. x = 6, y = 0, U = 12 seç. px 4 olursa iki oran da 0,5 olur: tüm bütçe doğrusu optimaldir.
+158kpgbsxjr İki uygulama tam olarak aynı işi yapıyorsa ama biri aynı fiyata iki kat hizmet sunuyorsa, her birinden biraz almana gerek yoktur.
+2ctmgyam2ck U = 2x + y, I = 12 ve px = py = 2. Optimal x nedir?
+pldfkhbryp 2/2 > 1/2: tüm harcama x’e gider, yani x = 12/2 = 6.
+c1cgosswhf Tam ikameler için a/px = b/py ise ne biliriz?
+22vum5ei4e9 x = y zorunlu olarak tek optimumdur
+2ci2y5gdu39 Birimlerin eşitliği için hiçbir tercih verilmemiştir.
+1q2jirwy4qo Bütçedeki her sepet optimaldir
+ksso1gxl0d Harcamanın iki kullanımı da tam olarak aynı kazancı getirir.
+1zenub5a5e Köşe değil kırılma gerektiğinde
+rdlxtki3ci Sağı olmayan bir sol ayakkabı ek bir çift oluşturmaz. Malları sabit bir oranda birlikte tüketiyorsan, eşi olmayan bir birim hiçbir şey katmaz. O zaman yararlı oranın korunduğu kırılma noktasını ararsın.
+1c1m1uswq06 Tam tamamlayıcılar U = min(x/a, y/b): etkin seçimde x/a = y/b. 1:1 çiftlerle x = y = I/(px + py).
+1ye1ys808uu Tam bileşenlerin en küçük sayısı kullanılabilir set sayısını sınırlar.
+1eblvbwazlo Fazladan bir bileşen almak setleri artırmadan bütçe harcar.
+2r2tx8999u Oran kuralı bütçeyle birlikte en yüksek erişilebilir kırılma noktasını belirler.
+1b0jmtonmi0 Kurgulanmış örnek: U = min(x,y), I = 30, px = 2, py = 3. x = y ve 2x + 3y = 30 ⇒ x = y = 6. (9,4) sepeti de 30’a mal olur ama yalnızca U = 4 verir.
+1c9ezzo8l1f Bütçe bitti diye dokuz sol ve dört sağ ayakkabı almazsın: yalnızca dört çift işe yarar.
+9d3dtabmir U = min(x,y), I = 30, px = 2, py = 3. Kaç optimal çift?
+ghqrxu4enp Bir çift 2 + 3 = 5 tutar; 30/5 = 6.
+1ynz7xek3mf çift
+1ddo26zuntt Soru “her zaman sabit oranda tüketilir” diyor. İlk yöntem?
+89fddp0v4r Her zaman MUx/MUy = px/py, sonra düzgün teğetlik
+d2calwch8d Düzenli iç koşul evrensel değildir.
+17h2qaayamp Kırılmada oran + bütçe
+1uxtffa2cy8 Tercihler kırılma noktasında düzgün değildir; olağan bir teğetlik geçerli olmaz.
+fhjauhfq4m Seçimlerinden bir talebe: doğru şeyi değiştir
+v8fuv0nje0 Artık bir sepet seçmeyi biliyorsun. R talebini kurmak için bu seçimi gelir ve pL sabitken R’nin birkaç fiyatında tekrarla. Bir Engel eğrisi için fiyat yerine geliri değiştir; bu iki eğri farklı sorulara cevap verir.
+zao13klb63 Bireysel talep: R*(pR), I ve pL sabit. Engel eğrisi: R*(I), fiyatlar sabit. Özel piyasa talebi negatif olmayan bireysel seçimleri yatay olarak toplar.
+q0kczomeue Tercihler tek başına bir alımı tanımlamaya yetmez; kısıtlar erişilebilir seçimi belirler.
+1jxil1ak6y Bir fiyatı değiştirmek ve geliri değiştirmek bütçeyi iki farklı şekilde değiştirir: dönme ve paralel kayma.
+19zchgezym9 Bireysel alımlar sonra aynı fiyatta toplanır; katılmayanlar için sıfır alınır.
+fdtdcx7mi6 U = LR ve I = 1.200 için R*(pR) = 600/pR: 100’de R = 6; 120’de R = 5; 150’de R = 4. pR = 120’de sabitken I = 1.440, R = 6 verir: bu farklı bir Engel noktasıdır.
+ixppy2x3bw “6 R alıyorum”u iki şekilde açıklayabilirsin: ya R daha ucuz ya da sen daha zenginsin. Aynı sonuç nedenleri aynı kılmaz.
+1pbvpl289go U = LR, I = 1.200, pR = 100. Optimal R nedir?
+17zydhvdlsa 600 R’ye gider; 600/100 = 6.
+204gxh1pv8s Engel’i çizmek için şunu değiştirirsin…
+2am8g159qzb Gelir sabitken R’nin fiyatı
+1jmu4ghhjog Bu R talebinin kurulmasıdır.
+16efyfi4gut Fiyatlar sabit tutularak gelir
+1xoighmvxlb Bu, kaynaklar ile seçilen miktar arasındaki ilişkiyi ayırır.
+11zmlgn0xqa Fayda bir sırayı temsil eder; arzuladığın şey henüz uygulanabilirliğe bağlı değildir.
+t5jthkmxo8 Fiyatlar ve gelir bütçeyi belirler.
+154k2zo505f Bir kullanım euro başına daha fazla MU getiriyorsa harcamayı kaydırmak kârlıdır.
+3uv9bx2hu4 İç teğetlik, köşe ve kırılma birbirinin yerine kullanılamaz.
+2g8h39b5bot Bir fiyat değişikliği kısıtı değiştirir ve nominal geliri değiştirmeden sepeti değiştirebilir.
+wxv7ypdwbw (20,4) sepeti kısıtsız listede tercih edilir ama mevcut 1.200’ün ötesinde 1.280’e mal olur. U = LR için içeride son euro iki malda da aynı faydayı getirmelidir: L/120 = R/40, yani L = 3R. Bütçeyle L = 15 ve R = 5. pR 150’ye çıktığında nominal gelir 1.200 kalır ama satın alma gücü düşer; seçim L = 15, R = 4 olur ve U 75’ten 60’a iner.
+14isc0ousqh Sepetleri tercihlerle sırala
+t7l0ligg3y Seçimi erişilebilir sepetlerle sınırla
+qtfuroxb2r Euro başına marjinal kazancı karşılaştır
+fmoyfloq3l Tercihlere uygun yöntemi seç
+wu1e8fx2yi Kontrol et, sonra bir şoktan sonra seçimi yeniden yap
+cqut9yq90f Bir arkadaşına daha faydalı olsa da (20,4)’ün neden A2’nin seçimi olmadığını açıkla. Sonra optimal sepeti ve pR 150’ye çıkınca neyin değiştiğini açıkla. Kısaltmalardan önce kendi sözlerini kullan.
+22plty01tvh Önce erişilebilirlik
+12agtqnic5t 1.280, 1.200’lük bütçeyi aşar.
+wgkekuaw6z Son euroda aynı kazanç
+szthopfcx3 MU/fiyat farklı olduğu sürece yeniden dağıtım U’yu artırır.
+ui3qfkrsit Teğetlik ve bütçe birlikte
+15rqcsfvahx L = 3R ve ardından bütçe L = 15, R = 5 verir.
+1mbmkqlq174 Aynı gelir, değişen seçim
+118gocdx2dz pR = 150, R = 4 verir; I 1.200 kalır.
+5d9ndgaxxz U sıralıdır: bir mutluluk oranı değil, bir sıralama karşılaştırılır.
+o7wnd4d3vb I 1.200 kalır. R pahalılaşınca düşen satın alma gücüdür.
+hgq9yddh7o Teğetlik düzenli bir iç noktayı varsayar. Tam ikameler ve tam tamamlayıcılar köşe ya da kırılma gerektirir.
+1azu4gcw4em A2.2 ve §4.6 yapısına göre kurgulanmış alıştırma. Değiştirilen fiyatlar ve telafi didaktik varyantlardır; resmî bir puanlama iddiası yoktur.
+12r99l9m0lz U = xy, pozitif fiyatlar ve iç çözümü tanımla.
+9o9vp6mmx6 MUx/px ile MUy/py’yi eşitle, sonra tüm bütçeyi kullan.
+1p305x7dmjp Şoktan sonra I’yı sabit tut; sepet telafisini fayda telafisinden ayır.
+t30lr8jlhn Sonra: x = 120/4 = 30, y = 120/15 = 8, U = 240.
+26aqgjhvwi4 I = 270 ile yeniden seçim: x = 33,75, y = 9, U = 303,75 > 300.
+r9sigvdi35 x yatay ve y dikey: başlangıç kesişimleri 60 ve 20, eğim −1/3.
+26qonmxj8e7 py = 15’ten sonra: x kesişimi 60 değişmez; y kesişimi 16 ve eğim −4/15.
+1q05g39z7zy Telafi edilmiş bütçe eski sepetten geçer ama yeni eğimi korur.
+ttfl8dme7w R yatayken MRS_RL şu demektir…
+di3kp7o4sa Bir L için zorunlu olarak vazgeçmen gereken R
+1mmjz2uria7 Bu, eklenen malı ve eksenleri tersine çevirir.
+1927p3enfpc Sabit faydada bir R daha için vazgeçmeye razı olduğun L
+ajzy01bpyq Oran tercihlerden gelir; piyasanın istediği fedakârlık fiyatlardan gelir.
+zbit5w21v3 Sıralı fayda: artan bir dönüşüm…
+akge7drmxr Her sayısal farkı zorunlu olarak korur
+1bajfebce4r Aralıkların kardinal bir anlamı yoktur.
+1cgvdrf3573 Sepetlerin sıralamasını korur
+1eh1ev12h1r Sırayı değiştirmeden sayıları değiştirir.
+rxetqh44bz İç optimumda neden MU/fiyat eşitlenir?
+w14vbg1v12 Çünkü iki miktar eşit olmalıdır
+rx4k61ipso Fiyatlar ve tercihler farklı miktarları haklı çıkarabilir.
+1s7v4o1um0i Yoksa harcamanın kaydırılması faydayı artırır
+1jm5jgcnivm Yeniden dağıtım sırasında bütçe sabit kalabilir.
+1pl1cgxn694 Bir malın fiyatı artıyor, I sabit. Azalan şey…
+uj12s96jv9 Tanım gereği nominal gelir
+1yhfwq4dpod Nominal gelir, değişmeden verilen I para tutarıdır.
+age6si6mq6 Satın alma gücü, mutlaka nominal gelir değil
+gypmw03em0 Aynı tutar daha azını alır.
+2162g63uirz U = xy, I = 100, px = 5, py = 10. x*’ı bul.
+4x73bnbgnn x’e harcama 50’dir: x = 50/5 = 10.
+1fej26q5q45 U = min(x,y), I = 48, px = 3, py = 5. x* = y*’ı bul.
+w3i56rddpt Bir çift 8 tutar; 48/8 = 6.
+a9w17fzejg U = 3x + y ve px = py = 1. Yöntem ve seçim?
+27lq9145wmy Zorunlu olarak bir iç teğetlik aramak
+gzds3c33qg Miktarlar değişince MU’lar yakınsamaz.
+1lzbnrfig1z MU/fiyatı karşılaştır; tüm bütçe x’e
+1bqro90hp5s Tam ikameler oranları sabit tutar; 3 > 1.
+lrz2mymsdx Bir şoktan sonra eski sepeti erişilebilir kılmak şunu güvence eder…
+1b652382358 Her durumda kesin olarak daha yüksek memnuniyet
+274s0alfipk Kesin iyileşme daha fazla koşul gerektirir; köşeler eşitlik verebilir.
+twsh3vudar En az eski sepet kadar iyi yeni bir optimum
+1ezhaxmfup Tüketici bu sepeti ya da daha iyisini seçebilir.
+yas75wu4al Relative prices
+24wwkzy299m A price increase necessarily lowers nominal income.
+rqhchvi1u6 Bu, para tutarını onunla alınabilecek şeyle karıştırır.
+p5o6xgt6r5 A higher price can lower purchasing power while nominal income remains constant.
+11oev1gg5bi Fiyat ve nominal gelir ayrı verilerdir.
+1cvcpatt9a7 Erişilebilir sepetleri sıralamadan önce maliyeti kontrol ederim.
+vio1xwm9lt Kısıtsız tercih edilen sepet bütçeyi aşabilir.
+20mlpkd6mq8 MRS’yi eksenler ve bir birimle tanımlarım.
+indq0sf4j5 Eksenleri değiştirmek ilgili oranı tersine çevirir.
+1no6soyjdbb Bir teğetliği ezberden okumak yerine son euroyu yeniden kurarım.
+1axg6s13ltb Optimal olmayan bir sepeti iyileştirecek sapmayı açıklayabilirim.
+be8jn34bit İç nokta, köşe ve kırılmayı ayırt ederim.
+eamcbgkgau Tam ikameleri ve tam tamamlayıcıları tanırım.
+hyzjczr1mb Nominal geliri, satın alma gücünü ve ikameyi ayırırım.
+9o86xhvp8c Telafi göreli fiyatı otomatik olarak geri getirmez.
+1tn42hjdwvt U’yu bir mutluluk miktarı gibi ele almam.
+2gltxx8awrg Sıralama ordinaldir; sayısal bir oran göreli refahı ölçmez.
+1feozkmwc30 Esneklikler — yüzde olarak ne kadar tepki verilir?
+nbquag86xn Orantılı tepki, işaretler ve zaman ufku
+2fwaahnmlc3 Bir fiyat artışı hasılatı artırabilir ya da düşürebilir. Alıcıların tepkisini ölçmeyi, doğru işaretleri korumayı ve bir yaklaşımın artık yetmediği anı tanımayı öğreneceksin.
+1qmnl62v4c Sürücüler
+1u4x1fh71fr benzin tüketimlerini seçerler
+csrbw4koaj yolculuklarını ve harcamalarını fiyatlara uyarlamak
+2dfxpdu2j8x Satıcı
+1iowku0jgxu satışlarının tepkisini gözler
+1s97rbarrzr hasılatını kârıyla karıştırmadan anlamak
+26fo4n5h46o tepkileri yüzde olarak karşılaştırırsın
+1z43auyxvd3 işareti, tabanları ve modeli tutarlı tutmak
+2c821mmr1xn Yetkili makam
+qzuwq737yb bir benzin azaltım hedefi düşünüyor
+ok167gifdl gereken fiyat artışını ve sınırlarını öngörmek
+2j9qvxvaht Aynı fiyat artışı, aynı tepki özgürlüğü değil
+1wgifdaetgc Benzinin fiyatı yarın artıyor. Bir yolculuktan vazgeçebilirsin ama arabanı ya da evini hemen değiştiremezsin. Birkaç yıl içinde daha fazla seçenek mümkün olur: tepkiyi ölçmek zaman ufkunu belirtmeyi gerektirir.
+dvbgir3xtk Esneklik, miktarın bir belirleyiciye orantılı duyarlılığını ölçer. Noktaya, piyasaya ve zaman ufkuna bağlıdır; ürünün değişmez bir özelliği değildir.
+287trv2mrxs Litre cinsinden aynı değişim, küçük ve büyük bir tüketici için aynı uyum anlamına gelmez.
+1zoevs0o07k Yüzde cinsinden bir ölçü, değişimi başlangıçtaki tüketime oranlar.
+1ih5lbk0s9o İkame olanakları zamanla genişler, bu yüzden miktar tepkisi büyüyebilir.
+21m4q0dy3yd A2 benzin için εSR = −0,25 ve εLR = −0,60 verir. %5’lik bir fiyat artışında yaklaşım kısa dönemde Q −%1,25 ve uzun dönemde −%3 verir.
+17ugj8vfm5h Yarın daha az yolculuk yapabilirsin; gelecek yıl daha az yakan bir araba seçebilirsin. Model hangi karardan söz edildiğini bilmelidir.
+1sploso9p3 Benzin uzun dönemde neden daha esnek olabilir?
+21lhgk878mj Çünkü negatif bir esneklik zamanla zorunlu olarak pozitif olur
+1ryn5ffbg6a İşaret, fiyat–miktar tepkisinin işareti olarak kalır; çoğu zaman büyüyen mutlak değerdir.
+7nycjev7qo Daha fazla ikame olanağı erişilebilir hâle gelir
+132qsf1qjaj Araç, konut ya da yolculukların düzeni değişebilir.
+23nunzm9bol Kısaltmadan önce: iki yüzdeyi karşılaştırmak
+1c7gl7c1noa Satışlar altıdan dörde düşerse iki birim kaybetmişsindir. Ama altıda iki yüzde iki değil üçte birdir. Birden ikiye çıkan bir fiyat yüzde yüz artmıştır: ham sayıları değil, orantılı değişimleri karşılaştır.
+t6xw4et6ma Başlangıç tabanı kuralı: ΔQ/Q0 ve Δp/p0. Kesikli esneklik bunların oranıdır; kural iki yüzdede de aynı kalmalıdır.
+bsj4py9anz Mutlak bir değişim seçilen birimlere bağlıdır: litre ya da mililitre farklı sayılar verir.
+15ofa60cyn8 Yüzde değişim başlangıç değerine böler ve bu ölçek sorununu ortadan kaldırır.
+whzrvfk781 İşaretler yönü tanımlar: düşen miktar ve artan fiyat negatif bir oran verir.
+1mk9pur1eby Önce “başlangıçtaki altıdan iki birim kaybedildi” yazarsın, sonra bunu iki katına çıkan fiyatla karşılaştırırsın.
+7qvc06ngl4 Q: 6 → 4, p: 1 → 2. Başlangıç tabanlarıyla esneklik ne?
+1f3w161ezyd (−2/6)/(1/1) = −1/3. Negatif işaret gereklidir.
+seee7h6jwg −2/1 mutlak değişimlerin oranıdır. Q0 ve p0 tabanları eksik.
+upwtpeor22 Fiyat arttığında miktar düşer: negatif işareti koru.
+dynsdyp6et Nokta formülünü birimlerle hak et
+93ja1cyfa9 Bir türev, fazladan her euro için kaç satış birimi kaybettiğini söyler. Bu henüz bir yüzde değildir. Başlangıç fiyatıyla çarpıp başlangıç miktarına bölmek bu tepkiyi fiyat yüzdesi başına miktar yüzdesine dönüştürür.
+197qig2mx0w Talebin nokta fiyat esnekliği: εD = (dQ/dp)·(p/Q). Birimsizdir. Birden çok belirleyici varsa uygun kısmi türevi kullan.
+1thojow9yxj dQ/dp euro başına birim cinsindendir. Hangi çarpan onu birimsiz orantılı bir duyarlılığa çevirir?
+i2g5x0wejp (birim/€) × (€/birim): birimler sadeleşir.
+6blnvgx8nj Birimler sadeleşmez; gereken çarpanın tersini elde edersin.
+yozmauqbwu Bu, değişimleri düzeylerle normalleştirmez.
+1nwavxbx6y4 dQ/dp küçük bir fiyat artışına mutlak bir tepkiyi gösterir.

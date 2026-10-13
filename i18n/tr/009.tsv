@@ -1,0 +1,218 @@
+24cjl9qyls8 Birimler sadeleşir ve noktadaki düzeyler hesaba katılır.
+1frafkodfnj εD = −2, küçük fiyat artışı. R neden düşer?
+27o4fr3f186 Fiyat satılan birimlerde hiçbir kazanç getirmez
+g5h2x3gv9s Bu kazanç vardır ama hacim kaybı onu aşar.
+215pf9y5qea Satışlardaki orantılı düşüş birim başına kazancı aşar
+1po8o6b3kgk Q = 30 − 2p. p = 5’te εD’yi hesapla.
+90e7xwcswm εD = −1,5; fiyat −%10. Q’daki yaklaşık değişim % olarak?
+1yser2ep301 Q = A·p^−1. Q’yu %20 azaltmak için kesin fiyat artışı % olarak?
+18xxpae4lms Sabit bir doğrudan eğim sabit bir esnekliği garanti eder mi?
+1gm5ucnurx2 Evet, bir doğrunun her yerde aynı orantılı duyarlılığı vardır
+6xg9wvnvai Kaybedilen aynı birim büyük ve küçük bir miktarda aynı ağırlığı taşımaz.
+17rj2x2o5ze Hayır: p/Q eğri boyunca değişir
+y7wje55917 Eğim ε’nin yalnızca bir çarpanıdır.
+1pjw4mpqwtu Satışlar güçlü tepki verebilir ve kâr için maliyetler eksiktir.
+jpftf7zyhe Miktar tepkisi orantılı olarak daha zayıftır.
+19psnh3mjma Constant derivative
+1jqm7nlxzlu Changing p/Q
+1t00j8nbl6 Değişen değişkeni ve zaman ufkunu tanırım.
+3fbmmqisvx Kendi fiyatı, çapraz fiyat ve gelir aynı sınıflandırmayı vermez.
+130eriyf24k ε’yi türev ve p/Q ile bulurum.
+9700epne2e Formülü yüzdeler ve birimlerle gerekçelendirebilirim.
+1ck18vxklw8 Büyüklüğü ve negatif sıralamayı karıştırmadan işareti korurum.
+20gm99e0lxm Elastiklik |ε| > 1 ile değerlendirilir.
+1tqtn0bpvm2 Eğimi esneklikten ayırırım.
+29k4f0ebrok Doğrusal bir talebin tek bir esnekliği yoktur.
+16lbi5ydkop Yaklaşım, yay ya da kesin olduğunu belirtirim.
+6pxbc47a25 Büyük bir değişim farkı önemli kılabilir.
+secz1p12m7 Esnekliği bir kâr vaat etmeden R’ye bağlarım.
+19rlxlql52j Kâr, maliyetleri ve problemin diğer koşullarını gerektirir.
+4kcm3902vl Üretim ve maliyetler — üretmeli mi, neyle ve ne kadar?
+1ydjlv5ccj0 Teknoloji, asgari maliyet ve firmanın kararı
+2abjtlra08x Ek bir işçi ortalama üretimi eklemez. Zarar her zaman kapanmak demek değildir. Bu kararları yeniden kuracak, atölyeyi, maliyetlerini ve piyasa arzını birbirine bağlayacaksın.
+fsan1r4hfj Müşteriler
+128g84vtcu0 piyasa fiyatından alırlar
+z0bukuzc1u homojen bir ürün için aynı fiyatı ödemek
+212tox9g63b Sen, atölye sorumlusu
+2abkw4k113d önce girdileri, sonra miktarı seçersin
+1oh7p0lf7hj asgari maliyetle üretmek ve iktisadi kârı maksimize etmek
+105gicghwwy İşçiler ve makine sahipleri
+noqfck2y0w L ve K’yı w ve r fiyatlarından sağlarlar
+29xtcckh1iz kullanımları ve en iyi alternatifleri için ücret almak
+1y32vpgqb7u teknolojiyi, maliyeti ve zaman ufkunu ayırırsın
+253q98ylt0j doğru alternatifi karşılaştırmak: üretmek, durmak ya da çıkmak
+lq6z5hzf2x Kârdan önce gerçek bir üretim vardır
+elyhqfbqvz Küçük bir atölye yönetiyorsun: L işçileri ve K makineleri Q birim üretir. İki soru birbirini izler. Önce “hedef miktarı en düşük maliyetle hangi karışımla üretirim?”, sonra “piyasa fiyatından hangi miktarı satmaya değer?”.
+f1axagc9na Teknoloji Q = f(K,L). Q’ya koşullu maliyet minimizasyonu, sonra π(q) = pq − C(q)’nin maksimizasyonu. Firmanın miktarı q, piyasanın toplam miktarı Q’dan ayrıdır.
+2er6djt7a6w Teknoloji, satış fiyatlarından önce fiziksel kaynakları çıktıya bağlar.
+oi5g7jt0hl Girdi fiyatları fiziksel bir karışımı parasal harcamaya dönüştürür.
+xkg0g6f967 Çıktı fiyatı sonra hasılatı maliyetle karşılaştırmaya izin verir; bu aynı seçim problemi değildir.
+rkmh046ob Kurgulanmış durum Q = √(KL): K = 20 ve L = 5, Q = √100 = 10 üretir. w = 4 ve r = 1 ile bu karışım 4×5 + 1×20 = 40’a mal olur.
+1ao88at07t7 Hangi kaynakları gerektirdiğini bilmeden kârlı bir miktar belirleyemezsin; teslim edilecek çıktıyı unutarak kaynakları minimize edemezsin.
+2gea0n5zb68 10’u asgari maliyetle üretmek
+21tvnoz0avf L, emek birimi
+1krb8bsvbb K, sermaye birimi
+xiu3bkk5q3 Kurgulanmış örnek Q = √(KL), hedef Q = 10, w = 4 ve r = 1. Eş ürün eğrisi K = 100/L: birleştirilmiş kesin noktalar, parçalar yaklaşık görseller. Kesin eş maliyet doğrusu K = 40 − 4L. Minimum (L,K) = (5,20), maliyet 40.
+v4k5guyjst Eş ürün eğrisi Q = 10
+7ij0srb86v Her noktada KL = 100, yani Q = 10.
+9eqr4004or Eş maliyet C = 40
+23tonuvu2od Her nokta 4L + K = 40’a mal olur. Bu maliyetle yalnızca (5,20) Q = 10’a ulaşır.
+syocdos6u1 Asgari maliyet: L = 5, K = 20
+19koni70si1 Q = 10 için maliyeti minimize etmek şu demektir…
+58jlq615i9 Daha az tuttuğu için Q = 0’ı seçmek
+2g8qlbkoog8 Bu hedef miktarı ihlal eder. Miktarı seçmek kâr problemine aittir.
+11wdba15yvf 10 üretebilen en ucuz girdileri seçmek
+1ergk6qh9np Bu ilk problemde çıktı dayatılmıştır.
+240xiwywwli Onuncu işçinin kattığı
+135pmozhnv3 Tüm üretimi son işçiye yükleme. Katkısı yalnızca, makineler sabitken atölyenin onunla ve onsuz ürettiği arasındaki farktır. Ortalama başka bir soruya cevap verir: mevcut işçi başına ne kadar üretiliyor?
+1zmegit8uth Kesikli marjinal ürün MPL = ΔQ/ΔL, K sabit. Ortalama ürün APL = Q/L. Sürekli: MPL = ∂Q/∂L.
+14kk5pg86kg İşe alma kararı, bir kişi daha ile neyin değiştiğiyle ilgilidir.
+7slfcn9stm İşe almadan önce zaten mümkün olan üretim ona yüklenmez.
+26cu8poop2w Bir ortalama tüm işçileri birleştirir; bir sonraki işe alımın kazancını ölçmez.
+zntfmhrm9v L5: L = 9’da Q = 50; L = 10’da Q = 54; L = 11’de Q = 56. Onuncu 4, on birinci 2 ekler. L = 10’da ortalama 54/10 = 5,4’tür.
+1w3bf9lsncf On birinciyi işe almadan önce “iki birim daha ücretine değer mi?” diye sorarsın, “56/11 büyük görünüyor mu?” diye değil.
+rblv24hyte L 9’dan 10’a çıktığında Q 50’den 54’e çıkıyor. Onuncu işçinin ürünü ne?
+248gsnct9qr 54 − 50 = 4, K sabit.
+2dzmdoowg5n birim/işçi
+ao3bll0ltw L = 10 ve Q = 54’te ortalama ürün ne?
+1cerjja15gd APL = Q/L = 54/10 = 5,4. Bu, marjinal ürün 4 değildir.
+5garg25yh3 4 onuncunun katkısıdır; ortalama 54’lük üretimin tamamını ve on işçiyi kullanır.
+fyuoa4qi8b İşçi marjinde maliyeti kadar getirmelidir
+ger0ju17hr Bir işçi fiziksel olarak üretken olup istenen ücretle kârlı olmayabilir. Ek çıktısını satış fiyatıyla çarparak hasılata çevir, sonra ücretle karşılaştır. Bu, atölyenin verili fiyattan fiyatı değiştirmeden satabildiğini varsayar.
+21ie3d1oxwc Fiyat alıcı firma: marjinal ürün değeri p·MPL; p·MPL > w olduğu sürece işe al. İçeride p·MPL = w. Piyasa gücü varsa MR·MPL kullan.
+1o1sw3wmgkl MPL işçi başına çıktı, ücret işçi başına para cinsindendir: bir dönüşüm gerekir.
+23aizcw1w0w MPL’yi p ile çarpmak, satış fiyatı veri kaldığı sürece eklenen hasılatı verir.
+18ijeck2wpb p·MPL = w’nin ötesine geçmek, son işe alımın getirdiğinden fazlasına mal olurdu.
+nrdsise26d L5’i kurgulanmış fiyat p = 3 ve ücret w = 9 ile yeniden ele al. Onuncu: 3×4 = 12 > 9; on birinci: 3×2 = 6 < 9. Bu artışlar ilgili seçenekleri tanımlıyorsa onuncu maliyetine değer, on birinci değmez.
+hh69mdiqey Dokuzluk ücreti atölyenin toplam cirosuyla değil, ek ciroyla karşılaştırırsın.
+csdbcqboff p = 3 ve on birincinin MPL’si = 2. Bu ek işe alım ne kadar getirir?
+1nmnnflxj6q p·MPL = 3×2 = 6, 9’luk ücretle karşılaştırılacak.
+19ktedl2437 p·MPL = 6 ve w = 9 iken bu işçiyi almak kârı artırır mı?
+zcp160ynkl Evet, çünkü MPL pozitif
+10sbi08s90y Fiziksel olarak pozitif, verili ücretle kârlı demek değildir.
+av0al35ed7 Hayır: maliyetten daha az hasılat ekler
+83f75f4bcz Marjinal katkı 6 − 9 = −3’tür.
+q0cnmsokmh Aynı şeyi başka bir karışımla üretmek
+gpxszq0q3v On birim teslim etmen gerekiyor. Pek çok makine–emek bileşimi bunu sağlayabilir: daha az makine daha fazla emekle telafi edilebilir. Eş ürün eğrisi çıktıca eşdeğer bu karışımları toplar; hangisinin en ucuz olduğunu henüz söylemez.
+wfqdagbrpq Eş ürün eğrisi: f(K,L) = Q̄. L yatay ve K dikeyken eğim = −MPL/MPK; MRTS_LK = MPL/MPK, eklenen L birimi başına tasarruf edilen sermaye.
+10whqdq0xwk Yalnızca girdi karışımını karşılaştırmak için çıktı sabitlenir.
+1fgj4rdt1zh dL eklemek MPL·dL üretim yaratır; dK çıkarmak MPK·|dK| üretim götürür.
+1o4o07pk57y Q’yu korumak MPL·dL + MPK·dK = 0 gerektirir, marjinal ürünlerin oranı buradan gelir.
+1sif7do7d2w Q = √(KL), hedef 10: KL = 100. (L,K) = (5,20) ve (10,10) ikisi de 10 üretir. MRTS_LK = K/L: ilk noktada L başına 4 birim K’dır.
+2dbf7bju3bg Mühendise biraz daha fazla emeğin teslimatı değiştirmeden kaç makinenin yerini tutabileceğini sorarsın; sonra muhasebeciye bunun para tasarrufu sağlayıp sağlamadığını sorarsın.
+2ewtpr7rpd7 Q = √(KL) = 10 ve L = 5. Hangi K gerekir?
+1neitbkn0l6 KL = 100, yani K = 100/5 = 20.
+nsmsekhyic MRTS şununla ilgilidir…
+h9oxmx9wc4 Sabit faydada bir tüketim ödünleşimi
+20slsdgfuhg Bu MRS’dir. Burada aktörler üretir ve eksenler L ile K’dır.
+e5qlynksqp Sabit çıktıda girdiler arasında teknik bir ödünleşim
+5876flzee6 MRS, sabit faydada bir tüketicinin tercihleriyle ilgilidir.
+11yb7f1d5j0 Girdi piyasası da bir eğim sunar
+lwcy0y7h3s Emek w, makineler r tutar. Harcamayı sabit tutarsan bir işçi daha, w/r birim sermayenin çıkarılmasını gerektirir. Eş maliyet doğrusu bu finansal ödünleşimi tanımlar; bir üretim eş ürün eğrisi değildir.
+2fmriwgj8ur C = wL + rK ⇒ K = C/r − (w/r)L. L yatayken eğim −w/r’dir; kesişimler C/w ve C/r’dir.
+1vgz5zi1mvq İki harcama aynı toplam maliyete eşit olacak şekilde toplanmalıdır.
+1rfpv9ks5oe Bir L birimi eklemek w tutar; w/r birim K çıkarılarak finanse edilir.
+1q7djfmfh6e Girdi fiyat oranı piyasadan, MRTS ise teknolojiden gelir.
+1z9iokwkqrt C = 40, w = 4, r = 1: K = 40 − 4L, kesişimler L = 10 ve K = 40. (5,20) 40 tutar; (10,10) 50 tutar ve bu eş maliyet doğrusu üzerinde değildir.
+1eojmiu25fx İki teknik tarif aynı miktarı teslim eder; artık faturalarını aynı kaynak fiyatlarıyla karşılaştırabilirsin.
+2d72yq6yab9 L yatay, w = 4 ve r = 1 iken K(L) için işaretli eğim ne?
+w2iu0hrpoi K = C/r − (w/r)L: eğim = −4/1 = −4.
+1w9umy9lpza w = 4 ve r = 1 ise (L,K) = (10,10) kaça mal olur?
+sfep0p5mg8 Son üretken euronun koşulunu hak et
+2ftassl0yhx Bir euroluk emek bir euroluk makineden daha fazla çıktı yaratıyorsa karışımı biraz yeniden düzenleyebilirsin. Aynı harcamayla daha fazla üretirsin; ya da aynı teslimat için daha az harcarsın. En ucuz iç karışımda hiçbir euro bir girdide ötekinden daha iyi çalışmamalıdır.
+1cm9nx0tw8a İç minimizasyon: MPL/w = MPK/r, yani MRTS_LK = w/r. Ayrıca f(K,L) = Q̄ gerekir ve köşeler, teknoloji ve negatif olmama kontrol edilmelidir.
+s213bk79x5 Hangi eşitlik harcama kaydırmanın karışımı iyileştirmesini engeller?
+1pvs2ww44x0 Her son euro aynı marjinal çıktıyı verir.
+1fnt3vvhckq Fiyat ne olursa olsun MPL = MPK
+bl5yyo6xdw Girdi birimlerini karşılaştırmak her birinin maliyetini yok sayar.
+17m7x9fh6fq Miktarlar fiyatlara ve teknolojiye göre farklı olabilir.
+28v0ylekyi5 Harcamanın yeniden dağıtımı maliyeti korurken çıktıyı değiştirir.
+27ouy7xv3j3 Euro başına marjinal kazançlar farklıysa aynı çıktıya daha düşük maliyetle ulaşılabilir.
+2brmpa90z8z Oran koşulu ve fiziksel hedef iki gerekli ilişkidir: teğetlik tek başına girdilerin düzeyini vermez.
+1pxc0d5exxi Q̄ = 10, w = 4, r = 1: K = 4L ve KL = 100 ⇒ 4L² = 100 ⇒ L = 5, K = 20; C = 40. (10,10) karışımı da 10 sağlar ama 50 tutar.
+2838qusjq9u “Dengelemek” için aynı sayıda makine ve saat almazsın. Euro başına ek çıktılarını eşitlersin.
+240p4c94zkk Q = 10 için en ucuz karışım
+tby37h4dsi Q = √(KL), Q̄ = 10, w/r = 4. Hangi L maliyeti minimize eder?
+1cnrca70s3v Asgari maliyetin iç koşulunu yeniden kur.
+1ghqrfocd7i Teknik ödünleşim MPL/MPK finansal ödünleşim w/r’ye eşit olmalıdır.
+zrhvc1skss Ücret artıyor: aynı hedef teslimatı koru
+24f49f6hww7 İşçiler pahalılaşıyor ama sözleşme hâlâ on birim istiyor. Teknoloji ikameye izin veriyorsa görece daha fazla makine kullanırsın. Yalnızca eski faturayı döndürme: optimal karışım ve asgari maliyet de değişir.
+1p7x7qb4loe Sabit Q’da w’deki artış L’yi görece pahalı kılar. Q = √(KL) için K/L = w/r artar; yeni asgari eş maliyet doğrusu daha yüksektir.
+61t6fzm6m7 Eş ürün eğrisi aynı Q’ya bağlı kalır, dolayısıyla ücretle kaymaz.
+1lkuxfnk5bb Kaynakların göreli fiyatı değiştiği için eş maliyet doğrusunun eğimi değişir.
+ac3fuj4920 Yeni teğet nokta yine dayatılan çıktıyı sağlamalıdır; teknoloji ve diğer fiyatlar değişmezken bir girdi fiyatındaki artış asgari maliyeti düşüremez.
+19j615yv744 Q̄ = 10, r = 1, w: 4 → 9. L* = 10/3 ≈ 3,333; K* = 30; C* = 9×(10/3) + 30 = 60, 40’a karşı. Başlangıç karışımı artık 9×5 + 20 = 65’e mal olurdu.
+6oqzigqrtx 60’lık yeni karışım öncekinden pahalıdır ama eski karışımı korumanın getireceği beş birimlik ek harcamadan kaçınır.
+1xxpewj90ov Emek pahalılaşıyor, hedef çıktı 10 kalıyor
+2dvd6clcdd1 w = 9 ve r = 1’den sonra yeni çözüm L = 10/3 ve K = 30, maliyet 60. Q = 10 eş ürün eğrisi aynı kalır. Yeni asgari eş maliyet doğrusu K = 60 − 9L’dir.
+azfae4fpqd Yeni eş maliyet C = 60, w = 9
+143vqny8nbe L daha pahalı; en iyi karışımla 10 üretmek 40 yerine 60 tutar.
+165kigdy3jw Eski: maliyet 40
+l55j7c4t7j Yeni: maliyet 60
+n5qj20o6f6 Q = √(KL) için Q̄ = 10, w = 9, r = 1. K* nedir?
+21sayateub1 w’deki artıştan sonra Q̄ 10 kalırsa hangi eğri korunur?
+rz3oq9p5t1 Tanım gereği daha düşük çıktılı bir eş ürün eğrisi
+1d54fuy3vzm Bu koşullu problemde firmanın teslimatı azaltma hakkı yoktur.
+1fsrgs6o3sr Aynı eş ürün eğrisi Q = 10
+1g7yb0my55q Burada bir girdi fiyatı ne teknolojiyi ne de hedef teslimatı değiştirir.
+70atmjlfmi Bir faktör daha mı, tüm faktörler mi: iki deney
+2bop3dp98f2 Sabit miktarda makineye emek eklemek giderek küçülen kazançlar verebilir. Makineleri ve emeği aynı anda iki katına çıkarmak başka bir deneydir: atölye bu azalan marjinal ürünlere rağmen üretimini iki katına çıkarabilir. Bir girdiyi sabit tutan bir deneyden ölçek hakkında sonuç çıkarma.
+xr7efhqi70 Azalan marjinal ürün: bir girdi artar, diğerleri sabit. Ölçeğe göre getiri: f(tK,tL)’yi t·f(K,L) ile karşılaştır. Ölçek ekonomileri: uzun dönem ortalama maliyet Q ile azalır.
+22i7u009esn Makineler sabitken daha fazla işçi aynı kapasiteyi paylaşır.
+15ize9hbbim Tüm girdiler arttığında işçi başına kapasite artık mutlaka azalmaz.
+1ph77gp9yv1 Getiriler teknolojiyle ilgilidir; ekonomiler, kaynak fiyatları ve koşulları belirtilmiş uzun dönem ortalama maliyet fonksiyonuyla ilgilidir.
+f996f6pmzh Q = √(KL): K = 4, L = 9, Q = 6 verir; K = 8, L = 18, Q = 12 verir: sabit getiri. Yine de MPL = 0,5√(K/L), K sabitken L ile azalır. Cobb-Douglas K^αL^β için ölçek testi α + β’yı 1 ile karşılaştırır.
+dbh17dc76v Aynı mutfağa bir aşçı eklemeyi, iki kat aşçıyla iki kat büyük bir mutfak açmakla karıştırma.
+jekekwambk Q = √(KL), tüm girdiler iki katına çıkıyor. Ölçeğe göre getiri…
+2d9mko0qh76 Azalandır, çünkü K sabitken MPL azalır
+27u33rfrob1 İki deneyi karıştırıyorsun: burada K de iki katına çıkıyor.
+chxtk6i06k Sabittir: Q iki katına çıkar
+1j4mvr1bj6p Q = K^0,3 L^0,5. Ölçeğe göre getiriyi teşhis etmek için hangi üs toplamı kullanılır?
+8tbf2sux72 0,3 + 0,5 = 0,8 < 1: azalan getiri. Yalnızca emeğin üssü değildir.
+y3ze5l9hjo Toplam, ortalama, marjinal: ayrılması gereken üç soru
+10c43rk8jbl Atölye sabit bir harcama artı üretilen birimlere bağlı bir harcama öder. Toplam “her şey kaça mal oluyor?”, ortalama “ortalama birim başına ne kadar?”, marjinal “küçük bir birim daha kaça mal olur?” sorusuna cevap verir. Bunları bölmek ya da türevini almak dolayısıyla farklı sorulara cevap verir.
+15d6mp7yfgu TC = FC + VC; ATC = TC/q = AFC + AVC; AFC = FC/q; AVC = VC/q; MC = dTC/dq. q = 0’da birim başına ortalamalar tanımsızdır.
+1r6u537or01 Sabit maliyet verili zaman ufkunda q ile değişmez.
+141dmplnb16 Ortalamalar bir harcamayı üretilen birimlere dağıtır.
+1oybm1yfu0i Sabit kısmın türevi sıfırdır: sabitken marjinal maliyet FC’yi içermez.
+m2t8g11hxi L5: q = 2’de C = 30 + q². TC = 34, FC = 30, VC = 4, AFC = 15, AVC = 2, ATC = 17, sürekli MC = 4. Kontrol: 15 + 2 = 17.
+bawdzhzddy 34’lük fatura bir sonraki birimin maliyeti değildir. 17’lik ortalama maliyet de bir sonraki birimin maliyeti değildir.
+27war3wc5re q = 2’de C = 30 + q². ATC nedir?
+qcav6ug7zz €/birim
+c8gjox1hoo C = 30 + q² için q = 2’de sürekli MC nedir?
+i1wruoxmvs MC = dC/dq = 2q, yani 4. Sabit 30’un türevi sıfırdır.
+a805gw372a 34 toplamdır. MC bir türevdir, fatura değil.
+22qjup8re9 17 ortalamadır. Türev 4’tür.
+2ik3ysfg76 Tam bir birim sonsuz küçük bir değişim değildir
+eo3ngkss76 Türev mevcut noktadaki eğimi ölçer. Tam olarak bir tam birim daha üretmek maliyeti tüm geçiş boyunca toplar. Marjinal maliyet iki düzey arasında artıyorsa bu kesikli maliyet başlangıçtaki türevi aşar.
+112c4r1e4u2 Sürekli MC = C′(q). q’dan q+1’e kesikli maliyet: C(q+1) − C(q). MC < ATC ise ortalama düşer; MC > ATC ise yükselir.
+1qg77avxhk0 Türev çok küçük bir değişim için bir limittir.
+15dsfjead3t Tam bir birim üzerindeki fark birkaç marjinal değeri kapsar.
+1h76yqadg9y Yeni eklemenin maliyeti bir ortalamayı kendine doğru çeker, ortalamanın üstünde ya da altında yeni bir not gibi.
+iygb85v34h C = 30 + q²: C(3) − C(2) = 39 − 34 = 5, oysa C′(2) = 4. Öteki örnekte q = 2’de C = 10 + q², MC = 4 < ATC = 7: ATC yerel olarak düşer.
+5qixn0d39r 12’lik bir not 10’luk bir ortalamayı yükseltir, 12 hayal edilebilecek en iyi not olmasa bile. MC, ATC için bu rolü oynar.
+1ot6h4vzboe Bir firma: sonraki birimin maliyeti, ortalama maliyet ve alınan fiyat
+1a5j9e50qif q, firmanın birimleri
+24pqxxt8axi L6 örneği C(q) = 10 + q². MC = 2q; AVC = q; q > 0 için ATC = 10/q + q. Kesin ATC noktaları birleştirildi, parçalar yaklaşık görsellerdir. 12’lik fiyat firma için veridir; q* = 6.
+wnztrphxn9 Marjinal birimin maliyeti; firma onu fiyatla karşılaştırır.
+6fb6fbobf9 Ortalama değişken maliyet: kaçınılmaz FC varken üretmek için hasılatın karşılaması gereken.
+c8cmctqr76 Birim başına toplam maliyet; fiyatla karşılaştırmak kâr ya da zararı ortaya koyar.
+uami8eiki0 Verili fiyat p = 12
+1ugrwuzzzf9 Bu fiyat alıcı firma için MR = p.
+12hja4dvdu1 min ATC ≈ 6,325
+poctr0qj3k C = 30 + q²: q = 2’den q = 3’e geçmenin kesin maliyeti?
+24f8ubxzh3v C(3) = 39 ve C(2) = 34: fark 5, türev 4 değil.
+188970u1ov4 İncelenen noktada MC, ATC’nin altındaysa ATC…
+2bqm842pczg TC arttığı için artar
+ocl9a2dxop Bir toplam, ortalaması düşerken artabilir.
+1xf6x13oz76 Yerel olarak düşer
+1bdgcira950 Marjinal ekleme mevcut ortalamadan daha ucuzdur.
+93cen09ski Fiyat veriyken ne kadar satmalı?
+1iyipdnljtt Müşterilerin birim başına on iki ödüyor ve küçük atölyen bu fiyatı değiştirmiyor. Dolayısıyla bir birim daha on iki hasılat ekler. Marjinal maliyeti on ikinin altında olduğu sürece devam edersin, sonra adayın durmaktan daha iyi olduğunu ve tanım aralığına uyduğunu kontrol edersin.
+yhdb3itf9q Fiyat alıcı: π(q) = pq − C(q), MR = p. İç aday: ilgili bir dalda p = MC(q); q = 0 ve kısıtlarla karşılaştırma.
+1e355qplzd1 Hangi nokta q’daki küçük bir artış ya da azalışın iç kârı iyileştirmesini engeller?
+19nusgym2fv Son birim maliyeti kadar getirir.
+2c01qj9aayx Bu sıfır kârı tanımlar, her fiyatta q seçimini mutlaka değil.
+1rv9p29kddy Sıfır hasılat hedef değildir.
+2k5nhmgrcl Firma p’yi veri kabul ettiği için ek bir birim p kadar hasılat ekler.
+qy698cilxm p > MC ise onu üretmek π’yi artırır; p < MC ise onu çıkarmak π’yi artırır.

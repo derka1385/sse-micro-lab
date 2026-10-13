@@ -1,0 +1,227 @@
+c9gey8ry1n betalningsvilja
+6pe0dbzfj3 det högsta pris en person går med på att betala för en enhet
+u9wy9df7fz marginell reningskostnad
+1hgz0tjnakz vad det kostar att minska föroreningarna med EN enhet till
+1n8jn35e8p0 € per enhet förorening
+j82v8gc1ts Inte ”marginal average cost”.
+xv170gixs2 var(--buyer)
+1552mty4oof var(--producer)
+qsuhiqj38o var(--third)
+2zdqdo7wd1 var(--society)
+dogyfldg5l var(--gov)
+9nvfaayi9c var(--dwl)
+wfzx7d22ck var(--ink-2)
+1exalqr71w9 Utbud och efterfrågan — kaffemarknaden
+1weqh3fa7n7 Två beslut, ett pris, sedan en chock
+1vxodvj8sm7 Vid 4 € tar kaffet slut och vid 8 € blir det stående på disken. Du ska förstå varför, bygga det pris som samordnar alla och sedan flytta rätt kurvor.
+1hnwyodxid0 Studenterna
+1j0o1tt03mx köper kaffe varje vecka
+tie4yjm0ic en dryck som är värd minst vad den kostar
+e8durmcobz Campuskaféerna
+2dore5om0ob säljer en homogen dryck
+hotfbdh612 ett pris som täcker kostnaden för nästa dryck
+ycpqdvd3g7 Observatör
+1mp73ufzda2 Ingen aktiv roll i den här situationen.
+1m569dz98xb Förstå utfallet.
+6kte9mx3w4 Du, analytikern
+2335mafwtxl definierar marknaden och iakttar besluten
+1nyvk94pzdd förklara pris och kvantitet utan att blanda ihop orsak och reaktion
+1ul8mdp1ops Ett anslaget pris, två separata beslut
+1ko23e1iz5i Föreställ dig flera campuskaféer som säljer samma dryck den här veckan. Studenterna bestämmer hur mycket de köper; varje säljare bestämmer hur mycket hen tillagar. Ingen väljer ensam priset för hela marknaden: vi arbetar med pristagande aktörer.
+c9t1ppkleo En marknad definieras av en produkt, ett område och en period. Den enkla konkurrensmodellen förutsätter många aktörer och en homogen produkt.
+jdimvresnj En student kan tacka nej till ett kaffe men kan inte tvinga fram ett pris hos alla kaféer.
+6t0t381asz En säljare har tillräckligt många konkurrenter för att ta marknadspriset som givet.
+9zfkx0cr3e Att definiera marknaden hindrar dig från att jämföra en lokal daglig kvantitet med en nationell årlig efterfrågan.
+162ccqq4cg2 I exempel L2 är QD = 10 − p och QS = p − 2: p i € per enhet och Q i enheter per vecka. Vid p = 6 bestämmer varje sida Q = 4.
+go0rdvyl40 Du är student: du tittar på priset innan du köper. Du är säljare: du tittar på samma pris innan du tillagar. De två planerna kan vara oförenliga.
+eurvapah5t Priset samordnar två beslut
+2gfs8aqmv5h Q, enheter per vecka
+25vnsfiq2s3 p, € per enhet
+jb5ox8quy2 Exempel L2 ur dossiern. Invers efterfrågan p = 10 − Q; inverst utbud p = 2 + Q. Sträckorna motsvarar exakt dessa funktioner för icke-negativa kvantiteter.
+1je0jilrank Efterfrågan: p = 10 − Q
+16tnm9rftxk Höjd = det högsta pris vid vilket den här enheten efterfrågas.
+e2u0u2025w Utbud: p = 2 + Q
+x0pg9wn6lf Höjd = det lägsta pris vid vilket den här enheten bjuds ut.
+255071bhti2 Jämvikt: Q = 4, p = 6
+14e63xlvzpy Vem väljer den efterfrågade kvantiteten i den här modellen?
+1gmhherhsie Säljaren väljer även studenternas köp
+1j8n7dagro0 Hen väljer utbudet, inte andras vilja att köpa.
+67btjb6tt3 Köparna, vid det pris de ser
+2dvi80g5k6i Ja. Priset är givet för varje köpare; efterfrågan beskriver hens reaktion.
+7fenedxx9f Analytikern sätter Q = 4 direkt
+1m04nvd7xti Hen räknar ut var besluten samordnas; hen beordrar inte köpen.
+2wm7b8n1ll Mekanism ur dossiern
+sj5wdyqx1s Vad en efterfrågan betyder
+1ywtnegp3wp Vid 4 € tycker fler studenter att kaffe är värt det än vid 8 €. Vissa avstår en annan dryck; andra behåller sina pengar. Efterfrågan beskriver hur mycket de skulle vilja köpa vid varje pris, med inkomst, smak och andra varors priser oförändrade.
+in4syuo6ru Direkt efterfrågan QD(p) = 10 − p, på sitt positiva definitionsområde; invers efterfrågan pD(Q) = 10 − Q.
+1ptuucew2jq Ett högre pris utesluter köp vars värde är för lågt.
+tssv7hrygj Vi håller de andra bestämningsfaktorerna konstanta för att isolera reaktionen på kaffepriset.
+2avctmo4ckj Hela efterfrågan är ett samband; den efterfrågade kvantiteten är en punkt på det sambandet.
+iowzg4i759 Vid p = 4 är QD = 6; vid p = 8 är QD = 2. Man säger inte ”efterfrågan minskade” om bara p ändras: man går från 6 till 2 längs samma kurva.
+iclket8cum Till lågt pris skulle du ha köpt två kaffe den här veckan. När priset stiger behåller du bara det före din längsta föreläsning.
+1u76xsj62gf Med QD = 10 − p, hur mycket vill köparna köpa vid p = 4?
+hvrodycsbr QD(4) = 10 − 4 = 6 enheter per vecka.
+2fr2l2v1kkk I en graf med Q vågrätt och p lodrätt, vilken funktion ger efterfrågans höjd?
+1wlqo278weo Q = 10 − p måste vara den lodräta axeln
+12amcqazwa5 Q är vågrätt här; skriv om samma samband i formen p(Q).
+1qb7wyupz6 Ja: höjden är ett pris. Direkt efterfrågan ger Q som funktion av priset.
+1ba6vbrp5hx Pedagogisk tillämpning baserad på dossiern
+rfiqxh0pw6 Vad den som tillagar kaffet ser
+17q21fsr4vo För att tillaga mer använder säljarna tid, bönor och ibland en mindre praktisk maskin. De vill bara erbjuda en enhet om priset täcker dess extra kostnad. I den här modellen blir de extra enheterna allt dyrare.
+rrpbb1jfbg Direkt utbud QS = p − 2, alltså inverst utbud pS = 2 + Q. Vid ett givet pris beskriver utbudet de kvantiteter producenterna vill sälja.
+1dbw73n4bqg De första kaffena använder de resurser som är lättast att ta i anspråk.
+1yza43e9nfj Att producera mer kan kräva dyrare resurser; priset måste kompensera den marginalkostnaden.
+slvdycpzt3 En höjning av kaffepriset ökar den utbjudna kvantiteten längs utbudet; den ändrar inte själva produktionskostnaderna.
+wy5o8hdolv Vid p = 4 är QS = 2; vid p = 8 är QS = 6. För Q = 6 är utbudets lägsta pris 2 + 6 = 8 €.
+11xvxsk2h04 Du driver kaféet: vid 4 € tillagar du inte de enheter som kostar 7 €. Vid 8 € blir de enheterna möjliga.
+298xnca8g28 Med QS = p − 2, hur mycket bjuds ut vid p = 8?
+p1tydwah9f Ett högre försäljningspris möjliggör mer utbud eftersom…
+q4qwehjtpo Priset automatiskt gör maskinerna effektivare
+2cl6uyktr0g En ny teknik skulle flytta utbudet; priset ensamt ändrar inte tekniken.
+1giw4ppzl0s Extra enheter vars kostnad var för hög blir lönsamma
+1hbqvy2ira7 Precis: jämför det mottagna priset med kostnaden för nästa enhet.
+gben712pwh Förtjäna formeln: gör de två planerna förenliga
+218vm6ygmw7 Vid ett givet pris anger köparna en kvantitet och säljarna en annan. Det behövs ett pris vid vilket båda planerna gäller samma antal enheter. Det priset är jämvikten: i den här modellen finns varken frustrerade köpare eller osålt utbud.
+7kct2wiaum Market equilibrium: QD(p*) = QS(p*). Att sätta de önskade kvantiteterna lika ger p*, och att sedan sätta in i en kurva ger Q*.
+2aph587tcut Vilken likhet tvingar planerna att mötas?
+217yvp9vc7 Ja: samma enheter köps och säljs.
+bfemjvoe14 Kvantiteterna tar inte ut varandra; de måste sammanfalla.
+ymlyf0sky8 Ett pris på noll samordnar inte automatiskt besluten.
+zihlqqkjka Om QD överstiger QS skulle vissa köpare vilja köpa men ingen enhet erbjuds dem.
+1e67w5abqto Om QS överstiger QD hittar vissa planerade enheter ingen köpare.
+t87jcts408 Likheten tar bort båda trycken; det är ett villkor för att besluten ska hänga ihop, inte ett mål som en person väljer.
+y9e4diiad1 Vid p = 6: QD = 4 och QS = 4. Omvänt, vid Q = 4: pD = 6 och pS = 6. Den direkta och den inversa formen beskriver samma punkt.
+jkup5n4pek Du föreslår ett pris; fråga en student och en säljare om deras kvantiteter. Upprepa tills de två svaren stämmer överens.
+seajt5oysh Punkten där planerna samordnas
+185c7g0bp0w Lös 10 − p = p − 2. Vad är p*?
+c00t8sf706 12 = 2p, alltså p* = 6 €.
+1jh41jkhi92 Bygg upp jämviktslikheten i kvantiteter.
+75twhwcq4q Den efterfrågade kvantiteten 10 − p måste vara lika med den utbjudna kvantiteten p − 2.
+vf3lgim6l9 Resultat omräknat i dossiern
+2554ig1uuz2 Varför 4 € inte håller
+ck2acflgg2 Kaffet kostar 4 €. Sex enheter efterfrågas men bara två erbjuds: fyra önskemål förblir ouppfyllda. Köpare som är beredda att betala mer och säljare som ser kön skapar ett uppåtgående tryck på priset.
+2gmxzyze730 Excess demand eller shortage: QD − QS > 0. En brist mäts i enheter, inte i euro.
+c3to7xbdqw Kön synliggör ett gap mellan två planer vid samma pris.
+2fha1t6bjgl En prishöjning minskar vissa köp och gör andra enheter lönsamma att producera.
+1g37sbae78 Dessa två reaktioner stänger gapet tills QD = QS; trycket beskriver en anpassning, inte dess exakta hastighet.
+tfyb5fkid Vid p = 4 är bristen = (10 − 4) − (4 − 2) = 6 − 2 = 4. Vid p = 5 är den bara 5 − 3 = 2.
+vtitegn52y Du kommer efter att de två tillgängliga kaffena tagit slut. Du skulle betala mer än 4 €, men det anslagna priset hindrade fortfarande den anpassningen.
+di8umkbkia Hur stor är bristen vid p = 4?
+2fvbe5txy9y QD = 6, QS = 2: det saknas 4 enheter.
+1pyx7768asd 2 är den utbjudna kvantiteten, inte antalet ouppfyllda köp.
+15v9r00v1kh Sätt anpassningen i rätt ordning.
+21k4uan8e86 Vid det låga priset överstiger QD QS
+obwh6nbxbo Bristen skapar ett uppåtgående tryck på priset
+2cdjy4du0ry Den efterfrågade kvantiteten minskar och den utbjudna kvantiteten ökar
+2171tsduw0y De två planerna möts
+1yk8v8b4m61 Varför 8 € ger motsatt effekt
+6u0v07gvp0 Vid 8 € planerar säljarna sex enheter, men köparna vill bara ha två. Fyra enheter blir osålda. En säljare kan sänka priset för att locka en köpare; det trycket driver mot jämvikt.
+21cbgn1vu9h Excess supply eller surplus: QS − QD > 0. Detta utbudsöverskott är inte konsumentens monetära överskott.
+265zsg7aye9 En enhet utan köpare ger säljaren ingenting.
+upddgd2peg Att sänka priset lockar extra köp och får vissa säljare att minska sitt utbud.
+1cpdnyejb6w Reaktionerna går åt samma håll: att stänga utbudsöverskottet.
+1ddrvs5k9at Du har tillagat kaffe som ingen kommer och hämtar till det priset. En rabatt kan vara bättre än osålda drycker.
+q3t9wab8wf Vid p = 8, vilket tryck uppstår?
+20dpxupzyr Ett uppåtgående tryck, eftersom säljarna producerar mycket
+w7dywqc8lb Att producera garanterar inte att sälja: osålda enheter driver priset nedåt.
+12iekamoceu Ett nedåtgående tryck på priset
+3verym5vj Ja. QS = 6 överstiger QD = 2; säljare letar efter köpare.
+b120tqk21r Inget, eftersom varje säljare väljer fritt
+2gg4vaezhtq Valen är fria men inte förenliga vid det här priset.
+1yepptgk1l7 Frågan som hindrar dig från att flytta fel kurva
+hgkqo3zv16 Du ser att kaffepriset har stigit. Det räcker för att avläsa färre köp längs en given efterfrågan; det bevisar inte att smaken har ändrats. Innan du flyttar en kurva, leta efter vad som ändrats utöver priset på den vara som visas.
+a0oxu96acf En kurva innehåller redan svaret för alla tänkbara priser.
+qddkre3k3z Att bara ändra priset väljer en annan punkt på samma samband.
+sgqfc3nlnf Att ändra inkomst, smak eller ett relaterat pris ändrar däremot den önskade kvantiteten vid varje pris.
+fqxfgn4rke Kaffepris 6 → 8, allt annat fast: QD 4 → 2 på D. Högre inkomst för ett normalt kaffe: vid p = 6 kanske man vill ha 8 i stället för 4; det krävs en ny D.
+rz58knazat Fråga dig: ”vid samma kaffepris, skulle jag vilja ha mer kaffe?”. Om ja är det en förskjutning; annars ser du en reaktion på priset.
+1m44r2rvr3m Själva kaffepriset stiger, utan andra förändringar. Vad ritar du?
+s2hil907v1 Efterfrågan förskjuts åt vänster
+2982c0jj550 Det skulle kräva svagare smak, lägre inkomst för en normal vara eller en annan bestämningsfaktor.
+1qpo0x5wnfj En rörelse längs efterfrågan
+147jpvbocxj Priset är en variabel som redan visas på kurvan.
+1m7gdvgdmhp Efterfrågan förskjuts åt höger
+238r43jcioa Ett högre eget pris skapar inte mer efterfrågan vid ett givet pris.
+ioy24n92ez En ny årskull studenter kommer
+39gx7fsnsa Fler studenter vill nu ha kaffe vid varje pris. Vid det gamla priset 6 € erbjuder säljarna fortfarande fyra enheter men köparna vill ha åtta. Bristen driver upp priset; säljarna reagerar längs sitt oförändrade utbud.
+2ajdltxeewp En positiv efterfrågechock förskjuter D åt höger. Med ett oförändrat stigande utbud ökar p* och Q*.
+22fj9q3gvkj Den nya studentgruppen är en orsak utanför kaffepriset.
+hkytkgntj9 Vid oförändrat pris ökar den efterfrågade kvantiteten: det är D som förskjuts, inte S.
+17ccgbpgzld Det högre priset drar sedan fram mer utbjuden kvantitet längs samma S.
+1pfo8x0nry1 Konstruerad chock: QD = 14 − p, QS = p − 2. 14 − p = p − 2 ⇒ p = 8; Q = 6. Jämfört med (4, 6) ökar Q med 2 och p med 2.
+o56t9o0z3a Du säljer på campus: dina kostnader har inte ändrats. Du kan ändå producera mer eftersom nya köpare driver upp priset.
+ocp1y0x08y Mer efterfrågan vid varje pris
+epmzwda40d Konstruerad chock: QD går från 10 − p till 14 − p. Oförändrat utbud QS = p − 2. Det gamla priset 6 skapar en brist; den nya punkten är (6, 8).
+udpbozszfe Ny efterfrågan: p = 14 − Q
+60jjhgygi3 Vid p = 6 vill köparna ha 8 enheter i stället för 4.
+229x4h3b53d Gammal jämvikt
+18nq1yi4frp Ny: Q = 6, p = 8
+i78qhbwbby Med QD = 14 − p och QS = p − 2, vad är det nya priset?
+13tl817ajkh 16 = 2p ⇒ p = 8; varje sida väljer 6 enheter.
+16y58ze4591 Varför producerar säljarna mer efter den här chocken?
+15bumgjp0a5 Deras utbud har förskjutits eftersom de säljer mer
+1s8lvpkr6xk En högre utbjuden kvantitet betyder inte att utbudssambandet har ändrats.
+ih4vik8fdi De svarar på det högre priset längs sitt utbud
+11wmaaiupaq Precis. Den ursprungliga bestämningsfaktorn finns på efterfrågesidan; kostnaderna är oförändrade.
+f6zxqi40z3 Te, kex, inkomst: hitta chockens riktning
+196uwkmv8yp Tepriset stiger: vissa studenter går över till kaffe om de är substitut. Kexpriset stiger: om kaffe och kex är komplement blir kombinationen mindre lockande. Samma ord ”annat pris” kan alltså förskjuta efterfrågan åt motsatta håll.
+29djlprpvq3 Substitutes: en höjning av den andra varans pris ökar efterfrågan. Complements: den minskar den. Normal vara: högre inkomst ökar efterfrågan; inferior vara: den minskar den.
+10uzwrnhvxo För substitut blir kaffe relativt mer lockande än det andra alternativet.
+10725czf8v6 För komplement blir det dyrare att köpa paret; båda användningarna kan minska.
+9of77me4iw Inkomsten ändrar köpmöjligheterna, men tecknet beror på typen av vara, inte på ett kvalitetsomdöme.
+23na3w7p8hf Konstruerad situation: vid p_kaffe = 6 går QD från 4 till 6 efter en höjning av tepriset. Det beskriver en efterfrågeförskjutning på +2 vid det priset, inte en ändring av kaffepriset.
+uubu0zt4l0 Du tittar inte bara på kaffets prislapp: du jämför de möjliga dryckerna och vad din budget tillåter.
+1qk1dtrtgdx Om kaffe och kex är komplement och kexpriset stiger, vad händer med D för kaffe?
+2ckvv4puhtv Den förskjuts åt höger som för ett substitut
+19lw0t3srqe Den riktningen skulle passa en ersättningsdryck, inte en vara som konsumeras med kaffet.
+lye38akqaq Den förskjuts åt vänster
+42rmlr6vza Paret är dyrare; vid ett givet kaffepris efterfrågas mindre kaffe.
+1vdlw5ohiea Bönorna blir dyrare
+17wwazzdvt Varje enhet kostar nu 2 € mer att tillaga. Vid oförändrat försäljningspris vill vissa kaféer inte längre producera lika mycket. Förändringen gäller kostnaderna: utbudet förskjuts uppåt, sedan minskar det högre priset köpen längs den oförändrade efterfrågan.
+17s5e7my4kl En högre insatskostnad förskjuter S åt vänster/uppåt. Med oförändrad D: p* stiger och Q* minskar.
+phdd4n2vam Säljaren måste få mer betalt för samma enhet.
+23lqubj0lz1 Vid det gamla priset minskar den utbjudna kvantiteten; bristen driver priset uppåt.
+c2os64t828 Konsumenterna reagerar på det högre slutpriset längs D; deras smak har inte ändrats.
+1mbk7w5z5hp Konstruerat utbud pS = 4 + Q, efterfrågan pD = 10 − Q. 10 − Q = 4 + Q ⇒ Q = 3 och p = 7, i stället för Q = 4 och p = 6.
+19v4681tvkh Du är säljare: du har ingen lust att tillaga mindre på en höft. Samma kaffe kostar mer, så du begär ett högre pris.
+1jgt9n7x2u3 Insatsvaran kostar 2 € mer per enhet
+21p3yxgyfnt Konstruerad chock: det inversa utbudet går från 2 + Q till 4 + Q, efterfrågan oförändrad. Jämviktspunkten blir Q = 3, p = 7.
+ui1snzmmhg Nytt utbud: p = 4 + Q
+10prmjbt08h För samma kvantitet krävs ett pris som är 2 € högre.
+g21rfdhskh Gammal
+1eksfs6u7x7 Ny: Q = 3, p = 7
+10b10bfz8cz Vilket Q löser 10 − Q = 4 + Q?
+27jwbdqtto7 6 = 2Q, alltså Q = 3 och p = 7.
+8cnad5ttfe Bönkostnaden stiger: vilken kurva ändras först?
+1e97h02txbm Efterfrågan, eftersom slutpriset stiger
+2ew1gd9aixe Det byter plats på orsak och reaktion: slutpriset stiger för att S har ändrats.
+1kglqheh04i Utbudet
+1ukbudd08b3 Det är en produktionskostnad. Köpens slutliga rörelse längs D är en reaktion.
+ecxohq96o7 Två chocker: acceptera det man inte kan veta
+zr3fwvav52 Föreställ dig samtidigt fler studenter och dyrare bönor. Båda förändringarna driver priset uppåt. För kvantiteten driver de nya köparna mot mer kaffe medan kostnaden driver mot mindre: deras relativa storlek avgör.
+2dgxsifu9l0 D åt höger och S åt vänster: priset stiger, kvantiteten tvetydig utan chockernas storlek.
+202weug4vgc Ett resultat är säkert om de två delverkningarna har samma tecken.
+10p3yuf5zpc Verkningar med motsatt tecken kan inte avgöras utan extra information.
+ze3q93on9i Tvetydig betyder inte oförändrad: ökning, minskning eller stabilitet är alla möjliga.
+82erv9a8jw Bas pD = 10 − Q, pS = 2 + Q: Q = 4. Om pD blir 14 − Q och pS 4 + Q är Q = 5. Om pS blir 8 + Q i stället för 4 + Q är Q = 3. I båda fallen stiger p: 9 eller 11.
+pciu89sw0n På tentan kan du ta poängen genom att förklara tvetydigheten exakt i stället för att hitta på en pil för Q.
+1yoqvvqxq3m D förskjuts åt höger och S åt vänster, utan angivna storlekar. Vilken slutsats är motiverad?
+hheyvi6fsq p och Q ökar nödvändigtvis
+1xuh474p288 Det vore slutsatsen för enbart en efterfrågechock, inte för båda.
+ylbg0famqv p stiger; Q kan öka, minska eller vara oförändrad
+ljw60fie7s Båda chockerna driver upp p, men deras verkningar på Q tar mer eller mindre ut varandra.
+13qxfufffxk Q är nödvändigtvis oförändrad
+u44pkyj02z Motsatta verkningar är inte nödvändigtvis lika stora.
+10v6aylbb92 När säljarna knappt kan anpassa sig
+g2h1fn1tzf Campus vill ha mer kaffe, men en enda maskin begränsar produktionen på kort sikt. Den utbjudna kvantiteten kan knappt öka; en större del av anpassningen sker då via priset. Med maskiner tillgängliga kan mer kvantitet ta upp samma efterfrågechock.
+acoibfng05 För en given chock innebär ett brantare utbud, under de vanliga antagandena, en starkare prisreaktion och en svagare kvantitetsreaktion.
+jnl0xmzt5b Den nya jämvikten måste ta upp samma inledande efterfrågeöverskott.
+7c0uft397n Om kvantiteten anpassas lite på utbudssidan måste priset avskräcka efterfrågan mer.
+1p349vfmdgo Lutningen uttrycks i enheter; elasticiteten lär dig sedan att jämföra reaktioner i procent.
+1bg9gnbyv4 Två konstruerade marknader börjar i (Q, p) = (4, 6). Chock pD: 10 − Q → 14 − Q. Utbud p = 2 + Q: ny punkt (6, 8). Brant utbud p = −6 + 3Q: ny punkt (5, 9). Priset stiger med 3 i stället för 2; Q stiger med 1 i stället för 2.
+cqtgmtbcu1 Du vill ha kaffe medan maskinen är trasig. En starkare köplust skapar inte omedelbart extra kapacitet.
+1k786z2o3d1 För samma positiva efterfrågechock ger ett brantare utbud i allmänhet…
+1qfyt2vybjq En större ökning av Q eftersom kurvan stiger snabbt
+1sn5t3dvbho Att stiga snabbt i pris betyder just att det krävs en stor prishöjning för lite extra Q.
+kgjbokqtt3 En större prishöjning och en mindre ökning av Q
+1ddnniv2mdo Priset måste göra en större del av anpassningsarbetet.

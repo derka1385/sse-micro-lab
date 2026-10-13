@@ -1,0 +1,41 @@
+======================================================================
+3. OFFERTA, DOMANDA, EQUILIBRIO E SHOCK — L2
+======================================================================
+
+Domanda: quantità che gli acquirenti desiderano comprare a ciascun prezzo.
+Offerta: quantità che i venditori desiderano vendere a ciascun prezzo.
+Ipotesi del modello concorrenziale semplice: molti agenti, prodotti
+omogenei, price takers; nessuna interazione strategica significativa.
+Definire il mercato per prodotto, area geografica e periodo.
+
+Esempio L2 p.7/16/20: QD=10-p, QS=-2+p.
+Equilibrio: QD=QS ->10-p=-2+p ->p*=6, Q*=4.
+A p=4: QD=6, QS=2, eccesso di domanda di 4, pressione al rialzo.
+A p=8: QD=2, QS=6, eccesso di offerta di 4, pressione al ribasso.
+Una quantità negativa prevista fuori dominio significa in genere quantità 0.
+
+VARIAZIONE DEL PREZZO DEL BENE -> movimento LUNGO la sua curva.
+VARIAZIONE DI UNA DETERMINANTE DIVERSA DA QUEL PREZZO -> spostamento della curva.
+Domanda QD=f(p,T,p_r,I): gusti/temperatura T, altro prezzo p_r, reddito I.
+Bene normale: il reddito aumenta -> la domanda si sposta a destra.
+Bene inferiore: il reddito aumenta -> la domanda si sposta a sinistra.
+Sostituti: il prezzo dell'altro bene aumenta -> domanda a destra.
+Complementi: il prezzo dell'altro bene aumenta -> domanda a sinistra.
+Il costo di un input aumenta -> offerta a sinistra/verso l'alto.
+Tecnologia migliore/entrata di produttori -> offerta a destra/verso il basso.
+
+A parità di altre condizioni, per curve usuali:
+D a destra: p aumenta, Q aumenta. D a sinistra: p diminuisce, Q diminuisce.
+S a destra: p diminuisce, Q aumenta. S a sinistra: p aumenta, Q diminuisce.
+D a destra E S a sinistra: p aumenta, effetto su Q ambiguo.
+D a destra E S a destra: Q aumenta, effetto su p ambiguo.
+D a sinistra E S a sinistra: Q diminuisce, effetto su p ambiguo.
+D a sinistra E S a destra: p diminuisce, effetto su Q ambiguo.
+Non concludere su una variabile ambigua senza la dimensione relativa degli shock.
+
+Sensibilità: per un dato shock di domanda, un'offerta ripida implica
+una forte variazione di prezzo e una debole variazione di quantità.
+Un'offerta più piatta assorbe di più lo shock tramite la quantità.
+Applicazioni L2: raccolti di grano, tè/caffè, riso, palladio.
+Spiegare con «a prezzo dato, si offrirebbe/domanderebbe di più/di meno»,
+e solo dopo cercare il nuovo equilibrio.

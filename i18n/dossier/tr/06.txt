@@ -1,0 +1,107 @@
+======================================================================
+4. TÜKETİCİ, TERCİHLER, BÜTÇE VE TALEP — L3–L4
+======================================================================
+
+4.1 Tercihler ve fayda
+Tamlık: kayıtsızlık dahil, herhangi iki sepet sıralanabilir.
+Geçişlilik: A, B'ye ve B, C'ye tercih ediliyorsa A, C'ye tercih edilir.
+Doymazlık / more-is-better: istenen mallardan daha fazlası tercih edilir.
+Ordinal fayda: U sepetleri sıralar; 100'lük bir fayda, 50'lik bir faydanın
+iki katı mutluluk anlamına gelmez. Kesin artan bir
+dönüşüm aynı tercihleri temsil eder.
+Örnek L3: U(E,F)=sqrt(EF), E entertainment, F food.
+U=EF, pozitif E,F için aynı sıralamayı verir; sayısal düzeyler
+ve türevler değişir, optimal seçimler değişmez.
+
+MU_x = U'nun x'e göre kısmi türevi: x malının marjinal faydası.
+Azalan marjinal fayda: diğer malın miktarı verili iken her ek birim
+giderek daha az fayda ekler. Bu özelliği faydanın
+ordinal niteliğiyle karıştırma.
+
+Kayıtsızlık eğrisi: aynı U'yu veren sepetler. Olağan tercihlerde
+azalandır, orijine göre dışbükeydir, aynı tüketicinin başka bir eğrisini
+kesmez; daha kuzeydoğudaki eğriler tercih edilir.
+İki istenen mal: pozitif eğim more-is-better ile bağdaşmaz.
+Çay yatay ve kahve dikeyse, yatay kayıtsızlık eğrileri: yalnızca
+kahve önemlidir; çay marjinal fayda sağlamaz (L3 p.10).
+
+4.2 MRS ve bütçe: oranları uyarlamadan eksenleri asla değiştirme
+x yatay ve y dikeyken, bir kayıtsızlık eğrisi boyunca:
+0=MU_x*dx+MU_y*dy ->dy/dx=-MU_x/MU_y.
+MRS_xy=MU_x/MU_y, bu eğimin mutlak değeri: tüketicinin bir ek
+x birimi için vazgeçmeye razı olduğu y miktarı.
+L3'te F yatay ve E dikey: eğim=-MU_F/MU_E.
+
+Bütçe p_x*x+p_y*y <= I; doymazlık ve pozitif fiyatlarda optimumda eşitlik.
+y=I/p_y-(p_x/p_y)*x; eksen kesişimleri x=I/p_x ve y=I/p_y.
+Gelir artar: dışa doğru paralel kayma, fiyatlar değişmez.
+x'in fiyatı artar: y kesişimi değişmez, x kesişimi düşer, bütçe dikleşir.
+Bir fiyat değişimi satın alma gücünü azaltır; nominal geliri I
+mutlaka değiştirmez.
+
+4.3 İç optimum
+Bütçe kısıtı altında Max U(x,y). Bir iç teğetlikte:
+MU_x/MU_y=p_x/p_y, yani MU_x/p_x=MU_y/p_y.
+Sezgi: son avro iki kullanımda da aynı marjinal faydayı
+sağlar. Aksi halde küçük bir harcamayı daha iyi kullanıma kaydırmak U'yu artırır.
+Bu koşulu bütçeyle BİRLİKTE kullan, onun yerine değil.
+İç çözüm ve yeterince düzenli tercihler
+varsayar; gerektiğinde köşeleri ve kırılma noktalarını karşılaştır.
+
+Hesaplama tamamlayıcısı, Cobb-Douglas U=x^alpha*y^beta, alpha,beta>0:
+x*=alpha/(alpha+beta)*I/p_x; y*=beta/(alpha+beta)*I/p_y.
+Gerekçe: MRS=(alpha/beta)*(y/x)=p_x/p_y, sonra bütçe.
+U=xy için: gelirin yarısı her mala, birim sayısının yarısı değil.
+
+4.4 Tam ikameler ve tam tamamlayıcılar
+Tam ikameler U=ax+by: MRS=a/b sabit; a/p_x ile b/p_y'yi karşılaştır.
+a/p_x>b/p_y ise hepsi x'e; tersiyse hepsi y'ye; eşitlikte bütçe üzerindeki
+her karışım optimaldir. Tek bir teğetlik gerekmez.
+Örnek L4 p.10: 2 macchiato 1 cappuccino'ya eşdeğer, fiyatlar aynı:
+yalnızca cappuccino al, avro başına daha fazla fayda.
+Tam tamamlayıcılar U=min(x/a,y/b): kırılma noktasında x/a=y/b seç,
+çünkü eşleşmeyen birimler bir şey eklemez. Örnek: sol/sağ ayakkabı.
+1:1 bir çift için: x=y=I/(p_x+p_y).
+
+4.5 Talep ve gelir
+x'in her fiyatı için optimumu, I ve diğer fiyatları sabit tutarak
+yeniden hesapla; (p_x,x*) çiftleri bireysel talebi çizer.
+Engel eğrisi: fiyatlar sabitken GELİRİN fonksiyonu olarak optimal miktar.
+Normal mal: miktar I ile artar; düşük mal: I ile azalır.
+Aynı mal düşük gelirde normal, yüksek gelirde düşük mal olabilir
+(L4 hostel geceleri örneği).
+Lüks mal: gelir esnekliği >1; normal zorunlu mal: 0 ile 1 arasında.
+Bu nitelemeler malın içsel kalitesini sıralamaz.
+
+4.6 İkame, gelir ve telafi
+Fiyat artışı x'i göreli olarak pahalılaştırır: y'ye doğru ikame.
+Satın alma gücünü de azaltır: gelir etkisi.
+L4 p.11–13: benzine vergi, ardından YENİ fiyatlarla ESKİ kayıtsızlık eğrisine
+ulaşmaya tam yetecek götürü bir transfer. Benzin tüketimi ikame yoluyla
+düşerken fayda korunabilir.
+Bu transfer yeni göreli fiyatı ortadan kaldırmaz.
+E2022 Q5: bir gıda sübvansiyonu kaldırıldıktan sonra ESKİ SEPETİ
+satın almayı sağlayan transfer. Eski sepet erişilebilir kalır; eski bir
+iç çözüm ve kesin dışbükey bir kayıtsızlık eğrisiyle,
+yeni bütçede yeniden seçim genellikle daha yüksek fayda verir.
+Eski sepetin erişilebilir olması ve eski faydaya tam ulaşılması iki
+ayrı telafi ölçütüdür. Genel güvence «daha kötü
+değil»dir; kesin iyileşme teğetlik/köşe koşulları gerektirir.
+
+4.7 Piyasa talebi
+QD(p)=toplam_i max(0,q_i(p)). Verili fiyatta YATAY toplama.
+L4 p.19: q_H=10-p, q_L=5-p.
+p>=10 için QD=0; 5<p<10 için QD=10-p; 0<=p<=5 için QD=15-2p.
+Toplam ters talepte bir kırılma vardır; her optimumun segmentini kontrol et.
+
+4.8 Davranış, sosyal tercihler ve sınırlar
+L3: fayda özgecilik, statü, saygı, gurur ve kötü niyet içerebilir.
+Dolayısıyla faydayı maksimize etmek yalnızca kendi tüketimini maksimize etmek değildir.
+Ultimatum game: hakkaniyet için pozitif bir para teklifi reddedilebilir.
+Öz denetim eksikliği: gelecekteki çıkara karşı anlık tatmin.
+Sezgisel yöntemler: optimizasyon zor olduğunda basit kurallar.
+Loss aversion: kayıplar benzer kazançlardan daha ağır basabilir.
+Framing: bir seçimin sunuluş biçimi kararı etkiler.
+Overconfidence: kendi yeteneklerine/bilgisine aşırı güven.
+A3'te sosyal tercihler: en iyi tepkileri aramadan önce parasal kazançları
+FAYDAYA dönüştür.

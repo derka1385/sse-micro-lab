@@ -1,0 +1,41 @@
+======================================================================
+3. SUPPLY, DEMAND, EQUILIBRIUM AND SHOCKS — L2
+======================================================================
+
+Demand: the quantity buyers want to buy at each price.
+Supply: the quantity sellers want to sell at each price.
+Assumptions of the simple competitive model: many agents, homogeneous
+products, price takers; no significant strategic interaction.
+Define the market by product, geographic area and period.
+
+Example L2 p.7/16/20: QD=10-p, QS=-2+p.
+Equilibrium: QD=QS ->10-p=-2+p ->p*=6, Q*=4.
+At p=4: QD=6, QS=2, excess demand of 4, upward pressure.
+At p=8: QD=2, QS=6, excess supply of 4, downward pressure.
+A negative quantity predicted outside the domain usually means quantity 0.
+
+CHANGE IN THE GOOD'S OWN PRICE -> movement ALONG its curve.
+CHANGE IN A DETERMINANT OTHER THAN THAT PRICE -> shift of the curve.
+Demand QD=f(p,T,p_r,I): tastes/temperature T, other price p_r, income I.
+Normal good: income rises -> demand shifts right.
+Inferior good: income rises -> demand shifts left.
+Substitutes: price of the other good rises -> demand shifts right.
+Complements: price of the other good rises -> demand shifts left.
+Input cost rises -> supply shifts left/up.
+Better technology/entry of producers -> supply shifts right/down.
+
+Other things equal, for usual curves:
+D right: p rises, Q rises. D left: p falls, Q falls.
+S right: p falls, Q rises. S left: p rises, Q falls.
+D right AND S left: p rises, effect on Q ambiguous.
+D right AND S right: Q rises, effect on p ambiguous.
+D left AND S left: Q falls, effect on p ambiguous.
+D left AND S right: p falls, effect on Q ambiguous.
+Do not conclude on an ambiguous variable without the relative size of the shocks.
+
+Sensitivity: for a given demand shock, a steep supply implies
+a large price change and a small quantity change.
+A flatter supply absorbs more of the shock through quantity.
+L2 applications: wheat harvests, tea/coffee, rice, palladium.
+Explain with "at a given price, more/less would be supplied/demanded",
+and only then look for the new equilibrium.

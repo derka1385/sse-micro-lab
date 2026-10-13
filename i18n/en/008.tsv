@@ -1,0 +1,210 @@
+th0n2b09ze dQ/Q measures the reaction relative to the quantity; dp/p relative to the price.
+1fyhmpslm6f Their ratio is comparable across different units, provided you define the market and the point.
+a5d1x9fbro Constructed demand Q = 12 − p: dQ/dp = −1. At p = 4, Q = 8, ε = −1×4/8 = −0.5.
+22bdxqrat0a You convert "one sale lost per euro" into "how many per cent of sales for one per cent of price".
+kq8rm2loq8 Same line, different sensitivities
+1l33i6j2jxa Q, units
+1duujjeodb3 Teaching example Q = 12 − p. The direct slope dQ/dp = −1 is constant, but ε = −p/Q varies: −0.5 at (8,4), −1 at (6,6), −2 at (4,8).
+l5132hoh2y Demand: p = 12 − Q
+1favkmrdvqs Losing one unit for a €1 rise is not the same percentage at every point.
+cukp4x30vo Rebuild the point elasticity of Q with respect to p.
+1gz60q5tk0p The absolute derivative is normalised by p/Q.
+14fts9r4fjf Q = 12 − p. What is εD at p = 4?
+1yd6nnzfyrl Q = 8 and dQ/dp = −1, so εD = −4/8 = −0.5.
+2is9xu8gx0 Don't differentiate the function the wrong way round
+gq6isa529x A question sometimes gives you the price as a function of quantity. Its slope then answers "how many euros per unit", while demand elasticity asks "how many units per euro". Rewrite the demand or invert the derivative correctly before calculating.
+10026115t1h If p = A − BQ, then Q = (A − p)/B, dQ/dp = −1/B and εD = −p/(BQ).
+7i751x6f20 The axes of a standard graph show p(Q), but the answer we want is Q(p).
+1vz62xwgj17 dp/dQ and dQ/dp are reciprocals when the relationship is locally invertible.
+1uyb8lj6lkk Forgetting this inversion gives a wrong result that sometimes still has a plausible sign.
+b9vjowzofd A different situation: p = 20 − 2Q. At Q = 5, p = 10. dQ/dp = −1/2; ε = −(1/2)×10/5 = −1, not −4.
+1qj9q8k56pq If you see the slope −2 on the paper, ask "two what per what?". That question is often enough to spot the inversion.
+1y3qam95k2s p = 20 − 2Q, Q = 5, p = 10. What is εD?
+1wz9kw5lz14 You used dp/dQ = −2 instead of dQ/dp = −1/2.
+21hmhth0t5w The slope doesn't move, the elasticity does
+1qc8c4updw9 On Q = 12 − p, each extra euro loses one unit everywhere. But one lost unit weighs little when you sell a lot and a lot when you sell little. The line is unchanged; the proportional reaction depends on the point.
+xddv17i64l Linear demand Q = a − bp: direct slope −b constant, ε = −bp/(a − bp) variable. Inelastic: |ε| < 1; elastic: |ε| > 1.
+1ib30yvn4cz The derivative measures the absolute change and stays constant on this line.
+13gt0zu7cwp The factor p/Q changes as you move along the curve.
+2cmqqk7ft93 At a high price and small Q, a given loss is a larger percentage of Q and a smaller percentage of the price.
+1f2gd2emlp5 Same Q = 12 − p: at p = 4, Q = 8 and ε = −0.5; at p = 6, Q = 6 and ε = −1; at p = 8, Q = 4 and ε = −2.
+1uoo44yb8tu Losing one sale out of eight hurts less than losing one sale out of four, even if both losses come from a one-euro rise.
+usmzqe2r7z Q = 12 − p: compute εD at p = 8.
+1pur74kov50 εD = −2 describes a demand that is…
+295n66y022r Inelastic because −2 is less than −1
+u9o4a6k39w We compare |ε| with 1; the negative sign describes the direction, not a small magnitude.
+23k6o52w39o Elastic
+2gcrqhn9xmi The proportional reaction in absolute value exceeds 1.
+7tl4xuf3e4 The seller earns more per unit, but sells less
+bqm2eygwdn A price rise has two effects on revenue: each unit sold brings in more, but some sales disappear. If buyers react little, the first effect dominates. If they react a lot, the loss of sales dominates.
+o3glwurr3c R = pQ(p), so dR/dp = Q + p·dQ/dp = Q(1 + εD). Inelastic: a rise in p raises R locally; elastic: it lowers R.
+whtzo0u4an R = pQ(p). When p changes, which expression counts both effects?
+y4rbzj4zdg Q comes from the higher price on sales; p·dQ/dp comes from the change in sales.
+xkgw2y0ad6 Q only
+10rvo8q12in You are forgetting that buyers change their quantity.
+1kzk74njn02 p·dQ/dp only
+275y3v88b3z You are forgetting the extra received on the units still sold.
+1297rboq669 Both components of pQ change; you need the product rule.
+1sw3lh3lm2y The sign of 1 + εD tells you which effect dominates when Q > 0.
+151y6m1ijqz This conclusion concerns a small local change; for a large change, compute both revenues directly.
+1dsn9y2aoun For Q = 12 − p: at p = 4, R = 32; at p = 5, Q = 7, R = 35. At p = 8, R = 32; at p = 9, Q = 3, R = 27.
+1ldqx7r2aah You sell a seat for more. Don't forget the students who leave the queue: the new price tag is not all your revenue.
+48gvi6bsmh The price rises; revenue doesn't always rise
+al6seu2os6 € of revenue
+1xi5gp6fvn2 Same constructed demand Q = 12 − p. Revenue = pQ; these are revenues, not profits, since no cost is given yet.
+3rgce7n9ou R = 6×6 = 36; unit elasticity, the peak of R for this line.
+sinj0k6rbt R = 8×4 = 32; locally elastic demand.
+23640mgfie1 εD = −0.4. What does a small rise in p do to R?
+pndtaernk R falls because Q falls
+1kba7x52p22 You are forgetting the price received on the units that are still sold.
+d6g3y205v5 R rises
+2f62z4rtdqq 1 + ε = 0.6 > 0: quantity falls proportionally less than the price rises.
+25p13v3jowo Q = 12 − p: what revenue at p = 6?
+2e6m06fcc7x Q = 6, so R = 6×6 = 36.
+1lf180i6g31 Maximum revenue does not mean maximum profit
+1abgnp3t3wc The seller does not keep all its revenue: it also pays to produce. So the price that maximises pQ can lead to producing units that cost too much. Elasticity explains part of the choice; for profit you still need the costs.
+1i58i8jmo6s Profit π = R − C. Maximum R implies MR = 0 at an interior point; maximum profit implies MR = MC with the other checks.
+1s3qfef8sqq An extra sale can raise revenue while costing more than it adds.
+19cwz4rou9t Revenue maximisation ignores that extra cost.
+18m60n0aybt As soon as MC > 0, the relevant stopping point for profit generally comes before the revenue peak.
+2th76fhh0g Same inverse demand p = 12 − Q, constructed cost C = 2Q. Maximum revenue: Q = 6, p = 6, profit = 36 − 12 = 24. Maximum profit: MR = 12 − 2Q = 2 ⇒ Q = 5, p = 7, profit = 35 − 10 = 25.
+19go82xzq0e You aren't just looking at how much goes into the till; you look at what is left after the cost of the coffees.
+aucpyuhvrt Does a unit-elastic demand ε = −1 guarantee maximum profit?
+b0q7qlruhh Yes, since revenue is maximal
+1t5bvxq4k4j That would only be guaranteed under extra assumptions about costs and the domain.
+1wltdfol9ac No, it indicates locally stationary revenue; costs matter for profit
+1krgoorn14y Profit compares MR with marginal cost.
+ncbsb2f6ts A2: use the sign and the horizon to predict
+1w93uptld75 The authority wants to know the effect of a higher petrol price. Start with the horizon asked for and keep the negative sign of demand. A price rise multiplied by a negative elasticity gives a fall in quantity.
+1durs949tjb Approximation: %ΔQ ≈ ε·%Δp. For a target: %Δp ≈ %ΔQ/ε.
+1nj4r8kj7at The percentage of quantity per 1% of price is precisely what ε means.
+2apnpiy94nu For a given change, multiplying keeps this logic as a local approximation.
+2fe7pm9hm74 To find the policy needed, we invert the calculation but keep the signs.
+zptgdjd72j A2: εSR = −0.25; εLR = −0.60. Price +5% ⇒ QSR ≈ −1.25%, QLR ≈ −3%. Target QLR −15% ⇒ price ≈ (−15)/(−0.60) = +25%.
+b9wjr2qns1 Before typing into the calculator, predict the direction: to cut petrol use with a downward-sloping demand, the price must rise.
+1ilybs6nopr εSR = −0.25 and price +5%. Approximate change in Q in %?
+1zzvonvk0u1 −0.25×5 = −1.25%. Keep the fall in quantity.
+24r3k50xfdp εLR = −0.60; target Q −15%. Approximate price rise in %?
+1mhfv4yo03s (−15)/(−0.60) = +25%. That is the proportional approximation.
+1k6skzlhm43 A large change reveals the limit of the approximation
+88q0oziz08 Multiplying percentages is handy near the starting point. For a big rise, the curvature of demand can matter. If the question imposes a constant-elasticity function, it gives a different exact relationship: state the convention before the number.
+1i0hv1ucgt1 If Q = A·p^ε, then Q1/Q0 = (p1/p0)^ε. So p1/p0 = (Q1/Q0)^(1/ε). The linear approximation is not this exact identity.
+1yns6fs3oka The local elasticity measures an infinitesimal reaction; applying a single slope to a long change simplifies the path.
+5u90jlitdc A constant-elasticity function describes the whole path and allows an exact calculation.
+1fr0vxi7jyb The two results follow different conventions; one does not entitle you to present the other as an identity.
+1litnvor235 A2: target Q1/Q0 = 0.85 and ε = −0.60. Exact if Q = A·p^−0.6: p1/p0 = 0.85^(−1/0.6) ≈ 1.3111, i.e. +31.11%. Usual approximation: +25%. Gap ≈ 6.11 percentage points.
+23s07clcmg4 You write "proportional approximation" or "exact constant function" before showing the result: the marker can then see the model chosen.
+bi4y6kh9h1 The result +25% for the target −15% with ε = −0.60 is…
+18fbvy8nasw Exact for any function where ε is −0.60 at the start
+36tcnn8vro An elasticity at the starting point does not pin down the whole function.
+gdjd6bsasc The proportional approximation, not the exact result of Q = A·p^−0.6
+2chgtefqu6j The exact calculation for the power function gives about +31.11%.
+ns2nu0gitf Constructed demand Q = A/p, so ε = −1. To halve Q, by how much must p rise, exactly, in %?
+j4f04y1ptq Q1/Q0 = p0/p1 = 1/2 ⇒ p1 = 2p0: price +100%, not +50%.
+7uavg115yf The price that changes is that of another good
+28d1gy1j8uk The price of tea rises and you buy more coffee: that suggests one replaces the other. The price of biscuits rises and the coffees consumed with them fall: that suggests complementarity. The sign is read from the determinant that actually changed, not from a rule that "every demand is negative".
+6awag2yska Cross-price elasticity εij = (∂Qi/∂pj)·(pj/Qi). Positive: substitutes; negative: complements, in the given model.
+1i7szcj8pr1 The price of good i stays given: we measure a shift in its demand caused by another price.
+zywx2u5ilh If the other good becomes less attractive and people switch to i, the reaction is positive.
+1mkm4sy16ol If the goods are used together, making one dearer reduces use of the pair and can reduce Qi.
+f42o4v50lg Constructed practice: εcoffee,tea = +0.4 and tea price +10% ⇒ coffee ≈ +4%. With εcoffee,biscuit = −0.2 and biscuit price +10% ⇒ coffee ≈ −2%.
+27gcw82o8d4 You can explain the sign before calculating: "I replace tea" or "I take less of the pair".
+24n2g9cduxn εcoffee,tea = +0.4. Tea price +10%. Approximate change in coffees in %?
+hfxt4j37bw 0.4×10 = +4%. Coffee and tea are substitutes in this situation.
+r474x9lh9y A negative cross elasticity indicates…
+18ybbgx4tn8 An ordinary own-price demand, with no information about links
+1o1mwopd70 The price index matters: it is pj, the price of another good.
+ygwd4q9il0 Complements
+kl1evt9kj4 The other good's price rises and the quantity of the good studied falls.
+11j49agcqy When your income changes, the sign tells a different story
+153kb8wzcy9 With more income, you can buy more of a normal good. You can also drop a good used mainly when the budget was tight: it is then inferior over that income range. These terms describe a quantity reaction, not the moral or material quality of the good.
+q1kxeujxcf Income elasticity η = (∂Q/∂I)·(I/Q). η < 0: inferior; η > 0: normal; η > 1: luxury; 0 < η < 1: normal necessity.
+1qm9ole8pzx Income changes the affordable bundles while prices stay constant.
+tzyco1cmt0 The response depends on preferences and on the income level observed.
+1c757h4vx72 The same good can change category when needs and alternatives change.
+1hsoo8v8si0 Constructed examples: η = −2, income +10% ⇒ Q ≈ −20%. η = 1.4, income +10% ⇒ Q ≈ +14%: this good is normal and a luxury over the range studied.
+jw6iwyv24o A hostel can be your normal option on a small income, then be replaced by a hotel as your means grow. "Inferior" describes that choice.
+2fr0610vuek η = −2, income +10%. Approximate change in Q in %?
+2e6x155iifc −2×10 = −20%. The good is inferior over this range.
+1epd5rswiye η = 1.4 means…
+26v4ydzxl75 A low-quality good because it is expensive
+iazl3mcki1 This classification judges neither quality nor the price level.
+1hdp69021yv A normal good whose quantity grows more than proportionally with income
+1g0ton7yifo 1.4 > 1: a luxury good in the income-elasticity sense.
+1jr4k7lg1t8 Two points: state which base you use
+kcamnir2kv A change from 6 to 4 does not give the same percentage if you take 6, 4 or their average as the base. To compare two points symmetrically, the arc method uses averages. It must not be mixed with an initial base for the other variable.
+lh46rr9fwk Arc elasticity: [ΔQ/((Q0+Q1)/2)] / [Δp/((p0+p1)/2)]. Both denominators follow the same convention.
+s4mefamj6h The initial base depends on the direction in which you go through the change.
+16xle7jl6ar Averages treat the two points symmetrically.
+twtey4ps2k Changing the base changes the discrete measure; stating the convention makes the calculation interpretable.
+2bfg9rvvkho Q: 6 → 4, p: 1 → 2. Arc: (−2/5)/(1/1.5) = −0.4/(2/3) = −0.6. L4 initial base: −1/3. The data are identical; the convention differs.
+1zrd346r3xz On your paper you write "arc, average bases" and use five for Q and 1.5 for p; you don't mix five and one.
+1us8nsjopqd Q: 6 → 4, p: 1 → 2. What arc elasticity with average bases?
+1jqo86dl1uf Averages: Q = 5, p = 1.5. (−2/5)/(1/1.5) = −0.6.
+1n14r19ikmj Using average Q but initial p gives…
+1cn5g1h1frd The same as the arc, by definition
+8mpvxvz2k9 The arc takes averages in both percentages.
+1rttxfnfykx A mix of conventions to avoid
+1fcumo7ta0n The ratio is neither the defined arc measure nor the initial-base measure.
+1m08l1fdmo1 Limiting cases and the final check
+xl6k0loaa2 If quantity never changes when the price moves, demand is perfectly inelastic. If an infinitesimal price gap swings purchases in the limiting model, it is perfectly elastic. In between, keep the sign and the point: you cannot automatically give a whole line a single elasticity.
+17xeg5ye94h Vertical demand: ε = 0. Horizontal demand in the limiting case: |ε| infinite. At Q = 0, ε = (dQ/dp)p/Q is undefined; examine a limit if justified.
+1j82mjfklup A vertical line fixes Q regardless of the price: dQ/dp = 0.
+2fjmu245s2f A horizontal line fixes the admissible price and allows an arbitrarily strong quantity reaction in the ideal model.
+z5kqmkdkbu Dividing by Q imposes a domain: at the point where Q is zero, don't give a finite ratio without justification.
+1sjd4am4ck4 Constructed demand Q = 12 − p: at p = 0 and Q = 12, ε = 0 at that point; that does not make the whole line vertical. As p approaches 12 from below, Q approaches 0 and |ε| becomes very large.
+1fw2bj584uf You check "which price? which quantity? which variable changed? which convention?" before classifying or computing a revenue.
+ag9ro98t7c A perfectly inelastic demand has a curve that is…
+sjl9t4u08p Horizontal, since ε = 0 means a horizontal slope
+dca2dswwo2 You confused dQ/dp with the drawn slope dp/dQ.
+17i9caezzlr Vertical: Q does not change when p changes
+1u0qch1dmob The proportional reaction of Q is zero.
+170hodeyruu Explain in your own words why a price rise can lower revenue.
+27uhnaqwzcd More per unit
+122ytyr8ihs Lost sales
+1fgw68gohan Dominant proportional reaction
+wfa59edzv0 The higher price brings in more on each unit still sold, but cuts sales. If demand is elastic, the proportional fall in quantity outweighs the price rise: revenue falls.
+zf0nopyu8v Own price, another price and income do not describe the same reaction; short and long run do not offer the same possibilities.
+1krcs26et5f We want to compare the change relative to the starting levels, not a raw slope with units.
+2dbd21z5be1 The sign describes the direction; the magnitude can vary along the same line.
+biu2gr5ep Local approximation, arc and exact power function can give different figures.
+zanm4c6l3z The reaction points to substitution, type of good, a quantity target or the effect on revenue, without replacing a profit calculation.
+1pum31gpx28 ε = −0.6 describes a proportional fall in Q when p rises, over the stated horizon and at the stated point. The calculation −15/(−0.6) = +25% is the proportional approximation. If Q = A·p^−0.6 is imposed for the whole change, the exact rise is about 31.11%. An inelastic demand makes revenue rise for a small price increase; profit also depends on costs, and a large change requires comparing levels.
+24ksbgoyrs Identify the variable and the horizon
+27vn4gnu83f Turn the reaction into percentages
+maiwn1fgdz Keep the sign and the point
+1u9ldqbbdzk Calculate under a stated convention
+knek3w6ome Go back to the economic decision
+uyg30g9nby A friend says "petrol has ε = −0.6, so raising its price by 25% cuts Q by exactly 15% and necessarily raises profit". Explain what is correct, what is missing and how you would reason.
+5w0sgi59l3 Negative proportional sensitivity
+oh9esg6g33 1% more on the price gives about 0.6% less Q locally.
+lk2uppaifk 25% is an approximation
+1kv1etf0v7o A large change requires an explicit model or convention.
+lubmbxeel4 With |ε| < 1, the price effect dominates locally.
+kwyngprinw Costs for profit
+1a0e398p3fd Revenue is not enough to conclude about π.
+c6vwww5n82 The derivative must be normalised by p/Q; on a straight line, elasticity varies with the point.
+17p6i00pqoi 25% is the approximation for the A2 target. For Q = A·p^−0.6, the exact solution is about +31.11%.
+1wuw3azlq36 Profit subtracts costs. Higher revenue does not prove higher profit.
+1iet1i42reo Constructed practice based on L4, A2.1 and the §20 pitfalls. The values of the linear demand and the exact target are teaching variants, not an official exam question.
+2bex13zy1i0 dQ/dp = −2, Q = 80, ε = −2×20/80 = −0.5 : inelastic.
+svbbli5lp6 p1/p0 = 0.8^(−2) = 1.5625, exact +56.25%. Approximation: (−20)/(−0.5) = +40%.
+vonuwse6vt Identify direct demand and compute Q at the requested point.
+1rkwgau46fn Normalise the derivative by p/Q, then classify with |ε|.
+205ik13qbbn Compute R = pQ at both points instead of blindly extrapolating a local conclusion.
+1coehiwdse0 For the exact change in the other market, use the ratio from the power function.
+1enkr6gx67j Mark (Q,p) = (80,20) and (70,25), then the corresponding pQ rectangles.
+28xcgcfui4o Don't use this line to represent the other, constant-elasticity market.
+1hy6rg6vb3i A demand is elastic if…
+1bk365e7o45 εD is negative, whatever its magnitude
+hwx8ul3jsw Most downward-sloping demands have a negative sign; that is not enough to classify the magnitude.
+wqo8a2ao4f The proportional reaction of Q exceeds that of the price.
+awyf40xayi A positive cross elasticity indicates…
+gf46ebxwq1 A luxury good
+12p9sicfth6 Luxury is read from income elasticity, not cross elasticity.
+1zud98yev5d Substitutes in the given model
+12lkc97iadv The other good's price rises and the demand studied rises.
+1edylwewpik Why normalise the derivative by p/Q?
+q83w0ctw1t To make all elasticities positive
+1v4fkhyt77j Normalising does not remove the sign of the derivative.
+nz2doue3po To convert the absolute reaction into a proportional reaction

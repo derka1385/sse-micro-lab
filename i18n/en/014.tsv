@@ -1,0 +1,221 @@
+pxx0mh9vyw IR: the customer can also buy nothing
+2e81o9csek6 Customer L values Low at 8 and High at 12. With prices 8 and 16, they get 0 on Low and −4 on High. They prefer Low to High, but they are also indifferent to staying out: the offer must cover their outside option, not just beat the other offer.
+1100ve6h67t IR_L: VL(Low)−TB≥0; IC_L: VL(Low)−TB≥VL(High)−TH. Here IR_L0, IC_L0≥−4, IR_H4≥0 and IC_H4 = 4.
+hlj6pgrl8f IC can hold while every offer gives negative utility: nobody participates.
+1d151c5dyc6 In the usual menu, extracting all of L's surplus can force the seller to leave an information rent to H.
+22tmg936o8y You must check all four constraints, not declare IC_H and IR_L sufficient without looking at the others.
+14yn3n4a5h0 Setting TB = 9 and TH = 17 would leave L with −1 on Low: even if Low is their best contract, they prefer the outside option 0. H keeps a rent of 4 in the initial menu.
+2c4kmq3yf9p You are L: "less bad than High" is not enough; you can keep your money and turn both down.
+1m6k883pwrd L prefers Low(−1) to High(−5), outside option 0. What's the problem?
+q0zgjt5ko9 IR: L refuses every contract
+1a0y2k4wdrg IC compares the offers, but participation requires at least 0 here.
+rfzla5bg7z IC_H only
+121n2iirxww The comparison shown concerns L and their refusal to participate.
+1zhl92e00o4 None, since Low is better than High
+i5coscxgx4 You forgot the outside option.
+19xi8j6488j Two products: add up the same person's values
+4jwyjd464q Gourmet mostly loves dinner: 100 for dinner, 50 for the room. Snoozer relatively prefers the room: 80 and 70. Each therefore values the bundle at 150; selling a bundle can reduce the dispersion of values the seller has to deal with.
+23vm7v8jda6 Pure bundling: bundle only; mixed bundling: bundle and separate sales. Compare profits including costs; the revenues of 300 and 260 assume MC = FC = 0 here to count as profits.
+p0zgbry1b6 Separate: dinner price 80 sells 2 → 160; room price 50 sells 2 → 100.
+12vu3ql94zs Bundle at 150 sells 2 → 300; the product values are negatively correlated in this case.
+1p01ba6tiax High costs or customers who would buy only one service can change the best arrangement.
+1vuk9kbvp63 Separate 260; bundle 300; gain 40 at zero costs. If both arrangements sell exactly two dinners and two rooms, their identical costs cancel out; don't generalize to different volumes.
+1wy6q9s9ace You're selling a package: for each customer, add up their dinner and their room, not Gourmet's dinner with Snoozer's room.
+22tyaa9rig0 Snoozer values dinner at 80 and the room at 70: their WTP for the bundle?
+1czfmwqc2sw 80+70 = 150 for the same person.
+o3cgzdvjjq 170 adds up the best values of two different people.
+21irgd6s7sn At zero costs, bundle revenue 300 and separate 260: profit gain?
+1g81ex1noy0 300−260 = 40, under the explicit assumption of zero costs.
+ckgiei3ab6 Two-part: charge for entry and for use
+2aph9l6tf49 The seller knows a customer whose every use costs 2 to provide. It charges them 2 per use so they stop at the right point, then levies an entry fee. The usage price creates the incentive; the fee shares out the gain without changing the marginal decision once inside.
+73l06uzrkh One known customer, D = 10−q, MC = 2: T(q) = F+pq; p = 2 → q = 8; CS before F = (10−2)×8/2 = 32; F = 32 → profit 32, production FC 0.
+19c0rie19bg At p = MC, the customer compares their marginal WTP with the real cost of a use.
+1px1jjdl2me F can then capture the participation surplus without changing that marginal price.
+x8uixydqpm With several types and a common fee, p = MC is not always optimal: participation changes.
+24svk2b9hal Total payment 32+2×8 = 48; cost 16; profit 32. The customer receives value 48 and pays 48: net utility 0 with weak participation.
+10ti14a0h61 You've already paid to get in: for the next use, the 2 per use counts, not the past fee.
+1vw59oozg1m D = 10−q, usage price 2: how many uses?
+1y7afe5vuyg What maximum F with a single known customer and outside option 0?
+c2rcljhpl7 Surplus before the fee = (10−2)×8/2 = 32.
+iuxro8e08a 48 is the total value; the customer already pays 16 for usage.
+25ta9dv1mf2 50 corresponds to free use, not to p2.
+116ljytfexa Usage price and subscription don't give the same quantity
+28dt5mm1zxp q: units consumed
+ae6zdxx5q6 Marginal WTP / cost / usage price
+2fyxoo0licn One known customer: D = 10−q, MC = 2. Single price 6 → q = 4; two-part tariff p = 2 → q = 8, F = 32; subscription only p = 0 → q = 10, F = 50. F is a fixed payment by the customer, not the fixed cost of production.
+179motrv5sp Consumption stops when marginal WTP reaches the usage price.
+11w7rx9g8r7 MC = 2 / use p = 2
+102jnzzpn9f The efficient usage price covers marginal cost.
+saqoibyc6e Use p0
+gkbvgcbrjv A subscription alone makes use free, not resources.
+1dt5tg7pumb Single price
+2cmgogv9w0b Two-part
+uizzpa4cjv Subscription only
+d8m6m9y2ut A subscription alone makes use free
+jxr947hg96 The seller asks only for a fee, with no price per use. Once in, the customer uses the service until their marginal value reaches 0. This can exceed the efficient level when each use still costs 2 to provide.
+1towd792syu Same customer, subscription only: p_usage 0 → q = 10; F = 50; cost 20; profit 30. This is not the two-part tariff p = 2, F = 32 that gives profit 32.
+7wuov4tqzk The fixed payment is sunk in the decision about one more use.
+ddf717g9ov At q = 9, value 1<cost 2 but the customer pays 0 at the margin: they still want to use it.
+155u5recibo F here denotes subscription revenue, not the fixed cost of production; renaming the symbols avoids confusion.
+1gnu9pi853c F = area under D up to q = 10 = 10×10/2 = 50; profit 50−2×10 = 30. Two-part: profit 32 with only 8 uses, so fewer resources wasted.
+12ftugabexv You're at an all-you-can-eat buffet: the last helping seems free to you, while the provider still pays for its resources.
+1dkxqko79t4 Subscription only F = 50, q = 10, MC = 2, production FC 0: profit?
+z1neunze8k Subscription revenue is not profit: the uses have to be paid for.
+21egcinzec5 32 belongs to the two-part tariff, a different contract.
+z6hpkpa8uh A discount can displace a better customer
+x5lzujb95w The concert has 2,000 seats, already demanded by 3,000 fans willing to pay 1,200. Students offer 500. Even if letting a student in costs almost nothing physically, their seat here replaces that of a fan who would have paid 1,200.
+upkxcifj27 Binding capacity: opportunity cost of a seat. E2025: price 1,200 to the 2,000 fans → revenue 2.4 million; adding a category at 500 creates no seats.
+2fxwbbnkfa6 The extra seat doesn't exist: one customer must replace the other.
+2dtdbzm4rtf The revenue forgone through replacement is 1,200−500 = 700.
+74prn8tke3 With unsold seats or weaker fan demand, the reasoning could change: the constraint must be checked.
+ge1metd0an Replacing 100 fans with 100 students loses 100×700 = 70,000, given these WTP and MC = 0. A discount is not profitable merely because it serves an identifiable group.
+2djcjijybtb You run the box office: before opening a fare, ask how many seats would really stay empty without it.
+1i971kx8722 A fan seat at 1,200 replaced by a student at 500: revenue forgone?
+6wqbeepszt 1,200−500 = 700 of opportunity cost.
+26wca2xh6r2 The physical cost of 0 does not erase the displaced customer.
+23i4jntate6 Ticket and T-shirt: maximize profit jointly
+1m607itl8gr An organizer also sells T-shirts to attendees. A cheaper ticket can attract visitors who then buy a product with a margin. The best ticket price therefore depends on the profits it creates elsewhere, not just on ticket sales in isolation.
+1dwurw30zae Lowering pc increases Qc but also the T-shirt customer base.
+298hqzcj547 The firm compares the revenue lost on tickets with the margin gained on T-shirts.
+2bzjo16yvlg An interior result must respect QT≥0 and the domains of the demands.
+1vpddw05nkq pc = 3040/7≈434.29; pT = 1060/7≈151.43; Qc = 3960/7; QT = 1840/7>0. Without T-shirts, pc = 500: here the complement motivates a cheaper ticket.
+21sud8gowrb You're the organizer: a campaign that lowers revenue per ticket can improve total profit if it creates enough margin elsewhere.
+2comuvvx97u Why not maximize ticket revenue separately here?
+17st8tbrwy2 The ticket price also changes T-shirt sales and margin
+b4jol822mn The two demands are linked through the number of visitors.
+11hqy2tmn05 Because all complementary products must be free
+1p4itknwqd0 The right trade-off is calculated; it is not a rule of giving things away.
+78x2xnq8el Because the MC of T-shirts is 0
+1wgltmfrod2 The given cost is 20; forgetting it would change the FOCs.
+ff4ifxd6j9 Before calculating, state which contract you're analyzing
+7cfzar38cz The seller may recognize your status, let you choose a version, or sell a bundle. These mechanisms give neither the same constraints nor the same quantity. You solve the exercise by identifying what the seller knows and what each customer can choose before optimizing profit.
+1khfdn5bu7s Checklist: observable → third degree; hidden type/menu → second degree; exact values → first; bundle → bundling; T(q) = F+pq → two-part, with p0 if subscription only.
+1wzgzrhgotw The word "subscription" does not automatically specify the usage price.
+23o0sni6600 A contract must be chosen and accepted by customers before its revenue is achievable.
+134amc5zim7 Conclusions on profit and welfare require costs, capacity and the outside option to be stated explicitly.
+hqkgclwyct E2023 subscription D = 10−2q, C = 10+2q: use 0, q = 5, F = 25, profit 5. With two-part p = 2, q = 4, F = 16, profit 6: confusing the arrangements changes the answer.
+9bwus97n1m You get a new problem: first write "what does the customer pay to get in, then for one more use?"
+m4les6f7ls Rebuild a tariff analysis.
+1yje88piyd Identify what the seller knows and the possible contracts
+ax34utcqel Compute each type's values and net utilities
+5wrte52uoh Check participation, incentives, arbitrage and capacity
+1bfku9y4tbw Compute quantities, revenues and costs
+1jd7h1vjn3s Compare profits, then surplus effects
+kz7azyzj05 Identify what the seller knows and the possible contracts → Compute each type's values and net utilities → Check participation, incentives, arbitrage and capacity → Compute quantities, revenues and costs → Compare profits, then surplus effects
+241jrcnsjtd A common price leaves surplus to high-WTP customers and may exclude other customers.
+2z2p2wh0cm An observable type allows groups; a hidden type requires a menu or another form of self-selection.
+j9qu9ah14r They choose their best offer and can also refuse: IC and IR limit extraction.
+1ai6yk02ygh An announced price earns nothing if the customer switches contracts or doesn't participate.
+2cxwpjlu5vg More revenue or more categories do not guarantee a net gain.
+1rmnvk7s3nr A profit gain can be a transfer or come with a less efficient allocation.
+2eq5wg2g8ec An observable student fare is third degree; a menu for hidden types is second-degree self-selection. H can get 12−8 = 4 on Low. To make them choose High, 20−TH must reach at least 4, so TH≤16: asking 20 violates IC_H. IR also checks that each customer prefers participating to the outside option. A subscription alone sets the usage price to 0; a two-part tariff separates the fee and that usage price.
+z7i4azlnz3 The seller wants to capture different values.
+rhk63thxdv The available information determines the mechanism.
+fw9o114v6n Each customer compares all their net utilities.
+1ffd6xeaeqo Achievable revenue depends on actual choices.
+cc2e71sh9q Costs, arbitrage and capacity decide profit.
+9uvh8kh07u Welfare is counted separately.
+1t80ybvbcki Explain the difference between an observable student fare and a Low/High menu. With VH(Low)12, VH(High)20, TB = 8, TH = 16, why can't the seller ask TH = 20? Also distinguish subscription only from two-part.
+1utzsda4v98 Observable or hidden
+1q02zzlszxd Third degree sorts a known group; second degree makes the hidden type choose from a menu.
+2desm0z7n7m Compare the contracts
+1w2as1mzluy H gains 4 on Low; TH = 20 would leave them 0 on High, so they would choose Low.
+1qxkw2ksaqz Being able to refuse
+k82ocu42om Participation requires at least the value of the outside option.
+28yl00xx4qq Separate usage price
+2g4o7hfgdnw Subscription only: use priced at 0; two-part adds a usage price that can be MC for a known customer.
+22h7kchhj2z IC compares the offers with each other; IR compares the best offer with refusing to participate.
+1w95akji2zz The fee is revenue for the seller; the fixed cost of production is a separate expense.
+14s1kg2lki7 Choosing a tariff for a known customer
+5y1p56n5l2 Constructed exercise, inspired by L9 and E2023 Q2c; no official solution. A single known customer, zero fixed production costs and weak participation are assumed.
+1dt6khmb4t1 Usage p = MC = 4 → q = 8; F = (12−4)×8/2 = 32; usage revenues cover variable cost, so π = 32.
+d5u1n8o6bv Usage p = 0 → q = 12; F = 12×12/2 = 72; cost 4×12 = 48; π = 24.
+1ps76h69nnt Identify the marginal usage price in each contract.
+g5q7i560mt Determine the customer's consumption, then the surplus that caps the fixed payment.
+2cxchgudz38 Subtract the true costs to compare profits.
+1qsa1hhocyk Two-part: p = 4, q = 8, F = 32; payment 64, cost 32, π = 32.
+1cyeff141an Subscription only: p_usage 0, q = 12, F = 72; cost 48, π = 24.
+s0qw77qwe9 Draw D = 12−q and MC = 4.
+1xpyc3t3a37 Efficient consumption is q = 8; free use leads to q = 12, where units 8–12 have WTP<MC.
+rqr8qxa26y The two-part fee of 32 is the triangle between D and p = 4 over 0–8.
+19j2vi4qwt2 A student group identified at the point of sale falls rather under…
+1rj4trws9kz Status is observable; no self-selection through contracts is needed.
+13kmqk4yn5b Second degree concerns a hidden type that sorts itself through its choice.
+1j9zby9y5gv Status does not reveal the exact WTP of each unit.
+jix9lmwi1o IR checks…
+2cgultslccj That a customer accepts rather than taking the outside option
+atgo5im0hj Participation and incentives answer two distinct comparisons.
+1b1j7862s24 That they prefer their contract to the other
+pe5gno6q9r That's IC.
+13ehuiccnxs That the seller sets MR = 0
+1xpbasp1ymj IR concerns the customer's participation choice.
+245q136yph4 Why might H choose the Low version?
+1i3jll2aw33 Their price saving exceeds their loss of value
+dsj1ntciws They maximize their own net utility, not the menu label.
+1ppe69h6xlt Because IC is automatically satisfied
+10i014kevvg That's exactly why IC_H has to be checked.
+1bh53ekwtme Because H must have the same tastes as L
+7s38w2lrky Each type compares the contracts using its own values.
+236lcyq8rwb Rebuild the possible overconsumption under a subscription alone.
+2b0l2g3wqgl The customer pays a fixed fee
+1jbch94pe4u The price of one more use is 0
+1cnj0by6jh1 They consume until marginal WTP is 0
+23myyv8eqem If MC>0, some units cost more than they are worth
+140zy6ebbe5 The customer pays a fixed fee → The price of one more use is 0 → They consume until marginal WTP is 0 → If MC>0, some units cost more than they are worth
+vseylkljfd Rebuild a two-part tariff.
+27t9vr62rr8 A fee plus a payment per use.
+y1n9hkqwz2 H values Low at 10, High at 18; Low costs 6. Maximum High price with weak IC_H?
+1ga9wreyree H keeps 10−6 = 4 on Low; 18−TH≥4 → TH≤14.
+f02xbrh0l8 18 satisfies IR_H but violates IC_H because Low leaves 4.
+1523lok4ock D = 10−2q, C = 10+2q; subscription only with use priced at 0: profit?
+jo7erlbhj9 q = 5, F = 25, cost 10+2×5 = 20, profit 5.
+1vzdr9ifwou 6 is the result with a usage price of 2 and a fee of 16, a different contract.
+pon5hsl6yh A seat can already be sold for 1,200. Does selling it for 500 at physical MC 0 create a gain of 700?
+1lr0402ro1z No: it sacrifices 700 of revenue at fixed capacity
+11eqv5iizte The opportunity cost of the displaced customer counts.
+1u7b2ltgozr Yes, because MC = 0
+230gevy1y9o The seat is scarce even with no additional physical cost.
+138l5x04y6x Yes, any discount increases profit
+1anlz6b6gv3 The constraints and the counterfactual decide.
+1veeigoytft Another customer displaced
+nans3fdvy9 Opportunity cost
+1p9jezecycv I recognize the information, the degree and the scope for arbitrage.
+283fu8ng04e The pricing mechanism depends on what the seller knows and can prevent.
+15kpb8apt83 I compute the choices and check each type's IC and IR.
+2deunj1fk8u An announced revenue is unattainable if the customer deviates or refuses.
+1ob6k8m6lgf I distinguish subscription only from a usage price plus a fee.
+v82gtankb7 They give different marginal incentives and quantities if MC>0.
+1ybnwsv3xcc I compare profits including costs and capacity, then welfare separately.
+libfvgcavd More revenue, a new category or an identical total Q does not guarantee an efficiency gain.
+1akf0izgihp Oligopoly — anticipating the other's choice
+g2um5wbz1h Cournot, Stackelberg and Bertrand
+1x2js5359tt A firm no longer decides alone. Its choice changes what its rival does. Quantity, price, simultaneous or sequential: the game must be chosen before the formulas.
+d4j07xw7ct Choose purchases based on price and substitutes.
+uu39eu0yfm Get the service at the best value for money.
+1eweiy62fr7 Firm 1
+1x29jd46963 Chooses its strategy taking its rival into account.
+1fpemg7w5t2 Maximize its own profit.
+1f8vitccw3o Firm 2
+xl0zi96ghn Responds to the conditions created by firm 1.
+ctulu70sfe Also maximize its own profit.
+ppdlfraqvq Compares the outcomes of the competition rules.
+1trrcim8fwn Count real output, prices and costs.
+fgfib05xsm What does each firm choose, and when?
+1a8s2t9thae Two sellers can compete by announcing volumes or by announcing prices. One may also decide first, while the other observes and reacts. These rules change the best choice: the mere words "two firms" do not yet give a model.
+2e754czxng0 Cournot: simultaneous quantities. Bertrand: simultaneous prices, with homogeneous or differentiated products to be specified. Stackelberg: sequential quantities in its usual version.
+vk4194f6hy A rival quantity taken as given does not play the same role as a rival price.
+20jxqxlz7f9 Observing a first choice lets the second be conditioned on it; the first mover anticipates this.
+1qbtn4iuz8x Homogeneity and capacity determine whether a small price cut can attract the whole market.
+188r55agsdh Two copper producers choosing q1 and q2 on the same day: Cournot. Two cafés choosing their prices: differentiated Bertrand if customers tell their products apart.
+41kbod2a7r You're reading the problem: underline "quantity", "price", "first", "observes" before writing down a reaction function.
+2235r09c2ms Two quantities chosen simultaneously for a homogeneous good: which game?
+1vk2x2gin1l Cournot
+y5a0e9ydfb The strategic variable is quantity and the choice is simultaneous.
+4sihk9drwo Bertrand, because there are two firms
+1uaczslf83h The number is not enough; Bertrand is about prices.
+127k79g2ecs Stackelberg, because firm 1 is mentioned first
+2b16wkfkak3 It takes a real sequential commitment, not the order of the names.
+1qydpwbry6i Nash: each responds to the choice the other actually made
+1hq359cz2v7 Firm 1 looks at firm 2's volume and chooses the volume that earns it the most. Firm 2 reasons the same way. We look for a pair where neither wants to change alone, holding its rival's choice fixed.
+ldk0vycpzu Nash: no profitable unilateral deviation. The intersection of the best responses is an equilibrium; it does not mean maximum joint profit.
+hml4cpoq2u A best response is conditional on the rival's choice.

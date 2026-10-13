@@ -1,0 +1,233 @@
+pcjarhuliw Teaching example: R(n)=20 n−n²; AP=R/n=20−n; MP=dR/dn=20−2 n; cost per boat=4. Open access AP=4; optimum MP=4.
+fsq2o0fggs At n=8, each boat gets AP=12, but an entrant adds only MP=4 to the total.
+zk9ju3aw19 The difference AP−MP captures revenue shifted away from the others; that is why entry goes on too long.
+iej3q47q53 Optimum: 20−2 n=4 ⇒ n=8. Open access: 20−n=4 ⇒ n=16. Total surplus 16 n−n²: 64 at n=8, zero at n=16.
+vxw9sqnnv8 You still gain personally by entering after n=8. But look at what's left for your neighbours after you enter.
+3stuyh4y0c Fishing: entry looks at the average, society at the marginal
+1ngcs6s0nvw Continuous teaching example: total revenue R(n)=20 n−n², total cost 4 n, 0≤n≤16. Vertical axis in € per boat per day; n is a number of boats treated as continuous.
+1oq6ipio12j n: active boats
+24tb62iltkj € / boat / day
+1kpt1btqm0q Average revenue AP = 20−n
+1nv7xvlb2et Expected revenue of an entrant who shares the total catch.
+jxzxxlpgyr Social marginal revenue MP = 20−2 n
+1vd6jjyfxtu Addition to total revenue, including the drop in others' catch; negative beyond n=10.
+zb8t8gqvdo Cost per boat = 4
+2bty0sdo746 Fuel and labour used by an extra boat.
+4gi4xozjo7 Optimum n=8
+1cc58y0w2ax Open access n=16
+1v1u3hnfjyg With R=20 n−n² and total cost 4 n, what n maximizes collective surplus?
+fabq03uu3x boats
+qwum71synn Derivative of surplus 16 n−n²: 16−2 n=0 ⇒ n=8; the second derivative is −2.
+2da936il8xw 16 corresponds to AP=cost, so to free entry, not to the optimum.
+fjthg99mll And how many boats enter under open access if each receives R/n?
+izm5pdow3n AP=20−n=4 ⇒ n=16. At this point, private profit is zero and the collective rent has been dissipated.
+277x4e7uhe 8 compares the social marginal with the cost; a private entrant looks at their average share.
+1sipcj2w6ah The right remedy depends on the wrong incentive
+290akqmc76b For the street, contributions are missing despite a shared value. For the lake, there is too much entry despite a limited resource. A useful rule must therefore target the problematic choice: paying in the first case, entering or harvesting in the second.
+o3fdl6maf3 Permits, quotas, fees, access rights and local rules can limit pressure on a commons. Compulsory contributions concern the funding of the public good.
+1aofxvzdyb7 A boat quota directly limits rival use; a fee makes part of the collective cost visible to the entrant.
+2dal4a5s20o A solution must still be enforceable and suited to the information available; naming a policy is not enough.
+1c2x0xrp17k In our lake, allowing eight boats reproduces the efficient benchmark, with effective enforcement and unchanged costs. A rule allowing sixteen boats corrects nothing.
+293vr5jucdh You're advising the town hall: before saying "tax", name the actor, their choice and the consequence they ignore.
+28k5ct6foya Rebuild the street problem.
+15qq4rdhf86 The same level benefits the residents, even those who don't pay
+14cgb7m031d A resident can wait for others to pay
+20yob1kjhzt Their contribution doesn't reflect all the social benefits
+1quudmjfdii Voluntary funding can stay below the efficient level
+1filn49wphu Their consumption of the shared service doesn't split into private units.
+2as3z73ms2d Non-exclusion makes waiting for others' payments individually attractive.
+12xju1w38zx The payer doesn't recover in their budget all the value provided to others.
+19ly8q6hdry A single extra unit provides several benefits at once.
+x9c8gle4v8 The last useful unit is worth its real cost to the community.
+1rh2ski5st7 The street benefits everyone at the same level, even those who don't pay. So everyone can wait for the others, and their private contribution doesn't reflect the whole collective gain. To choose Q, I add up the positive MBs at the same Q and compare their sum with MC. In the lake, catches are rival: an entrant looks at their average revenue, whereas their social marginal contribution is lower because they reduce others' catches. Open access attracts too many boats.
+23gl83qagkc The same Q benefits several residents
+28iegilnztl Anyone can benefit without contributing
+1v0cbhu1yuu The private choice leaves out collective gains
+1e9xth8s0zg The MBs are summed at the same Q
+a7b85tjwd9 The optimum sets this sum equal to MC
+r7szpcgr22 Explain to a neighbour why the street can be underfunded despite its value. Then say why the open lake suffers from too much use. Finish with the difference between the vertical sum and average revenue.
+8smr4g1q32 One level Q
+u96sz7dxkx The residents benefit from the same level of the public good.
+qda9a5nrh1 The incentive to wait for others
+yjmq22wmw6 You can benefit without paying, so you under-contribute.
+tlj20ipktm Collective value of the margin
+1zhgqdkir2k Individual MBs add up vertically at the same Q.
+2e1lc2jlz4l Compare with cost
+12h3dwxsvcz The sum of MBs is compared with the MC of the common unit.
+1uq5d0zt62q Excessive rival use
+1ilzszrtt1l The entrant ignores the drop in others' catch and looks at AP, not social MP.
+c00vfb1w1f Here everyone benefits from the same Q. Add up the MB heights at that Q, not private quantities.
+2bzi4sub766 Voluntary provision can be positive: a big beneficiary may fund it, but without counting all the neighbours' gain.
+2vabb4a6gy The commons is rival and tends to be overexploited; the pure public good is non-rival and can be underfunded.
+1s0mp5kiuqy Practice built from A6 and §11.9. The cleaning data are documented; the lake is a teaching example. This is not an official solution.
+kkc0j36wn8 Vertical sum 36−3 Q=27 ⇒ Q=3; all three marginal benefits remain positive.
+rqhszbpgai Efficiency: R′(n)=20−2 n=4 ⇒ 8. Entry: R(n)/n=20−n=4 ⇒ 16.
+14ua4pnomup Non-excludable and rival: what type of good?
+5nv3qotvjh Pure public good
+2ae8m4srk27 The pure public good is non-rival.
+2dwjzws0qps Common resource
+jbtkou8356 It is precisely open access to a resource whose use reduces others' use.
+9voso9qjum Club good
+15n8guw384c A club good is excludable and non-rival in the pure model.
+25uqrmcj0kb What does MB measure?
+wzdpq74vbq The benefit of the extra unit
+1as2cxo79ht Marginal = one addition, at the current level.
+1goblubpiep The total cost of production
+1uo3g9ndat9 MB is a marginal benefit, not a total cost.
+1pg91w55hg4 Rebuild free riding.
+1lkx1an6s1a Access to the good even without paying
+1di1yaxg9ls Avoidable private contribution
+27kjbmkgrpf Others' benefits left out of the private choice
+1kvkol2numx Potentially insufficient voluntary provision
+5n0rozy50w Why can a profitable entry into a lake reduce collective surplus?
+eauz1x9sna The entrant ignores the drop in catch of the boats already there
+2161d6n40ca Their average revenue doesn't measure what their presence adds to total revenue.
+1njpl4cllkt Because fishers don't value the fish
+kr2x506uzi The fish's value is precisely what attracts entrants; the problem is the cost imposed on others.
+tx2fyp6nxb Because a private benefit is always zero
+u9c9k1ao7y Entry can be profitable before the rent is fully dissipated.
+1q134g17kfk MB_1=max(0,10−Q), MB_2=max(0,20−Q), MC=14: efficient Q?
+11dykdbto51 For Q≤10, 30−2 Q=14 ⇒ Q=8, a valid segment.
+98f3ggke2r MB_1=max(0,8−Q), MB_2=max(0,2−Q), MC=3: efficient Q?
+6jh3av0384 The two-MB solution, 3.5, is outside the segment; after Q=2, 8−Q=3 ⇒ 5.
+4pibkc15rq A digital library can block non-subscribers, and one reader doesn't bother the others. What classification?
+24fk0ovts6m Excludable and non-rival, assuming no congestion.
+1wf6yb36qqd Pure public
+v9mlvmwnjp Access is excludable.
+1f5gaxb0o64 Commons
+13zorikpusu The commons is non-excludable and rival.
+1didyjjzdna A reservation closes access to the lake and limits the boats. Which mechanism does it change directly?
+21whoiv12h2 Open access and the pressure of rival use
+slbtvvs83s The rule targets the number of users and the harvest, not the vertical sum of a public good.
+kvgq0uk2vq The non-rivalry of fish
+1ssc63sglxd Fish caught don't become available to others thanks to a reservation.
+11qicsya3tf The need to fund a common wifi speed
+9sbjg0ydya That's a different problem: here the competing use of the resource is at stake.
+18zug41bpgi Same quantity
+1zaf20dzrrj Own average share
+11tjahxxj59 Loss imposed on existing users
+o1q5sk5x1y Social marginal comparison
+12jkitamg6c Classify a good by asking separately about exclusion and rivalry.
+714s4pg57e Public funding or a high cost is not enough.
+132066c46ko Sum the MBs at the same Q and check the thresholds where WTP is zero.
+gj84qm4hfr A linear sum can become invalid after a beneficiary drops out.
+14eo2zy43ny Explain a positive or zero under-contribution without saying the good is worthless.
+157hx03bak4 The incentive to pay differs from the value received.
+1v1jyzlro1u Separate AP=cost under open access from social MP=cost at the optimum.
+1ckd0cps0wt A profitable entry can shift revenue away from other users.
+1flxxa3gsnx Hidden information — cars, degrees and credit
+210c0bpxm0h Selection of types and incentives for actions
+29clh7ywm2s Why can a reliable car disappear from the market? Why can the bank lose by asking for more? Put yourself in the shoes of the one who knows and the one who chooses.
+vcpos2mz5h The agent / buyer
+2dtxzv1jp8v decides with their information and private gains
+26jqnzt4rnu choose the contract or effort that suits them
+1dbc9cyxuow The seller / principal
+1hnw7h8wgrz holds the quality or proposes the contract
+ub8368cjvv carry out a profitable exchange
+2eraexzsszu The hidden type
+1f2ulhdeqlu bears a different cost or has a different quality
+9hdkj6oilx accept only an offer that suits them
+1lsv7bi5r6 The evaluator
+rn5b958jd1 compares surplus and incentive feasibility
+z51qukgegv not presume the desired action
+12pd5zhvr4z The bank / monitor
+228lunsnnd0 finances or verifies an outcome
+s690cew4n4 propose a rule consistent with the choices
+mr6bg43uar You buy without knowing what the seller knows
+kwi128nnol You want a used car. The seller knows whether it's reliable; you see only its bodywork. Before choosing a formula, identify the information each side has and the decision it changes.
+vslvrw4cdg Asymmetric information: one party has relevant information that the other lacks. Uncertainty alone is not enough.
+mld9roagaj An event can be risky for both without either knowing more.
+15ymny7pbph The economic problem begins when this information gap changes a choice, an offer or an effort.
+1khw5i2cqsu Future weather unknown to both parties: shared risk. Quality already known to the seller alone: asymmetric information.
+uwnpfy51e5 Ask "who knows what, and when?" before writing adverse selection or moral hazard.
+1y80juodqo4 Future rain is unknown to the buyer AND the seller. Does this show an asymmetry?
+8jkfb9otny Yes, all uncertainty is asymmetric
+28fpkdklq6a Asymmetric means the information differs between the parties.
+kk1z9y2lql No, private information on one side is missing
+fj7lftmttb The risk can be shared; look for who knows more.
+18l17hmrqk3 A hidden type and a hidden action don't pose the same problem
+1h0hgz6zmlz A car's reliability exists before it is sold; the buyer doesn't know this characteristic. The mechanic's effort, by contrast, is a choice they can change after signing their contract. In one case the contract attracts certain types; in the other it influences behaviour.
+18huoua6elo Adverse selection: private type, risk or quality. Moral hazard: an action or effort that is imperfectly observable. The main criterion is the nature of the information; timing helps with the diagnosis.
+2dbdjcj66z7 An average contract can drive out the good types without changing what they are.
+usr0qqetzo A payment that depends on the outcome can change effort without revealing an initial quality.
+xwglrktfhn An insurance policy can attract the riskiest drivers, then reduce their caution: two different mechanisms in the same contract.
+xmxtljjjt7 You're an insurer: distinguish "who signs up?" from "how do they drive once insured?".
+2dxm0l1ekg4 An insured person becomes less careful after being covered. Which mechanism?
+lj7fk2kl8h Adverse selection
+1yqhqazzwt8 That would concern the type of driver attracted before the contract.
+1xmznk1cpya Moral hazard
+113igzfb26r Coverage changes a private action after signing.
+g2vs70d02a No risk
+18n2gsk0vhm The risk remains; its level changes with behaviour.
+1hal5pkn4h0 Without hidden information, both qualities can be sold
+16zl2ghbxtz A good car is worth 150 to you and its owner refuses anything below 130. A bad one is worth 50 to you and its owner refuses anything below 30. If everyone sees the quality, a price between the two values can make both parties gain for each quality.
+kg3cimypws Gains from trade: the buyer's WTP above the seller's reservation value. L12 gives the intervals [130,150] and [30,50].
+1jevd9624rh The seller's reservation value is what they give up by selling the good.
+1szladwjq8x A potential gain doesn't guarantee that a market with hidden quality will realize it.
+yj3da9i9mx Good car at 140: the buyer gains 10 and the seller gains 10 relative to their reservation value. Bad one at 40: the same gains, 10 and 10.
+vybrm2bdur You can offer 140 for the good car if you know it's good. That knowledge makes the price credible for you.
+wcjynzcqy8 What is the total potential gain on a good car: value 150, reservation value 130?
+3d3hlwlrjr 150−130=20, regardless of how the price splits this gain.
+jsmlex2nuo The two values aren't two benefits to add up: the reservation value is the seller's sacrifice.
+r76lwbm5wl 10 would be each side's share at a price of 140; the total surplus is 20.
+kt05e0d8aj The average price holds only if the average sellers stay
+2a8ry15mhaq You initially believe you have a one-in-two chance of getting each quality. If you're risk-neutral, you offer at most 100. But the owner of a good car refuses that price: the cars that remain are no longer a half-good sample.
+2fs3h1hkj1b Initial WTP E[v]=0.5×150+0.5×50=100. An equilibrium belief must be consistent with the selection of sellers at the price offered.
+234pdlhfu9r The price is not just an average of values; it is also a rule that selects who sells.
+13rtalgfiz0 If the good type has a reservation value of 130, offering 100 eliminates precisely the type that justified the average of 100.
+13cobrbqb66 At p=100, low-quality sellers accept because 100≥30, good ones refuse because 100<130. If only the low ones remain, WTP=50.
+xgbgfwclkr You look at the listings still available after your offer: re-evaluate their composition, not just your first calculation.
+20thpbxwj15 The average price can destroy its own assumption
+29p01xzb39d L12 data: good car valued at 150 by the buyer and 130 by the seller; bad one at 50 and 30. The initial probability of good quality is 1/2.
+2f6qxq0grbd Uninformed buyer
+g25k3bpzss Offers at most 100 if both qualities remain in equal shares
+2epbc93elat (150+50)/2=100 is an expected value, not the value of each car.
+1btachppdkb Seller of a good car
+1iicznk2zie Refuses 100 because their reservation value is 130
+1pirw2yws0z Good cars leave the market at this price.
+1o6icqdh2eq Rational buyer
+wys9t8lgyg Revises their belief about the cars still on offer
+167dcufo544 If only bad ones remain, their WTP falls to 50.
+10g6n0tjmxv Before selection, with 50% good cars valued at 150 and 50% bad ones valued at 50, what expected WTP?
+2gaybt1s8aw (150+50)/2=100; this WTP is conditional on the assumed composition.
+28qmglybihe Why doesn't a price of 100 support the 50/50 belief here?
+1ihyu7eeh8h Sellers of good cars refuse 100<130
+1fql3vokxap The composition of the cars on offer changes: the belief must be revised.
+1n0g7oh00xm Bad cars are worth 0
+1xa2prnm8n4 They're worth 50 to buyers; the problem is the exit of the good ones.
+n7s64sqjxy None of the sellers knows the quality
+2b5aejez6jw The seller is precisely the informed party in this case.
+213l375hxfg If nobody knows the quality, it's no longer the same market
+1pr1tgdd1ed Now imagine that even the seller doesn't know their car's type. Under risk neutrality, their average reservation value is 80 and your average value 100. So there may be a mutually acceptable price, with no selective exit based on a known quality.
+yui713qev5 Symmetric uncertainty: E[reservation]=0.5×130+0.5×30=80. Trades between 80 and 100 are possible in this model.
+177z6hjtrr9 Private information lets the good seller knowingly refuse an average price.
+1kau7c91n7u Without that knowledge, the same selection can't be mechanically reproduced; risk aversion could, however, change the reservation values.
+neu5kpwwdx Price 90: buyer's expected gain 100−90=10; seller's 90−80=10. This calculation uses risk neutrality, not a quality guarantee.
+p3mxvp8lcw You're comparing two scenarios: who holds the information changes, even if the initial probabilities stay the same.
+1j852hp58tn If no seller knows the quality, what is their average reservation value with 130/30 equally likely?
+1zo3lmok598 100 is the buyer's average value, not the seller's reservation value.
+4eiy7a1w5y Who takes the initiative to reveal the type?
+pww6y8b5dc A reliable seller offers a warranty that unreliable sellers find costly to imitate. A buyer, on the other hand, arranges an inspection or offers a menu to learn what they can't see. Both reduce the information gap, but the initiative comes from different sides.
+174lyp8e7oo Signalling: an observable action by the informed party. Screening: a test, data collection or menu organized by the less informed party.
+1cd35azucwm An action reveals the type only if the types have different incentives to choose it.
+la9mzlr2g4 A signal that is very costly for everyone isn't necessarily discriminating: it must be relatively harder for the bad type to imitate.
+my365clfru A seller offering a credible warranty: a signal. A buyer demanding an independent inspection: screening. A collective reputation can also reduce uncertainty about small brands.
+8wmfsia2a2 You're a reliable seller: ask why a low-quality seller wouldn't immediately copy your move.
+dnzefuqax7 A less informed firm makes candidates take a test. Which mechanism?
+7ohfu827aj Screening
+29yoq592dvz The employer is trying to learn the type it doesn't observe.
+1hguu4f2xnx Signalling by the employer
+27l8qp4np3i The informed party would be the candidate, not the employer, in this example.
+1z8h7k388xb Moral hazard already shown
+15q1pf0j2do A test of types doesn't show an effort choice after the contract.
+1aogoiyhmct A degree separates the types only if one wants to copy it and the other doesn't
+169fpizw61c The degree gives access to a wage of 100 instead of 60. One candidate pays 20 in effort to get it; another pays 60. The first gains by getting the degree, the second loses: the same signal creates two different choices because its cost depends on the type.
+13peu3c0bpb Strict separation if C_A<40<C_S, because 100−C_A>60 and 100−C_S<60. At equalities, indifference must be handled.
+cleu1ovaux What must the cost of the degree satisfy for a type that strictly chooses to get it?
+1dhnhr6kn68 Cost < wage gain of 40
+kt3gl0kckf 100−C>60 ⇔ C<40: the wage gain must cover the cost.
+122tnwdhp1y Cost >40
+216mvvt72hh They would then earn less net than by staying without a degree.
+1mojdig4ovn A credible signal is read through two comparisons, one per type.
+n1564fo7ai The same degree choice for both types would be pooling; the degree can also build skills, which this calculation doesn't deny.
+rdra7mbifb Type A: 100−20=80>60. Type S: 100−60=40<60. If C_S=40, S is indifferent, so strict separation is no longer guaranteed.

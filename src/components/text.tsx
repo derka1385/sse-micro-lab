@@ -3,6 +3,7 @@ import { GLOSS, TONE_VAR } from '../content/glossary';
 import type { Prov } from '../content/types';
 import { decode, resolve } from '../dossier';
 import { familiarity, openOverlay, useProgress } from '../store';
+import { t } from '../i18n';
 
 /** French typography: non-breaking space before ? ! : ; » and after «. */
 const typo = (s: string) => s.replace(/ ([?!:;»])/g, ' $1').replace(/« /g, '« ');
@@ -39,7 +40,7 @@ export function Abbr({ k }: { k: string }) {
         className={`abbr ${fam >= 2 ? 'abbr--known' : ''}`}
         style={{ ['--tone' as string]: TONE_VAR[g.tone] }}
         onClick={() => openOverlay({ kind: 'abbr', key: k })}
-        aria-label={`${k} : ${g.english || g.french}. Ouvrir la fiche`}
+        aria-label={`${k} : ${g.english || g.french}. ${t('Ouvrir la fiche')}`}
       >
         {k}
       </button>
@@ -71,12 +72,12 @@ export function DecodeCard({ k }: { k: string }) {
         </span>
       </div>
       <dl className="decode-grid">
-        <dt>Littéralement</dt>
+        <dt>{t('Littéralement')}</dt>
         <dd>{typo(g.literal)}</dd>
-        {g.who && (<><dt>Qui ?</dt><dd>{typo(g.who)}</dd></>)}
-        {g.marginal && (<><dt>« Marginal » ici</dt><dd>{typo(g.marginal)}</dd></>)}
-        {g.units && (<><dt>Unités</dt><dd>{g.units}</dd></>)}
-        {g.curve && (<><dt>Sur le graphique</dt><dd>{typo(g.curve)}</dd></>)}
+        {g.who && (<><dt>{t('Qui ?')}</dt><dd>{typo(g.who)}</dd></>)}
+        {g.marginal && (<><dt>{t('« Marginal » ici')}</dt><dd>{typo(g.marginal)}</dd></>)}
+        {g.units && (<><dt>{t('Unités')}</dt><dd>{g.units}</dd></>)}
+        {g.curve && (<><dt>{t('Sur le graphique')}</dt><dd>{typo(g.curve)}</dd></>)}
       </dl>
       {g.note && <p className="decode-note">{typo(g.note)}</p>}
     </div>
@@ -112,8 +113,8 @@ export function Formula({ f, block, onWhy }: { f: string; block?: boolean; onWhy
     <div className="formula-block">
       <span className="formula">{body}</span>
       {onWhy && (
-        <button type="button" className="why-mini" onClick={onWhy} aria-label="Pourquoi cette formule ?">
-          Pourquoi ?
+        <button type="button" className="why-mini" onClick={onWhy} aria-label={t('Pourquoi cette formule ?')}>
+          {t('Pourquoi ?')}
         </button>
       )}
     </div>
@@ -123,13 +124,13 @@ export function Formula({ f, block, onWhy }: { f: string; block?: boolean; onWhy
 export function SourceRef({ r }: { r: string }) {
   const res = resolve(r);
   return (
-    <button type="button" className="src" title={res ? res.title : 'référence du dossier'} onClick={() => openOverlay({ kind: 'source', ref: r })}>
+    <button type="button" className="src" title={res ? res.title : t('référence du dossier')} onClick={() => openOverlay({ kind: 'source', ref: r })}>
       §{r.replace(':', ' ').replace('#', ' ')}
     </button>
   );
 }
 
-const PROV_LABEL: Record<Prov['kind'], string> = { doc: 'Documenté', recalc: 'Recalculé (dossier)', peda: 'Complément pédagogique' };
+const PROV_LABEL: Record<Prov['kind'], string> = { doc: t('Documenté'), recalc: t('Recalculé (dossier)'), peda: t('Complément pédagogique') };
 
 export function ProvTags({ prov }: { prov: Prov[] }) {
   return (

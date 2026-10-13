@@ -1,0 +1,202 @@
+1zp2z6mwea8 Demand measures [[MPB]]: the willingness to pay (WTP) for the marginal unit. In A6: {{MPB = 100 − 3Q}}.
+21v92yd46gy You → all buyers
+zbnyhltbdg You can picture ONE buyer (you). In the market, the curve {{MPB = 100 − 3Q}} lines up all buyers from most to least enthusiastic: the point Q gives the value of the Q-th panel to whoever buys it.
+qz2xifuv10 The curve slopes down because each extra panel serves a less important use than the previous one (diminishing marginal utility, §4.1).
+jdpuzd2zog We reason "at the margin" because your decision is made unit by unit: buy the 11th panel or not. What counts is what THIS panel adds (§2.1).
+2byyf7bcxvx This is demand: if the price is p, you keep buying as long as the next panel is worth at least p to you. At each price, the quantity bought is where MPB = p. The MPB curve IS demand, in inverse form (§2.4).
+tk0kfll554 Your 1st panel powers the fridge and the lights (very useful). The 8th heats the pool (nice, less vital). The 30th produces a surplus resold for almost nothing.
+1tgrt9yd05x The seller offers you one more panel at €70. You ask yourself: "is THIS panel worth at least €70 to me?" If yes, you buy it. That is all you look at.
+1asbrx9bpgt The blue MPB curve: its height at Q = what the Q-th panel is worth to the buyer. Move the slider: at Q = 10, it is 70.
+gxjnsi8q1m sees MPB: their value of the next panel
+1u1qpauj7ys With {{MPB = 100 − 3Q}}, how much is the 10th panel worth to the buyer?
+3k3xkhs1zu Replace Q with 10 — or put the graph slider on Q = 10.
+2bvluyfg64j 100 is the value of the very first panel (Q = 0). The 10th is worth less.
+14zzck7msr5 In [[MPB]], what does "marginal" mean?
+r5eg3skex2 The total benefit of all panels bought
+vd20n25co0 That is a total (the area under the curve). Marginal = one more unit.
+1gt10nnvpjg The benefit of the NEXT panel, just one
+1uyt58zus0l Exactly: marginal = the effect of one extra unit.
+pq3p8b5g2s A small, almost negligible benefit
+bbfwx6c0h No: in economics, "marginal" does not mean "small". It means "for one more unit".
+1m065c912n5 MPB definition
+avhajgsj4v What does the producer look at?
+22b9tplkjgr MPC(18), cost of the 18th panel
+9aybpj647k The manufacturer asks the mirror question: "how much does ONE more panel cost me?" The first ones come off the most efficient machines; to make more, you need overtime and pricier materials. The cost of the next panel rises.
+14rcw142akq Under competition, supply is the [[MPC]] curve: the firm produces as long as p ≥ MC (§6.5). In A6: {{MPC = 10 + 2Q}}.
+5jcbep17y6 The curve slopes up: producing more forces the use of ever more costly resources, so the cost of the NEXT unit rises (§6.4).
+25g2u8o5cxy This is supply: a price-taking firm produces as long as the price covers the cost of the next panel, and stops where p = MC (§6.5). At each price, the quantity supplied is read off MPC.
+8lnk55kvx3 "Private" because it is the cost THE PRODUCER pays. If its factory imposed a cost on others (noise, smoke), that would not be in it. Here, we assume there is none.
+llcha11j0q The first 10 panels come off the main line; from the 15th on, the workshop must open on Saturdays, with overtime wages.
+1xfgnvybrx7 You are the manufacturer. A customer wants one more panel. You compute: materials + hours for THIS panel = €46. Below €46, you lose money on that particular panel.
+kpp8odmnyr The orange MPC curve: its height at Q = what the Q-th panel costs the manufacturer.
+9givru2s4h sees MPC: their cost of the next panel
+9wmajq5hi0 With {{MPC = 10 + 2Q}}, how much does making the 18th panel cost?
+x70syvacwj Replace Q with 18.
+bcg6ikgsk9 Where does trade stop?
+33g72ioid7 Qm, where trade stops
+27nob5dxz5z As long as a panel is worth more to the buyer than it costs the manufacturer, there is a price that suits both: it gets sold. At the 18th panel, value = cost = €46. The 19th is worth €43 to the buyer but costs €48 to make: no price suits both. Trade stops at 18.
+289a0v5ft7l Market equilibrium: {{MPB = MPC}} ⇒ [[Qm]] = 18, p = 46. Beyond it, MPB < MPC.
+1jk1mof20ae Which equality describes this stopping point?
+1iz68y5by0h Yes: the value of the last panel to the buyer = its cost to the manufacturer.
+28kotueg2xj That is where the buyer would want nothing more even for free. Cost matters too.
+15bv8scpjl5 Cost is never zero here. Compare value and cost.
+ct9aijk21p We don't add them up: we compare what one gains with what the other spends.
+1c35ie4z8ld As long as MPB > MPC, a price in between (e.g. 45 for a panel worth 50 that costs 40) makes BOTH gain. Mutually beneficial trades take place.
+i1nd8dch8w At the 19th: 43 < 48. For the manufacturer to accept, the price must be ≥ 48; for the buyer to accept, ≤ 43. No price satisfies both.
+1vgb3mjjnye At p = 46, the quantity buyers want (18) equals the quantity sellers want (18): nobody gains by changing. That is the equilibrium (§3, F01).
+ptaal04a5z At the Saturday market, each panel sold is a handshake. The 19th: the seller says "48 minimum", the buyer "43 maximum". No handshake.
+1c9ctr5htzr You have 18 panels. The seller offers you the 19th at €48. It would only bring you €43. You refuse — and you are right, from YOUR point of view.
+1k3tjck9k40 Qm = 18 is the intersection of MPB and MPC. The slider is on Q = 19: look, MPB (43) is below MPC (48).
+17cd0np17r After Q = 18, why does the market produce no more panels?
+1sky7d5a3rp The manufacturer has run out of stock
+118pghqavyq Nothing stops it from producing: it could — but at a cost nobody wants to pay.
+kaedy3ytnj The next panel costs more to produce than it is worth to the buyer
+23i7m3zp5ml Yes: MPB < MPC. No price suits both.
+1z943e488kq The state forbids it
+1mc55g8gj1y There is no intervention at this stage.
+v9yxn83gqf The neighbours no longer want panels
+8nmod5nnjb The neighbours have no say in the transaction — that is precisely the problem we are about to discover.
+17a39qhbq3k On the graph, put the slider exactly where the last trade happens, then confirm.
+d1vpans1q4 Qm = 18: the intersection of MPB (blue) and MPC (orange).
+18xtqvqhkek Qpriv 18, p 46
+cbxs65prfz private equilibrium MPB = MPC
+28cu6jdt517 And those outside the transaction?
+h5ptw6xe82 Each panel installed replaces a little electricity made from gas or coal: a little less pollution in the air your neighbours breathe. In exercise A6, each extra panel gives them the equivalent of €20. They paid nothing and nobody asks their opinion.
+1k0quuxvvmi Third parties receive a benefit per unit, uncompensated and not reflected in prices.
+27ey6jojp02 You don't count those €20 because your decision compares what YOU gain with what YOU pay. Those €20 pass through nobody's pocket in the transaction.
+1twes0ww1wm Nobody makes them pay: you would have to identify each neighbour, measure their gain and make them pay their share. In practice, transaction costs prevent it (§11.6).
+36ratsr9jv So a piece of information is missing from the price: the market price reflects the value to the buyer and the seller's cost — nothing else.
+u7ro9cqlay Vaccination (E2020 Q3): getting vaccinated protects you, but also lowers the risk that you infect others. You receive nothing for protecting others.
+25i27iduxuo No neighbour will ever ring your doorbell to give you €20 per panel. So in your head, those €20 don't exist.
+1xaegzfiriq Nothing moves on the graph yet: the neighbours' €20 appears on no market curve. That is the heart of the problem.
+12id7slwvm4 gain without deciding anything
+6l6gscks7p When you decide to buy your 19th panel, do you count your neighbours' €20?
+260kmkc11c2 Yes, since I receive them
+25dkue04gq2 You don't receive them: they go to the neighbours.
+2b5crytr24s No: those €20 go to the neighbours, they don't enter my calculation
+cdrkfpkgaf Exactly. Your private decision ignores that benefit.
+23gady27nqm Yes, because the seller pays them back to me
+1z0b0wdn0v1 The seller gains nothing from those €20 either: nobody pays them.
+1dh3xqz2o5x avoided-pollution mechanism
+1yfgeb9mrg2 What is this effect called?
+1tgna2kjwu9 An effect on third parties that is not taken into account in the transaction is called an **externality**. When the effect is good for third parties, it is a **positive externality**. A factory's pollution would be a negative externality.
+1vuf5a1dch3 Externality: an effect on a third party, not taken into account in the transaction (§11.1). Positive: vaccination, research, networks. Negative: pollution, noise.
+27ps17dwkn1 "External" because the effect leaves the buyer–seller circle: it reaches someone outside.
+16v07gqmihw An effect that goes THROUGH a price is not one: if the price of milk rises and makes your coffee pricier, you pay and someone receives. An externality is precisely an effect that has NO price.
+29ffz7ty3ik It matters because the market only adds up what has a price. What has none is ignored in the decision — hence a quantity that can be bad for society.
+xejvsd5ang Positive: vaccination, shared research, beehives next to an orchard. Negative: pollution, noise (E2025 Q1c), a coal plant (E2021 Q1c).
+1kopch8p8x4 Your action (buying panels) has a consequence (cleaner air) for people who are not in your transaction. That's it — that is an externality.
+hf2slb3l0x Still nothing new on the graph: naming the effect does not bring it into prices.
+kb30k5umnz Which of these cases is a POSITIVE externality?
+f462ani0md A factory dumps fumes into the river
+2gj8jvd9km5 That is an externality, but a negative one: harm to third parties.
+1ps62ejk4vc A researcher publishes a discovery that other firms use for free
+1m22t4ygb25 Yes: a benefit for third parties, without payment.
+1zhzkcj5hf8 Your coffee costs more because the price of milk went up
+113ot27w8eh This effect goes through a price (someone gets paid): it is not an externality.
+2e6r2tj2btp The manufacturer cuts its prices
+1vj6y8zqoux A price change is not an external effect.
+sif2byafeo definition and examples
+qk4v7ufqcy How much is this effect worth, panel by panel?
+ky66z67j3r MPB(18) + MEB, social value of the 18th
+13vs9x5fz3s We measure the externality like everything else: for ONE more panel. The benefit an extra panel creates for others is called the [[MEB]]. Here, each extra panel brings €20 to the neighbours, whatever the number already installed.
+23d7zrmc5di [[MEB]] = 20, constant: each extra unit gives third parties a benefit of 20. The TOTAL external benefit of Q units is the area under MEB (20Q).
+1dllfxsmihv We measure "per panel" because all decisions are made at the margin. The externality must be in the same unit (€ per panel) so it can be added to the other values.
+112kaf750g0 Constant here by assumption of exercise A6: each panel replaces the same amount of pollution. It is not a law — MEB can depend on Q (last block).
+2b66na2hcx2 MEB is a MARGINAL, not a total: the TOTAL external benefit of 18 panels is 18 × 20 = 360, the area under MEB (§11.1).
+1055ecdzc0o If each panel avoided 0.1 tonne of CO₂ valued at €200 per tonne, we would get MEB = €20 per panel (illustrative figures).
+6stqd0bm3h Each time you screw in a panel, picture €20 dropping into your neighbours' (invisible) pocket — not yours.
+1ft9w5rd5dj The purple line MEB = 20: it is not a market curve (nobody buys it). It is the value, for third parties, of each extra panel.
+fv6i6jikup receive MEB = €20
+1jrhlxbx5jn At the 18th panel, how much does the WHOLE of society (you + your neighbours) gain from this panel?
+11j42fgi5pn Your share: MPB(18). The neighbours' share: MEB.
+1tx6m7eki80 MPB(18) + MEB = 46 + 20 = €66. You have just computed one point of the future MSB curve.
+1bhxbruv27p 20 is only the neighbours' share (MEB). Add yours.
+6urlf6e4z8 46 is only your share (MPB(18)). What about the neighbours?
+25yxw4403rc A value for the neighbours ADDS to yours: it is not subtracted.
+mtak1w7a9n marginal vs total
+qpl2a4lfof How much is a panel worth to society?
+19o8lgjurx1 You just computed it for the 18th panel: 46 for you + 20 for the neighbours = 66 for society. Do it for every Q: you get a new curve, 20 above MPB.
+1oxqa24dbtl {{MSB = MPB + MEB = 120 − 3Q}} (A6). MSB > MPB because MEB > 0.
+260cyufesqf The value of an extra panel to society as a whole is…
+1s78wrmxgr The neighbours' benefit is a gain, not a loss: it adds.
+ce60jsf35s Yes: the value to the buyer + the value to third parties.
+291bbtyvkyn We add € per panel; multiplying makes no sense here.
+22trvffrzl5 MEB only
+2dz63m9532f You are forgetting the buyer: they are part of society.
+ufiy6btz44 You built MSB from the actors: it is the course formula (§11.1, F34).
+3thd9g08su MSB is NOT government money
+1i2xgzo6fnk Nobody "pays out" MSB. It is a measure of VALUE: what the panel is worth to everyone together. The state may later spend money (a subsidy), but MSB exists even if it does nothing.
+1c0gm6awwxu We add because society is everyone. If a panel is worth 46 to one person and 20 to the others, it is worth 66 to all together: the values of different people for the SAME unit add up.
+25eyrf7rd4t We add vertically, at the same Q, because it is the SAME panel that benefits the buyer and the neighbours — exactly as for a public good (§11.8).
+o753nfz3g5 MSB lies above MPB because MEB > 0: each unit has value on top of what the buyer sees.
+1pufsbbejvz Vaccines (E2020 Q3): demand 100 − Q and MEB = 20 give MSB = 120 − Q.
+rcjctdgeqn If you could cash in your neighbours' €20 on each panel, your value of a panel would no longer be MPB but MPB + 20 = MSB. MSB is "you, if you also received the others' gain".
+1zhvp42ai1g The green MSB curve is exactly 20 above MPB at every Q: the purple arrow at the slider shows this +20.
+2bdalwb6lz4 sees MSB = MPB + MEB
+pfxllk8auc [[MSB]] represents…
+1gvnu5qv7me The money the state spends on each panel
+9m753lfbc2 That is THE classic confusion. MSB is a value, not a flow of money: it exists even if the state does nothing.
+2cm8y3lx39f The value of an extra panel to the buyer and third parties combined
+1gnosrppyyi Exactly.
+d53c8j9r57 The price paid by the buyer
+18q7te1731s The price paid is read off MPB (demand) at the quantity traded.
+1zi4gr4vqvi The neighbours' benefit only
+1ergp5lpqlr That is MEB. MSB adds the value to the buyer.
+uahscltpeg And the cost to society?
+24mesv3qr5v MEC in A6
+288vcmqde0u Same question on the cost side: does the panel cost anything to anyone other than the manufacturer? In this exercise, no. So the cost to society of one more panel is simply its production cost.
+12u7k2a3yit {{MSC = MPC + MEC}}; here [[MEC]] = 0 so {{MSC = MPC = 10 + 2Q}}.
+w8ra224dca Cost of one more panel to society = cost to the producer + … ?
+1cz232mb1fs + the cost imposed on third parties (MEC)
+18leyrqqifa Yes. Here that external cost is zero.
+104verskny0 + the benefit to third parties (MEB)
+112l5o2esnx A benefit is not a cost: MEB is already in MSB.
+eroo7z2b2w + the subsidy
+2zccg5rp2g A subsidy is a transfer of money, not a real production cost.
+1u5xlw6suon We ask because the social optimum compares ALL benefits with ALL costs. Forgetting an external cost would overstate the right quantity.
+2ckmi9cq93f MEC = 0 by assumption of the exercise. In other exercises (petrol L11/E2023, textiles E2024), MEC > 0 and MSC lies above MPC.
+vzcw0lirw7 If the panel factory made noise at night, its neighbours would bear a cost: that would be an MEC. Here, we assume not.
+r94tez6k95 The manufacturer pays everything its panel costs, and nobody else pays anything. So for society, a panel costs exactly what it costs the manufacturer.
+2d518vwlgiu No new curve: MSC coincides with MPC (orange). Only the "benefit" side has moved.
+dg04s4skho compares MSB and MSC
+2frjbohkrao Why is there no separate MSC curve on the graph?
+16gdknsb5sr Because MEC = 0: production imposes no cost on third parties in this model
+1zlvjradxe Exactly: MSC = MPC.
+rudjx1t32d Because the state pays the costs
+11kq22926ot No intervention is in place, and public spending would not change the real cost.
+29povxikgva Because with a positive externality, MSC = MSB
+29lsd5xffy2 No: MSB and MSC are two different curves that cross at Q*.
+1jofnw4a7r0 no MEC in A6
+166oz7epvp8 How many panels would society want?
+1a0ncy3eyio Q*, social optimum
+5ikd5esa36 Picture a benevolent planner who counts everyone. They add panels as long as one more panel is worth more to society than it costs it. They stop when the two are equal.
+2c9x5l600h6 Social optimum: {{MSB = MSC}} ⇒ 120 − 3Q = 10 + 2Q ⇒ [[Q*]] = 22. The universal rule is MSB = MSC (§11.1).
+19jifssrykk Which equality does the planner use?
+1s8d2y24eeo That is the market rule: it ignores the neighbours.
+qmgsezj99i Yes: social value of the last panel = its social cost.
+yetyvo543e These two curves never cross here: they are parallel, 20 apart.
+25dakudc0pz You are forgetting the value to the buyer.
+1ppxhe4kijl Before 22, each panel adds more social value than it costs → adding it raises welfare. After 22, the reverse → adding it lowers welfare. The maximum is at the crossing.
+r5ksf8bxcv The market doesn't do it on its own because nobody in the transaction receives the neighbours' €20: the private decision compares MPB with MPC, not MSB with MSC.
+zhl3vmlymr This is the universal rule: whatever the externality (positive, negative, production, consumption), the social optimum is MSB = MSC. Only the side of the graph that moves changes (§11.1).
+2563zq4pbs2 E2020 Q3 vaccines: 120 − Q = 10 + Q ⇒ Q* = 55, above the market (45).
+11xb6nzyc8g If you were both the buyer AND all your neighbours, you would buy 22 panels: you would count 46 + 20 for the 18th, and keep going until your value + the neighbours' = the cost.
+wm5pbhecn3 Q* = 22: intersection of MSB (green) and MPC (orange, = MSC). Qm = 18 stays where the market stops.
+1p13apgfdhb wants Q* = 22
+6nvn750r85 Check the crossing: what is MSB(22)? (It must equal the cost MPC(22).)
+1407n4xpebl MSB(22) = 120 − 66 = 54 = MPC(22) = 10 + 44 = 54 ✓: at Q*, social value = social cost.
+1i56bgfsnqk 34 = MPB(22): the value to the buyer alone. Add MEB.
+rjg4lz2w3z With no intervention at all, does the market reach Q* = 22?
+19zjcpzdwzq Yes, a competitive market always finds the optimum
+9569a75kf7 Only if demand = MSB and supply = MSC (§7.1). An externality breaks this result.
+xyb6hln7h1 No: it stops at 18, because buyers only count MPB
+1onzjyqxpu Exactly: Qm = 18 < Q* = 22.
+1dyu95ef949 Yes, because Q* is the equilibrium point
+2eoxxgxbjax Q* here = SOCIAL optimum, not the market equilibrium. The star does not mean "equilibrium" (§18.3).
+21zi18iun4f Qeff 22
+1wcoittihpc optimum MSB = MSC
+13skowmxhhx The missing panels
+2qr82krenm Missing units between Qm and Q*
+xwbdl7ldld The market stops at 18. Society would want 22. The panels between 18 and 22 would each be worth more to society than they cost — but they are not produced, because the buyer alone does not find them worthwhile.
+hgggek4sfg On ]Qm, Q*]: MPB < MPC (no private trade) but MSB > MSC (socially desirable trade).

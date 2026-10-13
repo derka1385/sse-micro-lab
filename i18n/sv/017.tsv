@@ -1,0 +1,212 @@
+25ly7ey3zjm Efterfrågan är lika med den totala skadan
+21vjy4csdpb MPB mäter det marginella privata värdet, inte skadorna.
+16vwn5591d8 Förlusten kommer från de överskjutande enheterna
+198w0demy9x De första 30 enheterna förblir samhälleligt nyttiga. Effektivitetsförlusten kommer från enheterna mellan 30 och 45: var och en kostar samhället mer än den är värd. Man summerar bara denna skillnad över det överskjutande intervallet, inte alla skador från alla enheter.
+2f45bvfyw9f DWL = arean mellan MSC och MSB från Q* till Qm. Kurvorna är linjära: {{DWL = ½ × (45 − 30) × 45 = 337,5}}.
+igix0dufw5 Den totala skadan inkluderar enheter vars nytta fortfarande motiverar produktionen.
+1hdmh5w8kdk DWL jämför den uppnådda välfärden med den vid den bästa genomförbara kvantiteten i modellen.
+y0kjfdyz22 Vid Q = 45 är MSC − MPB = 100 − 55 = 45; vid Q = 30 är avståndet noll. Därav triangeln.
+1obhpz0qo74 Total skada 1 012,5 och DWL 337,5 besvarar inte samma fråga.
+1nackaxw0wc Att ta bort all bensin skulle också ta bort mycket nyttiga resor. Effektivitet kräver att man tar bort de enheter vars totala kostnad överstiger värdet.
+15xgxpd2ld4 Jämför areorna EXT och DWL. Den ena mäter all skada; den andra bara den undvikbara nettoförlusten på grund av Qm > Q*.
+23uryg4sk3q Triangel mellan 30 och 45, sluthöjd 45: vilken DWL?
+22cl2jwbbi1 Varför är DWL här mindre än den totala skadan?
+24wg6t0uxag Eftersom de boendes skador inte räknas
+19phomicign De räknas fullt ut i MSC och i välfärden.
+zmizyt23hh Vissa förorenande enheter förblir samhälleligt nyttiga
+nvtalpfdq3 Deras nytta överstiger deras samhälleliga kostnad; de hör till Q*.
+zj28d0rcqt En skatt ändrar vad föraren beslutar
+1ou8zf0krmt Staten kan ta ut ett belopp per liter. Föraren betalar då mer än macken får. Denna skillnad minskar den valda kvantiteten: en liter som verkade lönsam till det privata priset kan sluta vara det med skatten.
+miafmm37f2 Skattekil: pb − ps = t, med pb = MPB(Q), ps = MPC(Q). Jämvikt: MPB = MPC + t.
+15g3dlaq9c3 Köparna beslutar utifrån vad de faktiskt betalar, pb.
+1g26l93ljhh Säljarna beslutar utifrån vad de får, ps.
+1rxsqvjyr3z Skatten knyter ihop de två besluten: pb = ps + t. Den som formellt betalar in skatten bär inte nödvändigtvis hela dess ekonomiska börda.
+12cd9l9hwsy Med t = 20: 100 − Q = 10 + Q + 20 ⇒ Q = 35. pb = 65; ps = 45; 65 − 45 = 20.
+1iwcr2ve9hf Du jämför inte längre värdet av din liter med de 45 som macken får, utan med de 65 du betalar.
+1f4ft6xnyp2 Kurvan MPC + skatt bestämmer det privata beslutet efter ingreppet. Skatten på 20 sammanfaller inte överallt med MSC.
+2gg8iftzlth Med en skatt på 20, vilken kvantitet handlas?
+bnwcix83l6 Vid Q = 35, vilket pris betalar föraren?
+1q4r3avtt4 Vilket nettopris får macken?
+2g0elkgs1nj En förbättring är inte nödvändigtvis optimum
+10vxnvcyl2o Skatten på 20 tar bort tio överskjutande enheter, men marknaden stannar vid 35 i stället för 30. Vid 35 är den marginella skadan 35, högre än skatten. Den sista enheten är fortfarande för billig i förhållande till sin samhälleliga kostnad.
+uq2bireerh Kvarvarande DWL: ½ × (35 − 30) × [MSC(35) − MPB(35)] = 37,5.
+1lr6nxeda4s Man måste jämföra kvantiteten efter skatt med Q*, inte bara konstatera att den har minskat.
+zg3z4g1hl9 Mellan 30 och 35 överstiger den samhälleliga kostnaden fortfarande värdet.
+2crrla1sa8q Skatteintäkten är en överföring till staten; i sig är den ingen förstörelse av resurser.
+1ijnuco3e97 Vid Q = 35 är MSC = 80 och MPB = 65: höjd 15, bas 5, alltså DWL = 37,5. Skatteintäkt = 20 × 35 = 700.
+13skzympsav Du kan säga ”det är bättre” när du jämför 337,5 med 37,5, och sedan ”fortfarande otillräckligt” när du ser Q > 30.
+1pqq40xovd4 Den lilla kvarvarande triangeln är den undvikbara förlusten. Skatteintäktens rektangel är en överföring.
+1scvmseen6l Efter en skatt på 20, bas 5 och höjd 15: vilken DWL återstår?
+1b699pheeoa Är skatteintäkten på 700 automatiskt en DWL?
+1o33b6ta70e Ja, varje skattebetalning försvinner
+24dy3gzgrkx Pengarna tas emot av staten; de förångas inte.
+s29rvfmqqt Nej, det är en överföring som räknas hos staten
+24xe7ki6oti För att räkna ut W, summera CS + PS + intäkt och dra sedan av den verkliga skadan.
+8dan6r9lzd Varför den rätta skatten är 30, inte 45
+1e3w2pr7awr Du vill att de privata besluten stannar exakt vid den effektiva kvantiteten, 30. Därför måste literns skada betalas just där. En skatt på 45 skulle ta ut skadan vid den gamla marknaden; den skulle sänka kvantiteten för mycket.
+1p43p3uydbo Pigouskatt {{t* = MEC(Q*) = 30}}. Vid Q*: pb = 70, ps = 40, avstånd = 30. Regeln förutsätter en i övrigt konkurrensutsatt marknad och en externalitet som inte redan är internaliserad.
+1c3nz84x22z Efter skatten ändras kvantiteten: även den marginella skadan ändras.
+17d5f7jqjlo Man väljer alltså först Q* med MSB = MSC och utvärderar sedan MEC vid Q*.
+48egi8bw63 En skatt på 30 riktar in det marginella incitamentet vid målpunkten; MPC + 30 behöver inte sammanfalla med MSC vid alla kvantiteter.
+15sytsvcjba t = 30 ger 100 − Q = 10 + Q + 30, alltså Q = 30. Intäkt = 900; DWL = 0 i denna modell.
+i1gjbgkkt5 Du sätter priset på den externa effekten för den sista liter samhället vill behålla, inte för den sista litern i den gamla tankningen.
+fs1lkzrxpb Testa 20, 30 och sedan 45 på politiken. Målet är att få Qp att stämma med Q*, inte att göra skatten så hög som möjligt.
+1598p30xrt2 MEC = Q och Q* = 30: vilken optimal skatt?
+2fw19ptz14q I t* = MEC(Q*), var utvärderar du MEC?
+atwm9e180a Alltid vid den gamla privata kvantiteten
+4xt8zycbod Det är just den kvantiteten som skatten kommer att ändra.
+78rxm81d0l Vid den samhälleligt effektiva kvantiteten
+2bgiq1jqwu8 Det är den punkt där det privata incitamentet ska riktas in.
+157batntzxr Om axeln ändras måste ditt resonemang märka det
+hj4ehipspc Ett företag kan minska utsläppen utan att nödvändigtvis minska produktionen lika mycket. Här räknar axeln de kvarvarande utsläppen e. Att gå åt vänster betyder att rena mer. De första minskningarna är lätta; de sista kostar mer. Därför sjunker MAC när man läser diagrammet åt höger.
+2ug73td5dm MAC = marginell reningskostnad. L11: MAC = 10 − e, MEC = e/2. Med skatt väljer företaget MAC = t; samhället väljer MAC = MEC.
+t6akyzkay2 En utsläppsminskning undviker MEC i skada men kostar MAC i resurser.
+1usu7wt1uit Det lönar sig att minska så länge den undvikna skadan överstiger kostnaden för minskningen.
+1zmicrh8jpv En utsläppsskatt sparar t på varje borttagen enhet: företaget minskar tills MAC = t.
+2gom9nb5xtq Skatt 2: 10 − e = 2 ⇒ e = 8. Optimum: 10 − e = e/2 ⇒ e = 20/3, skatt = 10/3. En skatt på produktionen är likvärdig bara om utsläppen per enhet är fasta.
+mc4xb1tk78 Att byta panna kan undvika föroreningar utan att stänga din fabrik. Kontrollera därför om det efterfrågas en producerad eller en utsläppt kvantitet.
+sojwgfd06i Obs: axeln mäter kvarvarande föroreningar
+2fibds4nmkh e, kvarvarande utsläpp
+2827vj9qt51 € per undviken enhet
+1frpa6y51cp L11: MAC = 10 − e, MEC = e/2. Ju längre åt höger, desto mindre har du redan minskat föroreningarna. Punkten MAC = MEC ger e = 20/3.
+2bupwtx2wyb Kostnaden för att ta bort ytterligare en utsläppsenhet, utgående från nivån e.
+uxlftyuybm Skada som undviks genom att ta bort denna utsläppsenhet.
+tgpczr4kxl Optimum: e = 6,67
+20x8hk3r3kg MAC = 10 − e. Med en utsläppsskatt t = 2, vilken utsläppsnivå väljer företaget?
+5ph1rflclx utsläpp
+hf02nhi9ww Lös 10 − e = e/2 för de effektiva utsläppen.
+b86mk9i517 Samma tak, olika fördelning av ansträngningen
+1xn8szkxb16 Två fabriker måste tillsammans minska utsläppen. Den första kan rena billigt; den andra har en anläggning som är svår att anpassa. Att begära exakt samma ansträngning av båda slösar resurser: den första kan minska mer, sälja utsläppsrätter och bespara den andra de dyraste minskningarna.
+1gxl12zqj7 Med friktionsfri handel och inre lösningar utjämnar utsläppsrätter MAC till rättighetspriset. Taket bestämmer de totala utsläppen; den initiala tilldelningen fördelar räntorna.
+6ep3rdx4n6 När MAC skiljer sig åt sänker det den totala kostnaden att flytta en enhet rening till det billigare företaget.
+1pqrhn2g52x Handeln förblir lönsam så länge den sparade kostnaden överstiger den kompensation som krävs.
+28dgzpj48si När MAC är lika minskar ingen marginell förflyttning den totala kostnaden ytterligare för samma tak.
+1plnvsat25c Konstruerat exempel: MAC_A = 4 och MAC_B = 10. Låter man A minska en enhet till kan B minska en enhet mindre: nettobesparing 6, före handelskostnader.
+16cta04wqpu Om du kan ta bort ett ton för 4 kan du sälja en utsläppsrätt för mer än 4 till ett företag som skulle ha lagt 10 på det tonnet.
+1j8iq0c6vo0 Var och till vilken kostnad undviks nästa ton?
+1pe5y6zx86y € per ton
+rt10rmvmqx Konstruerat exempel för att visa en marginell handel; det är inte de totala kostnaderna för två verkliga fabriker.
+kmaimp2f22 Fabrik A
+210s2pobwkm Lite mer rening kostar 4.
+k9tirjq61x Fabrik B
+16afpvpdci3 Lite mindre rening sparar 10.
+2bmet6i4isx A renar för 4, B för 10. Vilken förflyttning av ansträngningen sänker kostnaderna?
+aay3spfemr B renar mer eftersom den har högst MAC
+1mcm99sjrou Du skulle flytta ansträngningen till det dyrare företaget.
+1ihsnav4hna A renar mer; B renar mindre
+3whqvatyy8 Samma undvikna ton kostar 4 i stället för 10.
+13arocddfvj Identiska kvoter är alltid billigast
+8lwv7oeuoi De tar inte hänsyn till olika MAC.
+1dv13fal0p9 Vilken kostnadsbesparing ger ett ton som flyttas från B till A?
+jmclkxj1jw 10 sparade hos B − 4 utgivna hos A = 6.
+8h0s3ttbkp Skatt eller kvot, när ingen känner till reningskostnaden
+1prw0o30igc Staten måste välja sitt instrument innan den vet hur mycket det kommer att kosta fabrikerna att minska sina utsläpp. Med en skatt sätter den priset på att förorena: varje fabrik minskar tills nästa ton kostar lika mycket som skatten, så utsläppsmängden beror på dess verkliga kostnad. Med en kvot sätter den kvantiteten: utsläppen är kända, men kostnaden för att nå dit är det inte. Om varje överskjutande ton orsakar skador som stiger mycket snabbt är det dyrt att ta fel på kvantiteten: kvoten skyddar bättre.
+yai546zvjc Val av instrument under osäkerhet (”prices versus quantities”): med en mycket brant [[MEC]] och en osäker [[MAC]] skapar skattens kvantitetsfel en stor förlust; kvoten låser e och begränsar den förlusten. Om MEC är flack och MAC brant gäller det omvända: skatten undviker överdrivna efterlevnadskostnader. Det är ett argument om relativa lutningar, inte en allmän regel.
+aahl2scaon En skatt garanterar priset på ett undvikt ton, inte antalet ton: om rening kostar mer än väntat förorenar fabrikerna mer.
+enwa6hu67n En kvot garanterar antalet ton, inte kostnaden: om rening kostar mer än väntat betalar fabrikerna dyrt för att hålla taket.
+a0b5twhfg9 Vilket av de två felen som kostar mest beror på lutningarna: när den marginella skadan stiger snabbt är varje överskjutande ton mycket dyrt, så man föredrar att låsa kvantiteten.
+bbhiowkfw8 Konstruerat exempel: MEC = 3e och förväntad MAC 10 − e ⇒ e = 2,5 och t = 7,5. Om MAC i själva verket är 12 − e blir optimum e = 3. Skatten 7,5 lämnar e = 4,5: förlust ½ × 1,5 × 6 = 4,5. Kvoten 2,5 avviker bara med 0,5: förlust ½ × 0,5 × 2 = 0,5.
+1h9yyvnyzqw Du ger råd till den tyska regeringen (E2021 Q1d): kolets skada stiger snabbt och reningskostnaden är dåligt känd. Du väljer det instrument som undviker det stora felet, här kvoten, och motiverar det med lutningarna.
+95tb6ncy9d Den verkliga reningskostnaden blir känd först efter valet
+1gbbtrh2whm Konstruerat exempel. MEC = 3e stiger snabbt; MAC väntas vara 10 − e men visar sig vara 12 − e. Planerat: e = 2,5 och t = 7,5. Verkligt optimum: e = 3. Skatten lämnar e = 4,5 (förlust 4,5); kvoten stannar på 2,5 (förlust 0,5).
+1m6k6vxbi5i Förväntad MAC: 10 − e
+9hvbqre841 Vad staten tror att det kostar att undvika nästa ton.
+1ijl3owisz1 Verklig MAC: 12 − e
+22bw15k4la0 Den verkliga kostnaden, upptäckt efter valet av instrument: rening kostar mer än väntat.
+4hg4wmcug0 Skadan från nästa ton stiger snabbt: ett överskjutande ton kostar de boende allt mer.
+1ryt7rintmw Skatt t = 7,5
+2b01fxj5fr8 Skatten sätter priset på att förorena: företaget förorenar tills MAC = 7,5, oavsett sin verkliga kostnad.
+vaqo2m45tm Kvot e = 2,5
+unn4aepnps Kvoten låser kvantiteten: 2,5, oavsett kostnaden för att nå dit.
+ijlohemiz1 Verkligt optimum: e = 3
+1u1o4reilg8 Skatt: e = 4,5
+1hih1p6ofcs Mycket brant marginell skada, dåligt känd reningskostnad. Vilket instrument begränsar förlusten bäst?
+d9r7zdiq8q En skatt, eftersom den alltid är effektivare
+8iutmeyn5n Under osäkerhet vinner inget instrument alltid: allt beror på lutningarna.
+rkcswzr9ea En kvot (utsläppstak)
+270e5w3wj4b Den låser kvantiteten: det dyra felet, att förorena alldeles för mycket, undviks.
+2f6l8a9htjr Spelar ingen roll: skatt och kvot ger alltid samma resultat
+1qv4mvj423w Utan osäkerhet sammanfaller de; med osäkerhet låser den ena priset, den andra kvantiteten.
+21wdyq656by Verklig MAC 12 − e och skatt 7,5: hur mycket släpper företaget ut?
+gx32972zxc 12 − e = 7,5 ⇒ e = 4,5, i stället för optimum 3.
+1n0gl9uvpyr Förhandling kan internalisera, under precisa villkor
+fgh8cg8d3c Om en fabrik och dess granne lätt kan förhandla och vet vem som har rätten att förorena eller att kräva ren luft kan de dela vinsten av en nyttig minskning. Men hundratusen drabbade, omstridda mätningar och dyra avtal kan förhindra en sådan överenskommelse.
+1z9r3mpyjr0 Coase: definierade rättigheter och transaktionskostnader på noll möjliggör en effektiv allokering under teoremets antaganden. Tilldelningen av rättigheter ändrar betalningarna och fördelningen.
+18iuwt4sr51 Om det är mer värt att undvika en skada än vad minskningen kostar finns det ett överskott att dela.
+2dlx1ah948r Den initiala rätten avgör vem som måste betala för att få till förändringen.
+19you3kf3q8 Kostnaderna för mätning, samordning och avtal kan överstiga överskottet och blockera överenskommelsen. En fusion som skapar ett monopol kan också införa en annan snedvridning.
+erf1aqjuiw Att minska bullret kostar verkstaden 20 och är värt 50 för grannen. En ersättning mellan 20 och 50 gör minskningen lönsam för båda, om den initiala rätten tillhör verkstaden.
+18rr7c5p9oy Du skulle betala upp till 50 för att sova bättre. Verkstaden accepterar från 20. Men utan en tydlig rätt eller ett avtal som går att genomdriva garanterar denna möjliga vinst ingen överenskommelse.
+mn8y8trje2 Överskottet från en överenskommelse
+1ikey9pw30t Konstruerat exempel; villkorad effektivitet, inget löfte om att varje verklig förhandling lyckas.
+26ijjfpnh16 Grannen
+ua17j6bj8r Värderar den undvikbara skadan: 50
+1o5m3m1pvbk Skulle gå med på att betala högst 50 för minskningen.
+1byatp5uac4 Verkstaden
+1dxb3tnbtzv Värderar kostnaden för minskningen: 20
+1erz2sqjtga En ersättning över 20 gör att den vinner.
+2azxzw9pecd Båda
+12alwuf96a5 Söker en betalning mellan 20 och 50
+wbdpldz5eg Det totala överskottet på 30 kan delas om förhandling är möjlig.
+1or9qes60gm Vad ändrar en annan initial tilldelning av rättigheter nödvändigtvis?
+10sd3zwoqvo Den effektiva kvantiteten måste alltid ändras
+o8a3sa2bzt Det är inte teoremets slutsats vid kostnadsfri förhandling.
+1636vi0g33x Vem som betalar och hur vinsterna fördelas
+1hbjx3egntt Under Coases antaganden kan effektiviteten förbli densamma men inkomsterna ändras.
+25k435p854p Ingenting alls, inte ens betalningarna
+29w7447c3et Den initiala rätten ändrar utgångsläget och ersättningarna.
+5wkpun1n0i Samma mekanism, andra siffror: textilier
+t411qffao Vi byter produkt. Textilier förorenar; ekvationerna är andra, men frågan är densamma: ”vilken kostnad glömmer de privata besluten?”. Utgå på nytt från den frågan och bygg sedan de två jämvikterna. Du behöver inte memorera resultaten från bensinmarknaden.
+1lh9l5a3q6s Fallet E2024 i dossiern: MPB = 200 − Q, MPC = 80 + Q, MEC = Q, alltså MSC = 80 + 2Q.
+v50oj8g3dw Produktens namn avgör inte metoden; det gör incitamenten och den saknade kostnaden.
+17enm1zrbm5 Den privata jämvikten ignorerar MEC, medan det samhälleliga optimum lägger till den.
+20wlm9ond74 Skatten räknas ut först när Q* är hittat; DWL mäter de överskjutande enheterna.
+30g4cpik6i Qm = 60; Q* = 40; optimal skatt 40; DWL:s höjd vid Qm: MSC − MPB = 200 − 140 = 60; DWL = ½ × 20 × 60 = 600.
+1y2zf9qkggk Inför en ny uppgift: identifiera tredje part och den ignorerade kostnaden innan du letar efter en formel i minnet.
+zin21imwsf Diagrammet byter parametrar för textilier. Resonemanget privat mot samhälleligt är detsamma.
+22shneqb7aw Textilier: 200 − Q = 80 + 2Q. Vilket Q*?
+1a7ftp1zcvp Med MEC = Q, vilken optimal skatt för textilier?
+1rh8bcex1gg Qm = 60, Q* = 40, slutligt marginellt avstånd 60: vilken DWL?
+1shylkody4e De fattar sina beslut utifrån vad de får och betalar.
+toplml3e4t MEC finns inte med i den privata transaktionen.
+143h7tj332w MSC = MPC + MEC summerar alla verkliga marginalkostnader.
+17nsgm3nv7c MPB = MPC ger Qm > Q*, där MSB = MSC.
+23icvn36mlf t* = MEC(Q*) får konkurrensmarknaden att stanna vid den effektiva kvantiteten.
+10nci0q87af Föraren köper utifrån sitt privata värde och priset; macken producerar utifrån sin privata kostnad. De boende drabbas av en skada som inte ingår i deras transaktion. Den samhälleliga kostnaden MSC = MPC + MEC överstiger alltså den privata kostnaden. Marknaden Qm = 45 innehåller liter vars samhälleliga kostnad överstiger värdet; Q* = 30 utesluter dem. En skatt lika med MEC(Q*) = 30 låter denna marginella skada betalas och riktar in de privata besluten mot den effektiva kvantiteten.
+lt2ka8zb9z Föraren och macken jämför privata vinster och kostnader
+gjchva5wu9 De boende drabbas av en obetald skada
+rem819d1sd Den samhälleliga kostnaden överstiger den privata
+3p4qdy3lu5 Marknaden konsumerar samhälleligt överskjutande enheter
+1wbn1fasyu9 En skatt utvärderad vid Q* korrigerar det marginella incitamentet
+2296o3lm1q0 Förklara för en vän varför en tankning kan vara lönsam för köpare och säljare och ändå innehålla för många liter för samhället. Koppla ihop aktörerna, den glömda kostnaden, Qm/Q* och den optimala skatten.
+sskh3oy9ev Det privata beslutet
+1651rd9m10a Föraren och macken räknar bara privata vinster och kostnader.
+15ys9rqcipq Kostnaden för tredje part
+15dt9443l7g Skadan för de boende saknas i det privata priset.
+232q03ik2o4 Varför för många liter
+207dsrvo8ko MSC > MPC innebär Qm > Q*: de överskjutande enheterna kostar samhället mer än de är värda.
+g7kb51kx88 Korrigeringen
+20vtzby7bf Den optimala skatten är den marginella skadan utvärderad vid Q*, inte vid den gamla kvantiteten.
+1a978kjd9h0 MEC mäter skadan av en enhet till; den totala skadan summerar alla enheter.
+12vgmb3diyy Hitta Q* och utvärdera sedan MEC(Q*). Skatten ändrar kvantiteten, så det gamla MEC(Qm) är inte målet.
+75v2c6gbjo Skatteintäkten är en överföring som staten tar emot. DWL mäter en nettoförlust av välfärd.
+16qpbt24691 En fabrik betalar sina anställda men ersätter inte grannarna för bullret. Var finns externaliteten?
+dmjvodrdrb I lönerna
+145imeugoyz De ingår redan i de privata kostnaderna.
+2b72i52mohh I det oersatta bullret
+10c88w50jn6 Det drabbar tredje part utanför utbytet.
+1rvaiqil4z Varför kan ett frivilligt utbyte vara ineffektivt?
+kdebpm9rcs Eftersom varje utbyte förstör välfärd
+1qtzwu56gs9 Utbyte kan ge en vinst; alla effekter måste räknas.
+xrin89ezrc Tredje part kan bära en obetald skada
+1kg3j38aa3e En privat överenskommelse garanterar inte allas välfärd.
+21clzhr7yxl MEC betecknar…
+1pghghsg15z Den totala skadan från alla enheter
+10bqhiyo7v9 Det är integralen av MEC.
+2g93wwa26j9 Skadan för tredje part från en enhet till
+ohoqokjp6p Marginell = en enhet till.
+2csziwrmm8s En väldefinierad rätt att förorena med kostnadsfri förhandling garanterar enligt Coase…
+1u9pks66g6h Att staten automatiskt betalar all skada
+1y9d68aq214 Coase beskriver förhandlingen mellan parterna.
+18sl0y77vg4 En möjlighet att förhandla effektivt, med en fördelning som beror på rättigheterna
+ra58mmk0g1 Antagandena gäller rättigheter och kostnader; betalningarna ändras.

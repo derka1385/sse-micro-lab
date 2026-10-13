@@ -1,0 +1,41 @@
+======================================================================
+3. ANGEBOT, NACHFRAGE, GLEICHGEWICHT UND SCHOCKS — L2
+======================================================================
+
+Nachfrage: die Menge, die Käufer bei jedem Preis kaufen wollen.
+Angebot: die Menge, die Verkäufer bei jedem Preis verkaufen wollen.
+Annahmen des einfachen Wettbewerbsmodells: viele Akteure, homogene
+Produkte, Preisnehmer; keine nennenswerte strategische Interaktion.
+Den Markt nach Produkt, geografischem Gebiet und Zeitraum abgrenzen.
+
+Beispiel L2 p.7/16/20: QD=10-p, QS=-2+p.
+Gleichgewicht: QD=QS ->10-p=-2+p ->p*=6, Q*=4.
+Bei p=4: QD=6, QS=2, Nachfrageüberschuss von 4, Druck nach oben.
+Bei p=8: QD=2, QS=6, Angebotsüberschuss von 4, Druck nach unten.
+Eine negative vorhergesagte Menge außerhalb des Bereichs bedeutet meist Menge 0.
+
+ÄNDERUNG DES EIGENEN PREISES -> Bewegung ENTLANG der Kurve.
+ÄNDERUNG EINER ANDEREN DETERMINANTE ALS DIESES PREISES -> Verschiebung der Kurve.
+Nachfrage QD=f(p,T,p_r,I): Geschmack/Temperatur T, anderer Preis p_r, Einkommen I.
+Normales Gut: Einkommen steigt -> Nachfrage verschiebt sich nach rechts.
+Inferiores Gut: Einkommen steigt -> Nachfrage verschiebt sich nach links.
+Substitute: Preis des anderen Guts steigt -> Nachfrage nach rechts.
+Komplemente: Preis des anderen Guts steigt -> Nachfrage nach links.
+Inputkosten steigen -> Angebot nach links/oben.
+Bessere Technologie/Eintritt von Produzenten -> Angebot nach rechts/unten.
+
+Ceteris paribus, bei üblichen Kurven:
+D nach rechts: p steigt, Q steigt. D nach links: p sinkt, Q sinkt.
+S nach rechts: p sinkt, Q steigt. S nach links: p steigt, Q sinkt.
+D nach rechts UND S nach links: p steigt, Wirkung auf Q unklar.
+D nach rechts UND S nach rechts: Q steigt, Wirkung auf p unklar.
+D nach links UND S nach links: Q sinkt, Wirkung auf p unklar.
+D nach links UND S nach rechts: p sinkt, Wirkung auf Q unklar.
+Bei einer unklaren Variable nichts folgern, ohne die relative Größe der Schocks.
+
+Empfindlichkeit: Bei gegebenem Nachfrageschock bedeutet ein steiles Angebot
+eine starke Preisänderung und eine schwache Mengenänderung.
+Ein flacheres Angebot fängt den Schock stärker über die Menge auf.
+Anwendungen L2: Weizenernten, Tee/Kaffee, Reis, Palladium.
+Mit „bei gegebenem Preis würde mehr/weniger angeboten/nachgefragt“ erklären,
+erst dann das neue Gleichgewicht suchen.

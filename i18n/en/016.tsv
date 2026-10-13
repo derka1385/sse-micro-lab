@@ -1,0 +1,238 @@
+243eaow3n26 With MC = 5, 7, 8, which rival directly constrains the price of the MC = 5 firm in this example?
+2e0wtvth3jb The MC = 7 firm
+1mv6wzb738t It is the best alternative able to undercut above 7.
+gdiglb1n8 The MC = 8 firm
+24lbqzlediq The MC = 7 rival is more competitive.
+2eouvkbscyb None: the price always stays at 7.5
+1sq05l87ru2 The monopoly price of 7.5 leaves the MC = 7 rival room to undercut.
+2d3o9dlmxe2 Differentiated Bertrand: the customer doesn't always leave
+td5qhzs81x The products are similar without being identical. Raising your price reduces your sales but doesn't wipe them all out, because some customers prefer your product. If your rival raises its price, some of its customers come to you: you can then raise your best price.
+1mtwyndvtyv L10: qi = 85−pi+0.5 pj, MC = 11. FOC = 85−2 pi+0.5 pj+11 = 0; BRi = 48+pj/4. Symmetry: p = 64, qi 53, πi = 2809 with FC = 0.
+299v93apkzh Each firm maximizes (pi−ci)qi with the rival price held fixed.
+2cyuwwi6ksi The positive rival-price term in demand gives an upward-sloping price reaction.
+bcs48s5tt6 The homogeneous-product result p = MC does not apply to this differentiated demand.
+5nparurvik p = 48+p/4 → 3 p/4 = 48 → p = 64; q = 85−64+32 = 53; margin 53, profit 53² = 2809.
+1nbi2ia390c You run a café valued for its location: a cheaper competitor can take some of your customers without taking all your sales.
+1w5pfunzhzw BRi = 48+pj/4, identical firms: what symmetric price?
+nsdnk2xjbn 11 imposes the homogeneous result despite differentiated demand.
+1h5emyulprz 48 corresponds to a rival setting 0, not to the symmetric equilibrium.
+2ezl3wl59w5 qi = 85−pi+0.5 pj with pi = pj = 64: qi?
+18u5fvvoyad Differentiation: best responses in prices
+1smz2df8jju p1: firm 1's price
+o3jrd78w5e p2: firm 2's price
+tnp42qhop L10: qi = 85 − pi + 0.5 pj, MC = 11. BRi = 48 + pj/4. On these axes, BR1 rewrites as p2 = 4 p1 − 192; BR2 = 48 + p1/4. Intersection p1 = p2 = 64, qi = 53.
+21cctigpf1d BR1 rewritten: p2 = 4 p1 − 192
+18vomptuzmf When the rival raises its price, firm 1 can raise its best price.
+1e7qe00eheo Prices are strategic complements in this model of substitutes.
+1yhipio1se7 Nash in prices
+21c391d7dqm A cost shock shifts the reactions, then the rivals respond
+2qomm8antm A tax can raise the effective cost of each sale. A firm then raises its best price for a given rival price; if both firms are hit, both reactions move. The new price includes these mutual adjustments: pass-through is not that of a competitive market by default.
+1mr0cmozdni E2025: qi = 10−2 pi+pj, physical MC 0; tax t gives effective cost c = t. BRi = (10+2 c+pj)/4; symmetric price p = (10+2 c)/3.
+f75kp664n4 The tax is a private cost per sale for the firm, even though its revenue remains a transfer for W.
+26q702fr11j After a change, you solve the new system rather than keeping the rival at its old price forever.
+1aaq5nd0tou For t 2 → 1, the price falls by 2/3, not 1; net margin and quantity rise here.
+1pkujus1qws t = 2: c = 2, p = 14/3, q = 16/3, π = 128/9. t = 1: c = 1, p = 4, q = 6, π = 18. Total tax revenue: 2×2×16/3 = 64/3, then 1×2×6 = 12.
+n7lojskjun You're a customer: a tax cut of 1 doesn't guarantee a price cut of 1 in this differentiated game.
+1zgbv4wzyer qi = 10 − 2pi + pj, no production cost, tax t = 1 (effective cost 1): symmetric price?
+1mlcv7la87b Effective cost 1; p = (10+2×1)/3 = 4.
+2cq02r8eka2 1 is the effective cost, not the differentiated firm's price.
+1yfe9mxxpxp Price 14/3 with t 2, then 4 with t 1: price decrease?
+28wv8esmas6 1 is the tax cut; pass-through is partial here.
+29m31ci2h29 Price leader: redo the substitution, don't recycle a formula
+17w2h5rvpmr The first seller now chooses a price, not a quantity. It anticipates the second's price reaction. Since a price increase can encourage the follower to raise its own too, the first mover's advantage is not that of the quantity leader; the follower may even earn more.
+opdqir32bd E2024 does not specify costs. Assuming MC = FC = 0: q1 = 6−2 p1+p2, q2 = 6−2 p2+p1. If 2 leads: BR1 = (6+p2)/4; q2 = 7.5−1.75 p2; p2 = 15/7, p1 = 57/28.
+clx7od1hm3 The reaction depends on the strategic variable: you don't substitute a quantity response into a price demand.
+dgui8wikl1 Without specified costs, the numerical results are conditional, not an unconditional solution.
+1h4nhwztsqg Here π2 = 225/28≈8.036 and π1 = 3249/392≈8.288: both exceed the simultaneous 8, but the follower earns more.
+hzdd73dyqc Simultaneous with zero costs: p1 = p2 = 2, q1 = q2 = 4, πi = 8. Going sequential gives neither qL = 30 nor the formula (a−c)/(2b) from the earlier quantity game.
+1n5da2p2ama You read "firm 2 moves first in prices": write firm 1's price reaction and the cost assumption before calculating anything.
+jl8r6c9adb Costs are missing from the E2024 problem. How should you present p2 = 15/7?
+17i8g84pn10 As a result under the explicit assumption MC = FC = 0
+fvckyyps52 Missing cost parameters cannot be silently invented.
+1wcy0b4mq7j As a certain official value whatever MC is
+18g6mtodcrm A change in costs changes the best responses.
+5oxv3f5k8h As an automatic result of quantity Stackelberg
+1xlgyu7sjpf The strategic variable here is price.
+c3nj94hyyz q2 = 7.5−1.75 p2, costs 0. FOC = 7.5−3.5 p2 = 0: p2?
+1qxbibm6ddz 2 corresponds to the simultaneous Nash, without anticipating the reaction.
+7lls7zzi7y Solve the game by working back from the follower
+28jsgs93mif E2024 example under the explicit assumption MC = FC = 0. The leader chooses a price, so you substitute a price reaction; this is not the quantity Stackelberg formula.
+134u1ymej30 Firm 1, follower
+1tsfdvl5v1s For any p2, maximizes (6 − 2 p1 + p2)p1.
+duz6rhkbmv Firm 2, leader
+7nuc3bqev2 Anticipates this choice and replaces p1 in its demand.
+298uxluhzkw Maximizes p2(7.5 − 1.75 p2).
+12tbh8hbsmm p2 = 15/7, then p1 = 57/28.
+2ezyldva6hf Both firms
+cgbep37fgp Compute profits after the reactions.
+1poo6z2fo0o π2 = 225/28; π1 = 3249/392. Here the follower earns more.
+1qhbl8pbuab The strategic variable and the timing determine the right reaction.
+nod7uhoitx Price depends on the market, but revenues and costs use own sales.
+1e06cp4rbrm Each maximizes its profit conditional on the rival's choice.
+1esw9ldezpt Simultaneous: intersection; sequential: anticipated reaction substituted into the leader's profit.
+z30klshd09 The strategic choices must then be translated into achievable outcomes.
+k2thqojg22 Interior formulas and the homogeneous Bertrand result rest on precise assumptions.
+io1inw7igi In Cournot, each firm chooses its quantity against the rival's, held fixed during its maximization; the intersection gives 20 each, p = 30. In quantity Stackelberg, the leader anticipates BRF = 30−qL/2, substitutes it and chooses 30; the follower 15, so p = 25. In homogeneous Bertrand with identical costs and sufficient capacity, any positive margin is threatened by undercutting, hence p = MC = 10. The outcome depends on the rules and the assumptions, not just on the number of firms.
+c8qpdww6l Identify price or quantity, and the order of moves.
+238cq1o89v5 Write each firm's own profit.
+1sgb0c0nv4h Build the best responses.
+1zxlqxjh71d Solve jointly or work back from the follower.
+y1doie4uuy Recompute prices, quantities and profits.
+1sib3o26cou Check costs, capacity, corners and tie conditions.
+czx65ptu86 Explain why the same firms and costs can give p = 30 in Cournot, p = 25 in quantity Stackelberg and p = 10 in homogeneous Bertrand. Describe what is held fixed and what is anticipated.
+yszkj2ravj Strategic variable
+1l6pj3bjgcn Basic Cournot and Stackelberg are about q; Bertrand is about p.
+15ac1gbb9j6 Simultaneous responses
+eegx36arz1 Cournot solves the best responses holding the rival fixed in each maximization.
+eodjtajvqa Anticipated reaction
+214vva4pw0m The leader substitutes the follower's response before maximizing.
+4lu0ucwdlq Homogeneous undercutting
+s2scr34gsw With identical MC and sufficient capacity, a small cut can win the market, down to p = MC.
+28lnv6vil67 Differentiated products, different costs or limited capacity can leave a margin.
+1jn370lx8yk The leader anticipates the reaction: qF changes with qL in the substituted profit.
+9adlyxhs95 Copper: simultaneous, then commitment
+1fnf6rjwpl Exercise constructed from A5.3 and the L10 method; a teaching extension to Stackelberg, not an official solution.
+2f0zqzqz34i Substitute qF = 30−qL/2 → πL = (30−qL/2)qL; qL = 30, qF = 15, Q = 45, p = 45; πL = 450, πF = 225.
+1o4ob9z0b9h p = MC = 30 under the stated assumptions.
+m2qgrdj2om The same margin intercept of 60 appears, but the market price is 90−Q.
+fwg4u3sqnw Cournot: each firm optimizes with qj fixed; solve both reactions.
+e7zve9a5ej Stackelberg: work back from the follower, then recompute the price.
+1o34rnzx82e Bertrand: check homogeneity, identical MC and capacity before p = MC.
+1qcw5b1dxo0 Homogeneous Bertrand: p = 30; total demand Q = 60.
+v3anhu1wp7 Axes q1 horizontal, q2 vertical: BR1 q2 = 60−2q1 and BR2 q2 = 30−q1/2.
+1h8prrmizef Intersection (20,20); leader 1 (30,15) on BR2, not on BR1.
+cyl184sov Don't confuse quantity axes with a differentiated-price diagram.
+cmtxhl112j Nash requires…
+ihbh6yq94d No profitable unilateral deviation
+14i3rthqc81 Each strategy responds to the others' actual choice.
+pl9x6s9ekv Maximum joint profit
+cv4mbbhqfr An agreement profitable to both can invite deviation.
+2akd91bjl16 Equal profits
+1onftt1zr7v Different costs can produce different profits.
+mezsfpgv7i Bertrand and Cournot differ first of all in…
+868jjbzra The strategic variable: price or quantity
+2frzllogtt8 The problem must specify what the firms choose.
+207b1bfhynr The exact number of firms
+ggxhtxp4la Both can concern a duopoly.
+2dch6bxaedd The language of the questions
+2extt5alrt7 The economic rules determine the model.
+6g9jxy3lb9 Rebuild quantity leadership.
+24yvcbuzdz9 The follower observes the leader's choice
+7ht536q3uj Its best response depends on that choice
+1pc6gzdzxws The leader substitutes this response into its profit
+bx2asrozfk It chooses its optimal commitment
+1bm6jwk138n The follower observes the leader's choice → Its best response depends on that choice → The leader substitutes this response into its profit → It chooses its optimal commitment
+23acv1m7ffp Homogeneous product, identical MC, sufficient capacity: why is p>MC fragile?
+o3eucnidwo A slight undercut can capture the market with a positive margin
+ap20yz900q This deviation is what prevents such a price from being Nash.
+2fn8iplyize Because profit automatically becomes negative
+sgn7n2blpc Above MC, the margin is positive.
+1zhu7dp7ylv Because MR must always equal price
+1ekm8zseli3 It's the undercutting, not that equality, that needs explaining.
+1m96kqzrfw0 Rebuild individual profit with constant MC.
+myd2mhrj2o Use the firm's volume, not the market total.
+20re8tnoezv p = 25−Q, cT = 5, cG = 9: qT = (a−2cT+cG)/3. Compute qT.
+1g393ganp4w qi = 10−2 pi+pj, effective cost 3: p = (10+2 c)/3. Symmetric price?
+zbl1370sf3 (10+6)/3 = 16/3; differentiation allows a margin.
+uwh3udc6p0 Both firms choose best responses
+nl5ut5eb44 No profitable unilateral deviation
+20gegy32ehj Differentiated products / retained demand
+1gt7ol7w567 No full-market undercutting result
+1qxuw7gybgf I choose the model from the variable, timing, homogeneity and capacity.
+4fe42izxb Two firms are not enough to identify a game.
+12ewthgegjp I rebuild the reactions from each firm's own profit.
+1aczvnsf4aq Price depends on the total; individual cost and profit use qi.
+1mcbcsi4y6b I keep the same axis convention for both reactions.
+9gxxfgya7o BR1 sometimes has to be rewritten to be drawn on the chosen axes.
+urw9ww058w I substitute the follower's reaction before maximizing for the leader.
+e7sd4a2mm3 Sequential commitment changes how the rival reacts.
+j4b3tes9nb I check corners, missing costs, tie-breaking and the assumptions behind price equal to MC.
+1d29n23vs8j Interior and Bertrand conclusions are not universal.
+8llzvse7b7 Negative externality — petrol and the neighbours
+18b09mprbfs Pollution, excess quantity and correction
+21smhc2pzxb The driver and the station agree. Yet the neighbours bear part of the cost. Rebuild the ignored damage, the tax and the efficient quantity, then change the context.
+pkp72k9fk4 The driver
+fyjt576f8u buys petrol for their trips
+zzgu305kj3 a litre whose value exceeds its price
+i2j5rvwkng The station
+15ysmger7je sells petrol in a competitive market
+50927ihfly cover the cost of the extra litre
+272enjqtnc6 The residents
+1ghzyeopyaw suffer the pollution without signing the transaction
+1l4et6bl140 avoid respiratory and environmental damage
+9q8fxpjmpp counts gains and costs for everyone
+dzsdndb89t maximize total welfare
+12bv7rlcohj can tax or cap pollution
+1srrwz90s9p bring the damage into the polluter's decision
+r68ovvh63q Two people agree, a third bears the cost
+n13vu5d3yx You fill up. You gain a trip; the station gains a sale. But the people living near the road breathe in the emissions. No resident signs your receipt, and you pay them no compensation. Part of the cost of your trip therefore stays outside the payment.
+1fj6ju9a3jl A negative externality is damage to third parties that is not internalized in the private decision. Here, the rest of the market is assumed competitive.
+1k8jgn7et5z The driver compares their benefit with the price paid at the station.
+1kv0fzfs75n The station compares the price with its own costs.
+1h7u0b1xpk8 The residents' damage appears in neither calculation: a private agreement can therefore reduce collective welfare.
+3226m7s20l A neighbour sleeps worse because of a noisy activity: the lost sleep does not automatically appear in the firm's accounting costs.
+1awdl3yofi0 You can be happy with your fill-up while imposing a cost on someone who chose nothing.
+95e6fhyvti We start without a curve. The horizontal axis will count petrol Q; the vertical axis, the value or cost of an extra litre.
+qihkiirc7b Who bears the cost that the petrol receipt doesn't count?
+fkmnygdx0v The station that buys the petrol
+xphilkfhij Its supply is already a private cost.
+11k47v1x3rf Their damage does not pass through the transaction price.
+btrsm4zy3o The driver who pays for the fill-up
+1s7l399k4ul That price is precisely in their private calculation.
+1moya2j4gq2 The market stops at the last litre that pays for both
+xaou7zpd5n For the driver, each extra litre serves a less urgent use. For the seller, supplying more gets progressively more costly. As long as the litre's value exceeds its private cost, buyer and seller can find a price that suits them both.
+22c7n7dk2yc In the L11/E2023 case: {{MPB = 100 − Q}}, {{MPC = 10 + Q}}. The private competitive equilibrium satisfies MPB = MPC.
+1b83m5megq3 If value exceeds private cost, there is still a private gain from trading this unit.
+1texw7fq2hg If private cost exceeds value, this unit cannot satisfy both parties.
+177cpcj7zeq The private stopping point does not yet include any damage to third parties.
+2eaiwwiqw0y 100 − Q = 10 + Q gives 90 = 2Q, so Qm = 45 and p = 55.
+1lvmjb0v4op You accept the 45th litre at 55; the seller agrees to supply it at that price. Neither of you asks the residents whether this litre costs them anything.
+1vfhu4hw0rc Click the curves: their intersection fixes Qm = 45, p = 55. The slider shows both values for the same litre.
+49w7rkpged Solve 100 − Q = 10 + Q. What private quantity?
+2a6cn1tlpjv What is the private-market price at Q = 45?
+9558qndt07 The damage from the next litre is not the total damage
+28o96hf2ze1 As traffic increases, an extra litre causes more damage. The dossier measures this marginal damage by Q. At Q = 45, one more small unit therefore imposes a cost of 45 on third parties. That doesn't mean all the damage already caused is worth only 45.
+f3d82zh3qr [[MEC]] = marginal external cost. Here MEC(Q) = Q; total damage from 0 to Q is the area under MEC, i.e. Q²/2.
+26u5p8tnsd1 Marginal answers "what does the next unit change?".
+19q8exwgyr4 Total adds up the damage from all units already consumed.
+w5ofueio5v Since MEC increases, multiplying the last height by the whole quantity overstates the area: here the correct shape is a triangle.
+2gbnq2dj6o2 At Q = 45: MEC = 45, but total damage = ½ × 45 × 45 = 1,012.5. It is neither 45 nor 2,025.
+1kddfwr241f The damage from the extra trip does not replace the sum of the damage from all your trips.
+25rhwew8g4w The MEC height is marginal. The EXT area adds up the damage for all units up to Q.
+182ahcdajln MEC = Q: what total damage for Q = 45?
+p23w8g224x The integral of q from 0 to 45 equals 45²/2 = 1,012.5.
+2dnb2odrnit € in total
+15mikfbm2f9 Who does the litre really cost?
+i89pmw2exa Society does not choose between the station's cost and the residents'. It counts both: the resources used to supply the litre, then the damage it imposes. The social cost of the next litre is therefore higher than its private cost.
+o6zf2bfg7w [[MSC]] = marginal social cost. Here {{MSC = MPC + MEC = 10 + 2Q}}; no external benefit is assumed, so MSB = MPB.
+w0wjektky6 The station pays 40 for an extra litre, the residents bear 30. Which cost does society count?
+1h3pta57l2v 40 only
+yg2gtp9vk4 That leaves out the residents.
+16b558u9yp9 70, because both costs are real
+f0xvvysfgk Correct: 40 + 30.
+q4bdcqkhho 10, because pollution is subtracted
+2ciivrx6td Damage adds a cost; it doesn't remove one.
+2vqn4b3eq1 The vertical gap MSC − MPC is exactly the marginal damage MEC.
+1xhwnoxyopu The producer uses up resources: that's a real cost.
+1o9uqmuuxjs The residents lose welfare: that's a real cost too.
+299v1dfbqyx Both concern the same unit; you add their marginal values without counting the same cost twice.
+17bxdh6ma9w At Q = 30: MPC = 40, MEC = 30 and MSC = 70.
+1tvkjxr7grf If you are both a driver and the parent of a child living by the road, the damage doesn't disappear just because it isn't on the receipt.
+133brcthl0v At the same quantity, read MPC then MSC: the gap is MEC, not total damage.
+261iy82ym4w Rebuild marginal social cost.
+uicag861pj Production cost + damage to third parties for the same unit.
+10k6lfub1fw The last litre society would want to keep
+2d891w7qbab Society keeps the litres whose value exceeds all their costs. It stops when the next litre is worth exactly what it costs in total. Beyond that, even if the driver and the station still gain together, the residents' damage exceeds that gain.
+2d3omu5kpkb Interior optimum: {{MSB = MSC}}. Here 100 − Q = 10 + 2Q ⇒ Q* = 30.
+23417cqf7hq Before Q*, an extra unit adds more benefit than social cost.
+q46wv4zgkl After Q*, it adds more social cost than benefit.
+wmneqa9g11 The private market stops at 45 because it ignores MEC: it therefore consumes 15 units too many.
+1sb4iginvpz At Q = 35, MPB = 65 and MSC = 80: this litre destroys 15 of welfare, despite a private cost of only 45.
+oeuqesohab A trip can still seem worthwhile to you because the price doesn't make you bear the nuisance to others.
+90mg68j08y Q* = 30 is at the MPB–MSC intersection. Qm = 45 uses MPB–MPC: these are two different comparisons.
+130m4n19zga Solve 100 − Q = 10 + 2Q. What efficient quantity?
+1ul7siwqbdx Why does Qm exceed Q*?
+1hsgjld57lf The residents buy too much petrol
+i987xw2n0v They bear the effect; their purchases don't explain the distortion.
+1djijur1ga4 Private decisions don't count MEC
+p0isr0hqqz The perceived cost is lower than the social cost.

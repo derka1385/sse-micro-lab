@@ -1,0 +1,224 @@
+1eizah3tc14	Si Y joue d’abord, X reste non armé après Y armé car 1>−1, mais arme après Y non armé car 4>3. Y anticipe 2 en armant contre 1 en restant non armé et choisit donc d’armer. Une menace de X d’armer coûte que coûte ne serait pas crédible après Y armé.
+29nqhfs09uk	Induction à rebours avec ordre inversé : issue (1,2). Une menace crédible doit rester optimale au moment de son exécution ; un engagement peut modifier les coûts ou possibilités.
+vsn6ingc15	Y choisit en anticipant le gain net de son propre choix après la réaction de X.
+jud96hhbxl	Une promesse non contraignante ne transforme pas−1 en un gain supérieur à 1 ; une vraie règle d’engagement doit changer les incitations ou les options.
+18yzwcn0vsj	Y premier : stratégie X=(ne pas armer après Y armé ; armer après Y non armé). Y arme et reçoit 2, X reçoit 1.
+hbl81bo0x9	Tu évalues la menace de ton rival en te plaçant au moment où il devrait la mettre à exécution, pas au moment où elle l’arrange de l’annoncer.
+nzv9dytw3	Quand Y joue d’abord, quelle issue et quels gains nets suivent de l’induction ?
+10t2182se3y	Y seul armé ; (X,Y)=(1,2)
+2bu4fy291hx	X ne répond pas par l’armement à Y armé ; Y préfère 2 à 1 induit par sa non-entrée.
+19cqdkzoo7c	X seul armé ; (4,1)
+1oi3absnr34	C’est l’issue quand X joue d’abord. L’ordre inverse change le calcul initial.
+1x8pbp6hlz9	Les deux armés ; (−1,−3)
+1nwmdwre3eg	Après Y armé, X préfère 1 à−1 et n’arme pas.
+1x1wehep36j	Une meilleure réponse compare tes actions dans un même scénario rival.
+20wmred41yw	Une action à égalité avec le maximum reste optimale.
+2bz0c7t8gkn	Aucun joueur n’améliore alors son gain en déviant seul : c’est Nash.
+94hfji3lv4	Le leader anticipe les réponses, y compris après une action qu’il ne jouera pas.
+tix6l0y2l0	Une menace doit rester un choix optimal lorsque la situation se réalise.
+1ebmg4ypue6	Un Nash est stable contre une déviation unilatérale : à NN égoïste, passer seul à S laisse ton gain à 0. Les deux pourraient gagner 10 à SS, mais cela exige un changement coordonné, donc stabilité et efficacité diffèrent. Avec altruisme égal, l’argent de l’autre compte : passer seul de N à S face à N te donne une utilité 20, donc NN cesse d’être Nash. En séquentiel, on choisit le plan optimal du suiveur après chaque action possible, puis le leader anticipe ces réponses. L’issue ne remplace pas la stratégie hors chemin.
+klci9jbun8	Fixer l’action possible du rival
+9f8mzq0meb	Comparer tous tes gains et conserver les égalités
+28y4tasel5d	Chercher les meilleures réponses mutuelles
+1j1qorodv3z	Si le jeu est séquentiel, résoudre le suiveur partout
+niwam5f8pn	Vérifier la crédibilité au nœud d’exécution
+1s4xzk5j05l	Explique pourquoi NN peut être Nash sans être bon pour les deux, puis pourquoi NN cesse d’être Nash avec altruisme égal. Termine par la différence entre issue et stratégie complète dans un jeu séquentiel.
+8vy8a641l1	Son propre gain face au rival fixé
+14njauy6nqp	Une déviation change seulement ton action.
+u8dpcux70a	Conserver les égalités
+16ytj3yljhz	Nash exclut les améliorations strictes, pas les changements à gain égal.
+pf748d78hg	Stabilité et efficacité séparées
+vc3g16wgnr	Une amélioration à deux ne constitue pas une déviation unilatérale.
+1z0jp0t2n44	Transformer les gains en utilités
+8p588exx8k	Avec altruisme égal, un switch à S face à N donne une utilité 20 au lieu de 0.
+1wsxc0vmcfd	Tout le plan du suiveur
+1dml9j6fxua	Une stratégie inclut les actions hors chemin et se résout à rebours.
+go0o6gdddo	Nash exclut le gain unilatéral ; l’efficacité compare des changements collectifs.
+vwayodjpmf	Dans le jeu égoïste, N et S donnent tous deux 0 face à N : N est faiblement dominant.
+q3289vpip5	Teste une déviation à S face à N : l’autre reçoit 20 et ton utilité passe de 0 à 20. NN n’est plus Nash.
+1zoz6y05snn	Entraînement construit à partir des matrices A3 vérifiées dans §13. Il corrige explicitement les pièges du corrigé personnel ; aucune réponse modèle n’est présentée comme officielle.
+vckh83qy15	Que veut dire BR ?
+1nljyeyrrkz	Best response : meilleur choix face à une action rivale donnée
+sgn5ep8m31	On fixe le rival et on maximise son propre gain.
+ibicievo6w	Biggest revenue : plus grosse case du tableau
+7z3c1qawen	Tu ne contrôles pas les deux joueurs et les gains ne sont pas nécessairement des recettes.
+5f6ck8nrhp	Une stratégie séquentielle contient…
+8a7sp1vqpr	Une action à chaque nœud où le joueur pourrait décider
+1zsefxc075u	Y compris les nœuds non atteints à l’équilibre.
+1t3g48qjkd8	Seulement le résultat observé
+532ro2i5t6	Le leader doit pouvoir anticiper les branches alternatives.
+25wmki1e20r	Reconstruis le test de Nash pur.
+2axpnmjn5gi	Fixer une action du rival
+2ajnciqaqlg	Comparer toutes les actions propres et garder les égalités
+j30kqogmey	Répéter pour l’autre joueur
+1ffx9u0bg6g	Identifier les cases de meilleures réponses mutuelles
+1uojyedg7t0	Reconstruis l’induction à rebours.
+ltt6u43zbg	Calculer les gains nets aux issues terminales
+1sjtmrxkcxk	Déterminer le choix optimal du suiveur après chaque action possible
+ymilfgkrd7	Faire choisir le leader en anticipant ces réponses
+c85a4yvfrr	Donner le profil complet, y compris hors chemin, et l’issue
+18whjqkhhmq	À SS avec u_i=m_i+2 m_j et monnaie (10,10), quelle utilité a chaque joueur ?
+via7nby7xf	Y seul armé reçoit 5 de pétrole et paie 3. Son gain net ?
+1r3z2wx04g5	5−3=2. Ne pas lui attribuer le gain 1 du joueur non armé.
+dcsbmrtffx	Une entreprise menace une guerre de prix qui lui rapporterait moins qu’accommoder l’entrée, une fois l’entrée réalisée. Sans engagement supplémentaire, la menace est…
+8lno0qmybm	Non crédible
+20oehqysmwt	Elle n’aurait pas intérêt à l’exécuter au nœud concerné.
+25tw8mvvpsp	Crédible parce qu’elle est annoncée publiquement
+1on5hen4c8g	Une annonce seule ne modifie pas les gains ; il faut expliquer ce qui lie effectivement l’entreprise.
+oh1m1frpnj	Un joueur retire 1 à son utilité s’il reçoit moins que son rival. Pourquoi faut-il refaire les meilleures réponses ?
+1maddkpquhu	La matrice des utilités change même si la monnaie distribuée reste identique
+1p1d7irbx3p	Les stratégies maximisent ces nouvelles utilités ; une ancienne indifférence peut disparaître.
+d7xflnjc93	Les coûts d’armes changent forcément
+ukv9ytcr0z	L’exemple modifie les préférences, pas nécessairement une ressource ou un coût d’action.
+rzkzcuumsw	Un Nash dépend seulement du nom des actions
+hrcy6gxje8	Il dépend des gains et de l’information du jeu.
+116rhun5a2k	All possible decision nodes
+4yocqkl0v0	Off-path choices
+16shnpjmoas	Optimal continuation
+mjui28e8ex	Compare against Split
+upo1sgn57v	Tie against Steal
+1zdy3r8iu03	Lire la matrice en gardant le joueur de ligne en premier.
+1vjipad5xgj	Un gain de l’autre ne doit pas décider ton choix.
+fmbq2e7opc	Conserver les meilleures réponses à égalité et distinguer dominance faible/stricte.
+20rg9q6lcp3	Les égalités changent la liste des Nash.
+18hnzgpuj58	Recalculer les utilités si les préférences changent.
+13xrgi9x8xi	L’altruisme égal rend NN non Nash, contrairement au corrigé personnel signalé.
+pq9rougodl	Résoudre chaque nœud du suiveur et énoncer les réponses hors chemin.
+25qwzfl0cmh	Une issue seule ne constitue pas une stratégie complète.
+24vi7f5k5d0	Vérifier les gains nets et la crédibilité au moment d’exécution.
+1vsez0ssnx5	Les coûts d’armes et les réactions effectives doivent être inclus.
+xb4abmwpjm	Compléments d’examen — commerce, plateformes, enchères et échange
+8je5n2uywq	Reconnaître les règles et vérifier leurs limites
+1p3tps6iak7	Ces thèmes sont attestés dans les past exams, avec cours complets absents du corpus. Reconstruis les décisions, les prix relatifs et les règles avant les calculs.
+x66mdyjy6	Toi, l’acheteur / pays North
+10bge1ykh3c	choisit une tâche, un achat ou un échange
+2gi063xujay	obtenir plus de valeur que l’alternative sacrifiée
+62i6shgmfg	Le vendeur / pays South
+24pqgl8ebos	produit ou propose un échange
+1mh7a4e6312	couvrir ses coûts et obtenir un gain
+5wi1cl3x7i	L’autre côté du marché
+688btgi24f	utilise une plateforme ou fait une offre
+1ly0ytal62e	trouver une interaction profitable
+8bchysbzsb	garde les totaux, règles et hypothèses visibles
+2gnpv4g5de4	distinguer gain agrégé, gain privé et efficacité
+1ekwhp96dfi	L’État / plateforme
+23gblpk7lqf	fixe tarif, accès ou règle d’enchère
+11hf8346rm7	comprendre les réponses qu’une règle provoque
+1ckgu10q804	Quatre contextes d’examen, une même discipline de raisonnement
+1hlxoo84ezh	Tu peux tomber sur du commerce, une plateforme, une enchère ou un échange de snacks. Ces sujets figurent dans les past exams, même si leurs cours complets ne sont pas dans les fichiers audités. On va donc reconstruire les outils attestés, en séparant les hypothèses certaines de celles qu’il faut annoncer.
+rsniva0284	Compléments d’examens §14 : commerce, plateformes, enchères et Edgeworth. Les modèles ci-dessous sont documentés dans le dossier ; ce parcours ne prétend pas reconstituer des slides absentes.
+156ls6aa5i4	Le nom du sujet ne suffit pas : une enchère au premier prix ne se résout pas comme une enchère au second prix.
+2fbtb555gff	Une question qualitative peut exiger un mécanisme précis sans fournir assez de données pour un chiffre unique.
+15bpgmsreqa	« Un choc météo affecte tous les coûts » ne révèle pas à lui seul qui observe quel signal privé ; on ne peut pas conclure automatiquement à une winner’s curse.
+12eo4m2ib40	Tu lis l’énoncé comme un contrat : qui choisit, qui sait, quelle règle, quelles unités ? Ensuite seulement tu sélectionnes l’outil.
+2272whsitw9	Pourquoi préciser que les slides complètes de ces thèmes manquent ?
+217lt7kbgof	Pour distinguer outils attestés et hypothèses ajoutées pédagogiquement
+1b4wn8fykqq	L’entraînement reste utile, mais ne doit pas inventer l’autorité d’un cours complet absent.
+1m7qnylqbqd	Pour supprimer ces thèmes de la révision
+qdwxhu4i8b	Ils apparaissent dans les examens et doivent donc être travaillés.
+p8p5reeu7b	Pour considérer toute formule comme universelle
+vch28xvc0p	Il faut au contraire expliciter le modèle et ses limites.
+uxfz6ejcdo	Être le meilleur dans tout ne dit pas à quoi consacrer ton temps
+ytfzl5ak1c	Esther produit une analyse de données en 1 heure et un texte en 2 heures. Abhijeet met 2 heures pour l’analyse et 6 pour le texte. Esther est plus rapide partout, mais un texte lui coûte seulement 2 analyses sacrifiées, contre 3 pour Abhijeet : c’est cette comparaison relative qui guide la spécialisation.
+1hvmsqk0uuq	Avantage absolu : moins d’inputs par unité. Avantage comparatif : coût d’opportunité plus faible. E2020 donne à Esther l’avantage comparatif en écriture et à Abhijeet en analyse.
+o73oydekem	Le temps passé sur une tâche ne peut plus servir à l’autre : c’est l’alternative sacrifiée.
+lck3gn1pe8	Même le moins productif partout peut avoir un avantage comparatif dans la tâche où son retard relatif est le moins grand.
+24v1xfmgeeq	Esther : coût d’un texte=2 h/(1 h par analyse)=2 analyses. Abhijeet :6/2=3 analyses. Inversement une analyse coûte 0,5 texte à Esther et 1/3 à Abhijeet.
+1lk483ja3ag	Tu es Esther : ne demande pas seulement « suis-je plus rapide ? », demande « quelle autre production je perds si je prends cette tâche ? ».
+svcs8u96fr	Esther met 2 h par texte et 1 h par analyse. Un texte coûte combien d’analyses ?
+1mw3afbnjje	analyses / texte
+1u0vcpifi1w	2 heures de texte auraient produit 2 analyses ; coût d’opportunité 2.
+1cuucfixtze	0,5 est le coût d’une analyse en textes, le ratio inverse.
+1ko32c9ccp6	Des heures par unité aux unités sacrifiées : garde le sens du ratio
+fq6h3lngwm	Northland a besoin de 3 heures par unité de blé et 6 par électronique. Southland a besoin de 4 et 2 heures. Produire un blé utilise donc à Northland le temps de 0,5 électronique, contre 2 à Southland : Northland sacrifie moins d’électronique pour le blé.
+248cy7xwj5r	Si a_W et a_E sont des heures par unité, OC(W en E)=a_W/a_E. North possède l’avantage comparatif en blé, South en électronique.
+1j1mi05cfui	Comment convertir 3 heures de blé en unités d’électronique sacrifiées si une électronique demande 6 h ?
+1qiey9ziegc	Les heures s’annulent :3 h/(6 h/E)=0,5 E.
+j59ib39uav	Cela donne le coût d’une électronique en blé, pas celui d’un blé en électronique.
+p7af4nwnkv	Le numérateur est le temps requis pour l’objet dont tu cherches le coût.
+p99cqis1dd	Le dénominateur convertit ce temps en unités de l’autre bien ; les unités de ta réponse permettent de contrôler l’inversion.
+257w8lt40i3	South : OC_W=4/2=2 E/W ; OC_E=2/4=0,5 W/E. La symétrie des intervalles de prix dans ces nombres est une coïncidence.
+1iiqsdmslhw	Tu écris les unités « E par W » à côté du ratio avant de calculer : cela rend une inversion visible.
+19vgqfbxakr	South met 4 h par blé et 2 h par électronique. Quel coût d’opportunité d’un blé en électronique ?
+w21jq0rae0	4/2=2 électroniques par blé.
+o9gm2vy50j	0,5 est le coût d’une électronique en blé.
+kb0ykvc1pr	Ta frontière décrit ce que tu peux produire, pas tout ce que tu peux consommer
+1gmy2afm1py	Northland dispose de 120 heures. Tout consacrer au blé donne 40 unités, tout à l’électronique 20. Les paniers entre les deux épuisent le temps disponible ; importer permet ensuite de consommer un panier différent de celui produit.
+wajbn19s3a	PPF North :3 W+6 E=120 ⇒ E=20−0,5 W. South :4 W+2 E=120 ⇒ E=60−2 W. La pente exprime le coût d’opportunité de W en E.
+18995h959r9	La contrainte compte des heures : chaque terme est quantité×heures par unité.
+25dk6w0lvg6	Un panier consommé après échange peut être au-delà de la PPF domestique sans que le pays ait créé des heures supplémentaires.
+1hvyswervhw	North produit 40 W et 0 E ; South 0 W et 60 E. Après échange 10 W contre 10 E : North consomme 30 W,10 E et South 10 W,50 E, paniers qui exigeraient respectivement 150 h et 140 h en autarcie.
+fcrdla261h	Tu suis deux colonnes distinctes sur ta copie : production sous la contrainte, puis consommation après exportations et importations.
+26z0k0iqee1	Les deux frontières de production avec 120 heures
+18e4olb9c4f	W=unités de blé, E=unités d’électronique. Les lignes donnent les paniers produits, pas les paniers consommés après commerce. Technologies linéaires de l’exemple E2025.
+11q6bf2ysvc	W : unités de blé
+1m216qz65y5	E : unités d’électronique
+adofr4kawg	North : 3 W+6 E=120
+8cfhz74u0b	Une unité de blé coûte 0,5 unité d’électronique.
+jeoznsft6t	South : 4 W+2 E=120
+8agalgrhb3	Une unité de blé coûte 2 unités d’électronique.
+19nlony2zro	North consomme après échange
+1qu9aab589q	South consomme après échange
+36r72o67sv	Avec 120 h et 6 h par électronique, quel maximum d’électronique produit North seul ?
+11mqxs2jzbt	120/6=20 ; c’est l’ordonnée à l’origine de sa PPF.
+vcqjn1krqd	40 est le maximum de blé :120/3.
+b8cnqxkib1	Un prix entre les deux sacrifices peut arranger les deux
+o1id4wrzhb	Northland accepte de donner un blé pour obtenir une électronique : le blé lui coûte seulement 0,5 électronique à produire. Southland accepte de donner une électronique pour recevoir un blé : en produire un lui coûterait 2 électroniques. Le même échange peut donc être avantageux pour chacun.
+1mctb3360cv	Un prix relatif strictement entre les deux coûts d’opportunité permet des gains potentiels : ici 0,5<p_W/p_E<2. Demande et capacités déterminent les quantités échangées.
+26z9k3eyv13	North obtient plus d’électronique par blé que ce que sa production du blé lui fait sacrifier.
+1rwk4dd7y	South achète le blé avec moins d’électronique que ce qu’il devrait sacrifier pour le produire lui-même.
+1kxlilr2veq	Au prix 1 E par W : produire le blé exporté prend 3 h à North contre 6 h pour l’électronique reçue. South exporte une E produite en 2 h au lieu de consacrer 4 h au W reçu.
+aer889z72l	Tu es North : tu acceptes d’exporter le blé seulement si l’électronique reçue dépasse ton sacrifice domestique 0,5.
+eiy7nmsg7f	Quel prix de blé en électronique est strictement avantageux pour les deux dans cet exemple ?
+24ofd60vzpv	1 E par W
+23eecpf6l4u	1 se situe strictement entre 0,5 et 2.
+2e2q8qakig9	3 E par W
+133ntnith71	South devrait donner 3 E pour un W qui lui coûte seulement 2 E à produire.
+rqq0w8jy4d	0,25 E par W
+2a6da4xjmzo	North recevrait moins que les 0,5 E sacrifiées en produisant le W.
+6d1go8506o	Le prix mondial laisse apparaître le besoin d’importer
+17bmw2cdrkc	Dans un petit pays, les acheteurs peuvent obtenir le bien au prix mondial 30. À ce prix, ils demandent 50 unités, tandis que les producteurs locaux n’en proposent que 10. Les 40 manquantes sont importées : la demande nationale n’a pas besoin d’égaler l’offre nationale.
+120hnr2op50	Avec p_D=80−Q et p_S=20+Q : Q_D(p)=80−p, Q_S(p)=p−20 sur le domaine positif. Importations M=Q_D−Q_S.
+18w3z41t4id	« Petit pays » signifie ici qu’il prend le prix mondial comme donné.
+j63x7rvlnj	L’égalité offre=demande concerne le marché incluant les importations, pas seulement la production domestique.
+18au2ohtsow	p_w=30 ⇒ Q_D=50, Q_S=10, M=50−10=40. En autarcie :80−Q=20+Q ⇒ Q=30 et p=50.
+x87ebkkfvj	Tu es consommateur : tu peux acheter au prix 30 même si le pays ne fabrique pas toute la quantité demandée.
+1ovplpp4ut8	Petit pays importateur : prix mondial puis tarif
+upj13nju97	Q en unités du bien ; p en € par unité. Les écarts horizontaux entre demande et offre sont les importations au prix mondial puis après tarif.
+1fk2szba0mb	Q : unités domestiques
+1258wbb5fbt	p : € / unité
+1dospzaebmv	Demande p=80−Q
+ze96gaualg	Au prix 30, Q_D=50 ; au prix 40, Q_D=40.
+v0gall4j2e	Offre p=20+Q
+1yz14kdl8a2	Au prix 30, Q_S=10 ; au prix 40, Q_S=20.
+o7cg6psgy7	Prix mondial 30
+26qnwrrr8uc	Petit pays : son tarif ne modifie pas le prix mondial.
+1ujdobk3ba	Prix avec tarif 10 :40
+2abiulget9r	Tant que le pays importe, p=p_w+τ.
+1vwrcayiikt	Offre libre échange 10
+1ujtx0380yz	Demande libre échange 50
+1y1gq7js730	Offre avec tarif 20
+1w62qgqsxds	Demande avec tarif 40
+1dcoljb0odu	À p_w 30, Q_D=80−p et Q_S=p−20. Combien importe le pays ?
+ys4owy2of4	Demande 50 moins offre 10=40.
+uidxwhmypk	60 additionne les quantités alors que les importations comblent leur différence.
+7gywyoxx6j	30 est la quantité d’autarcie, pas les importations au prix mondial.
+1ercagxjf6a	Le tarif déplace deux décisions privées en même temps
+j212paj3mb	L’État ajoute 10 par unité importée. Tant que le pays reste importateur, le prix intérieur monte à 40 : les producteurs locaux fabriquent davantage, les consommateurs achètent moins. Les importations reculent par ces deux canaux, pas seulement parce qu’une taxe est prélevée.
+1oduzt99qk8	Petit pays importateur : p_dom=p_w+τ, Q_D40, Q_S20, M20. La recette douanière porte sur les importations effectivement restantes.
+qt3wffq4ev	La production locale supplémentaire devient rentable au prix plus élevé, même si son coût dépassait le prix mondial.
+1keljmcfhkv	Des consommateurs renoncent à des unités qui valaient plus que 30 mais moins que 40.
+234uxc06yr6	Après tarif 10 : M=(80−40)−(40−20)=40−20=20 ; recettes=10×20=200.
+1zjsm5fpqs7	Tu es au ministère : ne multiplie pas le tarif par les anciennes 40 importations, car les agents ont réagi au nouveau prix.
+xr8053mf18	Après tarif 10, le pays importe 20 unités. Quelle recette douanière ?
+1vf7waho52q	τ×M_après=10×20=200.
+255f2ss0hv4	400 utilise les 40 importations d’avant tarif ; elles ont diminué.
+20ccr4xodh8	La taxe n’est pas prélevée sur la production locale ni sur toutes les consommations.
+1pxbiscno68	Ce que perd le consommateur n’est pas entièrement perdu par le pays
+a779ubg4x7	Le prix plus élevé fait perdre 450 de surplus aux consommateurs. Les producteurs locaux récupèrent 150 et l’État 200 ; ces gains restent dans le pays. Il manque encore 100 : ce sont les ressources gaspillées en production plus chère et les échanges utiles abandonnés.
+1jbwzhxiylq	Welfare national=CS+PS+recettes tarifaires. E2022 : ΔCS=−450, ΔPS=+150, recettes 200 ⇒ ΔW=−100 ; DWL=deux triangles.
+1q744m02hu6	Une partie du prix accru transfère du surplus des acheteurs aux producteurs et à l’État.
+1nbsri7goc3	La perte sèche compare de vrais coûts et bénéfices : unités domestiques trop chères et unités consommées en moins.
+29lgdhes2ac	DWL=0,5×10×[(20−10)+(50−40)]=100. Ou−450+150+200=−100. CS passe 1250→800 ; PS50→200.
+1vd22i2sxge	Tu additionnes les variations du pays entier ; tu ne déclares pas la recette fiscale « perdue » simplement parce qu’elle sort de ton portefeuille.
+29bp8hg760h	Avec tarif 10, production 10→20 et demande 50→40, quelle DWL ?

@@ -1,0 +1,160 @@
+17l1oo9plkv Tariffs, participation and bids change private choices, not just one line of a formula.
+nztcdmrj87 Tariff revenue, surplus and gains from trade aren't the same quantities.
+2c53obsvu6v A country can stop importing; a mutual gain can still be inefficient; a total gain can leave losers.
+ncu9gigwhi In trade, I compare opportunity costs: North gives up 0.5 electronics per unit of wheat versus 2 for South, so a relative price between the two can create a mutual gain. The aggregate gain doesn't say that every specific factor gains. In a second-price auction with private values, my bid decides whether I win but the best rival sets the payment; bidding my value is weakly dominant. That proof doesn't automatically hold for first price or with a common value. Finally, a snack trade can improve both utilities without yet being efficient if another mutually profitable trade remains feasible.
+o2ekmhaz7z Identify the actor and the alternative given up
+1qvk61i1q6y Read the rule and the information available
+zcopglens2 Deduce the other participants' responses
+15fgh4f6juc Calculate with the right units and the quantities after the reaction
+1escmdqwpos Check the domain and the conclusion
+c4fh4sct5 Choose two contexts among trade, platform, auction and exchange. For each, explain the private decision, what the others do and the limit of the rule used. Finish with an example where gaining doesn't mean "everyone gains" or "already efficient".
+gtklr0b7z9 Alternative given up
+24n86lx7nw9 Comparative advantage or trade: the comparison is relative, not just an absolute magnitude.
+1qoe326axsg Explicit rule
+1qth4kj8l9a Name the given world price, the payment rule or the totals constraint.
+j8283h8qen Reactions and interdependence
+18wtkdjkpx5 The value or outcome depends on other participants' responses.
+1gt78lemaww Consistent accounting of gains
+1fbl59303e1 Don't confuse revenue, profit, transfer and real gain.
+520hbshr13 A limit of the model
+b6nv9qvzs4 Prohibitive tariff, first price, missing signals, an edge or distributional gains.
+1yxnqgf6bk6 Absolute advantage compares inputs; comparative advantage compares opportunity costs.
+1f7tjn278kf p_w+τ holds as long as the country imports. At a prohibitive tariff, the price returns to the autarky level.
+1bg5tuzqrrc The truthful-bidding proof depends on the second-price rule and the model's private values.
+4kt8kjfc58 An improvement is progress; efficiency means that no further Pareto improvement is feasible.
+1etvl32hb16 Teaching mini-exam built on E2020–E2025 and §14. The trade, tariff and auction numbers are documented/recomputed; the trade of 3 drinks for 2 snacks is constructed. The corresponding full lectures are missing from the corpus and this answer isn't official.
+iz1rxughi5 Price 30+10=40; Q_D40,Q_S20,M20; revenue 10×20=200; DWL0,5×10×(10+10)=100.
+1y6i3jhefhz Sebastian (7,12): 7+24 = 31; Christina (13,8): 13+8 = 21. Totals remain 20/20.
+1ggbyd9dd9u Which advantage rests on opportunity cost?
+12owaw4ofqf Comparative
+nalaqh7qdv It compares the relative sacrifices between outputs.
+2gi4ns4riut Absolute
+232lwtukd2j Absolute advantage compares the inputs required per unit.
+9adc3z7ro7 What does multi-homing mean?
+j2d9p01e98 Using several platforms
+1wkdc9jpnw4 It can make it easier for an entrant to reach users already present elsewhere.
+gdl8ckqpao A network that is necessarily a monopoly
+yxzu9lnutg The ability to use several platforms can actually limit some barriers.
+1com0xoid0u Rebuild the mechanism of a tariff in a small importing country.
+15f5rl6dilf The tariff makes imports dearer at the given world price
+109gbf375au The domestic price rises as long as the country remains an importer
+1wtrq8644r7 Local supply rises and local demand falls
+1z1ipztc0js Imports fall; transfers and two distortions determine welfare
+1sle5ruwcww Rebuild the second-price sale with private values.
+e8ilqzxbf6 Identify my private value and the payment rule
+olujxda421 Compare this value with the best possible rival price
+yyl6jc4i9o Win if that price doesn't exceed my value, lose otherwise
+82q0w6k0rb Understand why bidding my value achieves this choice without setting my payment
+22fiztr1o4n p_D = 80−Q, p_S = 20+Q, p_w = 30 and tariff 10: imports after the tariff?
+lbjlri9b0q Truthful bids with private values 50, 70, 65 in a second-price auction: winner's surplus?
+95vm92pizk The bidder at 70 pays 65; surplus 70−65=5.
+eh5jq3f7y8 A new platform wants to attract artists before the audience. Which mechanism must it explain?
+i8qzdrdhja How the presence of artists raises the value for the audience and then attracts the other side
+c7ht8uvt46 It's the cross-side link that makes initial help plausible.
+v6bkftjngf Why all digital markets are natural monopolies
+fy39sm8u3t Concentration isn't proven by the digital nature alone.
+1srfqqa8dt Why the world cost of wheat rises
+1qaooihh5x9 That relationship belongs to another model and doesn't answer the participation question.
+12aqm9qwlu Sebastian values a snack as 2 drinks; Christina as 1 drink. Both have goods to trade. Which strictly intermediate price can improve both?
+ho2ahaobty 1.5 drinks per snack
+1iykgng54fw Sebastian gives less than his valuation of 2; Christina receives more than Christina's valuation of 1.
+2b19iu83ts6 3 drinks per snack
+27qmbbgrsgo Sebastian would give up 3 for a value of 2.
+189xv7j0zq3 0.5 drinks per snack
+1r5wwz77o0x Christina would receive less than the value of 1 of the snack given up.
+3vu2dcz1g At least one gains, no one loses
+zilga5s04g Revenue remains domestic
+5t37jrrcn7 Production distortion
+cpdy3tl7dh Consumption distortion
+1bigflt2eow Compute opportunity costs with their units and separate production/consumption.
+1jzqgpr5ykn Absolute productivity doesn't determine comparative advantage.
+1tlxpd0wqc5 Compute imports and revenue after the reaction to the tariff, then check the regime.
+1du5gt2oybw The tariff can become prohibitive and imports aren't negative.
+1yj1ri8edi1 Distinguish national transfers, deadweight losses and distributional effects.
+1h5hq1afyrg A total gain doesn't prove that all groups gain.
+2464y38czjr Explain both sides of a network effect without automatically concluding there's a monopoly.
+1i9kzhez6ir Multi-homing, trust and rules change entry and value.
+23f0qszgzjj Read the payment rule and the information before calculating an auction.
+1xzxn7pchpd Second price, first price, reverse procurement and common values don't share a universal rule.
+1wmgpv7e0ah Check both utilities and the edges in a trade with perfect substitutes.
+2apvz2nsmqq A Pareto improvement can remain inefficient, and an interior tangency may not exist.
+12sywxgmyuv Exam 2020, Q1 — data and instructions from the PDF "past exams/2020.pdf", reworded; solution: recalculations from the dossier (§16), not an official marking scheme.
+1s0ri0jazii (a) Situation: the buyer doesn't know whether a small site will deliver or refund → asymmetric information. In the United States, Amazon's reputation solves this; in Sweden, Klarna already solves it → Amazon's advantage is worth less.
+16yxilfhqi8 (b) The seller would like a price per country (3rd-degree discrimination). A common price is a compromise: dearer for Thailand (market possibly lost), cheaper for Sweden. Total effect ambiguous.
+ale0gcapbs (c) The firm can't see who values the game: it offers a menu and lets each person sort themselves (2nd degree). Advertising is the "price" paid by those who don't pay with money.
+1kqyrcnwrjo (d)–(e) Same customer, same cost. A per-song price leaves surplus to the customer and excludes useful songs; a subscription captures all the surplus, but free usage leads to listening to songs worth less than their cost.
+152w60ueb5 (e) Free usage ⇒ Q = 20; F = ½ × 20 × 20 = 200; cost 2 × 20 = 40; π = 160.
+1bzb2hwna2c Comparison not asked for: two-part tariff p = 2 ⇒ Q = 18, F = ½ × 18 × 18 = 162, π = 162. Don't answer 162 in (e), which imposes a flat fee only.
+19pvqu02xfu (d) Demand p = 20 − Q, MR = 20 − 2Q, MC = 2: Q = 9 from MR = MC, p = 11 read off the demand curve.
+oaop1gfdmh (e) Triangle under demand from 0 to 20 = flat fee 200; cost rectangle 2 × 20; small triangle between 18 and 20 under MC = waste.
+1o44x18uez0 Exam 2020, Q2 — data and instructions from the PDF "past exams/2020.pdf", reworded; solution: recalculations from the dossier (§16), not an official marking scheme.
+6sfs2wb8wq Esther: 2 h of writing = 2 analyses. Abhijeet: 6 h = 3 analyses. Esther writes at the lowest opportunity cost.
+1vxkr94f443 Vertical sum as long as both WTPs are positive: 300 − 2x = 150 ⇒ x = 75 (≤ 100, valid segment).
+kivb0tild9 (a) Situation: two partners, two tasks. Esther is faster at everything (absolute advantage), but every hour she spends analysing stops her from writing. So we compare what each gives up: opportunity cost.
+4swy4w5oyz (b)–(c) Public good: both countries benefit from the same peace (non-rival) and nobody can be excluded from it. The social value of a UN peacekeeper = vertical sum of willingness to pay; each hopes the other will pay (free rider).
+19324f7v7gx (d) Specific-factors model: land is used only for food, capital only for clothing. When food gets cheaper, the country gains, but landowners lose and capital owners gain.
+18sm9ey8et3 (a) Opportunity cost of a text: Esther 2/1 = 2 analyses, Abhijeet 6/2 = 3. Of an analysis: Esther 1/2, Abhijeet 2/6 = 1/3.
+hhri2r8sd4 Example with 24 h each: without specialization 8 + 3 = 11 reports; Abhijeet analyses (12) and Esther writes (12) ⇒ 12 reports.
+1sds9ns5qw6 (b) 200 − x + 100 − x = 300 − 2x = 150 ⇒ x = 75, with both WTPs positive at 75.
+5ew4ikd9kj (b) Two WTP lines, their vertical sum (kink at x = 100), the horizontal line MC = 150: intersection at x = 75.
+1s30jb7haho (d) Concave PPF; old and new production points; new, steeper price line (clothing relatively dearer); higher indifference curve.
+112fb08i7my Exam 2020, Q4 — data and instructions from the PDF "past exams/2020.pdf", reworded; solution: recalculations from the dossier (§16), not an official marking scheme.
+2c4tgo2m0pz A: 0.75 × 100 + 0.25 × 80 = 95; bonus 0.95. B: 0.75 × 400 − 0.25 × 160 = 260; bonus 0.75 × 4 + 0.25 × 0 = 3.
+10yl7mq8i00 (a) What each firm chooses changes everything: in prices, a small cut steals the whole market ⇒ p = MC; in quantities, producing more lowers the price of its own units ⇒ each holds back, p > MC.
+1306rl4nvaz (b) Cournot: each firm responds to the other's quantity. Opet's lower cost makes each unit more profitable for it ⇒ its reaction is more "ambitious" ⇒ it produces more.
+2dtdh4h3pkd (c) For a given total quantity, society wants it produced at the lowest cost: more at Opet (cost 0) than at Siren (cost 2).
+2bm0lfbhjgb (d) Investors can't see the choice ⇒ moral hazard. Before talking about a conflict, calculate: the bonus leads to choosing B, and B also has the highest expected profit (§20.1).
+1qfm1zomrib Exam 2020, Q5 — data and instructions from the PDF "past exams/2020.pdf", reworded; solution: recalculations from the dossier (§16), not an official marking scheme.
+1ds2thvpg92 Q = 990 − 400 + 200 + 300 = 1,090. Own price: −40 × 10/1,090 ≈ −0.367. Cross: 30 × 10/1,090 ≈ 0.275 (substitutes).
+8shidw64je Definitions: describe what happens to a person or firm, without the technical word. Example: "when your income rises, you buy less of it".
+g4fihubvgu Elasticity: relative change in Q over relative change in price. First compute Q at the requested point, then (dQ/dp) × p/Q.
+2ciek78v8pg Yerba Mate: the firm takes the price as given; it produces as long as the next kilo brings in more (20) than it costs (MC = 4 + 2q).
+2cvigdoaly8 ε = −40 × 10/1,090 ≈ −0.367; ε_cross = 30 × 10/1,090 ≈ 0.275.
+wr42zkzn9w Yerba Mate: horizontal price at 20, rising MC = 4 + 2q; q = 8 at the intersection.
+24sdpqoiz5r Exam 2021, Q1 — data and instructions from the PDF "past exams/2021.pdf", reworded; solution: recalculations from the dossier (§16), not an official marking scheme.
+s2kx78k1k4 (a) Situation: Swedish electricity is cheap, German electricity expensive. Linking the grids lets Swedish producers sell where it's expensive ⇒ Sweden exports ⇒ the two prices converge. Winners: Swedish producers and German consumers; losers: Swedish consumers.
+1s415mz6z7f (b) Knowledge isn't "used up" by whoever uses it (non-rival) and spreads without anyone being able to stop it (non-excludable) ⇒ the researcher captures only part of the value.
+17v6wwlmmiw (c) The power plant pays for its coal, not for the pollution others breathe ⇒ private cost < social cost ⇒ too much production.
+29n1r8qwgzo (d) The state doesn't know the abatement cost (MAC). A tax fixes the price, not the tonnes; a quota fixes the tonnes, not the cost. Very steep damage ⇒ an error on the tonnes is costly ⇒ quota (§11.5, "prices versus quantities" extension).
+29p33kjy2cr No calculation required. (d) can be illustrated: two possible MACs, a very steep MEC; with a tax, emissions vary a lot from one case to the other; with a quota, they stay fixed.
+sj3fthnzcg (a) Two markets side by side: the Swedish price rises towards the common price (exports), the German price falls (imports).
+bi0v4a3pp7 (d) Emissions axis, steep MEC, two MAC curves (low and high), a horizontal tax and a vertical quota: compare the two loss triangles.
+1yd0zy7c69w Exam 2021, Q2 — data and instructions from the PDF "past exams/2021.pdf", reworded; solution: recalculations from the dossier (§16), not an official marking scheme.
+25oha7gka20 Q = 10; p_s = 2 + 10 = 12; subsidy 12/loaf. CS = ½ × 10 × 10 = 50; PS = ½ × 10 × 10 = 50; cost 12 × 10 = 120. W = 50 + 50 − 120 = −20 versus 16 before ⇒ DWL = 36 = ½ × 6 × 12.
+30kj9ilfvm (a)–(b) Situation: the emperor pays for the bread so that the Roman pays nothing. The Roman takes loaves as long as a loaf is worth more than 0 ⇒ Q = 10; the baker demands the cost of the 10th loaf (12) ⇒ the state pays 12 per loaf.
+1zl59h4n66w Each loaf between 4 and 10 costs more to produce than it's worth to the Roman ⇒ deadweight loss. Public spending is a transfer, but it also finances this waste.
+19oksv5ou9n (c) The more elastic demand is, the more useless units a zero price leads people to consume ⇒ larger deadweight loss.
+ze0bsdjwa1 (d) Discrimination: (i) customers sort themselves by the value of their time (2nd degree); (ii) an observable, more price-sensitive group (3rd degree); (iii) bundling.
+18vr4k0bvp CS = ½ × 10 × 10 = 50; PS = ½ × 10 × (12 − 2) = 50; cost = 120; W = −20.
+10o3advmwo3 (b) Supply p = 2 + Q, demand p = 10 − Q; at Q = 10, p_s = 12 on supply and p_b = 0 on demand; loss triangle between supply (above) and demand, from Q = 4 to 10.
+1m71bxhzid3 (c) Two demand curves, one steep and one flat, through the same equilibrium: the flat one gives a wider loss triangle.
+5s17ey13gi E2021 Q3 — Lynn’s machine: monopoly, Cournot entry, Stackelberg leadership
+150ffk652hp Exam 2021, Q3 — data and instructions from the PDF "past exams/2021.pdf", reworded; solution: recalculations from the dossier (§16), not an official marking scheme.
+1p6vbw5u535 π_i = (48 − 2qi − 2qj)qi − FC ⇒ BR_i = 12 − qj/2; symmetric q = 8; Q = 16; p = 24. Profits: Lynn 128 − 100 = 28, Voytek 128 − 50 = 78.
+1d0tlm7t390 Voytek: qV = 12 − qL/2. Lynn maximizes (56 − 2qL − 2(12 − qL/2) − 8)qL = (24 − qL)qL ⇒ qL = 12; qV = 6; Q = 18; p = 20. Profits 44 and 22.
+1ibtuwi0wfc (a) Alone, Lynn chooses the quantity at which the next machine brings in (MR) as much as it costs (MC = 8); the fixed cost of 100 doesn't change this choice, only the profit.
+dbxd4iaqzt (b) Voytek enters: each chooses a quantity taking the other's as given ⇒ two reaction functions ⇒ the equilibrium is their intersection. Same marginal costs ⇒ same quantities, despite different fixed costs.
+qe61pdn361 (c) Lynn moves first and knows how Voytek will react: she chooses the best point on Voytek's reaction function. Committing to a lot pushes Voytek to produce less (first-mover advantage).
+dbvaaf715c qL horizontal, qV vertical. Lynn's reaction: qV = 24 − 2qL; Voytek's: qV = 12 − qL/2. Cournot (8, 8) at the intersection; Stackelberg (12, 6) on Voytek's reaction function, to the right of Cournot.
+l7r3g2njrm Exam 2021, Q4 — data and instructions from the PDF "past exams/2021.pdf", reworded; solution: recalculations from the dossier (§16), not an official marking scheme.
+1n9raa63qq3 Work: 0.75 × (40 − 30) = 7.5. Easy: 0.25 × 10 + 4 = 6.5 ⇒ he works. Bank: 0.75 × 30 − 20 = 2.5 > 0 ⇒ good proposal.
+2cifphs2ef1 Work: 0.75 × 6 = 4.5; easy: 0.25 × 6 + 4 = 5.5 ⇒ he slacks off. Bank: 0.25 × 34 − 20 = −11.5. IC: 0.5(40 − B) ≥ 4 ⇒ B ≤ 32.
+2ds57hicdpj Sebastian (7, 12): 7 + 24 = 31 versus 30. Christina (13, 8): 21 versus 20. Both gain.
+vq7m3b5swx A: 2/4 = 0.5; B: 4/6 ≈ 0.667 ⇒ A has the comparative advantage in maize (and the absolute advantage: 2 h < 4 h).
+d1tepf60xm Situation: the bank lends, then Sebastian chooses his effort without being seen ⇒ moral hazard. First write what Sebastian GAINS in each case, then deduce the bank's risk (§15, A6.2).
+4rdw3igvof The more repayment the bank demands, the less Sebastian keeps if successful ⇒ above 32, slacking off becomes more attractive ⇒ the bank loses. Asking for more can bring in less.
+zeup9luab2 (b) Becoming an owner and sitting on the board reduces the asymmetry: you monitor instead of guessing.
+1gfpoue3nis (e) Two people value a snack differently ⇒ trade is beneficial as long as their MRSs differ ⇒ efficient when one of the two has nothing left to give. (f) Comparative advantage = lowest opportunity cost.
+1bn4m9z9v22 IC: 0.75(40 − B) ≥ 0.25(40 − B) + 4 ⇒ 0.5(40 − B) ≥ 4 ⇒ B ≤ 32. Bank profitable under H if 0.75B ≥ 20 ⇒ B ≥ 80/3 ≈ 26.67.
+1gtfz5qfdan (f) A: 2/4 = 0.5 wheat per maize; B: 4/6 ≈ 0.67.
+hnuygwki4g (e) Box 20 × 20, endowment in the centre (10, 10). Indifference curves = straight lines: slope 2 for Sebastian, 1 for Christina; gain zone between the two lines; efficient set on the edges (Sebastian has all the snacks or Christina all the drinks).
+12ugdivud7 Exam 2021, Q5 — data and instructions from the PDF "past exams/2021.pdf", reworded; solution: recalculations from the dossier (§16), not an official marking scheme.
+gyal09qklb Definitions: describe what the consumer or firm experiences ("if you double everything, output more than doubles").
+oyztnk9xgv II. Situation: produce 1,000 harnesses at the lowest cost. The isoquant says what is possible, the isocost what it costs; we look for the lowest isocost that touches the isoquant. The wage rises ⇒ labour becomes relatively expensive ⇒ machines are substituted, and the minimum cost rises anyway.
+1vugcyyogff Cost-minimization condition: MRTS = MP_L/MP_K = w/r.
+sfhpem1vo4 L horizontal, K vertical; convex isoquant Q = 1,000; tangent isocost; after w rises: steeper isocost, new tangency point higher up and to the left (less L, more K), on a higher-cost isocost.
+iruv6mv2xz Exam 2022, Q1 — data and instructions from the PDF "past exams/2022.pdf", reworded; solution: recalculations from the dossier (§16), not an official marking scheme.
+20ebz944j9v (a)–(b) The seller doesn't know who is willing to pay: it lets each person choose (free or purchases) ⇒ 2nd degree. With interaction, free players make the game more valuable for paying players.
+oa3kf095cu (c) Identical products + price competition ⇒ each undercuts down to marginal cost (≈ 0 for an app). A price floor stops the descent above cost ⇒ margin.
+oagb8au5an (d) A platform lives off both sides at once: each side comes because the other is there ⇒ chicken-and-egg problem, trust, matching.
+hbw16232i2 (e) The monopolist compares what the next unit brings in (MR = p + Qp′) with its cost; rewriting MR = MC in percentages gives Lerner = 1/|ε|.

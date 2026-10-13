@@ -1,0 +1,73 @@
+======================================================================
+0. COME USARE QUESTO FILE E COSA COPRE
+======================================================================
+
+Obiettivo: capire i meccanismi, riconoscere il modello da applicare,
+saper ricostruire le formule, calcolare, disegnare e spiegare in inglese.
+Questo dossier è una sintesi didattica, non una soluzione ufficiale SSE.
+I risultati numerici presentati come «ricalcolati» sono stati derivati dai
+testi delle prove. Le risposte personali negli assignments non sono trattate
+come un'autorità. I principali errori o ambiguità sono segnalati.
+
+Corpus completo della cartella Microeconomics: 23 PDF, 373 pagine.
+12 lezioni, 5 assignments numerati da 2 a 6, 6 esami finali dal 2020 al 2025.
+Estrazione del testo di tutte le pagine; esame visivo delle lezioni e degli
+assignments, con verifica delle tabelle inserite come immagini e dei
+calcoli utili. L'ultima pagina dell'esame 2020 è bianca.
+I numeri di pagina includono copertine, istruzioni e pagine bianche.
+
+Limiti del corpus, da mantenere in ogni scheda prodotta a partire da esso:
+- Non è presente alcun assignment 1 o 7.
+- Sono presenti solo le lezioni da 1 a 12. Il calendario della Lecture 1
+  annuncia ancora piattaforme e commercio internazionale nella settimana 7.
+- Le aste e alcuni elementi di teoria dei giochi compaiono negli
+  esami o negli assignments senza una lezione completa corrispondente qui.
+- I sei PDF dei past exams sono testi di esami FINALI, non midterm,
+  e non contengono soluzioni ufficiali.
+- Una frequenza su sei vecchi esami descrive questo campione; non
+  costituisce una probabilità di comparire nel prossimo esame.
+- Le date, le regole e gli esempi di attualità citati sono quelli dei materiali.
+  Questo dossier non verifica le regole amministrative attuali su Canvas.
+
+Riferimenti di provenienza: L1-L12 = lezioni; A2-A6 = assignments;
+E2020-E2025 = esami. «p.» indica la pagina del PDF, contata da 1.
+«Complemento» = spiegazione standard ricostruita per svolgere un esercizio,
+e non affermazione che sia stata trovata una lezione aggiuntiva.
+
+PROMPT DA DARE A CHATGPT CON QUESTO FILE
+«Sei il mio tutor di microeconomia per l'esame SSE BE 501. Usa questo
+dossier come contesto principale. Spiega in italiano mantenendo i
+termini e le abbreviazioni inglesi che incontrerò all'esame. A ogni
+nuovo simbolo, sviluppa il suo nome inglese, traducilo, indica le sue unità
+e il suo ruolo. Per ogni formula, spiega da dove viene, perché è
+valida, le sue ipotesi, come riconoscerne l'uso e quando
+non si applica. Fammi prima identificare l'obiettivo, i vincoli,
+la variabile di scelta e il modello. Proponi esercizi progressivi,
+lasciami provare, poi correggi il mio ragionamento e i miei grafici.
+Allenami anche a dare risposte brevi e motivate in inglese.
+Distingui gli elementi documentati, i risultati ricalcolati e i
+complementi. Non inventare soluzioni ufficiali, frequenze o programma
+mancante. Se chiedo schede, un sito o esercizi, copri anche
+i casi limite e le trappole elencate qui.»
+
+PIANO
+1. Inventario e corrispondenza tra lezioni, assignments ed esami
+2. Logica comune e strumenti matematici
+3. Offerta, domanda, equilibrio e shock
+4. Consumatore, preferenze, budget e domanda
+5. Elasticità
+6. Produzione, costi e offerta concorrenziale
+7. Surplus, tasse, sussidi e prezzi regolamentati
+8. Monopolio e concorrenza monopolistica
+9. Discriminazione, segmentazione, bundling e tariffe
+10. Oligopolio, Cournot, Bertrand e Stackelberg
+11. Esternalità, inquinamento, beni pubblici e risorse comuni
+12. Informazione asimmetrica, contratti e incentivi
+13. Teoria dei giochi nell'Assignment 3
+14. Complementi d'esame: commercio, piattaforme, aste e scambio
+15. Assignments: risultati e metodi ricalcolati
+16. Esami: mappa delle domande e risultati di riferimento
+17. Formulario trasversale e scelta del metodo
+18. Repertorio delle abbreviazioni e dei simboli
+19. Lessico bilingue dei concetti e dei verbi d'esame
+20. Trappole, correzioni, grafici e percorso di ripasso

@@ -1,0 +1,53 @@
+======================================================================
+2. LOGIQUE COMMUNE ET OUTILS MATHÉMATIQUES
+======================================================================
+
+2.1 Le squelette de presque tous les problèmes
+1) Qui décide ? Consommateur, firme, banque, autorité, enchérisseur.
+2) Quel objectif ? Utilité, profit, coût minimal ou surplus SOCIAL.
+3) Quelle variable choisit-il ? Quantité, prix, effort, inputs, contrat.
+4) Qu'est-ce qui est donné ? Prix, revenu, rival, technologie, information.
+5) Quelles contraintes ? Budget, production, capacité, non-négativité,
+   participation, incitation, non-revente, réaction du suiveur.
+6) Écrire la fonction objectif et les relations de cohérence.
+7) Résoudre ; vérifier domaine, coins, optimum et participation.
+8) Revenir aux prix, quantités, profits et surplus demandés.
+9) Expliquer pourquoi une petite déviation n'améliore pas l'objectif.
+
+« Marginal » signifie l'effet d'une unité supplémentaire, ou la dérivée
+dans un modèle continu. « Average » signifie total divisé par quantité.
+Une décision marginale compare bénéfice supplémentaire et coût
+supplémentaire. Un coût fixe inévitable n'apparaît pas dans cette comparaison,
+mais compte dans le profit total et la décision de rester à long terme.
+
+2.2 Dérivées et conditions d'optimalité
+y=f(x) : f'(x)=dy/dx, pente locale. Pour plusieurs variables, utiliser
+une dérivée partielle en gardant les autres constantes.
+d(k)/dx=0 ; d(ax)/dx=a ; d(x^n)/dx=n*x^(n-1).
+d[f(x)g(x)]/dx=f'(x)g(x)+f(x)g'(x), règle du produit.
+Pour p(Q)Q, MR=p(Q)+Q*p'(Q), et non seulement p'(Q)Q.
+Pour une fonction concave, la FOC f'(x)=0 donne un maximum intérieur.
+Vérifier f''(x)<0 ou comparer les valeurs aux frontières si nécessaire.
+Une FOC seule ne garantit ni maximum, ni quantité admissible, ni production.
+
+Pour une somme espérée : E[X]=somme(probabilité de l'état * résultat).
+Calculer le résultat NET dans chaque état avant de pondérer.
+Une pénalité appliquée avec probabilité d a un coût espéré d*F.
+
+2.3 Aires et unités
+Rectangle = base*hauteur ; triangle = base*hauteur/2.
+Surplus = aire entre disposition marginale à payer et coût/prix pertinent.
+Forme générale : aire = intégrale de la différence verticale en fonction Q.
+Les triangles supposent des courbes linéaires sur l'intervalle considéré.
+Prix en monnaie/unité * quantité en unités = monnaie.
+Si Q est en MILLIERS de tonnes et p en dollars/tonne, l'aire est en
+MILLIERS de dollars. Ce point change le résultat d'un facteur 1000.
+Une élasticité n'a pas d'unité ; une pente en a généralement une.
+
+2.4 Réécrire avant de calculer
+Demande directe Q=a-bp -> demande inverse p=a/b-Q/b.
+Offre directe Q=-c+dp -> offre inverse p=c/d+Q/d.
+Sur un graphique de marché : Q horizontal, p vertical ; tracer les formes
+inverses. Pour additionner les demandes privées : additionner les quantités
+au même prix, pas les prix. Pour un bien public : additionner les bénéfices
+marginaux au même Q, donc verticalement.

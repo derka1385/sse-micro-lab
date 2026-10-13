@@ -7,6 +7,7 @@ import { misById } from '../content/training';
 import { addTeachback, flagMisconception, record } from '../store';
 import { Rich } from './text';
 import { Caution, Check, Cross, Ring } from './icons';
+import { t } from '../i18n';
 
 /** Lowercase + strip accents, keeping string length identical so match indices map back to the original. */
 export const normalize = (s: string) =>
@@ -77,13 +78,13 @@ export function TeachBack({ rubric, lessonId, tags, onValidated }: { rubric: Tea
   return (
     <div className="teach">
       <p className="teach-prompt"><Rich text={rubric.prompt} /></p>
-      <textarea value={text} onChange={(e) => { setText(e.target.value); setAnalysed(false); }} rows={7} placeholder="Explique avec tes mots — analogies bienvenues." aria-label="Ton explication" />
+      <textarea value={text} onChange={(e) => { setText(e.target.value); setAnalysed(false); }} rows={7} placeholder={t('Explique avec tes mots — analogies bienvenues.')} aria-label={t('Ton explication')} />
       <div className="row">
-        <button type="button" className="primary" disabled={text.trim().length < 40} onClick={analyse}>Analyser mes liens de cause</button>
-        <span className="muted small">{text.trim().length < 40 ? 'Écris au moins quelques phrases.' : ''}</span>
+        <button type="button" className="primary" disabled={text.trim().length < 40} onClick={analyse}>{t('Analyser mes liens de cause')}</button>
+        <span className="muted small">{text.trim().length < 40 ? t('Écris au moins quelques phrases.') : ''}</span>
       </div>
 
-      <p className="muted small">Le repérage automatique est approximatif : vérifie les liens proposés et signale ceux que tu as exprimés autrement.</p>
+      <p className="muted small">{t('Le repérage automatique est approximatif : vérifie les liens proposés et signale ceux que tu as exprimés autrement.')}</p>
       {analysed && (
         <div className="teach-result">
           <ul className="links">
@@ -91,16 +92,16 @@ export function TeachBack({ rubric, lessonId, tags, onValidated }: { rubric: Tea
               const s = links[i];
               return (
                 <li key={l.id} className={`link-${s.state}`}>
-                  <span className="link-icon">{s.state === 'missing' ? <Ring label="maillon non détecté" /> : <Check label="maillon présent" />}</span>
+                  <span className="link-icon">{s.state === 'missing' ? <Ring label={t('maillon non détecté')} /> : <Check label={t('maillon présent')} />}</span>
                   <div>
                     <b>{l.label}</b>
                     {s.state === 'auto' && s.snippet && <span className="snippet">« {s.snippet} »</span>}
-                    {s.state === 'self' && <span className="muted small"> — tu l’as exprimé autrement</span>}
-                    {s.state !== 'missing' && !s.term && l.termHint && <p className="vocab"><Caution size={15} /><span>Vocabulaire à affiner : <Rich text={l.termHint} /></span></p>}
+                    {s.state === 'self' && <span className="muted small"> — {t('tu l’as exprimé autrement')}</span>}
+                    {s.state !== 'missing' && !s.term && l.termHint && <p className="vocab"><Caution size={15} /><span>{t('Vocabulaire à affiner :')} <Rich text={l.termHint} /></span></p>}
                     {s.state === 'missing' && !validated && (
                       <div className="row small">
-                        <button type="button" className="ghost small" onClick={() => setLinks(links.map((x, j) => (j === i ? { ...x, state: 'self' } : x)))}>Je l’ai dit autrement</button>
-                        <button type="button" className="ghost small" onClick={() => setLinks(links.map((x, j) => (j === i ? { ...x, open: !x.open } : x)))}>Montre-moi ce maillon</button>
+                        <button type="button" className="ghost small" onClick={() => setLinks(links.map((x, j) => (j === i ? { ...x, state: 'self' } : x)))}>{t('Je l’ai dit autrement')}</button>
+                        <button type="button" className="ghost small" onClick={() => setLinks(links.map((x, j) => (j === i ? { ...x, open: !x.open } : x)))}>{t('Montre-moi ce maillon')}</button>
                       </div>
                     )}
                     {s.open && <p className="muted"><Rich text={l.explain} /></p>}
@@ -111,29 +112,29 @@ export function TeachBack({ rubric, lessonId, tags, onValidated }: { rubric: Tea
           </ul>
           {errors.map((e, i) => (
             <div key={i} className={`teach-error ${e.dismissed ? 'dismissed' : ''}`}>
-              <b><Cross size={14} /> Erreur de concept possible</b> <span className="snippet">« {e.snippet} »</span>
+              <b><Cross size={14} /> {t('Erreur de concept possible')}</b> <span className="snippet">« {e.snippet} »</span>
               <p><Rich text={e.refine} /></p>
               <p className="muted small">{misById(e.mis)?.label}</p>
               {!validated && !e.dismissed && (
                 <button type="button" className="ghost small" onClick={() => setErrors(errors.map((x, j) => (j === i ? { ...x, dismissed: true } : x)))}>
-                  Ce n’est pas ce que je voulais dire
+                  {t('Ce n’est pas ce que je voulais dire')}
                 </button>
               )}
             </div>
           ))}
           <p className="teach-score">
-            {okCount}/{rubric.links.length} maillons de cause {liveErrors.length ? `· ${liveErrors.length} erreur(s) à corriger` : ''}
+            {t('{a}/{b} maillons de cause', { a: okCount, b: rubric.links.length })} {liveErrors.length ? `· ${t('{n} erreur(s) à corriger', { n: liveErrors.length })}` : ''}
           </p>
           {!validated ? (
-            <button type="button" className="primary" onClick={validate}>Valider mon explication</button>
+            <button type="button" className="primary" onClick={validate}>{t('Valider mon explication')}</button>
           ) : (
             <p className={`feedback ${okCount >= rubric.links.length - 1 && !liveErrors.length ? 'good' : 'bad'}`}>
               {okCount >= rubric.links.length - 1 && !liveErrors.length
-                ? 'Chaîne causale solide. Ce qui compte, c’est que chaque maillon cause le suivant — ton vocabulaire peut encore s’affiner.'
-                : 'Il manque des maillons : complète ton explication, puis relance l’analyse.'}
+                ? t('Chaîne causale solide. Ce qui compte, c’est que chaque maillon cause le suivant — ton vocabulaire peut encore s’affiner.')
+                : t('Il manque des maillons : complète ton explication, puis relance l’analyse.')}
             </p>
           )}
-          <button type="button" className="link" onClick={() => setShowModel(!showModel)}>{showModel ? 'Masquer' : 'Voir'} une explication modèle</button>
+          <button type="button" className="link" onClick={() => setShowModel(!showModel)}>{showModel ? t('Masquer l’explication modèle') : t('Voir une explication modèle')}</button>
           {showModel && <blockquote className="model"><Rich text={rubric.model} /></blockquote>}
         </div>
       )}
@@ -151,27 +152,27 @@ export function TextAnswer({ rubric, model, lang, onGraded }: { rubric: RubricIt
   const langOk = !lang || language === lang || language === '?';
   return (
     <div className="textans">
-      <textarea value={text} rows={4} onChange={(e) => { setText(e.target.value); setTicks(null); setDone(false); }} placeholder={lang === 'en' ? 'Answer in English…' : 'Ta réponse…'} aria-label="Ta réponse écrite" />
+      <textarea value={text} rows={4} onChange={(e) => { setText(e.target.value); setTicks(null); setDone(false); }} placeholder={lang === 'en' ? 'Answer in English…' : t('Ta réponse…')} aria-label={t('Ta réponse écrite')} />
       {!ticks ? (
-        <button type="button" className="primary" disabled={text.trim().length < 15} onClick={() => setTicks(detected(text))}>Comparer à la réponse modèle</button>
+        <button type="button" className="primary" disabled={text.trim().length < 15} onClick={() => setTicks(detected(text))}>{t('Comparer à la réponse modèle')}</button>
       ) : (
         <div className="rubric">
           <blockquote className="model"><Rich text={model} /></blockquote>
-          <p className="small muted">Coche ce que ta réponse contient vraiment (pré-coché quand on l’a détecté) :</p>
+          <p className="small muted">{t('Coche ce que ta réponse contient vraiment (pré-coché quand on l’a détecté) :')}</p>
           {rubric.map((r, i) => (
             <label key={r.id} className="tick">
               <input type="checkbox" checked={ticks[i]} disabled={done} onChange={() => setTicks(ticks.map((x, j) => (j === i ? !x : x)))} />
               {r.label}
             </label>
           ))}
-          {lang === 'en' && !langOk && <p className="feedback bad">Langue : ta réponse semble en français. À l’examen, réponds en anglais.</p>}
+          {lang === 'en' && !langOk && <p className="feedback bad">{t('Langue : ta réponse semble en français. À l’examen, réponds en anglais.')}</p>}
           {!done && (
             <button type="button" className="primary" onClick={() => {
               const n = ticks.filter(Boolean).length;
               const ok = n >= Math.ceil(rubric.length * 0.75) && langOk;
               setDone(true);
               onGraded(ok, ticks, langOk);
-            }}>Valider</button>
+            }}>{t('Valider')}</button>
           )}
         </div>
       )}

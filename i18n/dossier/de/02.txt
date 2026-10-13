@@ -1,0 +1,73 @@
+======================================================================
+0. WIE DU DIESE DATEI NUTZT UND WAS SIE ABDECKT
+======================================================================
+
+Ziel: die Mechanismen verstehen, das passende Modell erkennen,
+die Formeln herleiten, rechnen, zeichnen und auf Englisch erklären können.
+Dieses Dossier ist eine didaktische Zusammenfassung, keine offizielle SSE-Lösung.
+Zahlenergebnisse, die als „nachgerechnet“ bezeichnet sind, wurden aus den
+Aufgabentexten abgeleitet. Persönliche Antworten in den Assignments gelten nicht
+als Autorität. Die wichtigsten Fehler oder Unklarheiten sind markiert.
+
+Gesamter Korpus des Ordners Microeconomics: 23 PDFs, 373 Seiten.
+12 Vorlesungen, 5 Assignments mit den Nummern 2 bis 6, 6 Abschlussprüfungen 2020 bis 2025.
+Text aus allen Seiten extrahiert; visuelle Durchsicht der Vorlesungen und
+Assignments, mit Prüfung der als Bilder eingebetteten Tabellen und der
+relevanten Rechnungen. Die letzte Seite der Prüfung 2020 ist leer.
+Die Seitenzahlen enthalten Deckblätter, Anweisungen und leere Seiten.
+
+Grenzen des Korpus, die in jedem daraus erstellten Blatt zu beachten sind:
+- Kein Assignment 1 oder 7 ist vorhanden.
+- Nur die Vorlesungen 1 bis 12 sind vorhanden. Der Zeitplan von Lecture 1
+  kündigt noch Plattformen und internationalen Handel in Woche 7 an.
+- Auktionen und einige Elemente der Spieltheorie erscheinen in den
+  Prüfungen oder Assignments ohne entsprechende vollständige Vorlesung hier.
+- Die sechs PDFs der past exams sind FINAL-Prüfungen, keine Midterms,
+  und enthalten keine offiziellen Lösungen.
+- Eine Häufigkeit über sechs alte Prüfungen beschreibt diese Stichprobe; sie
+  ist keine Wahrscheinlichkeit für das Auftreten in der nächsten Prüfung.
+- Die genannten Daten, Regeln und aktuellen Beispiele sind die der Unterlagen.
+  Dieses Dossier prüft nicht die aktuellen Verwaltungsregeln auf Canvas.
+
+Herkunftsangaben: L1 bis L12 = Vorlesungen; A2 bis A6 = Assignments;
+E2020 bis E2025 = Prüfungen. „p.“ bezeichnet die PDF-Seite, gezählt ab 1.
+„Ergänzung“ = rekonstruierte Standarderklärung zur Lösung einer Aufgabe,
+keine Behauptung, dass eine zusätzliche Vorlesung gefunden wurde.
+
+PROMPT FÜR CHATGPT ZUSAMMEN MIT DIESER DATEI
+„Du bist mein Mikroökonomie-Tutor für die Prüfung SSE BE 501. Nutze dieses
+Dossier als Hauptkontext. Erkläre auf Deutsch und behalte die englischen
+Begriffe und Abkürzungen bei, die mir in der Prüfung begegnen. Bei jedem
+neuen Symbol nenne seinen englischen Namen, übersetze ihn, gib seine Einheiten
+und seine Rolle an. Erkläre bei jeder Formel, woher sie kommt, warum sie
+gilt, ihre Annahmen, wie man ihren Einsatz erkennt und wann sie
+nicht gilt. Lass mich zuerst Ziel, Nebenbedingungen,
+Entscheidungsvariable und Modell bestimmen. Schlage aufbauende Übungen vor,
+lass mich probieren und korrigiere dann mein Denken und meine Grafiken.
+Trainiere mich auch darin, kurze, begründete Antworten auf Englisch zu geben.
+Unterscheide dokumentierte Elemente, nachgerechnete Ergebnisse und
+Ergänzungen. Erfinde weder offizielle Lösungen noch Häufigkeiten noch fehlenden
+Stoff. Wenn ich Lernblätter, eine Website oder Übungen möchte, decke auch
+die hier aufgeführten Grenzfälle und Fallen ab.“
+
+GLIEDERUNG
+1. Bestandsaufnahme und Zuordnung von Vorlesungen, Assignments und Prüfungen
+2. Gemeinsame Logik und mathematische Werkzeuge
+3. Angebot, Nachfrage, Gleichgewicht und Schocks
+4. Konsument, Präferenzen, Budget und Nachfrage
+5. Elastizitäten
+6. Produktion, Kosten und Wettbewerbsangebot
+7. Rente, Steuern, Subventionen und regulierte Preise
+8. Monopol und monopolistische Konkurrenz
+9. Diskriminierung, Segmentierung, Bundling und Tarife
+10. Oligopol, Cournot, Bertrand und Stackelberg
+11. Externalitäten, Umweltverschmutzung, öffentliche Güter und Allmendegüter
+12. Asymmetrische Information, Verträge und Anreize
+13. Spieltheorie in Assignment 3
+14. Prüfungsergänzungen: Handel, Plattformen, Auktionen und Tausch
+15. Assignments: nachgerechnete Ergebnisse und Methoden
+16. Prüfungen: Übersicht der Fragen und Referenzergebnisse
+17. Übergreifende Formelsammlung und Methodenwahl
+18. Verzeichnis der Abkürzungen und Symbole
+19. Zweisprachiges Lexikon der Begriffe und Prüfungsverben
+20. Fallen, Korrekturen, Grafiken und Lernpfad

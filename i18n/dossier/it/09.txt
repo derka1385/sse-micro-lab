@@ -1,0 +1,94 @@
+======================================================================
+7. SURPLUS, TASSE, SUSSIDI E PREZZI REGOLAMENTATI — L7
+======================================================================
+
+7.1 Chi riceve cosa?
+CS, consumer surplus: valore totale per gli acquirenti meno i loro pagamenti.
+CS=integrale_0^Q [p_D(q)-p_b] dq, se le unità vanno agli acquirenti che le
+valutano di più. Per p_D=a-bQ: CS=(a-p_b)*Q/2.
+PS, producer surplus: ricavi al netto della tassa meno costo variabile.
+PS=integrale_0^Q [p_s-MC(q)] dq; per p_S=c+dQ: PS=(p_s-c)*Q/2.
+Profitto=PS-FC. Con prezzi diversi, integrare i ricavi effettivi
+invece di usare un unico rettangolo pQ.
+Benessere W=CS+PS nel modello senza Stato né esternalità, a costi fissi
+invariati. Con lo Stato: aggiungere il gettito fiscale, sottrarre la spesa per
+sussidi. Con esternalità: aggiungere benefici esterni, sottrarre danni.
+Quando cambiano l'entrata o i costi fissi, includere anche questi costi reali.
+
+Una somma di surplus misura l'efficienza monetaria, non l'equità.
+Un trasferimento da CS a PS non è di per sé una DWL. Una perdita secca
+è una perdita NETTA di surplus rispetto al benchmark efficiente.
+Il modello concorrenziale massimizza W se la domanda è il beneficio marginale
+sociale, l'offerta il costo marginale sociale e le altre ipotesi valgono.
+Monopolio, esternalità o informazione asimmetrica possono rompere questo risultato.
+
+L7 esempio: p_D=23-Q, p_S=2+2Q ->Q7,p16.
+CS=(23-16)*7/2=24.5; PS=(16-2)*7/2=49; W73.5.
+Se Q è limitata a 5 e il prezzo è 18: CS12.5; PS55; W67.5; DWL6.
+Qui i produttori guadagnano 6 mentre i consumatori perdono 12:
+la perdita sociale è 6, non 12.
+
+7.2 Tassa unitaria: scrivere TRE relazioni
+QD(p_b)=QS(p_s)=Q; p_b=p_s+t.
+Il consumatore paga p_b; il produttore tiene p_s; lo Stato riceve tQ.
+Che la legge faccia versare la tassa all'acquirente o al venditore non cambia
+l'equilibrio di questo modello, a parità di tassa e di possibilità di scambio.
+
+Per p_D=a-bQ e p_S=c+dQ, b,d>0, soluzione interna:
+Q0=(a-c)/(b+d); Qt=(a-c-t)/(b+d).
+p_b=a-bQt; p_s=c+dQt; T=tQt.
+Aumento del prezzo per l'acquirente=b*t/(b+d).
+Calo del prezzo per il venditore=d*t/(b+d).
+DWL=t*(Q0-Qt)/2=t^2/[2(b+d)], SENZA esternalità/potere di mercato.
+Oltre la tassa proibitiva, Q=0; non prolungare le formule verso Q<0.
+
+Incidenza economica: il lato meno elastico sopporta di più.
+Forma locale concorrenziale: quota acquirente=epsilon_S/(epsilon_S+|epsilon_D|),
+quota venditore=|epsilon_D|/(epsilon_S+|epsilon_D|).
+Queste quote non sono una regola generale di oligopolio o monopolio.
+Una base poco elastica genera minore variazione di Q, quindi in genere
+meno DWL per uno stesso prelievo, con le ipotesi di confronto.
+
+L7 tassa t3: Q6,p_b17,p_s14,T18; CS18,PS36,W72,DWL1.5.
+I rettangoli trasferiti allo Stato non sono distrutti.
+Una tassa può comunque finanziare un bene pubblico o correggere un'esternalità:
+la sua DWL non basta a giudicare l'intera politica.
+
+7.3 Sussidio unitario
+QD(p_b)=QS(p_s)=Q; p_s=p_b+s.
+L'acquirente paga meno, il venditore riceve di più, lo Stato paga sQ.
+Qs=(a-c+s)/(b+d); W=CS+PS-sQ.
+Senza esternalità: DWL=s*(Qs-Q0)/2. Le unità aggiuntive hanno un costo
+reale superiore al loro beneficio. Con esternalità positiva, questa formula
+senza correzione esterna può dare la diagnosi sbagliata.
+L7 s3: Q8,p_b15,p_s18; CS32,PS64,spesa24,W72,DWL1.5.
+
+7.4 Prezzo massimo e minimo
+Price ceiling / cap: prezzo massimo. Vincolante se il tetto è sotto p* nel
+caso usuale. Quantità scambiata spesso limitata da QS; penuria QD-QS.
+Disegnare il tetto orizzontale; leggere QS e QD separatamente.
+Il CS dipende anche dal razionamento: la formula standard suppone che le
+unità disponibili vadano agli acquirenti con la WTP più alta.
+Razionamento casuale, code e ricerca possono aggiungere perdite.
+Il PS diminuisce; il CS può aumentare O diminuire; W diminuisce senza altri fallimenti.
+L7 tetto 12: QS5,QD11; scambi 5; CS42.5,PS25,W67.5,DWL6.
+Un tetto >=p* non è vincolante nel modello concorrenziale semplice.
+
+Price floor: prezzo minimo, vincolante sopra p*. Eccesso di offerta.
+Senza acquisti pubblici, quantità venduta limitata da QD; non contare QS
+come quantità consumata. Con acquisti pubblici, includere il loro costo e la
+sorte dell'invenduto. Il risultato di benessere dipende da questo dispositivo.
+
+E2023 petrolio russo: non applicare meccanicamente «tetto ->penuria».
+Offerta russa verticale oltre 50, tetto 60 invece di 90: stesso volume
+8 milioni di barili/giorno; trasferimento di rendita 30*8 milioni=240 milioni
+USD/giorno. Nessun calo di questa offerta con queste ipotesi; il tetto
+riguarda un fornitore, non necessariamente il prezzo dell'intero mercato mondiale.
+
+7.5 Tasse e gettito: una conclusione da verificare
+Revenue=t*Q(t). Ridurre t abbassa il prelievo per unità ma può aumentare
+il volume. Il segno di Delta revenue non è universale senza numeri.
+Con domanda anelastica e piccola riduzione della tassa, il volume varia poco e
+il gettito in genere diminuisce. Mostrare i due effetti se il testo
+non permette di quantificare. Un'IVA in % e una tassa unitaria non sono
+identiche; E2025 consente esplicitamente di trattare l'IVA come unitaria.

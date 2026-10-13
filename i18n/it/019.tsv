@@ -1,0 +1,233 @@
+pcjarhuliw Esempio didattico: R(n)=20 n−n²; AP=R/n=20−n; MP=dR/dn=20−2 n; costo per barca=4. Accesso libero AP=4; ottimo MP=4.
+fsq2o0fggs A n=8 ogni barca ottiene AP=12, ma un nuovo entrante aggiunge al totale solo MP=4.
+zk9ju3aw19 La differenza AP−MP cattura il ricavo sottratto agli altri; per questo l’entrata continua troppo a lungo.
+iej3q47q53 Ottimo: 20−2 n=4 ⇒ n=8. Accesso libero: 20−n=4 ⇒ n=16. Surplus totale 16 n−n²: 64 a n=8, zero a n=16.
+vxw9sqnnv8 Personalmente guadagni ancora entrando dopo n=8. Guarda però che cosa resta ai tuoi vicini dopo il tuo ingresso.
+3stuyh4y0c Pesca: l’entrata guarda la media, la società il marginale
+1ngcs6s0nvw Esempio didattico continuo: ricavo totale R(n)=20 n−n², costo totale 4 n, 0≤n≤16. Ordinata in € per barca al giorno; n è un numero di barche trattato come continuo.
+1oq6ipio12j n: barche attive
+24tb62iltkj € / barca / giorno
+1kpt1btqm0q Ricavo medio AP = 20−n
+1nv7xvlb2et Ricavo atteso di un entrante che divide la cattura totale.
+jxzxxlpgyr Ricavo marginale sociale MP = 20−2 n
+1vd6jjyfxtu Aggiunta al ricavo totale, compreso il calo delle catture altrui; negativo oltre n=10.
+zb8t8gqvdo Costo per barca = 4
+2bty0sdo746 Carburante e lavoro impiegati da una barca in più.
+4gi4xozjo7 Ottimo n=8
+1cc58y0w2ax Accesso libero n=16
+1v1u3hnfjyg Con R=20 n−n² e costo totale 4 n, quale n massimizza il surplus collettivo?
+fabq03uu3x barche
+qwum71synn Derivata del surplus 16 n−n²: 16−2 n=0 ⇒ n=8; la derivata seconda è −2.
+2da936il8xw 16 corrisponde ad AP=costo, quindi all’entrata libera, non all’ottimo.
+fjthg99mll E quante barche entrano in accesso libero se ciascuna riceve R/n?
+izm5pdow3n AP=20−n=4 ⇒ n=16. In questo punto il profitto privato è nullo e la rendita collettiva è stata dissipata.
+277x4e7uhe 8 confronta il marginale sociale con il costo; un entrante privato guarda la sua quota media.
+1sipcj2w6ah Il rimedio giusto dipende dall’incentivo sbagliato
+290akqmc76b Per la strada mancano contributi nonostante un valore condiviso. Per il lago ci sono troppi ingressi nonostante una risorsa limitata. Una regola utile deve quindi mirare alla scelta problematica: pagare nel primo caso, entrare o prelevare nel secondo.
+o3fdl6maf3 Licenze, quote, canoni, diritti di accesso e regole locali possono limitare la pressione su un bene comune. I contributi obbligatori riguardano il finanziamento del bene pubblico.
+1aofxvzdyb7 Una quota di barche limita direttamente l’uso rivale; un canone rende visibile all’entrante una parte del costo collettivo.
+2dal4a5s20o Una soluzione deve anche essere controllabile e adatta all’informazione disponibile; dare un nome a una politica non basta.
+1c2x0xrp17k Nel nostro lago, autorizzare otto barche riproduce il benchmark efficiente, con controllo effettivo e costi invariati. Una regola a sedici barche non corregge nulla.
+293vr5jucdh Consigli il Comune: prima di dire «tassare», nomina l’attore, la sua scelta e la conseguenza che ignora.
+28k5ct6foya Ricostruisci il problema della strada.
+15qq4rdhf86 Lo stesso livello giova ai residenti, anche a chi non paga
+14cgb7m031d Un residente può aspettare che gli altri finanzino
+20yob1kjhzt Il suo contributo non riflette tutti i benefici sociali
+1quudmjfdii Il finanziamento volontario può restare sotto il livello efficiente
+1filn49wphu Il loro consumo del servizio condiviso non si divide in unità private.
+2as3z73ms2d La non escludibilità rende individualmente conveniente aspettare i pagamenti altrui.
+12xju1w38zx Chi paga non recupera nel proprio budget tutto il valore portato agli altri.
+19ly8q6hdry Una sola unità in più procura contemporaneamente più benefici.
+x9c8gle4v8 L’ultima unità utile vale il suo costo reale per la collettività.
+1rh2ski5st7 La strada giova a tutti allo stesso livello, anche a chi non paga. Ciascuno può quindi aspettare gli altri, e il suo contributo privato non riflette tutto il guadagno collettivo. Per scegliere Q sommo i MB positivi allo stesso Q e confronto la loro somma con MC. Nel lago le catture sono rivali: un entrante guarda il suo ricavo medio, mentre il suo contributo marginale sociale è più basso perché riduce le catture degli altri. L’accesso libero attira troppe barche.
+23gl83qagkc Lo stesso Q giova a più residenti
+28iegilnztl Ciascuno può beneficiare senza contribuire
+1v0cbhu1yuu La scelta privata omette guadagni collettivi
+1e9xth8s0zg Si sommano i MB allo stesso Q
+a7b85tjwd9 L’ottimo uguaglia questa somma a MC
+r7szpcgr22 Spiega a un vicino perché la strada può essere poco finanziata nonostante il suo valore. Poi di’ perché il lago aperto soffre invece di troppo uso. Concludi con la differenza tra somma verticale e ricavo medio.
+8smr4g1q32 Uno stesso livello Q
+u96sz7dxkx I residenti beneficiano dello stesso livello del bene pubblico.
+qda9a5nrh1 L’incentivo ad aspettare gli altri
+yjmq22wmw6 Si può beneficiare senza pagare, quindi contribuire troppo poco.
+tlj20ipktm Valore collettivo del margine
+1zhgqdkir2k I MB individuali si sommano verticalmente allo stesso Q.
+2e1lc2jlz4l Confrontare con il costo
+12h3dwxsvcz La somma dei MB si confronta con il MC dell’unità comune.
+1uq5d0zt62q Uso rivale eccessivo
+1ilzszrtt1l L’entrante ignora il calo delle catture altrui e guarda AP, non il MP sociale.
+c00vfb1w1f Qui tutti beneficiano dello stesso Q. Somma le altezze dei MB a quel Q, non quantità private.
+2bzi4sub766 La fornitura volontaria può essere positiva: un grande beneficiario può finanziare, ma senza contare tutto il guadagno dei vicini.
+2vabb4a6gy Il bene comune è rivale e tende a essere sovrasfruttato; il bene pubblico puro è non rivale e può essere poco finanziato.
+1s0mp5kiuqy Esercitazione costruita a partire da A6 e §11.9. I dati sulla pulizia sono documentati; il lago è un esempio didattico. Non è una soluzione ufficiale.
+kkc0j36wn8 Vertical sum 36−3 Q=27 ⇒ Q=3; all three marginal benefits remain positive.
+rqhszbpgai Efficiency: R′(n)=20−2 n=4 ⇒ 8. Entry: R(n)/n=20−n=4 ⇒ 16.
+14ua4pnomup Non escludibile e rivale: che tipo di bene?
+5nv3qotvjh Bene pubblico puro
+2ae8m4srk27 Il bene pubblico puro è non rivale.
+2dwjzws0qps Risorsa comune
+jbtkou8356 È proprio l’accesso libero a una risorsa il cui uso riduce quello degli altri.
+9voso9qjum Bene di club
+15n8guw384c Il bene di club è escludibile e non rivale nel modello puro.
+25uqrmcj0kb Che cosa misura MB?
+wzdpq74vbq Il beneficio dell’unità aggiuntiva
+1as2cxo79ht Marginale = un’aggiunta, al livello corrente.
+1goblubpiep Il costo totale di produzione
+1uo3g9ndat9 MB è un beneficio marginale, non un costo totale.
+1pg91w55hg4 Ricostruisci il free riding.
+1lkx1an6s1a Accesso al bene anche senza pagare
+1di1yaxg9ls Contributo privato evitabile
+27kjbmkgrpf Benefici altrui omessi dalla scelta privata
+1kvkol2numx Fornitura volontaria potenzialmente insufficiente
+5n0rozy50w Perché un ingresso redditizio in un lago può ridurre il surplus collettivo?
+eauz1x9sna L’entrante ignora il calo delle catture delle barche presenti
+2161d6n40ca Il suo ricavo medio non misura ciò che la sua presenza aggiunge al ricavo totale.
+1njpl4cllkt Perché i pescatori non apprezzano il pesce
+kr2x506uzi È proprio il valore del pesce ad attirare gli entranti; il problema è il costo imposto agli altri.
+tx2fyp6nxb Perché un beneficio privato è sempre nullo
+u9c9k1ao7y L’ingresso può essere redditizio prima che la rendita sia del tutto dissipata.
+1q134g17kfk MB_1=max(0,10−Q), MB_2=max(0,20−Q), MC=14: Q efficiente?
+11dykdbto51 Per Q≤10, 30−2 Q=14 ⇒ Q=8, tratto valido.
+98f3ggke2r MB_1=max(0,8−Q), MB_2=max(0,2−Q), MC=3: Q efficiente?
+6jh3av0384 La soluzione a due MB, 3,5, è fuori dal tratto; dopo Q=2, 8−Q=3 ⇒ 5.
+4pibkc15rq Una biblioteca digitale può bloccare i non abbonati, e un lettore non disturba gli altri. Quale classificazione?
+24fk0ovts6m Escludibile e non rivale, in assenza di congestione.
+1wf6yb36qqd Pubblico puro
+v9mlvmwnjp L’accesso è escludibile.
+1f5gaxb0o64 Bene comune
+13zorikpusu Il bene comune è non escludibile e rivale.
+1didyjjzdna Una prenotazione chiude l’accesso al lago e limita le barche. Quale meccanismo cambia direttamente?
+21whoiv12h2 L’accesso libero e la pressione dell’uso rivale
+slbtvvs83s La regola mira al numero di utenti e ai prelievi, non alla somma verticale di un bene pubblico.
+kvgq0uk2vq La non rivalità dei pesci
+1ssc63sglxd I pesci catturati non tornano disponibili per gli altri grazie a una prenotazione.
+11qicsya3tf La necessità di finanziare una velocità wifi comune
+9sbjg0ydya È un altro problema: qui è in gioco l’uso concorrente della risorsa.
+18zug41bpgi Same quantity
+1zaf20dzrrj Own average share
+11tjahxxj59 Loss imposed on existing users
+o1q5sk5x1y Social marginal comparison
+12jkitamg6c Classificare un bene ponendo separatamente le domande su esclusione e rivalità.
+714s4pg57e Il finanziamento pubblico o il costo elevato non bastano.
+132066c46ko Sommare i MB allo stesso Q e controllare le soglie di WTP nulla.
+gj84qm4hfr Una somma lineare può diventare non valida dopo l’uscita di un beneficiario.
+14eo2zy43ny Spiegare un contributo insufficiente, positivo o nullo, senza dire che il bene non vale nulla.
+157hx03bak4 L’incentivo a pagare differisce dal valore ricevuto.
+1v1jyzlro1u Separare AP=costo in accesso libero da MP sociale=costo all’ottimo.
+1ckd0cps0wt Un ingresso redditizio può sottrarre ricavo ad altri utenti.
+1flxxa3gsnx Informazione nascosta — auto, diplomi e credito
+210c0bpxm0h Selezione dei tipi e incentivi alle azioni
+29clh7ywm2s Perché un’auto affidabile può scomparire dal mercato? Perché la banca può perdere chiedendo di più? Mettiti nei panni di chi sa e di chi sceglie.
+vcpos2mz5h L’agente / acquirente
+2dtxzv1jp8v decide con la sua informazione e i suoi guadagni privati
+26jqnzt4rnu scegliere il contratto o lo sforzo che gli conviene
+1dbc9cyxuow Il venditore / principale
+1hnw7h8wgrz possiede la qualità o propone il contratto
+ub8368cjvv realizzare uno scambio redditizio
+2eraexzsszu Il tipo nascosto
+1f2ulhdeqlu sostiene un costo diverso o ha una qualità diversa
+9hdkj6oilx accettare solo un’offerta che gli convenga
+1lsv7bi5r6 Il valutatore
+rn5b958jd1 confronta surplus e fattibilità degli incentivi
+z51qukgegv non presumere l’azione desiderata
+12pd5zhvr4z La banca / il controllore
+228lunsnnd0 finanzia o verifica un risultato
+s690cew4n4 proporre una regola coerente con le scelte
+mr6bg43uar Compri senza sapere ciò che sa il venditore
+kwi128nnol Vuoi un’auto usata. Il venditore sa se è affidabile; tu vedi solo la carrozzeria. Prima di scegliere una formula, identifica l’informazione che ciascuno possiede e la decisione che cambia.
+vslvrw4cdg Asymmetric information (informazione asimmetrica): una parte possiede un’informazione rilevante che l’altra non ha. La sola presenza di incertezza non basta.
+mld9roagaj Un evento può essere rischioso per entrambi senza che nessuno ne sappia di più.
+15ymny7pbph Il problema economico comincia quando questa differenza di informazione modifica una scelta, un’offerta o uno sforzo.
+1khw5i2cqsu Meteo futuro ignoto a entrambe le parti: rischio condiviso. Qualità già nota al solo venditore: informazione asimmetrica.
+uwnpfy51e5 Chiediti «chi sa che cosa, e quando?» prima di scrivere adverse selection o moral hazard.
+1y80juodqo4 Una pioggia futura è ignota all’acquirente E al venditore. Questo dimostra un’asimmetria?
+8jkfb9otny Sì, ogni incertezza è asimmetrica
+28fpkdklq6a Asimmetrica significa che le informazioni differiscono tra le parti.
+kk1z9y2lql No, manca un’informazione privata da un lato
+fj7lftmttb Il rischio può essere comune; cerca chi sa di più.
+18l17hmrqk3 Un tipo nascosto e un’azione nascosta non pongono lo stesso problema
+1h0hgz6zmlz L’affidabilità di un’auto esiste prima della vendita; l’acquirente ignora questa caratteristica. Lo sforzo del meccanico, invece, è una scelta che può cambiare dopo aver firmato il contratto. In un caso il contratto attira certi tipi; nell’altro influenza un comportamento.
+18huoua6elo Adverse selection (selezione avversa): tipo, rischio o qualità privata. Moral hazard (azzardo morale): azione o sforzo osservabile in modo imperfetto. Il criterio principale è la natura dell’informazione; la tempistica aiuta la diagnosi.
+2dbdjcj66z7 Un contratto medio può far uscire i tipi buoni senza cambiare ciò che sono.
+usr0qqetzo Un pagamento che dipende dal risultato può cambiare lo sforzo senza rivelare una qualità iniziale.
+xwglrktfhn Un’assicurazione può attirare i conducenti più rischiosi, poi ridurne la prudenza: due meccanismi diversi in uno stesso contratto.
+xmxtljjjt7 Sei un assicuratore: distingui «chi sottoscrive?» da «come guida una volta assicurato?».
+2dxm0l1ekg4 Un assicurato diventa meno prudente dopo la copertura. Quale meccanismo?
+lj7fk2kl8h Adverse selection
+1yqhqazzwt8 Riguarderebbe il tipo di conducente attirato prima del contratto.
+1xmznk1cpya Moral hazard
+113igzfb26r La copertura modifica un’azione privata dopo la firma.
+g2vs70d02a Assenza di rischio
+18n2gsk0vhm Il rischio persiste; il suo livello cambia con il comportamento.
+1hal5pkn4h0 Senza informazione nascosta, entrambe le qualità possono essere vendute
+16zl2ghbxtz Un’auto buona vale 150 per te e il suo proprietario rifiuta meno di 130. Una cattiva vale 50 per te e il suo proprietario rifiuta meno di 30. Se ciascuno vede la qualità, un prezzo tra i due valori può far guadagnare entrambe le parti per ogni qualità.
+kg3cimypws Guadagni dallo scambio: WTP dell’acquirente superiore al prezzo di riserva del venditore. L12 dà gli intervalli [130,150] e [30,50].
+1jevd9624rh Il prezzo di riserva del venditore è ciò che sacrifica cedendo il bene.
+1szladwjq8x Un guadagno potenziale non garantisce che un mercato con qualità nascosta sappia realizzarlo.
+yj3da9i9mx Auto buona a 140: l’acquirente guadagna 10 e il venditore 10 rispetto al suo prezzo di riserva. Cattiva a 40: stessi guadagni, 10 e 10.
+vybrm2bdur Puoi offrire 140 per l’auto buona se sai che è buona. Questa conoscenza rende il prezzo credibile per te.
+wcjynzcqy8 Qual è la somma dei guadagni potenziali su un’auto buona: valore 150, prezzo di riserva 130?
+3d3hlwlrjr 150−130=20, indipendentemente da come il prezzo ripartisce questo guadagno.
+jsmlex2nuo I due valori non sono due benefici da sommare: il prezzo di riserva è il sacrificio del venditore.
+r76lwbm5wl 10 sarebbe la quota di ciascuno al prezzo 140; il surplus totale vale 20.
+kt05e0d8aj Il prezzo medio regge solo se restano i venditori medi
+2a8ry15mhaq All’inizio credi di avere una probabilità su due di ricevere ciascuna qualità. Se sei neutrale al rischio, offri al massimo 100. Ma il proprietario di un’auto buona rifiuta questo prezzo: le auto che restano non sono più un campione per metà buono.
+2fs3h1hkj1b WTP iniziale E[v]=0,5×150+0,5×50=100. Una credenza di equilibrio deve essere coerente con la selezione dei venditori al prezzo offerto.
+234pdlhfu9r Il prezzo non è solo una media di valori; è anche una regola che seleziona l’offerta.
+13rtalgfiz0 Se il tipo buono ha un prezzo di riserva di 130, offrire 100 elimina proprio il tipo che giustificava la media di 100.
+13cobrbqb66 A p=100 i venditori di bassa qualità accettano perché 100≥30, i buoni rifiutano perché 100<130. Se restano solo quelli bassi, WTP=50.
+xgbgfwclkr Guardi gli annunci ancora disponibili dopo la tua offerta: rivaluta la loro composizione, non solo il tuo primo calcolo.
+20thpbxwj15 Il prezzo medio può distruggere la propria ipotesi
+29p01xzb39d Dati L12: auto buona valutata 150 dall’acquirente e 130 dal venditore; cattiva 50 e 30. La probabilità iniziale di buona qualità è 1/2.
+2f6qxq0grbd Acquirente non informato
+g25k3bpzss Offre al massimo 100 se le due qualità restano in parti uguali
+2epbc93elat (150+50)/2=100 è un valore atteso, non il valore di ogni auto.
+1btachppdkb Venditore di un’auto buona
+1iicznk2zie Rifiuta 100 perché il suo prezzo di riserva è 130
+1pirw2yws0z Le auto buone escono dal mercato a questo prezzo.
+1o6icqdh2eq Acquirente razionale
+wys9t8lgyg Rivede la sua credenza sulle auto ancora offerte
+167dcufo544 Se restano solo le cattive, la sua WTP scende a 50.
+10g6n0tjmxv Prima della selezione, con il 50% di auto buone valutate 150 e il 50% di cattive valutate 50, quale WTP attesa?
+2gaybt1s8aw (150+50)/2=100; questa WTP è condizionata alla composizione supposta.
+28qmglybihe Perché qui un prezzo di 100 non sostiene la credenza 50/50?
+1ihyu7eeh8h I venditori di auto buone rifiutano 100<130
+1fql3vokxap La composizione delle auto offerte cambia: bisogna rivedere la credenza.
+1n0g7oh00xm Le auto cattive valgono 0
+1xa2prnm8n4 Valgono 50 per gli acquirenti; il problema è l’uscita di quelle buone.
+n7s64sqjxy Nessun venditore conosce la qualità
+2b5aejez6jw In questo caso il venditore è proprio la parte informata.
+213l375hxfg Se nessuno conosce la qualità, non è più lo stesso mercato
+1pr1tgdd1ed Immagina ora che nemmeno il venditore conosca il tipo della sua auto. Con neutralità al rischio, il suo prezzo di riserva medio vale 80 e il tuo valore medio 100. Può quindi esistere un prezzo accettabile per entrambi, senza uscita selettiva basata su una qualità nota.
+yui713qev5 Incertezza simmetrica: E[riserva]=0,5×130+0,5×30=80. In questo modello sono possibili scambi tra 80 e 100.
+177z6hjtrr9 L’informazione privata permette al venditore buono di rifiutare con cognizione di causa un prezzo medio.
+1kau7c91n7u Senza questa conoscenza non si può riprodurre meccanicamente la stessa selezione; l’avversione al rischio potrebbe però cambiare i prezzi di riserva.
+neu5kpwwdx Prezzo 90: guadagno atteso dell’acquirente 100−90=10; del venditore 90−80=10. Questo calcolo usa la neutralità al rischio, non una garanzia di qualità.
+p3mxvp8lcw Confronti due scenari: cambia chi possiede l’informazione, anche se le probabilità iniziali restano identiche.
+1j852hp58tn Se nessun venditore conosce la qualità, qual è il suo prezzo di riserva medio con 130/30 equiprobabili?
+1zo3lmok598 100 è il valore medio per l’acquirente, non il prezzo di riserva del venditore.
+4eiy7a1w5y Chi prende l’iniziativa di rivelare il tipo?
+pww6y8b5dc Un venditore affidabile offre una garanzia che i venditori poco affidabili trovano costoso imitare. Un acquirente, al contrario, organizza un’ispezione o propone un menu per scoprire ciò che non vede. Entrambi riducono il divario di informazione, ma l’iniziativa non viene dallo stesso lato.
+174lyp8e7oo Signalling: azione osservabile della parte informata. Screening: test, raccolta di dati o menu organizzato dalla parte meno informata.
+1cd35azucwm Un’azione rivela il tipo solo se i tipi hanno incentivi diversi a sceglierla.
+la9mzlr2g4 Un segnale molto costoso per tutti non è necessariamente discriminante: deve essere relativamente più difficile da imitare per il tipo cattivo.
+my365clfru Venditore che offre una garanzia credibile: segnale. Acquirente che esige un’ispezione indipendente: screening. Anche una reputazione collettiva può ridurre l’incertezza sui piccoli marchi.
+8wmfsia2a2 Sei un venditore affidabile: chiediti perché un venditore di bassa qualità non copierebbe subito la tua mossa.
+dnzefuqax7 Un’impresa meno informata fa sostenere un test ai candidati. Quale meccanismo?
+7ohfu827aj Screening
+29yoq592dvz Il datore di lavoro cerca di scoprire il tipo che non osserva.
+1hguu4f2xnx Signalling del datore di lavoro
+27l8qp4np3i In questo esempio la parte informata sarebbe il candidato, non il datore di lavoro.
+1z8h7k388xb Moral hazard già dimostrato
+15q1pf0j2do Un test sui tipi non dimostra una scelta di sforzo dopo il contratto.
+1aogoiyhmct Un diploma separa i tipi solo se uno vuole copiarlo e l’altro no
+169fpizw61c Il diploma dà accesso a un salario di 100 invece di 60. Un candidato paga 20 di sforzo per ottenerlo; un altro paga 60. Il primo guadagna diplomandosi, il secondo perde: lo stesso segnale crea due scelte diverse perché il suo costo dipende dal tipo.
+13peu3c0bpb Separazione stretta se C_A<40<C_S, perché 100−C_A>60 e 100−C_S<60. In caso di uguaglianza bisogna trattare l’indifferenza.
+cleu1ovaux Che cosa deve rispettare il costo del diploma per un tipo che sceglie strettamente di diplomarsi?
+1dhnhr6kn68 Costo < guadagno salariale di 40
+kt3gl0kckf 100−C>60 ⇔ C<40: il guadagno salariale deve coprire il costo.
+122tnwdhp1y Costo >40
+216mvvt72hh Guadagnerebbe allora meno al netto che restando senza diploma.
+1mojdig4ovn Un segnale credibile si legge in due confronti, uno per tipo.
+n1564fo7ai Una stessa scelta di diploma per i due tipi sarebbe pooling; il diploma può anche creare competenze, cosa che questo calcolo non nega.
+rdra7mbifb Tipo A: 100−20=80>60. Tipo S: 100−60=40<60. Se C_S=40, S è indifferente, quindi la separazione stretta non è più garantita.

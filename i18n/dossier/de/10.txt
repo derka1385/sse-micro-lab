@@ -1,0 +1,81 @@
+======================================================================
+8. MONOPOL UND MONOPOLISTISCHE KONKURRENZ — L8
+======================================================================
+
+8.1 Monopol mit Einheitspreis
+Eine Firma steht der fallenden Marktnachfrage gegenüber.
+R(Q)=p(Q)*Q; MR=p(Q)+Q*p'(Q).
+pi(Q)=p(Q)*Q-C(Q); inneres Optimum MR=MC.
+Q mit MR=MC bestimmen, dann den PREIS auf der NACHFRAGE ablesen, nicht auf MR.
+Wenn Mehrverkauf eine Preissenkung für alle Einheiten erfordert,
+gilt MR<p bei streng fallender Nachfrage.
+Inverse Nachfrage p=a-bQ: R=aQ-bQ^2; MR=a-2bQ, doppelt so steil.
+Konstante MC c, FC F: Qm=(a-c)/(2b), pm=(a+c)/2,
+pi=(a-c)^2/(4b)-F, sofern Produktion im betrachteten Horizont rentabel ist.
+Effizienz ohne Externalität erfordert p_D=MC ->Qeff=(a-c)/b.
+DWL=b*(Qeff-Qm)^2/2=(pm-c)*(Qeff-Qm)/2.
+
+L8 p.8–11: p=12-Q, C=3+Q^2 ->MR12-2Q, MC2Q,
+Qm3,pm9,ATC4,Gewinn15; Qeff4,p_eff8; DWL1.5.
+Der hohe Preis überträgt Rente bei den verkauften Einheiten; die trotz
+WTP>MC nicht verkauften Einheiten erzeugen den Wohlfahrtsverlust.
+Ein niedriger absoluter Preis ist mit einem Monopol vereinbar, wenn MC niedrig und/oder
+die Nachfrage elastisch ist. Beispiel Hefe E2023 Q1a.
+Ein Monopol hat keine von der Nachfrage unabhängige Angebotskurve: MR
+hängt von deren Form ab, und derselbe Preis kann unter verschiedenen Nachfragen
+verschiedenen optimalen Mengen entsprechen. Referenz E2022 Q4c.
+
+8.2 Lerner: Herleitung, die du erklären können musst
+epsilon_D=(dQ/dp)*(p/Q), also (dp/dQ)*(Q/p)=1/epsilon_D.
+MR=p+Q*p'=p*(1+1/epsilon_D).
+Bei MR=MC: (p-MC)/p=-1/epsilon_D.
+Lerner L=(p-MC)/p: Aufschlag RELATIV zum Preis, nicht Gesamtgewinn und nicht (p-MC)/MC.
+Großes |epsilon| ->kleiner relativer Aufschlag; wenig empfindliche Nachfrage ->hoher Aufschlag.
+Mit MC>0 liegt ein inneres Einheitspreis-Optimum im elastischen Bereich,
+epsilon<-1; MC=0 kann epsilon=-1 ergeben.
+Eine Grafik mit der Bezeichnung „inelastic demand“ in den Unterlagen kann
+relative Empfindlichkeiten vergleichen; ein Monopol mit positiven MC optimiert nicht in
+einem streng unelastischen Punkt. Eine Senkung von Q würde dort R erhöhen und
+Kosten sparen.
+Diese Beziehung betrifft die Nachfrage der FIRMA. Im Oligopol nicht
+blind die Marktelastizität anstelle der von der Firma wahrgenommenen einsetzen.
+
+8.3 Barrieren und natürliches Monopol
+Barrieren: Regulierung/Lizenz, Patent, Kontrolle eines wesentlichen Inputs,
+Skaleneffekte/natürliches Monopol, strategisches Verhalten.
+Natürliches Monopol: eine Firma kann den Markt im relevanten Bereich günstiger
+bedienen als mehrere. Preis=MC deckt FC möglicherweise nicht.
+Patent: statischer Rentenverlust gegen Anreize zu investieren/innovieren,
+über die Zeit abzuwägen. E2024 Q2b verlangt nicht, den statischen DWL zu leugnen.
+Die in einer Aufgabe genannte genaue gesetzliche Dauer ist eine Vorgabe der
+Aufgabe, keine juristische Prüfung durch dieses Dossier.
+
+8.4 Monopolistische Konkurrenz
+Viele Firmen, differenzierte Produkte, leichter Ein-/Austritt; eine Firma
+hat eine fallende Nachfrage, vernachlässigt aber meist die Reaktion eines
+bestimmten Konkurrenten. Sie wählt MR=MC.
+Kurzfristig: positiver oder negativer Gewinn möglich.
+Positiver Gewinn ->Eintritt ->Nachfrage pro Firma sinkt und wird oft
+elastischer ->ökonomischer Nullgewinn im symmetrischen LR-Modell.
+Langfristig: p=ATC ABER p>MC; Nullgewinn bedeutet nicht vollkommene Konkurrenz.
+Typischerweise Produktion unter der ATC-minimierenden Menge, „excess capacity“.
+Anzahl der Firmen und Vielfalt sind Teil des Gleichgewichts.
+
+Negativer Nachfrageschock ->anfängliche Verluste ->Austritte ->Nachfrage der Verbleibenden
+erholt sich ->Nullgewinn wiederhergestellt. Die Anzahl der Firmen sinkt; die Menge
+pro verbleibender Firma hat ohne Nachfrage-/Kostenfunktion kein allgemeines Vorzeichen.
+Ändert der Schock in einem Standardmodell mit konstanter optimaler Größe nur
+die Marktgröße, kann sie auf das frühere Niveau zurückkehren.
+Kostenschock ->Neuoptimierung und Ein-/Austritt; im Oligopol mit Barrieren
+gilt die Nullgewinn-Disziplin durch freien Eintritt nicht in gleicher Weise.
+
+8.5 Heterogene Firmen
+Produktivere ->niedrigere MC, oft niedrigerer Preis, höheres Volumen/höherer
+Marktanteil. „Competitive reallocation“: Wachstum der Effizienten,
+Schrumpfen/Austritt der weniger Effizienten.
+Freier Eintritt kann E[pi]=0 VOR dem Kennenlernen der eigenen Produktivität bedeuten,
+ohne pi=0 für jede Firma zu verlangen, sobald ihr Typ bekannt ist.
+L8 p.24, Eintrittskosten 20 und fairer Würfel: realisierte Gewinne
+28,16,4,-8,-20,-20; Mittelwert 0. Beim schlechtesten Wurf potenzieller variabler Gewinn
+-12: die Firma stellt ein und begrenzt ihren Verlust auf 20. Diese Tabelle unterscheidet
+erwarteten Gewinn, realisierten Gewinn und Stilllegung nach versunkenen Eintrittskosten.

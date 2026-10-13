@@ -2,8 +2,9 @@
 import raw from '../source/MICROECONOMIE_SSE_DOSSIER_COMPLET_CHATGPT.txt?raw';
 import { parseDossier, resolveRef } from './source';
 import { GLOSS, type Gloss } from './content/glossary';
+import { dossierRaw } from './i18n';
 
-export const DOSSIER = parseDossier(raw);
+export const DOSSIER = parseDossier(dossierRaw() ?? raw);
 export const resolve = (ref: string) => resolveRef(DOSSIER, ref);
 export const abbrEntry = (key: string) => DOSSIER.abbr.find((a) => a.names.includes(key));
 

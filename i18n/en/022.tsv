@@ -1,0 +1,224 @@
+1eizah3tc14 If Y moves first, X stays unarmed after Y arms because 1>−1, but arms after Y stays unarmed because 4>3. Y anticipates 2 by arming versus 1 by staying unarmed, and therefore chooses to arm. A threat by X to arm no matter what would not be credible once Y has armed.
+29nqhfs09uk Backward induction with the order reversed: outcome (1,2). A credible threat must remain optimal at the moment it is carried out; a commitment can change the costs or the options.
+vsn6ingc15 Y chooses by anticipating the net payoff of its own choice after X's reaction.
+jud96hhbxl A non-binding promise doesn't turn −1 into a payoff greater than 1; a real commitment rule must change the incentives or the options.
+18yzwcn0vsj Y first: X's strategy=(don't arm after Y armed; arm after Y unarmed). Y arms and receives 2, X receives 1.
+hbl81bo0x9 Assess your rival's threat by putting yourself at the moment they would have to carry it out, not at the moment when announcing it suits them.
+nzv9dytw3 When Y moves first, what outcome and what net payoffs follow from backward induction?
+10t2182se3y Only Y armed; (X,Y)=(1,2)
+2bu4fy291hx X doesn't respond to an armed Y by arming; Y prefers 2 to the 1 it would get by not arming.
+19cqdkzoo7c Only X armed; (4,1)
+1oi3absnr34 That's the outcome when X moves first. Reversing the order changes the initial calculation.
+1x8pbp6hlz9 Both armed; (−1,−3)
+1nwmdwre3eg After Y arms, X prefers 1 to −1 and doesn't arm.
+1x1wehep36j A best response compares your actions within the same rival scenario.
+20wmred41yw An action tied with the maximum remains optimal.
+2bz0c7t8gkn No player then improves their payoff by deviating alone: that's Nash.
+94hfji3lv4 The leader anticipates the responses, including after an action it won't play.
+tix6l0y2l0 A threat must remain an optimal choice when the situation actually arises.
+1ebmg4ypue6 A Nash is stable against a unilateral deviation: at selfish NN, switching alone to S leaves your payoff at 0. Both could earn 10 at SS, but that requires a coordinated change, so stability and efficiency differ. With equal altruism, the other's money counts: switching alone from N to S against N gives you utility 20, so NN stops being Nash. In a sequential game, you choose the follower's optimal plan after each possible action, then the leader anticipates these responses. The outcome doesn't replace the off-path strategy.
+klci9jbun8 Fix the rival's possible action
+9f8mzq0meb Compare all your payoffs and keep the ties
+28y4tasel5d Look for mutual best responses
+1j1qorodv3z If the game is sequential, solve the follower everywhere
+niwam5f8pn Check credibility at the node where the threat would be carried out
+1s4xzk5j05l Explain why NN can be Nash without being good for both, then why NN stops being Nash with equal altruism. Finish with the difference between outcome and complete strategy in a sequential game.
+8vy8a641l1 Your own payoff against the fixed rival
+14njauy6nqp A deviation changes only your action.
+u8dpcux70a Keep the ties
+16ytj3yljhz Nash rules out strict improvements, not changes with an equal payoff.
+pf748d78hg Stability and efficiency kept separate
+vc3g16wgnr An improvement that takes two isn't a unilateral deviation.
+1z0jp0t2n44 Convert payoffs into utilities
+8p588exx8k With equal altruism, a switch to S against N gives utility 20 instead of 0.
+1wsxc0vmcfd The follower's whole plan
+1dml9j6fxua A strategy includes the off-path actions and is solved backward.
+go0o6gdddo Nash rules out unilateral gain; efficiency compares collective changes.
+vwayodjpmf In the selfish game, N and S both give 0 against N: N is weakly dominant.
+q3289vpip5 Test a deviation to S against N: the other receives 20 and your utility goes from 0 to 20. NN is no longer Nash.
+1zoz6y05snn Practice built from the A3 matrices checked in §13. It explicitly corrects the traps in the personal answer key; no model answer is presented as official.
+vckh83qy15 What does BR mean?
+1nljyeyrrkz Best response: the best choice against a given rival action
+sgn5ep8m31 You fix the rival and maximize your own payoff.
+ibicievo6w Biggest revenue: the biggest cell in the table
+7z3c1qawen You don't control both players, and payoffs aren't necessarily revenues.
+5f6ck8nrhp A sequential strategy contains…
+8a7sp1vqpr An action at every node where the player could decide
+1zsefxc075u Including the nodes not reached in equilibrium.
+1t3g48qjkd8 Only the observed outcome
+532ro2i5t6 The leader must be able to anticipate the alternative branches.
+25wmki1e20r Rebuild the pure Nash test.
+2axpnmjn5gi Fix one rival action
+2ajnciqaqlg Compare all your own actions and keep the ties
+j30kqogmey Repeat for the other player
+1ffx9u0bg6g Identify the cells of mutual best responses
+1uojyedg7t0 Rebuild backward induction.
+ltt6u43zbg Compute the net payoffs at the terminal outcomes
+1sjtmrxkcxk Determine the follower's optimal choice after each possible action
+ymilfgkrd7 Let the leader choose, anticipating these responses
+c85a4yvfrr Give the complete profile, including off-path, and the outcome
+18whjqkhhmq At SS with u_i=m_i+2 m_j and money (10,10), what utility does each player have?
+via7nby7xf Y, armed alone, receives 5 of oil and pays 3. Its net payoff?
+1r3z2wx04g5 5−3=2. Don't give it the payoff 1 of the unarmed player.
+dcsbmrtffx A firm threatens a price war that, once entry has happened, would earn it less than accommodating entry. Without an additional commitment, the threat is…
+8lno0qmybm Not credible
+20oehqysmwt The firm would have no interest in carrying it out at the node in question.
+25tw8mvvpsp Credible because it's announced publicly
+1on5hen4c8g An announcement alone doesn't change the payoffs; you must explain what actually binds the firm.
+oh1m1frpnj A player subtracts 1 from their utility if they receive less than their rival. Why must the best responses be redone?
+1maddkpquhu The utility matrix changes even if the money paid out stays the same
+1p1d7irbx3p The strategies maximize these new utilities; an old indifference can disappear.
+d7xflnjc93 The weapons costs necessarily change
+ukv9ytcr0z The example changes preferences, not necessarily a resource or the cost of an action.
+rzkzcuumsw A Nash depends only on the names of the actions
+hrcy6gxje8 It depends on the payoffs and the information in the game.
+116rhun5a2k All possible decision nodes
+4yocqkl0v0 Off-path choices
+16shnpjmoas Optimal continuation
+mjui28e8ex Compare against Split
+upo1sgn57v Tie against Steal
+1zdy3r8iu03 Read the matrix with the row player first.
+1vjipad5xgj The other's payoff must not decide your choice.
+fmbq2e7opc Keep tied best responses and distinguish weak/strict dominance.
+20rg9q6lcp3 Ties change the list of Nash equilibria.
+18hnzgpuj58 Recompute the utilities if preferences change.
+13xrgi9x8xi Equal altruism makes NN non-Nash, contrary to the flagged personal answer key.
+pq9rougodl Solve each follower node and state the off-path responses.
+25qwzfl0cmh An outcome alone isn't a complete strategy.
+24vi7f5k5d0 Check the net payoffs and credibility at the moment of execution.
+1vsez0ssnx5 Weapons costs and actual reactions must be included.
+xb4abmwpjm Exam extras — trade, platforms, auctions and exchange
+8je5n2uywq Recognize the rules and check their limits
+1p3tps6iak7 These topics appear in past exams, but their full lectures are missing from the corpus. Rebuild the decisions, relative prices and rules before calculating.
+x66mdyjy6 You, the buyer / country North
+10bge1ykh3c chooses a task, a purchase or a trade
+2gi063xujay get more value than the alternative given up
+62i6shgmfg The seller / country South
+24pqgl8ebos produces or proposes a trade
+1mh7a4e6312 cover its costs and make a gain
+5wi1cl3x7i The other side of the market
+688btgi24f uses a platform or makes a bid
+1ly0ytal62e find a profitable interaction
+8bchysbzsb keeps the totals, rules and assumptions visible
+2gnpv4g5de4 distinguish aggregate gain, private gain and efficiency
+1ekwhp96dfi The state / platform
+23gblpk7lqf sets the tariff, access or auction rule
+11hf8346rm7 understand the responses a rule provokes
+1ckgu10q804 Four exam contexts, one discipline of reasoning
+1hlxoo84ezh You might get trade, a platform, an auction or a snack swap. These topics appear in past exams, even though their full lectures aren't in the audited files. So we'll rebuild the documented tools, separating the assumptions that are certain from those you have to state.
+rsniva0284 Exam extras §14: trade, platforms, auctions and Edgeworth. The models below are documented in the dossier; this path doesn't claim to reconstruct missing slides.
+156ls6aa5i4 The topic's name isn't enough: a first-price auction isn't solved like a second-price auction.
+2fbtb555gff A qualitative question can require a precise mechanism without giving enough data for a single number.
+15bpgmsreqa "A weather shock affects all costs" doesn't by itself reveal who observes which private signal; you can't automatically conclude there's a winner’s curse.
+12eo4m2ib40 Read the question like a contract: who chooses, who knows what, what rule, what units? Only then pick the tool.
+2272whsitw9 Why point out that the full slides on these topics are missing?
+217lt7kbgof To distinguish documented tools from assumptions added for teaching
+1b4wn8fykqq The practice remains useful, but it mustn't invent the authority of a missing full lecture.
+1m7qnylqbqd To drop these topics from revision
+qdwxhu4i8b They appear in exams and must therefore be studied.
+p8p5reeu7b To treat every formula as universal
+vch28xvc0p On the contrary, the model and its limits must be made explicit.
+uxfz6ejcdo Being the best at everything doesn't tell you what to spend your time on
+ytfzl5ak1c Esther produces a data analysis in 1 hour and a text in 2 hours. Abhijeet takes 2 hours for the analysis and 6 for the text. Esther is faster at everything, but a text costs Esther only 2 analyses given up, versus 3 for Abhijeet: this relative comparison guides specialization.
+1hvmsqk0uuq Absolute advantage: fewer inputs per unit. Comparative advantage: lower opportunity cost. E2020 gives Esther the comparative advantage in writing and Abhijeet in analysis.
+o73oydekem Time spent on one task can't be used for the other: that's the alternative given up.
+lck3gn1pe8 Even someone less productive at everything can have a comparative advantage in the task where they lag least in relative terms.
+24v1xfmgeeq Esther: cost of a text=2 h/(1 h per analysis)=2 analyses. Abhijeet: 6/2=3 analyses. Conversely, an analysis costs Esther 0.5 texts and Abhijeet 1/3.
+1lk483ja3ag You're Esther: don't just ask "am I faster?", ask "what other output do I lose if I take on this task?".
+svcs8u96fr Esther takes 2 h per text and 1 h per analysis. How many analyses does a text cost?
+1mw3afbnjje analyses / text
+1u0vcpifi1w 2 hours of text would have produced 2 analyses; opportunity cost 2.
+1cuucfixtze 0.5 is the cost of an analysis in texts, the inverse ratio.
+1ko32c9ccp6 From hours per unit to units given up: keep the ratio the right way round
+fq6h3lngwm Northland needs 3 hours per unit of wheat and 6 per unit of electronics. Southland needs 4 and 2 hours. Producing one unit of wheat therefore uses, in Northland, the time of 0.5 electronics, versus 2 in Southland: Northland gives up less electronics for wheat.
+248cy7xwj5r If a_W and a_E are hours per unit, OC(W in E)=a_W/a_E. North has the comparative advantage in wheat, South in electronics.
+1j1mi05cfui How do you convert 3 hours of wheat into units of electronics given up if one unit of electronics takes 6 h?
+1qiey9ziegc The hours cancel out: 3 h/(6 h/E)=0.5 E.
+j59ib39uav That gives the cost of a unit of electronics in wheat, not the cost of a unit of wheat in electronics.
+p7af4nwnkv The numerator is the time required for the good whose cost you're looking for.
+p99cqis1dd The denominator converts that time into units of the other good; the units of your answer let you catch an inversion.
+257w8lt40i3 South: OC_W=4/2=2 E/W; OC_E=2/4=0.5 W/E. The symmetry of the price intervals with these numbers is a coincidence.
+1iiqsdmslhw Write the units "E per W" next to the ratio before calculating: that makes an inversion visible.
+19vgqfbxakr South takes 4 h per unit of wheat and 2 h per unit of electronics. What's the opportunity cost of one unit of wheat in electronics?
+w21jq0rae0 4/2=2 units of electronics per unit of wheat.
+o9gm2vy50j 0.5 is the cost of a unit of electronics in wheat.
+kb0ykvc1pr Your frontier describes what you can produce, not everything you can consume
+1gmy2afm1py Northland has 120 hours. Putting everything into wheat gives 40 units, everything into electronics 20. The bundles in between use up the available time; importing then lets the country consume a bundle different from the one it produces.
+wajbn19s3a PPF North: 3 W+6 E=120 ⇒ E=20−0.5 W. South: 4 W+2 E=120 ⇒ E=60−2 W. The slope expresses the opportunity cost of W in E.
+18995h959r9 The constraint counts hours: each term is quantity×hours per unit.
+25dk6w0lvg6 A bundle consumed after trade can lie beyond the domestic PPF without the country having created extra hours.
+1hvyswervhw North produces 40 W and 0 E; South 0 W and 60 E. After trading 10 W for 10 E: North consumes 30 W, 10 E and South 10 W, 50 E, bundles that would require 150 h and 140 h respectively in autarky.
+fcrdla261h Keep two separate columns on your answer sheet: production under the constraint, then consumption after exports and imports.
+26z0k0iqee1 The two production frontiers with 120 hours
+18e4olb9c4f W=units of wheat, E=units of electronics. The lines give the bundles produced, not the bundles consumed after trade. Linear technologies from example E2025.
+11q6bf2ysvc W: units of wheat
+1m216qz65y5 E: units of electronics
+adofr4kawg North: 3 W+6 E=120
+8cfhz74u0b One unit of wheat costs 0.5 units of electronics.
+jeoznsft6t South: 4 W+2 E=120
+8agalgrhb3 One unit of wheat costs 2 units of electronics.
+19nlony2zro North consumes after trade
+1qu9aab589q South consumes after trade
+36r72o67sv With 120 h and 6 h per unit of electronics, what's the maximum electronics North can produce alone?
+11mqxs2jzbt 120/6=20; that's the vertical intercept of its PPF.
+vcqjn1krqd 40 is the maximum wheat: 120/3.
+b8cnqxkib1 A price between the two sacrifices can suit both
+o1id4wrzhb Northland agrees to give one unit of wheat to get one unit of electronics: wheat costs it only 0.5 electronics to produce. Southland agrees to give one unit of electronics to receive one unit of wheat: producing it itself would cost 2 electronics. The same trade can therefore benefit each.
+1mctb3360cv A relative price strictly between the two opportunity costs allows potential gains: here 0.5<p_W/p_E<2. Demand and capacities determine the quantities traded.
+26z9k3eyv13 North gets more electronics per unit of wheat than producing that wheat makes it give up.
+1rwk4dd7y South buys wheat with less electronics than it would have to give up to produce it itself.
+1kxlilr2veq At a price of 1 E per W: producing the exported wheat takes North 3 h, versus 6 h for the electronics received. South exports an E produced in 2 h instead of spending 4 h on the W received.
+aer889z72l You're North: you agree to export wheat only if the electronics received exceed your domestic sacrifice of 0.5.
+eiy7nmsg7f Which price of wheat in electronics is strictly beneficial for both in this example?
+24ofd60vzpv 1 E per W
+23eecpf6l4u 1 lies strictly between 0.5 and 2.
+2e2q8qakig9 3 E per W
+133ntnith71 South would have to give 3 E for a W that costs it only 2 E to produce.
+rqq0w8jy4d 0.25 E per W
+2a6da4xjmzo North would receive less than the 0.5 E given up by producing the W.
+6d1go8506o The world price reveals the need to import
+17bmw2cdrkc In a small country, buyers can get the good at the world price of 30. At that price, they demand 50 units, while local producers offer only 10. The missing 40 are imported: national demand doesn't need to equal national supply.
+120hnr2op50 With p_D=80−Q and p_S=20+Q: Q_D(p)=80−p, Q_S(p)=p−20 on the positive domain. Imports M=Q_D−Q_S.
+18w3z41t4id "Small country" here means it takes the world price as given.
+j63x7rvlnj The equality supply=demand concerns the market including imports, not just domestic production.
+18au2ohtsow p_w=30 ⇒ Q_D=50, Q_S=10, M=50−10=40. In autarky: 80−Q=20+Q ⇒ Q=30 and p=50.
+x87ebkkfvj You're a consumer: you can buy at price 30 even if the country doesn't make the full quantity demanded.
+1ovplpp4ut8 Small importing country: world price, then tariff
+upj13nju97 Q in units of the good; p in € per unit. The horizontal gaps between demand and supply are imports at the world price and then after the tariff.
+1fk2szba0mb Q: domestic units
+1258wbb5fbt p: € / unit
+1dospzaebmv Demand p=80−Q
+ze96gaualg At price 30, Q_D=50; at price 40, Q_D=40.
+v0gall4j2e Supply p=20+Q
+1yz14kdl8a2 At price 30, Q_S=10; at price 40, Q_S=20.
+o7cg6psgy7 World price 30
+26qnwrrr8uc Small country: its tariff doesn't change the world price.
+1ujdobk3ba Price with tariff 10: 40
+2abiulget9r As long as the country imports, p=p_w+τ.
+1vwrcayiikt Free-trade supply 10
+1ujtx0380yz Free-trade demand 50
+1y1gq7js730 Supply with tariff 20
+1w62qgqsxds Demand with tariff 40
+1dcoljb0odu At p_w 30, Q_D=80−p and Q_S=p−20. How much does the country import?
+ys4owy2of4 Demand 50 minus supply 10=40.
+uidxwhmypk 60 adds the quantities, whereas imports fill the gap between them.
+7gywyoxx6j 30 is the autarky quantity, not imports at the world price.
+1ercagxjf6a The tariff shifts two private decisions at once
+j212paj3mb The state adds 10 per imported unit. As long as the country remains an importer, the domestic price rises to 40: local producers make more, consumers buy less. Imports fall through both channels, not just because a tax is collected.
+1oduzt99qk8 Small importing country: p_dom=p_w+τ, Q_D=40, Q_S=20, M=20. Customs revenue applies to the imports that actually remain.
+qt3wffq4ev The extra local production becomes profitable at the higher price, even though its cost exceeded the world price.
+1keljmcfhkv Some consumers give up units that were worth more than 30 but less than 40.
+234uxc06yr6 After tariff 10: M=(80−40)−(40−20)=40−20=20; revenue=10×20=200.
+1zjsm5fpqs7 You're at the ministry: don't multiply the tariff by the old 40 imports, because the agents have reacted to the new price.
+xr8053mf18 After a tariff of 10, the country imports 20 units. What customs revenue?
+1vf7waho52q τ×M_after=10×20=200.
+255f2ss0hv4 400 uses the 40 imports before the tariff; they've fallen.
+20ccr4xodh8 The tax isn't levied on local production or on all consumption.
+1pxbiscno68 What the consumer loses isn't entirely lost by the country
+a779ubg4x7 The higher price costs consumers 450 of surplus. Local producers gain 150 and the state 200; these gains stay in the country. Another 100 is still missing: that's the resources wasted on more expensive production and the useful trades given up.
+1jbwzhxiylq National welfare=CS+PS+tariff revenue. E2022: ΔCS=−450, ΔPS=+150, revenue 200 ⇒ ΔW=−100; DWL=two triangles.
+1q744m02hu6 Part of the higher price transfers surplus from buyers to producers and the state.
+1nbsri7goc3 The DWL compares real costs and benefits: domestic units that are too expensive and units no longer consumed.
+29lgdhes2ac DWL=0.5×10×[(20−10)+(50−40)]=100. Or −450+150+200=−100. CS goes 1250→800; PS 50→200.
+1vd22i2sxge Add up the changes for the whole country; don't call tax revenue "lost" just because it leaves your wallet.
+29bp8hg760h With a tariff of 10, production 10→20 and demand 50→40, what's the DWL?

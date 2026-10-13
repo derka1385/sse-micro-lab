@@ -5,6 +5,7 @@ import { Rich, SourceRef } from '../components/text';
 import { normalize } from '../components/TeachBack';
 import { record, useProgress } from '../store';
 import { ArrowLeft, Caution, Check } from '../components/icons';
+import { t } from '../i18n';
 
 export function Confusions({ id }: { id?: string }) {
   const p = useProgress();
@@ -13,8 +14,8 @@ export function Confusions({ id }: { id?: string }) {
   return (
     <div className="page">
       <header className="page-head">
-        <h1>Deux notions proches : explique la différence</h1>
-        <p className="lead">Écris d’abord ta propre distinction (français ou anglais). Ensuite seulement, compare avec le contraste du dossier.</p>
+        <h1>{t('Deux notions proches : explique la différence')}</h1>
+        <p className="lead">{t('Écris d’abord ta propre distinction (français ou anglais). Ensuite seulement, compare avec le contraste du dossier.')}</p>
       </header>
       <div className="pairs">
         {PAIRS.map((x) => {
@@ -26,8 +27,8 @@ export function Confusions({ id }: { id?: string }) {
               <span className="pair-vs">vs</span>
               <span className="pair-b">{x.b.term}</span>
               <span className="muted small">
-                {TOPICS.find((t) => t.id === x.topic)?.title}
-                {tries.length > 0 && <span className="status"> · {ok ? <Check size={13} label="réussi" /> : <Caution size={13} label="à retravailler" />}</span>}
+                {TOPICS.find((tp) => tp.id === x.topic)?.title}
+                {tries.length > 0 && <span className="status"> · {ok ? <Check size={13} label={t('réussi')} /> : <Caution size={13} label={t('à retravailler')} />}</span>}
               </span>
             </a>
           );
@@ -47,15 +48,15 @@ function PairRunner({ pair }: { pair: Pair }) {
   };
   return (
     <div className="page">
-      <a href="#/confusions" className="back"><ArrowLeft size={14} /> Confusions</a>
+      <a href="#/confusions" className="back"><ArrowLeft size={14} /> {t('Confusions')}</a>
       <header className="page-head">
         <h1>{pair.a.term} <span className="muted">vs</span> {pair.b.term}</h1>
       </header>
       <article className="card">
-        <p className="check-q">Explique la différence avec tes mots. Qui est concerné, qu’est-ce qui change, où cela se voit sur un graphique ?</p>
-        <textarea rows={5} value={text} disabled={!!ticks} onChange={(e) => setText(e.target.value)} placeholder="Ta distinction…" />
+        <p className="check-q">{t('Explique la différence avec tes mots. Qui est concerné, qu’est-ce qui change, où cela se voit sur un graphique ?')}</p>
+        <textarea rows={5} value={text} disabled={!!ticks} onChange={(e) => setText(e.target.value)} placeholder={t('Ta distinction…')} />
         {!ticks ? (
-          <button type="button" className="primary" disabled={text.trim().length < 20} onClick={compare}>Comparer</button>
+          <button type="button" className="primary" disabled={text.trim().length < 20} onClick={compare}>{t('Comparer')}</button>
         ) : (
           <>
             <div className="contrast">
@@ -63,7 +64,7 @@ function PairRunner({ pair }: { pair: Pair }) {
               <div><span className="contrast-term">{pair.b.term}</span><p><Rich text={pair.b.text} /></p></div>
             </div>
             <p className="key"><Rich text={pair.key} /></p>
-            <p className="small muted">Coche les points que ta distinction contient vraiment (pré-cochés quand on les a détectés) :</p>
+            <p className="small muted">{t('Coche les points que ta distinction contient vraiment (pré-cochés quand on les a détectés) :')}</p>
             {pair.points.map((pt, i) => (
               <label key={pt.label} className="tick">
                 <input type="checkbox" checked={ticks[i]} disabled={saved} onChange={() => setTicks(ticks.map((x, j) => (j === i ? !x : x)))} />
@@ -73,13 +74,13 @@ function PairRunner({ pair }: { pair: Pair }) {
             {!saved ? (
               <button type="button" className="primary" onClick={() => {
                 const ok = ticks.filter(Boolean).length >= Math.ceil(pair.points.length * 0.67);
-                record({ tags: [TOPICS.find((t) => t.id === pair.topic)?.nodes[0] ?? pair.topic], dim: 'terminology', ok, src: 'confusion', item: pair.id, mis: ok ? undefined : pair.mis });
+                record({ tags: [TOPICS.find((tp) => tp.id === pair.topic)?.nodes[0] ?? pair.topic], dim: 'terminology', ok, src: 'confusion', item: pair.id, mis: ok ? undefined : pair.mis });
                 setSaved(true);
-              }}>Valider</button>
+              }}>{t('Valider')}</button>
             ) : (
-              <p className="feedback good">Enregistré. {pair.mis ? 'Si cette confusion revient deux fois, une micro-leçon ciblée apparaîtra.' : ''}</p>
+              <p className="feedback good">{t('Enregistré.')} {pair.mis ? t('Si cette confusion revient deux fois, une micro-leçon ciblée apparaîtra.') : ''}</p>
             )}
-            <p className="small">Sources : {pair.refs.map((r) => <SourceRef key={r} r={r} />)}</p>
+            <p className="small">{t('Sources :')} {pair.refs.map((r) => <SourceRef key={r} r={r} />)}</p>
           </>
         )}
       </article>

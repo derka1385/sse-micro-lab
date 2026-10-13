@@ -1,0 +1,53 @@
+======================================================================
+2. GEMENSAM LOGIK OCH MATEMATISKA VERKTYG
+======================================================================
+
+2.1 Skelettet i nästan alla problem
+1) Vem beslutar? Konsument, företag, bank, myndighet, budgivare.
+2) Vilket mål? Nytta, vinst, minimal kostnad eller SAMHÄLLELIGT överskott.
+3) Vilken variabel väljs? Kvantitet, pris, ansträngning, insatsvaror, kontrakt.
+4) Vad är givet? Priser, inkomst, rival, teknologi, information.
+5) Vilka bivillkor? Budget, produktion, kapacitet, icke-negativitet,
+   deltagande, incitament, inget andrahandssälj, följarens reaktion.
+6) Skriv målfunktionen och konsistensvillkoren.
+7) Lös; kontrollera definitionsmängd, hörnlösningar, optimum och deltagande.
+8) Gå tillbaka till de efterfrågade priserna, kvantiteterna, vinsterna och överskotten.
+9) Förklara varför en liten avvikelse inte förbättrar målet.
+
+”Marginal” betyder effekten av en extra enhet, eller derivatan
+i en kontinuerlig modell. ”Average” betyder totalen delad med kvantiteten.
+Ett marginalbeslut jämför extra nytta och extra
+kostnad. En oundviklig fast kostnad ingår inte i denna jämförelse,
+men räknas i totalvinsten och i beslutet att stanna på lång sikt.
+
+2.2 Derivator och optimalitetsvillkor
+y=f(x): f'(x)=dy/dx, lokal lutning. För flera variabler, använd
+en partiell derivata och håll de andra konstanta.
+d(k)/dx=0; d(ax)/dx=a; d(x^n)/dx=n*x^(n-1).
+d[f(x)g(x)]/dx=f'(x)g(x)+f(x)g'(x), produktregeln.
+För p(Q)Q gäller MR=p(Q)+Q*p'(Q), inte bara p'(Q)Q.
+För en konkav funktion ger FOC f'(x)=0 ett inre maximum.
+Kontrollera f''(x)<0 eller jämför värdena vid randerna vid behov.
+En FOC ensam garanterar varken maximum, tillåten kvantitet eller produktion.
+
+För en förväntad summa: E[X]=summa(tillståndets sannolikhet * utfall).
+Beräkna NETTOutfallet i varje tillstånd innan du viktar.
+En straffavgift som tillämpas med sannolikhet d har förväntad kostnad d*F.
+
+2.3 Ytor och enheter
+Rektangel = bas*höjd; triangel = bas*höjd/2.
+Överskott = ytan mellan marginell betalningsvilja och relevant kostnad/pris.
+Allmän form: yta = integralen av den vertikala skillnaden som funktion av Q.
+Trianglar förutsätter linjära kurvor över det aktuella intervallet.
+Pris i pengar/enhet * kvantitet i enheter = pengar.
+Om Q är i TUSENTALS ton och p i dollar/ton, är ytan i
+TUSENTALS dollar. Detta ändrar resultatet med en faktor 1000.
+En elasticitet saknar enhet; en lutning har oftast en.
+
+2.4 Skriv om innan du räknar
+Direkt efterfrågan Q=a-bp -> invers efterfrågan p=a/b-Q/b.
+Direkt utbud Q=-c+dp -> invers utbud p=c/d+Q/d.
+I en marknadsgraf: Q horisontellt, p vertikalt; rita de inversa
+formerna. För att summera privata efterfrågekurvor: addera kvantiteterna
+vid samma pris, inte priserna. För en kollektiv nyttighet: addera marginal-
+nyttorna vid samma Q, alltså vertikalt.

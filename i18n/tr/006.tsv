@@ -1,0 +1,235 @@
+18dpsuzfzba Bir piyasa fiyatları değil alımları toplar
+oe6wfcx5tz İki öğrencinin ödeme isteği aynı değildir. Aynı fiyatta her birine ne kadar aldığını sor, sonra birimleri topla. Biri kendi formülüyle negatif bir miktar verecekse sıfır alır: burada kimse “negatif tüketim” satmaz.
+1yku1mhxnuc Özel piyasa talebi: yatay toplama QD(p) = Σ max(0, qi(p)). Toplam eğrinin bir kırılma noktası olabilir.
+v7i0k1wv1m Homojen mal için herkes aynı fiyatı öder.
+12plbpmtm0k Piyasanın emdiği şey toplam birim sayısıdır, yani miktarların toplamı.
+15i13jr2p7l Bir alıcı rezervasyon fiyatının üstünde piyasadan çıkar; negatif talebini tutmak toplamı bozar.
+1bhd46aaz68 L4 örneği: qH = max(0, 10 − p), qL = max(0, 5 − p). p = 6’da: 4 + 0 = 4, 4 + (−1) = 3 değil. p = 4’te: 6 + 1 = 7.
+209hgnko496 6 €’da arkadaşın kahveden vazgeçer. Onun kesilmemiş formülü −1 verdiği için sen bir birim eksik almazsın.
+cjhz34g611 qH = max(0, 10 − p) ve qL = max(0, 5 − p) ile p = 6’da QD nedir?
+2328b3u73ai qH = 4; qL = 0. Toplam 4’tür.
+2ca9l2fzfqh İkinci alıcı için −1’i tuttun. Toplamadan önce her talebi sıfırda kes.
+17465blgkgw Cevabı açıklamadan önce kontrol et
+ymlenrrsh7 Doğrusal bir formül belirli bir tanım aralığındaki bir modeldir; bir satıcıyı negatif miktar sunmaya zorlamaz. Bir hesaptan sonra fiyatı her zaman iki plana da geri koy ve birimleri kontrol et. Yanlış tanım aralığıyla doğru bir denklem, iktisadi olarak imkânsız bir sonuç verebilir.
+27ntjay41z4 Kontroller: Q ≥ 0, kabul edilebilir p, QD(p*) = QS(p*), ilgili eğri ve parça, tutarlı birimler.
+sagsk6hmxp İşaretler ve parçalar aktörlerin gerçekten neyi seçebileceğini yansıtır.
+jm3rlqhgms Çözümü iki tarafa da koymak bir cebir ya da veri hatasını yakalar.
+45041kip37 Nedensel anlatı yalnızca sayısal sonuca değil, ilk kaymaya da uymalıdır.
+fpy0vw3hv3 p = 1’de QS = p − 2 için iktisadi arz −1 değil sıfırdır. Hesaplanan denge p = 6 için iki formül de 4 verir: tutarlılık doğrulandı.
+1qry2yd8ttv Teslim etmeden önce: “kim değişti? verili fiyatta ne yapmak istiyor? hangi dengesizlik? hangi fiyat tepkisi?”. Bu dört soruyla grafiği yeniden kurabilirsin.
+sz8jfvblvx Arz değişmezken öğrencilerin gelişinin p ve Q’yu neden artırdığını iki cümleyle açıkla.
+zmge2vse3h Verili fiyatta daha fazla alım
+8kir7e8klv Kıtlık, sonra fiyat artışı
+27vm59r824b Değişmeyen arz boyunca tepki
+28i8xyu73gr Eski fiyatta daha fazla öğrenci almak ister, bu da bir kıtlık yaratır. Fiyat yükselir: satıcılar değişmeyen S boyunca arz ettikleri miktarı artırır ve yeni Q eskisini aşar.
+1sswgy73nwq Hesaplamadan önce nedenleri bağla
+fcsytcl9o8 Mekanizmayı sırayla yeniden kur. Her ok, bir sonraki adımın neden geldiğini açıklamalıdır.
+1axl9c5gcb2 Gelir, zevk ya da maliyetteki değişiklik, malın fiyatından bağımsız olarak hangi planın değiştiğini gösterir.
+1zf5ea52dhd Değişen ilişki bir kıtlık ya da satılmayan birimler yaratır.
+1vgpsxkoi5o Karşılanmayan alımlar p’yi yukarı iter; satılmayanlar p’yi aşağı iter.
+2x2qkdnpz8 Yeni fiyat, tüm eğrileri otomatik olarak kaydırmadan istenen miktarları değiştirir.
+1kforv9e4ky İstenen miktarlar eşit ve iktisadi olarak mümkün olmalıdır.
+265evcutd08 Popülerlik her fiyatta istenen alımları artırır: D sağa kayar. Daha pahalı çekirdek her fiyatta arzı azaltır: S sola kayar. İki güç de p’yi artırır. Birincisi Q’yu artırırken ikincisi azaltır: göreli büyüklükler olmadan Q’daki değişim belirsizdir.
+rr0bnct7g8 Kararı her aktörün yerine koyarak açıkla, sonra kısıtı değiştiğinde neyin değiştiğini kontrol et.
+1lqc9t1wbgh Kurgulanmış alıştırma; resmî çözüm yok
+7ccpy2wrqd Nedenleri ve sonuçları sıraya koy.
+1zjmtxeh60 İlk şoku belirle
+2ad4302v6qg Eski fiyatta QD ile QS’yi karşılaştır
+lahhunjcwd Fiyat üzerindeki baskıyı çıkar
+2eenrem1llj Değişmeyen eğriler boyunca tepkileri izle
+1wmz4vfovj8 Yeni dengeyi ve tanım aralığını kontrol et
+iz2irmc9mb Her adım bir sonrakinin neden geldiğini açıklar. Tereddüt edersen “çünkü” bağlarını yeniden gözden geçir.
+1qwxquktwes Kendi sözlerinle açıkla
+10zbwsev1je Normal bir kahve daha popüler hâle gelirken çekirdeğinin fiyatı artıyor. Bir arkadaşına verili fiyatta neyin değiştiğini, fiyata ne olduğunu ve Q’daki değişimin işaretini neden her zaman belirleyemeyeceğini açıkla.
+2ba88wb6qk2 Sıra sende: İngilizce bir sınav cevabı
+qlygeyaiz8 Modeli seç, ilişkileri kur ve sonucu gerekçelendir. Çözüm, cevabını teslim ettikten sonra görünür.
+209zofzcfsa Yeniden kurabildiklerin
+1y2ozz57o9t Mekanizmayı baştan sona geçtin. Anlayış artık başka bir bağlamda ve derse bakmadan aralıklı hatırlamayla pekişir.
+prgfage1vr Zevk D’yi kaydırır
+1v0w95l2yvc Aynı fiyatta daha fazla kahve istenir.
+19mm88vyep4 Maliyet S’yi kaydırır
+n21bwk8hlt Verili satış fiyatında daha az arz edilir.
+1r30clqv1hj İkisi de p’yi yukarı iter
+jjyw0wt5ot Her şok eski fiyatta bir talep fazlası yaratır.
+1ut9v3wb76t Q belirsiz kalır
+rznoqmjsdm Miktar etkileri zıttır; büyüklükleri gerekir.
+mkh1cz31rb Kendi fiyatı D boyunca bir nokta seçtirir. Farklı bir zevk D’yi verili fiyatta kaydırır.
+293z77kquhg Belirsiz, değişmemiş demek değildir: iki şok farklı büyüklükte olabilir.
+1qk1og57via L2’den ve SSE akıl yürütme biçiminden kurgulanmış alıştırma. Sayılar ve çözüm resmî bir cevap anahtarı değildir.
+1ksrtbv83nc Alıcıların gelişi için D’yi, maliyetler için S’yi kaydır.
+153bhyfxokn Üç durumun her birinde QD = QS’yi çöz.
+2d4rxldmop2 Bu durumun sayısal sonucunu büyüklükler olmadan genel sonuçtan ayır.
+dy7w0gfrye İkisi birden: 14 − p = p − 4 ⇒ p = 9, Q = 5.
+guv232bc4w (Q,p) koordinatlarında (4,6), (6,8), sonra (5,9)’u işaretle.
+2dw5m95e26u Quantity demanded ve demand: fark ne?
+ru74j34q08 Hiçbiri: ikisi de her zaman eğrinin tamamını gösterir
+17ramyw7vf2 Bu karışıklık hareketi kaymadan ayırt etmeni engeller.
+2d5l7fo7vwj Verili bir fiyattaki bir nokta, fiyatlar ve miktarlar arasındaki ilişkinin tamamına karşı
+1he717yaq4x Kendi fiyatındaki bir değişim noktayı değiştirir, ilişkiyi otomatik olarak değil.
+f0bue9sbud Excess supply burada şunu gösterir…
+coz4x7ue9a Tüm satıcıların kârı
+27ehbg5t04r Bu, birim değil para cinsinden ifade edilen başka bir kavramdır.
+yz6ubxzy6s Bu fark pozitifken QS − QD
+231rx3i54dp Sunulan birimlerin fazlasıdır, parasal kazanç alanı değil.
+2db3pi97xru Bir girdi ucuzluyor, D değişmiyor. Olağan sonuç?
+13ue40knmsq p ve Q düşer
+85jw0qobgj Maliyetin düşmesi daha az değil daha fazla miktara olanak tanır.
+1xk1kgcv2qk p düşer ve Q artar
+1we83sca4c5 S sağa kayar; yeni daha düşük fiyat alımları artırır.
+1okrm172c9f Pozitif bir talep şokunu yeniden kur.
+17akqsrra4e Verili fiyatta daha fazla istenen alım
+1qqf367ba79 Eski fiyatta talep fazlası
+26bfnptq8hg Fiyat artışı
+1n8y9g1pi5p S boyunca arz edilen miktarda artış
+h1dkmwrv49 Yeni piyasa: QD = 18 − 2p; QS = p − 3. p*’ı hesapla.
+xccld2jbvf pD = 24 − 2Q ve pS = 6 + Q ile Q*’ı hesapla.
+cipmf62nqa D sola ve S sağa, büyüklükler bilinmiyor: kesin sonuç?
+14gk7j9o1fn Q düşer ve p belirsizdir
+flpjby3fqb Bu öbür işaret kombinasyonu. Her şoku ayrı ayrı yeniden yap.
+1yziyp7961o Fiyat düşer; Q belirsizdir
+8uqdizazt1 İki güç de p’yi düşürür ama biri Q’yu azaltır, öteki artırır.
+1okzzhzy299 İki talep q1 = max(0, 8 − p) ve q2 = max(0, 3 − p). p = 5’te toplam ne?
+1ilzxny3f99 3 + 0 = 3; ikinci talep sıfırda kesilir.
+26ugwmfqrth Hangi EN cümlesi kendi fiyatındaki bir artışı doğru tanımlar?
+1cj31b1l6f9 Kendi fiyatı dışında bir belirleyici eksik.
+1qpcncf96v5 Quantity demanded falls along an unchanged demand curve.
+26e7vw7jo42 İlişki korunur; nokta hareket eder.
+1sd4j98mn2a Supply falls at a given price
+ad2ghnnw18 Shortage raises price
+27647lrhp8e Bir alım planını bir satış planından ayırırım.
+18ln680on30 Aktörleri ve neyi veri kabul ettiklerini adlandırırım.
+iq0aq7nfxe p* ve Q*’ı bulur ve kontrol ederim.
+28uxlrll7ld QD ile QS’yi eşitler, sonra çözümü iki ilişkiye de koyarım.
+24fspvr55ol Kaymayı hareketten ayırırım.
+1k5tcjr75kj “Aynı fiyatta daha fazla mı daha az mı istenirdi?” sorusunu sorarım.
+1adh626iw9c Bir kıtlığı ve satılmayan birimleri açıklayabilirim.
+nwahru1cv8 Uyumsuz kararlardan bir fiyat baskısı çıkarırım.
+235seppcwmz Belirsiz bir değişkene işaret vermem.
+y2b2w1llt6 İki şokun etkilerini ve büyüklüklerini ayrı ayrı karşılaştırırım.
+1hu7i8m2w82 Tanım aralıklarına ve birimlere uyarım.
+25lh9r3gly2 Negatif talepleri keser ve tüm ilişkilerde aynı piyasayı tutarım.
+r92ea4olki Tüketici — bütçenin izin verdiğini seç
+26ytlr578c0 Tercihler, ödünleşim ve kısıt
+ueg3u6faq3 Bir sepet seni daha çok memnun edip yine de alınamaz olabilir. Bütçeni konuşturacak, MRS’nin ne demek olduğunu keşfedecek, sonra ne zaman bir teğetliğin, bir köşenin ya da bir kırılmanın karar verdiğini bileceksin.
+2bt4ggftts Sen, tüketici
+23eewen9xf5 1.200’ü L ile R arasında paylaştırırsın
+lmziav1uxc tercih ettiğin erişilebilir sepet
+1fdq7885815 Satıcılar
+p1flxfkjer pL = 40 ve pR = 120 ilan ederler
+14iawz26wvi satın alınan miktarlar için ödeme almak
+xcqjli061p sıralamayı uygulanabilirlikten ayırırsın
+a3w5ank1tq rastgele bir teğetlik koşulu ezberden okumadan seçimi bulmak
+vu6i8ubfxj Ne istediğin ve neye gücünün yettiği iki ayrı sorudur
+1g0674fhxcr L ve R adlı iki mala harcayacak 1.200’ün var. Birincisi 40, ikincisi 120. Çok cömert bir sepeti tercih edebilirsin ama bu tercih satın almayı finanse etmez: önce neye gücünün yettiğini kontrol et.
+1bfxavf0gya Tüketici pL·L + pR·R ≤ I altında tercihlerini maksimize eder. Amaç ve kısıt farklı roller oynar.
+1fz9s2trpaf Tercihler, bütçeyi aşanlar dahil sepetleri sıralar.
+1u2v9aiph9s Bütçe, nihai karşılaştırmadan önce imkânsız sepetleri eler.
+1t17f7tm0lk Dolayısıyla kısıt altında optimize etmek, bir listeden maliyetine bakmadan en yüksek sayısal faydayı seçmek değildir.
+78t0ihb4hk A2: (L,R) = (20,4) U = 80 verir ama 40×20 + 120×4 = 1.280’e mal olur. (15,5) U = 75 verir ve 1.200’e mal olur: ikincisi erişilebilir, birincisi değil.
+cdp81500l4 Daha güçlü bir bilgisayarı tercih edebilirsin, ama puanı daha iyi diye eksik 80’i bütçene ekleyemezsin.
+1lzrot934qd A2: bütçen ve tercihlerin
+ka0pbj3oiy R, R birimi
+13ur5jcjode L, L birimi
+hy9so19tw2 R yatay, L dikey. Tam bütçe L = 30 − 3R. U = LR = 75 farksızlık eğrisi, okunabilirlik için birleştirilmiş kesin noktalarla gösterilir; parçalar hiperbolün görsel bir yaklaşımıdır.
+vf4nfg1nwd Bütçe: L = 30 − 3R
+11chbxci6nd pL = 40 ve pR = 120 ile tam olarak 1.200’e mal olan sepetler.
+7ygdgpwn31 Farksızlık U = 75
+2415xcwhj1f Her nokta LR = 75 verir. Teğet nokta (R,L) = (5,15).
+2fajlengas9 Optimum: R = 5, L = 15
+1kphu8topnl 1.280’e mal olur: erişilemez
+20g4n8c03gq (L,R) = (20,4) kaça mal olur?
+153hrhzkki2 (20,4) sepeti I = 1.200 ile alınabilir mi?
+1i6ryi39n9f Evet, çünkü U = 80, U = 75’i aşar
+103iwgd1d98 Bir tercih, bir sepeti ödenebilir kılmaz.
+uys85x5o4p Hayır, daha fazla fayda verse bile
+1x1k06xdct6 Kısıtı 80 aşar.
+12zz6aefodk Fayda bir sıralamadır, mutluluk termometresi değil
+1a0din8fvat U = LR modeli tercihlerini temsil etmek için her sepete bir sayı verir. 40 yerine U = 80 demek, ilk sepetin tercih edildiği anlamına gelir; iki kat mutluluk ölçmez. Sepetlerin sırasını koruyan bir dönüşüm aynı seçimleri temsil eder.
+25kh6wgil4t Fayda sıralıdır (ordinal). Pozitif L,R için U = LR ve V = √(LR) sepetleri aynı sırayla dizer.
+1ye8hmpdxj0 Seçim, evrensel bir mutluluk birimine değil, sepetler arasında bir sıraya ihtiyaç duyar.
+9naou16ibt Karekök artandır: LR büyükse kökü de büyüktür.
+115dqci5vpj Düzeyler ve türevler değişir, ama tutarlı ödünleşim ve optimal sepet aynı kalır.
+123r3w6ekik (15,5) ve (24,2) sepetleri: U = 75 ve 48; V ≈ 8,66 ve 6,93. Farklı sayısal aralıklara rağmen sıralama aynıdır.
+s3q4ps7mtl Uygulaman puanı 75’ten 8,66’ya değiştirebilir, seçeceğin sepeti değiştirmeden.
+vmdrcgl96q U(A) = 80 ve U(B) = 40 şunu söylemeye izin verir…
+1tgyewpsncu A tam olarak iki kat mutluluk getirir
+w4rrpohibh Bu oran, eşdeğer olduğu halde artan bir dönüşüm altında kaybolur.
+251nrdzpj1f Bu tercihlere göre A, B’ye tercih edilir
+23y9p8ia0ao Puan sepetleri sıralar; bir mutluluk oranını ölçmez.
+1tb6l2wv76w Eğim hesaplamadan önce eksen kesişimlerini oku
+1v738ym118u Tüm paranı L’ye harcarsan 30 alabilirsin. Yalnızca R alırsan 10 alabilirsin. Bu uçlar arasında bir R daha almak seni üç L’den vazgeçmeye zorlar: piyasanın sunduğu ödünleşim budur.
+126y4xd6qq8 R yatay ve L dikeyken: 40L + 120R = 1.200 ⇒ L = 30 − 3R. Eğim = −pR/pL = −3.
+1t1oomdlsic Bir R 120, bir L 40 tutuyor. Bir R daha ödemek için kaç L’den vazgeçmelisin?
+15asaoq5qw9 120/40 = 3. Fiyat oranının mutlak değerce eğim olmasının nedeni budur.
+16hhtziw1ml Bu, bir L’nin R cinsinden maliyeti olurdu; senin eksenlerin ters yönde.
+1m1f8xh2nxk 120, R başına paradır, L sayısı değil. Bir L’nin fiyatına böl.
+w26x2un00k Eksen kesişimleri tek bir mal alır: yani I bölü o malın fiyatıdır.
+2fyqkcctvjx Bütçe, R’ye yapılan 120’lik harcamayı L’ye yapılan 120’lik harcamayla değiştirmeye izin verir.
+m8loz2feod Vazgeçilen L sayısı 120/40’tır; negatif işaret L’deki azalmayı yansıtır.
+wn4s2qu460 (L,R) = (18,4)’ten (15,5)’e geç: −3 L ve +1 R, maliyet 1.200’de değişmez.
+25ksxf0k7r7 Sepete bir R ekliyorsun. Kasada aynı tutarda kalmak için üç L çıkarıyorsun.
+exzsxalsj9 1.200’lük bütçenin tamamı 120 fiyatla R’ye giderse kaç R?
+nn3pur8f3z R yatay ve L dikey: bütçe eğiminin mutlak değeri?
+20g0qgbch2d Bu oran L yatay ve R dikey olduğunda uyardı.
+1bc75f424nt Pay, yatay malın fiyatıdır.
+rdol3jow8r Sonraki ürün, elinde zaten ne olduğuna göre farklı değer taşır
+16lxepuhim7 U = LR ile bir L daha, onu birlikte kullanacak ne kadar R’n varsa o kadar faydalıdır. Tersine, L bol olduğunda bir R daha daha değerlidir. Sepetini ayarlama kararı her malın marjinde ne eklediğini karşılaştırır.
+kkgmlbzuxc U = LR için: MU_L = R ve MU_R = L. MU, faydanın ilgili mala göre türevidir.
+19kbao7yrzp R sabitse bir L eklemek LR çarpımını R kadar artırır.
+20s1vvgr4v3 L sabitse bir R eklemek LR’yi L kadar artırır.
+27oa3z3dzbk Harcamanın biraz kaydırılmasının sepeti iyileştirip iyileştirmediğini bilmek için yerel değişimleri karşılaştırırız.
+2aoob7n51b (L,R) = (15,5)’te R sabitken bir L daha U’yu 5 artırır; L sabitken bir R daha U’yu 15 artırır. Ama birimler 40 ve 120 tutuyor: yine de euro başına karşılaştırmak gerekir.
+w74as5txct Yalnızca MU’su 5’e karşı 15 diye R’yi seçme: bir R üç kat pahalı.
+12qdd1ceco6 U = LR ile (L,R) = (15,5) sepetinde MU_R nedir?
+25e6qtz7xao R’ye göre türev L’dir; burada L = 15.
+hawjdgnmfn fayda birimi/R
+12jzaj459v5 Tüm harcamayı R’ye yöneltmek için MU_R > MU_L yeterli mi?
+5tpayjz1gw Evet, her zaman en yüksek MU karar verir
+4bx1gs9zy1 O birimi elde etmenin maliyetini yok sayıyorsun.
+lt5k9vbps9 Hayır: euro başına marjinal faydayı karşılaştırmak gerekir
+18q7qwh8a58 R birim başına daha faydalı ve aynı oranda daha pahalı olabilir.
+291qqcq6lqr MRS: dükkânın değil, senin gönüllü değişimin
+1iqmn6g9jvf Aynı farksızlık eğrisi üzerinde biraz L kaybedip biraz R kazanarak aynı ölçüde memnun kalabilirsin. Ek bir R için vazgeçmeye razı olacağın L miktarı kişisel ödünleşimini tanımlar. Dükkân, fiyatlarıyla belirlenen başka bir ödünleşim sunar.
+19f0bw02ou9 R yatayken: MRS_RL = MU_R/MU_L = L/R, farksızlık eğiminin mutlak değeri. Birimi R başına L’dir.
+2bo3f6xhs96 U’yu sabit tutmak MU_R·dR + MU_L·dL = 0 gerektirir.
+ijpgaybs1h Dolayısıyla dL/dR = −MU_R/MU_L; pozitif oran razı olunan fedakârlığı ölçer.
+obl7r4qltb Razı olduğun fedakârlık piyasanın istediğini aşıyorsa, biraz daha fazla R almak sepetini iyileştirebilir.
+1g0jjnv69yi (15,5) sepetinde MRS_RL = 15/5 = R başına 3 L. (24,2) sepetinde MRS = 12: R senin için görece kıt olduğundan R için daha fazla L’den vazgeçmeye hazırsın.
+1k8z312shz “Biraz daha R için seve seve kaç L verirdim?” diye sorar, sonra bu sayıyı fiyatların istediği üç L ile karşılaştırırsın.
+239nwfa4ho6 (L,R) = (24,2)’de U = LR için MRS_RL nedir?
+1jeen24nosy R başına L
+1p008xl0w04 MRS şunu ölçer…
+13jhxr096z2 Tercihin ne olursa olsun göreli fiyatı
+1b7nfsa6tnt Bu pR/pL olurdu. İki oran yalnızca bazı optimumlarda örtüşür.
+1k75o2t61e8 Sabit memnuniyette senin ödünleşimin
+2g9k3g5jzcl Tercihlerden gelir; fiyat oranı piyasadan gelir.
+1geich0mo2u Son euro neden aynı işi yapmalı
+1p5zy86fzn4 R’ye harcanan bir euro sana L’ye harcanan bir eurodan daha fazla memnuniyet katıyorsa, harcamanın bir kısmını R’ye kaydırabilirsin. Bu, bütçeni aşmadan sepetini iyileştirir. Düzenli bir iç optimumda bu küçük kaydırma artık hiçbir yönde yardımcı olmamalıdır.
+1rnb7yxacqc İç optimum: MU_R/pR = MU_L/pL, yani MRS_RL = pR/pL. Bütçe kısıtını eklemek ve iç optimum koşullarını kontrol etmek gerekir.
+qsrk86h6g0 Hangi karşılaştırma bir euroluk kaydırmanın sepeti iyileştirmesini engeller?
+6mrsx11sle Evet: iki kullanımda da son euro için aynı marjinal kazanç.
+lx0de6zzf1 Bu, fiyatları farklı olabilecek birimleri karşılaştırırdı.
+1qcn1o0jxxi Miktarların eşitliği euro başına kazançların eşitliği değildir.
+25e15rnxiep Bir maldan diğerine küçük bir tutar kaydırılırsa bütçe sabit kalır.
+11s9zehwp41 Euro başına kazançlar farklıysa bu kaydırma U’yu artırır: sepet optimal değildi.
+4886ceiqi1 Eşitlik tek başına bir sepetler kümesini tanımlar; bütçe ulaşabileceğini seçer.
+1gsio1p733s (15,5)’te MU_R/pR = 15/120 = 0,125 ve MU_L/pL = 5/40 = 0,125. Son iki euro aynı işi yapar.
+16cxdf8hocf Ek bir euroyu paylaştırıyorsun. Optimumda iki reyondan hiçbirinin diğerine göre marjinal bir üstünlüğü yoktur.
+1ipqez6bof9 R yatayken teğetlik koşulunu yeniden kur.
+1y6cbs51wud Senin fedakârlığın MU_R/MU_L, istenen fedakârlık pR/pL’ye eşit olmalıdır.
+16vqr1pil0d Yalnızca bir denklemi değil, A2 sepetini çöz
+5v5qqxxkl5 Teğetlik L = 3R der. Bütçe, iki malın birlikte 1.200’e mal olması gerektiğini söyler. İkisini birleştirerek tek bir sepet elde edersin; sonra maliyetini ve faydasını kontrol edebilirsin.
+adx8dmgcvd U = LR: harcamanın yarısı her mala. Bu birimlerin yarısı demek değildir.
+gtgr2fc4yf L = 3R ile bütçe 40×3R + 120R = 1.200 olur.
+22ephdhqsa5 Dolayısıyla 240R = 1.200: R = 5 ve L = 15.
+2fx8rqe2iae İki mal da arzu edilir, çözüm pozitiftir ve U = LR burada tutarlı bir iç optimum verir.
+t57fdnq8o4 A2: R = 5, L = 15; harcamalar 120×5 = 600 ve 40×15 = 600; U = 75. (24,2) sepeti de 1.200’e mal olur ama U = 48.
+2facl648bfh Her maldan aynı sayıda almazsın: U = LR’deki üsler eşit olduğu için her birine aynı tutarı ayırırsın.
+1ez9a0xqo4m Erişilebilir optimal sepet
+1j24obfyiiw 40(3R) + 120R = 1.200’de R’yi bul.
+1iyqt2650rm Optimal sepet (L,R) = (15,5) hangi faydayı verir?
+rmx6dzjbi7 fayda
+1bzqf1gyiha R pahalılaşıyor: gerçekten ne azaldı?
+bwouilzwml R’nin fiyatı 120’den 150’ye çıkıyor. Hâlâ 1.200 paran var, ama bu gelir daha az R alıyor. Bütçe döner: tamamen-L hâlâ mümkün, tamamen-R ondan sekiz birime düşer.
+y7kiqbs6tx Nominal gelir I değişmez. Satın alma gücü düşer; bütçe eğimi −pR/pL = −3,75. U = LR ile yeni seçim: L = 15, R = 4.
+1k957eylwn7 L’nin fiyatı ve I değişmediği için L = 30 kesişimi sabit kalır.

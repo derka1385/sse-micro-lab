@@ -1,0 +1,104 @@
+======================================================================
+1. BESTANDSAUFNAHME UND ÜBERSICHT DES STOFFS
+======================================================================
+
+Alle Namen unten sind relativ zum Ordner Microeconomics.
+
+S01 = assignments/Assignment3.pdf — 4 Seiten.
+S02 = assignments/Assignment2.pdf — 3 Seiten.
+S03 = assignments/Assignment4.pdf — 5 Seiten.
+S04 = assignments/Assignment5.pdf — 6 Seiten.
+S05 = assignments/Assignment6.pdf — 5 Seiten.
+S06 = lectures/Lecture 01 Micro 2026 15.16.11.pdf — 21 Seiten.
+S07 = lectures/Lecture 02 Micro 2026 15.16.11.pdf — 33 Seiten.
+S08 = lectures/Lecture 03 Micro 2026 15.16.11.pdf — 24 Seiten.
+S09 = lectures/Lecture 04 Micro 2026 15.16.11.pdf — 29 Seiten.
+S10 = lectures/Lecture 05 Micro 2026 15.16.11.pdf — 33 Seiten.
+S11 = lectures/Lecture 06 Micro 2026 15.16.11.pdf — 34 Seiten.
+S12 = lectures/Lecture 07 Micro 2026.pdf — 23 Seiten.
+S13 = lectures/Lecture 08 Micro 2026.pdf — 24 Seiten.
+S14 = lectures/Lecture 09 Micro 2026.pdf — 25 Seiten.
+S15 = lectures/Lecture 10 Micro 2026.pdf — 25 Seiten.
+S16 = lectures/Lecture 11 Micro 2026.pdf — 25 Seiten.
+S17 = lectures/Lecture 12 Mikro 2026.pdf — 20 Seiten.
+S18 = past exams/2020.pdf — 7 Seiten.
+S19 = past exams/2021.pdf — 5 Seiten.
+S20 = past exams/2022.pdf — 5 Seiten.
+S21 = past exams/2023.pdf — 6 Seiten.
+S22 = past exams/2024.pdf — 5 Seiten.
+S23 = past exams/2025.pdf — 6 Seiten.
+
+VORLESUNGEN -> KOMPETENZEN -> ANWENDUNGEN
+L1, Introduction, Friberg 1.1–2.1 und 19: Knappheit, Wahl, Allokation,
+  Effizienz und Verteilung, Modellannahmen, Ableitungen.
+L2, Supply and demand, Friberg 2.2–2.5: direkte/inverse Funktionen,
+  Verschiebungen von Kurven, Gleichgewicht und Wirkung von Schocks.
+  Grundlage für A4.2, A6.3 und für Politikmaßnahmen in allen Prüfungen.
+L3, Consumer choice, Friberg 5.1–5.6: Präferenzen, ordinaler Nutzen,
+  Indifferenz, MRS, Budget, innere oder Randlösung, Verhaltensverzerrungen.
+  A2.2; E2022 Q5; E2021 Q4e; Definitionen in Q5.
+L4, Demand curves and elasticities, Friberg 6.1–6.4: individuelle Nachfrage,
+  Aggregation, Kompensation und Elastizitäten. A2.1; E2020 Q5; Lerner.
+L5, From technology to costs, Friberg 3.1–3.7: Produktion, MP, Isoquanten,
+  Produktivität, Kostenminimierung, Kostenkategorien, Skalenerträge.
+  Q5 von E2021, E2023, E2025; sehr häufige Definitionen.
+L6, Supply by price taking firms, Friberg 4.1–4.8: MR=MC, p=MC,
+  kurzfristige Stilllegung, langfristiger Austritt, Aggregation, Eintritt und Nullgewinn.
+  E2020 Q5, E2024 Q5; Mechanismen der monopolistischen Konkurrenz.
+L7, Efficiency, Friberg 7.1–7.5: CS, PS, Wohlfahrt, DWL, Höchst-/Mindestpreis,
+  Steuer und Subvention. A4.2; Politikmaßnahmen und Grafiken in allen Prüfungen.
+L8, Monopoly and monopolistic competition, Friberg 9.1–9.3: MR,
+  Marktmacht, Lerner, Barrieren, Eintritt, heterogene Firmen.
+  A4.1/A4.3; E2021 Q3; E2022 Q3; E2023 Q1; E2025 Q3d.
+L9, Price discrimination, Friberg 12.1: ersten/dritten/zweiten Grades,
+  IC/IR, Bundling, Abonnement und two-part tariff.
+  A5.1/A5.2; in allen sechs alten Prüfungen vorhanden.
+L10, Oligopoly, Friberg 10.1–10.3: Cournot, Nash, Reaktion, Stackelberg,
+  homogener und differenzierter Bertrand, Anzahl der Firmen, asymmetrische Kosten.
+  A5.3; E2020/21/22/23 Cournot-Rechnungen; E2024/25 Bertrand-Rechnungen.
+L11, Externalities, Friberg 13.1–13.2: private und soziale Kosten/Nutzen,
+  Pigou, Emissionen, Zertifikate, Coase, öffentliche Güter und Allmendegüter.
+  A6.1/A6.3; große Aufgaben E2020/23/24 und öffentliche Güter E2025.
+L12, Asymmetric information, Friberg 14.1–14.4: adverse selection,
+  lemons, Signal/Screening, moral hazard, Prinzipal-Agent, Risikoteilung.
+  A6.2; theoretische oder numerische Fragen in allen sechs Prüfungen.
+A3: simultane/sequenzielle Spiele, soziale Präferenzen, Selbstbindung.
+  Erweiterung des in L10 erwähnten Nash; aus welchem Fach das Assignment stammt,
+  sagt sein Deckblatt nicht. Nicht weglassen, nur weil es untypisch ist.
+
+FORMAT UND BEOBACHTETE TRENDS
+Die Prüfungen 2020–2025 dauern 4 Stunden, haben vier Hauptfragen
+mit insgesamt 83 Punkten und eine Q5 als Ersatz für das Midterm, mit 10 Punkten.
+Die Anweisungen verlangen Antworten auf Englisch, strukturiert und begründet.
+Die Prüfungen 2020–2023 nennen die erlaubten Hilfsmittel/Taschenrechner ausdrücklich; keine
+aktuelle Erlaubnis aus einer alten Prüfung ableiten.
+L1 p.17–18 kündigt für 2026 an: Prüfung am 23. Oktober, Midterm am 28. September,
+Midterm über L1–L6, Hand-ins 7 Punkte, Midterm 10, Final 83, insgesamt 100.
+Angezeigte Schwellen: Pass 50, Good 60, Very good 70, Excellent 80.
+
+Gezählt nach JAHR, nicht nach Anzahl der Teilfragen:
+- Marktmacht und Preissetzung/Diskriminierung: 6/6, 2020–2025.
+- Steuern, Subventionen oder andere Regulierung mit Rentenargumentation:
+  6/6, 2020–2025; schließt Zölle und Höchstpreis 2023 ein.
+- Asymmetrische Information: 6/6, 2020–2025.
+- Öffentliche Güter im engen Sinn: 5/6, 2020, 2021, 2022, 2024, 2025.
+  2023 behandelt eine Allmenderessource/Frequenzspektrum; öffentlich ODER Allmende = 6/6.
+- Externalitäten ausdrücklich behandelt, über die bloße Definition öffentlicher Güter hinaus:
+  5/6, 2020, 2021, 2023, 2024, 2025.
+- Internationaler Handel oder komparativer Vorteil: 5/6,
+  2020, 2021, 2022, 2024, 2025.
+- Berechnung eines Cournot-Gleichgewichts: 4/6, 2020, 2021, 2022, 2023.
+  Qualitativer Vergleich Cournot/Bertrand auch 2025.
+- Berechnung von differenziertem Bertrand: 2/6, 2024, 2025.
+- Numerische sequenzielle Führerschaft: 2/6, 2021 in Mengen, 2024 in Preisen.
+- Ausdrückliche Auktionen: 2/6, 2023 und 2025.
+- Plattformen/Netzwerkeffekte/Multihoming als explizite Modelle:
+  2/6, 2022 und 2025; andere Prüfungen nutzen Plattformen als Kontext.
+- Fünf grundlegende Definitionen in der optionalen Q5: 6/6.
+
+AUFBAUMUSTER EINER GROSSEN FRAGE
+Einen Mechanismus definieren -> einen Grundfall lösen -> eine Annahme ändern
+(Steuer, Eintritt, Kosten, Diskriminierung, Information oder Zugreihenfolge)
+-> die Gleichgewichte vergleichen -> zeichnen -> die Intuition erklären.
+Die Themen kombinieren sich: Monopol + Steuer, Cournot + asymmetrische Kosten,
+Subvention + Externalität, Plattform + Diskriminierung, Kredit + IC.

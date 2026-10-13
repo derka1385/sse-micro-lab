@@ -1,0 +1,107 @@
+======================================================================
+4. CONSUMATORE, PREFERENZE, BUDGET E DOMANDA — L3–L4
+======================================================================
+
+4.1 Preferenze e utilità
+Completezza: possibilità di ordinare due panieri, inclusa l'indifferenza.
+Transitività: se A è preferito a B e B a C, A è preferito a C.
+Non sazietà / more-is-better: di più dei beni desiderabili è preferibile.
+Utilità ordinale: U ordina i panieri; un'utilità 100 non indica
+il doppio della felicità di un'utilità 50. Una trasformazione strettamente
+crescente rappresenta le stesse preferenze.
+Esempio L3: U(E,F)=sqrt(EF), con E entertainment, F food.
+U=EF dà lo stesso ordinamento per E,F positivi; i livelli numerici
+e le derivate cambiano, non le scelte ottime.
+
+MU_x = derivata parziale di U rispetto a x: utilità marginale del bene x.
+Utilità marginale decrescente: un'unità in più aggiunge sempre meno
+utilità, a quantità data dell'altro bene. Non confondere questa
+proprietà con il carattere ordinale dell'utilità.
+
+Curva di indifferenza: panieri che danno lo stesso U. Con preferenze usuali,
+è decrescente, convessa verso l'origine, non incrocia un'altra curva
+dello stesso consumatore; le curve più a nord-est sono preferite.
+Due beni desiderabili: una pendenza positiva è incompatibile con more-is-better.
+Se il tè è orizzontale e il caffè verticale, indifferenze orizzontali: conta
+solo il caffè; il tè non dà utilità marginale (L3 p.10).
+
+4.2 MRS e budget: non invertire mai gli assi senza adattare i rapporti
+Con x orizzontale e y verticale, lungo un'indifferenza:
+0=MU_x*dx+MU_y*dy ->dy/dx=-MU_x/MU_y.
+MRS_xy=MU_x/MU_y, valore assoluto di questa pendenza: quantità di y che il
+consumatore è disposto a cedere per un'unità in più di x.
+In L3, F orizzontale ed E verticale: pendenza=-MU_F/MU_E.
+
+Budget p_x*x+p_y*y <= I; uguaglianza all'ottimo con non sazietà e prezzi positivi.
+y=I/p_y-(p_x/p_y)*x; intercette x=I/p_x e y=I/p_y.
+Il reddito aumenta: spostamento parallelo verso l'esterno, prezzi invariati.
+Il prezzo di x aumenta: intercetta y invariata, intercetta x diminuisce, budget più ripido.
+Una variazione di prezzo riduce il potere d'acquisto; non cambia necessariamente
+il reddito nominale I.
+
+4.3 Ottimo interno
+Max U(x,y) soggetto al budget. In una tangenza interna:
+MU_x/MU_y=p_x/p_y, ossia MU_x/p_x=MU_y/p_y.
+Intuizione: l'ultimo euro dà la stessa utilità marginale nei due
+usi. Altrimenti spostare una piccola spesa verso l'uso migliore aumenta U.
+Usare questa condizione INSIEME AL budget, non al suo posto.
+Presuppone una soluzione interna e preferenze sufficientemente
+regolari; confrontare angoli e spigoli quando necessario.
+
+Complemento di calcolo, Cobb-Douglas U=x^alpha*y^beta, alpha,beta>0:
+x*=alpha/(alpha+beta)*I/p_x; y*=beta/(alpha+beta)*I/p_y.
+Giustificazione: MRS=(alpha/beta)*(y/x)=p_x/p_y, poi il budget.
+Per U=xy: metà del reddito su ciascun bene, non metà del numero di unità.
+
+4.4 Sostituti e complementi perfetti
+Sostituti perfetti U=ax+by: MRS=a/b costante; confrontare a/p_x con b/p_y.
+Tutto su x se a/p_x>b/p_y; tutto su y nel caso inverso; ogni combinazione sul
+budget è ottima in caso di uguaglianza. Non serve una tangenza unica.
+Esempio L4 p.10: 2 macchiati equivalgono a 1 cappuccino, stessi prezzi:
+comprare solo cappuccini, più utilità per euro.
+Complementi perfetti U=min(x/a,y/b): scegliere nello spigolo x/a=y/b,
+perché le unità non appaiate non aggiungono nulla. Esempio scarpe sinistra/destra.
+Per un paio 1:1: x=y=I/(p_x+p_y).
+
+4.5 Domanda e reddito
+Ricalcolare l'ottimo per ogni prezzo di x, tenendo costanti I e gli altri prezzi;
+le coppie (p_x,x*) tracciano la domanda individuale.
+Curva di Engel: quantità ottima in funzione del REDDITO, prezzi costanti.
+Bene normale: la quantità aumenta con I; inferiore: diminuisce con I.
+Uno stesso bene può essere normale a basso reddito e inferiore ad alto reddito
+(L4 esempio delle notti in ostello).
+Bene di lusso: elasticità al reddito >1; bene necessario normale: tra 0 e 1.
+Queste qualifiche non classificano la qualità intrinseca del bene.
+
+4.6 Sostituzione, reddito e compensazione
+Un aumento di prezzo rende x relativamente più caro: sostituzione verso y.
+Riduce anche il potere d'acquisto: effetto reddito.
+L4 p.11–13: tassa sulla benzina, poi trasferimento forfettario sufficiente per
+raggiungere la VECCHIA indifferenza ai NUOVI prezzi. L'utilità può essere
+mantenuta mentre il consumo di benzina diminuisce per sostituzione.
+Questo trasferimento non elimina il nuovo prezzo relativo.
+E2022 Q5: trasferimento che permette di comprare il VECCHIO PANIERE dopo la soppressione
+di un sussidio alimentare. Il vecchio paniere resta accessibile; con una
+vecchia soluzione interna e un'indifferenza strettamente convessa,
+riscegliere sul nuovo budget dà in genere un'utilità superiore.
+Vecchio paniere accessibile e vecchia utilità appena raggiunta sono due
+criteri di compensazione distinti. La garanzia generale è «non
+peggio»; il miglioramento stretto richiede condizioni di tangenza/angolo.
+
+4.7 Domanda di mercato
+QD(p)=somma_i max(0,q_i(p)). Somma ORIZZONTALE a prezzo dato.
+L4 p.19: q_H=10-p, q_L=5-p.
+QD=0 per p>=10; QD=10-p per 5<p<10; QD=15-2p per 0<=p<=5.
+La domanda inversa aggregata ha uno spigolo; verificare il segmento di ogni ottimo.
+
+4.8 Comportamento, preferenze sociali e limiti
+L3: l'utilità può includere altruismo, status, rispetto, orgoglio e malevolenza.
+Massimizzare l'utilità non equivale quindi a massimizzare il solo proprio consumo.
+Ultimatum game: possibile rifiuto di un'offerta monetaria positiva per equità.
+Mancanza di autocontrollo: gratificazione immediata contro interesse futuro.
+Euristiche: regole semplici quando l'ottimizzazione è difficile.
+Loss aversion: le perdite possono pesare più di guadagni comparabili.
+Framing: la presentazione di una scelta influenza la decisione.
+Overconfidence: fiducia eccessiva nelle proprie capacità/informazioni.
+Preferenze sociali in A3: convertire i guadagni monetari in UTILITÀ
+prima di cercare le migliori risposte.

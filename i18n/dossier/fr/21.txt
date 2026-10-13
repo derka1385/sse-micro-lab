@@ -1,0 +1,257 @@
+======================================================================
+19. LEXIQUE BILINGUE DES NOTIONS ET DES CONSIGNES
+======================================================================
+
+Les définitions développées, hypothèses et calculs sont dans les chapitres.
+Ce lexique permet de retrouver un mot anglais sans connaître son chapitre.
+
+19.1 Fondations et marchés
+Absolute advantage — avantage absolu : produire avec moins de ressources.
+Accounting cost/profit — coût/profit comptable : dépenses explicites/solde.
+Allocation — répartition : qui reçoit quels biens/ressources.
+Barrier to entry — barrière à l'entrée : obstacle à un nouveau concurrent.
+Binding constraint — contrainte active : limite effectivement le choix.
+Ceteris paribus — toutes choses égales par ailleurs : isoler un changement.
+Commodity — produit de base standardisé, utile pour modèle concurrentiel.
+Competitive reallocation — réallocation vers firmes plus productives.
+Comparative advantage — avantage comparatif : moindre coût d'opportunité relatif.
+Complementary goods — biens complémentaires : prix de l'un réduit demande de l'autre.
+Consumer — consommateur : choisit un panier sous contraintes.
+Demand curve/function — courbe/fonction de demande : achat souhaité selon prix.
+Differentiated products — produits différenciés : caractéristiques distinctes.
+Distribution — répartition des revenus/gains ; à distinguer de l'efficacité.
+Economic cost/profit — coût/profit économique : inclut les opportunités sacrifiées.
+Economic rent — rente économique : revenu associé à une ressource rare.
+Efficiency — efficacité : objectif explicite de gains/ressources, pas simple égalité.
+Equilibrium — équilibre : décisions/quantités cohérentes, pas forcément optimum social.
+Excess demand / shortage — excès de demande/pénurie : QD>QS au prix courant.
+Excess supply / surplus — excès d'offre : QS>QD ; « surplus » ne veut pas
+  toujours dire surplus de bien-être.
+Exit / entry — sortie/entrée d'entreprises dans un marché.
+Free entry — libre entrée : accès sans barrière empêchant l'ajustement LR.
+Homogeneous product — produit homogène : acheteurs le traitent comme identique.
+Input — facteur/intrant : ressource utilisée pour produire.
+Inverse demand/supply — demande/offre inverse : prix écrit en fonction de Q.
+Market clearing price — prix d'équilibre : égalise QD et QS.
+Market definition — définition du marché : produits, géographie, période.
+Model — représentation simplifiée avec hypothèses et implications cohérentes.
+Opportunity cost — coût d'opportunité : meilleure alternative abandonnée.
+Output — production obtenue, distincte des inputs employés.
+Partial equilibrium — équilibre partiel : analyse d'un marché en isolant le reste.
+Price taker — preneur de prix : pense ne pas affecter p par son choix individuel.
+Scarcity — rareté : ressources limitées imposent choix/arbitrages.
+Shift — déplacement de courbe ; movement along — déplacement sur une courbe.
+Substitute goods — substituts : prix de l'un augmente demande de l'autre.
+Supply curve/function — offre : quantité souhaitée à chaque prix.
+Zero economic profit — profit économique nul : coûts d'opportunité rémunérés.
+
+19.2 Consommateur et comportement
+Affordable/feasible bundle — panier accessible : respecte budget/contraintes.
+Altruism — altruisme : utilité augmente avec bien-être/gain d'autrui.
+Behavioral economics — économie comportementale : enrichit choix rationnel simple.
+Budget constraint/line — contrainte/droite budgétaire : dépenses possibles.
+Bundle/basket — panier : combinaison de quantités de biens.
+Cardinal utility — utilité cardinale : niveaux/intensités interprétables ;
+  ne correspond pas à l'usage ordinal standard des fonctions du cours.
+Cognitive limitations — limites cognitives : optimisation/information imparfaites.
+Complete preferences — préférences complètes : toute paire peut être comparée.
+Compensation — transfert rétablissant une possibilité de panier ou d'utilité,
+  selon la définition retenue.
+Convex preferences — préférences convexes : goût pour les mélanges, sous forme usuelle.
+Corner solution — solution en coin : un des biens choisi en quantité0.
+Diminishing marginal utility — utilité marginale décroissante avec quantité.
+Engel curve — courbe d'Engel : quantité en fonction du revenu, prix fixés.
+Envy / spite — envie / malveillance : autre gain peut réduire sa propre utilité.
+Framing — effet de cadrage : présentation affectant décision.
+Heuristic — heuristique : règle simple utilisée pour décider.
+Homo economicus — agent rationnel stylisé ; ses préférences ne sont pas
+  nécessairement exclusivement matérialistes.
+Income effect — effet revenu : changement dû au pouvoir d'achat réel.
+Indifference curve — courbe d'indifférence : même utilité sur tous ses paniers.
+Inferior good — bien inférieur : demande baisse lorsque revenu augmente.
+Interior solution — solution intérieure : biens/inputs strictement positifs.
+Loss aversion — aversion aux pertes : poids des pertes relatif aux gains.
+Lump-sum payment — transfert forfaitaire : montant indépendant de l'achat marginal.
+Luxury good — bien de luxe : demande augmente plus que proportionnellement au revenu.
+Marginal utility — utilité marginale : apport de l'unité supplémentaire.
+More-is-better / non-satiation — non-satiété : davantage de biens désirés préféré.
+Normal good — bien normal : demande augmente avec revenu.
+Ordinal utility — utilité ordinale : sert à classer, pas mesurer bonheur absolu.
+Overconfidence — excès de confiance : surestimer précision/capacités.
+Perfect complements — compléments parfaits : consommation en proportions fixes.
+Perfect substitutes — substituts parfaits : échange à taux constant.
+Preference — préférence : classement des alternatives.
+Self-control — maîtrise de soi : arbitrage gratification immédiate/objectif futur.
+Social preferences — préférences sociales : utilité dépend aussi d'autrui/normes.
+Substitution effect — effet substitution : réponse au prix relatif.
+Transitivity — transitivité : cohérence du classement à travers plusieurs paniers.
+Ultimatum game — jeu de l'ultimatum : partage proposé, accepté ou refusé.
+Utility maximization — maximisation d'utilité : meilleur panier accessible.
+
+19.3 Production et coûts
+Average product — produit moyen : production par unité d'input.
+Capital-labor ratio — ratio capital/travail : K/L.
+Constant economies of scale — coût moyen LR constant sur la plage pertinente.
+Cost function — fonction de coût minimal selon output, input prices donnés.
+Cost minimization — minimisation de coût pour une production imposée.
+Decreasing returns to scale — tous inputs multipliés par t, output moins que t.
+Diminishing marginal product — produit marginal décroissant d'un seul input.
+Diseconomies of scale — déséconomies : coût moyen croissant.
+Economies of scale — économies : coût moyen décroissant.
+Factor of production — facteur de production : travail, capital, terre, autres inputs.
+Fixed cost — coût fixe indépendant de Q dans l'horizon.
+Increasing returns to scale — tous inputs multipliés par t, output plus que t.
+Intermediate input — intrant intermédiaire : bien produit utilisé pour produire.
+Isocost — isocoût : combinaisons d'inputs au même coût.
+Isoquant — isoquante : combinaisons d'inputs au même output.
+Labor — travail, mesuré en personnes/heures selon énoncé.
+Learning-by-doing — apprentissage par pratique, pouvant réduire les coûts.
+Long run — tous les facteurs peuvent être ajustés.
+Marginal cost — coût de la production additionnelle.
+Marginal product — output supplémentaire d'un input supplémentaire.
+Production function — relation technologie/inputs/output.
+Productivity — production obtenue pour les ressources utilisées.
+Raw material — matière première utilisée dans production.
+Returns to scale — réaction de Q à variation proportionnelle de tous les inputs.
+Short run — au moins un facteur fixé.
+Shutdown — arrêt de production court terme ; différent d'exit définitif/LR.
+Sunk cost — coût irrécupérable ; ne doit pas fausser comparaison future.
+Variable cost — coût variant avec output.
+
+19.4 Pouvoir de marché et stratégie de prix
+Arbitrage / resale — acheter/revendre pour profiter d'un écart de prix.
+Best response / reaction function — choix optimal conditionnel au rival.
+Bertrand competition — concurrence en prix.
+Bundling — vente groupée ; pure=lot seul, mixed=lot et séparés.
+Capacity constraint — limite de production/places/ventes possibles.
+Collusion — coordination des concurrents ; différente du Nash non coopératif.
+Cournot competition — concurrence en quantités simultanées.
+Duopoly — oligopole à deux firmes.
+Excess capacity — capacité excédentaire au sens de production sous minimum ATC.
+First-degree price discrimination — tarification à chaque WTP marginale individuelle.
+First-mover advantage — avantage du premier joueur, dépend du jeu.
+Freemium — version gratuite et possibilités payantes, auto-sélection/réseau.
+Horizontal differentiation — diversité de goûts, pas classement universel de qualité.
+Incumbent — entreprise déjà présente avant entrée.
+Integrated market — marché non segmenté, arbitrage ou prix commun.
+Lerner index — marge prix/coût marginal divisée par prix.
+Market power — capacité de fixer un prix supérieur au coût marginal.
+Market share — part de marché, q_i/Q ; n'est pas synonyme de profit.
+Markup — marge prix-coût ; préciser absolue, relative au prix ou au coût.
+Monopolistic competition — nombreuses firmes différenciées avec entrée facile.
+Monopoly — offreur unique sans substituts proches dans le marché pertinent.
+Natural monopoly — technologie de coûts favorisant un seul producteur.
+Nash equilibrium — aucune déviation unilatérale profitable.
+Oligopoly — petit nombre de firmes avec interaction stratégique.
+Parallel imports — importations parallèles empêchant segmentation de prix.
+Patent — droit d'exclusion temporaire, incitation à innovation dans le modèle.
+Perfect competition — price takers, homogénéité, nombreux agents, entrée libre.
+Price discrimination — prix différents selon unités/clients au-delà des seuls coûts.
+Profit maximization — meilleur profit faisable, pas quantité maximale.
+Reservation price — prix de réserve, WTP maximale d'une unité/transaction.
+Second-degree discrimination — auto-sélection dans un menu.
+Segmented markets — groupes dont revente/transfert entre eux est limité.
+Self-selection — client révèle son type par l'offre choisie.
+Single-price monopoly — monopole avec même prix pour chaque unité.
+Stackelberg leadership — ordre séquentiel, réaction observée du suiveur.
+Strategic complements — meilleure réponse augmente avec choix du rival, ex. prix.
+Strategic substitutes — meilleure réponse baisse avec choix rival, ex. Cournot Q.
+Third-degree discrimination — groupes observables avec tarifs différents.
+Two-part tariff — frais d'accès plus prix d'usage.
+Vertical differentiation — qualité classable, consommateurs diffèrent en WTP.
+
+19.5 Bien-être, environnement et information
+Adverse selection — antisélection liée à un type privé.
+Asymmetric information — information différente entre parties.
+Bargaining cost / transaction cost — coût de négocier/faire appliquer accord.
+Certification — qualité attestée par un tiers ou standard.
+Club good — bien excluable, non rival hors congestion.
+Coase theorem — efficacité par négociation sans coût avec droits bien définis.
+Common resource — ressource rivale, non excluable dans les règles considérées.
+Consumer/producer surplus — gains monétaires acheteurs/vendeurs au-delà
+  de paiement/coût variable.
+Deadweight loss — surplus social net non réalisé/perdu.
+Deductible — franchise d'assurance supportée par assuré.
+Emission cap/quota — limite quantitative d'émissions.
+Emission fee — prix/taxe par unité d'émission.
+External benefit/cost — effet bénéfique/dommage sur tiers non pris en compte.
+Externality — externalité, positive ou négative.
+Franchise contract — contrat donnant usage d'une activité/marque avec paiement,
+  potentiellement incitations fortes sur résultat.
+Free rider — passager clandestin, bénéficie sans contribuer.
+Incentive compatibility — choix souhaité préférable aux alternatives.
+Individual rationality / participation — contrat acceptable face à option extérieure.
+Internalization — intégrer le coût/bénéfice externe dans décision privée.
+Limited liability — responsabilité limitée, pertes/remboursements plafonnés.
+Lemons market — marché où qualité cachée peut évincer la bonne qualité.
+Moral hazard — aléa moral, choix/action privé modifié par contrat/incitations.
+Open access — accès libre à une ressource, sans restriction efficace.
+Pareto improvement/efficiency — gain sans perdant/absence de gain faisable sans perdant.
+Pigouvian tax/subsidy — prélèvement/aide correctrice d'externalité.
+Pooling equilibrium — types non séparés par comportement observable.
+Principal-agent problem — contrat avec action non observable de l'agent.
+Private benefit — avantage pour décideur, parfois au détriment du principal.
+Private good — rival et excluable.
+Procurement — achat de service/bien par donneur d'ordre, souvent enchère inversée.
+Property rights — droits déterminant qui peut utiliser/interdire/échanger.
+Public good — non rival et non excluable, dans le modèle pur.
+Reputation — information accumulée sur qualité/comportement.
+Risk sharing — répartition de l'exposition aux chocs entre parties.
+Screening — collecte/structure d'information par partie moins informée.
+Separating equilibrium — types révélés par choix/signaux différents.
+Sharecropping — partage de récolte/recette entre exploitant et propriétaire.
+Signalling — signal observable envoyé par partie mieux informée.
+Social cost/benefit — effet total privé plus externe.
+Subsidy — aide réduisant prix acheteur ou augmentant recette vendeur.
+Tax incidence — répartition réelle de la charge d'une taxe.
+Tradable permits — permis échangeables sous plafond total.
+Tragedy of the commons — usage excessif dû à externalité de rareté.
+Trust — confiance, réduit certaines frictions d'information/contrat.
+
+19.6 Jeux, commerce, plateformes et enchères
+Backward induction — induction à rebours : partir des dernières décisions.
+Cheap talk — communication non directement contraignante dans le jeu.
+Commitment — engagement modifiant de façon crédible les choix futurs.
+Credible threat — menace optimale à exécuter au nœud où elle est invoquée.
+Dominant strategy — optimale quelles que soient stratégies des autres.
+Edgeworth box — boîte d'échange de deux biens entre deux agents.
+Free trade — libre-échange sans la barrière considérée.
+Gains from trade — gains à l'échange, surplus d'échanges mutuellement utiles.
+Multihoming — participation à plusieurs plateformes.
+Network effect — valeur du service dépendant de participants du même/autre côté.
+Payoff — gain/utilité d'une issue, à distinguer de l'argent si préférences sociales.
+Platform — intermédiaire organisant interactions entre groupes.
+Pooling/separating — voir information ; pas à confondre avec bundling de produits.
+Production possibility frontier — frontière des combinaisons réalisables.
+Pure/mixed strategy — choix certain/tirage probabiliste entre actions.
+Reverse auction — enchère d'achat, l'offre basse peut gagner.
+Sealed-bid auction — offres remises sans observer celles des autres.
+Sequential/simultaneous moves — décisions dans un ordre/prises sans observer le rival.
+Single-homing — usage d'une seule plateforme.
+Specific factors — facteurs immobilisés dans un secteur du modèle de commerce.
+Subgame perfect equilibrium — Nash dans chaque sous-jeu, exclut menaces non crédibles.
+Switching costs — coûts de changement de fournisseur/plateforme.
+Tariff — droit de douane sur importations ; différent du tarif à deux parties.
+Terms of trade — prix des exportations relativement aux importations.
+Vickrey auction — enchère scellée au second prix du modèle de valeurs privées.
+Winner's curse — malédiction du vainqueur due à sélection d'une estimation optimiste.
+
+19.7 Verbes et mots de consigne à reconnaître immédiatement
+Assume — suppose : utiliser l'hypothèse donnée, même stylisée.
+Calculate / find / determine — calculer/trouver : équations, étapes, résultat/unité.
+Compare — comparer : même benchmark, mêmes hypothèses, variables pertinentes.
+Define — définir : donner sens simple, pas seulement une formule.
+Derive / show how derived — dériver/démontrer : partir de l'objectif et obtenir relation.
+Discuss — discuter : mécanisme, hypothèses et éventuelle ambiguïté.
+Explain why / intuition — expliquer pourquoi : relier incitations, marginal et résultat.
+Illustrate / use a figure — dessiner avec axes, courbes, quantités et zones légendés.
+Holding constant / given — maintenir donné : ne pas dériver cette variable comme un choix.
+In the long run — long terme : vérifier entrée, sortie et possibilité d'ajuster inputs.
+Maximize / minimize — optimiser l'objectif, pas seulement égaliser des courbes.
+Motivate / justify — justifier : argument économique et lien au calcul.
+No calculations needed — expliquer le mécanisme ; ne pas remplacer intuition par chiffres.
+Per unit — par unité, montant à multiplier par volume pertinent.
+Resale impossible — revente impossible : condition clé de segmentation.
+Subject to — sous contrainte : écrire explicitement ce qui limite le choix.
+Unilaterally — unilatéralement : seul le décideur modifie sa stratégie.
+Welfare maximizing — maximiser bien-être SOCIAL, distinct du profit privé.

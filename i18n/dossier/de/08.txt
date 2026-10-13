@@ -1,0 +1,114 @@
+======================================================================
+6. PRODUKTION, KOSTEN UND WETTBEWERBSANGEBOT — L5–L6
+======================================================================
+
+6.1 Technologie und Grenzprodukte
+Funktion Q=f(K,L): mit Kapital K und Arbeit L erzielte Menge.
+MP_L=partial Q/partial L; MP_K=partial Q/partial K.
+AP_L=Q/L, Durchschnittsprodukt; diskret MP=Delta Q/Delta L, K fest.
+L5 p.11: Q=50 bei L=9, 54 bei L=10, 56 bei L=11.
+Produkt des 10. Arbeiters=4; Durchschnittsprodukt bei 10=54/10=5.4.
+Abnehmende Grenzerträge: ein Input steigt, der andere bleibt fest.
+Beispiel L5: Q=sqrt(KL), MP_L=0.5*sqrt(K/L), MP_K=0.5*sqrt(L/K).
+Ergänzung Cobb-Douglas Q=A*K^alpha*L^beta:
+MP_L=beta*Q/L; MP_K=alpha*Q/K.
+A erfasst die totale Faktorproduktivität, TFP: mehr Output mit
+denselben Inputs oder weniger Inputs für denselben Output.
+
+Einstellung, Output zum gegebenen Preis p verkauft: weitermachen, solange p*MP_L>w.
+Im inneren Wettbewerbsoptimum: p*MP_L=w.
+Bei Marktmacht auf dem Outputmarkt p durch MR ersetzen (Ergänzung).
+L5 Pest: weniger Arbeit im Verhältnis zum Boden kann
+das Grenzprodukt der Arbeit und den Lohn erhöhen, bei gegebener Technologie.
+
+6.2 Isoquanten, Isokosten und minimale Kosten
+Isoquante: K,L-Kombinationen, die dasselbe Qbar erzeugen.
+Mit L horizontal, K vertikal: Steigung=-MP_L/MP_K.
+MRTS_LK=MP_L/MP_K: Kapital, das pro zusätzlicher Einheit L eingespart werden kann.
+Isokostenlinie: C=wL+rK ->K=C/r-(w/r)L, Steigung=-w/r.
+wL+rK unter f(K,L)>=Qbar minimieren; Gleichheit bei üblicher Technologie.
+Inneres Optimum: MP_L/MP_K=w/r, also MP_L/w=MP_K/r.
+Der letzte Euro muss in beiden Inputs denselben Grenzoutput schaffen.
+Anstieg von w: Arbeit relativ teurer -> kapitalintensivere
+Kombination auf derselben Isoquante, sofern Substitution möglich. Die minimalen Kosten
+können nicht sinken, wenn der Preis eines Inputs steigt, ceteris paribus.
+Nicht nur die alte Isokostenlinie drehen: auch die neue
+tangierende Isokostenlinie suchen, meist teurer, für das vorgegebene Q.
+
+Ergänzungsbeispiel für Q=sqrt(KL): K/L=w/r; KL=Qbar^2.
+L*=Qbar*sqrt(r/w), K*=Qbar*sqrt(w/r), C*=2*Qbar*sqrt(wr).
+Für Q=K*L ist die Isoquante K=Qbar/L, anders als bei sqrt(KL).
+E2025 Q5: Isokosten 1000=50L+100K ->K=10-0.5L; Achsenabschnitte 20 und 10.
+Eine „wohlverhaltene“ Produktion liefert ohne genauere Produktionsfunktion
+keine Zahlenwerte für L*,K*; das Optimum wird gezeichnet.
+
+6.3 Skalenerträge und Skaleneffekte
+ALLE Inputs mit t>1 multiplizieren und f(tK,tL) mit t*f(K,L) vergleichen.
+Größer -> increasing returns to scale; gleich -> constant; kleiner
+-> decreasing. Cobb-Douglas: alpha+beta mit 1 vergleichen.
+Skalenerträge betreffen die TECHNOLOGIE. Skaleneffekte betreffen
+die langfristigen DURCHSCHNITTSKOSTEN: ATC sinkt mit Q. Diseconomies: ATC steigt.
+Ein abnehmendes Grenzprodukt eines Faktors bedeutet nicht abnehmende
+Skalenerträge: sqrt(KL) hat abnehmende MP und konstante Skalenerträge.
+
+6.4 Kostentabelle
+TC=C(Q)=FC+VC(Q).
+ATC=AC=TC/Q; AFC=FC/Q; AVC=VC/Q; ATC=AFC+AVC.
+MC=dTC/dQ=dVC/dQ, da die Ableitung konstanter FC=0 ist.
+Diskrete MC der nächsten Einheit: C(Q+1)-C(Q).
+MC<ATC ->ATC sinkt; MC>ATC ->ATC steigt.
+Im inneren Minimum von ATC: MC=ATC. Gleiche Logik für AVC.
+Fixkosten sind nicht automatisch sunk: prüfen, ob sie
+im Entscheidungshorizont rückholbar/vermeidbar sind.
+Kurzfristig: mindestens ein Input fest. Langfristig: alle anpassbar,
+ohne allgemeingültige Kalenderdauer. Langfristige Kosten <= kurzfristige Kosten
+bei gegebenem Q, weil mehr Wahl bei den Inputs besteht.
+
+Beispiel L5 C=30+Q^2 bei Q=2: TC34, FC30, VC4, ATC17, AVC2, AFC15,
+stetige MC4; diskrete Kosten für den Schritt von 2 auf 3=5.
+Diese beiden Bedeutungen der Grenzkosten nicht verwechseln.
+
+6.5 Gewinn und Angebot einer preisnehmenden Firma
+pi(q)=p*q-C(q). MR=p, weil eine Firma den Marktpreis nicht ändert.
+Gewinnmaximierung ist die Modellannahme. L6 p.3 regt auch an,
+Zeithorizont, andere Ziele und corporate social
+responsibility zu diskutieren: soziale Verantwortung des Unternehmens. Das ändert
+eine gegebene FOC nicht, solange die Aufgabe kein anderes Ziel nennt.
+FOC p=MC(q). Das Angebot ist der relevante steigende Teil von MC oberhalb
+der Stilllegungsschwelle, im Vergleich mit q=0.
+Beispiel L6 C=10+q^2, p12: MC2q ->q6; R72, C46, pi26.
+Für jedes zulässige p: q=p/2; bei p0, q0.
+Minimum der ATC in diesem Beispiel: q=sqrt(10), Preis=2sqrt(10)≈6.325.
+pi=(p-ATC)*q. PS=pq-VC=pi+FC; PS ist nicht unbedingt der Gewinn.
+
+6.6 Produzieren oder stilllegen?
+Kurzfristig, unvermeidbare FC: produzieren, wenn die beste Menge
+R>=VC ergibt, also p>=AVC(q*); sonst q=0 und Verlust=-FC.
+Die übliche Schwelle ist min AVC, unter üblichen Annahmen.
+Bei AVC<p<ATC kann Produktion mit Verlust den Verlust minimieren: ein Teil der FC
+wird gedeckt. Bei R=VC genau indifferent zwischen Produzieren und Stilllegen.
+Langfristig: nur bleiben/eintreten, wenn der ökonomische Gewinn >=0 ist,
+also p>=ATC auf dem optimalen Niveau. Sonst Austritt, sobald möglich.
+L6 T-Shirts: MC5 bis q10, dann MC15, p10 ->q10. FC25 ergibt pi25;
+FC40 ergibt pi10. Die Änderung der FC ändert die innere Menge nicht.
+
+6.7 Marktangebot, Eintritt und Opportunitätskosten
+Individuelle Angebote horizontal addieren, ohne
+negative Mengen. L6 q1=p-2, q2=p-4:
+QS=0 für p<2; p-2 für 2<=p<4; 2p-6 für p>=4.
+Nachfrageanstieg: Preis/Gewinne steigen kurzfristig -> Eintritt -> Markt-
+angebot nach rechts -> Preis/Gewinn sinken bis zum ökonomischen Nullgewinn.
+Bei identischen, replizierbaren Firmen mit konstanten Kosten gilt p_LR=min ATC,
+q pro Firma kehrt zum effizienten Niveau zurück, Marktmenge und Anzahl der
+Firmen steigen. Dieses Ergebnis beschreibt nicht jede Branche.
+Auf Branchenebene knapper Input -> LR-Angebot kann steigen; Lernen
+oder externe Skaleneffekte -> es kann sinken.
+
+Buchhalterische Kosten: explizite Ausgaben. Ökonomische Kosten: schließen den Wert
+der besten entgangenen Alternative ein, ohne Doppelzählung.
+Naomi L6: Material 30 000 + Lieferung 10 000 ->buchhalterisch 40 000;
+alternatives Gehalt 50 000 ->ökonomisch 90 000.
+Ökonomischer Nullgewinn bedeutet weder Nullgehalt noch fehlendes Einkommen:
+die Faktoren erhalten bereits ihre Opportunitätsvergütung.
+Ökonomische Rente: Einkommen aus einer knappen Ressource über ihre relevante
+alternative Verwendung hinaus; nicht dasselbe wie eine einfache buchhalterische Miete.

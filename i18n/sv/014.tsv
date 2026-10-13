@@ -1,0 +1,221 @@
+pxx0mh9vyw IR: kunden kan också låta bli att köpa
+2e81o9csek6 Kund L värderar Låg till 8 och Hög till 12. Med priserna 8 och 16 får hen 0 på Låg och −4 på Hög. Hen föredrar Låg framför Hög men är också indifferent inför att stå utanför: erbjudandet måste täcka hens utsideoption, inte bara slå det andra erbjudandet.
+1100ve6h67t IR_L: VL(Låg)−TB≥0; IC_L: VL(Låg)−TB≥VL(Hög)−TH. Här IR_L0, IC_L0≥−4, IR_H4≥0 och IC_H4 = 4.
+hlj6pgrl8f IC kan hålla medan alla erbjudanden ger negativ nytta: ingen deltar.
+1d151c5dyc6 I den vanliga menyn kan uttag av hela L:s överskott tvinga säljaren att lämna en informationsränta åt H.
+22tmg936o8y Man måste kontrollera alla fyra villkoren, inte förklara IC_H och IR_L tillräckliga utan att titta på de andra.
+14yn3n4a5h0 Att sätta TB = 9 och TH = 17 skulle lämna L med −1 på Låg: även om Låg är hens bästa kontrakt föredrar hen utsideoptionen 0. H behåller en ränta på 4 i den ursprungliga menyn.
+2c4kmq3yf9p Du är L: ”mindre dåligt än Hög” räcker inte; du kan behålla dina pengar och tacka nej till båda.
+1m6k883pwrd L föredrar Låg(−1) framför Hög(−5), utsideoption 0. Vilket är problemet?
+q0zgjt5ko9 IR: L avböjer alla kontrakt
+1a0y2k4wdrg IC jämför erbjudandena, men deltagande kräver här minst 0.
+rfzla5bg7z Endast IC_H
+121n2iirxww Jämförelsen som visas gäller L och hens vägran att delta.
+1zhl92e00o4 Inget, eftersom Låg är bättre än Hög
+i5coscxgx4 Du glömde utsideoptionen.
+19xi8j6488j Två produkter: summera samma persons värden
+4jwyjd464q Gourmet gillar främst middagen: 100 för middagen, 50 för rummet. Snoozer föredrar relativt sett rummet: 80 och 70. Var och en värderar alltså paketet till 150; paketförsäljning kan minska den spridning i värden som säljaren måste hantera.
+23vm7v8jda6 Pure bundling: bara paketet; mixed bundling: paket och separat försäljning. Jämför vinster med kostnaderna inräknade; intäkterna 300 och 260 förutsätter här MC = FC = 0 för att vara vinster.
+p0zgbry1b6 Separat: middagspris 80 säljer 2 → 160; rumspris 50 säljer 2 → 100.
+12vu3ql94zs Paket för 150 säljer 2 → 300; produktvärdena är i det här fallet negativt korrelerade.
+1p01ba6tiax Höga kostnader eller kunder som bara skulle köpa en tjänst kan ändra det bästa upplägget.
+1vuk9kbvp63 Separat 260; paket 300; vinst 40 vid kostnader på noll. Om båda uppläggen säljer exakt två middagar och två rum tar deras lika kostnader ut varandra; generalisera inte till andra volymer.
+1wy6q9s9ace Du säljer ett paket: summera för varje kund hens middag och hens rum, inte Gourmets middag med Snoozers rum.
+22tyaa9rig0 Snoozer värderar middagen till 80 och rummet till 70: hens WTP för paketet?
+1czfmwqc2sw 80+70 = 150 för samma person.
+o3cgzdvjjq 170 summerar de bästa värdena hos två olika personer.
+21irgd6s7sn Vid kostnader på noll, paketintäkt 300 och separat 260: vinstökning?
+1g81ex1noy0 300−260 = 40, under det uttryckliga antagandet om kostnader på noll.
+ckgiei3ab6 Tvådelad: ta betalt för inträde och för användning
+2aph9l6tf49 Säljaren känner en kund vars varje användning kostar 2 att tillhandahålla. Hen tar 2 per användning så att kunden slutar vid rätt punkt och tar sedan ut en inträdesavgift. Användningspriset skapar incitamentet; avgiften fördelar vinsten utan att ändra marginalbeslutet efter inträdet.
+73l06uzrkh En känd kund, D = 10−q, MC = 2: T(q) = F+pq; p = 2 → q = 8; CS före F = (10−2)×8/2 = 32; F = 32 → vinst 32, produktionens FC 0.
+19c0rie19bg Vid p = MC jämför kunden sin marginella WTP med den verkliga kostnaden för en användning.
+1px1jjdl2me F kan sedan ta deltagandeöverskottet utan att ändra det marginalpriset.
+x8uixydqpm Med flera typer och en gemensam avgift är p = MC inte alltid optimalt: deltagandet ändras.
+24svk2b9hal Total betalning 32+2×8 = 48; kostnad 16; vinst 32. Kunden får värdet 48 och betalar 48: nettonytta 0 med svagt deltagande.
+10ti14a0h61 Du har redan betalat inträdet: för nästa användning är det 2 per användning som räknas, inte den tidigare avgiften.
+1vw59oozg1m D = 10−q, användningspris 2: hur många användningar?
+1y7afe5vuyg Vilket högsta F med en enda känd kund och utsideoption 0?
+c2rcljhpl7 Överskott före avgiften = (10−2)×8/2 = 32.
+iuxro8e08a 48 är det totala värdet; kunden betalar redan 16 för användningen.
+25ta9dv1mf2 50 motsvarar gratis användning, inte p2.
+116ljytfexa Användningspris och abonnemang ger inte samma kvantitet
+28dt5mm1zxp q: konsumerade enheter
+ae6zdxx5q6 Marginell WTP / kostnad / användningspris
+2fyxoo0licn En känd kund: D = 10−q, MC = 2. Enhetligt pris 6 → q = 4; two-part tariff p = 2 → q = 8, F = 32; bara abonnemang p = 0 → q = 10, F = 50. F är en fast betalning från kunden, inte produktionens fasta kostnad.
+179motrv5sp Konsumtionen upphör när den marginella WTP når användningspriset.
+11w7rx9g8r7 MC = 2 / användning p = 2
+102jnzzpn9f Det effektiva användningspriset täcker marginalkostnaden.
+saqoibyc6e Användning p0
+gkbvgcbrjv Ett rent abonnemang gör användningen gratis, inte resurserna.
+1dt5tg7pumb Enhetligt pris
+2cmgogv9w0b Tvådelad
+uizzpa4cjv Bara abonnemang
+d8m6m9y2ut Ett rent abonnemang gör användningen gratis
+jxr947hg96 Säljaren tar bara ut en avgift, utan pris per användning. Väl inne använder kunden tjänsten tills hens marginalvärde når 0. Det kan överstiga den effektiva nivån när varje användning fortsätter att kosta 2 att tillhandahålla.
+1towd792syu Samma kund, bara abonnemang: p_usage 0 → q = 10; F = 50; kostnad 20; vinst 30. Det är inte den tvådelade taxan p = 2, F = 32 som ger vinsten 32.
+7wuov4tqzk Den fasta betalningen är sänkt i beslutet om ytterligare en användning.
+ddf717g9ov Vid q = 9 är värdet 1<kostnaden 2, men kunden betalar 0 på marginalen: hen vill ändå använda.
+155u5recibo F betecknar här abonnemangsintäkten, inte produktionens fasta kostnad; att döpa om symbolerna undviker förväxling.
+1gnu9pi853c F = arean under D upp till q = 10 = 10×10/2 = 50; vinst 50−2×10 = 30. Tvådelad: vinst 32 med bara 8 användningar, alltså mindre slöseri med resurser.
+12ftugabexv Du är på en buffé med fri påfyllning: sista portionen känns gratis för dig, medan leverantören fortfarande betalar för sina resurser.
+1dkxqko79t4 Bara abonnemang F = 50, q = 10, MC = 2, produktionens FC 0: vinst?
+z1neunze8k Abonnemangsintäkten är inte vinsten: användningarna måste betalas.
+21egcinzec5 32 hör till den tvådelade taxan, ett annat kontrakt.
+z6hpkpa8uh En rabatt kan tränga undan en bättre kund
+x5lzujb95w Konserten har 2 000 platser, som redan efterfrågas av 3 000 fans villiga att betala 1 200. Studenter erbjuder 500. Även om det fysiskt kostar nästan ingenting att släppa in en student ersätter hens plats här en plats för ett fan som skulle ha betalat 1 200.
+upkxcifj27 Bindande kapacitet: alternativkostnaden för en plats. E2025: pris 1 200 till de 2 000 fansen → intäkt 2,4 miljoner; att lägga till en kategori för 500 skapar inga platser.
+2fxwbbnkfa6 Den extra platsen finns inte: en kund måste ersätta den andra.
+2dtdbzm4rtf Intäktsbortfallet genom ersättning är 1 200−500 = 700.
+74prn8tke3 Med osålda platser eller svagare efterfrågan från fansen kunde resonemanget ändras: man måste kontrollera begränsningen.
+ge1metd0an Att ersätta 100 fans med 100 studenter kostar 100×700 = 70 000, givet dessa WTP och MC = 0. En rabatt är inte lönsam bara för att den betjänar en identifierbar grupp.
+2djcjijybtb Du sköter biljettförsäljningen: innan du öppnar en taxa, fråga hur många platser som verkligen skulle stå tomma utan den.
+1i971kx8722 En fanplats för 1 200 ersatt av en student för 500: intäktsbortfall?
+6wqbeepszt 1 200−500 = 700 i alternativkostnad.
+26wca2xh6r2 Den fysiska kostnaden 0 suddar inte ut den undanträngda kunden.
+23i4jntate6 Biljett och T-shirt: maximera vinsten tillsammans
+1m607itl8gr En arrangör säljer också T-shirts till besökarna. En billigare biljett kan locka besökare som sedan köper en produkt med marginal. Det bästa biljettpriset beror alltså på vinsterna den skapar på annat håll, inte bara på den isolerade biljettförsäljningen.
+1dwurw30zae Att sänka pc ökar Qc men också kundbasen för T-shirts.
+298hqzcj547 Företaget jämför intäktsbortfallet på biljetter med marginalvinsten på T-shirts.
+2bzjo16yvlg Ett inre resultat måste respektera QT≥0 och efterfrågefunktionernas definitionsmängder.
+1vpddw05nkq pc = 3040/7≈434,29; pT = 1060/7≈151,43; Qc = 3960/7; QT = 1840/7>0. Utan T-shirts pc = 500: komplementet motiverar här en billigare biljett.
+21sud8gowrb Du är arrangör: en kampanj som sänker intäkten per biljett kan förbättra den totala vinsten om den skapar tillräcklig marginal på annat håll.
+2comuvvx97u Varför inte maximera biljettintäkten separat här?
+17st8tbrwy2 Biljettpriset ändrar också T-shirtförsäljningen och marginalen
+b4jol822mn De två efterfrågefunktionerna hänger ihop via antalet besökare.
+11hqy2tmn05 Eftersom alla komplementprodukter måste vara gratis
+1p4itknwqd0 Den rätta avvägningen räknas ut; den är ingen gratisregel.
+78x2xnq8el Eftersom MC för T-shirts är 0
+1wgltmfrod2 Den givna kostnaden är 20; att glömma den skulle ändra FOC.
+ff4ifxd6j9 Före beräkningen: ange vilket kontrakt du analyserar
+7cfzar38cz Säljaren kan känna igen din status, låta dig välja en version eller sälja ett paket. Dessa mekanismer ger varken samma villkor eller samma kvantitet. Du klarar övningen genom att identifiera vad säljaren vet och vad varje kund kan välja innan vinsten optimeras.
+1khfdn5bu7s Checklista: observerbar → tredje graden; dold typ/meny → andra graden; exakta värden → första; paket → bundling; T(q) = F+pq → tvådelad, med p0 vid bara abonnemang.
+1wzgzrhgotw Ordet ”abonnemang” anger inte automatiskt användningspriset.
+23o0sni6600 Ett kontrakt måste väljas och accepteras av kunderna innan dess intäkt kan realiseras.
+134amc5zim7 Slutsatser om vinst och välfärd kräver att kostnader, kapacitet och utsideoption anges uttryckligen.
+hqkgclwyct E2023 abonnemang D = 10−2q, C = 10+2q: användning 0, q = 5, F = 25, vinst 5. Med tvådelad p = 2, q = 4, F = 16, vinst 6: att blanda ihop uppläggen ändrar svaret.
+9bwus97n1m Du får en ny uppgift: skriv först ”vad betalar kunden för att komma in, och sedan för ytterligare en användning?”
+m4les6f7ls Bygg upp en taxeanalys.
+1yje88piyd Identifiera vad säljaren vet och vilka kontrakt som är möjliga
+ax34utcqel Räkna ut varje typs värden och nettonyttor
+5wrte52uoh Kontrollera deltagande, incitament, arbitrage och kapacitet
+1bfku9y4tbw Räkna ut kvantiteter, intäkter och kostnader
+1jd7h1vjn3s Jämför vinster, sedan effekter på överskott
+kz7azyzj05 Identifiera vad säljaren vet och vilka kontrakt som är möjliga → Räkna ut varje typs värden och nettonyttor → Kontrollera deltagande, incitament, arbitrage och kapacitet → Räkna ut kvantiteter, intäkter och kostnader → Jämför vinster, sedan effekter på överskott
+241jrcnsjtd Ett gemensamt pris lämnar överskott åt kunder med hög WTP och kan utesluta andra kunder.
+2z2p2wh0cm En observerbar typ tillåter grupper; en dold typ kräver en meny eller någon annan form av självselektion.
+j9qu9ah14r Hen väljer sitt bästa erbjudande och kan också tacka nej: IC och IR begränsar uttaget.
+1ai6yk02ygh Ett annonserat pris ger ingenting om kunden byter kontrakt eller inte deltar.
+2cxwpjlu5vg Fler intäkter eller fler kategorier garanterar ingen nettovinst.
+1rmnvk7s3nr En vinstökning kan vara en överföring eller åtfölja en mindre effektiv allokering.
+2eq5wg2g8ec Ett observerbart studentpris hör till tredje graden; en meny för dolda typer hör till självselektion av andra graden. H kan få 12−8 = 4 på Låg. För att hen ska välja Hög måste 20−TH nå minst 4, alltså TH≤16: att begära 20 bryter mot IC_H. IR kontrollerar också att var och en hellre deltar än tar utsideoptionen. Ett rent abonnemang sätter användningspriset till 0; en tvådelad taxa skiljer avgiften och detta användningspris åt.
+z7i4azlnz3 Säljaren vill ta ut olika värden.
+rhk63thxdv Den tillgängliga informationen avgör mekanismen.
+fw9o114v6n Varje kund jämför alla sina nettonyttor.
+1ffd6xeaeqo Den realiserbara intäkten beror på de faktiska valen.
+cc2e71sh9q Kostnader, arbitrage och kapacitet avgör vinsten.
+9uvh8kh07u Välfärden räknas separat.
+1t80ybvbcki Förklara skillnaden mellan ett observerbart studentpris och en meny Låg/Hög. Med VH(Låg)12, VH(Hög)20, TB = 8, TH = 16, varför kan man inte begära TH = 20? Skilj också på bara abonnemang och tvådelad taxa.
+1utzsda4v98 Observerbar eller dold
+1q02zzlszxd Tredje graden klassar en känd grupp; andra graden låter den dolda typen välja ur en meny.
+2desm0z7n7m Jämföra kontrakten
+1w2as1mzluy H vinner 4 på Låg; TH = 20 skulle lämna hen 0 på Hög, så hen skulle välja Låg.
+1qxkw2ksaqz Kunna tacka nej
+k82ocu42om Deltagande kräver minst utsideoptionens värde.
+28yl00xx4qq Separat användningspris
+2g4o7hfgdnw Bara abonnemang: användning till 0; tvådelad lägger till ett användningspris som kan vara MC för en känd kund.
+22h7kchhj2z IC jämför erbjudandena med varandra; IR jämför det bästa erbjudandet med att avstå från att delta.
+1w95akji2zz Avgiften är en intäkt för säljaren; produktionens fasta kostnad är en separat utgift.
+14s1kg2lki7 Val av taxa för en känd kund
+5y1p56n5l2 Konstruerad övning, inspirerad av L9 och E2023 Q2c; ingen officiell lösning. En enda känd kund, fasta produktionskostnader på noll och svagt deltagande antas.
+1dt6khmb4t1 Användning p = MC = 4 → q = 8; F = (12−4)×8/2 = 32; användningsintäkterna täcker den rörliga kostnaden, så π = 32.
+d5u1n8o6bv Användning p = 0 → q = 12; F = 12×12/2 = 72; kostnad 4×12 = 48; π = 24.
+1ps76h69nnt Identifiera det marginella användningspriset i varje kontrakt.
+g5q7i560mt Bestämma kundens konsumtion, sedan det överskott som begränsar den fasta betalningen.
+2cxchgudz38 Dra av de verkliga kostnaderna för att jämföra vinsterna.
+1qsa1hhocyk Tvådelad: p = 4, q = 8, F = 32; betalning 64, kostnad 32, π = 32.
+1cyeff141an Bara abonnemang: p_usage 0, q = 12, F = 72; kostnad 48, π = 24.
+s0qw77qwe9 Rita D = 12−q och MC = 4.
+1xpyc3t3a37 Den effektiva konsumtionen är q = 8; gratis användning leder till q = 12, där enheterna 8–12 har WTP<MC.
+rqr8qxa26y Den tvådelade avgiften 32 är triangeln mellan D och p = 4 över 0–8.
+19j2vi4qwt2 En studentgrupp som identifieras vid försäljningen hör snarare till…
+1rj4trws9kz Statusen är observerbar; ingen självselektion via kontrakt krävs.
+13kmqk4yn5b Andra graden gäller en dold typ som sorterar sig själv genom sitt val.
+1j9zby9y5gv Statusen avslöjar inte den exakta WTP för varje enhet.
+jix9lmwi1o IR kontrollerar…
+2cgultslccj Att en kund accepterar i stället för utsideoptionen
+atgo5im0hj Deltagande och incitament besvarar två olika jämförelser.
+1b1j7862s24 Att hen föredrar sitt kontrakt framför det andra
+pe5gno6q9r Det är IC.
+13ehuiccnxs Att säljaren sätter MR = 0
+1xpbasp1ymj IR gäller kundens val att delta.
+245q136yph4 Varför kan H välja versionen Låg?
+1i3jll2aw33 Hens prisbesparing överstiger hens värdeförlust
+dsj1ntciws Hen maximerar sin egen nettonytta, inte etiketten i menyn.
+1ppe69h6xlt Eftersom IC automatiskt är uppfyllt
+10i014kevvg Just därför måste IC_H kontrolleras.
+1bh53ekwtme Eftersom H måste ha samma smak som L
+7s38w2lrky Varje typ jämför kontrakten med sina egna värden.
+236lcyq8rwb Bygg upp den möjliga överkonsumtionen vid rent abonnemang.
+2b0l2g3wqgl Kunden betalar en fast avgift
+1jbch94pe4u Priset för ytterligare en användning är 0
+1cnj0by6jh1 Hen konsumerar tills marginell WTP är 0
+23myyv8eqem Om MC>0 kostar vissa enheter mer än de är värda
+140zy6ebbe5 Kunden betalar en fast avgift → Priset för ytterligare en användning är 0 → Hen konsumerar tills marginell WTP är 0 → Om MC>0 kostar vissa enheter mer än de är värda
+vseylkljfd Bygg upp en tvådelad taxa.
+27t9vr62rr8 En avgift plus en betalning per användning.
+y1n9hkqwz2 H värderar Låg till 10, Hög till 18; Låg kostar 6. Högsta pris för Hög med svagt IC_H?
+1ga9wreyree H behåller 10−6 = 4 på Låg; 18−TH≥4 → TH≤14.
+f02xbrh0l8 18 uppfyller IR_H men bryter mot IC_H eftersom Låg lämnar 4.
+1523lok4ock D = 10−2q, C = 10+2q; bara abonnemang med användning till 0: vinst?
+jo7erlbhj9 q = 5, F = 25, kostnad 10+2×5 = 20, vinst 5.
+1vzdr9ifwou 6 är resultatet med ett användningspris på 2 och en avgift på 16, ett annat kontrakt.
+pon5hsl6yh En plats kan redan säljas för 1 200. Skapar en försäljning för 500 vid fysisk MC 0 en vinst på 700?
+1lr0402ro1z Nej: den offrar 700 i intäkt vid fast kapacitet
+11eqv5iizte Alternativkostnaden för den undanträngda kunden räknas.
+1u7b2ltgozr Ja, eftersom MC = 0
+230gevy1y9o Platsen är knapp även utan extra fysisk kostnad.
+138l5x04y6x Ja, varje rabatt ökar vinsten
+1anlz6b6gv3 Begränsningarna och det kontrafaktiska scenariot avgör.
+1veeigoytft Another customer displaced
+nans3fdvy9 Opportunity cost
+1p9jezecycv Jag känner igen information, grad och möjlighet till arbitrage.
+283fu8ng04e Prismekanismen beror på vad säljaren vet och kan förhindra.
+15kpb8apt83 Jag räknar ut valen och kontrollerar varje typs IC och IR.
+2deunj1fk8u En annonserad intäkt är orealiserbar om kunden avviker eller tackar nej.
+1ob6k8m6lgf Jag skiljer på rent abonnemang och användningspris plus avgift.
+v82gtankb7 De ger olika marginella incitament och kvantiteter om MC>0.
+1ybnwsv3xcc Jag jämför vinster med kostnader och kapacitet, sedan välfärden separat.
+libfvgcavd Fler intäkter, en ny kategori eller ett identiskt totalt Q garanterar ingen effektivitetsvinst.
+1akf0izgihp Oligopol — förutse den andres val
+g2um5wbz1h Cournot, Stackelberg och Bertrand
+1x2js5359tt Ett företag beslutar inte längre ensamt. Dess val ändrar vad konkurrenten gör. Kvantitet, pris, simultant eller sekventiellt: spelet måste väljas före formlerna.
+d4j07xw7ct Väljer sina köp efter pris och substitut.
+uu39eu0yfm Få tjänsten till bästa valuta för pengarna.
+1eweiy62fr7 Företag 1
+1x29jd46963 Väljer sin strategi med hänsyn till konkurrenten.
+1fpemg7w5t2 Maximera sin egen vinst.
+1f8vitccw3o Företag 2
+xl0zi96ghn Reagerar på de villkor som företag 1 skapar.
+ctulu70sfe Också maximera sin egen vinst.
+ppdlfraqvq Jämför utfallen av konkurrensreglerna.
+1trrcim8fwn Räkna verklig produktion, priser och kostnader.
+fgfib05xsm Vad väljer varje företag, och när?
+1a8s2t9thae Två säljare kan konkurrera genom att annonsera volymer eller priser. Den ena kan också besluta först medan den andra observerar och reagerar. Dessa regler ändrar det bästa valet: bara orden ”två företag” ger ännu ingen modell.
+2e754czxng0 Cournot: simultana kvantiteter. Bertrand: simultana priser, homogena eller differentierade produkter måste anges. Stackelberg: sekventiella kvantiteter i den vanliga versionen.
+vk4194f6hy En konkurrents kvantitet som tas som given spelar inte samma roll som en konkurrents pris.
+20jxqxlz7f9 Att observera ett första val gör det möjligt att villkora det andra; den som beslutar först förutser detta.
+1qbtn4iuz8x Homogenitet och kapacitet avgör om en liten prissänkning kan locka hela marknaden.
+188r55agsdh Två kopparproducenter som väljer q1 och q2 samma dag: Cournot. Två kaféer som väljer sina priser: differentierad Bertrand om kunderna skiljer på deras produkter.
+41kbod2a7r Du läser uppgiften: stryk under ”quantity”, ”price”, ”first”, ”observes” innan du tar fram en reaktionsfunktion.
+2235r09c2ms Två kvantiteter som väljs samtidigt för en homogen vara: vilket spel?
+1vk2x2gin1l Cournot
+y5a0e9ydfb Den strategiska variabeln är kvantiteten och valet är simultant.
+4sihk9drwo Bertrand, eftersom det finns två företag
+1uaczslf83h Antalet räcker inte; Bertrand handlar om priser.
+127k79g2ecs Stackelberg, eftersom företag 1 nämns först
+2b16wkfkak3 Det krävs ett verkligt sekventiellt åtagande, inte namnens ordning.
+1qydpwbry6i Nash: var och en svarar på det val den andra faktiskt gjort
+1hq359cz2v7 Företag 1 tittar på företag 2:s volym och väljer den volym som ger det mest. Företag 2 resonerar likadant. Man söker ett par där inget av dem vill ändra sig på egen hand, med konkurrentens val fast.
+ldk0vycpzu Nash: ingen lönsam ensidig avvikelse. Skärningspunkten mellan de bästa svaren är en jämvikt; det betyder inte maximal gemensam vinst.
+hml4cpoq2u Ett bästa svar är betingat av konkurrentens val.

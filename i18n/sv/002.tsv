@@ -1,0 +1,202 @@
+1zp2z6mwea8 Efterfrågan mäter [[MPB]]: betalningsviljan (WTP) för den marginella enheten. I A6: {{MPB = 100 − 3Q}}.
+21v92yd46gy Du → alla köpare
+zbnyhltbdg Du kan tänka dig EN köpare (dig). På marknaden ställer kurvan {{MPB = 100 − 3Q}} upp alla köpare från den mest entusiastiska till den minst entusiastiska: punkten Q ger värdet av den Q:te panelen för den som köper den.
+qz2xifuv10 Kurvan lutar nedåt eftersom varje extra panel tjänar en mindre viktig användning än den förra (avtagande marginalnytta, §4.1).
+jdpuzd2zog Vi resonerar ”på marginalen” eftersom ditt beslut fattas enhet för enhet: köpa den 11:e panelen eller inte. Det som räknas är vad DEN HÄR panelen tillför (§2.1).
+2byyf7bcxvx Det här är efterfrågan: om priset är p köper du så länge nästa panel är värd minst p för dig. Vid varje pris är den köpta kvantiteten där MPB = p. MPB-kurvan ÄR efterfrågan, i invers form (§2.4).
+tk0kfll554 Din 1:a panel driver kylskåpet och belysningen (mycket nyttigt). Den 8:e värmer poolen (trevligt, mindre livsviktigt). Den 30:e ger ett överskott som säljs vidare för nästan ingenting.
+1tgrt9yd05x Säljaren erbjuder dig en panel till för 70 €. Du frågar dig: ”ger DEN HÄR panelen mig minst 70 €?” Om ja köper du den. Det är allt du tittar på.
+1asbrx9bpgt Den blå MPB-kurvan: dess höjd vid Q = vad den Q:te panelen är värd för köparen. Flytta reglaget: vid Q = 10 är den 70.
+gxjnsi8q1m ser MPB: sitt värde av nästa panel
+1u1qpauj7ys Med {{MPB = 100 − 3Q}}, hur mycket är den 10:e panelen värd för köparen?
+3k3xkhs1zu Ersätt Q med 10 — eller ställ grafens reglage på Q = 10.
+2bvluyfg64j 100 är värdet av den allra första panelen (Q = 0). Den 10:e är värd mindre.
+14zzck7msr5 Vad betyder ”marginell” i [[MPB]]?
+r5eg3skex2 Den totala nyttan av alla köpta paneler
+vd20n25co0 Det är en summa (ytan under kurvan). Marginell = en enhet till.
+1gt10nnvpjg Nyttan av NÄSTA panel, bara en
+1uyt58zus0l Precis: marginell = effekten av en extra enhet.
+pq3p8b5g2s En liten, nästan försumbar nytta
+bbfwx6c0h Nej: i ekonomi betyder ”marginell” inte ”liten”. Det betyder ”för en enhet till”.
+1m065c912n5 definition av MPB
+avhajgsj4v Vad tittar producenten på?
+22b9tplkjgr MPC(18), kostnaden för den 18:e panelen
+9aybpj647k Tillverkaren ställer den spegelvända frågan: ”hur mycket kostar EN panel till mig?” De första kommer från de effektivaste maskinerna; för att göra fler krävs övertid och dyrare material. Kostnaden för nästa panel stiger.
+14rcw142akq Under konkurrens är utbudet [[MPC]]-kurvan: företaget producerar så länge p ≥ MC (§6.5). I A6: {{MPC = 10 + 2Q}}.
+5jcbep17y6 Kurvan lutar uppåt: att producera mer tvingar fram allt dyrare resurser, så kostnaden för NÄSTA enhet stiger (§6.4).
+25g2u8o5cxy Det här är utbudet: ett pristagande företag producerar så länge priset täcker kostnaden för nästa panel, och slutar där p = MC (§6.5). Vid varje pris avläses den utbjudna kvantiteten på MPC.
+8lnk55kvx3 ”Privat” eftersom det är kostnaden som PRODUCENTEN betalar. Om fabriken lade en kostnad på andra (buller, rök) skulle den inte ingå. Här antar vi att det inte finns någon.
+llcha11j0q De 10 första panelerna kommer från huvudlinjen; från den 15:e måste verkstaden öppna på lördagar, med OB-tillägg.
+1xfgnvybrx7 Du är tillverkaren. En kund vill ha en panel till. Du räknar: material + timmar för DEN HÄR panelen = 46 €. Under 46 € förlorar du pengar på just den panelen.
+kpp8odmnyr Den orange MPC-kurvan: dess höjd vid Q = vad den Q:te panelen kostar tillverkaren.
+9givru2s4h ser MPC: sin kostnad för nästa panel
+9wmajq5hi0 Med {{MPC = 10 + 2Q}}, hur mycket kostar tillverkningen av den 18:e panelen?
+x70syvacwj Ersätt Q med 18.
+bcg6ikgsk9 Var tar handeln slut?
+33g72ioid7 Qm, där handeln tar slut
+27nob5dxz5z Så länge en panel är värd mer för köparen än den kostar tillverkaren finns det ett pris som passar båda: den säljs. Vid den 18:e panelen är värde = kostnad = 46 €. Den 19:e är värd 43 € för köparen men kostar 48 € att tillverka: inget pris passar båda. Handeln slutar vid 18.
+289a0v5ft7l Marknadsjämvikt (market equilibrium): {{MPB = MPC}} ⇒ [[Qm]] = 18, p = 46. Bortom den gäller MPB < MPC.
+1jk1mof20ae Vilken likhet beskriver den här stopp-punkten?
+1iz68y5by0h Ja: värdet av den sista panelen för köparen = dess kostnad för tillverkaren.
+28kotueg2xj Det är där köparen inte skulle vilja ha något mer ens gratis. Kostnaden spelar också roll.
+15bv8scpjl5 Kostnaden är aldrig noll här. Jämför värde och kostnad.
+ct9aijk21p Vi adderar inte: vi jämför vad den ena vinner med vad den andra lägger ut.
+1c35ie4z8ld Så länge MPB > MPC låter ett pris däremellan (t.ex. 45 för en panel värd 50 som kostar 40) BÅDA vinna. Ömsesidigt fördelaktiga affärer blir av.
+i1nd8dch8w Vid den 19:e: 43 < 48. För att tillverkaren ska gå med på det krävs ett pris ≥ 48; för att köparen ska gå med, ett pris ≤ 43. Inget pris tillfredsställer båda.
+1vgb3mjjnye Vid p = 46 är den kvantitet köparna vill ha (18) lika med den säljarna vill sälja (18): ingen tjänar på att ändra sig. Det är jämvikten (§3, F01).
+ptaal04a5z På lördagsmarknaden är varje såld panel ett handslag. Den 19:e: säljaren säger ”minst 48”, köparen ”högst 43”. Inget handslag.
+1c9ctr5htzr Du har 18 paneler. Säljaren erbjuder dig den 19:e för 48 €. Den skulle bara ge dig 43 €. Du tackar nej — och du har rätt, ur DITT perspektiv.
+1k3tjck9k40 Qm = 18 är skärningen mellan MPB och MPC. Reglaget står på Q = 19: titta, MPB (43) ligger under MPC (48).
+17cd0np17r Varför producerar marknaden inga fler paneler efter Q = 18?
+1sky7d5a3rp Tillverkaren har slut i lager
+118pghqavyq Inget hindrar den från att producera: den skulle kunna — men till en kostnad som ingen vill betala.
+kaedy3ytnj Nästa panel kostar mer att producera än den är värd för köparen
+23i7m3zp5ml Ja: MPB < MPC. Inget pris passar båda.
+1z943e488kq Staten förbjuder det
+1mc55g8gj1y Det finns inget ingrepp i det här skedet.
+v9yxn83gqf Grannarna vill inte ha fler paneler
+8nmod5nnjb Grannarna har ingen röst i transaktionen — det är precis det problem vi snart upptäcker.
+17a39qhbq3k Ställ reglaget i grafen exakt där den sista affären sker, och bekräfta.
+d1vpans1q4 Qm = 18: skärningen mellan MPB (blå) och MPC (orange).
+18xtqvqhkek Qpriv 18, p 46
+cbxs65prfz privat jämvikt MPB = MPC
+28cu6jdt517 Och de som står utanför transaktionen?
+h5ptw6xe82 Varje installerad panel ersätter lite el från gas eller kol: lite mindre föroreningar i luften som dina grannar andas. I övning A6 ger varje extra panel dem motsvarande 20 €. De har inte betalat något och ingen frågar vad de tycker.
+1k0quuxvvmi Tredje part får en nytta per enhet som inte kompenseras och inte syns i priserna.
+27ey6jojp02 Du räknar inte med de här 20 € eftersom ditt beslut jämför vad DU vinner med vad DU betalar. De 20 € går inte genom någons ficka i transaktionen.
+1twes0ww1wm Ingen får dem att betala: man skulle behöva identifiera varje granne, mäta hens vinst och få hen att betala sin andel. I praktiken hindrar transaktionskostnaderna det (§11.6).
+36ratsr9jv Det saknas alltså information i priset: marknadspriset speglar värdet för köparen och säljarens kostnad — inget annat.
+u7ro9cqlay Vaccination (E2020 Q3): att vaccinera dig skyddar dig, men minskar också risken att du smittar andra. Du får ingenting för att du skyddar andra.
+25i27iduxuo Ingen granne kommer någonsin att ringa på din dörr för att ge dig 20 € per panel. Så i ditt huvud finns de här 20 € inte.
+1xaegzfiriq Inget rör sig ännu i grafen: grannarnas 20 € syns inte på någon marknadskurva. Det är kärnan i problemet.
+12id7slwvm4 vinner utan att bestämma något
+6l6gscks7p När du bestämmer dig för att köpa din 19:e panel, räknar du med dina grannars 20 €?
+260kmkc11c2 Ja, eftersom jag får dem
+25dkue04gq2 Du får dem inte: de går till grannarna.
+2b5crytr24s Nej: de 20 € går till grannarna, de ingår inte i min kalkyl
+cdrkfpkgaf Precis. Ditt privata beslut bortser från den nyttan.
+23gady27nqm Ja, eftersom säljaren betalar tillbaka dem till mig
+1z0b0wdn0v1 Inte heller säljaren vinner något på de 20 €: ingen betalar dem.
+1dh3xqz2o5x mekanismen undvikna föroreningar
+1yfgeb9mrg2 Vad heter den här effekten?
+1tgna2kjwu9 En effekt på tredje part som inte beaktas i transaktionen kallas en **externalitet** (externality). När effekten är bra för tredje part är det en **positiv externalitet**. En fabriks föroreningar skulle vara en negativ externalitet.
+1vuf5a1dch3 Externality: en effekt på tredje part som inte beaktas i transaktionen (§11.1). Positiv: vaccination, forskning, nätverk. Negativ: föroreningar, buller.
+27ps17dwkn1 ”Extern” eftersom effekten lämnar cirkeln köpare–säljare: den når någon utanför.
+16v07gqmihw En effekt som går VIA ett pris är ingen externalitet: om mjölkpriset stiger och gör ditt kaffe dyrare betalar du och någon tar emot. En externalitet är just en effekt som INTE har något pris.
+29ffz7ty3ik Det spelar roll eftersom marknaden bara summerar det som har ett pris. Det som saknar pris ignoreras i beslutet — därav en kvantitet som kan vara dålig för samhället.
+xejvsd5ang Positiva: vaccination, spridd forskning, bikupor bredvid en fruktodling. Negativa: föroreningar, buller (E2025 Q1c), kolkraftverk (E2021 Q1c).
+1kopch8p8x4 Din handling (att köpa paneler) får en följd (renare luft) för människor som inte är med i din transaktion. Det är allt — det är en externalitet.
+hf2slb3l0x Fortfarande inget nytt i grafen: att ge effekten ett namn för inte in den i priserna.
+kb30k5umnz Vilket av dessa fall är en POSITIV externalitet?
+f462ani0md En fabrik släpper ut rök i floden
+2gj8jvd9km5 Det är en externalitet, men en negativ: en skada för tredje part.
+1ps62ejk4vc En forskare publicerar en upptäckt som andra företag använder gratis
+1m22t4ygb25 Ja: en nytta för tredje part, utan betalning.
+1zhzkcj5hf8 Ditt kaffe kostar mer eftersom mjölkpriset har stigit
+113ot27w8eh Den här effekten går via ett pris (någon får betalt): det är ingen externalitet.
+2e6r2tj2btp Tillverkaren sänker sina priser
+1vj6y8zqoux En prisändring är ingen extern effekt.
+sif2byafeo definition och exempel
+qk4v7ufqcy Hur mycket är den här effekten värd, panel för panel?
+ky66z67j3r MPB(18) + MEB, samhälleligt värde av den 18:e
+13vs9x5fz3s Vi mäter externaliteten som allt annat: för EN panel till. Den nytta som en extra panel skapar för andra kallas [[MEB]]. Här ger varje extra panel grannarna 20 €, oavsett hur många som redan är installerade.
+23d7zrmc5di [[MEB]] = 20, konstant: varje extra enhet ger tredje part en nytta på 20. Den TOTALA externa nyttan av Q enheter är ytan under MEB (20Q).
+1dllfxsmihv Vi mäter ”per panel” eftersom alla beslut fattas på marginalen. Externaliteten måste ha samma enhet (€ per panel) för att kunna adderas till de andra värdena.
+112kaf750g0 Konstant här enligt antagandet i övning A6: varje panel ersätter samma mängd föroreningar. Det är ingen lag — MEB kan bero på Q (sista blocket).
+2b66na2hcx2 MEB är ett MARGINELLT värde, inte en summa: den TOTALA externa nyttan av 18 paneler är 18 × 20 = 360, ytan under MEB (§11.1).
+1055ecdzc0o Om varje panel undvek 0,1 ton CO₂ värderat till 200 € per ton skulle vi få MEB = 20 € per panel (illustrativa siffror).
+6stqd0bm3h Varje gång du skruvar fast en panel, föreställ dig 20 € som ramlar ner i dina grannars (osynliga) ficka — inte i din.
+1ft9w5rd5dj Den lila linjen MEB = 20: det är ingen marknadskurva (ingen köper den). Det är värdet för tredje part av varje extra panel.
+fv6i6jikup får MEB = 20 €
+1jrhlxbx5jn Vid den 18:e panelen, hur mycket vinner HELA samhället (du + dina grannar) på den här panelen?
+11j42fgi5pn Din andel: MPB(18). Grannarnas andel: MEB.
+1tx6m7eki80 MPB(18) + MEB = 46 + 20 = 66 €. Du har just räknat ut en punkt på den kommande MSB-kurvan.
+1bhxbruv27p 20 är bara grannarnas andel (MEB). Lägg till din.
+6urlf6e4z8 46 är bara din andel (MPB(18)). Och grannarna?
+25yxw4403rc Ett värde för grannarna LÄGGS TILL ditt: det dras inte av.
+mtak1w7a9n marginellt vs totalt
+qpl2a4lfof Hur mycket är en panel värd för samhället?
+19o8lgjurx1 Du har just räknat ut det för den 18:e panelen: 46 för dig + 20 för grannarna = 66 för samhället. Gör det för varje Q: du får en ny kurva, 20 ovanför MPB.
+1oxqa24dbtl {{MSB = MPB + MEB = 120 − 3Q}} (A6). MSB > MPB eftersom MEB > 0.
+260cyufesqf Värdet av en extra panel för hela samhället är…
+1s78wrmxgr Grannarnas nytta är en vinst, ingen förlust: den läggs till.
+ce60jsf35s Ja: värdet för köparen + värdet för tredje part.
+291bbtyvkyn Vi adderar € per panel; att multiplicera är meningslöst här.
+22trvffrzl5 Bara MEB
+2dz63m9532f Du glömmer köparen: hen är en del av samhället.
+ufiy6btz44 Du har byggt MSB utifrån aktörerna: det är kursens formel (§11.1, F34).
+3thd9g08su MSB är INTE regeringens pengar
+1i2xgzo6fnk Ingen ”betalar ut” MSB. Det är ett mått på VÄRDE: vad panelen är värd för alla tillsammans. Staten kan senare lägga ut pengar (en subvention), men MSB finns även om den inte gör något.
+1c0gm6awwxu Vi adderar eftersom samhället är alla. Om en panel är värd 46 för en person och 20 för de andra är den värd 66 för alla tillsammans: olika personers värden för SAMMA enhet adderas.
+25eyrf7rd4t Vi adderar vertikalt, vid samma Q, eftersom det är SAMMA panel som gynnar köparen och grannarna — precis som för en kollektiv vara (§11.8).
+o753nfz3g5 MSB ligger ovanför MPB eftersom MEB > 0: varje enhet har ett värde utöver det köparen ser.
+1pufsbbejvz Vacciner (E2020 Q3): efterfrågan 100 − Q och MEB = 20 ger MSB = 120 − Q.
+rcjctdgeqn Om du kunde kassera in dina grannars 20 € för varje panel skulle ditt värde av en panel inte längre vara MPB utan MPB + 20 = MSB. MSB är ”du, om du också fick de andras vinst”.
+1zhvp42ai1g Den gröna MSB-kurvan ligger exakt 20 ovanför MPB vid varje Q: den lila pilen vid reglaget visar dessa +20.
+2bdalwb6lz4 ser MSB = MPB + MEB
+pfxllk8auc [[MSB]] står för…
+1gvnu5qv7me De pengar staten lägger ut för varje panel
+9m753lfbc2 Det är DEN klassiska förväxlingen. MSB är ett värde, inte ett penningflöde: det finns även om staten inte gör något.
+2cm8y3lx39f Värdet av en extra panel för köparen och tredje part tillsammans
+1gnosrppyyi Precis.
+d53c8j9r57 Priset som köparen betalar
+18q7te1731s Det betalda priset avläses på MPB (efterfrågan) vid den omsatta kvantiteten.
+1zi4gr4vqvi Bara grannarnas nytta
+1ergp5lpqlr Det är MEB. MSB lägger till värdet för köparen.
+uahscltpeg Och kostnaden för samhället?
+24mesv3qr5v MEC i A6
+288vcmqde0u Samma fråga på kostnadssidan: kostar panelen något för någon annan än tillverkaren? I den här övningen inte. Kostnaden för samhället av en panel till är alltså helt enkelt dess tillverkningskostnad.
+12u7k2a3yit {{MSC = MPC + MEC}}; här är [[MEC]] = 0, alltså {{MSC = MPC = 10 + 2Q}}.
+w8ra224dca Kostnaden för samhället av en panel till = kostnaden för producenten + … ?
+1cz232mb1fs + kostnaden som läggs på tredje part (MEC)
+18leyrqqifa Ja. Här är den externa kostnaden noll.
+104verskny0 + tredje parts nytta (MEB)
+112l5o2esnx En nytta är ingen kostnad: MEB finns redan i MSB.
+eroo7z2b2w + subventionen
+2zccg5rp2g En subvention är en överföring av pengar, inte en verklig produktionskostnad.
+1u5xlw6suon Vi ställer frågan eftersom samhällsoptimum jämför ALLA nyttor med ALLA kostnader. Att glömma en extern kostnad skulle överskatta rätt kvantitet.
+2ckmi9cq93f MEC = 0 enligt övningens antagande. I andra övningar (bensin L11/E2023, textilier E2024) är MEC > 0 och MSC ligger ovanför MPC.
+vzcw0lirw7 Om panelfabriken bullrade på natten skulle de närboende drabbas av en kostnad: det skulle vara en MEC. Här antar vi att det inte är så.
+r94tez6k95 Tillverkaren betalar allt som dess panel kostar, och ingen annan betalar något. Så för samhället kostar en panel exakt vad den kostar tillverkaren.
+2d518vwlgiu Ingen ny kurva: MSC sammanfaller med MPC (orange). Bara ”nytto”-sidan har flyttat sig.
+dg04s4skho jämför MSB och MSC
+2frjbohkrao Varför finns det ingen separat MSC-kurva i grafen?
+16gdknsb5sr Eftersom MEC = 0: tillverkningen lägger ingen kostnad på tredje part i den här modellen
+1zlvjradxe Precis: MSC = MPC.
+rudjx1t32d Eftersom staten betalar kostnaderna
+11kq22926ot Det finns inget ingrepp, och offentliga utgifter skulle inte ändra den verkliga kostnaden.
+29povxikgva Eftersom MSC = MSB vid en positiv externalitet
+29lsd5xffy2 Nej: MSB och MSC är två olika kurvor som skär varandra vid Q*.
+1jofnw4a7r0 ingen MEC i A6
+166oz7epvp8 Hur många paneler skulle samhället vilja ha?
+1a0ncy3eyio Q*, samhällsoptimum
+5ikd5esa36 Föreställ dig en välvillig planerare som räknar med alla. Hen lägger till paneler så länge en panel till är värd mer för samhället än den kostar det. Hen slutar när de två är lika.
+2c9x5l600h6 Samhällsoptimum: {{MSB = MSC}} ⇒ 120 − 3Q = 10 + 2Q ⇒ [[Q*]] = 22. Den universella regeln är MSB = MSC (§11.1).
+19jifssrykk Vilken likhet använder planeraren?
+1s8d2y24eeo Det är marknadens regel: den bortser från grannarna.
+qmgsezj99i Ja: samhälleligt värde av den sista panelen = dess samhälleliga kostnad.
+yetyvo543e De här två kurvorna skär aldrig varandra här: de är parallella, med 20 emellan.
+25dakudc0pz Du glömmer värdet för köparen.
+1ppxhe4kijl Före 22 tillför varje panel mer samhälleligt värde än den kostar → att lägga till den ökar välfärden. Efter 22 är det tvärtom → att lägga till den minskar välfärden. Maximum ligger i skärningen.
+r5ksf8bxcv Marknaden klarar det inte själv eftersom ingen i transaktionen får grannarnas 20 €: det privata beslutet jämför MPB med MPC, inte MSB med MSC.
+zhl3vmlymr Det här är den universella regeln: oavsett externalitet (positiv, negativ, i produktion, i konsumtion) är samhällsoptimum MSB = MSC. Det enda som ändras är vilken sida av grafen som flyttar sig (§11.1).
+2563zq4pbs2 E2020 Q3 vacciner: 120 − Q = 10 + Q ⇒ Q* = 55, över marknaden (45).
+11xb6nzyc8g Om du var både köparen OCH alla dina grannar skulle du köpa 22 paneler: du skulle räkna 46 + 20 för den 18:e och fortsätta tills ditt värde + grannarnas = kostnaden.
+wm5pbhecn3 Q* = 22: skärningen mellan MSB (grön) och MPC (orange, = MSC). Qm = 18 ligger kvar där marknaden stannar.
+1p13apgfdhb vill ha Q* = 22
+6nvn750r85 Kontrollera skärningen: vad är MSB(22)? (Det måste vara lika med kostnaden MPC(22).)
+1407n4xpebl MSB(22) = 120 − 66 = 54 = MPC(22) = 10 + 44 = 54 ✓: vid Q* är samhälleligt värde = samhällelig kostnad.
+1i56bgfsnqk 34 = MPB(22): värdet för enbart köparen. Lägg till MEB.
+rjg4lz2w3z Når marknaden Q* = 22 helt utan ingrepp?
+19zjcpzdwzq Ja, en konkurrensmarknad hittar alltid optimum
+9569a75kf7 Bara om efterfrågan = MSB och utbudet = MSC (§7.1). En externalitet bryter det resultatet.
+xyb6hln7h1 Nej: den stannar vid 18, eftersom köparna bara räknar MPB
+1onzjyqxpu Precis: Qm = 18 < Q* = 22.
+1dyu95ef949 Ja, eftersom Q* är jämviktspunkten
+2eoxxgxbjax Q* här = SAMHÄLLSoptimum, inte marknadsjämvikten. Stjärnan betyder inte ”jämvikt” (§18.3).
+21zi18iun4f Qeff 22
+1wcoittihpc optimum MSB = MSC
+13skowmxhhx Panelerna som saknas
+2qr82krenm Saknade enheter mellan Qm och Q*
+xwbdl7ldld Marknaden stannar vid 18. Samhället skulle vilja ha 22. Panelerna mellan 18 och 22 skulle var och en vara värda mer för samhället än de kostar — men de produceras inte, eftersom köparen ensam inte tycker att de lönar sig.
+hgggek4sfg På ]Qm, Q*]: MPB < MPC (ingen privat handel) men MSB > MSC (samhälleligt önskvärd handel).

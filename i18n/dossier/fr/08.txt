@@ -1,0 +1,114 @@
+======================================================================
+6. PRODUCTION, COÛTS ET OFFRE CONCURRENTIELLE — L5–L6
+======================================================================
+
+6.1 Technologie et produits marginaux
+Fonction Q=f(K,L) : quantité obtenue avec capital K et travail L.
+MP_L=partial Q/partial L ; MP_K=partial Q/partial K.
+AP_L=Q/L, produit moyen ; discret MP=Delta Q/Delta L, K fixé.
+L5 p.11 : Q=50 à L=9, 54 à L=10, 56 à L=11.
+Produit du 10e travailleur=4 ; produit moyen à 10=54/10=5.4.
+Rendement marginal décroissant : un input augmente, l'autre reste fixé.
+Exemple L5 : Q=sqrt(KL), MP_L=0.5*sqrt(K/L), MP_K=0.5*sqrt(L/K).
+Complément Cobb-Douglas Q=A*K^alpha*L^beta :
+MP_L=beta*Q/L ; MP_K=alpha*Q/K.
+A capture la productivité globale des facteurs, TFP : plus d'output avec
+les mêmes inputs, ou moins d'inputs pour le même output.
+
+Embauche, output vendu au prix p donné : continuer tant que p*MP_L>w.
+À un optimum intérieur concurrentiel : p*MP_L=w.
+Avec pouvoir de marché sur l'output, remplacer p par MR (complément).
+L5 peste noire : moins de travail relativement à la terre peut augmenter
+le produit marginal du travail et le salaire, technologie donnée.
+
+6.2 Isoquantes, isocoûts et coût minimal
+Isoquante : combinaisons K,L produisant le même Qbar.
+Avec L horizontal, K vertical : pente=-MP_L/MP_K.
+MRTS_LK=MP_L/MP_K : capital pouvant être économisé par unité de L ajoutée.
+Isocoût : C=wL+rK ->K=C/r-(w/r)L, pente=-w/r.
+Minimiser wL+rK sous f(K,L)>=Qbar ; égalité pour technologie usuelle.
+Optimum intérieur : MP_L/MP_K=w/r, soit MP_L/w=MP_K/r.
+Le dernier euro doit créer le même output marginal dans les deux inputs.
+Hausse w : travail relativement plus cher -> combinaison plus intensive
+en capital sur la même isoquante, si substitution possible. Le coût minimal
+ne peut pas baisser lorsque le prix d'un input augmente, autres choses égales.
+Ne pas faire seulement pivoter l'ancien isocoût : chercher aussi le nouvel
+isocoût tangent, généralement plus coûteux, pour le Q imposé.
+
+Exemple complément pour Q=sqrt(KL) : K/L=w/r ; KL=Qbar^2.
+L*=Qbar*sqrt(r/w), K*=Qbar*sqrt(w/r), C*=2*Qbar*sqrt(wr).
+Pour Q=K*L, isoquante K=Qbar/L, différente de sqrt(KL).
+E2025 Q5 : isocoût 1000=50L+100K ->K=10-0.5L ; intercepts 20 et 10.
+La production « bien comportée » ne fournit pas de valeurs numériques
+de L*,K* sans fonction de production plus précise ; l'optimum se dessine.
+
+6.3 Rendements d'échelle et économies d'échelle
+Multiplier TOUS les inputs par t>1 et comparer f(tK,tL) à t*f(K,L).
+Supérieur -> increasing returns to scale ; égal -> constant ; inférieur
+-> decreasing. Cobb-Douglas : comparer alpha+beta à 1.
+Les rendements concernent la TECHNOLOGIE. Les économies d'échelle concernent
+le COÛT MOYEN à long terme : ATC baisse avec Q. Déséconomies : ATC augmente.
+Un produit marginal décroissant d'un facteur n'implique pas des rendements
+d'échelle décroissants : sqrt(KL) a MP décroissants et rendements constants.
+
+6.4 Tableau des coûts
+TC=C(Q)=FC+VC(Q).
+ATC=AC=TC/Q ; AFC=FC/Q ; AVC=VC/Q ; ATC=AFC+AVC.
+MC=dTC/dQ=dVC/dQ, car dérivée de FC constante=0.
+MC discret de la prochaine unité : C(Q+1)-C(Q).
+MC<ATC ->ATC baisse ; MC>ATC ->ATC augmente.
+Au minimum intérieur de ATC : MC=ATC. Même logique pour AVC.
+Coût fixe ne signifie pas automatiquement sunk : vérifier s'il est
+récupérable/évitable dans l'horizon de la décision.
+Court terme : au moins un input fixé. Long terme : tous ajustables,
+sans durée calendaire universelle. Coût long terme <= coût court terme
+à Q donné, car il offre davantage de choix d'inputs.
+
+Exemple L5 C=30+Q^2 à Q=2 : TC34, FC30, VC4, ATC17, AVC2, AFC15,
+MC continu4 ; coût discret de passer de 2 à 3=5.
+Ne pas confondre ces deux sens du coût marginal.
+
+6.5 Profit et offre d'une firme price taker
+pi(q)=p*q-C(q). MR=p car une firme ne change pas le prix de marché.
+La maximisation du profit est l'hypothèse du modèle. L6 p.3 invite aussi
+à discuter horizon temporel, autres objectifs et corporate social
+responsibility : responsabilité sociale de l'entreprise. Cela ne change
+pas une FOC donnée tant qu'aucun autre objectif n'est spécifié dans l'énoncé.
+FOC p=MC(q). L'offre est la partie pertinente de MC croissante au-dessus
+du seuil d'arrêt, avec comparaison à q=0.
+Exemple L6 C=10+q^2, p12 : MC2q ->q6 ; R72, C46, pi26.
+Pour tout p admissible : q=p/2 ; à p0, q0.
+Minimum ATC pour cet exemple : q=sqrt(10), prix=2sqrt(10)≈6.325.
+pi=(p-ATC)*q. PS=pq-VC=pi+FC ; PS n'est pas forcément le profit.
+
+6.6 Produire ou arrêter ?
+Court terme, FC inévitable : produire si la meilleure quantité donne
+R>=VC, soit p>=AVC(q*) ; sinon q=0 et perte=-FC.
+Le seuil standard est min AVC, sous hypothèses usuelles.
+Si AVC<p<ATC, produire à perte peut minimiser la perte : une partie de FC
+est couverte. À égalité R=VC, indifférence entre produire et s'arrêter.
+Long terme : rester/entrer seulement si le profit économique est >=0,
+donc p>=ATC au niveau optimal. Sinon sortie lorsque possible.
+L6 T-shirts : MC5 jusqu'à q10, puis MC15, p10 ->q10. FC25 donne pi25 ;
+FC40 donne pi10. Le changement de FC ne modifie pas la quantité intérieure.
+
+6.7 Offre de marché, entrée et coût d'opportunité
+Additionner horizontalement les offres individuelles, en excluant les
+quantités négatives. L6 q1=p-2, q2=p-4 :
+QS=0 pour p<2 ; p-2 pour 2<=p<4 ; 2p-6 pour p>=4.
+Hausse de demande : prix/profits montent à court terme -> entrée -> offre
+du marché à droite -> baisse du prix/profit jusqu'au profit économique nul.
+Dans le cas de firmes identiques réplicables à coût constant, p_LR=min ATC,
+q par firme revient au niveau efficient, quantité de marché et nombre de
+firmes augmentent. Ce résultat ne décrit pas tous les secteurs.
+Input rare au niveau du secteur -> offre LR peut croître ; apprentissage
+ou économies externes -> elle peut décroître.
+
+Coût comptable : dépenses explicites. Coût économique : inclut la valeur
+de la meilleure alternative sacrifiée, sans double comptage.
+Naomi L6 : fournitures30 000 + livraison10 000 ->comptable40 000 ;
+salaire alternatif50 000 ->économique90 000.
+Profit économique nul n'implique ni salaire nul ni absence de revenu :
+les facteurs reçoivent déjà leur rémunération d'opportunité.
+Rente économique : revenu lié à une ressource rare au-delà de son usage
+alternatif pertinent ; différent du simple loyer comptable.

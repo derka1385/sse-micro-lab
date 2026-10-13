@@ -1,0 +1,114 @@
+======================================================================
+6. PRODUZIONE, COSTI E OFFERTA CONCORRENZIALE — L5–L6
+======================================================================
+
+6.1 Tecnologia e prodotti marginali
+Funzione Q=f(K,L): quantità ottenuta con capitale K e lavoro L.
+MP_L=partial Q/partial L; MP_K=partial Q/partial K.
+AP_L=Q/L, prodotto medio; discreto MP=Delta Q/Delta L, K fisso.
+L5 p.11: Q=50 con L=9, 54 con L=10, 56 con L=11.
+Prodotto del 10° lavoratore=4; prodotto medio a 10=54/10=5.4.
+Rendimento marginale decrescente: un input aumenta, l'altro resta fisso.
+Esempio L5: Q=sqrt(KL), MP_L=0.5*sqrt(K/L), MP_K=0.5*sqrt(L/K).
+Complemento Cobb-Douglas Q=A*K^alpha*L^beta:
+MP_L=beta*Q/L; MP_K=alpha*Q/K.
+A coglie la produttività totale dei fattori, TFP: più output con
+gli stessi input, o meno input per lo stesso output.
+
+Assunzioni, output venduto al prezzo dato p: continuare finché p*MP_L>w.
+In un ottimo interno concorrenziale: p*MP_L=w.
+Con potere di mercato sull'output, sostituire p con MR (complemento).
+L5 peste nera: meno lavoro rispetto alla terra può aumentare
+il prodotto marginale del lavoro e il salario, a tecnologia data.
+
+6.2 Isoquanti, isocosti e costo minimo
+Isoquanto: combinazioni K,L che producono lo stesso Qbar.
+Con L orizzontale, K verticale: pendenza=-MP_L/MP_K.
+MRTS_LK=MP_L/MP_K: capitale risparmiabile per unità di L aggiunta.
+Isocosto: C=wL+rK ->K=C/r-(w/r)L, pendenza=-w/r.
+Minimizzare wL+rK sotto f(K,L)>=Qbar; uguaglianza con tecnologia usuale.
+Ottimo interno: MP_L/MP_K=w/r, ossia MP_L/w=MP_K/r.
+L'ultimo euro deve creare lo stesso output marginale nei due input.
+Aumento di w: lavoro relativamente più caro -> combinazione più intensiva
+in capitale sullo stesso isoquanto, se la sostituzione è possibile. Il costo minimo
+non può diminuire quando il prezzo di un input aumenta, a parità di altre condizioni.
+Non limitarsi a ruotare il vecchio isocosto: cercare anche il nuovo
+isocosto tangente, in genere più costoso, per il Q imposto.
+
+Esempio complemento per Q=sqrt(KL): K/L=w/r; KL=Qbar^2.
+L*=Qbar*sqrt(r/w), K*=Qbar*sqrt(w/r), C*=2*Qbar*sqrt(wr).
+Per Q=K*L, isoquanto K=Qbar/L, diverso da sqrt(KL).
+E2025 Q5: isocosto 1000=50L+100K ->K=10-0.5L; intercette 20 e 10.
+Una produzione «ben comportata» non fornisce valori numerici
+di L*,K* senza una funzione di produzione più precisa; l'ottimo si disegna.
+
+6.3 Rendimenti di scala ed economie di scala
+Moltiplicare TUTTI gli input per t>1 e confrontare f(tK,tL) con t*f(K,L).
+Maggiore -> increasing returns to scale; uguale -> constant; minore
+-> decreasing. Cobb-Douglas: confrontare alpha+beta con 1.
+I rendimenti riguardano la TECNOLOGIA. Le economie di scala riguardano
+il COSTO MEDIO di lungo periodo: ATC diminuisce con Q. Diseconomie: ATC aumenta.
+Un prodotto marginale decrescente di un fattore non implica rendimenti
+di scala decrescenti: sqrt(KL) ha MP decrescenti e rendimenti costanti.
+
+6.4 Tabella dei costi
+TC=C(Q)=FC+VC(Q).
+ATC=AC=TC/Q; AFC=FC/Q; AVC=VC/Q; ATC=AFC+AVC.
+MC=dTC/dQ=dVC/dQ, perché la derivata di FC costante=0.
+MC discreto dell'unità successiva: C(Q+1)-C(Q).
+MC<ATC ->ATC diminuisce; MC>ATC ->ATC aumenta.
+Nel minimo interno di ATC: MC=ATC. Stessa logica per AVC.
+Costo fisso non significa automaticamente sunk: verificare se è
+recuperabile/evitabile nell'orizzonte della decisione.
+Breve periodo: almeno un input fisso. Lungo periodo: tutti modificabili,
+senza una durata di calendario universale. Costo di lungo periodo <= costo di breve
+a Q dato, perché offre più scelta di input.
+
+Esempio L5 C=30+Q^2 a Q=2: TC34, FC30, VC4, ATC17, AVC2, AFC15,
+MC continuo4; costo discreto per passare da 2 a 3=5.
+Non confondere questi due significati del costo marginale.
+
+6.5 Profitto e offerta di un'impresa price taker
+pi(q)=p*q-C(q). MR=p perché un'impresa non cambia il prezzo di mercato.
+La massimizzazione del profitto è l'ipotesi del modello. L6 p.3 invita anche
+a discutere orizzonte temporale, altri obiettivi e corporate social
+responsibility: responsabilità sociale d'impresa. Ciò non cambia
+una FOC data finché il testo non specifica un altro obiettivo.
+FOC p=MC(q). L'offerta è la parte rilevante crescente di MC sopra
+la soglia di chiusura, confrontando con q=0.
+Esempio L6 C=10+q^2, p12: MC2q ->q6; R72, C46, pi26.
+Per ogni p ammissibile: q=p/2; a p0, q0.
+Minimo di ATC per questo esempio: q=sqrt(10), prezzo=2sqrt(10)≈6.325.
+pi=(p-ATC)*q. PS=pq-VC=pi+FC; PS non è necessariamente il profitto.
+
+6.6 Produrre o chiudere?
+Breve periodo, FC inevitabile: produrre se la quantità migliore dà
+R>=VC, ossia p>=AVC(q*); altrimenti q=0 e perdita=-FC.
+La soglia standard è min AVC, con ipotesi usuali.
+Se AVC<p<ATC, produrre in perdita può minimizzare la perdita: una parte di FC
+è coperta. Con R=VC esatto, indifferenza tra produrre e chiudere.
+Lungo periodo: restare/entrare solo se il profitto economico è >=0,
+quindi p>=ATC al livello ottimo. Altrimenti uscita quando possibile.
+L6 T-shirt: MC5 fino a q10, poi MC15, p10 ->q10. FC25 dà pi25;
+FC40 dà pi10. La variazione di FC non modifica la quantità interna.
+
+6.7 Offerta di mercato, entrata e costo opportunità
+Sommare orizzontalmente le offerte individuali, escludendo le
+quantità negative. L6 q1=p-2, q2=p-4:
+QS=0 per p<2; p-2 per 2<=p<4; 2p-6 per p>=4.
+Aumento della domanda: prezzo/profitti salgono nel breve periodo -> entrata -> offerta
+di mercato a destra -> calo di prezzo/profitto fino al profitto economico nullo.
+Con imprese identiche replicabili a costo costante, p_LR=min ATC,
+q per impresa torna al livello efficiente, quantità di mercato e numero di
+imprese aumentano. Questo risultato non descrive tutti i settori.
+Input scarso a livello di settore -> l'offerta LR può crescere; apprendimento
+o economie esterne -> può decrescere.
+
+Costo contabile: spese esplicite. Costo economico: include il valore
+della migliore alternativa sacrificata, senza doppio conteggio.
+Naomi L6: forniture 30.000 + consegna 10.000 ->contabile 40.000;
+stipendio alternativo 50.000 ->economico 90.000.
+Profitto economico nullo non implica né stipendio nullo né assenza di reddito:
+i fattori ricevono già la loro remunerazione di opportunità.
+Rendita economica: reddito legato a una risorsa scarsa oltre il suo uso
+alternativo rilevante; diversa dal semplice affitto contabile.

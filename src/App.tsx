@@ -16,6 +16,7 @@ import { Mistakes } from './views/Mistakes';
 import { Sources } from './views/Sources';
 import { Claude } from './views/Claude';
 import { QuickQuestion } from './components/QuickQuestion';
+import { LANGS, lang, setLang, t, type Lang } from './i18n';
 
 function useRoute() {
   const read = () => window.location.hash.replace(/^#\/?/, '').split('/').filter(Boolean).map(decodeURIComponent);
@@ -29,25 +30,26 @@ function useRoute() {
 }
 
 const NAV: { group: string; items: { href: string; label: string; key: string }[] }[] = [
-  { group: '', items: [{ href: '#/', label: 'Accueil', key: '' }] },
-  { group: 'Apprendre', items: [
-    { href: '#/learn', label: 'Comprendre', key: 'learn' },
-    { href: '#/lab', label: 'Graph Lab', key: 'lab' },
-    { href: '#/why', label: 'Pourquoi ?', key: 'why' },
-    { href: '#/claude', label: 'Ask Claude directly', key: 'claude' },
+  { group: '', items: [{ href: '#/', label: t('Accueil'), key: '' }] },
+  { group: t('Apprendre'), items: [
+    { href: '#/learn', label: t('Comprendre'), key: 'learn' },
+    { href: '#/lab', label: t('Graph Lab'), key: 'lab' },
+    { href: '#/why', label: t('Pourquoi ?'), key: 'why' },
+    // The Claude tutor needs the local dev server (it holds the API key): hidden on the static GitHub Pages build.
+    ...(import.meta.env.DEV ? [{ href: '#/claude', label: t('Ask Claude directly'), key: 'claude' }] : []),
   ] },
-  { group: 'S’entraîner', items: [
-    { href: '#/practice', label: 'Pratique', key: 'practice' },
-    { href: '#/recall', label: 'Rappel', key: 'recall' },
-    { href: '#/recognize', label: 'Reconnaître le modèle', key: 'recognize' },
-    { href: '#/confusions', label: 'Confusions', key: 'confusions' },
-    { href: '#/exam', label: 'Examen', key: 'exam' },
+  { group: t('S’entraîner'), items: [
+    { href: '#/practice', label: t('Pratique'), key: 'practice' },
+    { href: '#/recall', label: t('Rappel'), key: 'recall' },
+    { href: '#/recognize', label: t('Reconnaître le modèle'), key: 'recognize' },
+    { href: '#/confusions', label: t('Confusions'), key: 'confusions' },
+    { href: '#/exam', label: t('Examen'), key: 'exam' },
   ] },
-  { group: 'Piloter', items: [
-    { href: '#/map', label: 'Carte de maîtrise', key: 'map' },
-    { href: '#/final', label: 'Préparation finale', key: 'final' },
-    { href: '#/mistakes', label: 'Mes erreurs', key: 'mistakes' },
-    { href: '#/source', label: 'Source (dossier)', key: 'source' },
+  { group: t('Piloter'), items: [
+    { href: '#/map', label: t('Carte de maîtrise'), key: 'map' },
+    { href: '#/final', label: t('Préparation finale'), key: 'final' },
+    { href: '#/mistakes', label: t('Mes erreurs'), key: 'mistakes' },
+    { href: '#/source', label: t('Source (dossier)'), key: 'source' },
   ] },
 ];
 
@@ -60,16 +62,16 @@ function Backup() {
         const blob = new Blob([exportProgress()], { type: 'application/json' });
         const a = document.createElement('a');
         a.href = URL.createObjectURL(blob);
-        a.download = `micro-lab-progression-${new Date().toISOString().slice(0, 10)}.json`;
+        a.download = `micro-lab-progress-${new Date().toISOString().slice(0, 10)}.json`;
         a.click();
         URL.revokeObjectURL(a.href);
-      }}>Sauvegarder</button>
-      <button type="button" className="link small" onClick={() => file.current?.click()}>Restaurer</button>
-      <button type="button" className="link small" onClick={() => { if (window.confirm('Effacer toute ta progression locale ? (Pense à sauvegarder avant.)')) resetProgress(); }}>Réinitialiser</button>
+      }}>{t('Sauvegarder')}</button>
+      <button type="button" className="link small" onClick={() => file.current?.click()}>{t('Restaurer')}</button>
+      <button type="button" className="link small" onClick={() => { if (window.confirm(t('Effacer toute ta progression locale ? (Pense à sauvegarder avant.)'))) resetProgress(); }}>{t('Réinitialiser')}</button>
       <input ref={file} type="file" accept="application/json" hidden onChange={async (e) => {
         const f = e.target.files?.[0];
         if (!f) return;
-        try { importProgress(await f.text()); setMsg('Progression restaurée.'); } catch (err) { setMsg((err as Error).message); }
+        try { importProgress(await f.text()); setMsg(t('Progression restaurée.')); } catch (err) { setMsg((err as Error).message); }
         e.target.value = '';
       }} />
       {msg && <span className="small muted">{msg}</span>}
@@ -102,7 +104,7 @@ export default function App() {
     case 'final': page = <FinalPrep />; break;
     case 'mistakes': page = <Mistakes />; break;
     case 'source': page = <Sources refId={[a, b].filter(Boolean).join('/')} />; break;
-    case 'claude': page = <Claude tab={a === 'key' ? 'key' : 'chat'} />; break;
+    case 'claude': page = import.meta.env.DEV ? <Claude tab={a === 'key' ? 'key' : 'chat'} /> : <Home />; break;
     default: page = <Home />;
   }
 
@@ -110,10 +112,10 @@ export default function App() {
     <div className="shell">
       <header className="topbar">
         <a href="#/" className="brand">Micro Lab <span>BE501</span></a>
-        <button type="button" className="ghost menu-btn" aria-expanded={menu} onClick={() => setMenu(!menu)}>Menu{due + active ? ` · ${due + active}` : ''}</button>
+        <button type="button" className="ghost menu-btn" aria-expanded={menu} onClick={() => setMenu(!menu)}>{t('Menu')}{due + active ? ` · ${due + active}` : ''}</button>
       </header>
-      <nav className={`sidebar ${menu ? 'open' : ''}`} aria-label="Navigation principale">
-        <a href="#/" className="brand brand-side">Micro Lab <span>BE501 · laboratoire</span></a>
+      <nav className={`sidebar ${menu ? 'open' : ''}`} aria-label={t('Navigation principale')}>
+        <a href="#/" className="brand brand-side">Micro Lab <span>{t('BE501 · laboratoire')}</span></a>
         {NAV.map((g) => (
           <div key={g.group || 'home'} className="nav-group">
             {g.group && <p className="nav-title">{g.group}</p>}
@@ -127,9 +129,15 @@ export default function App() {
           </div>
         ))}
         <Backup />
+        <label className="lang-pick small">
+          <span className="muted">{t('Langue')}</span>
+          <select value={lang} onChange={(e) => setLang(e.target.value as Lang)}>
+            {LANGS.map((l) => <option key={l.id} value={l.id}>{l.name}</option>)}
+          </select>
+        </label>
       </nav>
       <main className="main">{page}</main>
-      <QuickQuestion />
+      {import.meta.env.DEV && <QuickQuestion />}
       <OverlayHost />
     </div>
   );

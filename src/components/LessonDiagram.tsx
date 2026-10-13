@@ -4,6 +4,7 @@ import type { LessonDiagramSpec } from '../content/lesson-diagrams';
 import type { ActorId } from '../content/types';
 import { SourceRef } from './text';
 import { fmt } from '../econ';
+import { t } from '../i18n';
 
 const ink = (actor?: ActorId) => ({ buyer: 'var(--buyer)', producer: 'var(--producer)', third: 'var(--third)', planner: 'var(--society)', gov: 'var(--gov)' }[actor ?? 'buyer']);
 
@@ -47,12 +48,12 @@ function Curves({ spec }: { spec: Extract<LessonDiagramSpec, { kind: 'curves' }>
         {spec.markers?.map((p) => <g key={p.label}><circle cx={x(p.x)} cy={y(p.y)} r={4} fill="var(--ink)" /><text x={x(p.x) + 8} y={y(p.y) - 10} className="diagram-point-label">{p.label}</text></g>)}
       </g>
     </svg>
-    <div className="diagram-legend" role="group" aria-label="Courbes à expliquer">{spec.curves.map((c) => <button key={c.label} type="button" aria-pressed={selected === c.label} className={selected === c.label ? 'on' : ''} onClick={() => setSelected(c.label)} style={{ color: ink(c.color) }}>{c.label}</button>)}</div>
+    <div className="diagram-legend" role="group" aria-label={t('Courbes à expliquer')}>{spec.curves.map((c) => <button key={c.label} type="button" aria-pressed={selected === c.label} className={selected === c.label ? 'on' : ''} onClick={() => setSelected(c.label)} style={{ color: ink(c.color) }}>{c.label}</button>)}</div>
     <p className="diagram-explain">{active.explain}</p>
-    <label className="diagram-cursor">Déplace le curseur sur l’axe horizontal
-      <input type="range" min={0} max={spec.xMax} step={spec.xMax / 100} value={cursor} onChange={(event) => setCursor(Number(event.target.value))} aria-label={spec.xLabel} aria-valuetext={`${fmt(cursor, 2)} ; ${active.label} : ${curveValue(active.points, cursor) === null ? 'hors du domaine' : fmt(curveValue(active.points, cursor)!, 2)}`} />
+    <label className="diagram-cursor">{t('Déplace le curseur sur l’axe horizontal')}
+      <input type="range" min={0} max={spec.xMax} step={spec.xMax / 100} value={cursor} onChange={(event) => setCursor(Number(event.target.value))} aria-label={spec.xLabel} aria-valuetext={`${fmt(cursor, 2)} ; ${active.label} : ${curveValue(active.points, cursor) === null ? t('hors du domaine') : fmt(curveValue(active.points, cursor)!, 2)}`} />
     </label>
-    <dl className="diagram-readout"><div><dt>{spec.xLabel}</dt><dd>{fmt(cursor, 2)}</dd></div>{spec.curves.map((c) => { const value = curveValue(c.points, cursor); return <div key={c.label}><dt>{c.label}</dt><dd>{value === null ? 'hors domaine' : fmt(value, 2)}</dd></div>; })}</dl>
+    <dl className="diagram-readout"><div><dt>{spec.xLabel}</dt><dd>{fmt(cursor, 2)}</dd></div>{spec.curves.map((c) => { const value = curveValue(c.points, cursor); return <div key={c.label}><dt>{c.label}</dt><dd>{value === null ? t('hors domaine') : fmt(value, 2)}</dd></div>; })}</dl>
   </>;
 }
 
@@ -62,13 +63,13 @@ function Matrix({ spec }: { spec: Extract<LessonDiagramSpec, { kind: 'matrix' }>
   const rowBest = (r: number, c: number) => spec.payoffs[r][c][0] === Math.max(...spec.payoffs.map((row) => row[c][0]));
   const colBest = (r: number, c: number) => spec.payoffs[r][c][1] === Math.max(...spec.payoffs[r].map((cell) => cell[1]));
   return <>
-    <p className="small">Premier gain : {spec.rowPlayer}. Second : {spec.colPlayer}. Clique une case et compare les déviations unilatérales.</p>
+    <p className="small">{t('Premier gain : {a}. Second : {b}. Clique une case et compare les déviations unilatérales.', { a: spec.rowPlayer, b: spec.colPlayer })}</p>
     <div className="table-wrap"><table className="diagram-matrix"><thead><tr><th>{spec.rowPlayer} / {spec.colPlayer}</th>{spec.columns.map((c) => <th key={c}>{c}</th>)}</tr></thead><tbody>{spec.rows.map((r, i) => <tr key={r}><th>{r}</th>{spec.columns.map((c, j) => <td key={c}><button type="button" aria-pressed={selected?.[0] === i && selected?.[1] === j} onClick={() => setSelected([i, j])} className={show && rowBest(i, j) && colBest(i, j) ? 'nash' : ''}>
       <span className={show && rowBest(i, j) ? 'best' : ''}>{fmt(spec.payoffs[i][j][0], 1)}</span>, <span className={show && colBest(i, j) ? 'best' : ''}>{fmt(spec.payoffs[i][j][1], 1)}</span>
     </button></td>)}</tr>)}</tbody></table></div>
-    <button type="button" className="ghost small" aria-pressed={show} onClick={() => setShow(!show)}>{show ? 'Masquer' : 'Montrer'} les meilleures réponses</button>
-    {show && <p className="small muted">Souligné : meilleure réponse, y compris en cas d’égalité. Jaune : meilleures réponses mutuelles (Nash pur). Cela ne classe pas les équilibres mixtes.</p>}
-    {selected && <p className="diagram-explain" role="status">À {spec.rows[selected[0]]} / {spec.columns[selected[1]]}, {spec.rowPlayer} {rowBest(...selected) ? 'ne peut pas gagner davantage en changeant seul de ligne' : 'peut gagner davantage en changeant seul de ligne'} ; {spec.colPlayer} {colBest(...selected) ? 'ne peut pas gagner davantage en changeant seul de colonne' : 'peut gagner davantage en changeant seul de colonne'}.</p>}
+    <button type="button" className="ghost small" aria-pressed={show} onClick={() => setShow(!show)}>{show ? t('Masquer les meilleures réponses') : t('Montrer les meilleures réponses')}</button>
+    {show && <p className="small muted">{t('Souligné : meilleure réponse, y compris en cas d’égalité. Jaune : meilleures réponses mutuelles (Nash pur). Cela ne classe pas les équilibres mixtes.')}</p>}
+    {selected && <p className="diagram-explain" role="status">{t('À {r} / {c} :', { r: spec.rows[selected[0]], c: spec.columns[selected[1]] })} {rowBest(...selected) ? t('{p} ne peut pas gagner davantage en changeant seul de ligne', { p: spec.rowPlayer }) : t('{p} peut gagner davantage en changeant seul de ligne', { p: spec.rowPlayer })} ; {colBest(...selected) ? t('{p} ne peut pas gagner davantage en changeant seul de colonne', { p: spec.colPlayer }) : t('{p} peut gagner davantage en changeant seul de colonne', { p: spec.colPlayer })}.</p>}
   </>;
 }
 
@@ -89,6 +90,6 @@ function Sequence({ spec }: { spec: Extract<LessonDiagramSpec, { kind: 'sequence
 export function LessonDiagram({ spec }: { spec: LessonDiagramSpec }) {
   return <figure className="lesson-diagram"><figcaption>{spec.title}</figcaption>
     {spec.kind === 'curves' ? <Curves spec={spec} /> : spec.kind === 'matrix' ? <Matrix spec={spec} /> : spec.kind === 'bars' ? <Bars spec={spec} /> : <Sequence spec={spec} />}
-    <p className="small muted">{spec.note}</p><p className="small">Source : {spec.refs.map((ref) => <SourceRef key={ref} r={ref} />)}</p>
+    <p className="small muted">{spec.note}</p><p className="small">{t('Source :')} {spec.refs.map((ref) => <SourceRef key={ref} r={ref} />)}</p>
   </figure>;
 }

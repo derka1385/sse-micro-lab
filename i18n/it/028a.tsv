@@ -1,0 +1,200 @@
+1w0dy7dfn1a Analizza i miei nessi causali
+162wo0w5vxw Scrivi almeno qualche frase.
+1lm94wqze1r Il rilevamento automatico è approssimativo: controlla i nessi proposti e segnala quelli che hai espresso in altro modo.
+144ek6k0gpq nesso non rilevato
+1yinlvcipz0 nesso presente
+1k2mut90p1y l’hai espresso in altro modo
+mob8gfoo2b Lessico da affinare:
+29e56v90j9h L’ho detto in altro modo
+20fbpc7abb0 Mostrami questo nesso
+jedf4wa65s Possibile errore concettuale
+calguv5a8z Non è quello che volevo dire
+4wt353yvos {a}/{b} nessi causali
+gg677qjnyz {n} errore/i da correggere
+okaj0ybmxc Verifica la mia spiegazione
+fl3ifyqdmi Catena causale solida. Conta che ogni nesso causi il successivo — il tuo lessico può ancora affinarsi.
+22vtd8splja Mancano dei nessi: completa la spiegazione, poi rilancia l’analisi.
+1m178ow0ggz Nascondi la spiegazione modello
+1orpnfdjrn2 Vedi una spiegazione modello
+1vmji71q5bg La tua risposta…
+1a97w109j9a La tua risposta scritta
+h1kv2tvojc Confronta con la risposta modello
+24pinnd05du Spunta ciò che la tua risposta contiene davvero (già spuntato quando l’abbiamo rilevato):
+24ibfi3z0wm Lingua: la tua risposta sembra in francese. All’esame rispondi in inglese.
+1hkaaufi8au Verifica
+1go3e5t4hwv (sussidio incluso)
+th8g9g4lxu (tassa inclusa)
+1r25w8mxaub Scambiata: vale {b} per l’acquirente{sub} e costa {c}{tax} al venditore.
+27snqtpzrqn Non scambiata: l’acquirente pagherebbe solo {b}{sub} per un costo di {c}{tax}.
+1dxsc91md0d Per la società: valore {v} − costo {c} = {g}.
+2cerrvquumg ⇒ Unità mancante: la società perde {g} € perché non viene prodotta.
+5vzaj367vv ⇒ Unità di troppo: distrugge {g} € di benessere.
+6zguls8rqm Q, in {u}
+rzvcebd0a3 Unità nel punto {q}
+1eakarhh4np Sposta il cursore · clicca una curva, un’area o una barra
+wcpc7iawiu Quanto vale un’unità in più per il portafoglio dell’acquirente una volta versato il sussidio: MPB + s.
+1ysgmvajwjs Quanto costa un’unità in più al produttore una volta pagata la tassa: MPC + t.
+mtsy9zbnhs Nel punto Q = {q}: {v} € per unità.
+1lu86pozeqr Perdita secca — unità mancanti
+1ghcoy82ygm Perdita secca — unità di troppo
+1sprgoohm19 Queste unità non vengono prodotte anche se il loro beneficio sociale supera il costo sociale.
+213y6hh2bxw Queste unità vengono prodotte anche se il loro costo sociale supera il beneficio sociale.
+1z2yk0izw7w Area = {a} € (tra Q = {lo} e Q* = {q}).
+1mzjuoraerf Fetta nel punto Q = {q}: |MSB − MSC| = |{b} − {c}| = {g} € persi su questa unità.
+vi1weanoi1 Metti il cursore nell’area per vedere la fetta di un’unità.
+28wsypdqvq8 Guadagno netto degli acquirenti: per ogni unità comprata, il suo valore per l’acquirente meno il prezzo pagato.
+23lmji4sqco Area = {a} €.
+uqv2grq0v9 Fetta nel punto {q}: MPB {b} − p_b {p} = {g}.
+1w50ru30hfl Guadagno netto dei venditori: per ogni unità venduta, il prezzo ricevuto meno il suo costo marginale.
+qdspfnpbts Fetta nel punto {q}: p_s {p} − MPC {c} = {g}.
+1vc7xr4gnjz Ciò che pagano i contribuenti: s per unità scambiata. Un trasferimento, non una distruzione.
+fd2pz6j4ec Ciò che riceve lo Stato: t per unità scambiata. Un trasferimento, non una perdita secca.
+16vc5gb6qkh Somma dei benefici ricevuti dai terzi per tutte le unità prodotte (area sotto MEB).
+3ihwxnjtp5 Somma dei danni subiti dai terzi per tutte le unità prodotte (area sotto MEC).
+23zi22dezjq Qui MPB = MPC: l’ultimo scambio vale per l’acquirente quanto costa al produttore. Oltre, MPB < MPC: nessun prezzo conviene più a entrambi.
+3hfvs3tqwp Qui MSB = MSC: l’ultima unità vale per la società esattamente quanto le costa. Prima, aggiungere aumenta il benessere; dopo, lo riduce.
+1a8fa5gcmvb Q con la politica = {q}
+1o4hvb6j6pb Qui MPB + s = MPC: la decisione privata sussidiata si ferma.
+e1vhlhpsaq Qui MPB = MPC + t: la decisione privata tassata si ferma.
+2e4io5celml L’acquirente paga p_b; il venditore riceve p_s = p_b + s; lo Stato paga la differenza.
+k72yc3991g L’acquirente paga p_b; il venditore tiene p_s = p_b − t; lo Stato incassa la differenza.
+1krf0v2fcof Unità nel punto Q = {q}
+ac3gc4wh9p Chiudi l’ispettore
+1h4l0usl1oz Grassetto = incentivo privato
+ucea0t4xma un’unità su {n}
+t8c36ven8k Sottolineato: mancante · barrato: di troppo
+uk448eqcwm Le unità una per una
+qw3ejpurkx Unità {q}:
+1p59rx233dp scambiata
+2glh5cu7zub non scambiata
+245ecwya078 mancante per la società
+206wgklddb2 di troppo per la società
+glii9grfhi Sussidio per unità
+21yr6g9ohbv Tassa per unità
+65esbam7w2 Anima fino a
+1s8s1kun54n Togli la politica
+26ayrisf3hd Senza intervento
+12nyvf3o7p8 Ottimo
+pkkdzpeo0y quantità scambiata
+143fklon0lt acquirenti
+1400m5xf47z venditori
+1te2sjoc4up Stato (− sussidio)
+25xxpyq8pkx Stato (+ gettito)
+1bv2vk4dsis trasferimento
+21gomb5jh34 + beneficio esterno
+r08mavd1i4 − danno esterno
+1zl0toxqoxq terzi
+150xp4u1ch1 benessere totale
+1cmm2mmfdnd vs ottimo
+202av860ibt Perché? Un livello più a fondo
+29rzzq9m3bn Fondo raggiunto: sotto ci sono le ipotesi del modello.
+n62rksngja Richiudi
+tmpjvt68if perché
+4ctug8ufjd Già superato.
+yrlflvkby3 Inserisci un numero.
+32expacln Non ancora. Indizio: {h}
+1bap79dmdo9 Non ancora — rifai il ragionamento.
+me9uxwfusa La tua risposta
+rjjv0hjhfe la tua risposta
+1myvxolc3n7 Verifica
+2dfvciemw65 Risposta:
+2167viw13xk Cursore:
+lgpmvplgvt Non lì: cerca l’intersezione delle curve interessate.
+1442ass3zou Conferma la posizione
+151bjtaej3u Catena corretta: ogni nesso causa il successivo.
+1iynt8jpfrf Il nesso n. {n} non è al suo posto: chiediti che cosa deve essere vero PRIMA di lui.
+207p2tscol Verifica l’ordine
+ctp87u0wkj Cancella l’ultimo elemento
+1u9oix6w7l1 Ricostruito.
+8w7d945c4x Non ancora: quali attori sono coinvolti?
+bfv12bjoh9 Gli elementi chiave ci sono.
+13b23ooqnmf Confronta con la risposta modello e annota ciò che mancava.
+f2zpe0si1h Micro-lezione · confusione rilevata due volte
+23ztvhi1tu0 Chiudi
+1jhw41yi8sx Riferimento non trovato nel dossier:
+1jfep1u49at Umano
+1ubf52o05qp Economista
+1dpe1v831zn Esame (EN)
+v5qffwt9i3 Sigla non presente nel dossier.
+2eperbkalil Nel glossario del dossier:
+2eut6ctvcw6 [O] osservato nei PDF · [A] alias standard · [C] complemento aggiunto (§18)
+9ns7ja6pof Scheda completa del concetto
+11tzuwzd7t5 Letteralmente:
+1y0znx9ljug Tre livelli
+1z2yb48sjt0 Catena causale
+1ll2sxx5dal Formula
+1wygkx1xyt5 Unità:
+1vtie3gma0w Sul grafico:
+ge74l85cm4 Ipotesi
+1nq4pl3lris Quando usarlo
+23crdbf00ax Quando NON usarlo
+dqcw7i3wf2 Confusioni frequenti
+w5zp36k6es Esempi
+o50h29xgsi Parole chiave all’esame
+agp8kw2edx Risposta tipo (EN)
+14ihli93mkb Fonti:
+12eq63n4ctm Da dove viene?
+4m3evynqcn Ogni termine
+sokbdis0e6 Confusione frequente
+1mafbxsej1l Parole chiave
+kjeb22a4y7 Estratto esatto del dossier (file sorgente).
+17nl9we27jw Apri in Fonti
+1qh9dk4vkfu Apri la scheda
+1bf3gfno7wj Letteralmente
+phrl81fjv5 Chi?
+fykkvlwjw7 «Marginale» qui
+1uj8f701gib Unità
+1yzab13vk8i Sul grafico
+22b45bbibn3 Perché questa formula?
+11gj7wbvya8 riferimento del dossier
+2b5db4uq0wd Documentato
+1ydd8gnsws5 Ricalcolato (dossier)
+16gsa1u86qa Complemento didattico
+1ryts69kosf Esercizio generato
+2cm8rt3vuhl Esternalità positiva — esercizio generato
+14vov2fqfkg Qm?
+jjeo0le91d È Q*: il mercato usa MPB.
+1zwocwbvosr Q*?
+6b74ahesh5 È Qm.
+fc5bfjnxnn DWL?
+1nvrwfflxim Sussidio ottimale?
+1vkqbzr2vgd Prezzo pagato dall’acquirente con s*?
+105vrib32x1 Esternalità negativa — esercizio generato
+1l6v4vwb9q7 Tassa ottimale?
+41tdnf59tw Gettito fiscale con t*?
+27b5mexmuc3 un trasferimento, non una perdita.
+1rrvfevnbr3 È la DWL iniziale, non il gettito.
+14tik6vnx0s Due nozioni vicine: spiega la differenza
+uhhrtglpe9 Scrivi prima la tua distinzione (in francese o in inglese). Solo dopo confrontala con il contrasto del dossier.
+d918qdgrls superato
+duk1m6l30q da rivedere
+311dqslyi2 Spiega la differenza con parole tue. Chi è coinvolto, che cosa cambia, dove si vede su un grafico?
+45i4cg9o4e La tua distinzione…
+iegsxp5pfu Confronta
+1kiv1puf9pk Spunta i punti che la tua distinzione contiene davvero (già spuntati quando li abbiamo rilevati):
+1tppedw7n1f Salvato.
+2cxhke9azaa Se questa confusione si ripete due volte, comparirà una micro-lezione mirata.
+vu05mr60dl Modalità esame · in inglese · senza indizi
+13m5zkuca7 {n} elaborato/i · migliore {p}%
+jucaxl3no3 non ancora tentato
+1944cj8zvgz Modalità esame: in inglese, corretto dopo
+1rk3wgdlz4d Scrivi come alla SSE: modello, calcolo, meccanismo, in inglese. La correzione parte dalla logica economica, poi il calcolo, il grafico e una risposta modello; separa i tuoi errori di **modello**, di **logica**, di **calcolo** e di **lingua**.
+200vidgirkz I veri esami, anno per anno
+1tvnkgavqyn Tutte le domande dei final 2020–2025. Dati e consegne vengono dagli esami (cartella «past exams» del dossier), riformulati; le correzioni sono i ricalcoli del dossier in §16, non una griglia ufficiale. La Q5 conta solo se sostituisce il tuo midterm.
+2gjbrmeohw Final {y}
+1mfjf1z19pg Compiti ed esercitazioni delle lezioni
+2doptbi0pxo Un compito ricostruito e le prove di fine lezione: esercizi costruiti per allenarsi, mai presentati come esami ufficiali.
+21xj2z1xnkp Priorità combinata
+ehoxym00ut Ordine dei prerequisiti
+1qdvig7hf9c Ricorrenza osservata
+10m03kgesvy La tua debolezza
+i57p05k11m Importanza concettuale
+1xzkxeb0sgr {n} giorni al final
+vipkhcb1v4 Giorno del final
+1c02fle9ale Preparazione finale · 23 ottobre 2026, data delle slide L1
+gipxx8gj6f Ordina i temi secondo ciò che conta per te. La ricorrenza è uno **storico osservato** su sei final (2020–2025): descrive il campione, non predice il prossimo esame (§1).
+zfoebb79ew Ordina per
+2fhbx1duzuf Tema
+1s22ryv5ucm Prerequisiti pronti
+12grnqoufsz Debolezza
+1bzg6p06pv7 Importanza

@@ -1,0 +1,114 @@
+======================================================================
+6. PRODUCTION, COSTS AND COMPETITIVE SUPPLY — L5–L6
+======================================================================
+
+6.1 Technology and marginal products
+Function Q=f(K,L): quantity obtained with capital K and labour L.
+MP_L=partial Q/partial L; MP_K=partial Q/partial K.
+AP_L=Q/L, average product; discrete MP=Delta Q/Delta L, K fixed.
+L5 p.11: Q=50 at L=9, 54 at L=10, 56 at L=11.
+Product of the 10th worker=4; average product at 10=54/10=5.4.
+Diminishing marginal returns: one input rises, the other stays fixed.
+Example L5: Q=sqrt(KL), MP_L=0.5*sqrt(K/L), MP_K=0.5*sqrt(L/K).
+Cobb-Douglas complement Q=A*K^alpha*L^beta:
+MP_L=beta*Q/L; MP_K=alpha*Q/K.
+A captures total factor productivity, TFP: more output with
+the same inputs, or fewer inputs for the same output.
+
+Hiring, output sold at a given price p: keep going while p*MP_L>w.
+At a competitive interior optimum: p*MP_L=w.
+With market power over output, replace p by MR (complement).
+L5 Black Death: less labour relative to land can raise
+the marginal product of labour and the wage, for a given technology.
+
+6.2 Isoquants, isocosts and minimum cost
+Isoquant: K,L combinations producing the same Qbar.
+With L horizontal, K vertical: slope=-MP_L/MP_K.
+MRTS_LK=MP_L/MP_K: capital that can be saved per unit of L added.
+Isocost: C=wL+rK ->K=C/r-(w/r)L, slope=-w/r.
+Minimise wL+rK subject to f(K,L)>=Qbar; equality for usual technology.
+Interior optimum: MP_L/MP_K=w/r, i.e. MP_L/w=MP_K/r.
+The last euro must create the same marginal output in both inputs.
+Rise in w: labour relatively more expensive -> more capital-intensive
+combination on the same isoquant, if substitution is possible. Minimum cost
+cannot fall when the price of an input rises, other things equal.
+Do not just rotate the old isocost: also find the new
+tangent isocost, usually more costly, for the required Q.
+
+Complement example for Q=sqrt(KL): K/L=w/r; KL=Qbar^2.
+L*=Qbar*sqrt(r/w), K*=Qbar*sqrt(w/r), C*=2*Qbar*sqrt(wr).
+For Q=K*L, isoquant K=Qbar/L, different from sqrt(KL).
+E2025 Q5: isocost 1000=50L+100K ->K=10-0.5L; intercepts 20 and 10.
+"Well-behaved" production does not give numerical values
+of L*,K* without a more precise production function; the optimum is drawn.
+
+6.3 Returns to scale and economies of scale
+Multiply ALL inputs by t>1 and compare f(tK,tL) with t*f(K,L).
+Greater -> increasing returns to scale; equal -> constant; smaller
+-> decreasing. Cobb-Douglas: compare alpha+beta with 1.
+Returns concern TECHNOLOGY. Economies of scale concern
+long-run AVERAGE COST: ATC falls with Q. Diseconomies: ATC rises.
+Diminishing marginal product of one factor does not imply decreasing
+returns to scale: sqrt(KL) has diminishing MPs and constant returns.
+
+6.4 Cost table
+TC=C(Q)=FC+VC(Q).
+ATC=AC=TC/Q; AFC=FC/Q; AVC=VC/Q; ATC=AFC+AVC.
+MC=dTC/dQ=dVC/dQ, because the derivative of a constant FC=0.
+Discrete MC of the next unit: C(Q+1)-C(Q).
+MC<ATC ->ATC falls; MC>ATC ->ATC rises.
+At the interior minimum of ATC: MC=ATC. Same logic for AVC.
+Fixed cost does not automatically mean sunk: check whether it is
+recoverable/avoidable within the decision horizon.
+Short run: at least one input fixed. Long run: all adjustable,
+with no universal calendar length. Long-run cost <= short-run cost
+at a given Q, because it offers more choice of inputs.
+
+Example L5 C=30+Q^2 at Q=2: TC34, FC30, VC4, ATC17, AVC2, AFC15,
+continuous MC4; discrete cost of going from 2 to 3=5.
+Do not confuse these two meanings of marginal cost.
+
+6.5 Profit and supply of a price-taking firm
+pi(q)=p*q-C(q). MR=p because one firm does not change the market price.
+Profit maximisation is the model's assumption. L6 p.3 also invites
+discussion of time horizon, other objectives and corporate social
+responsibility. This does not change
+a given FOC as long as no other objective is specified in the question.
+FOC p=MC(q). Supply is the relevant rising part of MC above
+the shutdown threshold, compared with q=0.
+Example L6 C=10+q^2, p12: MC2q ->q6; R72, C46, pi26.
+For any admissible p: q=p/2; at p0, q0.
+Minimum ATC for this example: q=sqrt(10), price=2sqrt(10)≈6.325.
+pi=(p-ATC)*q. PS=pq-VC=pi+FC; PS is not necessarily profit.
+
+6.6 Produce or shut down?
+Short run, unavoidable FC: produce if the best quantity gives
+R>=VC, i.e. p>=AVC(q*); otherwise q=0 and loss=-FC.
+The standard threshold is min AVC, under usual assumptions.
+If AVC<p<ATC, producing at a loss can minimise the loss: part of FC
+is covered. When R=VC exactly, indifferent between producing and shutting down.
+Long run: stay/enter only if economic profit is >=0,
+so p>=ATC at the optimal level. Otherwise exit when possible.
+L6 T-shirts: MC5 up to q10, then MC15, p10 ->q10. FC25 gives pi25;
+FC40 gives pi10. The change in FC does not change the interior quantity.
+
+6.7 Market supply, entry and opportunity cost
+Add individual supplies horizontally, excluding
+negative quantities. L6 q1=p-2, q2=p-4:
+QS=0 for p<2; p-2 for 2<=p<4; 2p-6 for p>=4.
+Rise in demand: price/profits rise in the short run -> entry -> market
+supply shifts right -> price/profit fall until economic profit is zero.
+With identical, replicable firms at constant cost, p_LR=min ATC,
+output per firm returns to the efficient level, market quantity and number of
+firms rise. This result does not describe every industry.
+Input scarce at industry level -> LR supply can slope up; learning
+or external economies -> it can slope down.
+
+Accounting cost: explicit spending. Economic cost: includes the value
+of the best alternative forgone, without double counting.
+Naomi L6: supplies 30,000 + delivery 10,000 ->accounting 40,000;
+alternative salary 50,000 ->economic 90,000.
+Zero economic profit implies neither zero salary nor no income:
+the factors already receive their opportunity pay.
+Economic rent: income from a scarce resource beyond its relevant
+alternative use; different from a simple accounting rent.

@@ -1,0 +1,126 @@
+======================================================================
+14. COMPLÉMENTS PRÉSENTS DANS LES EXAMENS, COURS COMPLETS ABSENTS
+======================================================================
+
+Ces thèmes doivent être révisés parce qu'ils sont attestés dans les
+énoncés. Leur traitement ici reconstruit les outils nécessaires. Les
+slides correspondantes au-delà de L12 ne sont pas disponibles dans le dossier.
+
+14.1 Avantage absolu et comparatif
+Absolu : moins d'inputs nécessaires par unité. Comparatif : coût
+d'opportunité plus faible relativement à l'autre bien.
+Si a_X heures/unité X et a_Y heures/unité Y : coût d'opportunité de X
+en Y =a_X/a_Y. Ne pas inverser ce ratio en passant d'heures aux quantités.
+Deux pays peuvent gagner à échanger même si l'un est plus productif dans
+TOUT. Prix relatif d'échange situé entre leurs coûts d'opportunité ->
+gains possibles. Contraintes de demande/capacité limitent la spécialisation.
+PPF linéaire : a_X*X+a_Y*Y=Lbar ; intercepts Lbar/a_X et Lbar/a_Y,
+pente dY/dX=-a_X/a_Y. PPF courbe dans d'autres technologies.
+
+E2025 : Northland blé3h, électronique6h ; Southland blé4h, électronique2h.
+Southland avantage absolu électronique ; Northland avantage comparatif blé
+(0.5 électronique/blé contre2). Avec120h :
+North PPF : 3W+6E=120, intercepts W40,E20 ; South : 4W+2E=120, W30,E60.
+Échange 1 électronique contre quantité de blé entre0.5 et2, ou équivalent
+1 blé contre électronique entre0.5 et2 ici, permet des gains potentiels.
+Attention : la symétrie numérique de ces intervalles est propre à ces nombres.
+
+14.2 Petit pays, libre-échange et droit de douane
+Prix mondial pw donné ; prix domestique=pw si libre commerce et absence
+d'autre coût pertinent. Importations M=QD(pw)-QS(pw)>0.
+Tarif unitaire tau, pays restant importateur : p_dom=pw+tau.
+QD diminue, QS augmente, M diminue. CS baisse, PS domestique augmente,
+État reçoit tau*M. Welfare NATIONAL=CS+PS+recettes ; la dépense aux
+exportateurs étrangers ne devient pas un surplus national domestique.
+DWL=triangle de production inefficace+triangle de consommation perdue.
+Linéaire : DWL=0.5*tau*[(QS1-QS0)+(QD0-QD1)].
+Si tarif dépasse l'écart entre prix autarcique et pw, il est prohibitif :
+p domestique atteint l'autarcie, M0, ne pas appliquer pw+tau aveuglément.
+Le cas grand pays/effet sur prix mondial n'est pas le benchmark ci-dessus.
+
+E2022 : pD80-Q,pS20+Q,pw30 ->QD50,QS10,M40.
+Tarif10 ->p40,QD40,QS20,M20 ; CS1250->800,PS50->200,
+recettes200,DWL100. Vérification -450+150+200=-100.
+E2025 acier : voir chiffres et conversion d'unités en section16.
+
+14.3 Facteurs spécifiques et distribution
+Capital spécifique aux manufactures, terre spécifique à agriculture,
+travail mobile. Chaque secteur embauche selon p_j*MP_Lj=w ; mobilité
+égalise les salaires, sous les hypothèses de concurrence du modèle.
+Prix agricole baisse ->valeur du produit marginal agricole baisse ->
+travail quitte l'agriculture ->revenu de la terre diminue ; capital de
+l'autre secteur peut gagner avec l'afflux de travail. Effet du salaire réel
+du travail dépend du panier consommé et des deux prix.
+Pays importateur de nourriture (E2020) : prix importé plus bas améliore
+ses termes de l'échange et peut augmenter bien-être agrégé, malgré pertes
+des propriétaires de terre. Pays exportateur agricole (E2025) : prix
+reçu plus bas dégrade les termes de l'échange et pénalise propriétaires.
+Graphique PPF : production où prix relatif=MRT en valeur absolue ; budget
+commercial tangent à PPF ; consommation sur une indifférence accessible
+avec ce budget. Production et consommation peuvent différer grâce au commerce.
+Ne pas faire du gain agrégé une preuve que chaque groupe gagne.
+
+14.4 Plateformes et effets de réseau
+Plateforme : facilite l'interaction entre groupes (locataires/loueurs,
+public/artistes, acheteurs/vendeurs). Valeur dépend des participants et
+des règles de mise en relation, pas seulement d'un catalogue numérique.
+Effet de réseau direct : plus d'utilisateurs du même côté augmente la
+valeur pour un utilisateur, ex. jeu multijoueur.
+Effet indirect/croisé : plus d'un côté attire l'autre, ex. artistes/public.
+Chicken-and-egg : sans loueurs peu de locataires, sans locataires peu de
+loueurs. Subventionner un côté ou freemium peut aider à démarrer.
+Freemium peut simultanément trier les WTP ET créer une base d'utilisateurs.
+Autres ingrédients : confiance, avis, paiement, garantie, sécurité de la
+transaction, liquidité de l'appariement, faible friction, règles et qualité.
+Multi-homing : utiliser plusieurs plateformes. Single-homing : une seule.
+Multi-homing facile réduit les coûts d'accès d'un entrant à une clientèle
+déjà présente ailleurs ; exclusivité et switching costs peuvent renforcer
+barrières. Effets de réseau peuvent favoriser concentration/tipping ;
+ils ne prouvent pas que tout marché numérique est un monopole naturel.
+E2022 Q1d location sports, E2025 Q1a/b concerts.
+
+14.5 Enchères et marchés publics
+Vickrey : enchère scellée au second prix, vente d'un objet, valeurs privées
+indépendantes dans le modèle de base. Chacun a intérêt faiblement dominant
+à annoncer sa valeur : son offre détermine s'il gagne, prix fixé par les
+autres. Plus forte valeur gagne et paie la deuxième plus forte offre.
+E2023 valeurs80,100,92 millions ->joueur2 gagne, paie92 millions.
+Sur-offrir peut faire gagner à un prix supérieur à sa valeur ; sous-offrir
+peut faire perdre une transaction profitable.
+Procurement reverse second-price : plus faible coût/offre gagne, reçoit
+deuxième plus faible offre, en supposant même qualité et données privées.
+E2025 coûts20 000,24 000,28 000 ->A gagne et reçoit24 000.
+
+Common value / coût commun incertain : offres peuvent révéler des
+informations sur la même valeur ou le même coût. Winner's curse : gagner
+peut signifier avoir été le plus optimiste ; le candidat rationnel tient
+compte de cette sélection. Pour une procurement, risque de sous-estimer
+le coût et de gagner un contrat déficitaire ->réviser l'offre vers le haut
+relativement à une estimation naïve, si signaux privés corrélés.
+E2025 précise un choc météo commun sans préciser les informations privées.
+Si tous ont exactement la même distribution publique et aucun signal
+privé, le choc commun seul ne prouve PAS une winner's curse informationnelle.
+La règle « offrir son coût certain » ne se transpose pas mécaniquement ;
+il faut préciser signaux, aversion au risque et exposition contractuelle.
+
+14.6 Edgeworth et efficacité de Pareto — E2021 Q4e
+Boîte d'Edgeworth : dimensions = dotations totales des deux biens ;
+origines opposées pour les deux consommateurs. Une allocation détermine
+la consommation de chacun, les totaux étant fixés.
+Amélioration de Pareto : au moins un mieux, personne moins bien.
+Efficace Pareto : aucune amélioration de ce type n'est faisable.
+Gains à l'échange si leurs MRS diffèrent, avec biens disponibles.
+Sous préférences lisses et optimum intérieur : MRS_A=MRS_B ; mais avec
+substituts parfaits, les allocations efficaces se trouvent souvent aux bords.
+
+E2021 : totaux20 drinks D et20 snacks S ; dotation chacun(10,10).
+Christina U_C=D_C+S_C ; Sebastian U_S=D_S+2S_S, car il cède2 drinks
+pour1 snack. Sebastian apprécie relativement plus les snacks.
+Échange bénéfique : Sebastian donne des drinks contre snacks, à un prix
+entre1 et2 drinks/snack. En coordonnées Sebastian (D,S), utilité initiale30,
+Christina initiale20 ; gains faibles pour tous si D+2S>=30 et D+S<=20,
+dans la boîte, avec au moins une inégalité stricte pour gain réel.
+Allocations efficaces : Sebastian n'a plus de drinks (D=0), OU il possède
+tous les snacks (S=20) ; sinon un échange marginal améliore les deux.
+Sur les seules allocations accessibles sans perte depuis dotation,
+le segment efficace D=0,15<=S<=20 satisfait les deux contraintes.

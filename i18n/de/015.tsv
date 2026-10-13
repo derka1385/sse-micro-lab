@@ -1,0 +1,207 @@
+urr9h5gslm Ein Gleichgewicht verlangt, dass beide Bedingungen im selben Paar erfüllt sind.
+bfadtqwig9 Eine Vereinbarung, die die Gewinne beider verbessern würde, ist gegenüber einer individuellen Abweichung womöglich nicht stabil.
+e1dt93goin Mit p = 70 − Q und MC = 10 maximiert q1 = q2 = 15 den gemeinsamen Gewinn bei Q = 30, aber bei q2 = 15 ist die beste Antwort von 1 gleich 22,5: Das kollusive Paar ist kein Cournot-Nash-Gleichgewicht.
+bghrmyg5po Du bist Firma 1: Frag nicht „Verdienen wir alle mehr?“, sondern „Kann ich mehr verdienen, wenn ich allein etwas ändere?“
+27os33z2rgk Um Nash zu prüfen, ändert eine Firma ihre Menge…
+1la1dt4cm4g Bei fester Strategie der anderen
+syjb90gyhy Man prüft eine einseitige Abweichung vom betrachteten Paar.
+wldcv6tnyn Und schreibt der anderen zugleich eine neue Menge vor
+1exn4q1qp8x Das wäre eine gemeinsame Änderung, keine einseitige Abweichung.
+pxo3tvr6kx Um den Gesamtgewinn beider zu maximieren
+1k789ogx1mq Jede Firma maximiert ihren eigenen Gewinn.
+87ntp4og4 Zwei beste Antworten in denselben Achsen
+sgnjea3lro q1: Einheiten von Firma 1
+1jt51kwfuk q2: Einheiten von Firma 2
+1zn9mahf0vs p = 70 − q1 − q2, MC = 10. BR1: q1 = 30 − q2/2, also q2 = 60 − 2 q1 in diesen Achsen. BR2: q2 = 30 − q1/2. Nash (20,20); Führer 1 (30,15) auf BR2, nicht auf BR1.
+ua3wfq6zrr BR1 umgeschrieben: q2 = 60 − 2 q1
+1hput49hgi0 Jeder Punkt gibt die beste Menge von Firma 1 für das betrachtete q2 an.
+ex20j0fsac Jeder Punkt gibt die beste Menge von Firma 2 für das betrachtete q1 an.
+dlo4uv1d59 Cournot-Nash
+isz2xm0tst 1 als Führer
+thjf3gp20a Die beste Mengenantwort konstruieren
+1wioenjbfqd Firma 1 weiß, dass eine hohe Produktion der Rivalin den Preis für den ganzen Markt senkt. Sie verkauft ihre eigene Menge zu dem Preis, der von der Gesamtmenge abhängt, zahlt aber nur ihre eigenen Kosten. Für ihre beste Cournot-Antwort behandelt sie q2 während dieser Entscheidung als fest.
+2d3usb0nl72 p = 70 − q1 − q2; MC1 = 10; π1 = (60 − q1 − q2)q1. FOC: 60 − 2 q1 − q2 = 0; BR1 = max(0,30 − q2/2).
+28f7jeqtgfb q1 zu erhöhen bringt einen Verkauf mehr, senkt aber den Preis der Einheiten, die 1 bereits verkauft.
+uzeu5nmiyy q2 beeinflusst den Preis, aber seine Kosten stehen nicht im Gewinn von 1.
+utzzgdlfxa Die Menge ist bei 0 begrenzt: Eine negative lineare Reaktion steht für eine Randlösung, nicht für negative Produktion.
+1ktf7uh29aq Bei q2 = 10 ist BR1 = 25; bei q2 = 20 ist BR1 = 20. Eine aktivere Rivalin senkt die beste Menge von 1: strategische Substitute bei Mengen.
+lf8qnil0j2 Du leitest 1: Setz nicht das gesamte Q in deine Kosten 30 q1 ein; deine Angestellten produzieren nicht die Einheiten von 2.
+qrgz30bsxe BR1 = 30 − q2/2. Bei q2 = 10: Welche Menge q1 ist am besten?
+1bl2xu4s3ft 20 ist die symmetrische Gleichgewichtsmenge, wenn q2 gleich 20 ist, nicht 10.
+280g399f7uy Baue den Gewinn von Firma 1 mit konstanten MC c1 und FC1 neu auf.
+13xjmrjeql0 Die Marge auf die eigenen Verkäufe, minus die eigenen Fixkosten.
+dvn4r9cp4l Was macht man bei der Cournot-Maximierung von 1 mit q2?
+2bl7m1m3kyc Man behandelt es als fest, um BR1(q2) zu konstruieren
+113r5i9l881 Die Reaktion gibt das beste q1 für jeden möglichen Wert von q2 an.
+207h0njs852 Man ersetzt q2 bereits durch die Reaktion des Folgers
+1m39lge40b5 Das wäre die sequenzielle Logik des Stackelberg-Führers, nicht simultaner Cournot.
+1gwuvca6qlz Man setzt vor dem Ableiten q2 = q1
+ie7tkb9nmk Symmetrie kann danach helfen, aber jede Firma kontrolliert nur ihre eigene Menge.
+h33d6jgseu Zwei Reaktionen, aber eine einzige Achsenkonvention
+dlrvg7h33j Du willst beide besten Antworten im selben Diagramm zeichnen. Die horizontale Achse stellt q1 dar, die vertikale q2. Die Reaktion von 2 ist bereits so geschrieben, die von 1 muss aber umgestellt werden, damit ihre Höhe ebenfalls q2 angibt.
+2eiixu6h4qd BR2: q2 = 30 − q1/2. BR1: q1 = 30 − q2/2 wird zu q2 = 60 − 2 q1. Nicht zweimal dieselbe Steigung zeichnen.
+11a2ja757yv Eine Gleichung kann dieselbe Beziehung in zwei Schreibweisen beschreiben.
+147tsrtmmfg BR1 schneidet die horizontale Achse bei 30 und die vertikale bei 60; BR2 schneidet die Achsen bei 60 und 30.
+1kxohrfj1m Ihr Schnittpunkt liefert die beiden gleichzeitig optimalen Entscheidungen.
+yt8jpkrp45 Im Punkt (20,20) gelten beide Gleichungen. Der Punkt (30,15) liegt auf BR2, aber nicht auf BR1: nützlich, um später Stackelberg abzugrenzen.
+196e0x2ou Bevor du zeichnest: Sag laut „horizontal q1, vertikal q2“, bevor du die Achsenabschnitte einträgst.
+hwo4vn2n6e Achsen q1 horizontal, q2 vertikal: Welche Höhe hat die umgeschriebene Gerade BR1 bei q1 = 0?
+2fgwrmgzorr 30 ist der horizontale Achsenabschnitt von BR1, nicht ihre Höhe bei q1 = 0.
+1cyp2u785nn Den Schnittpunkt lösen, dann Preis und Gewinne
+ff10rqqm9c Beide Firmen haben hier dieselben Kosten und Möglichkeiten. Im Schnittpunkt produziert jede 20, und keine will allein etwas ändern. Der Markt umfasst 40 Einheiten; diese Gesamtmenge bestimmt den Preis, während der Gewinn jeder Firma nur ihre 20 Einheiten verwendet.
+a3di3llqlg Die Symmetrie q1 = q2 ist ein Ergebnis desselben Modells mit identischen Kosten, keine Eigenschaft aller Duopole.
+nc44g5f773 Der Preis hängt von q1+q2 ab; der Gewinn von i hängt von qi ab.
+pldfrqcfqe Bei q2 = 20 ist BR1 = 20: Die Bedingung individueller Stabilität ist erfüllt.
+qfut55ohip Q = 40 in π1 = (p−10)q1 einzusetzen ergäbe 800, also den Gewinn beider Firmen zusammen, nicht den von 1.
+28em9bjfdrz Du schreibst vier getrennte Zeilen: q1, q2, Gesamt-Q, dann p und π1. So verlierst du die Ebenen Firma/Markt nicht.
+1npnt7tsx3t q1 = q2 = 20 und p = 70−Q: welcher Preis?
+jqj3op6eqi 50 vergisst die 20 Einheiten der anderen Firma.
+1kf6v1zvv61 p = 30, MC = 10, qi 20, FC = 0: Gewinn jeder Firma?
+1bqo3myn7sq 800 verwendet die Gesamtmenge 40 im Gewinn einer einzigen Firma.
+vsjxf1rsq4 Unterschiedliche Kosten ergeben unterschiedliche Mengen
+1osyb0cr17o Blue kann zu Kosten 0 produzieren, während Red 10 pro Einheit zahlt. Blue hat mehr Anreiz, Einheiten hinzuzufügen, was den Preis senkt und einen Teil der Verkäufe von Red unattraktiv macht. Die weniger effiziente Rivalin bleibt hier aktiv, aber die Anteile sind nicht mehr gleich.
+dlirkq70rn p = 70−Q, cBlue 0, cRed 10: qBlue = (70−2×0+10)/3 = 80/3; qRed = (70−2×10+0)/3 = 50/3; p = 80/3.
+x3vwfpekwe Die Reaktionsfunktionen ändern sich mit den Kosten der betreffenden Firma.
+27ojid4hwbj Das neue Gleichgewicht enthält dann auch die Anpassung der Rivalin, selbst wenn ihre eigene Reaktionsfunktion unverändert ist.
+l5tk5gfw2j Ergibt eine innere Lösung qi<0, muss man eine Randlösung bestimmen und die andere beste Antwort prüfen.
+19zpd2zlv53 Blue 26,667, Red 16,667. Anderer Fall: c1 = 10, c2 = 50 ergibt eine negative innere Formel für 2; die gültige Randlösung ist q1 = 30, q2 = 0, p = 40≤c2.
+18htbxlkke1 Du siehst einen großen Marktanteil: Frag, ob er von niedrigen Kosten stammt, statt zu folgern, dass die Firmen gleich viel produzieren müssen.
+cm8u0b5f8b p = 70−Q, cBlue 0, cRed 10: Menge von Blue? Runde auf 0,01.
+1s40i5x5oc8 (70−2cBlue+cRed)/3=80/3.
+sl3zz1hb0y 20 unterstellt die alten symmetrischen Kosten.
+g9923kj8qv Eine innere Formel ergibt ein negatives q2. Was tun?
+13zt5klv958 Mit q2 = 0 lösen und die besten Antworten prüfen
+20zknoc72f0 Der ökonomische Definitionsbereich verlangt nichtnegative Mengen.
+24gseez4lil Die negative Menge beibehalten
+8r04ovn42r Eine Firma kann keine negative Menge produzieren.
+1aze921td68 Nur das Vorzeichen durch den Absolutbetrag ersetzen
+7lgqhiex5j Das löst die Entscheidungsbedingungen nicht mehr.
+16xoi7se3l Eine Mengensteuer verschiebt beide Reaktionen nach innen
+n2yo14c1ev Nimm wieder die beiden Firmen des Marktes p = 70 − Q, jede mit Kosten von 10 pro Einheit. Der Staat erhebt nun bei beiden 6 pro verkaufter Einheit. Für jede Firma kostet die nächste Einheit 16: Unabhängig von der Menge der Rivalin lohnt es sich, weniger zu produzieren. Da beide so überlegen, sieht jede auch die andere ihren Absatz senken, was ihr etwas Spielraum lässt.
+i31zf65ho7 Effektive Kosten c = MC + t = 16. π1 = (70 − q1 − q2 − 16)q1 ⇒ BR1 = 27 − q2/2 statt 30 − q2/2. Beide Reaktionen verschieben sich zum Ursprung; symmetrisches Nash q = (70 − 16)/3 = 18, Q = 36, p = 34.
+5x65zjjtz8 Die Steuer wirkt wie Kosten pro Einheit: Sie senkt die Marge jeder Einheit, unabhängig von der Menge der Rivalin.
+gutbvtaok3 In der Ebene (q1, q2) verschiebt sich jede Reaktion parallel nach innen: Für jede Menge der anderen produziert man 3 weniger.
+10wep0uook Der Preis steigt von 30 auf 34, also um 4 der 6 Steuer: Ein Teil der Steuer geht von den Margen der beiden Firmen ab.
+5pg84kr2ez Ohne Steuer: q = 20 je Firma, p = 30, Gewinn 400. Mit t = 6: q = 18, p = 34, Gewinn (34 − 16) × 18 = 324; Steuereinnahmen 6 × 36 = 216.
+1qdodfsggsx Du leitest Firma 1: Bei gegebenem q2 verkaufst du 3 Einheiten weniger als vorher. Aber deine Rivalin tut dasselbe, was dir etwas mehr Nachfrage lässt: Am Ende senkst du nur um 2.
+1qfj0roxsxq Steuer 6, effektive Kosten 16, p = 70 − q1 − q2: Bei q2 = 18, welche Menge ist für Firma 1 am besten?
+g6buq1ud1m 21 verwendet die alte Reaktion 30 − q2/2: Die Steuer gehört zu den Kosten der Firma.
+1cj8xyf2i9x Nash mit Steuer: q1 = q2 = 18. Welcher Preis?
+1rk12u2kynp 30 ist der Preis ohne Steuer.
+247ot3nz4db 36 ist die Gesamtmenge, nicht der Preis.
+q3dt0e4o40 Wie verschiebt die Steuer die Reaktionen in der Ebene (q1, q2)?
+1huv8cwf6ax Beide rücken parallel näher an den Ursprung
+518sgk5t7d Für jede Menge der Rivalin produziert jede Firma 3 weniger: BR = 27 − qj/2.
+z2p9tflhut Nur die Reaktion einer Firma bewegt sich
+mc8nemgetp Beide Firmen zahlen die Steuer: Beide Reaktionen bewegen sich.
+28mmnwhkuct Sie entfernen sich vom Ursprung, weil der Preis steigt
+13uw0r0wff2 Der Preis steigt, weil die Mengen sinken, nicht umgekehrt.
+uwbhwagpo5 Eine Steuer von 6 pro Einheit, von beiden Firmen gezahlt
+2ee081axghk p = 70 − q1 − q2, MC = 10, dann Steuer 6: effektive Kosten 16. Jede Reaktion geht für jede Menge der Rivalin um 3 zurück: BR = 27 − qj/2. Nash wandert von (20, 20) nach (18, 18). Das ist die in E2022 Q3e verlangte Skizze.
+o2xg7fbrgn BR1 ohne Steuer: q2 = 60 − 2 q1
+6aarhxs8vm Beste Menge von 1 für jedes q2, Kosten 10.
+trpr4iw3xa BR1 mit Steuer: q2 = 54 − 2 q1
+1ofqrp2s59m Gleiche Überlegung mit Kosten 16: 3 Einheiten weniger für jedes q2.
+1yxoezvlvky BR2 ohne Steuer: q2 = 30 − q1/2
+23j47npzz9i Beste Menge von 2 für jedes q1, Kosten 10.
+o7w67qqmze BR2 mit Steuer: q2 = 27 − q1/2
+233wbmi9i3p Firma 2 zahlt die Steuer ebenfalls: Ihre Reaktion geht um 3 zurück.
+19km7tb6bs8 Nash ohne Steuer
+q6vuos3kpm Nash mit Steuer
+2cpss1bptex Fixkosten betreffen die Bilanz, dann womöglich den Markteintritt
+q47pv23qfq Eine Firma zahlt eine höhere Miete als ihre Rivalin. Solange diese Zahlung unvermeidbar ist und beide aktiv bleiben, ändert sie nicht, was eine zusätzliche Einheit kostet. Sie können also dieselben Mengen produzieren und dennoch unterschiedliche Gewinne haben.
+13f6200u5eg Bei p = 30, qi 20, MC = 10: variabler Gewinn 400; mit FC = 100 ist π = 300; mit FC = 500 ist π−100. Kurzfristige Stilllegung und langfristiger Eintritt sind nicht dieselbe Entscheidung.
+1yrv1ckqgtj FC verschwindet aus der Ableitung nach qi.
+1d3tuxk9gtr Bringt Produzieren 400 variablen Gewinn, verliert man mit FC = 500 beim Produzieren 100 statt 500 bei Stilllegung, wenn FC versunken ist.
+gh3fznz39t Lassen sich diese Kosten durch Nichteintritt vermeiden, kann die vorgelagerte Entscheidung lauten, nicht einzutreten.
+1u5z1mzjaka E2021: gleiche MC = 8, aber FC = 100 und 50; Mengen je 8, Preis 24, Gewinne 28 und 78. Der Gewinnunterschied von 50 kommt von den Fixkosten.
+14w37tm5ozk Du bist im Management: „Das Werk gar nicht eröffnen“ von „heute produzieren, nachdem schon bezahlt wurde“ zu unterscheiden, ändert den Vergleichsmaßstab.
+m3z3f6ui5p Variabler Gewinn 400, Fixkosten 500 bereits versunken: Stilllegen würde 500 kosten. Produzieren ergibt π−100. Welche Wahl maximiert den laufenden Gewinn?
+2npz0objg1 Produzieren
+24mzx3l1rsj −100 ist besser als −500; der variable Gewinn 400 deckt die variablen Kosten.
+9vzoa0caw2 Stilllegen, weil jeder negative Gewinn die Stilllegung erzwingt
+27pg9lrwtb8 Du vergisst den unvermeidbaren Verlust auch ohne Produktion.
+1u6jc9294f7 Nur produzieren, wenn FC 0 wird
+p6hvpyxzjs Die bereits bezahlten Fixkosten lassen sich durch diese laufende Entscheidung nicht vermeiden.
+1gqadopsiit Eine weitere Firma verschärft den Mengenwettbewerb
+1coqtx16nka Eine zusätzliche Firma bringt zusätzliches Angebot. Jede der bisherigen reagiert, indem sie ihre eigene Menge senkt, aber diese Senkung gleicht den Eintritt nicht vollständig aus. Im symmetrischen Modell ohne Kostenänderung steigt die Gesamtmenge und der Preis sinkt.
+vhwl1ptqq p = a−bQ, MC = c, n Firmen: qi = (a−c)/[b(n+1)], Q = nqi, p = (a+nc)/(n+1). Hier ergibt n3 qi 15, Q = 45, p = 25.
+13foscqxhkl Jede Firma kontrolliert einen kleineren Teil des Knappheitseffekts, der den Preis stützt.
+p9v59i1uan Wenn n steigt, sinkt qi, aber nqi steigt.
+ec3c3autil Eine Fusion ohne Synergien senkt n und erhöht in diesem Modell tendenziell den Preis; veränderte Kosten oder Produkte erfordern eine andere Analyse.
+ico8rjevpr n2: Q = 40, p = 30; n3: Q = 45, p = 25; Grenzwert n → ∞: Q = 60, p = 10. Drei Firmen bedeuten nicht automatisch vollkommenen Wettbewerb.
+283twvlhjph Du bewertest eine Fusion: Sag „Kosten unverändert“, bevor du den Vergleich nach Firmenzahl anwendest.
+162gbbz4dsn p = 70−Q, MC = 10, n3 identische Firmen: Wie viel produziert jede?
+cgar9jdpgn 20 entspricht dem Duopol, mit n+1 = 3.
+fs0c9gwahy 45 ist die Summe der drei Firmen.
+261zgqoduz3 Gleiche Nachfrage, gleiche Kosten, andere Regeln
+gtkdpurany Gesamteinheiten: p = 70 − Q, MC = 10, FC = 0
+iktdxhbknl Um diese Modelle zu vergleichen, müssen Kosten und Nachfrage gleich bleiben. Cournot 3 und Stackelberg 2 ergeben hier beide Q = 45, aber nicht dieselbe Aufteilung zwischen den Firmen.
+1r3zg0ybji1 Gemeinsames Monopol
+2fkts3m861p MR = MC; Preis 40.
+8xrm233agr Cournot 2
+zfi9oetdv0 Zwei simultane Mengen; Preis 30.
+bqwejyqw98 Stackelberg 2
+27rbwiw4wm9 Führer 30, Folger 15; Preis 25.
+8lam6xr1gm Cournot 3
+6jp1vl12vb Drei Firmen zu je 15; Preis 25.
+15k7i5br1qi Homogener Bertrand
+2d2kriccppu Preis gleich MC = 10 bei ausreichenden Kapazitäten und gleichen Kosten.
+28vt86q5fyk Ein Führer wählt und antizipiert dabei die Reaktion
+xfmcyg8xa Firma 1 legt sich vor Firma 2 auf ihre Menge fest. Die zweite beobachtet diese Menge und wählt ihre beste Menge. Der Führer kennt diese Reaktion: Ändert er seine Festlegung, weiß er, dass auch der Folger sich anpasst; also kann er q2 nicht mehr als konstant behandeln.
+2dm0je8wbtk BRF(qL) = 30−qL/2. Eingesetzt in πL = (60−qL−qF)qL ergibt sich πL = (30−qL/2)qL; FOC = 30−qL = 0 → qL = 30, qF = 15.
+14blqi379k9 Der Folger optimiert nach der Beobachtung, also ist seine Reaktion eine Nebenbedingung, die der Führer antizipiert.
+23r30yapi6y Der Führer wählt auf dieser Reaktion, nicht im Schnittpunkt der beiden simultanen Reaktionen.
+2brefw4bk59 dqF/dqL zu vergessen führte zurück zur Cournot-Überlegung und verfehlte die Festlegung.
+1o8mkwriu2y Q = 45, p = 25; πL = (25−10)×30 = 450; πF = (25−10)×15 = 225. Das Paar (30,15) liegt auf BRF, aber nicht auf der Cournot-BRL.
+tc3otvdhru Du wählst zuerst: Eine große, glaubwürdige Produktion schreckt einen Teil der Menge ab, die deine Rivalin danach hinzufügen wird.
+rnmxvsl20t Der Führer wählt 30 und BRF = 30−qL/2: Menge des Folgers?
+26th2e80zvq 20 gehört zum simultanen Nash, nicht zu dieser beobachteten Wahl des Führers.
+ynybqo8zpd Bring die sequenzielle Lösung in die richtige Reihenfolge.
+65ler1c18n Die beste Antwort des Folgers lösen
+1b4v4gudgzb Sie in den Gewinn des Führers einsetzen
+10b9nl8k4fp Den Gewinn des Führers unter Antizipation dieser Reaktion maximieren
+13sfbp2iagv Die Wahl des Folgers, dann Preis und Gewinne bestimmen
+chiylbwxmf Die beste Antwort des Folgers lösen → Sie in den Gewinn des Führers einsetzen → Den Gewinn des Führers unter Antizipation dieser Reaktion maximieren → Die Wahl des Folgers, dann Preis und Gewinne bestimmen
+27rvbh5q8ap Gleiches Umfeld, aber andere Ergebnisse
+m78jnb9qde Ein gemeinsames Monopol würde die Gesamtmenge begrenzen, um den Preis zu stützen. Zwei Firmen, die gleichzeitig wählen, produzieren mehr, weil jede Verkäufe gewinnen will. Ein Mengenführer legt sich noch stärker fest; das nützt hier den Kunden, senkt aber den Gewinn des Folgers.
+9br33qdw9z Mit p = 70−Q, MC = 10, FC = 0: Monopol Q = 30, p = 40; Cournot Q = 40, p = 30; Stackelberg Q = 45, p = 25; effizienter Maßstab Q = 60, p = 10.
+18fjhseo70i Die Festlegung des Führers verändert die antizipierte Reaktion und damit das Ergebnis, ohne die Präferenzen der Kunden zu ändern.
+op91mwz20w Der Führer verdient 450 statt 400; der Folger 225 statt 400.
+1q4jtopds29 Dieser first-mover advantage ist ein Ergebnis des Mengenspiels, kein universelles Gesetz aller sequenziellen Spiele.
+27rfh159b3a Cournot 3 und Stackelberg 2 ergeben hier beide Q = 45, p = 25; die einzelnen Mengen 15/15/15 und 30/15 bleiben sehr verschieden.
+9qkomdf6iy Du vergleichst zwei Lösungen: Behalte dieselben a, b, c, bevor du folgerst, dass ein Modell einen höheren Preis ergibt.
+2fa3lxjguzr Der Führer verdient hier im Mengen-Stackelberg mehr. Beweist das einen Vorteil des Ersten in allen Preisspielen?
+2qhch8nz4p Nein: Strategische Variable und Reaktionen ändern sich
+wo0pp7iwiw Preisführerschaft kann den Folger noch stärker begünstigen, wie in E2024.
+1dhfbwnqfrn Ja, „erster“ genügt
+1zpzudxur9g Die Zugreihenfolge allein bestimmt die Gewinne nicht.
+27u5ggzlehh Nein, weil der Führer hier weniger verdient
+2atvrcuye88 Hier 450>400: Das Ergebnis stimmt, ist aber spezifisch.
+2bmxb1qs44h Homogener Bertrand: Warum Unterbieten die Marge zerstört
+149tatv8akr Die Kunden halten die Produkte für identisch und kaufen beim Günstigsten. Verlangen beide Firmen mit Kosten 10 einen Preis von 12, kann eine knapp weniger verlangen und mit positiver Marge den ganzen Markt anziehen. Bei 10 würde Unterbieten bei jeder Einheit Geld kosten.
+13d755qh3ra Homogene Produkte, gleiche konstante MC, mindestens zwei Firmen, ausreichende Kapazität und stetige Preise: Nash p = MC. Hier p = 10, Q = 60 und variable Marge null.
+28h7zqogr47 Eine kleine Preissenkung kann fast den gesamten Absatz verschieben statt nur eine kleine Grenzmenge.
+qurugi23fk p>MC erlaubt profitables Unterbieten; p<MC bedeutet Verlust pro Einheit.
+1g0yfolub57 Kapazität, Differenzierung, Suche oder Wiederholung können das Ergebnis ändern: Die Annahmen müssen geprüft werden.
+1xg0i9kq8vr Bei Preis 12 bietet eine Firma 11,99 und kann die gesamte Nachfrage von 58,01 bedienen; die Marge von 1,99 macht diese Abweichung unter diesen Annahmen attraktiv.
+252fmhk13e2 Du verkaufst genau dasselbe Produkt neben der Rivalin: Warum sollte ein Kunde bei dir 12 zahlen, wenn er anderswo 11,99 zahlen kann?
+169fd52wpb1 Zwei identische Firmen, homogenes Gut, MC = 10, unbegrenzte Kapazität: Bertrand-Preis?
+23b4fdvhc20 Bei p = 10 bleibt kein profitables Unterbieten; bei p>10 lohnt sich eine Abweichung.
+2buardn51ak 30 ist der Cournot-Preis für dieses Umfeld.
+1at1wo82605 Unter MC = 10 zu verkaufen würde Geld kosten.
+gnvazrh4mi Wenn die günstigere Rivalin nur einen kleinen Teil der Kunden bedienen kann, dann die Überlegung „sie erobert den ganzen Markt“…
+251m1ryrh5l Muss überdacht werden
+2g7e58kdhad Unzureichende Kapazität verletzt eine wesentliche Annahme des Ergebnisses p = MC.
+267w87zev6y Bleibt per Definition von Bertrand exakt
+2csw3i0hh8u Der Name des Spiels liefert keine unbegrenzte Kapazität.
+opzah6ttoy Beweist, dass die Produkte differenziert sind
+no3j98hcir Eine Kapazitätsbeschränkung kann auch bei identischen Produkten bestehen.
+25bv3cgxc1v Bertrand mit unterschiedlichen Kosten: Eine Marge kann bestehen bleiben
+1mt1y2o5fpl Der effizienteste Verkäufer kann seinen Preis senken, bis er einen teureren Konkurrenten abschreckt, ohne seine eigenen Kosten zu erreichen. Seine Grenze hängt vom besten Rivalen ab, der noch liefern kann, nicht automatisch von seinen eigenen MC. Bei Preisgleichheit muss man außerdem angeben, wie sich die Kunden aufteilen.
+1nglejy2bcb E2024: Nachfrage 10−Q und MC = 5, 7 und 8. Der Effizienteste ist um 7 herum begrenzt; 7−ε zu schreiben kann bei gleicher Aufteilung zu identischen Preisen angemessen sein. Sein Monopolpreis allein wäre 7,5.
+185fu1welyf Unter 7 kann die Firma mit MC = 7 nicht mit positiver Marge konkurrieren, während die Firma mit MC = 5 eine Marge nahe 2 behält.
+ikgr0hyec7 Über 7 kann die Rivalin rentabel werden und unterbieten.
+3ichwkfnpf Bei stetigen Preisen und gleicher Aufteilung bei Gleichstand muss man begründen, warum genau p = 7 ein reines Nash-Gleichgewicht sein soll; die Grenze allein beweist die Existenz nicht.
+1nscbzu1pm5 Bei 7−ε verkauft die Firma mit MC = 5 etwa 3+ε Einheiten; Marge etwa 2−ε. Die Rivalin mit MC = 8 ist nicht die am stärksten bindende Konkurrentin.
+1ksf4882tlj Du beobachtest eine Marge in einem homogenen Markt: Prüfe, ob die Kosten wirklich identisch sind, bevor du das Modell für falsch erklärst.

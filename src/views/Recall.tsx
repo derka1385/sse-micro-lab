@@ -8,8 +8,9 @@ import { Checkpoint } from '../components/learning';
 import { Rich } from '../components/text';
 import { DOSSIER } from '../dossier';
 import { rateCard, record, reviewResult, useProgress } from '../store';
+import { lang, t } from '../i18n';
 
-const LEVELS = ['', 'Retrouver l’intuition et les sigles', 'Expliquer pourquoi', 'Reconstruire la formule à partir des acteurs', 'Transférer à un nouveau contexte', 'Écrire la réponse SSE en anglais'];
+const LEVELS = ['', t('Retrouver l’intuition et les sigles'), t('Expliquer pourquoi'), t('Reconstruire la formule à partir des acteurs'), t('Transférer à un nouveau contexte'), t('Écrire la réponse SSE en anglais')];
 
 const EXT_KEYS = new Set(['MPC', 'MEC', 'MSC', 'MPB', 'MEB', 'MSB', 'MAC', 'EC', 'CPR', 'Qpriv', 'QPoll']);
 const INFO_KEYS = new Set(['IC', 'IR', 'H', 'B', 'R', 'E[X]', 'pH', 'd', 'F']);
@@ -33,8 +34,8 @@ function buildDeck(): Card[] {
     const g = GLOSS[key];
     return {
       id: `abbr-${a.line}`, topic, dim: 'terminology' as Dim,
-      front: `Que signifie ${a.names.join(' / ')} ?`,
-      back: `${a.english ? `${a.english} — ` : ''}${a.french}${g ? ` Littéralement : ${g.literal}.` : ''} (§${a.section})`,
+      front: t('Que signifie {x} ?', { x: a.names.join(' / ') }),
+      back: `${a.english ? `${a.english} — ` : ''}${a.french}${g ? ` ${t('Littéralement :')} ${g.literal}.` : ''} (§${a.section})`,
       tags: [primary(topic), `abbr:${key}`],
     };
   });
@@ -50,12 +51,12 @@ export function Recall() {
   return (
     <div className="page">
       <header className="page-head">
-        <h1>Reconstruire plutôt que réciter</h1>
-        <p className="lead">Les révisions espacées montent en difficulté : décoder → expliquer → reconstruire → transférer → rédiger en anglais. Le rappel rapide entraîne le vocabulaire de tout le cours.</p>
+        <h1>{t('Reconstruire plutôt que réciter')}</h1>
+        <p className="lead">{t('Les révisions espacées montent en difficulté : décoder → expliquer → reconstruire → transférer → rédiger en anglais. Le rappel rapide entraîne le vocabulaire de tout le cours.')}</p>
       </header>
       <div className="seg" role="tablist">
-        <button role="tab" aria-selected={tab === 'reviews'} className={tab === 'reviews' ? 'on' : ''} onClick={() => setTab('reviews')}>Révisions espacées</button>
-        <button role="tab" aria-selected={tab === 'cards'} className={tab === 'cards' ? 'on' : ''} onClick={() => setTab('cards')}>Rappel rapide</button>
+        <button role="tab" aria-selected={tab === 'reviews'} className={tab === 'reviews' ? 'on' : ''} onClick={() => setTab('reviews')}>{t('Révisions espacées')}</button>
+        <button role="tab" aria-selected={tab === 'cards'} className={tab === 'cards' ? 'on' : ''} onClick={() => setTab('cards')}>{t('Rappel rapide')}</button>
       </div>
       {tab === 'reviews' ? <Reviews /> : <Cards />}
     </div>
@@ -70,7 +71,7 @@ function Reviews() {
   const [held, setHeld] = useState<Record<string, { check: Check; schedule: boolean }>>({});
   const entries = Object.entries(p.reviews);
   if (!entries.length) {
-    return <div className="card"><p>Aucune révision programmée pour l’instant : termine une leçon guidée et le premier rappel apparaîtra ici. <a href="#/learn">Voir les leçons</a></p></div>;
+    return <div className="card"><p>{t('Aucune révision programmée pour l’instant : termine une leçon guidée et le premier rappel apparaîtra ici.')} <a href="#/learn">{t('Voir les leçons')}</a></p></div>;
   }
   return (
     <>
@@ -86,11 +87,11 @@ function Reviews() {
         return (
           <article key={id} className="card">
             <h3>{LEVELS[r.level]}</h3>
-            <p className="meta">{l.mechanism} · niveau {r.level}/5</p>
+            <p className="meta">{l.mechanism} · {t('niveau {n}/5', { n: r.level })}</p>
             {!shown ? (
               <div className="row wrap">
-                <span>Prochain rappel dans {hours < 1 ? 'moins d’une heure' : hours < 24 ? `${hours} h` : `${Math.round(hours / 24)} jour(s)`}.</span>
-                <button type="button" className="ghost small" onClick={() => setEarly(id)}>Réviser en avance (sans compter pour l’agenda)</button>
+                <span>{t('Prochain rappel dans {d}.', { d: hours < 1 ? t('moins d’une heure') : hours < 24 ? `${hours} h` : t('{n} jour(s)', { n: Math.round(hours / 24) }) })}</span>
+                <button type="button" className="ghost small" onClick={() => setEarly(id)}>{t('Réviser en avance (sans compter pour l’agenda)')}</button>
               </div>
             ) : (
               <ReviewItem
@@ -124,8 +125,8 @@ function ReviewItem({ check, schedule, onFirstResult, onNext }: { check: Check; 
       }} />
       {result !== null && (
         <div className="row">
-          <span className={`feedback ${result ? 'good' : 'bad'}`}>{result ? (schedule ? 'Réussi du premier coup : niveau suivant programmé.' : 'Réussi (révision en avance, l’agenda ne bouge pas).') : schedule ? 'Raté du premier coup : on y revient dans 10 minutes.' : 'À retravailler.'}</span>
-          <button type="button" className="ghost small" onClick={onNext}>Continuer</button>
+          <span className={`feedback ${result ? 'good' : 'bad'}`}>{result ? (schedule ? t('Réussi du premier coup : niveau suivant programmé.') : t('Réussi (révision en avance, l’agenda ne bouge pas).')) : schedule ? t('Raté du premier coup : on y revient dans 10 minutes.') : t('À retravailler.')}</span>
+          <button type="button" className="ghost small" onClick={onNext}>{t('Continuer')}</button>
         </div>
       )}
     </div>
@@ -153,32 +154,32 @@ function Cards() {
   };
   return (
     <div>
-      <label className="row small">Thème :
+      <label className="row small">{t('Thème :')}
         <select value={topic} onChange={(e) => { setTopic(e.target.value); setSkip([]); setFlipped(false); }}>
-          <option value="all">Tous</option>
-          {topics.map((t) => <option key={t.id} value={t.id}>{t.title}</option>)}
+          <option value="all">{t('Tous')}</option>
+          {topics.map((x) => <option key={x.id} value={x.id}>{x.title}</option>)}
         </select>
-        <span className="muted">{deck.filter((c) => topic === 'all' || c.topic === topic).length} cartes</span>
+        <span className="muted">{t('{n} cartes', { n: deck.filter((c) => topic === 'all' || c.topic === topic).length })}</span>
       </label>
       {card ? (
         <article className="flash card">
-          <p className="flash-front" lang={card.dim === 'english' ? 'en' : 'fr'}><Rich text={card.front} /></p>
+          <p className="flash-front" lang={card.dim === 'english' ? 'en' : lang}><Rich text={card.front} /></p>
           {!flipped ? (
-            <button type="button" className="primary" onClick={() => setFlipped(true)}>Réponds de tête, puis montre la réponse</button>
+            <button type="button" className="primary" onClick={() => setFlipped(true)}>{t('Réponds de tête, puis montre la réponse')}</button>
           ) : (
             <>
-              <p className="flash-back" lang={card.dim === 'english' ? 'en' : 'fr'}><Rich text={card.back} /></p>
+              <p className="flash-back" lang={card.dim === 'english' ? 'en' : lang}><Rich text={card.back} /></p>
               <div className="row wrap">
-                <button type="button" className="ghost" onClick={() => rate(0)}>À revoir</button>
-                <button type="button" className="ghost" onClick={() => rate(1)}>Hésitant</button>
-                <button type="button" className="primary" onClick={() => rate(2)}>Je savais</button>
+                <button type="button" className="ghost" onClick={() => rate(0)}>{t('À revoir')}</button>
+                <button type="button" className="ghost" onClick={() => rate(1)}>{t('Hésitant')}</button>
+                <button type="button" className="primary" onClick={() => rate(2)}>{t('Je savais')}</button>
               </div>
             </>
           )}
-          <p className="small muted">Boîte {p.cards[card.id]?.box ?? 0}/5 · les cartes ratées reviennent en premier.</p>
+          <p className="small muted">{t('Boîte {n}/5 · les cartes ratées reviennent en premier.', { n: p.cards[card.id]?.box ?? 0 })}</p>
         </article>
       ) : (
-        <p className="card">Plus de carte dans ce thème pour l’instant. <button type="button" className="link" onClick={() => setSkip([])}>Recommencer</button></p>
+        <p className="card">{t('Plus de carte dans ce thème pour l’instant.')} <button type="button" className="link" onClick={() => setSkip([])}>{t('Recommencer')}</button></p>
       )}
     </div>
   );

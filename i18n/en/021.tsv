@@ -1,0 +1,219 @@
+187lp75r5mv Treat IC, IR, risk and equalities separately.
+lezd37ioi5 A weak incentive implies neither strict effort nor acceptance.
+dh719osuil Demonstrate a conflict rather than assuming it from the word bonus.
+2d9tgl777b6 The E2020 numbers align the manager's and the owner's choices.
+17ovhd91bm9 Games — choosing against someone who also chooses
+1stqtppif61 Best responses, equilibria and credibility
+n7g35w8l73 Split or take the pot? Arm yourself or trust? Compare your choices in each scenario, keep the indifferences and rebuild the complete plan.
+vr42z4tub8 Rowena / X
+1zv02w2fqdt chooses a row or moves first
+havgwywhc6 maximize her own utility
+1gmq5bvxcu2 Colin / Y
+9aiuhlnfmm chooses a column or responds after observing
+obkdu1bpfv maximize his own payoff
+wqc5gtn3t7 The analyst
+1n9pgtv7wue keeps each player's choices and payoffs separate
+1dliqueit0q identify stability and efficiency without confusing them
+1vifqqnyb0k You don't choose the outcome of your choice on your own
+x0pbxj1gff Rowena and Colin can each split a pot or try to take it. If both split, each gets 10; if only one takes, that player gets 20 and the other 0. If both take, they get 0: the value of your choice depends on the other's choice.
+1j0ldw7kvw6 A game describes players, their strategies, their information and their payoffs. In a simultaneous game, each player chooses without observing the other's current action.
+edkhm8qdrj An action doesn't carry a fixed payoff: splitting can give 10 or 0 depending on Colin.
+1g7suld45pe To know what to do, Rowena must compare her actions in each rival scenario, rather than pick the largest cell in the table.
+1y1g7wezu0u Split against split gives 10; take against split gives 20. The same rival, two private choices to compare.
+2dpnxxre0hg You're Rowena: start by imagining that Colin splits, then ask which choice pays you the most in that precise scenario.
+9qi3p8kwun Golden Balls: the monetary payoffs
+dup59hasxc S=Split, N=Steal in this assignment. First number: Rowena (row), second: Colin (column). Monetary payoffs; pure Nash only in the questions that follow.
+z5lckyzhuv Rowena
+20mnhbdjivw Colin
+1hmntqyoz3o S: split
+1s3uuibln69 N: take
+18fv6pj7i6p Why is this a strategic problem?
+m2s9v0jlz5 Your payoff also depends on the other's action
+16lb37npx99 You must anticipate their choice or condition your reasoning on it.
+2fpxm1h0svp Because the biggest number is necessarily your choice
+2b1blkkf5dq A cell gives a profile of two choices; you don't directly control the other's.
+1o0qenrvqc7 Because each can decide both choices
+186jhmp9znr Each player controls only their own strategy.
+3qi380qwdq The first number isn't always the one for the player you care about
+wwi85f4oyc In each cell, two people receive payoffs. The first number belongs to the row player, Rowena; the second to Colin, the column player. If you swap these numbers, you make someone decide using the other's payoff.
+26rpipo1oo9 Table convention: (u_row,u_column). Always keep the same order when subtracting costs or converting money into utility.
+1bfepurwgnt The table encodes two preference rankings in the same cells.
+1nlpkdaxzpz A player's best response depends only on their own ranking, not on the sum or the rival's payoff.
+1w88c3pco20 Cell Rowena S, Colin N: (0,20). Rowena receives 0, Colin 20. It's not "Colin chooses the first number".
+4snx6xa70x Hide your rival's number while you compare your actions: that way you don't solve their problem instead of yours.
+pwvxk50ph2 In cell (S,N)=(0,20), what payoff does Colin receive?
+2br0cs60oyf Colin is the column player: his payoff is the second number.
+1mhu5iyos64 0 is the payoff of Rowena, the row player.
+1sdh9dn0c31 Fix the column, then let Rowena choose
+2ebkqll3chr Suppose Colin splits. Rowena compares 10 if she splits with 20 if she takes, so she takes. Now suppose Colin takes: Rowena gets 0 either way, so both choices are her best responses.
+21gogxrsx2i BR_i = best response: the action that maximizes private payoff against a given rival action. A best response can be a set when there is indifference.
+93s2lubxm2 Colin's choice stays fixed during the comparison: otherwise you're not measuring a unilateral deviation.
+11e7423d68k An equal payoff doesn't let you eliminate an action; it remains optimal in a tie.
+175jomob8zb BR_Rowena(S)={N}. BR_Rowena(N)={S,N}. Zero doesn't rule out a best response if all the alternatives also give zero.
+21lvr45tccj You vary only your row, within a fixed column. Circle every cell that reaches your maximum payoff.
+2bglpkx2qr0 Against Colin N, what are Rowena's best responses?
+1u2za4lqnuh N only
+20ycvis4nws S also gives 0; indifference keeps both actions.
+rpialj25c4 Both maximize her payoff of 0 in this column.
+1ngdv2666j4 No action
+2em52tfbbaw Even if the payoff is zero, a maximum exists.
+hz4lnw1jtq Now fix the row, then let Colin choose
+asvsdi0ilv Suppose Rowena splits: Colin compares 10 by splitting with 20 by taking, so he takes. If Rowena takes, he gets 0 in both columns. The problem is symmetric, but you must use the second numbers to solve it.
+211wz233q3j BR_Colin(S)={N}, BR_Colin(N)={S,N}. Column best responses are found horizontally, with the row fixed.
+1mxt250761n Changing both choices at once tests coordination, not the best private choice against a given rival.
+1gr3s69vsoi Symmetry must be checked from the payoffs; the names of the actions don't guarantee it.
+1gw1rshhp34 Against S, Colin's private gain from switching from S to N is 20−10=10.
+x418vdhalo You're Colin: your deviation moves from one column to the other, without moving the row Rowena chose.
+1t4x7z24ktd Against Rowena S, how much more does Colin earn by switching from S to N?
+dl44vungkh Colin compares the second payoffs: 20−10=10.
+12zgz3u4mfs 20 is his new payoff, not the increase over the initial 10.
+1yostz6dkf5 A Nash is a cell where no player can improve their payoff alone
+2614at9ge4c Look at a cell where each player is already best-responding to the other. Changing alone then brings no strict gain. In selfish Golden Balls, (S,N), (N,S) and (N,N) pass this test, even though some players are indifferent.
+1kre6i409kv Pure Nash: each action is a best response to the other. It's neither a promise of cooperation nor a collective optimum.
+1m2t3qes2n0 Which test defines a Nash equilibrium?
+gihgvfj508 No player improves their payoff by changing alone
+1q43pdhnwx6 Each responds to the other's choice; a deviation with no strict gain doesn't destroy Nash.
+1vw35xvfaml The sum of payoffs is maximal
+1rvw76nluaf That tests collective efficiency, not individual stability.
+12i4hrlmokg At (S,N), Rowena can also take but stays at 0; Colin would lose by splitting.
+tc68f76zv2 At (S,S), each earns 10 more by taking alone: so the cell isn't Nash despite its collective appeal.
+24z3wqf8ogk (N,N) is Nash: switching alone to S keeps the payoff at 0. An improvement that requires both to move isn't a unilateral deviation.
+2f367no9hac For each player, ask "if the other doesn't move, can I do strictly better?".
+1fzbphkxbtr Which list contains exactly the pure Nash equilibria of selfish Golden Balls?
+s05s04kp3t The best responses include the indifferences against N.
+1oqzj8bg8li (N,N) only
+26s0w2dyw1i You forgot the tied best responses at the asymmetric profiles.
+zj7j0lqn3z At (S,S), taking alone raises the payoff from 10 to 20.
+14zwru6031r Weakly dominant is not strictly dominant
+bqafewirnb Taking gives 20 instead of 10 against someone who splits. Against someone who takes, taking gives the same zero as splitting. Taking is never worse and sometimes better; it isn't better in every case.
+1fqhlo03voj N is weakly dominant: at least as good against any rival action, strictly better against some. A strictly dominant strategy would be strictly better against all of them.
+p5j7vlsxdl The distinction concerns the inequalities, not the psychological strength of the temptation.
+x9ralilhkn Indifference explains why profiles other than (N,N) can be Nash.
+2c6xjbb0cwx Against S: 20>10. Against N: 0=0. A strict inequality is missing to speak of strict dominance.
+1mtw46fthn1 Don't delete the equals signs because one action feels more natural: they're economic information.
+16plbnsi1a9 Why isn't N strictly dominant?
+f7qo44v3ly It gives the same payoff as S against N
+xpplt6rue6 0=0: this equality rules out strict dominance.
+9yrnj1j7qr It always gives less than S
+11ztj92qs17 Against S, it gives 20 instead of 10.
+1oe6dap1g3x It can never belong to a Nash
+15gfkv0r7t A weakly dominant strategy can belong to several Nash equilibria.
+9cxlen7s77 Individually stable can be bad for both
+uyxpo946ki At (N,N), Rowena and Colin receive 0. They could both receive 10 by splitting together. But if the other keeps taking, splitting alone doesn't improve your payoff: the possibility of a better collective outcome isn't enough to make it stable.
+vmp157inw (S,S) Pareto-dominates (N,N), but isn't Nash in the selfish game. Efficiency and equilibrium answer different questions.
+zhoae1xfq Pareto compares two allocations: nobody loses and at least one gains.
+cpwfwn4d5x Nash compares the deviations of a single person while holding the other choices fixed.
+1sbzdcggv3g Sum at NN=0; sum at SS=20. Yet against S, taking pays 20 versus 10 by splitting.
+q077k1uorj You propose coordination to your rival. Then check whether they still have an interest in sticking to the plan once your own choice is given.
+23v0wgxg52y Is a cell that maximizes the sum of payoffs automatically Nash?
+12egl825zqa No: each can still gain by deviating alone
+mxjwb9vhx5 The best responses must be tested individually.
+21ynqca4xq6 Yes: the collective gain prevents any deviation
+289bnh8zw7l The collective isn't the objective function of each selfish player.
+1wqir33jl1u If being behind bothers you, a zero is no longer the same zero
+2aakfpli5jz Suppose you subtract 1 from your utility when the other receives more money. Receiving 0 against someone who receives 20 becomes −1, while receiving 0 against 0 stays 0. The indifference that supported the asymmetric equilibria disappears.
+8xdryosunb With envy: SS(10,10), SN(−1,20), NS(20,−1), NN(0,0). N becomes strictly dominant; the only pure Nash is NN.
+186049tkelo Choices maximize utility according to preferences, not necessarily money alone.
+8o23hemcrl Against N, choosing N is worth 0>−1; against S, N is worth 20>10. Both comparisons are now strict.
+gka1pzkvmn At profile SN, Rowena deviates to N: her utility goes from −1 to 0. SN stops being Nash.
+vaq6y71gpp You don't change any amount in the pot: you change what these amounts mean to you.
+8sjzk8niwq At profile SN with envy, by how much does Rowena improve her utility by switching to N?
+9xcrnipja9 unit of utility
+2gbgh5b0wbs She goes from −1 to 0: an increase of 1.
+plpdw72j3i Watch out for the old answer key's trap: NN is no longer Nash
+18kf3gy7wtc You now value the other's money as much as your own. As soon as at least one splits, the 20 in the pot are paid out and each gets utility 20. At (N,N), splitting alone takes your utility from 0 to 20 thanks to the money the other receives.
+2c5mbbw1877 Equal altruism: u_i=m_i+m_j. Pure Nash SS,SN,NS; NN isn't Nash. The personal answer "SS and NN" flagged in A3.1 c is wrong.
+1nv59wuooy At SS, deviating to N leaves utility at 20: no strict gain, so SS is Nash.
+hvs2f17onn At NN, the deviation to S creates 20 for the other, which the deviating player values too: they gain strictly.
+10rznm7zhr2 SN: Rowena's utility 0+20=20 and Colin's 20+0=20. NN: 0+0=0. The same money produces a different utility matrix.
+2ft6i9sbata Correct NN with a single concrete deviation; don't memorize a list of equilibria you can't rebuild.
+1i2et0eufit Same sums of money, new utilities
+v13q4ihwv Utility u_i=money_i+money_j. The numbers shown are utilities, not a new split of money. First number: Rowena, second: Colin.
+27eg9ygmayh With u_i=m_i+m_j, what exactly are the pure Nash equilibria?
+prllhf2f56 All these cells give 20; at NN, splitting alone improves 0 to 20.
+20frwg1vs1w That's exactly the personal answer key's mistake: NN admits a profitable deviation.
+lgsx4d2olf NN only
+2fvrznq6mzj You kept the selfish preferences instead of recomputing the utilities.
+1nb3els1hv9 When the other's money counts double, splitting becomes strictly dominant
+cxna0sn6es Now suppose you value a euro going to the other as two euros in your utility. If the other splits, splitting gives 30 versus 20 by taking. If they take, splitting gives 40 versus 0: splitting becomes better in every scenario.
+1rsuv2hhjyg u_i=m_i+2 m_j: SS(30,30), SN(40,20), NS(20,40), NN(0,0). S strictly dominant; the only Nash is SS.
+56or28vhww Against S, keeping 10 and giving 10 is worth 10+2×10=30; taking everything is worth 20.
+8dwhlig9fv Against N, splitting gives 20 to the other, valued at 40; taking destroys everything and is worth 0.
+axla3kgvhm At SN, Rowena's money is 0 but her utility is 40. You must state whether a matrix shows money or utility.
+11nbgzeh6wv You distinguish what lands in your wallet from the value you attach to the outcome.
+15uajkagage Rowena splits, Colin takes 20; with u_R=m_R+2 m_C, what utility does Rowena have?
+kr3cephp65 0 is the money she receives; her utility also counts Colin's payoff.
+10qs8l2sltj 20 corresponds to equal altruism, not to weight 2.
+u9rsnkewym Two Nash equilibria don't tell you which one will be played
+1x8whzqyvk8 Two countries prefer to be at peace together: each gets 9. But if the other prepares for war, responding with war gives 7 rather than 0. Joint peace and joint war are therefore both stable, even though peace is better for each.
+np82o00w82 A3 coordination game: pure Nash (peace,peace) and (war,war). The matrix alone doesn't select a unique simultaneous equilibrium.
+5vgl7sq2pj Against peace, peace 9>war 8. Against war, war 7>peace 0.
+m5prqo5zqk Beliefs about the other's response can make one outcome plausible; a non-binding announcement doesn't automatically change the payoffs.
+1qtrblbje34 Moving from war/war to peace/peace gains each player 2, but a unilateral switch against war loses 7.
+9xk5hy3il9 You want to coordinate on peace: convincing the other of your response can matter, but check whether you've actually changed their incentives.
+1860mfs1jzd Peace/war coordination
+3fs93sdhyd First payoff: X, row player; second: Y, column player. The two pure equilibria are peace/peace and war/war.
+2384s7d3ze7 Peace
+87f6a55m7l War
+1w0gmra09xf Which conclusion do the simultaneous payoffs alone justify?
+5dclnzb8ls Two pure Nash; no unique choice imposed by the matrix
+1uikdb7uv42 Both diagonals are mutual best responses.
+7wqluzitf4 Peace will necessarily be played because 9>7
+2lmuf8rleu That compares two coordinations; the private choice depends on the anticipated choice of the other.
+1vjsm9ae4qt War is strictly dominant
+sogty5r6bj Against peace, peace pays 9 versus 8.
+xqehnlgbnf When someone observes before acting, start at the end
+oerhiw1qrn X moves first in the coordination game, and Y observes. If X chooses peace, Y prefers peace 9 to war 8; if X chooses war, Y prefers war 7 to peace 0. X therefore anticipates 9 by choosing peace versus 7 by choosing war.
+1zp5qev5xh5 Backward induction: solve the follower's optimal choices in each subgame, then choose at the initial node. Here the outcome is peace/peace.
+1cijfksj9dl The first player must anticipate the actual response, not keep the other's action artificially fixed.
+1xqddmmltga Moving to an observable decision changes the game; you don't just copy the Nash equilibria of the simultaneous game.
+xt1nssz682 Y's reaction: peace after peace, war after war. X compares the induced outcomes 9 and 7, so peace.
+1zeqlw8669b You're X: before playing, fill in Y's two possible future responses, even the one that won't end up being reached.
+1o7h39f538 Sequential coordination
+255ehnhmj4g Y observes X; payoffs as in matrix A3.
+10cgws0hy9y Y after peace
+2bno703pwad Compares 9 with 8
+1oiiibzvoga Chooses peace.
+1gcjnsnbptk Y after war
+10yp9x1hor7 Compares 7 with 0
+6wit8mb8lo Chooses war.
+dvi9cll3dh X at the start
+rl97lf8zur Anticipates both responses
+1dn5zonq5gu Chooses peace because 9>7.
+1k8bw3d1yj3 In what order do you solve a two-stage sequential game?
+1cm6p53h520 Describe the terminal payoffs and the information
+17hsj6yhvjj Choose the follower's best response after each possible action
+1740ld0xgzf Carry these outcomes into the leader's choice
+k67akyr3np State the complete strategy and the resulting outcome
+et6vjk0fsd Subtract the cost of weapons before comparing
+1lx50gfpel Countries X and Y share six units of oil. Arming costs X 1 and Y 3; a country that is the only one armed receives 5 of the oil, the other 1. If both arm, the oil disappears but the costs are still paid: a large gross share is not yet a net payoff.
+1x3h67ykoox Net payoffs (X,Y): neither armed (3,3), X alone (4,1), Y alone (1,2), both (−1,−3).
+1lo1bv4m76p Y armed alone receives 5 but spends 3, so its payoff is 2; unarmed X receives 1, not 2.
+1vnh5e7906z Confusing the other's payoff with your own cost can produce a good outcome through faulty reasoning.
+123dhqqy6l7 X alone: 5−1=4 for X, 1 for Y. Both armed: 0−1=−1 for X and 0−3=−3 for Y.
+aowtt3m8eo You're Y: before examining your options, turn each oil revenue into a net payoff with your cost of 3.
+1o5fy0v5pv Weapons and oil: net payoffs
+1p22d4e3418 Pool 6; arming cost X1, Y3. The only armed country receives 5 before cost, the other 1; if neither arms they split 3/3; if both arm they lose the oil. First payoff X, second Y.
+1fuvda6yn8 X (cost 1)
+wvjk7omtrb Y (cost 3)
+2agxro88rqr Unarmed
+1qxcoa0k2o0 Armed
+2g7wow28kz5 If Y alone is armed, what net payoff does Y receive?
+6ev7e5ldhc It receives 5 of oil and pays 3: 5−3=2. Unarmed X receives 1.
+1z5qjc07qpc 5 is the gross revenue before cost.
+27hglkbciuv 1 is the payoff of unarmed X, not Y's.
+k068zd9d2t A strategy also says what you'd do off the path actually played
+14ptqiyj6h9 X moves first in the weapons game. After X arms, Y prefers to stay unarmed: 1>−3. After X stays unarmed, Y also prefers to stay unarmed: 3>2. X then anticipates 4 by arming versus 3 otherwise; but writing only "X arms" forgets Y's whole plan.
+153cftrib23 SPNE = subgame perfect Nash equilibrium. A follower's strategy specifies an action at every possible node, including off the equilibrium path.
+1trknyfih76 The off-path reaction justifies the initial choice: the leader compares what would happen if they switched branch.
+25apq3nwx0t A terminal outcome is an allocation of payoffs; on its own it isn't a complete strategy profile.
+1i3s03jky51 X first: X arms; Y doesn't arm after either of X's actions; outcome (4,1). Y's response after X unarmed is off the path but essential.
+265b8q2jpp1 You fill in two boxes in Y's plan: "after X armed" and "after X unarmed". An empty box leaves the reasoning unfinished.
+jsyicl12wa What is Y's complete optimal plan when X moves first?
+23eo137hj0p Don't arm after X armed AND after X unarmed
+1fou9bct6uv Y compares 1>−3 in the first branch and 3>2 in the second.
+2c6b29irfkb Don't arm only in the branch that's played
+21lmpz4co8p An off-path decision needed to specify a strategy is missing.
+pozjw5e84q Arm after X unarmed because 5>3
+1tk4elyvw7u 5 is gross: after the cost of 3, Y gets 2<3.
+2e8metvgw2m Changing the order can change the outcome — announcing isn't enough

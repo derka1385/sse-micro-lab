@@ -1,0 +1,81 @@
+======================================================================
+8. MONOPOLIO E CONCORRENZA MONOPOLISTICA — L8
+======================================================================
+
+8.1 Monopolio a prezzo unico
+Un'impresa fronteggia la domanda di mercato, decrescente.
+R(Q)=p(Q)*Q; MR=p(Q)+Q*p'(Q).
+pi(Q)=p(Q)*Q-C(Q); ottimo interno MR=MC.
+Trovare Q con MR=MC, poi trovare il PREZZO sulla DOMANDA, non su MR.
+Quando vendere di più impone di abbassare il prezzo di tutte le unità,
+MR<p per una domanda strettamente decrescente.
+Domanda inversa p=a-bQ: R=aQ-bQ^2; MR=a-2bQ, pendenza doppia.
+MC costante c, FC F: Qm=(a-c)/(2b), pm=(a+c)/2,
+pi=(a-c)^2/(4b)-F, se produrre è redditizio nell'orizzonte considerato.
+L'efficienza senza esternalità richiede p_D=MC ->Qeff=(a-c)/b.
+DWL=b*(Qeff-Qm)^2/2=(pm-c)*(Qeff-Qm)/2.
+
+L8 p.8–11: p=12-Q, C=3+Q^2 ->MR12-2Q, MC2Q,
+Qm3,pm9,ATC4,profitto15; Qeff4,p_eff8; DWL1.5.
+Il prezzo alto trasferisce surplus sulle unità vendute; le unità
+non vendute nonostante WTP>MC creano la perdita secca.
+Un prezzo assoluto basso è compatibile con il monopolio se MC è basso e/o
+la domanda è elastica. Esempio del lievito E2023 Q1a.
+Il monopolio non ha una curva di offerta indipendente dalla domanda: MR
+dipende dalla sua forma, e uno stesso prezzo può corrispondere a diverse quantità
+ottime con diverse domande. Riferimento E2022 Q4c.
+
+8.2 Lerner: derivazione da saper spiegare
+epsilon_D=(dQ/dp)*(p/Q), quindi (dp/dQ)*(Q/p)=1/epsilon_D.
+MR=p+Q*p'=p*(1+1/epsilon_D).
+A MR=MC: (p-MC)/p=-1/epsilon_D.
+Lerner L=(p-MC)/p: margine RELATIVO al prezzo, non profitto totale né (p-MC)/MC.
+|epsilon| grande ->margine relativo basso; domanda poco sensibile ->margine alto.
+Con MC>0, ottimo interno a prezzo unico sulla parte elastica,
+epsilon<-1; MC=0 può dare epsilon=-1.
+Una figura chiamata «inelastic demand» in un materiale può confrontare
+sensibilità relative; un monopolio con MC positivo non ottimizza in
+un punto strettamente anelastico. Lì una riduzione di Q aumenterebbe R e
+farebbe risparmiare costi.
+Questa relazione riguarda la domanda dell'IMPRESA. In oligopolio, non
+sostituire alla cieca l'elasticità del mercato a quella percepita dall'impresa.
+
+8.3 Barriere e monopolio naturale
+Barriere: regolamentazione/licenza, brevetto, controllo di un input essenziale,
+economie di scala/monopolio naturale, comportamenti strategici.
+Monopolio naturale: un'impresa può servire il mercato a un costo minore di
+più imprese, nell'intervallo rilevante. Prezzo=MC può non coprire FC.
+Brevetto: perdita statica di surplus contro incentivi a investire/innovare,
+da confrontare nel tempo. E2024 Q2b non chiede di negare la DWL statica.
+La durata legale precisa menzionata in un esercizio è un dato del
+testo, non una verifica giuridica di questo dossier.
+
+8.4 Concorrenza monopolistica
+Molte imprese, prodotti differenziati, entrata/uscita facili; un'impresa
+ha una domanda decrescente ma in genere trascura la reazione di una
+concorrente precisa. Sceglie MR=MC.
+Breve periodo: profitto positivo o negativo possibile.
+Profitto positivo ->entrata ->la domanda per impresa diminuisce e diventa spesso
+più elastica ->profitto economico nullo nel modello simmetrico LR.
+Lungo periodo: p=ATC MA p>MC; profitto nullo non significa concorrenza perfetta.
+Tipicamente produzione sotto la quantità che minimizza ATC, «excess capacity».
+Il numero di imprese e la varietà fanno parte dell'equilibrio.
+
+Shock negativo di domanda ->perdite iniziali ->uscite ->la domanda delle sopravvissute
+si riprende ->profitto nullo ristabilito. Il numero di imprese diminuisce; la quantità
+per sopravvissuta non ha un segno universale senza funzioni di domanda/costi.
+Se lo shock cambia solo la dimensione del mercato in un modello standard a
+dimensione ottima costante, può tornare al livello precedente.
+Shock di costo ->riottimizzazione ed entrata/uscita; in oligopolio con barriere,
+la disciplina del profitto nullo tramite libera entrata non si applica allo stesso modo.
+
+8.5 Imprese eterogenee
+Più produttive ->MC più basso, prezzo spesso più basso, volume/quota di
+mercato più elevati. «Competitive reallocation»: crescita delle efficienti,
+riduzione/uscita delle meno efficienti.
+La libera entrata può implicare E[pi]=0 PRIMA di scoprire la propria produttività,
+senza imporre pi=0 a ogni impresa una volta noto il suo tipo.
+L8 p.24, costo d'entrata 20 e dado equo: profitti realizzati
+28,16,4,-8,-20,-20; media 0. Nel lancio peggiore, profitto variabile potenziale
+-12: l'impresa chiude e limita la perdita a 20. Questa tabella distingue
+profitto atteso, profitto realizzato e chiusura dopo un costo d'entrata irrecuperabile.

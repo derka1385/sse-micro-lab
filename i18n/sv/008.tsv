@@ -1,0 +1,210 @@
+th0n2b09ze dQ/Q mäter reaktionen relativt till kvantiteten; dp/p relativt till priset.
+1fyhmpslm6f Deras kvot går att jämföra mellan olika enheter, förutsatt att marknaden och punkten är definierade.
+a5d1x9fbro Konstruerad efterfrågan Q = 12 − p: dQ/dp = −1. I punkten p = 4 är Q = 8, ε = −1×4/8 = −0,5.
+22bdxqrat0a Du omvandlar ”en förlorad försäljning per euro” till ”hur många procent av försäljningen per procent av priset”.
+kq8rm2loq8 Samma linje, olika känslighet
+1l33i6j2jxa Q, enheter
+1duujjeodb3 Pedagogiskt exempel Q = 12 − p. Den direkta lutningen dQ/dp = −1 är konstant, men ε = −p/Q varierar: −0,5 i (8,4), −1 i (6,6), −2 i (4,8).
+l5132hoh2y Efterfrågan: p = 12 − Q
+1favkmrdvqs Att förlora en enhet för 1 € prishöjning är inte samma procentsats i varje punkt.
+cukp4x30vo Bygg upp punktelasticiteten för Q med avseende på p.
+1gz60q5tk0p Den absoluta derivatan normeras med p/Q.
+14fts9r4fjf Q = 12 − p. Vilken εD vid p = 4?
+1yd6nnzfyrl Q = 8 och dQ/dp = −1, alltså εD = −4/8 = −0,5.
+2is9xu8gx0 Derivera inte funktionen åt fel håll
+gq6isa529x En uppgift ger dig ibland priset som funktion av kvantiteten. Dess lutning svarar då på ”hur många euro per enhet”, medan efterfrågeelasticiteten frågar ”hur många enheter per euro”. Skriv om efterfrågan eller invertera derivatan korrekt innan du räknar.
+10026115t1h Om p = A − BQ är Q = (A − p)/B, dQ/dp = −1/B och εD = −p/(BQ).
+7i751x6f20 Axlarna i en vanlig graf visar p(Q), men svaret vi söker är Q(p).
+1vz62xwgj17 dp/dQ och dQ/dp är varandras inverser när sambandet är lokalt inverterbart.
+1uyb8lj6lkk Att glömma den inverteringen ger ett felaktigt resultat som ibland ändå har ett rimligt tecken.
+b9vjowzofd En annan situation: p = 20 − 2Q. Vid Q = 5 är p = 10. dQ/dp = −1/2; ε = −(1/2)×10/5 = −1, inte −4.
+1qj9q8k56pq Om du ser lutningen −2 på pappret, fråga ”två vad per vad?”. Den frågan räcker ofta för att upptäcka inverteringen.
+1y3qam95k2s p = 20 − 2Q, Q = 5, p = 10. Vilken εD?
+1wz9kw5lz14 Du använde dp/dQ = −2 i stället för dQ/dp = −1/2.
+21hmhth0t5w Lutningen rör sig inte, elasticiteten gör det
+1qc8c4updw9 På Q = 12 − p kostar varje extra euro en enhet överallt. Men en förlorad enhet väger lite när du säljer mycket och mycket när du säljer lite. Linjen är oförändrad; den proportionella reaktionen beror på punkten.
+xddv17i64l Linjär efterfrågan Q = a − bp: direkt lutning −b konstant, ε = −bp/(a − bp) varierande. Oelastisk: |ε| < 1; elastisk: |ε| > 1.
+1ib30yvn4cz Derivatan mäter den absoluta förändringen och är konstant på den här linjen.
+13gt0zu7cwp Faktorn p/Q ändras när du rör dig längs kurvan.
+2cmqqk7ft93 Vid högt pris och litet Q är en given förlust en större procentandel av Q och en mindre procentandel av priset.
+1f2gd2emlp5 Samma Q = 12 − p: vid p = 4 är Q = 8 och ε = −0,5; vid p = 6 är Q = 6 och ε = −1; vid p = 8 är Q = 4 och ε = −2.
+1uoo44yb8tu Att förlora en försäljning av åtta väger lättare än att förlora en av fyra, även om båda förlusterna kommer från en euros prishöjning.
+usmzqe2r7z Q = 12 − p: räkna ut εD vid p = 8.
+1pur74kov50 εD = −2 beskriver en efterfrågan som är…
+295n66y022r Oelastisk eftersom −2 är mindre än −1
+u9o4a6k39w Man jämför |ε| med 1; det negativa tecknet beskriver riktningen, inte en liten storlek.
+23k6o52w39o Elastisk
+2gcrqhn9xmi Den proportionella reaktionen överstiger 1 i absolutbelopp.
+7tl4xuf3e4 Säljaren tjänar mer per enhet men säljer mindre
+bqm2eygwdn En prishöjning har två effekter på intäkten: varje såld enhet ger mer, men en del försäljning försvinner. Om köparna reagerar lite dominerar den första effekten. Om de reagerar mycket dominerar förlusten av försäljning.
+o3glwurr3c R = pQ(p), så dR/dp = Q + p·dQ/dp = Q(1 + εD). Oelastisk: en höjning av p ökar R lokalt; elastisk: den minskar R.
+whtzo0u4an R = pQ(p). När p ändras, vilket uttryck räknar med båda effekterna?
+y4rbzj4zdg Q kommer från det högre priset på försäljningen; p·dQ/dp kommer från förändringen i försäljning.
+xkgw2y0ad6 Bara Q
+10rvo8q12in Du glömmer att köparna ändrar sin kvantitet.
+1kzk74njn02 Bara p·dQ/dp
+275y3v88b3z Du glömmer det extra som fås på de enheter som fortfarande säljs.
+1297rboq669 Båda komponenterna i pQ ändras; produktregeln behövs.
+1sw3lh3lm2y Tecknet på 1 + εD visar vilken effekt som dominerar när Q > 0.
+151y6m1ijqz Slutsatsen gäller en liten lokal förändring; för en stor förändring räknar du ut båda intäkterna direkt.
+1dsn9y2aoun För Q = 12 − p: vid p = 4 är R = 32; vid p = 5 är Q = 7, R = 35. Vid p = 8 är R = 32; vid p = 9 är Q = 3, R = 27.
+1ldqx7r2aah Du säljer en plats dyrare. Glöm inte studenterna som lämnar kön: den nya prislappen är inte hela din intäkt.
+48gvi6bsmh Priset stiger; intäkten stiger inte alltid
+al6seu2os6 € i intäkt
+1xi5gp6fvn2 Samma konstruerade efterfrågan Q = 12 − p. Intäkt = pQ; detta är intäkter, inte vinster, eftersom ingen kostnad har angetts ännu.
+3rgce7n9ou R = 6×6 = 36; enhetselasticitet, R:s topp för den här linjen.
+sinj0k6rbt R = 8×4 = 32; lokalt elastisk efterfrågan.
+23640mgfie1 εD = −0,4. Vad gör en liten höjning av p med R?
+pndtaernk R sjunker eftersom Q sjunker
+1kba7x52p22 Du glömmer det pris som fås på de enheter som fortfarande säljs.
+d6g3y205v5 R ökar
+2f62z4rtdqq 1 + ε = 0,6 > 0: kvantiteten minskar proportionellt mindre än priset stiger.
+25p13v3jowo Q = 12 − p: vilken intäkt vid p = 6?
+2e6m06fcc7x Q = 6, alltså R = 6×6 = 36.
+1lf180i6g31 Maximal intäkt betyder inte maximal vinst
+1abgnp3t3wc Säljaren behåller inte hela intäkten: hen betalar också för att producera. Priset som maximerar pQ kan alltså leda till att man producerar enheter som kostar för mycket. Elasticiteten förklarar en del av valet; för vinsten behövs även kostnaderna.
+1i58i8jmo6s Vinst π = R − C. Maximalt R innebär MR = 0 i en inre punkt; maximal vinst innebär MR = MC med övriga kontroller.
+1s3qfef8sqq En extra försäljning kan höja intäkten men kosta mer än den tillför.
+19cwz4rou9t Intäktsmaximering bortser från den extra kostnaden.
+18m60n0aybt Så snart MC > 0 kommer den relevanta stoppunkten för vinsten i allmänhet före intäktstoppen.
+2th76fhh0g Samma inversa efterfrågan p = 12 − Q, konstruerad kostnad C = 2Q. Maximal intäkt: Q = 6, p = 6, vinst = 36 − 12 = 24. Maximal vinst: MR = 12 − 2Q = 2 ⇒ Q = 5, p = 7, vinst = 35 − 10 = 25.
+19go82xzq0e Du tittar inte bara på hur mycket som kommer in i kassan; du tittar på vad som blir kvar efter kaffets kostnad.
+aucpyuhvrt Garanterar en enhetselastisk efterfrågan ε = −1 maximal vinst?
+b0q7qlruhh Ja, eftersom intäkten är maximal
+1t5bvxq4k4j Det vore bara garanterat under extra antaganden om kostnader och definitionsområde.
+1wltdfol9ac Nej, den visar en lokalt stationär intäkt; för vinsten spelar kostnaderna roll
+1krgoorn14y Vinsten jämför MR med marginalkostnaden.
+ncbsb2f6ts A2: använd tecknet och tidshorisonten för att förutsäga
+1w93uptld75 Myndigheten vill veta effekten av ett högre bensinpris. Börja med den efterfrågade tidshorisonten och behåll efterfrågans negativa tecken. En prishöjning gånger en negativ elasticitet ger en minskning av kvantiteten.
+1durs949tjb Approximation: %ΔQ ≈ ε·%Δp. För ett mål: %Δp ≈ %ΔQ/ε.
+1nj4r8kj7at Procent kvantitet per 1 % av priset är precis vad ε betyder.
+2apnpiy94nu För en given förändring behåller multiplikationen den logiken som lokal approximation.
+2fe7pm9hm74 För att hitta den åtgärd som behövs inverterar man beräkningen men behåller tecknen.
+zptgdjd72j A2: εSR = −0,25; εLR = −0,60. Pris +5 % ⇒ QSR ≈ −1,25 %, QLR ≈ −3 %. Mål QLR −15 % ⇒ pris ≈ (−15)/(−0,60) = +25 %.
+b9wjr2qns1 Innan du knappar på räknaren, förutsäg riktningen: för att minska bensinanvändningen med en fallande efterfrågan måste priset stiga.
+1ilybs6nopr εSR = −0,25 och pris +5 %. Ungefärlig förändring av Q i %?
+1zzvonvk0u1 −0,25×5 = −1,25 %. Behåll minskningen av kvantiteten.
+24r3k50xfdp εLR = −0,60; mål Q −15 %. Ungefärlig prishöjning i %?
+1mhfv4yo03s (−15)/(−0,60) = +25 %. Det är den proportionella approximationen.
+1k6skzlhm43 En stor förändring avslöjar approximationens gräns
+88q0oziz08 Att multiplicera procentsatser är praktiskt nära utgångspunkten. Vid en stor höjning kan efterfrågans krökning spela roll. Om uppgiften föreskriver en funktion med konstant elasticitet ger den ett annat exakt samband: ange konventionen före siffran.
+1i0hv1ucgt1 Om Q = A·p^ε gäller Q1/Q0 = (p1/p0)^ε. Alltså p1/p0 = (Q1/Q0)^(1/ε). Den linjära approximationen är inte denna exakta identitet.
+1yns6fs3oka Den lokala elasticiteten mäter en infinitesimal reaktion; att tillämpa en enda lutning på en lång förändring förenklar förloppet.
+5u90jlitdc En funktion med konstant elasticitet beskriver hela förloppet och möjliggör en exakt beräkning.
+1fr0vxi7jyb De två resultaten följer olika konventioner; det ena ger dig inte rätt att presentera det andra som en identitet.
+1litnvor235 A2: mål Q1/Q0 = 0,85 och ε = −0,60. Exakt om Q = A·p^−0,6: p1/p0 = 0,85^(−1/0,6) ≈ 1,3111, dvs. +31,11 %. Vanlig approximation: +25 %. Skillnad ≈ 6,11 procentenheter.
+23s07clcmg4 Du skriver ”proportionell approximation” eller ”exakt konstant funktion” innan du visar resultatet: då ser rättaren vilken modell du valt.
+bi4y6kh9h1 Resultatet +25 % för målet −15 % med ε = −0,60 är…
+18fbvy8nasw Exakt för varje funktion där ε är −0,60 i utgångsläget
+36tcnn8vro En elasticitet i utgångspunkten bestämmer inte hela funktionen.
+gdjd6bsasc Den proportionella approximationen, inte det exakta resultatet för Q = A·p^−0,6
+2chgtefqu6j Den exakta beräkningen med potensfunktionen ger ungefär +31,11 %.
+ns2nu0gitf Konstruerad efterfrågan Q = A/p, alltså ε = −1. För att halvera Q, med hur många procent måste p exakt stiga?
+j4f04y1ptq Q1/Q0 = p0/p1 = 1/2 ⇒ p1 = 2p0: pris +100 %, inte +50 %.
+7uavg115yf Det pris som ändras är en annan varas
+28d1gy1j8uk Tepriset stiger och du köper mer kaffe: det tyder på att det ena ersätter det andra. Kexpriset stiger och kaffet som dricks till kexen minskar: det tyder på komplementaritet. Tecknet avläses på den bestämningsfaktor som faktiskt ändrades, inte på en regel om att ”all efterfrågan är negativ”.
+6awag2yska Korspriselasticitet εij = (∂Qi/∂pj)·(pj/Qi). Positiv: substitut; negativ: komplement, i den givna modellen.
+1i7szcj8pr1 Priset på vara i förblir givet: man mäter en förskjutning av dess efterfrågan som orsakas av ett annat pris.
+zywx2u5ilh Om den andra varan blir mindre lockande och man går över till i är reaktionen positiv.
+1mkm4sy16ol Om varorna används tillsammans minskar en fördyring av den ena användningen av paret och kan minska Qi.
+f42o4v50lg Konstruerad övning: εkaffe,te = +0,4 och tepris +10 % ⇒ kaffe ≈ +4 %. Med εkaffe,kex = −0,2 och kexpris +10 % ⇒ kaffe ≈ −2 %.
+27gcw82o8d4 Du kan förklara tecknet innan du räknar: ”jag ersätter teet” eller ”jag tar mindre av paret”.
+24n2g9cduxn εkaffe,te = +0,4. Tepris +10 %. Ungefärlig förändring av kaffe i %?
+hfxt4j37bw 0,4×10 = +4 %. Kaffe och te är substitut i den här situationen.
+r474x9lh9y En negativ korselasticitet visar…
+18ybbgx4tn8 En vanlig efterfrågan på det egna priset, utan information om samband
+1o1mwopd70 Prisets index spelar roll: det handlar om pj, priset på en annan vara.
+ygwd4q9il0 Komplement
+kl1evt9kj4 Den andra varans pris stiger och kvantiteten av den studerade varan minskar.
+11j49agcqy När din inkomst ändras berättar tecknet något annat
+153kb8wzcy9 Med mer inkomst kan du köpa mer av en normal vara. Du kan också sluta med en vara som du främst använde när budgeten var trång: den är då inferior i det inkomstintervallet. Begreppen beskriver en kvantitetsreaktion, inte varans moraliska eller materiella kvalitet.
+q1kxeujxcf Inkomstelasticitet η = (∂Q/∂I)·(I/Q). η < 0: inferior; η > 0: normal; η > 1: lyx; 0 < η < 1: normal nödvändighetsvara.
+1qm9ole8pzx Inkomsten ändrar de överkomliga korgarna medan priserna är konstanta.
+tzyco1cmt0 Reaktionen beror på preferenserna och på den observerade inkomstnivån.
+1c757h4vx72 Samma vara kan byta kategori när behov och alternativ ändras.
+1hsoo8v8si0 Konstruerade exempel: η = −2, inkomst +10 % ⇒ Q ≈ −20 %. η = 1,4, inkomst +10 % ⇒ Q ≈ +14 %: varan är normal och en lyxvara i det studerade intervallet.
+jw6iwyv24o Ett vandrarhem kan vara ditt normala alternativ med liten inkomst och sedan ersättas av ett hotell när dina resurser växer. ”Inferior” beskriver det valet.
+2fr0610vuek η = −2, inkomst +10 %. Ungefärlig förändring av Q i %?
+2e6x155iifc −2×10 = −20 %. Varan är inferior i det här intervallet.
+1epd5rswiye η = 1,4 betyder…
+26v4ydzxl75 En vara av dålig kvalitet eftersom den är dyr
+iazl3mcki1 Klassificeringen bedömer varken kvaliteten eller prisnivån.
+1hdp69021yv En normal vara vars kvantitet växer mer än proportionellt mot inkomsten
+1g0ton7yifo 1,4 > 1: en lyxvara i inkomstelasticitetens mening.
+1jr4k7lg1t8 Två punkter: ange vilken bas du använder
+kcamnir2kv En förändring från 6 till 4 ger inte samma procentsats om du tar 6, 4 eller deras medelvärde som bas. För att jämföra två punkter symmetriskt använder bågmetoden medelvärden. Den får inte blandas med en utgångsbas för den andra variabeln.
+lh46rr9fwk Bågelasticitet: [ΔQ/((Q0+Q1)/2)] / [Δp/((p0+p1)/2)]. Båda nämnarna följer samma konvention.
+s4mefamj6h Utgångsbasen beror på i vilken riktning du går igenom förändringen.
+16xle7jl6ar Medelvärden behandlar de två punkterna symmetriskt.
+twtey4ps2k Att byta bas ändrar det diskreta måttet; att ange konventionen gör beräkningen tolkningsbar.
+2bfg9rvvkho Q: 6 → 4, p: 1 → 2. Båge: (−2/5)/(1/1,5) = −0,4/(2/3) = −0,6. Utgångsbas i L4: −1/3. Datan är identisk; konventionen skiljer sig.
+1zrd346r3xz På ditt papper skriver du ”båge, medelbaser” och använder fem för Q och 1,5 för p; du blandar inte fem och ett.
+1us8nsjopqd Q: 6 → 4, p: 1 → 2. Vilken bågelasticitet med medelbaser?
+1jqo86dl1uf Medelvärden: Q = 5, p = 1,5. (−2/5)/(1/1,5) = −0,6.
+1n14r19ikmj Att använda medel-Q men ursprungligt p ger…
+1cn5g1h1frd Samma sak som bågen per definition
+8mpvxvz2k9 Bågen tar medelvärden i båda procentsatserna.
+1rttxfnfykx En blandning av konventioner att undvika
+1fcumo7ta0n Kvoten är varken det definierade bågmåttet eller måttet med utgångsbas.
+1m08l1fdmo1 Gränsfall och den sista kontrollen
+xl6k0loaa2 Om kvantiteten aldrig ändras när priset rör sig är efterfrågan fullständigt oelastisk. Om en infinitesimal prisskillnad får köpen att tippa över i gränsmodellen är den fullständigt elastisk. Däremellan behåller du tecknet och punkten: du kan inte automatiskt ge en hel linje en enda elasticitet.
+17xeg5ye94h Lodrät efterfrågan: ε = 0. Vågrät efterfrågan i gränsfallet: |ε| oändlig. Vid Q = 0 är ε = (dQ/dp)p/Q odefinierad; undersök ett gränsvärde om det är motiverat.
+1j82mjfklup En lodrät linje låser Q oavsett pris: dQ/dp = 0.
+2fjmu245s2f En vågrät linje låser det tillåtna priset och medger i den ideala modellen en godtyckligt stark kvantitetsreaktion.
+z5kqmkdkbu Division med Q kräver ett definitionsområde: i punkten där Q är noll ska du inte ange en ändlig kvot utan motivering.
+1sjd4am4ck4 Konstruerad efterfrågan Q = 12 − p: vid p = 0 och Q = 12 är ε = 0 i den punkten; det gör inte hela linjen lodrät. När p närmar sig 12 underifrån närmar sig Q 0 och |ε| blir mycket stort.
+1fw2bj584uf Du kontrollerar ”vilket pris? vilken kvantitet? vilken variabel ändrades? vilken konvention?” innan du klassificerar eller räknar ut en intäkt.
+ag9ro98t7c En fullständigt oelastisk efterfrågan har en kurva som är…
+sjl9t4u08p Vågrät, eftersom ε = 0 betyder vågrät lutning
+dca2dswwo2 Du blandade ihop dQ/dp med den ritade lutningen dp/dQ.
+17i9caezzlr Lodrät: Q ändras inte när p ändras
+1u0qch1dmob Den proportionella reaktionen i Q är noll.
+170hodeyruu Förklara med egna ord varför en prishöjning kan sänka intäkten.
+27uhnaqwzcd Mer per enhet
+122ytyr8ihs Förlorad försäljning
+1fgw68gohan Dominerande proportionell reaktion
+wfa59edzv0 Det högre priset ger mer på varje enhet som fortfarande säljs men minskar försäljningen. Om efterfrågan är elastisk väger den proportionella minskningen i kvantitet tyngre än prishöjningen: intäkten sjunker.
+zf0nopyu8v Eget pris, annat pris och inkomst beskriver inte samma reaktion; kort och lång sikt ger inte samma möjligheter.
+1krcs26et5f Vi vill jämföra förändringen relativt utgångsnivåerna, inte en rå lutning med enheter.
+2dbd21z5be1 Tecknet beskriver riktningen; storleken kan variera längs samma linje.
+biu2gr5ep Lokal approximation, båge och exakt potensfunktion kan ge olika siffror.
+zanm4c6l3z Reaktionen visar substitution, typ av vara, ett kvantitetsmål eller effekten på intäkten, utan att ersätta en vinstberäkning.
+1pum31gpx28 ε = −0,6 beskriver en proportionell minskning av Q när p stiger, över den angivna tidshorisonten och i den angivna punkten. Beräkningen −15/(−0,6) = +25 % är den proportionella approximationen. Om Q = A·p^−0,6 föreskrivs för hela förändringen är den exakta höjningen ungefär 31,11 %. En oelastisk efterfrågan får intäkten att stiga vid en liten prishöjning; vinsten beror även på kostnaderna, och en stor förändring kräver att man jämför nivåer.
+24ksbgoyrs Identifiera variabeln och tidshorisonten
+27vn4gnu83f Omvandla reaktionen till procent
+maiwn1fgdz Behåll tecknet och punkten
+1u9ldqbbdzk Räkna under en angiven konvention
+knek3w6ome Gå tillbaka till det ekonomiska beslutet
+uyg30g9nby En vän säger: ”bensin har ε = −0,6, så att höja priset med 25 % minskar Q med exakt 15 % och höjer nödvändigtvis vinsten”. Förklara vad som stämmer, vad som saknas och hur du skulle resonera.
+5w0sgi59l3 Negativ proportionell känslighet
+oh9esg6g33 1 % högre pris ger lokalt ungefär 0,6 % mindre Q.
+lk2uppaifk 25 % är en approximation
+1kv1etf0v7o En stor förändring kräver en uttrycklig modell eller konvention.
+lubmbxeel4 Med |ε| < 1 dominerar priseffekten lokalt.
+kwyngprinw Kostnader för vinsten
+1a0e398p3fd Intäkten räcker inte för att dra slutsatser om π.
+c6vwww5n82 Derivatan måste normeras med p/Q; på en rät linje varierar elasticiteten med punkten.
+17p6i00pqoi 25 % är approximationen för målet i A2. För Q = A·p^−0,6 är den exakta lösningen ungefär +31,11 %.
+1wuw3azlq36 Vinsten drar av kostnaderna. Högre intäkt bevisar inte högre vinst.
+1iet1i42reo Konstruerad övning baserad på L4, A2.1 och fällorna i §20. Värdena för den linjära efterfrågan och det exakta målet är pedagogiska varianter, inte en officiell tentauppgift.
+2bex13zy1i0 dQ/dp = −2, Q = 80, ε = −2×20/80 = −0.5 : inelastic.
+svbbli5lp6 p1/p0 = 0.8^(−2) = 1.5625, exact +56.25%. Approximation: (−20)/(−0.5) = +40%.
+vonuwse6vt Identifiera direkt efterfrågan och räkna ut Q i den efterfrågade punkten.
+1rkwgau46fn Normera derivatan med p/Q och klassificera sedan med |ε|.
+205ik13qbbn Räkna ut R = pQ i båda punkterna i stället för att blint extrapolera en lokal slutsats.
+1coehiwdse0 För den exakta förändringen på den andra marknaden, använd kvoten från potensfunktionen.
+1enkr6gx67j Markera (Q,p) = (80,20) och (70,25), sedan motsvarande rektanglar pQ.
+28xcgcfui4o Använd inte den här linjen för att avbilda den andra marknaden med konstant elasticitet.
+1hy6rg6vb3i En efterfrågan är elastisk om…
+1bk365e7o45 εD är negativ, oavsett storlek
+hwx8ul3jsw De flesta fallande efterfrågekurvor har negativt tecken; det räcker inte för att klassificera storleken.
+wqo8a2ao4f Den proportionella reaktionen i Q överstiger prisets.
+awyf40xayi En positiv korselasticitet visar…
+gf46ebxwq1 En lyxvara
+12p9sicfth6 Lyx avläses med inkomstelasticiteten, inte korselasticiteten.
+1zud98yev5d Substitut i den givna modellen
+12lkc97iadv Den andra varans pris stiger och den studerade efterfrågan ökar.
+1edylwewpik Varför normera derivatan med p/Q?
+q83w0ctw1t För att göra alla elasticiteter positiva
+1v4fkhyt77j Normeringen tar inte bort derivatans tecken.
+nz2doue3po För att omvandla den absoluta reaktionen till en proportionell reaktion

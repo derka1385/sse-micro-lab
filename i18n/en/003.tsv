@@ -1,0 +1,217 @@
+7xsyc1uc4h These panels are "missing" in the sense that they are not destroyed panels: they are trades that would have created value and never happened.
+1s1bn7ddyvi For the panel at point 20, the buyer would have to pay at least 50 (the cost) for a personal value of 40. The neighbours' €20 is not in their pocket.
+29xkfw5rieb The gap shrinks from 18 to 22 because MSB falls and MPC rises: the loss on the panel at point 19 (63 − 48 = 15) is larger than at point 22 (0).
+1sonjsf10m7 Click the small bars on the graph: each one is a missing panel, with its social value and its cost.
+1x9g192pgo8 You turn down the panel at point 20: it would cost you 50 for 40 of value. Reasonable for you. But your neighbours would have gained 20: for all of you, 60 of value for 50 of cost. A good collective deal that nobody signs.
+178qmryrz9y The bars between 18 and 22 are the missing panels. Each bar runs from MPC (cost) to MSB (social value): its height is what society loses on that panel.
+kehs6ghc6u Panel at Q = 20: how much does society lose because it is not produced? (MSB − MPC)
+1jyqxfmcdiu 20 = MEB: that is the gap MSB − MPB. We want social value − cost: MSB − MPC.
+1bahqy71lp8 MPB − MPC = 40 − 50 = −10: that is why the buyer refuses. But the social loss compares MSB with MPC.
+2a1ogp4q5zv A6 curves
+20ttd7swtld unit-by-unit reasoning
+t4g41tb9gg What society loses: the deadweight loss
+1yjcnyu8yp4 DWL, value never created
+1hr4wia57kg For each missing panel, society loses (its social value − its cost). The panel at point 18 would have added 20 more, the one at point 22: 0. Add up all these losses: you get the area of the triangle between MSB and MPC, from 18 to 22.
+8p7mcv939s [[DWL]] = area between MSB and MSC over [Qm, Q*] = ½ × (22 − 18) × 20 = 40.
+rp41f5sw7y This area is a triangle. Base and height?
+17zvv6rig2i Base 22 − 18 = 4; height 66 − 46 = 20 (the gap at Q = 18)
+10ou2ll4f6x Yes: the gap is 20 at point 18 and falls to 0 at point 22.
+upelu3lzf9 Base 22; height 20
+abxhih2d32 The base does not start at 0: only the units between 18 and 22 are missing.
+1h0cfwpenk1 Base 4; height 46
+29vbncflj42 46 is a price, not the gap between social value and cost.
+13d8wz7fmvb Check with total welfare: W(22) − W(18) = 1210 − 1170 = 40 (§15 A6).
+221d4lw8s2a Take a missing panel between 18 and 22. Its height in the triangle = what it is worth to society (MSB) − what it costs to produce (MPC). That difference is welfare that could have been created and wasn't. Do it for each missing panel: the stacked slices form the triangle.
+26dxyy7ozb It is a triangle because the gap is 20 at point 18 and 0 at point 22, and shrinks in a straight line (linear curves): the sum of the slices = ½ × base × height (§2.3).
+22z22fqd8z5 The benchmark is SOCIAL: we measure what society loses compared with the BEST outcome for it (Q* = 22), not compared with the market. Between 18 and 22 there is in fact nothing between MPB and MPC: MPB is BELOW MPC (§11.2, §20.2).
+fy9rr4pk1r Check: W = CS + PS + external benefit. With no intervention: 486 + 324 + 360 = 1170. At the optimum: 1210. Gap: 40 = DWL (§15 A6).
+2u825hnpjw Vaccines E2020 Q3: DWL = ½ × (55 − 45) × 20 = 100.
+1gndepeu6w3 You and your neighbours could together have paid for 4 more panels and come out €40 richer in total. That €40 went to nobody: it never existed.
+2el1lhc0l51 Click the red triangle: each vertical slice is a missing panel; its height = MSB − MSC at that point.
+oi51s5j3hd Compute the DWL of the market with no intervention.
+t9javt8wup You forgot the ½: the gap is not 20 for every missing panel, it goes from 20 to 0.
+wmrscwkzl5 360 = 20 × 18 = TOTAL external benefit of the panels produced. It is not a loss.
+4a7ajkhmmf 440 = 20 × 22: spending on the optimal subsidy. It is a transfer, not the DWL.
+1r2yoih6dxx Why is the triangle ABOVE MPC and BELOW MSB?
+ysaowetgrs Because the height of each slice = social value of the missing panel − its cost
+rtnkd0quol Exactly: it is the net value lost, unit by unit.
+1b25d7h1h4g Because a DWL always lies between supply and demand
+13atmw15kg0 Not here: between 18 and 22, MPB is below MPC. With an externality, the benchmark is SOCIAL (MSB, MSC).
+1bg1eswfmj3 Because the state pays for this triangle
+1ypc697sqhu Nobody pays for this triangle: it is value that does not exist.
+1o5odl4yb3d measuring the DWL
+3oxv464gey How do we get the missing panels bought?
+wlpgg0rexl The problem: the buyer ignores the neighbours' €20. Idea: the state pays €20 per panel. Your private calculation then becomes "my value + 20" = exactly the value to society. So you buy as if you counted your neighbours.
+kjrkeko9n0 Pigouvian subsidy: {{s* = MEB(Q*) = 20}}. Equilibrium: MPB + s = MPC ⇒ Q = 22; p_b = 34, p_s = 54.
+12w0eyn2v14 How big must the subsidy per panel be for the market to stop exactly at 22?
+24olx5mt6y7 Yes: it exactly fills the gap between MPB and MSB at Q*.
+1x6hb6508f4 40 = the DWL
+cm0suy4d8z The DWL is an area (€), the subsidy an amount per unit (€/panel).
+1fqa4u5zp9p 54 = the cost of the 22nd panel
+vyz92fu7n The state does not pay for the whole panel: only the gap between social value and private value.
+2cinsld7cxg That is the state's TOTAL spending, not the amount per panel.
+2359unwxbvb Your analogy is right
+2fqx9gmwhar "I would buy 18 panels. Society would want 22. The state helps make the extra panels worthwhile for me." ✓ Precise version: a per-unit subsidy {{s* = MEB(Q*) = 20}} moves your incentive from MPB to MPB + 20 = MSB.
+1dp304xm7b2 Exactly 20 because the private decision (MPB + s = MPC) must land in the same place as the social decision (MSB = MPC). Since MSB = MPB + 20, s = 20 is enough.
+1h9zqhanjgu We evaluate it at Q* because the subsidy must pay exactly the external benefit of the LAST unit we want produced. Here MEB is constant, so MEB(22) = 20. If MEB depends on Q, you need MEB(Q*) — next block.
+1tx0sp3v9v7 It does not matter who legally receives the subsidy (buyer or seller): only the gap p_s − p_b = s counts, the quantity is the same (§7.2–7.3).
+eamhjddt7o Welfare rises despite the spending: W = CS + PS − subsidy + external benefit = 726 + 484 − 440 + 440 = 1210 > 1170. The subsidy is a transfer; the real gain = the 40 of DWL recovered (§15 A6).
+1mmxbtcz0pd A green bonus per panel or per electric vehicle: support per unit bought.
+26zab1isxqp The state tells you: "for each panel, I'll pay you back €20". The panel at point 20, which was worth 40 to you, is now worth 60 to your wallet — more than its cost of 50: you buy it. You stop at the 22nd, where your value + 20 = cost = 54.
+1gfarylfu1j The dotted blue curve MPB + s overlaps MSB when s = 20. Move the subsidy slider: at 20, the equilibrium lands exactly on Q* = 22. The grey rectangle = state spending (20 × 22 = 440).
+cekhpe0ftm pays s* = €20
+1r2auh82o1q With s = 20, what price does the buyer PAY for the 22nd panel?
+zillb8pg3p The buyer pays their marginal value: p_b = MPB(22).
+6gtzic1sf4 p_b = MPB(22) = 100 − 66 = 34. The seller receives p_s = 34 + 20 = 54 = MPC(22).
+lnl1r97p0e 54 is what the seller RECEIVES (p_s). The buyer pays 20 less.
+msd3ms804g Is the public spending of 440 (= 20 × 22) a deadweight loss?
+1a43q2rovfr Yes, it is money lost by the state
+17ozpk7igwq The money is not destroyed: it moves from taxpayers to buyers and sellers.
+1l25eowibjk No: it is a transfer. We subtract it in W, but it reappears in CS and PS
+1795rzyemcl Exactly. Welfare goes from 1170 to 1210.
+1f7tjsu24ur We don't count it in welfare
+3apiqm3v78 You MUST count it (− 440), otherwise W is overstated; it is offset by the gains it funds.
+25n5ox0e8wr Pigou
+29f7c8gry7j the student's analogy
+1gnzhrub04 What if the external benefit depends on Q?
+2qalftese7 s* = MEB(Q*) when MEB = 30 − Q
+lxl5xb9m6m Imagine the town's first panels replace the dirtiest power plants, and the next ones cleaner sources: each extra panel helps a little less. MEB is no longer constant: {{MEB = 30 − Q}}. What subsidy is needed then?
+akzflmje30 MSB = 130 − 4Q ⇒ Q* = 20. {{s* = MEB(Q*) = 10}} — not the intercept 30, not MEB(Qm) = 12.
+2fioxsk9vhv Constructed variant
+tani8v6czt MEB = 30 − Q is not in the course: it is an extra to practise the rule documented in §11.3 ("evaluate at the efficient quantity"). The course applies it on the negative side: petrol, MEC = Q ⇒ t* = MEC(30) = 30, not MEC(45) = 45.
+1tuq1eapzn4 At Q*, the subsidised buyer must be indifferent between buying and not buying: MPB(Q*) + s = MPC(Q*). Since MPC(Q*) = MSB(Q*) = MPB(Q*) + MEB(Q*), we get s = MEB(Q*).
+1emu1cf4xtt Not the intercept: 30 is the external benefit of the VERY FIRST panel, not the 20th. A subsidy of 30 would pay every panel as if it were the most useful: over-incentive, the market would go up to 24.
+20i0qu0bod8 Not MEB(Qm) either: the market will not stay at Qm once subsidised. The right value is that of the last DESIRABLE unit (§11.3, §20.2).
+1f01gzswcvk Same logic on the negative side (L11, E2023): MEC = Q, Q* = 30 ⇒ tax t* = MEC(30) = 30, not 45.
+28ixvfpzkem The state pays you for the service YOUR LAST panel provides to the neighbours — not for the one the town's first panel provided.
+1zlfkpyoq04 Graph of the variant: MEB falls, MSB = MPB + MEB is steeper. Try s = 30 (too much), s = 12, then s = 10: only the last one lands right on Q* = 20.
+xvkkho9279 With MEB = 30 − Q and Q* = 20, which subsidy per panel implements the optimum?
+164e588whaa 30 (the value of MEB at the origin)
+8xl6pde7kd With s = 30, the market would go up to Q = 24 > 20: too many panels, a new DWL of 48. Try it on the graph.
+sil3co0oy3 12 = MEB(18), evaluated at the initial market
+1fr4uiagtac Wrong point: with s = 12 the market would go to 20.4. You need the value at the target quantity.
+kpvo2nkmv 10 = MEB(20), evaluated at Q*
+1h07pk6b5d5 If the state still pays s = 30, what quantity does the market trade?
+2fkm1uiz8ul Solve 100 − 3Q + 30 = 10 + 2Q.
+13gzz9f18z5 130 − 3Q = 10 + 2Q ⇒ Q = 24 > Q* = 20: over-production, DWL = ½ × 4 × 24 = 48.
+1mr92zf2k1f 20 would be reached with s = 10. With 30, the subsidy pushes further.
+15xreoepsig constructed variant MEB = 30 − Q
+27kvo2z15uv evaluate at Qeff
+1t57cddighv petrol t* = 30
+1adrhm4zz7d The full chain
+10bidu2yij6 Put the mechanism back in order: each link CAUSES the next.
+58zyql5jj0 Each step is only true because the previous one is: if the neighbours gained nothing (MEB = 0), Qm would already be optimal and there would be neither DWL nor subsidy.
+d1s4wnpajm Replace "panels" with "vaccines": the chain is identical, only the numbers change (E2020 Q3).
+21b5q6ffhdx I buy for myself → my neighbours gain too → I don't count it → I buy too little → society loses → the state pays the difference → I buy the right quantity.
+1wt2qan6qd7 The full graph: both quantities, the MEB gap between MPB and MSB, and the deadweight loss.
+12inzl2yn0l Click the links in causal order.
+1ib1a5rab53 The buyer compares their private value (MPB) with the price
+1w40pth47fz Each panel also gives the neighbours 20 (MEB)
+1f5i254a64i The market ignores this benefit: it stops at Qm = 18
+1z4zg75vnmt Society would want Q* = 22 (MSB = MSC)
+az5v5as9bw The missing panels create a DWL of 40
+cdrbjxoacd A subsidy s* = MEB(Q*) = 20 aligns the private incentive with the social value
+2ay4y8y6vi0 Explain it to me
+5jo3cwdkx6 Without looking above, explain in your own words why the solar panel market stops too early and what the state can do. Analogies are welcome: we assess the CAUSAL LINKS, not the vocabulary.
+2e1bv7zqyre Explaining forces you to rebuild the chain instead of recognising it: that is what reveals the missing links.
+27or8iispdg Start with "When I buy a panel, I look at…".
+2b3qw0bzpke Tell it as if you were explaining it to a friend who is unsure about buying panels.
+108acgpy4t1 The graph stays visible: you can use it to tell the story.
+1v9q0e5w2dk Exam question (EN)
+1mqddbt0kok New context, same mechanism: vaccines, taken from E2020 Q3. Answer in English, without hints. The detailed solution appears afterwards.
+g5h8kvk4bh Changing context checks that you understood the mechanism, not memorised "18 and 22".
+1a4f5vw6a7v Start by identifying the model: which curve departs from its private version?
+1lmkwks5edj You are in the exam. Nobody tells you "positive externality": it is up to you to spot it in the question.
+1cnpake881k No graph in exam mode: draw it from memory on a sheet (axes, MPB, MSB, MPC, Qm, Q*, DWL).
+1x85dzrgtwj What you can do now
+2b298tclhmn The lesson is over. Your mastery only really grows with reviews over several days: the first spaced review is waiting for you in "Reviews".
+i7aley9fq6 Succeeding the same day proves understanding; succeeding three days later proves memory. The exam requires both.
+gncs5h0vnt Suggested next step: Graph Lab (petrol, textiles) to see the negative case with the same tools.
+1l1rydyvxdb Tomorrow, you will have to rebuild MSB without help. Not recite: rebuild.
+1ctkfk9k8lr The lesson's full graph.
+bywrhaytbb I buy a panel for myself
+27nexxg6mws I compare its value to ME (MPB) with its price
+1l94peacvr3 My neighbours breathe better
+1qx8z9l4lbt each panel replaces more polluting electricity: MEB = 20 for them
+1kmf13nn9lh Nobody counts that €20
+20lcdqymsgi it goes through no price: neither the buyer nor the seller receives it
+1a6cw0fsh02 The market stops at Qm = 18
+ewfjk8eer5 where MPB = MPC; beyond it, the buyer alone no longer finds the panel worthwhile
+fn75qd8m0s Society would want Q* = 22
+9e9wug0cw3 it counts buyer + neighbours: MSB = MPB + MEB = MSC
+77b2cyat63 Panels 18 → 22 are missing: DWL = 40
+1qnu1aismcy each was worth more to society (MSB) than it cost (MSC)
+tvt0qpffl1 Subsidy s* = MEB(Q*) = 20
+2bpx0tvuvdt it adds to the private incentive exactly the external benefit of the last desirable unit
+1t91h4wu7xb The buyer looks at their private value
+6x7y7sg338 Starting point: the buyer compares what the panel is worth TO THEM (MPB) with its price.
+17rejg4z3d As an economist: MPB (Marginal Private Benefit) = the value of one more panel to the buyer.
+1qw5umhlt7j Third parties benefit too
+28o2oc4vjwn Each panel gives a benefit to people outside the transaction (less pollution): MEB.
+137b3k1j7f6 As an economist: positive externality; MEB (Marginal External Benefit) = the benefit to others of one more panel.
+153ni7s4wkt The market ignores this benefit
+3bqxqts5z6 The central link: nobody in the transaction receives the third parties' benefit, so nobody counts it. That is WHY the market stops too early.
+s7p0jlytq4 As an economist: buyers do not "internalise" the external benefit.
+2chdf2ck8j2 The market produces too little
+e32iah16vf Consequence: the market quantity (18) is below the social optimum (22).
+f3b5oh1oao As an economist: Qm (market equilibrium, MPB = MPC) < Q* (social optimum).
+1rj5rcaqazh The social optimum is higher
+1nf9cm3d3ey Society, which counts buyer + third parties, would want more panels: Q* where MSB = MSC.
+9qzcyfj5l As an economist: Q* where MSB = MSC, with MSB = MPB + MEB.
+1cxdo7cwvh2 A subsidy can internalise the benefit
+kfay7mgmrf Remedy: a per-unit subsidy equal to MEB(Q*) aligns the private incentive with the social value.
+ezq4bne9rr As an economist: Pigouvian subsidy s* = MEB(Q*) = 20.
+20j9kkjbxx5 MSB is not money paid out: it is the VALUE of one more panel to the whole of society (MPB + MEB). The subsidy, on the other hand, is money.
+ycpjdzuqrh With a POSITIVE externality, the market produces TOO LITTLE (18 < 22). It is the negative externality that leads to overproduction.
+muoqq1u5m8 Subsidy spending is a transfer (taxpayers → buyers/sellers). The DWL is the useful panels never produced.
+27uvqg5y5o8 With no intervention, the market stops at Qm = 18. Q* = 22 is only reached with the subsidy.
+w6z305cxkv When I buy a panel, I compare what it is worth TO ME (MPB) with its price. But each panel also reduces pollution for my neighbours: an external benefit (MEB = 20) that nobody in the transaction receives, so nobody counts it. The market stops where MPB = MPC (18 panels), whereas society, which also counts the neighbours (MSB = MPB + MEB), would want to go up to MSB = MSC (22). Panels 18 → 22 were worth more to society than they cost: that is the deadweight loss (40). A subsidy per panel equal to MEB(Q*) = 20 makes those panels worthwhile for the buyer and brings the market to 22.
+a8umzo4ln7 What does [[MEB]] literally mean?
+rk4goy9wo9 Marginal External Benefit: the benefit to OTHERS of one more unit
+4j31ysk60p Marginal Economic Benefit: the producer's profit
+1mlaaa85jnh E = External: it is about third parties.
+1xnkvv4sozv The total external benefit of all units
+1i3phwyi5k Marginal = ONE more unit. The total is the area under MEB.
+18z5rag4ux9 What does [[MSB]] mean?
+219es21sac1 The value of one more unit to the whole of society: buyer + third parties
+1dir0ou7e33 Exactly: MSB = MPB + MEB.
+6e43uqngbz The budget the state devotes to each unit
+2b73hdpbei7 MSB is a value, not public spending.
+14cv5orxopa The seller's marginal benefit
+mj4txxqyao The seller has no "marginal benefit" here: they have a cost (MPC) and a surplus (PS).
+kj0wgjdn9i Who receives the benefit measured by [[MPB]]?
+157aavfmy6d The buyer, and only them
+y77ub4621c Exactly: P = Private.
+1hzroufqx51 That is MEB.
+22n9ecspyux Society as a whole
+20wgs69wzlf That is MSB.
+g2xiaf33tp Why does MSB lie above MPB?
+y7z22c2bx0 Because each unit also gives a benefit to third parties (MEB > 0)
+2cdrdgjnnkx Exactly: the vertical gap = MEB.
+1ohjqc5n7qt Because the state adds money
+zcukmjz625 No intervention is needed for MSB to exist.
+1fehcgk8cvx Because the social cost is higher
+n3in0jmk7k That would concern MSC and MEC (negative externality).
+ovf8euutya Why does the market stop at Qm and not at Q*?
+dxpklaor46 Beyond Qm, the buyer does not value the next panel enough (MPB < MPC) because they do not count the neighbours' benefit
+1i67mmq3r8c Because Qm is the social optimum
+28gt7wnjggl Qm is the private equilibrium; the social optimum is Q*.
+1vmakr0miof Because producers cannot manage to produce more
+2bmj3zjao0y They could, but no buyer would pay the cost.
+2ff4sai0hgo What is lost in the DWL triangle?
+2wbga4fpxt The net value of units never produced even though their social benefit exceeded their social cost
+1vztj90ikzr The money spent by the state
+zzent3w3fq Public spending is a transfer.
+pwi2kvy03g The neighbours' total benefit
+21u1fdde12j The external benefit of the units produced is indeed received; the DWL concerns the missing units.
+23pexo7h5h7 Rebuild MSB from the actors.
+27i6w0mwiam The third parties' benefit adds, it is not subtracted.
+qm2kq75m42 MEC is an external cost: it goes into MSC, not MSB.
+2fkwd71cpwf Value to society = value to the buyer (MPB) + value to third parties (MEB).
+1xylqcx1160 Rebuild the condition for the social optimum.
+14xpp3qe3du That is the MARKET equilibrium, not the social optimum.
+2dkddaojxk2 Society adds units as long as their social value exceeds their social cost: MSB = MSC.
+2c95bio5aut Rebuild the optimal subsidy.
+1kpzyuykw5c The intercept is the external benefit of the FIRST unit, not of the last desirable one.
+d2i0ox2brk Once subsidised, the market does not stay at Qm: evaluate at Q*.
+15v3ebw8yy0 At Q*, you need MPB + s = MPC = MSB, so s = MSB − MPB = MEB(Q*).

@@ -1,0 +1,114 @@
+======================================================================
+6. PRODUKTION, KOSTNADER OCH UTBUD UNDER KONKURRENS — L5–L6
+======================================================================
+
+6.1 Teknologi och marginalprodukter
+Funktion Q=f(K,L): kvantitet som fås med kapital K och arbete L.
+MP_L=partial Q/partial L; MP_K=partial Q/partial K.
+AP_L=Q/L, genomsnittsprodukt; diskret MP=Delta Q/Delta L, K fast.
+L5 p.11: Q=50 vid L=9, 54 vid L=10, 56 vid L=11.
+Den 10:e arbetarens produkt=4; genomsnittsprodukt vid 10=54/10=5.4.
+Avtagande marginalavkastning: en insatsvara ökar, den andra hålls fast.
+Exempel L5: Q=sqrt(KL), MP_L=0.5*sqrt(K/L), MP_K=0.5*sqrt(L/K).
+Komplement Cobb-Douglas Q=A*K^alpha*L^beta:
+MP_L=beta*Q/L; MP_K=alpha*Q/K.
+A fångar total faktorproduktivitet, TFP: mer output med
+samma insatser, eller färre insatser för samma output.
+
+Anställning, output säljs till givet pris p: fortsätt så länge p*MP_L>w.
+I ett inre konkurrensoptimum: p*MP_L=w.
+Med marknadsmakt på outputmarknaden, ersätt p med MR (komplement).
+L5 digerdöden: mindre arbete i förhållande till jord kan höja
+arbetets marginalprodukt och lönen, vid given teknologi.
+
+6.2 Isokvanter, isokostnader och minimal kostnad
+Isokvant: K,L-kombinationer som producerar samma Qbar.
+Med L horisontellt, K vertikalt: lutning=-MP_L/MP_K.
+MRTS_LK=MP_L/MP_K: kapital som kan sparas per tillagd enhet L.
+Isokostnad: C=wL+rK ->K=C/r-(w/r)L, lutning=-w/r.
+Minimera wL+rK givet f(K,L)>=Qbar; likhet för vanlig teknologi.
+Inre optimum: MP_L/MP_K=w/r, dvs. MP_L/w=MP_K/r.
+Den sista euron ska ge samma marginella output i båda insatserna.
+Höjt w: arbete relativt dyrare -> mer kapitalintensiv
+kombination på samma isokvant, om substitution är möjlig. Den minimala kostnaden
+kan inte sjunka när priset på en insatsvara stiger, allt annat lika.
+Vrid inte bara den gamla isokostnadslinjen: sök också den nya
+tangerande isokostnadslinjen, oftast dyrare, för det givna Q.
+
+Komplementexempel för Q=sqrt(KL): K/L=w/r; KL=Qbar^2.
+L*=Qbar*sqrt(r/w), K*=Qbar*sqrt(w/r), C*=2*Qbar*sqrt(wr).
+För Q=K*L är isokvanten K=Qbar/L, annorlunda än för sqrt(KL).
+E2025 Q5: isokostnad 1000=50L+100K ->K=10-0.5L; skärningspunkter 20 och 10.
+En ”välartad” produktion ger inga numeriska värden
+på L*,K* utan en mer exakt produktionsfunktion; optimum ritas.
+
+6.3 Skalavkastning och skalfördelar
+Multiplicera ALLA insatser med t>1 och jämför f(tK,tL) med t*f(K,L).
+Större -> increasing returns to scale; lika -> constant; mindre
+-> decreasing. Cobb-Douglas: jämför alpha+beta med 1.
+Skalavkastning gäller TEKNOLOGIN. Skalfördelar gäller
+den långsiktiga GENOMSNITTSKOSTNADEN: ATC sjunker med Q. Skalnackdelar: ATC stiger.
+Avtagande marginalprodukt för en faktor innebär inte avtagande
+skalavkastning: sqrt(KL) har avtagande MP och konstant skalavkastning.
+
+6.4 Kostnadstabell
+TC=C(Q)=FC+VC(Q).
+ATC=AC=TC/Q; AFC=FC/Q; AVC=VC/Q; ATC=AFC+AVC.
+MC=dTC/dQ=dVC/dQ, eftersom derivatan av konstant FC=0.
+Diskret MC för nästa enhet: C(Q+1)-C(Q).
+MC<ATC ->ATC sjunker; MC>ATC ->ATC stiger.
+I det inre minimumet av ATC: MC=ATC. Samma logik för AVC.
+Fast kostnad betyder inte automatiskt sunk: kontrollera om den är
+återvinningsbar/undvikbar inom beslutshorisonten.
+Kort sikt: minst en insatsvara fast. Lång sikt: alla justerbara,
+utan universell kalenderlängd. Långsiktig kostnad <= kortsiktig kostnad
+vid givet Q, eftersom den ger fler val av insatser.
+
+Exempel L5 C=30+Q^2 vid Q=2: TC34, FC30, VC4, ATC17, AVC2, AFC15,
+kontinuerlig MC4; diskret kostnad för att gå från 2 till 3=5.
+Blanda inte ihop dessa två betydelser av marginalkostnad.
+
+6.5 Vinst och utbud för ett pristagande företag
+pi(q)=p*q-C(q). MR=p eftersom ett enskilt företag inte ändrar marknadspriset.
+Vinstmaximering är modellens antagande. L6 p.3 uppmanar också
+till diskussion om tidshorisont, andra mål och corporate social
+responsibility: företagets samhällsansvar. Det ändrar inte
+ett givet FOC så länge uppgiften inte anger något annat mål.
+FOC p=MC(q). Utbudet är den relevanta stigande delen av MC ovanför
+nedstängningströskeln, jämfört med q=0.
+Exempel L6 C=10+q^2, p12: MC2q ->q6; R72, C46, pi26.
+För varje tillåtet p: q=p/2; vid p0, q0.
+Minimum av ATC i detta exempel: q=sqrt(10), pris=2sqrt(10)≈6.325.
+pi=(p-ATC)*q. PS=pq-VC=pi+FC; PS är inte nödvändigtvis vinsten.
+
+6.6 Producera eller stänga?
+Kort sikt, oundviklig FC: producera om den bästa kvantiteten ger
+R>=VC, dvs. p>=AVC(q*); annars q=0 och förlust=-FC.
+Standardtröskeln är min AVC, under vanliga antaganden.
+Om AVC<p<ATC kan produktion med förlust minimera förlusten: en del av FC
+täcks. Vid exakt R=VC indifferent mellan att producera och stänga.
+Lång sikt: stanna/träd in bara om den ekonomiska vinsten är >=0,
+alltså p>=ATC på optimal nivå. Annars utträde när det är möjligt.
+L6 T-shirts: MC5 upp till q10, sedan MC15, p10 ->q10. FC25 ger pi25;
+FC40 ger pi10. Förändringen i FC ändrar inte den inre kvantiteten.
+
+6.7 Marknadsutbud, inträde och alternativkostnad
+Summera de individuella utbuden horisontellt, utan
+negativa kvantiteter. L6 q1=p-2, q2=p-4:
+QS=0 för p<2; p-2 för 2<=p<4; 2p-6 för p>=4.
+Ökad efterfrågan: pris/vinster stiger på kort sikt -> inträde -> marknads-
+utbudet åt höger -> pris/vinst sjunker tills den ekonomiska vinsten är noll.
+Med identiska, replikerbara företag till konstant kostnad gäller p_LR=min ATC,
+q per företag återgår till effektiv nivå, marknadskvantitet och antal
+företag ökar. Detta resultat beskriver inte alla branscher.
+Knapp insatsvara på branschnivå -> LR-utbudet kan stiga; inlärning
+eller externa skalfördelar -> det kan sjunka.
+
+Bokföringsmässig kostnad: explicita utgifter. Ekonomisk kostnad: inkluderar värdet
+av det bästa förlorade alternativet, utan dubbelräkning.
+Naomi L6: material 30 000 + leverans 10 000 ->bokföringsmässig 40 000;
+alternativ lön 50 000 ->ekonomisk 90 000.
+Ekonomisk nollvinst innebär varken nollön eller utebliven inkomst:
+faktorerna får redan sin alternativersättning.
+Ekonomisk ränta: inkomst från en knapp resurs utöver dess relevanta
+alternativa användning; skiljer sig från en enkel bokföringsmässig hyra.

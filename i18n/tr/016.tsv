@@ -1,0 +1,238 @@
+243eaow3n26 MC = 5, 7 ve 8 iken bu örnekte MC = 5 olan firmanın fiyatını doğrudan hangi rakip sınırlar?
+2e0wtvth3jb MC = 7 olan firma
+1mv6wzb738t 7’nin üstünde fiyat kırabilecek en iyi alternatiftir.
+gdiglb1n8 MC = 8 olan firma
+24lbqzlediq MC = 7 olan rakip daha rekabetçidir.
+2eouvkbscyb Hiçbiri: fiyat her zaman 7,5 kalır
+1sq05l87ru2 7,5’lik tekel fiyatı, MC = 7 olan rakibe fiyat kırma imkânı bırakır.
+2d3o9dlmxe2 Farklılaştırılmış Bertrand: müşteri her zaman gitmez
+td5qhzs81x Ürünler birbirine benzer ama aynı değildir. Fiyatını artırmak satışlarını azaltır ama hepsini yok etmez, çünkü bazı müşteriler senin ürününü tercih eder. Rakibin fiyatını artırırsa müşterilerinin bir kısmı sana gelir: o zaman en iyi fiyatını yükseltebilirsin.
+1mtwyndvtyv L10: qi = 85−pi+0,5 pj, MC = 11. FOC = 85−2 pi+0,5 pj+11 = 0; BRi = 48+pj/4. Simetri: p = 64, qi 53, FC = 0 ile πi = 2809.
+299v93apkzh Her firma rakip fiyatı sabitken (pi−ci)qi’yi maksimize eder.
+2cyuwwi6ksi Talepteki rakip fiyatının pozitif terimi artan bir fiyat tepkisi verir.
+bcs48s5tt6 Homojen ürünün p = MC sonucu bu farklılaştırılmış talebe uygulanmaz.
+5nparurvik p = 48+p/4 → 3 p/4 = 48 → p = 64; q = 85−64+32 = 53; marj 53, kâr 53² = 2809.
+1nbi2ia390c Konumu nedeniyle sevilen bir kafe işletiyorsun: daha ucuz bir rakip tüm satışlarını almadan bazı müşterilerini alabilir.
+1w5pfunzhzw BRi = 48+pj/4, aynı firmalar: simetrik fiyat nedir?
+nsdnk2xjbn 11, farklılaştırılmış talebe rağmen homojen sonucu dayatır.
+1h5emyulprz 48, simetrik dengeye değil, 0 fiyat koyan bir rakibe karşılık gelir.
+2ezl3wl59w5 pi = pj = 64 iken qi = 85−pi+0,5 pj: qi?
+18u5fvvoyad Farklılaştırma: fiyatlarda en iyi yanıtlar
+1smz2df8jju p1: firma 1’in fiyatı
+o3jrd78w5e p2: firma 2’nin fiyatı
+tnp42qhop L10: qi = 85 − pi + 0,5 pj, MC = 11. BRi = 48 + pj/4. Bu eksenlerde BR1, p2 = 4 p1 − 192 olarak yeniden yazılır; BR2 = 48 + p1/4. Kesişim p1 = p2 = 64, qi = 53.
+21cctigpf1d Yeniden yazılmış BR1: p2 = 4 p1 − 192
+18vomptuzmf Rakip fiyatını artırınca 1 en iyi fiyatını artırabilir.
+1e7qe00eheo Bu ikame ürünler modelinde fiyatlar stratejik tamamlayıcıdır.
+1yhipio1se7 Fiyatlarda Nash
+21c391d7dqm Bir maliyet şoku tepkileri kaydırır, sonra rakipler yanıt verir
+2qomm8antm Bir vergi her satışın etkin maliyetini artırabilir. Firma o zaman belirli bir rakip fiyatı için en iyi fiyatını yükseltir; iki firma da etkilenirse iki tepki de hareket eder. Yeni fiyat bu karşılıklı uyumları içerir: yansıma varsayılan olarak rekabetçi bir piyasadakiyle aynı değildir.
+1mr0cmozdni E2025: qi = 10−2 pi+pj, fiziksel MC 0; t vergisi etkin maliyet c = t verir. BRi = (10+2 c+pj)/4; simetrik fiyat p = (10+2 c)/3.
+f75kp664n4 Vergi, geliri W için bir transfer olarak kalsa da firma açısından satış başına özel bir maliyettir.
+26q702fr11j Bir değişiklikten sonra rakibi sonsuza dek eski fiyatında tutmak yerine yeni sistem çözülür.
+1aaq5nd0tou t 2 → 1 için fiyat 1 değil 2/3 düşer; net marj ve miktar burada artar.
+1pkujus1qws t = 2: c = 2, p = 14/3, q = 16/3, π = 128/9. t = 1: c = 1, p = 4, q = 6, π = 18. Toplam vergi geliri: 2×2×16/3 = 64/3, sonra 1×2×6 = 12.
+n7lojskjun Müşterisin: bu farklılaştırılmış oyunda 1’lik vergi indirimi 1’lik fiyat düşüşünü garanti etmez.
+1zgbv4wzyer qi = 10 − 2pi + pj, üretim maliyeti yok, vergi t = 1 (etkin maliyet 1): simetrik fiyat?
+1mlcv7la87b Etkin maliyet 1; p = (10+2×1)/3 = 4.
+2cq02r8eka2 1 etkin maliyettir, farklılaştırılmış firmanın fiyatı değil.
+1yfe9mxxpxp t 2 ile fiyat 14/3, sonra t 1 ile 4: fiyat düşüşü?
+28wv8esmas6 1 vergi indirimidir; yansıma burada kısmidir.
+29m31ci2h29 Fiyat lideri: bir formülü yeniden kullanma, yerine koymayı baştan yap
+17w2h5rvpmr İlk satıcı artık miktar değil fiyat seçiyor. İkincinin fiyat tepkisini öngörür. Bir fiyat artışı takipçiyi de kendi fiyatını yükseltmeye teşvik edebileceği için, ilk hamlenin avantajı miktar liderininki gibi değildir; takipçi daha çok bile kazanabilir.
+opdqir32bd E2024 maliyetleri belirtmez. MC = FC = 0 varsayımıyla: q1 = 6−2 p1+p2, q2 = 6−2 p2+p1. 2 liderse: BR1 = (6+p2)/4; q2 = 7,5−1,75 p2; p2 = 15/7, p1 = 57/28.
+clx7od1hm3 Tepki stratejik değişkene bağlıdır: fiyat talebine bir miktar yanıtı yerleştirilmez.
+dgui8wikl1 Maliyetler belirtilmeden sayısal sonuçlar koşulludur, koşulsuz bir çözüm değildir.
+1h4nhwztsqg Burada π2 = 225/28≈8,036 ve π1 = 3249/392≈8,288: ikisi de eşzamanlı oyundaki 8’i aşar, ama takipçi daha çok kazanır.
+hzdd73dyqc Sıfır maliyetle eşzamanlı: p1 = p2 = 2, q1 = q2 = 4, πi = 8. Sıralı oyuna geçiş ne qL = 30 ne de önceki miktar oyunundaki (a−c)/(2b) formülünü verir.
+1n5da2p2ama “firm 2 moves first in prices” okuyorsun: herhangi bir şey hesaplamadan önce 1’in fiyat tepkisini ve maliyet varsayımını yaz.
+jl8r6c9adb E2024 soru metninde maliyetler yok. p2 = 15/7 nasıl sunulmalı?
+17i8g84pn10 Açık MC = FC = 0 varsayımı altında bir sonuç olarak
+fvckyyps52 Eksik maliyet parametreleri sessizce uydurulamaz.
+1wcy0b4mq7j MC ne olursa olsun kesin resmî değer olarak
+18g6mtodcrm Maliyet değişikliği en iyi yanıtları değiştirir.
+5oxv3f5k8h Miktar Stackelberg’inin otomatik sonucu olarak
+1xlgyu7sjpf Burada stratejik değişken fiyattır.
+c3nj94hyyz q2 = 7,5−1,75 p2, maliyetler 0. FOC = 7,5−3,5 p2 = 0: p2?
+1qxbibm6ddz 2, tepkiyi öngörmeyen eşzamanlı Nash’e karşılık gelir.
+7lls7zzi7y Oyunu takipçiden geriye doğru çözmek
+28jsgs93mif Açık MC = FC = 0 varsayımı altında E2024 örneği. Lider bir fiyat seçer, dolayısıyla bir fiyat tepkisi yerine konur; bu, miktar Stackelberg formülü değildir.
+134u1ymej30 Firma 1, takipçi
+1tsfdvl5v1s Her p2 için (6 − 2 p1 + p2)p1’i maksimize eder.
+duz6rhkbmv Firma 2, lider
+7nuc3bqev2 Bu seçimi öngörür ve kendi talebinde p1’in yerine koyar.
+298uxluhzkw p2(7,5 − 1,75 p2)’yi maksimize eder.
+12tbh8hbsmm p2 = 15/7, sonra p1 = 57/28.
+2ezyldva6hf İki firma
+cgbep37fgp Tepkilerden sonra kârları hesaplar.
+1poo6z2fo0o π2 = 225/28; π1 = 3249/392. Burada takipçi daha çok kazanır.
+1qhbl8pbuab Stratejik değişken ve zamanlama doğru tepkiyi belirler.
+nod7uhoitx Fiyat piyasaya bağlıdır ama hasılat ve maliyetler kendi satışlarını kullanır.
+1e06cp4rbrm Her biri kârını rakibin seçimine koşullu olarak maksimize eder.
+1esw9ldezpt Eşzamanlı: kesişim; sıralı: liderin kârına yerleştirilen öngörülen tepki.
+z30klshd09 Stratejik seçimler daha sonra gerçekleşebilir sonuçlara çevrilmelidir.
+k2thqojg22 İç formüllerin ve homojen Bertrand sonucunun kesin varsayımları vardır.
+io1inw7igi Cournot’da her firma, kendi maksimizasyonu sırasında sabit tutulan rakip miktarına karşı kendi miktarını seçer; kesişim her biri için 20, p = 30 verir. Miktar Stackelberg’inde lider BRF = 30−qL/2’yi öngörür, yerine koyar ve 30’u seçer; takipçi 15, dolayısıyla p = 25. Aynı maliyetli ve yeterli kapasiteli homojen Bertrand’da her pozitif marj fiyat kırma tehdidi altındadır, bu yüzden p = MC = 10. Sonuç yalnızca firma sayısına değil, kurallara ve varsayımlara bağlıdır.
+c8qpdww6l Fiyat mı miktar mı olduğunu ve seçim sırasını belirlemek.
+238cq1o89v5 Her firmanın kendi kârını yazmak.
+1sgb0c0nv4h En iyi yanıtları kurmak.
+1zxlqxjh71d Birlikte çözmek ya da takipçiden geriye gitmek.
+y1doie4uuy Fiyatları, miktarları ve kârları yeniden hesaplamak.
+1sib3o26cou Maliyetleri, kapasiteyi, köşe çözümlerini ve eşitlik koşullarını kontrol etmek.
+czx65ptu86 Aynı firmaların ve maliyetlerin neden Cournot’da p = 30, miktar Stackelberg’inde p = 25 ve homojen Bertrand’da p = 10 verebildiğini açıkla. Neyin sabit tutulduğunu ve neyin öngörüldüğünü anlat.
+yszkj2ravj Stratejik değişken
+1l6pj3bjgcn Temel Cournot ve Stackelberg q ile, Bertrand p ile ilgilidir.
+15ac1gbb9j6 Eşzamanlı yanıtlar
+eegx36arz1 Cournot, her maksimizasyonda rakibi sabit tutarak en iyi yanıtları çözer.
+eodjtajvqa Öngörülen tepki
+214vva4pw0m Lider, maksimize etmeden önce takipçinin yanıtını yerine koyar.
+4lu0ucwdlq Homojen fiyat kırma
+s2scr34gsw Aynı MC ve yeterli kapasiteyle küçük bir indirim piyasayı p = MC’ye kadar kazanabilir.
+28lnv6vil67 Farklılaştırılmış ürünler, farklı maliyetler ya da sınırlı kapasite bir marj bırakabilir.
+1jn370lx8yk Lider tepkiyi öngörür: yerine konmuş kârda qF, qL ile değişir.
+9adlyxhs95 Bakır: eşzamanlı, sonra taahhüt
+1fnf6rjwpl A5.3 ve L10 yönteminden kurgulanmış alıştırma; Stackelberg’e didaktik bir uzantı, resmî çözüm değil.
+2f0zqzqz34i qF = 30−qL/2’yi yerine koy → πL = (30−qL/2)qL; qL = 30, qF = 15, Q = 45, p = 45; πL = 450, πF = 225.
+1o4ob9z0b9h Belirtilen varsayımlar altında p = MC = 30.
+m2qgrdj2om Aynı 60’lık marj kesişimi görünür ama piyasa fiyatı 90−Q’dur.
+fwg4u3sqnw Cournot: her firma qj sabitken optimize eder; iki tepkiyi çöz.
+e7zve9a5ej Stackelberg: takipçiden geriye git, sonra fiyatı yeniden hesapla.
+1o34rnzx82e Bertrand: p = MC’den önce homojenliği, aynı MC’yi ve kapasiteyi kontrol et.
+1qcw5b1dxo0 Homojen Bertrand: p = 30; toplam talep Q = 60.
+v3anhu1wp7 Eksenler q1 yatay, q2 dikey: BR1 q2 = 60−2q1 ve BR2 q2 = 30−q1/2.
+1h8prrmizef Kesişim (20,20); lider 1 (30,15) BR2 üzerinde, BR1 üzerinde değil.
+cyl184sov Miktar eksenlerini farklılaştırılmış fiyat grafiğiyle karıştırma.
+cmtxhl112j Nash şunu gerektirir…
+ihbh6yq94d Kârlı tek taraflı sapma olmaması
+14i3rthqc81 Her strateji ötekilerin fiilî seçimine yanıt verir.
+pl9x6s9ekv Azami ortak kâr
+cv4mbbhqfr İkisine de kârlı bir anlaşmadan sapılabilir.
+2akd91bjl16 Eşit kârlar
+1onftt1zr7v Farklı maliyetler farklı kârlar üretebilir.
+mezsfpgv7i Bertrand ve Cournot her şeyden önce şunda ayrılır…
+868jjbzra Stratejik değişken: fiyat ya da miktar
+2frzllogtt8 Soru metni firmaların neyi seçtiğini belirtmelidir.
+207b1bfhynr Firmaların tam sayısı
+ggxhtxp4la İkisi de bir duopolü ilgilendirebilir.
+2dch6bxaedd Soruların dili
+2extt5alrt7 Modeli iktisadi kurallar belirler.
+6g9jxy3lb9 Miktar liderliğini yeniden kur.
+24yvcbuzdz9 Takipçi liderin seçimini gözlemler
+7ht536q3uj En iyi yanıtı bu seçime bağlıdır
+1pc6gzdzxws Lider bu yanıtı kendi kârına yerleştirir
+bx2asrozfk Optimal taahhüdünü seçer
+1bm6jwk138n Takipçi liderin seçimini gözlemler → En iyi yanıtı bu seçime bağlıdır → Lider bu yanıtı kendi kârına yerleştirir → Optimal taahhüdünü seçer
+23acv1m7ffp Homojen ürün, aynı MC, yeterli kapasite: p>MC neden kırılgandır?
+o3eucnidwo Hafif bir fiyat kırma pozitif marjla piyasayı alabilir
+ap20yz900q Bu tür bir fiyatın Nash olmasını engelleyen bu sapmadır.
+2fn8iplyize Çünkü kâr otomatik olarak negatif olur
+sgn7n2blpc MC’nin üstünde marj pozitiftir.
+1zhu7dp7ylv Çünkü MR her zaman fiyata eşit olmalıdır
+1ekm8zseli3 Açıklanması gereken bu eşitlik değil, fiyat kırmadır.
+1m96kqzrfw0 Sabit MC ile bireysel kârı yeniden kur.
+myd2mhrj2o Piyasa toplamını değil, firmanın hacmini kullan.
+20re8tnoezv p = 25−Q, cT = 5, cG = 9: qT = (a−2cT+cG)/3. qT’yi hesapla.
+1g393ganp4w qi = 10−2 pi+pj, etkin maliyet 3: p = (10+2 c)/3. Simetrik fiyat?
+zbl1370sf3 (10+6)/3 = 16/3; farklılaştırma bir marja izin verir.
+uwh3udc6p0 Both firms choose best responses
+nl5ut5eb44 No profitable unilateral deviation
+20gegy32ehj Differentiated products / retained demand
+1gt7ol7w567 No full-market undercutting result
+1qxuw7gybgf Modeli değişkene, zamanlamaya, homojenliğe ve kapasiteye göre seçerim.
+4fe42izxb İki firma bir oyunu belirlemeye yetmez.
+12ewthgegjp Tepkileri firmaların kendi kârlarından yeniden kurarım.
+1aczvnsf4aq Fiyat toplama bağlıdır; bireysel maliyet ve kâr qi’yi kullanır.
+1mcbcsi4y6b İki tepki için aynı eksen kuralını korurum.
+9gxxfgya7o BR1’in seçilen eksenlerde çizilmesi için bazen yeniden yazılması gerekir.
+urw9ww058w Lider için maksimize etmeden önce takipçinin tepkisini yerine koyarım.
+e7sd4a2mm3 Sıralı taahhüt rakibin tepkisini değiştirir.
+j4b3tes9nb Köşe çözümlerini, eksik maliyetleri, eşitlik kurallarını ve MC’ye eşit fiyatın varsayımlarını kontrol ederim.
+1d29n23vs8j İç çözüm ve Bertrand sonuçları evrensel değildir.
+8llzvse7b7 Negatif dışsallık — benzin ve komşular
+18b09mprbfs Kirlilik, aşırı miktar ve düzeltme
+21smhc2pzxb Sürücü ile istasyon anlaşıyor. Yine de komşular maliyetin bir kısmını ödüyor. Göz ardı edilen zararı, vergiyi ve etkin miktarı yeniden kur, sonra bağlamı değiştir.
+pkp72k9fk4 Sürücü
+fyjt576f8u yolculukları için benzin alır
+zzgu305kj3 değeri fiyatını aşan bir litre
+i2j5rvwkng İstasyon
+15ysmger7je rekabetçi bir piyasada benzin satar
+50927ihfly ek litrenin maliyetini karşılamak
+272enjqtnc6 Çevre sakinleri
+1ghzyeopyaw işleme imza atmadan kirliliğe katlanır
+1l4et6bl140 solunum ve çevre zararlarından kaçınmak
+9q8fxpjmpp herkes için kazançları ve maliyetleri sayar
+dzsdndb89t toplam refahı maksimize etmek
+12bv7rlcohj kirliliği vergilendirebilir ya da sınırlayabilir
+1srrwz90s9p zararı kirletenin kararına dahil etmek
+r68ovvh63q İki kişi anlaşır, üçüncüsü katlanır
+n13vu5d3yx Depoyu dolduruyorsun. Bir yolculuk kazanıyorsun; istasyon bir satış kazanıyor. Ama yolun yakınında yaşayanlar emisyonları soluyor. Hiçbir sakin fişini imzalamıyor ve sen onlara hiçbir tazminat ödemiyorsun. Dolayısıyla yolculuğunun maliyetinin bir kısmı ödemenin dışında kalıyor.
+1fj6ju9a3jl Negatif dışsallık, özel kararda içselleştirilmemiş, üçüncü kişilere verilen zarardır. Burada piyasanın geri kalanının rekabetçi olduğu varsayılır.
+1k8jgn7et5z Sürücü faydasını istasyonda ödediği fiyatla karşılaştırır.
+1kv0fzfs75n İstasyon fiyatı kendi maliyetleriyle karşılaştırır.
+1h7u0b1xpk8 Sakinlerin zararı bu iki hesabın hiçbirinde yer almaz: dolayısıyla özel bir anlaşma toplumsal refahı azaltabilir.
+3226m7s20l Bir komşu gürültülü bir faaliyet yüzünden daha kötü uyur: kaybedilen uyku işletmenin muhasebe maliyetlerinde otomatik olarak görünmez.
+1awdl3yofi0 Hiçbir şey seçmemiş birine maliyet yüklerken depoyu doldurduğun için mutlu olabilirsin.
+95e6fhyvti Eğrisiz başlıyoruz. Yatay eksen benzin miktarı Q’yu, dikey eksen ek bir litrenin değerini ya da maliyetini gösterecek.
+qihkiirc7b Benzin fişinin saymadığı maliyete kim katlanır?
+fkmnygdx0v Benzini satın alan istasyon
+xphilkfhij Tedariki zaten özel bir maliyettir.
+11k47v1x3rf Onların zararı işlem fiyatından geçmez.
+btrsm4zy3o Depoyu doldurup ödeyen sürücü
+1s7l399k4ul Bu fiyat tam da onun özel hesabında yer alır.
+1moya2j4gq2 Piyasa ikisi için de kârlı son litrede durur
+xaou7zpd5n Sürücü için her ek litre daha az acil bir kullanıma hizmet eder. Satıcı için daha fazla arz etmek giderek daha maliyetli olur. Litrenin değeri özel maliyetini aştığı sürece alıcı ve satıcı ikisine de uyan bir fiyat bulabilir.
+22c7n7dk2yc L11/E2023 durumunda: {{MPB = 100 − Q}}, {{MPC = 10 + Q}}. Özel rekabetçi denge MPB = MPC’yi sağlar.
+1b83m5megq3 Değer özel maliyeti aşıyorsa, bu birimin değişiminden hâlâ özel bir kazanç vardır.
+1texw7fq2hg Özel maliyet değeri aşıyorsa, bu birim iki tarafı da tatmin edemez.
+177cpcj7zeq Özel durma noktası henüz üçüncü kişilere verilen hiçbir zararı içermez.
+2eaiwwiqw0y 100 − Q = 10 + Q, 90 = 2Q verir, dolayısıyla Qm = 45 ve p = 55.
+1lvmjb0v4op 45. litreyi 55’ten kabul ediyorsun; satıcı onu bu fiyattan sağlamayı kabul ediyor. İkiniz de sakinlere bu litrenin onlara bir maliyeti olup olmadığını sormuyorsunuz.
+1vfhu4hw0rc Eğrilere tıkla: kesişimleri Qm = 45, p = 55’i belirler. İmleç aynı litre için iki değeri gösterir.
+49w7rkpged 100 − Q = 10 + Q’yu çöz. Hangi özel miktar?
+2a6cn1tlpjv Q = 45’teki özel piyasada fiyat nedir?
+9558qndt07 Sonraki litrenin zararı toplam zarar değildir
+28o96hf2ze1 Trafik arttıkça ek bir litre daha fazla zarar verir. Dosya bu marjinal zararı Q ile ölçer. Q = 45 düzeyinde küçük bir birim daha, üçüncü kişilere 45’lik bir maliyet yükler. Bu, zaten verilmiş tüm zararın yalnızca 45 olduğu anlamına gelmez.
+f3d82zh3qr [[MEC]] = marginal external cost, marjinal dışsal maliyet. Burada MEC(Q) = Q; 0’dan Q’ya toplam zarar MEC’nin altındaki alandır, yani Q²/2.
+26u5p8tnsd1 Marjinal, “sonraki birim neyi değiştirir?” sorusuna cevap verir.
+19q8exwgyr4 Toplam, zaten tüketilmiş tüm birimlerin zararlarını toplar.
+w5ofueio5v MEC arttığı için son yüksekliği tüm miktarla çarpmak alanı fazla tahmin eder: burada doğru şekil bir üçgendir.
+2gbnq2dj6o2 Q = 45’te: MEC = 45, ama toplam zarar = ½ × 45 × 45 = 1.012,5. Bu ne 45 ne de 2.025’tir.
+1kddfwr241f Ek yolculuğun zararı, tüm yolculuklarının zararlarının toplamının yerini tutmaz.
+25rhwew8g4w MEC yüksekliği marjinaldir. EXT alanı Q’ya kadar tüm birimlerin zararlarını toplar.
+182ahcdajln MEC = Q: Q = 45 için toplam zarar nedir?
+p23w8g224x q’nun 0 ile 45 arasındaki integrali 45²/2 = 1.012,5’tir.
+2dnb2odrnit € toplam
+15mikfbm2f9 Litre gerçekte kime mal oluyor?
+i89pmw2exa Toplum istasyonun maliyeti ile sakinlerinki arasında seçim yapmaz. İkisini de sayar: litreyi sağlamak için kullanılan kaynakları, sonra yüklediği zararı. Dolayısıyla sonraki litrenin sosyal maliyeti özel maliyetinden yüksektir.
+o6zf2bfg7w [[MSC]] = marginal social cost, marjinal sosyal maliyet. Burada {{MSC = MPC + MEC = 10 + 2Q}}; hiçbir dışsal fayda varsayılmaz, dolayısıyla MSB = MPB.
+w0wjektky6 İstasyon ek bir litre için 40 öder, sakinler 30’a katlanır. Toplum hangi maliyeti sayar?
+1h3pta57l2v Yalnızca 40
+yg2gtp9vk4 Bu sakinleri dışarıda bırakır.
+16b558u9yp9 70, çünkü iki maliyet de gerçektir
+f0xvvysfgk Doğru: 40 + 30.
+q4bdcqkhho 10, çünkü kirlilik çıkarılır
+2ciivrx6td Zarar bir maliyet ekler; maliyet çıkarmaz.
+2vqn4b3eq1 Dikey fark MSC − MPC tam olarak marjinal zarar MEC’dir.
+1xhwnoxyopu Üretici kaynak tüketir: bu gerçek bir maliyettir.
+1o9uqmuuxjs Sakinler refah kaybeder: bu da gerçek bir maliyettir.
+299v1dfbqyx İkisi de aynı birimi ilgilendirir; aynı maliyeti iki kez saymadan marjinal değerleri toplanır.
+17bxdh6ma9w Q = 30’da: MPC = 40, MEC = 30 ve MSC = 70.
+1tvkjxr7grf Hem sürücü hem de yol kenarında yaşayan bir çocuğun ebeveyniysen, zarar fişte görünmüyor diye ortadan kalkmaz.
+133brcthl0v Aynı miktarda önce MPC’yi, sonra MSC’yi oku: fark toplam zarar değil, MEC’dir.
+261iy82ym4w Marjinal sosyal maliyeti yeniden kur.
+uicag861pj Aynı birim için üretim maliyeti + üçüncü kişilere zarar.
+10k6lfub1fw Toplumun tutmak isteyeceği son litre
+2d891w7qbab Toplum, değeri tüm maliyetlerini aşan litreleri tutar. Sonraki litrenin değeri toplam maliyetine tam eşit olduğunda durur. Bunun ötesinde, sürücü ve istasyon birlikte hâlâ kazansa bile sakinlerin zararı bu kazancı aşar.
+2d3omu5kpkb İç optimum: {{MSB = MSC}}. Burada 100 − Q = 10 + 2Q ⇒ Q* = 30.
+23417cqf7hq Q*’dan önce ek bir birim sosyal maliyetten çok fayda ekler.
+q46wv4zgkl Q*’dan sonra faydadan çok sosyal maliyet ekler.
+wmneqa9g11 Özel piyasa MEC’yi göz ardı ettiği için 45’te durur: dolayısıyla 15 birim fazla tüketir.
+1sb4iginvpz Q = 35’te MPB = 65 ve MSC = 80: bu litre, yalnızca 45’lik özel maliyetine rağmen 15 refah yok eder.
+oeuqesohab Bir yolculuk sana hâlâ kârlı görünebilir, çünkü fiyat seni başkalarının rahatsızlığına katlandırmaz.
+90mg68j08y Q* = 30, MPB–MSC kesişimindedir. Qm = 45 MPB–MPC’yi kullanır: bunlar iki farklı karşılaştırmadır.
+130m4n19zga 100 − Q = 10 + 2Q’yu çöz. Hangi etkin miktar?
+1ul7siwqbdx Qm neden Q*’ı aşar?
+1hsgjld57lf Sakinler çok fazla benzin alır
+i987xw2n0v Etkiye katlanırlar; alımları çarpıklığı açıklamaz.
+1djijur1ga4 Özel kararlar MEC’yi saymaz
+p0isr0hqqz Algılanan maliyet sosyal maliyetten düşüktür.

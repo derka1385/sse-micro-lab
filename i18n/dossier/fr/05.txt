@@ -1,0 +1,41 @@
+======================================================================
+3. OFFRE, DEMANDE, ÉQUILIBRE ET CHOCS — L2
+======================================================================
+
+Demande : quantité que les acheteurs souhaitent acheter à chaque prix.
+Offre : quantité que les vendeurs souhaitent vendre à chaque prix.
+Hypothèses du modèle concurrentiel simple : nombreux agents, produits
+homogènes, price takers ; pas d'interaction stratégique significative.
+Définir le marché par produit, zone géographique et période.
+
+Exemple L2 p.7/16/20 : QD=10-p, QS=-2+p.
+Équilibre : QD=QS ->10-p=-2+p ->p*=6, Q*=4.
+À p=4 : QD=6, QS=2, excès de demande de 4, pression à la hausse.
+À p=8 : QD=2, QS=6, excès d'offre de 4, pression à la baisse.
+Une quantité négative prédite hors domaine signifie en général quantité 0.
+
+VARIATION DU PRIX DU BIEN -> mouvement LE LONG de sa courbe.
+VARIATION D'UN DÉTERMINANT AUTRE QUE CE PRIX -> déplacement de la courbe.
+Demande QD=f(p,T,p_r,I) : goûts/température T, autre prix p_r, revenu I.
+Bien normal : revenu augmente -> demande se déplace à droite.
+Bien inférieur : revenu augmente -> demande se déplace à gauche.
+Substituts : prix de l'autre bien augmente -> demande à droite.
+Compléments : prix de l'autre bien augmente -> demande à gauche.
+Coût d'input augmente -> offre à gauche/vers le haut.
+Technologie meilleure/entrée de producteurs -> offre à droite/vers le bas.
+
+Toutes choses égales par ailleurs, pour courbes usuelles :
+D à droite : p augmente, Q augmente. D à gauche : p baisse, Q baisse.
+S à droite : p baisse, Q augmente. S à gauche : p augmente, Q baisse.
+D à droite ET S à gauche : p augmente, effet sur Q ambigu.
+D à droite ET S à droite : Q augmente, effet sur p ambigu.
+D à gauche ET S à gauche : Q baisse, effet sur p ambigu.
+D à gauche ET S à droite : p baisse, effet sur Q ambigu.
+Ne pas conclure sur une variable ambiguë sans taille relative des chocs.
+
+Sensibilité : pour un choc de demande donné, une offre raide implique
+une forte variation de prix et une faible variation de quantité.
+Une offre plus plate absorbe davantage le choc par la quantité.
+Applications L2 : récoltes de blé, thé/café, riz, palladium.
+Expliquer avec « à prix donné, davantage/moins serait offert/demandé »,
+puis seulement chercher le nouvel équilibre.

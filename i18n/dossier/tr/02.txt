@@ -1,0 +1,73 @@
+======================================================================
+0. BU DOSYA NASIL KULLANILIR VE NELERİ KAPSAR
+======================================================================
+
+Amaç: mekanizmaları anlamak, uygulanacak modeli tanımak,
+formülleri yeniden kurabilmek, hesaplamak, çizmek ve İngilizce açıklamak.
+Bu dosya öğretici bir özettir, resmi bir SSE cevap anahtarı değildir.
+«Yeniden hesaplanmış» olarak sunulan sayısal sonuçlar soru
+metinlerinden türetilmiştir. Assignment'lardaki kişisel cevaplar bir
+otorite olarak kabul edilmez. Başlıca hatalar veya belirsizlikler belirtilmiştir.
+
+Microeconomics klasörünün tüm külliyatı: 23 PDF, 373 sayfa.
+12 ders, 2'den 6'ya numaralı 5 assignment, 2020–2025 arası 6 final sınavı.
+Tüm sayfalardan metin çıkarıldı; dersler ve assignment'lar görsel olarak
+incelendi, resim olarak eklenmiş tablolar ve gerekli
+hesaplamalar kontrol edildi. 2020 sınavının son sayfası boştur.
+Sayfa sayılarına kapaklar, talimatlar ve boş sayfalar dahildir.
+
+Külliyatın sınırları, buna dayanarak hazırlanan her notta korunmalıdır:
+- Assignment 1 veya 7 yoktur.
+- Yalnızca 1–12 arası dersler mevcuttur. Lecture 1 takvimi
+  7. haftada hâlâ platformları ve uluslararası ticareti duyurur.
+- Müzayedeler ve bazı oyun teorisi öğeleri sınavlarda veya
+  assignment'larda, burada karşılık gelen tam bir ders olmadan görünür.
+- Past exams'teki altı PDF FİNAL sınavlarıdır, midterm değildir,
+  ve resmi çözüm içermez.
+- Altı eski sınav üzerindeki bir sıklık bu örneklemi tanımlar; bir
+  sonraki sınavda çıkma olasılığı değildir.
+- Belirtilen tarihler, kurallar ve güncel örnekler materyallerdekilerdir.
+  Bu dosya Canvas'taki güncel idari kuralları doğrulamaz.
+
+Kaynak işaretleri: L1–L12 = dersler; A2–A6 = assignment'lar;
+E2020–E2025 = sınavlar. «p.» PDF sayfasını belirtir, 1'den sayılır.
+«Tamamlayıcı» = bir alıştırmayı çözmek için yeniden kurulmuş standart açıklama,
+ek bir ders bulunduğu iddiası değildir.
+
+BU DOSYAYLA BİRLİKTE CHATGPT'YE VERİLECEK PROMPT
+«Sen SSE BE 501 sınavı için mikroekonomi özel hocamsın. Bu
+dosyayı ana bağlam olarak kullan. Türkçe açıkla, sınavda karşılaşacağım
+İngilizce terimleri ve kısaltmaları koru. Her
+yeni sembolde İngilizce adını aç, çevir, birimlerini
+ve rolünü belirt. Her formül için nereden geldiğini, neden
+geçerli olduğunu, varsayımlarını, ne zaman kullanılacağını nasıl tanıyacağımı
+ve ne zaman uygulanmadığını açıkla. Önce bana amacı, kısıtları,
+seçim değişkenini ve modeli belirlet. Kademeli alıştırmalar öner,
+denememe izin ver, sonra akıl yürütmemi ve grafiklerimi düzelt.
+Beni kısa ve gerekçeli İngilizce cevaplar vermeye de alıştır.
+Belgelenmiş öğeleri, yeniden hesaplanmış sonuçları ve
+tamamlayıcıları ayırt et. Resmi çözüm, sıklık veya eksik müfredat
+uydurma. Not, site veya alıştırma istersem, burada listelenen
+sınır durumları ve tuzakları da kapsa.»
+
+PLAN
+1. Envanter ve dersler, assignment'lar ile sınavlar arasındaki eşleşme
+2. Ortak mantık ve matematiksel araçlar
+3. Arz, talep, denge ve şoklar
+4. Tüketici, tercihler, bütçe ve talep
+5. Esneklikler
+6. Üretim, maliyetler ve rekabetçi arz
+7. Rant, vergiler, sübvansiyonlar ve düzenlenmiş fiyatlar
+8. Tekel ve tekelci rekabet
+9. Fiyat ayrımcılığı, segmentasyon, bundling ve tarifeler
+10. Oligopol, Cournot, Bertrand ve Stackelberg
+11. Dışsallıklar, kirlilik, kamu malları ve ortak kaynaklar
+12. Asimetrik bilgi, sözleşmeler ve teşvikler
+13. Assignment 3'te oyun teorisi
+14. Sınav tamamlayıcıları: ticaret, platformlar, müzayedeler ve mübadele
+15. Assignment'lar: yeniden hesaplanmış sonuçlar ve yöntemler
+16. Sınavlar: soru haritası ve referans sonuçlar
+17. Kapsamlı formül listesi ve yöntem seçimi
+18. Kısaltmalar ve semboller dizini
+19. Kavramların ve sınav fiillerinin iki dilli sözlüğü
+20. Tuzaklar, düzeltmeler, grafikler ve tekrar yolu

@@ -1,0 +1,227 @@
+c9gey8ry1n	disposition à payer
+6pe0dbzfj3	le prix maximal qu’une personne accepte de payer pour une unité
+u9wy9df7fz	coût marginal d’abattement
+1hgz0tjnakz	ce que coûte la réduction d’UNE unité de pollution supplémentaire
+1n8jn35e8p0	€ par unité de pollution
+j82v8gc1ts	Pas « marginal average cost ».
+xv170gixs2	var(--buyer)
+1552mty4oof	var(--producer)
+qsuhiqj38o	var(--third)
+2zdqdo7wd1	var(--society)
+dogyfldg5l	var(--gov)
+9nvfaayi9c	var(--dwl)
+wfzx7d22ck	var(--ink-2)
+1exalqr71w9	Offre et demande — le marché du café
+1weqh3fa7n7	Deux décisions, un prix, puis un choc
+1vxodvj8sm7	Le café manque à 4 € et reste sur le comptoir à 8 €. Tu vas comprendre pourquoi, construire le prix qui coordonne tout le monde, puis déplacer les bonnes courbes.
+1hnwyodxid0	Les étudiants
+1j0o1tt03mx	achètent des cafés chaque semaine
+tie4yjm0ic	une boisson qui vaut au moins ce qu’elle coûte
+e8durmcobz	Les cafés du campus
+2dore5om0ob	vendent une boisson homogène
+hotfbdh612	un prix qui couvre le coût de la boisson suivante
+ycpqdvd3g7	Observateur
+1mp73ufzda2	Aucun rôle actif dans cette situation.
+1m569dz98xb	Comprendre le résultat.
+6kte9mx3w4	Toi, analyste
+2335mafwtxl	définis le marché et observes les décisions
+1nyvk94pzdd	expliquer prix et quantité sans confondre cause et réaction
+1ul8mdp1ops	Un prix affiché, deux décisions séparées
+1ko23e1iz5i	Imagine plusieurs cafés du campus vendant la même boisson cette semaine. Les étudiants décident combien acheter ; chaque vendeur décide combien préparer. Personne ne choisit à lui seul le prix de tout le marché : on travaille avec des agents price takers.
+c9t1ppkleo	Un marché est défini par un produit, une zone et une période. Le modèle concurrentiel simple suppose de nombreux agents et un produit homogène.
+jdimvresnj	Un étudiant peut refuser un café, mais ne peut pas imposer un prix à tous les cafés.
+6t0t381asz	Un vendeur affronte assez de concurrents pour prendre le prix de marché comme donné.
+9zfkx0cr3e	Définir le marché empêche de comparer une quantité quotidienne locale à une demande nationale annuelle.
+162ccqq4cg2	Dans l’exemple L2, QD = 10 − p et QS = p − 2 : p est en € par unité et Q en unités par semaine. À p = 6, chaque côté décide Q = 4.
+go0rdvyl40	Tu es étudiant : tu regardes le prix avant d’acheter. Tu es vendeur : tu regardes le même prix avant de préparer. Les deux plans peuvent être incompatibles.
+eurvapah5t	Le prix coordonne deux décisions
+2gfs8aqmv5h	Q, unités par semaine
+25vnsfiq2s3	p, € par unité
+jb5ox8quy2	Exemple L2 du dossier. Demande inverse p = 10 − Q ; offre inverse p = 2 + Q. Les segments représentent exactement ces fonctions sur les quantités non négatives.
+1je0jilrank	Demande : p = 10 − Q
+16tnm9rftxk	Hauteur = prix maximal auquel cette unité est demandée.
+e2u0u2025w	Offre : p = 2 + Q
+x0pg9wn6lf	Hauteur = prix minimal pour que cette unité soit offerte.
+255071bhti2	Équilibre : Q = 4, p = 6
+14e63xlvzpy	Dans ce modèle, qui choisit la quantité demandée ?
+1gmhherhsie	Le vendeur choisit aussi les achats des étudiants
+1j8n7dagro0	Il choisit l’offre, pas le désir d’achat des autres.
+67btjb6tt3	Les acheteurs, au prix qu’ils observent
+2dvi80g5k6i	Oui. Le prix est donné pour chaque acheteur ; la demande décrit sa réaction.
+7fenedxx9f	L’analyste fixe directement Q = 4
+1m04nvd7xti	Il calcule où les décisions se coordonnent ; il ne commande pas les achats.
+2wm7b8n1ll	Mécanisme du dossier
+sj5wdyqx1s	Ce que veut dire une demande
+1ywtnegp3wp	À 4 €, davantage d’étudiants jugent le café intéressant qu’à 8 €. Certains renoncent à une autre boisson ; d’autres gardent leur argent. La demande décrit combien ils voudraient acheter à chaque prix, avec revenu, goûts et prix des autres biens maintenus constants.
+in4syuo6ru	Demande directe QD(p) = 10 − p, sur son domaine positif ; demande inverse pD(Q) = 10 − Q.
+1ptuucew2jq	Un prix plus élevé exclut les achats dont la valeur est trop faible.
+tssv7hrygj	On garde les autres déterminants constants pour isoler la réaction au prix du café.
+2avctmo4ckj	La demande entière est une relation ; la quantité demandée est un point sur cette relation.
+iowzg4i759	À p = 4, QD = 6 ; à p = 8, QD = 2. On ne dit pas « la demande a diminué » si seul p change : on passe de 6 à 2 le long de la même courbe.
+iclket8cum	Tu aurais acheté deux cafés cette semaine à petit prix. Quand le prix monte, tu gardes seulement celui avant ton cours le plus long.
+1u76xsj62gf	Avec QD = 10 − p, combien les acheteurs souhaitent-ils acheter à p = 4 ?
+hvrodycsbr	QD(4) = 10 − 4 = 6 unités par semaine.
+2fr2l2v1kkk	Sur un graphique Q horizontal et p vertical, quelle fonction donne la hauteur de la demande ?
+1wlqo278weo	Q = 10 − p doit être l’axe vertical
+12amcqazwa5	Q est horizontal ici ; réécris la même relation sous la forme p(Q).
+1qb7wyupz6	Oui : la hauteur est un prix. La demande directe donne Q en fonction du prix.
+1ba6vbrp5hx	Application pédagogique fondée sur le dossier
+rfiqxh0pw6	Ce que voit celui qui prépare le café
+17q21fsr4vo	Pour préparer davantage, les vendeurs mobilisent du temps, des grains et parfois une machine moins pratique. Ils ne veulent proposer une unité que si son prix couvre son coût supplémentaire. Dans ce modèle, les unités supplémentaires deviennent plus coûteuses.
+rrpbb1jfbg	Offre directe QS = p − 2, soit l’offre inverse pS = 2 + Q. À prix donné, l’offre décrit les quantités que les producteurs souhaitent vendre.
+1dbw73n4bqg	Les premiers cafés utilisent les ressources les plus faciles à mobiliser.
+1yza43e9nfj	Produire davantage peut exiger des ressources plus coûteuses ; le prix doit compenser ce coût marginal.
+slvdycpzt3	Une hausse du prix du café accroît la quantité offerte le long de l’offre ; elle ne change pas les coûts de production eux-mêmes.
+wy5o8hdolv	À p = 4, QS = 2 ; à p = 8, QS = 6. Pour Q = 6, le prix minimal de l’offre est 2 + 6 = 8 €.
+11xvxsk2h04	Tu tiens le café : à 4 € tu ne prépares pas les unités qui coûtent 7 €. À 8 €, ces unités deviennent possibles.
+298xnca8g28	Avec QS = p − 2, combien est offert à p = 8 ?
+p1tydwah9f	Un prix de vente supérieur permet davantage d’offre parce que…
+q4qwehjtpo	Le prix rend automatiquement les machines plus efficaces
+2cl6uyktr0g	Une nouvelle technologie déplacerait l’offre ; le prix seul ne change pas la technologie.
+1giw4ppzl0s	Des unités supplémentaires dont le coût était trop élevé deviennent rentables
+1hbqvy2ira7	Exact : compare le prix reçu au coût de l’unité suivante.
+gben712pwh	Gagne la formule : rendre les deux plans compatibles
+218vm6ygmw7	À un prix donné, les acheteurs annoncent une quantité et les vendeurs une autre. Il faut un prix pour lequel ces deux plans portent sur le même nombre d’unités. Ce prix est l’équilibre : il n’y a ni acheteurs frustrés ni offre invendue dans ce modèle.
+7kct2wiaum	Market equilibrium : QD(p*) = QS(p*). Égaliser les quantités souhaitées donne p*, puis remplacer dans une courbe donne Q*.
+2aph587tcut	Quelle égalité impose que les plans se rencontrent ?
+217yvp9vc7	Oui : les mêmes unités sont achetées et vendues.
+bfemjvoe14	Les quantités ne s’annulent pas ; elles doivent coïncider.
+ymlyf0sky8	Un prix nul ne coordonne pas automatiquement les décisions.
+zihlqqkjka	Si QD dépasse QS, des acheteurs voudraient acheter mais aucune unité ne leur est proposée.
+1e67w5abqto	Si QS dépasse QD, certaines unités prévues ne trouvent pas preneur.
+t87jcts408	L’égalité retire ces deux pressions ; c’est une condition de cohérence des décisions, pas un objectif choisi par une personne.
+y9e4diiad1	À p = 6 : QD = 4 et QS = 4. Inversement, à Q = 4, pD = 6 et pS = 6. Les formes directe et inverse racontent le même point.
+jkup5n4pek	Tu proposes un prix ; demande à un étudiant et à un vendeur leurs quantités. Répète jusqu’à ce que les deux réponses coïncident.
+seajt5oysh	Le point où les plans se coordonnent
+185c7g0bp0w	Résous 10 − p = p − 2. Quel est p* ?
+c00t8sf706	12 = 2p, donc p* = 6 €.
+1jh41jkhi92	Reconstruis l’égalité d’équilibre en quantités.
+75twhwcq4q	La quantité demandée 10 − p doit égaler la quantité offerte p − 2.
+vf3lgim6l9	Résultat recalculé dans le dossier
+2554ig1uuz2	Pourquoi 4 € ne tient pas
+ck2acflgg2	Le café est affiché à 4 €. Six unités sont voulues mais seules deux sont proposées : quatre demandes restent insatisfaites. Les acheteurs prêts à payer davantage et les vendeurs voyant cette file créent une pression à la hausse sur le prix.
+2gmxzyze730	Excess demand ou shortage : QD − QS > 0. Une pénurie se mesure en unités, pas en euros.
+c3to7xbdqw	La file matérialise un écart entre deux plans au même prix.
+2fha1t6bjgl	Une hausse du prix réduit certains achats et rend d’autres unités rentables à produire.
+1g37sbae78	Ces deux réactions referment l’écart jusqu’à QD = QS ; la pression décrit un ajustement, pas sa vitesse précise.
+tfyb5fkid	À p = 4, pénurie = (10 − 4) − (4 − 2) = 6 − 2 = 4. À p = 5, elle n’est plus que 5 − 3 = 2.
+vtitegn52y	Tu arrives après les deux cafés disponibles. Tu es prêt à payer plus que 4 €, mais le prix affiché empêchait encore cette adaptation.
+di8umkbkia	Quelle est la pénurie à p = 4 ?
+2fvbe5txy9y	QD = 6, QS = 2 : il manque 4 unités.
+1pyx7768asd	2 est la quantité offerte, pas le nombre d’achats qui restent insatisfaits.
+15v9r00v1kh	Remets l’ajustement dans l’ordre.
+21k4uan8e86	Au prix bas, QD dépasse QS
+obwh6nbxbo	La pénurie crée une pression à la hausse du prix
+2cdjy4du0ry	La quantité demandée baisse et la quantité offerte monte
+2171tsduw0y	Les deux plans se rejoignent
+1yk8v8b4m61	Pourquoi 8 € crée l’effet inverse
+6u0v07gvp0	À 8 €, les vendeurs prévoient six unités, mais les acheteurs n’en veulent que deux. Quatre unités restent invendues. Un vendeur peut baisser le prix pour attirer un acheteur ; cette pression pousse vers l’équilibre.
+21cbgn1vu9h	Excess supply ou surplus : QS − QD > 0. Ce surplus d’offre n’est pas le surplus monétaire du consommateur.
+265zsg7aye9	Une unité sans acheteur ne rapporte rien au vendeur.
+upddgd2peg	Baisser le prix attire des achats supplémentaires et incite certains vendeurs à réduire leur offre.
+1cpdnyejb6w	Les réactions vont dans le même sens : refermer l’excès d’offre.
+1ddrvs5k9at	Tu as préparé des cafés que personne ne vient prendre à ce prix. Une remise peut valoir mieux que des invendus.
+q3t9wab8wf	À p = 8, quelle pression apparaît ?
+20dpxupzyr	Une pression à la hausse, car les vendeurs produisent beaucoup
+w7dywqc8lb	Produire ne garantit pas vendre : les invendus incitent à baisser le prix.
+12iekamoceu	Une pression à la baisse du prix
+3verym5vj	Oui. QS = 6 dépasse QD = 2 ; des vendeurs cherchent des acheteurs.
+b120tqk21r	Aucune, car chaque vendeur choisit librement
+2gg4vaezhtq	Les choix sont libres mais ne sont pas compatibles à ce prix.
+1yepptgk1l7	La question qui évite de déplacer la mauvaise courbe
+hgkqo3zv16	Tu observes que le prix du café a augmenté. Cela suffit pour lire moins d’achats le long d’une demande donnée ; cela ne prouve pas que les goûts ont changé. Avant de déplacer une courbe, cherche ce qui a changé en dehors du prix du bien représenté.
+a0oxu96acf	Une courbe contient déjà la réponse à tous les prix possibles.
+qddkre3k3z	Changer seulement le prix choisit un autre point de cette même relation.
+sgqfc3nlnf	Changer le revenu, le goût ou un prix lié modifie au contraire la quantité voulue à chaque prix.
+fqxfgn4rke	Prix du café 6 → 8, tout le reste fixé : QD 4 → 2 sur D. Revenu plus élevé pour un café normal : à p = 6 on pourrait vouloir 8 au lieu de 4 ; il faut une nouvelle D.
+rz58knazat	Pose-toi « à prix du café identique, voudrais-je plus de cafés ? ». Si oui, c’est un déplacement ; sinon tu regardes une réaction au prix.
+1m44r2rvr3m	Le prix du café lui-même monte, sans autre changement. Que dessines-tu ?
+s2hil907v1	La demande se déplace à gauche
+2982c0jj550	Il faudrait une baisse des goûts, du revenu pour un bien normal, ou un autre déterminant.
+1qpo0x5wnfj	Un mouvement le long de la demande
+147jpvbocxj	Le prix est une variable déjà représentée sur la courbe.
+1m7gdvgdmhp	La demande se déplace à droite
+238r43jcioa	Un prix propre plus élevé ne crée pas plus de demande à prix donné.
+ioy24n92ez	Une nouvelle promotion d’étudiants arrive
+39gx7fsnsa	Plus d’étudiants veulent maintenant un café à chaque prix. À l’ancien prix de 6 €, les vendeurs proposent encore quatre unités mais les acheteurs en veulent huit. La pénurie fait monter le prix ; les vendeurs réagissent le long de leur offre inchangée.
+2ajdltxeewp	Un choc positif de demande déplace D à droite. Avec une offre croissante inchangée, p* et Q* augmentent.
+22fj9q3gvkj	Le nouveau groupe d’étudiants est une cause extérieure au prix du café.
+hkytkgntj9	À prix inchangé, la quantité demandée augmente : D se déplace, pas S.
+17ccgbpgzld	Le prix plus élevé attire ensuite davantage de quantité offerte sur la même S.
+1pfo8x0nry1	Choc construit : QD = 14 − p, QS = p − 2. 14 − p = p − 2 ⇒ p = 8 ; Q = 6. Par rapport à (4, 6), Q gagne 2 et p gagne 2.
+o56t9o0z3a	Tu vends au campus : tes coûts n’ont pas changé. Tu peux néanmoins produire plus parce que de nouveaux acheteurs font monter le prix.
+ocp1y0x08y	Plus de demande à chaque prix
+epmzwda40d	Choc construit : QD passe de 10 − p à 14 − p. Offre inchangée QS = p − 2. L’ancien prix 6 crée une pénurie ; le nouveau point est (6, 8).
+udpbozszfe	Nouvelle demande : p = 14 − Q
+60jjhgygi3	À p = 6, les acheteurs veulent 8 unités au lieu de 4.
+229x4h3b53d	Ancien équilibre
+18nq1yi4frp	Nouveau : Q = 6, p = 8
+i78qhbwbby	Avec QD = 14 − p et QS = p − 2, quel est le nouveau prix ?
+13tl817ajkh	16 = 2p ⇒ p = 8 ; chaque côté choisit 6 unités.
+16y58ze4591	Pourquoi les vendeurs produisent-ils plus après ce choc ?
+15bumgjp0a5	Leur offre s’est déplacée car ils vendent davantage
+1s8lvpkr6xk	Une quantité offerte plus élevée ne signifie pas que la relation d’offre a changé.
+ih4vik8fdi	Ils répondent au prix plus élevé le long de leur offre
+11wmaaiupaq	Exact. Le déterminant initial est du côté de la demande ; les coûts sont inchangés.
+f6zxqi40z3	Thé, biscuits, revenu : retrouve le sens du choc
+196uwkmv8yp	Le prix du thé augmente : certains étudiants basculent vers le café s’ils sont substituts. Le prix des biscuits augmente : si café et biscuits sont complémentaires, l’ensemble devient moins attirant. Le même mot « autre prix » peut donc déplacer la demande dans des sens opposés.
+29djlprpvq3	Substitutes : une hausse du prix de l’autre bien accroît la demande. Complements : elle la réduit. Bien normal : une hausse du revenu accroît la demande ; bien inférieur : elle la réduit.
+10uzwrnhvxo	Pour des substituts, le café devient relativement plus intéressant que l’autre option.
+10725czf8v6	Pour des compléments, acheter le duo devient plus cher ; les deux usages peuvent reculer.
+9of77me4iw	Le revenu modifie les possibilités d’achat, mais le signe dépend du type de bien et non d’un jugement de qualité.
+23na3w7p8hf	Situation construite : à p_café = 6, QD passe de 4 à 6 après une hausse du prix du thé. Cela décrit un déplacement de demande de +2 à ce prix, pas une variation du prix du café.
+uubu0zt4l0	Tu ne regardes pas seulement l’étiquette du café : tu compares les boissons possibles et ce que ton budget te permet.
+1qk1dtrtgdx	Si café et biscuits sont complémentaires, le prix des biscuits monte. Que devient D du café ?
+2ckvv4puhtv	Elle se déplace à droite comme pour un substitut
+19lw0t3srqe	Ce sens conviendrait à une boisson de remplacement, pas à un bien consommé avec le café.
+lye38akqaq	Elle se déplace à gauche
+42rmlr6vza	Le duo est plus cher ; à prix du café donné, moins de café est demandé.
+1vdlw5ohiea	Le grain devient plus cher
+17wwazzdvt	Chaque unité coûte maintenant 2 € de plus à préparer. À prix de vente inchangé, certains cafés ne veulent plus produire autant. Ce changement concerne les coûts : l’offre se déplace vers le haut, puis la hausse du prix réduit les achats sur la demande inchangée.
+17s5e7my4kl	Un coût d’input plus élevé déplace S à gauche/vers le haut. Avec D inchangée : p* augmente et Q* diminue.
+phdd4n2vam	Le vendeur doit être compensé davantage pour la même unité.
+23lqubj0lz1	À l’ancien prix, la quantité offerte baisse ; la pénurie pousse le prix vers le haut.
+c2os64t828	Les consommateurs répondent au prix final plus élevé le long de D ; leurs goûts n’ont pas changé.
+1mbk7w5z5hp	Offre construite pS = 4 + Q, demande pD = 10 − Q. 10 − Q = 4 + Q ⇒ Q = 3 et p = 7, au lieu de Q = 4 et p = 6.
+19v4681tvkh	Tu es vendeur : tu n’as pas envie de préparer moins par humeur. Le même café coûte davantage, donc tu réclames un prix plus élevé.
+1jgt9n7x2u3	L’input coûte 2 € de plus par unité
+21p3yxgyfnt	Choc construit : l’offre inverse passe de 2 + Q à 4 + Q, demande inchangée. Le point d’équilibre devient Q = 3, p = 7.
+ui1snzmmhg	Nouvelle offre : p = 4 + Q
+10prmjbt08h	Pour une même quantité, il faut un prix supérieur de 2 €.
+g21rfdhskh	Ancien
+1eksfs6u7x7	Nouveau : Q = 3, p = 7
+10b10bfz8cz	Quel Q résout 10 − Q = 4 + Q ?
+27jwbdqtto7	6 = 2Q, donc Q = 3 et p = 7.
+8cnad5ttfe	Le coût des grains monte : quelle courbe change d’abord ?
+1e97h02txbm	La demande, parce que le prix final augmente
+2ew1gd9aixe	Cela inverse cause et réaction : le prix final monte parce que S a changé.
+1kglqheh04i	L’offre
+1ukbudd08b3	C’est un coût de production. Le mouvement final des achats le long de D est une réaction.
+ecxohq96o7	Deux chocs : accepte ce qu’on ne peut pas savoir
+zr3fwvav52	Imagine en même temps davantage d’étudiants et des grains plus chers. Les deux changements poussent le prix vers le haut. Pour la quantité, l’arrivée d’acheteurs pousse vers plus de cafés tandis que le coût pousse vers moins : leur taille relative décide.
+2dgxsifu9l0	D à droite et S à gauche : prix en hausse, quantité ambiguë sans magnitude des chocs.
+202weug4vgc	Un résultat est certain si les deux effets partiels ont le même signe.
+10p3yuf5zpc	Des effets de signes opposés ne se départagent pas sans information supplémentaire.
+ze3q93on9i	Ambigu ne signifie pas inchangé : hausse, baisse ou stabilité restent possibles.
+82erv9a8jw	Base pD = 10 − Q, pS = 2 + Q : Q = 4. Si pD devient 14 − Q et pS 4 + Q, Q = 5. Si pS devient 8 + Q au lieu de 4 + Q, Q = 3. Dans les deux cas p augmente : 9 ou 11.
+pciu89sw0n	À l’examen, tu peux gagner le point en expliquant précisément l’ambiguïté au lieu d’inventer une flèche pour Q.
+1yoqvvqxq3m	D se déplace à droite et S à gauche, sans tailles données. Quelle conclusion est justifiée ?
+hheyvi6fsq	p et Q augmentent forcément
+1xuh474p288	Ce serait la conclusion d’un seul choc de demande, pas des deux.
+ylbg0famqv	p augmente ; Q peut monter, baisser ou rester stable
+ljw60fie7s	Les deux chocs font monter p mais leurs effets sur Q se compensent plus ou moins.
+13qxfufffxk	Q reste forcément inchangée
+u44pkyj02z	Des effets opposés ne sont pas forcément égaux.
+10v6aylbb92	Quand les vendeurs peuvent peu s’adapter
+g2h1fn1tzf	Le campus veut plus de cafés, mais une seule machine limite la production à court terme. La quantité offerte peut peu augmenter ; davantage de l’ajustement passe alors par le prix. Avec des machines disponibles, plus de quantité peut absorber le même choc de demande.
+acoibfng05	Pour un choc donné, une offre plus raide implique une plus forte réaction du prix et une plus faible réaction de quantité, sous les hypothèses usuelles.
+jnl0xmzt5b	Le nouvel équilibre doit résorber le même excès de demande initial.
+7c0uft397n	Si la quantité s’ajuste peu du côté offre, le prix doit davantage décourager la demande.
+1p349vfmdgo	La pente est exprimée avec des unités ; l’élasticité enseignera ensuite comment comparer des réactions en pourcentages.
+1bg9gnbyv4	Deux marchés construits partent de (Q, p) = (4, 6). Choc pD : 10 − Q → 14 − Q. Offre p = 2 + Q : nouveau (6, 8). Offre raide p = −6 + 3Q : nouveau (5, 9). Le prix augmente de 3 au lieu de 2 ; Q augmente de 1 au lieu de 2.
+cqtgmtbcu1	Tu veux un café pendant une panne de machine. Un désir d’achat supérieur ne crée pas instantanément une capacité supplémentaire.
+1k786z2o3d1	Pour le même choc de demande positif, une offre plus raide donne généralement…
+1qfyt2vybjq	Une hausse de Q plus forte car la courbe monte vite
+1sn5t3dvbho	Monter vite en prix signifie justement qu’il faut beaucoup de hausse de prix pour un peu de Q supplémentaire.
+kgjbokqtt3	Une hausse de prix plus forte et une hausse de Q plus faible
+1ddnniv2mdo	Le prix doit faire davantage du travail d’ajustement.

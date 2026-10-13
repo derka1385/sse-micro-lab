@@ -1,0 +1,114 @@
+======================================================================
+6. ÜRETİM, MALİYETLER VE REKABETÇİ ARZ — L5–L6
+======================================================================
+
+6.1 Teknoloji ve marjinal ürünler
+Fonksiyon Q=f(K,L): sermaye K ve emek L ile elde edilen miktar.
+MP_L=partial Q/partial L; MP_K=partial Q/partial K.
+AP_L=Q/L, ortalama ürün; kesikli MP=Delta Q/Delta L, K sabit.
+L5 p.11: L=9'da Q=50, L=10'da 54, L=11'de 56.
+10. işçinin ürünü=4; 10'da ortalama ürün=54/10=5.4.
+Azalan marjinal getiri: bir girdi artar, diğeri sabit kalır.
+Örnek L5: Q=sqrt(KL), MP_L=0.5*sqrt(K/L), MP_K=0.5*sqrt(L/K).
+Cobb-Douglas tamamlayıcısı Q=A*K^alpha*L^beta:
+MP_L=beta*Q/L; MP_K=alpha*Q/K.
+A toplam faktör verimliliğini, TFP, yakalar: aynı girdilerle daha fazla
+çıktı veya aynı çıktı için daha az girdi.
+
+İşe alım, çıktı verili p fiyatından satılıyor: p*MP_L>w olduğu sürece devam et.
+Rekabetçi bir iç optimumda: p*MP_L=w.
+Çıktıda piyasa gücü varsa p yerine MR koy (tamamlayıcı).
+L5 Kara Ölüm: toprağa göre daha az emek, verili teknolojiyle
+emeğin marjinal ürününü ve ücreti artırabilir.
+
+6.2 Eş ürün eğrileri, eş maliyet doğruları ve minimum maliyet
+Eş ürün eğrisi (isoquant): aynı Qbar'ı üreten K,L bileşimleri.
+L yatay, K dikey: eğim=-MP_L/MP_K.
+MRTS_LK=MP_L/MP_K: eklenen her L birimi başına tasarruf edilebilen sermaye.
+Eş maliyet: C=wL+rK ->K=C/r-(w/r)L, eğim=-w/r.
+f(K,L)>=Qbar altında wL+rK'yı minimize et; olağan teknolojide eşitlik.
+İç optimum: MP_L/MP_K=w/r, yani MP_L/w=MP_K/r.
+Son avro her iki girdide aynı marjinal çıktıyı yaratmalıdır.
+w artışı: emek göreli olarak pahalılaşır -> ikame mümkünse aynı eş ürün
+eğrisinde daha sermaye yoğun bileşim. Diğer her şey sabitken bir girdinin
+fiyatı arttığında minimum maliyet düşemez.
+Yalnızca eski eş maliyet doğrusunu döndürme: istenen Q için yeni
+teğet eş maliyet doğrusunu da bul, genellikle daha maliyetlidir.
+
+Q=sqrt(KL) için tamamlayıcı örnek: K/L=w/r; KL=Qbar^2.
+L*=Qbar*sqrt(r/w), K*=Qbar*sqrt(w/r), C*=2*Qbar*sqrt(wr).
+Q=K*L için eş ürün eğrisi K=Qbar/L, sqrt(KL)'den farklı.
+E2025 Q5: eş maliyet 1000=50L+100K ->K=10-0.5L; eksen kesişimleri 20 ve 10.
+«İyi davranışlı» üretim, daha kesin bir üretim fonksiyonu olmadan
+L*,K* için sayısal değer vermez; optimum çizilir.
+
+6.3 Ölçeğe göre getiri ve ölçek ekonomileri
+TÜM girdileri t>1 ile çarp ve f(tK,tL)'yi t*f(K,L) ile karşılaştır.
+Büyük -> increasing returns to scale; eşit -> constant; küçük
+-> decreasing. Cobb-Douglas: alpha+beta'yı 1 ile karşılaştır.
+Getiriler TEKNOLOJİYİ ilgilendirir. Ölçek ekonomileri uzun dönem
+ORTALAMA MALİYETİ ilgilendirir: ATC Q ile düşer. Disekonomiler: ATC artar.
+Bir faktörün azalan marjinal ürünü, ölçeğe göre azalan getiri
+anlamına gelmez: sqrt(KL)'nin MP'leri azalır, getirisi sabittir.
+
+6.4 Maliyet tablosu
+TC=C(Q)=FC+VC(Q).
+ATC=AC=TC/Q; AFC=FC/Q; AVC=VC/Q; ATC=AFC+AVC.
+MC=dTC/dQ=dVC/dQ, çünkü sabit FC'nin türevi=0.
+Bir sonraki birimin kesikli MC'si: C(Q+1)-C(Q).
+MC<ATC ->ATC düşer; MC>ATC ->ATC artar.
+ATC'nin iç minimumunda: MC=ATC. AVC için aynı mantık.
+Sabit maliyet otomatik olarak sunk demek değildir: karar ufku içinde
+geri kazanılabilir/kaçınılabilir olup olmadığını kontrol et.
+Kısa dönem: en az bir girdi sabit. Uzun dönem: hepsi ayarlanabilir,
+evrensel bir takvim süresi yoktur. Verili Q'da uzun dönem maliyet <= kısa dönem maliyet,
+çünkü daha fazla girdi seçeneği sunar.
+
+Örnek L5 C=30+Q^2, Q=2'de: TC34, FC30, VC4, ATC17, AVC2, AFC15,
+sürekli MC4; 2'den 3'e geçmenin kesikli maliyeti=5.
+Marjinal maliyetin bu iki anlamını karıştırma.
+
+6.5 Price taker bir firmanın kârı ve arzı
+pi(q)=p*q-C(q). MR=p, çünkü tek bir firma piyasa fiyatını değiştirmez.
+Kâr maksimizasyonu modelin varsayımıdır. L6 p.3 ayrıca zaman ufkunu,
+diğer amaçları ve corporate social
+responsibility'yi, yani kurumsal sosyal sorumluluğu tartışmaya çağırır. Soru
+başka bir amaç belirtmedikçe bu, verili bir FOC'yi değiştirmez.
+FOC p=MC(q). Arz, MC'nin kapanma eşiğinin üzerindeki ilgili artan
+kısmıdır, q=0 ile karşılaştırılarak.
+Örnek L6 C=10+q^2, p12: MC2q ->q6; R72, C46, pi26.
+Her uygun p için: q=p/2; p0'da q0.
+Bu örnekte minimum ATC: q=sqrt(10), fiyat=2sqrt(10)≈6.325.
+pi=(p-ATC)*q. PS=pq-VC=pi+FC; PS mutlaka kâr değildir.
+
+6.6 Üretmek mi, kapatmak mı?
+Kısa dönem, kaçınılmaz FC: en iyi miktar R>=VC veriyorsa,
+yani p>=AVC(q*) ise üret; aksi halde q=0 ve zarar=-FC.
+Standart eşik, olağan varsayımlar altında min AVC'dir.
+AVC<p<ATC ise zararına üretmek zararı minimize edebilir: FC'nin bir kısmı
+karşılanır. Tam R=VC'de üretmek ile kapatmak arasında kayıtsızlık.
+Uzun dönem: yalnızca ekonomik kâr >=0 ise kal/gir,
+yani optimal düzeyde p>=ATC. Aksi halde mümkün olunca çık.
+L6 tişörtler: q10'a kadar MC5, sonra MC15, p10 ->q10. FC25 pi25 verir;
+FC40 pi10 verir. FC'deki değişim iç miktarı değiştirmez.
+
+6.7 Piyasa arzı, giriş ve fırsat maliyeti
+Bireysel arzları yatay olarak topla,
+negatif miktarları dışarıda bırak. L6 q1=p-2, q2=p-4:
+p<2 için QS=0; 2<=p<4 için p-2; p>=4 için 2p-6.
+Talep artışı: fiyat/kâr kısa dönemde artar -> giriş -> piyasa
+arzı sağa -> ekonomik kâr sıfır olana kadar fiyat/kâr düşer.
+Sabit maliyetli, aynı ve çoğaltılabilir firmalar durumunda p_LR=min ATC,
+firma başına q etkin düzeye döner, piyasa miktarı ve firma
+sayısı artar. Bu sonuç tüm sektörleri tanımlamaz.
+Sektör düzeyinde kıt girdi -> LR arz artan olabilir; öğrenme
+veya dışsal ekonomiler -> azalan olabilir.
+
+Muhasebe maliyeti: açık harcamalar. Ekonomik maliyet: vazgeçilen en iyi
+alternatifin değerini, çifte sayım olmadan içerir.
+Naomi L6: malzeme 30.000 + teslimat 10.000 ->muhasebe 40.000;
+alternatif maaş 50.000 ->ekonomik 90.000.
+Sıfır ekonomik kâr ne sıfır maaş ne de gelir yokluğu demektir:
+faktörler zaten fırsat getirilerini alır.
+Ekonomik rant: kıt bir kaynağın ilgili alternatif kullanımının
+ötesindeki gelir; basit muhasebe kirasından farklıdır.

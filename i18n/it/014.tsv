@@ -1,0 +1,221 @@
+pxx0mh9vyw IR: il cliente può anche non comprare nulla
+2e81o9csek6 Il cliente L valuta Base a 8 e Alto a 12. Con i prezzi 8 e 16 ottiene 0 su Base e −4 su Alto. Preferisce Base ad Alto, ma è anche indifferente a restare fuori: l’offerta deve coprire la sua opzione esterna, non solo battere l’altra offerta.
+1100ve6h67t IR_L: VL(Base)−TB≥0; IC_L: VL(Base)−TB≥VL(Alto)−TH. Qui IR_L0, IC_L0≥−4, IR_H4≥0 e IC_H4 = 4.
+hlj6pgrl8f IC può valere mentre tutte le offerte danno un’utilità negativa: nessuno partecipa.
+1d151c5dyc6 Nel menu usuale, estrarre tutto il surplus di L può costringere a lasciare una rendita informativa a H.
+22tmg936o8y Bisogna verificare tutti e quattro i vincoli, non dichiarare sufficienti IC_H e IR_L senza guardare gli altri.
+14yn3n4a5h0 Porre TB = 9 e TH = 17 lascerebbe L con −1 su Base: anche se Base è il suo contratto migliore, preferisce l’opzione esterna 0. H conserva una rendita di 4 nel menu iniziale.
+2c4kmq3yf9p Sei L: «meno peggio di Alto» non basta; puoi tenerti i soldi e rifiutare entrambi.
+1m6k883pwrd L preferisce Base(−1) ad Alto(−5), opzione esterna 0. Qual è il problema?
+q0zgjt5ko9 IR: L rifiuta tutti i contratti
+1a0y2k4wdrg IC confronta le offerte, ma qui la partecipazione richiede almeno 0.
+rfzla5bg7z Solo IC_H
+121n2iirxww Il confronto mostrato riguarda L e il suo rifiuto di partecipare.
+1zhl92e00o4 Nessuno, perché Base è meglio di Alto
+i5coscxgx4 Hai dimenticato l’opzione esterna.
+19xi8j6488j Due prodotti: sommare i valori della stessa persona
+4jwyjd464q Gourmet ama soprattutto la cena: 100 per la cena, 50 per la camera. Snoozer preferisce relativamente la camera: 80 e 70. Ciascuno valuta quindi il pacchetto 150; una vendita congiunta può ridurre la dispersione dei valori che il venditore deve gestire.
+23vm7v8jda6 Pure bundling: solo il pacchetto; mixed bundling: pacchetto e vendite separate. Confrontare i profitti includendo i costi; i ricavi 300 e 260 presuppongono qui MC = FC = 0 per essere profitti.
+p0zgbry1b6 Separato: prezzo cena 80 vende 2 → 160; prezzo camera 50 vende 2 → 100.
+12vu3ql94zs Pacchetto a 150 venduto 2 → 300; in questo caso i valori dei prodotti sono correlati negativamente.
+1p01ba6tiax Costi elevati o clienti che comprerebbero un solo servizio possono cambiare la soluzione migliore.
+1vuk9kbvp63 Separato 260; pacchetto 300; guadagno 40 a costi nulli. Se entrambe le soluzioni vendono esattamente due cene e due camere, i loro costi identici si annullano; non generalizzare a volumi diversi.
+1wy6q9s9ace Vendi un pacchetto: per ogni cliente, somma la sua cena e la sua camera, non la cena di Gourmet con la camera di Snoozer.
+22tyaa9rig0 Snoozer valuta la cena 80 e la camera 70: la sua WTP per il pacchetto?
+1czfmwqc2sw 80+70 = 150 per la stessa persona.
+o3cgzdvjjq 170 somma i valori migliori di due persone diverse.
+21irgd6s7sn A costi nulli, ricavi del pacchetto 300 e separati 260: guadagno di profitto?
+1g81ex1noy0 300−260 = 40, sotto l’ipotesi esplicita di costi nulli.
+ckgiei3ab6 Due parti: far pagare l’ingresso e l’uso
+2aph9l6tf49 Il venditore conosce un cliente per cui ogni uso costa 2 da fornire. Gli fa pagare 2 per ogni uso perché si fermi al punto giusto, poi preleva una quota d’ingresso. Il prezzo d’uso crea l’incentivo; la quota ripartisce il guadagno senza cambiare la decisione marginale una volta entrato.
+73l06uzrkh Un cliente noto, D = 10−q, MC = 2: T(q) = F+pq; p = 2 → q = 8; CS prima di F = (10−2)×8/2 = 32; F = 32 → profitto 32, FC di produzione 0.
+19c0rie19bg A p = MC, il cliente confronta la sua WTP marginale con il costo reale di un uso.
+1px1jjdl2me F può poi catturare il surplus di partecipazione senza modificare quel prezzo marginale.
+x8uixydqpm Con più tipi e una quota comune, p = MC non è sempre ottimale: la partecipazione cambia.
+24svk2b9hal Pagamento totale 32+2×8 = 48; costo 16; profitto 32. Il cliente riceve un valore 48 e paga 48: utilità netta 0 con partecipazione debole.
+10ti14a0h61 Hai già pagato l’ingresso: per il prossimo uso contano i 2 d’uso, non la quota passata.
+1vw59oozg1m D = 10−q, prezzo d’uso 2: quanti usi?
+1y7afe5vuyg Quale F massimo con un solo cliente noto e opzione esterna 0?
+c2rcljhpl7 Surplus prima della quota = (10−2)×8/2 = 32.
+iuxro8e08a 48 è il valore totale; il cliente paga già 16 d’uso.
+25ta9dv1mf2 50 corrisponde all’uso gratuito, non a p2.
+116ljytfexa Prezzo d’uso e abbonamento non danno la stessa quantità
+28dt5mm1zxp q: unità consumate
+ae6zdxx5q6 WTP marginale / costo / prezzo d’uso
+2fyxoo0licn Un cliente noto: D = 10−q, MC = 2. Prezzo unico 6 → q = 4; two-part tariff p = 2 → q = 8, F = 32; solo abbonamento p = 0 → q = 10, F = 50. F è un pagamento fisso del cliente, non il costo fisso di produzione.
+179motrv5sp Il consumo si ferma quando la WTP marginale raggiunge il prezzo d’uso.
+11w7rx9g8r7 MC = 2 / uso p = 2
+102jnzzpn9f Il prezzo d’uso efficiente copre il costo marginale.
+saqoibyc6e Uso p0
+gkbvgcbrjv Il solo abbonamento rende gratuito l’uso, non le risorse.
+1dt5tg7pumb Prezzo unico
+2cmgogv9w0b Due parti
+uizzpa4cjv Solo abbonamento
+d8m6m9y2ut Il solo abbonamento rende gratuito l’uso
+jxr947hg96 Il venditore chiede solo una quota, senza prezzo per ogni uso. Una volta entrato, il cliente usa il servizio finché il suo valore marginale arriva a 0. Questo può superare il livello efficiente quando ogni uso continua a costare 2 da fornire.
+1towd792syu Stesso cliente, solo abbonamento: p_usage 0 → q = 10; F = 50; costo 20; profitto 30. Non è la tariffa in due parti p = 2, F = 32 che dà profitto 32.
+7wuov4tqzk Il pagamento fisso è irrecuperabile nella decisione su un uso in più.
+ddf717g9ov A q = 9, valore 1<costo 2 ma il cliente paga 0 al margine: vuole comunque usare.
+155u5recibo Qui F indica il ricavo dell’abbonamento, non il costo fisso di produzione; rinominare i simboli evita la confusione.
+1gnu9pi853c F = area sotto D fino a q = 10 = 10×10/2 = 50; profitto 50−2×10 = 30. Due parti: profitto 32 con soli 8 usi, quindi meno risorse sprecate.
+12ftugabexv Sei a un buffet a volontà: l’ultima porzione ti sembra gratuita, mentre il fornitore continua a pagare le sue risorse.
+1dkxqko79t4 Solo abbonamento F = 50, q = 10, MC = 2, FC di produzione 0: profitto?
+z1neunze8k Il ricavo dell’abbonamento non è il profitto: bisogna pagare gli usi.
+21egcinzec5 32 appartiene alla tariffa in due parti, un altro contratto.
+z6hpkpa8uh Uno sconto può spiazzare un cliente migliore
+x5lzujb95w Il concerto ha 2.000 posti, già richiesti da 3.000 fan disposti a pagare 1.200. Alcuni studenti offrono 500. Anche se far entrare uno studente non costa quasi nulla fisicamente, il suo posto qui sostituisce quello di un fan che avrebbe pagato 1.200.
+upkxcifj27 Capacità vincolante: costo opportunità di un posto. E2025: prezzo 1.200 ai 2.000 fan → ricavo 2,4 milioni; aggiungere una categoria a 500 non crea posti.
+2fxwbbnkfa6 Il posto in più non esiste: un cliente deve sostituire l’altro.
+2dtdbzm4rtf Il mancato ricavo per sostituzione è 1.200−500 = 700.
+74prn8tke3 Con posti invenduti o una domanda dei fan più debole, il ragionamento potrebbe cambiare: bisogna verificare il vincolo.
+ge1metd0an Sostituire 100 fan con 100 studenti fa perdere 100×700 = 70.000, con queste WTP e MC = 0. Uno sconto non è redditizio solo perché serve un gruppo identificabile.
+2djcjijybtb Gestisci la biglietteria: prima di aprire una tariffa, chiediti quanti posti resterebbero davvero vuoti senza di essa.
+1i971kx8722 Un posto fan a 1.200 sostituito da uno studente a 500: mancato ricavo?
+6wqbeepszt 1.200−500 = 700 di costo opportunità.
+26wca2xh6r2 Il costo fisico 0 non cancella il cliente escluso.
+23i4jntate6 Biglietto e T-shirt: massimizzare il profitto insieme
+1m607itl8gr Un organizzatore vende anche T-shirt ai presenti. Un biglietto più economico può attirare visitatori che poi compreranno un prodotto con un margine. Il miglior prezzo del biglietto dipende quindi dai profitti che crea altrove, non solo dalla biglietteria considerata isolatamente.
+1dwurw30zae Ridurre pc aumenta Qc ma anche la base di clienti delle T-shirt.
+298hqzcj547 L’impresa confronta il mancato ricavo sui biglietti con il guadagno di margine sulle T-shirt.
+2bzjo16yvlg Un risultato interno deve rispettare QT≥0 e i domini delle domande.
+1vpddw05nkq pc = 3040/7≈434,29; pT = 1060/7≈151,43; Qc = 3960/7; QT = 1840/7>0. Senza T-shirt, pc = 500: qui il complemento motiva un biglietto più economico.
+21sud8gowrb Sei l’organizzatore: una campagna che abbassa il ricavo per biglietto può migliorare il profitto totale se crea abbastanza margine altrove.
+2comuvvx97u Perché qui non massimizzare separatamente il ricavo dei biglietti?
+17st8tbrwy2 Il prezzo del biglietto cambia anche vendite e margine delle T-shirt
+b4jol822mn Le due domande sono legate dal numero di visitatori.
+11hqy2tmn05 Perché tutti i prodotti complementari devono essere gratuiti
+1p4itknwqd0 Il giusto compromesso si calcola, non è una regola di gratuità.
+78x2xnq8el Perché il MC delle T-shirt è 0
+1wgltmfrod2 Il costo dato è 20; dimenticarlo modificherebbe le FOC.
+ff4ifxd6j9 Prima del calcolo, dichiara quale contratto analizzi
+7cfzar38cz Il venditore può riconoscere il tuo status, lasciarti scegliere una versione o vendere un pacchetto. Questi meccanismi non danno né gli stessi vincoli né la stessa quantità. Riesci nell’esercizio identificando ciò che sa il venditore e ciò che ogni cliente può scegliere prima di ottimizzare il profitto.
+1khfdn5bu7s Checklist: osservabile → terzo grado; tipo nascosto/menu → secondo grado; valori esatti → primo; pacchetto → bundling; T(q) = F+pq → due parti, con p0 se solo abbonamento.
+1wzgzrhgotw La parola «abbonamento» non precisa automaticamente il prezzo d’uso.
+23o0sni6600 Un contratto deve essere scelto e accettato dai clienti prima che il suo ricavo sia realizzabile.
+134amc5zim7 Le conclusioni su profitto e welfare richiedono costi, capacità e opzione esterna esplicitati.
+hqkgclwyct E2023 abbonamento D = 10−2q, C = 10+2q: uso 0, q = 5, F = 25, profitto 5. Con due parti p = 2, q = 4, F = 16, profitto 6: confondere le soluzioni cambia la risposta.
+9bwus97n1m Ricevi un nuovo testo: scrivi prima «che cosa paga il cliente per entrare, e poi per un uso in più?»
+m4les6f7ls Ricostruisci un’analisi tariffaria.
+1yje88piyd Identificare ciò che sa il venditore e i contratti possibili
+ax34utcqel Calcolare valori e utilità nette di ogni tipo
+5wrte52uoh Verificare partecipazione, incentivi, arbitraggio e capacità
+1bfku9y4tbw Calcolare quantità, ricavi e costi
+1jd7h1vjn3s Confrontare i profitti, poi gli effetti sul surplus
+kz7azyzj05 Identificare ciò che sa il venditore e i contratti possibili → Calcolare valori e utilità nette di ogni tipo → Verificare partecipazione, incentivi, arbitraggio e capacità → Calcolare quantità, ricavi e costi → Confrontare i profitti, poi gli effetti sul surplus
+241jrcnsjtd Un prezzo comune lascia surplus ai clienti con WTP elevata e può escludere altri clienti.
+2z2p2wh0cm Un tipo osservabile permette gruppi; un tipo nascosto richiede un menu o un’altra forma di auto-selezione.
+j9qu9ah14r Sceglie la sua offerta migliore e può anche rifiutare: IC e IR limitano l’estrazione.
+1ai6yk02ygh Un prezzo annunciato non rende nulla se il cliente cambia contratto o non partecipa.
+2cxwpjlu5vg Più ricavi o più categorie non garantiscono un guadagno netto.
+1rmnvk7s3nr Un guadagno di profitto può essere un trasferimento o accompagnare un’allocazione meno efficiente.
+2eq5wg2g8ec Una tariffa studenti osservabile rientra nel terzo grado; un menu per tipi nascosti rientra nell’auto-selezione di secondo grado. H può ottenere 12−8 = 4 su Base. Per fargli scegliere Alto, 20−TH deve raggiungere almeno 4, quindi TH≤16: chiedere 20 viola IC_H. IR verifica anche che ciascuno preferisca partecipare piuttosto che scegliere l’opzione esterna. Il solo abbonamento porta il prezzo d’uso a 0; una tariffa in due parti separa la quota e questo prezzo d’uso.
+z7i4azlnz3 Il venditore vuole catturare valori diversi.
+rhk63thxdv L’informazione disponibile determina il meccanismo.
+fw9o114v6n Ogni cliente confronta tutte le sue utilità nette.
+1ffd6xeaeqo Il ricavo realizzabile dipende dalle scelte effettive.
+cc2e71sh9q Costi, arbitraggio e capacità decidono il profitto.
+9uvh8kh07u Il welfare si conta separatamente.
+1t80ybvbcki Spiega la differenza tra tariffa studenti osservabile e menu Base/Alto. Con VH(Base)12, VH(Alto)20, TB = 8, TH = 16, perché non si può chiedere TH = 20? Distingui anche solo abbonamento e due parti.
+1utzsda4v98 Osservabile o nascosto
+1q02zzlszxd Il terzo grado classifica un gruppo noto; il secondo grado fa scegliere un menu al tipo nascosto.
+2desm0z7n7m Confrontare i contratti
+1w2as1mzluy H guadagna 4 su Base; TH = 20 gli lascerebbe 0 su Alto, quindi sceglierebbe Base.
+1qxkw2ksaqz Poter rifiutare
+k82ocu42om La partecipazione richiede almeno il valore dell’opzione esterna.
+28yl00xx4qq Prezzo d’uso distinto
+2g4o7hfgdnw Solo abbonamento: uso a 0; due parti aggiunge un prezzo d’uso che può essere MC per un cliente noto.
+22h7kchhj2z IC confronta le offerte tra loro; IR confronta l’offerta migliore con il rifiuto di partecipare.
+1w95akji2zz La quota è un ricavo del venditore; il costo fisso di produzione è una spesa distinta.
+14s1kg2lki7 Scelta di una tariffa per un cliente noto
+5y1p56n5l2 Esercizio costruito, ispirato a L9 ed E2023 Q2c; nessuna soluzione ufficiale. Si assumono un solo cliente noto, costi fissi di produzione nulli e partecipazione debole.
+1dt6khmb4t1 Uso p = MC = 4 → q = 8; F = (12−4)×8/2 = 32; i ricavi d’uso coprono il costo variabile, quindi π = 32.
+d5u1n8o6bv Uso p = 0 → q = 12; F = 12×12/2 = 72; costo 4×12 = 48; π = 24.
+1ps76h69nnt Identificare il prezzo marginale d’uso in ogni contratto.
+g5q7i560mt Determinare il consumo del cliente, poi il surplus che limita il pagamento fisso.
+2cxchgudz38 Sottrarre i costi veri per confrontare i profitti.
+1qsa1hhocyk Due parti: p = 4, q = 8, F = 32; pagamento 64, costo 32, π = 32.
+1cyeff141an Solo abbonamento: p_usage 0, q = 12, F = 72; costo 48, π = 24.
+s0qw77qwe9 Tracciare D = 12−q e MC = 4.
+1xpyc3t3a37 Il consumo efficiente è q = 8; l’uso gratuito porta a q = 12, dove le unità 8–12 hanno WTP<MC.
+rqr8qxa26y La quota two-part 32 è il triangolo tra D e p = 4 su 0–8.
+19j2vi4qwt2 Un gruppo di studenti identificato alla vendita rientra piuttosto nel…
+1rj4trws9kz Lo status è osservabile; non serve alcuna auto-selezione tramite contratto.
+13kmqk4yn5b Il secondo grado riguarda un tipo nascosto che si smista con la propria scelta.
+1j9zby9y5gv Lo status non rivela la WTP esatta di ogni unità.
+jix9lmwi1o IR verifica…
+2cgultslccj Che un cliente accetti invece di scegliere l’opzione esterna
+atgo5im0hj Partecipazione e incentivo rispondono a due confronti distinti.
+1b1j7862s24 Che preferisca il suo contratto all’altro
+pe5gno6q9r Questo è IC.
+13ehuiccnxs Che il venditore fissi MR = 0
+1xpbasp1ymj IR riguarda la scelta di partecipazione del cliente.
+245q136yph4 Perché H può scegliere la versione Base?
+1i3jll2aw33 Il suo risparmio di prezzo supera la sua perdita di valore
+dsj1ntciws Massimizza la propria utilità netta, non l’etichetta del menu.
+1ppe69h6xlt Perché IC è automaticamente soddisfatta
+10i014kevvg Proprio per questo bisogna verificare IC_H.
+1bh53ekwtme Perché H deve avere gli stessi gusti di L
+7s38w2lrky Ogni tipo confronta i contratti con i propri valori.
+236lcyq8rwb Ricostruisci il possibile sovraconsumo con il solo abbonamento.
+2b0l2g3wqgl Il cliente paga una quota fissa
+1jbch94pe4u Il prezzo di un uso in più è 0
+1cnj0by6jh1 Consuma fino a una WTP marginale 0
+23myyv8eqem Se MC>0, alcune unità costano più di quanto valgano
+140zy6ebbe5 Il cliente paga una quota fissa → Il prezzo di un uso in più è 0 → Consuma fino a una WTP marginale 0 → Se MC>0, alcune unità costano più di quanto valgano
+vseylkljfd Ricostruisci una tariffa in due parti.
+27t9vr62rr8 Una quota più un pagamento per ogni uso.
+y1n9hkqwz2 H valuta Base 10, Alto 18; Base costa 6. Prezzo massimo di Alto con IC_H debole?
+1ga9wreyree H conserva 10−6 = 4 su Base; 18−TH≥4 → TH≤14.
+f02xbrh0l8 18 rispetta IR_H ma viola IC_H perché Base lascia 4.
+1523lok4ock D = 10−2q, C = 10+2q; solo abbonamento con uso a 0: profitto?
+jo7erlbhj9 q = 5, F = 25, costo 10+2×5 = 20, profitto 5.
+1vzdr9ifwou 6 è il risultato con un prezzo d’uso 2 e una quota 16, un altro contratto.
+pon5hsl6yh Un posto è già vendibile a 1.200. Venderlo a 500 con MC fisico 0 crea un guadagno di 700?
+1lr0402ro1z No: sacrifica 700 di ricavo a capacità fissa
+11eqv5iizte Conta il costo opportunità del cliente sostituito.
+1u7b2ltgozr Sì, perché MC = 0
+230gevy1y9o Il posto è scarso anche senza costo fisico aggiuntivo.
+138l5x04y6x Sì, ogni sconto aumenta il profitto
+1anlz6b6gv3 Decidono i vincoli e il controfattuale.
+1veeigoytft Another customer displaced
+nans3fdvy9 Opportunity cost
+1p9jezecycv Riconosco informazione, grado e possibilità di arbitraggio.
+283fu8ng04e Il meccanismo di prezzo dipende da ciò che il venditore sa e può impedire.
+15kpb8apt83 Calcolo le scelte e verifico IC e IR di ogni tipo.
+2deunj1fk8u Un ricavo annunciato è irrealizzabile se il cliente devia o rifiuta.
+1ob6k8m6lgf Distinguo il solo abbonamento dal prezzo d’uso più quota.
+v82gtankb7 Danno incentivi marginali e quantità diversi se MC>0.
+1ybnwsv3xcc Confronto i profitti con costi e capacità, poi il welfare separatamente.
+libfvgcavd Più ricavi, una nuova categoria o un Q totale identico non garantiscono un guadagno di efficienza.
+1akf0izgihp Oligopolio — prevedere la scelta dell’altro
+g2um5wbz1h Cournot, Stackelberg e Bertrand
+1x2js5359tt Un’impresa non decide più da sola. La sua scelta cambia ciò che fa la rivale. Quantità, prezzo, simultaneo o sequenziale: il gioco va scelto prima delle formule.
+d4j07xw7ct Scelgono gli acquisti in base al prezzo e ai sostituti.
+uu39eu0yfm Ottenere il servizio al miglior rapporto qualità-prezzo.
+1eweiy62fr7 Impresa 1
+1x29jd46963 Sceglie la sua strategia tenendo conto della rivale.
+1fpemg7w5t2 Massimizzare il proprio profitto.
+1f8vitccw3o Impresa 2
+xl0zi96ghn Risponde alle condizioni create dall’impresa 1.
+ctulu70sfe Massimizzare anch’essa il proprio profitto.
+ppdlfraqvq Confronta i risultati delle regole di concorrenza.
+1trrcim8fwn Contare produzione, prezzi e costi reali.
+fgfib05xsm Che cosa sceglie ogni impresa, e quando?
+1a8s2t9thae Due venditori possono farsi concorrenza annunciando volumi o annunciando prezzi. Uno può anche decidere per primo, mentre l’altro osserva e reagisce. Queste regole cambiano la scelta migliore: le sole parole «due imprese» non danno ancora un modello.
+2e754czxng0 Cournot: quantità simultanee. Bertrand: prezzi simultanei, prodotti omogenei o differenziati da precisare. Stackelberg: quantità sequenziali nella versione usuale.
+vk4194f6hy Una quantità rivale presa come data non svolge lo stesso ruolo di un prezzo rivale.
+20jxqxlz7f9 Osservare una prima scelta permette di condizionare la seconda; chi decide per primo lo anticipa.
+1qbtn4iuz8x Omogeneità e capacità determinano se un piccolo calo di prezzo può attirare tutto il mercato.
+188r55agsdh Due produttori di rame che scelgono q1 e q2 lo stesso giorno: Cournot. Due bar che scelgono i loro prezzi: Bertrand differenziato se i clienti distinguono i loro prodotti.
+41kbod2a7r Leggi il testo: sottolinea «quantity», «price», «first», «observes» prima di tirar fuori una funzione di reazione.
+2235r09c2ms Due quantità scelte simultaneamente per un bene omogeneo: quale gioco?
+1vk2x2gin1l Cournot
+y5a0e9ydfb La variabile strategica è la quantità e la scelta è simultanea.
+4sihk9drwo Bertrand, perché ci sono due imprese
+1uaczslf83h Il numero non basta; Bertrand riguarda i prezzi.
+127k79g2ecs Stackelberg, perché l’impresa 1 è citata per prima
+2b16wkfkak3 Serve un vero impegno sequenziale, non l’ordine dei nomi.
+1qydpwbry6i Nash: ciascuno risponde alla scelta effettivamente compiuta dall’altro
+1hq359cz2v7 L’impresa 1 guarda il volume dell’impresa 2 e sceglie il volume che le rende di più. L’impresa 2 fa lo stesso ragionamento. Si cerca una coppia in cui nessuna vuole cambiare da sola, tenendo fissa la scelta della rivale.
+ldk0vycpzu Nash: nessuna deviazione unilaterale profittevole. L’intersezione delle migliori risposte è un equilibrio; ciò non significa profitto congiunto massimo.
+hml4cpoq2u Una migliore risposta è condizionata alla scelta della rivale.

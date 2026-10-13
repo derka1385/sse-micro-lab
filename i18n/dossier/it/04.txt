@@ -1,0 +1,53 @@
+======================================================================
+2. LOGICA COMUNE E STRUMENTI MATEMATICI
+======================================================================
+
+2.1 Lo scheletro di quasi tutti i problemi
+1) Chi decide? Consumatore, impresa, banca, autorità, offerente.
+2) Quale obiettivo? Utilità, profitto, costo minimo o surplus SOCIALE.
+3) Quale variabile sceglie? Quantità, prezzo, sforzo, input, contratto.
+4) Che cosa è dato? Prezzi, reddito, rivale, tecnologia, informazione.
+5) Quali vincoli? Budget, produzione, capacità, non negatività,
+   partecipazione, incentivo, divieto di rivendita, reazione del follower.
+6) Scrivere la funzione obiettivo e le relazioni di coerenza.
+7) Risolvere; verificare dominio, angoli, ottimo e partecipazione.
+8) Tornare ai prezzi, quantità, profitti e surplus richiesti.
+9) Spiegare perché una piccola deviazione non migliora l'obiettivo.
+
+«Marginal» indica l'effetto di un'unità in più, o la derivata
+in un modello continuo. «Average» indica il totale diviso per la quantità.
+Una decisione marginale confronta beneficio aggiuntivo e costo
+aggiuntivo. Un costo fisso inevitabile non compare in questo confronto,
+ma conta nel profitto totale e nella decisione di restare nel lungo periodo.
+
+2.2 Derivate e condizioni di ottimalità
+y=f(x): f'(x)=dy/dx, pendenza locale. Con più variabili, usare
+una derivata parziale tenendo costanti le altre.
+d(k)/dx=0; d(ax)/dx=a; d(x^n)/dx=n*x^(n-1).
+d[f(x)g(x)]/dx=f'(x)g(x)+f(x)g'(x), regola del prodotto.
+Per p(Q)Q, MR=p(Q)+Q*p'(Q), e non solo p'(Q)Q.
+Per una funzione concava, la FOC f'(x)=0 dà un massimo interno.
+Verificare f''(x)<0 o confrontare i valori agli estremi se necessario.
+Una FOC da sola non garantisce né un massimo, né una quantità ammissibile, né la produzione.
+
+Per una somma attesa: E[X]=somma(probabilità dello stato * risultato).
+Calcolare il risultato NETTO in ogni stato prima di ponderare.
+Una sanzione applicata con probabilità d ha un costo atteso d*F.
+
+2.3 Aree e unità
+Rettangolo = base*altezza; triangolo = base*altezza/2.
+Surplus = area tra disponibilità marginale a pagare e costo/prezzo rilevante.
+Forma generale: area = integrale della differenza verticale in funzione di Q.
+I triangoli presuppongono curve lineari nell'intervallo considerato.
+Prezzo in moneta/unità * quantità in unità = moneta.
+Se Q è in MIGLIAIA di tonnellate e p in dollari/tonnellata, l'area è in
+MIGLIAIA di dollari. Questo punto cambia il risultato di un fattore 1000.
+Un'elasticità non ha unità; una pendenza in genere sì.
+
+2.4 Riscrivere prima di calcolare
+Domanda diretta Q=a-bp -> domanda inversa p=a/b-Q/b.
+Offerta diretta Q=-c+dp -> offerta inversa p=c/d+Q/d.
+In un grafico di mercato: Q orizzontale, p verticale; tracciare le forme
+inverse. Per sommare le domande private: sommare le quantità
+allo stesso prezzo, non i prezzi. Per un bene pubblico: sommare i benefici
+marginali allo stesso Q, quindi verticalmente.

@@ -1,0 +1,227 @@
+c9gey8ry1n ödeme isteği
+6pe0dbzfj3 bir kişinin bir birim için ödemeyi kabul ettiği en yüksek fiyat
+u9wy9df7fz marjinal azaltım maliyeti
+1hgz0tjnakz kirliliği BİR birim daha azaltmanın maliyeti
+1n8jn35e8p0 kirlilik birimi başına €
+j82v8gc1ts “marginal average cost” değil.
+xv170gixs2 var(--buyer)
+1552mty4oof var(--producer)
+qsuhiqj38o var(--third)
+2zdqdo7wd1 var(--society)
+dogyfldg5l var(--gov)
+9nvfaayi9c var(--dwl)
+wfzx7d22ck var(--ink-2)
+1exalqr71w9 Arz ve talep — kahve piyasası
+1weqh3fa7n7 İki karar, bir fiyat, sonra bir şok
+1vxodvj8sm7 Kahve 4 €’da tükeniyor, 8 €’da tezgâhta kalıyor. Nedenini anlayacak, herkesi koordine eden fiyatı kuracak, sonra doğru eğrileri kaydıracaksın.
+1hnwyodxid0 Öğrenciler
+1j0o1tt03mx her hafta kahve alırlar
+tie4yjm0ic en az maliyeti kadar değerli bir içecek
+e8durmcobz Kampüs kafeleri
+2dore5om0ob homojen bir içecek satarlar
+hotfbdh612 sonraki içeceğin maliyetini karşılayan bir fiyat
+ycpqdvd3g7 Gözlemci
+1mp73ufzda2 Bu durumda aktif bir rolü yok.
+1m569dz98xb Sonucu anlamak.
+6kte9mx3w4 Sen, analist
+2335mafwtxl piyasayı tanımlar ve kararları gözlemlersin
+1nyvk94pzdd neden ile tepkiyi karıştırmadan fiyatı ve miktarı açıklamak
+1ul8mdp1ops Tek bir ilan edilmiş fiyat, iki ayrı karar
+1ko23e1iz5i Bu hafta aynı içeceği satan birkaç kampüs kafesi düşün. Öğrenciler ne kadar alacaklarına karar verir; her satıcı ne kadar hazırlayacağına karar verir. Kimse tek başına tüm piyasanın fiyatını seçmez: fiyat alıcı (price taker) ajanlarla çalışıyoruz.
+c9t1ppkleo Bir piyasa bir ürün, bir bölge ve bir dönemle tanımlanır. Basit rekabetçi model çok sayıda ajan ve homojen bir ürün varsayar.
+jdimvresnj Bir öğrenci kahveyi reddedebilir ama tüm kafelere bir fiyat dayatamaz.
+6t0t381asz Bir satıcının piyasa fiyatını veri kabul edecek kadar rakibi vardır.
+9zfkx0cr3e Piyasayı tanımlamak, yerel günlük bir miktarı yıllık ulusal bir taleple karşılaştırmanı önler.
+162ccqq4cg2 L2 örneğinde QD = 10 − p ve QS = p − 2: p birim başına € ve Q haftalık birim cinsinden. p = 6’da her taraf Q = 4’e karar verir.
+go0rdvyl40 Öğrencisin: almadan önce fiyata bakarsın. Satıcısın: hazırlamadan önce aynı fiyata bakarsın. İki plan uyumsuz olabilir.
+eurvapah5t Fiyat iki kararı koordine eder
+2gfs8aqmv5h Q, haftalık birim
+25vnsfiq2s3 p, birim başına €
+jb5ox8quy2 Dosyadaki L2 örneği. Ters talep p = 10 − Q; ters arz p = 2 + Q. Doğru parçaları negatif olmayan miktarlarda tam olarak bu fonksiyonları gösterir.
+1je0jilrank Talep: p = 10 − Q
+16tnm9rftxk Yükseklik = bu birimin talep edildiği en yüksek fiyat.
+e2u0u2025w Arz: p = 2 + Q
+x0pg9wn6lf Yükseklik = bu birimin arz edilmesi için gereken en düşük fiyat.
+255071bhti2 Denge: Q = 4, p = 6
+14e63xlvzpy Bu modelde talep edilen miktarı kim seçer?
+1gmhherhsie Satıcı öğrencilerin alımlarını da seçer
+1j8n7dagro0 Arzı seçer, başkalarının satın alma isteğini değil.
+67btjb6tt3 Alıcılar, gördükleri fiyatta
+2dvi80g5k6i Evet. Fiyat her alıcı için veridir; talep onun tepkisini tanımlar.
+7fenedxx9f Analist doğrudan Q = 4 belirler
+1m04nvd7xti Kararların nerede koordine olduğunu hesaplar; alımları emretmez.
+2wm7b8n1ll Dosyadaki mekanizma
+sj5wdyqx1s Talep ne demek
+1ywtnegp3wp 4 €’da kahveyi değerli bulan öğrenci sayısı 8 €’dakinden fazladır. Bazıları başka bir içecekten vazgeçer; diğerleri paralarını saklar. Talep, gelir, zevkler ve diğer malların fiyatları sabitken her fiyatta ne kadar almak isteyeceklerini tanımlar.
+in4syuo6ru Doğrudan talep QD(p) = 10 − p, pozitif tanım aralığında; ters talep pD(Q) = 10 − Q.
+1ptuucew2jq Daha yüksek bir fiyat, değeri çok düşük olan alımları dışarıda bırakır.
+tssv7hrygj Kahve fiyatına tepkiyi ayırmak için diğer belirleyicileri sabit tutarız.
+2avctmo4ckj Talebin tamamı bir ilişkidir; talep edilen miktar bu ilişki üzerindeki bir noktadır.
+iowzg4i759 p = 4’te QD = 6; p = 8’de QD = 2. Yalnızca p değişiyorsa “talep azaldı” denmez: aynı eğri boyunca 6’dan 2’ye geçilir.
+iclket8cum Düşük fiyatta bu hafta iki kahve alırdın. Fiyat yükselince yalnızca en uzun dersinden öncekini tutarsın.
+1u76xsj62gf QD = 10 − p ile alıcılar p = 4’te ne kadar almak ister?
+hvrodycsbr QD(4) = 10 − 4 = haftada 6 birim.
+2fr2l2v1kkk Q yatay ve p dikey olan bir grafikte talebin yüksekliğini hangi fonksiyon verir?
+1wlqo278weo Q = 10 − p dikey eksen olmalı
+12amcqazwa5 Burada Q yataydır; aynı ilişkiyi p(Q) biçiminde yeniden yaz.
+1qb7wyupz6 Evet: yükseklik bir fiyattır. Doğrudan talep Q’yu fiyatın fonksiyonu olarak verir.
+1ba6vbrp5hx Dosyaya dayalı eğitim uygulaması
+rfiqxh0pw6 Kahveyi hazırlayanın gördüğü
+17q21fsr4vo Daha fazla hazırlamak için satıcılar zaman, çekirdek ve bazen daha az kullanışlı bir makine kullanır. Bir birimi ancak fiyatı ek maliyetini karşılıyorsa sunmak isterler. Bu modelde ek birimler giderek pahalılaşır.
+rrpbb1jfbg Doğrudan arz QS = p − 2, yani ters arz pS = 2 + Q. Verili bir fiyatta arz, üreticilerin satmak istediği miktarları tanımlar.
+1dbw73n4bqg İlk kahveler en kolay seferber edilen kaynakları kullanır.
+1yza43e9nfj Daha fazla üretmek daha pahalı kaynaklar gerektirebilir; fiyat bu marjinal maliyeti karşılamalıdır.
+slvdycpzt3 Kahve fiyatındaki bir artış, arz eğrisi boyunca arz edilen miktarı artırır; üretim maliyetlerinin kendisini değiştirmez.
+wy5o8hdolv p = 4’te QS = 2; p = 8’de QS = 6. Q = 6 için arzın asgari fiyatı 2 + 6 = 8 €’dur.
+11xvxsk2h04 Kafeyi işletiyorsun: 4 €’da 7 €’ya mal olan birimleri hazırlamazsın. 8 €’da bu birimler mümkün hâle gelir.
+298xnca8g28 QS = p − 2 ile p = 8’de ne kadar arz edilir?
+p1tydwah9f Daha yüksek bir satış fiyatı daha fazla arza olanak tanır, çünkü…
+q4qwehjtpo Fiyat makineleri otomatik olarak daha verimli kılar
+2cl6uyktr0g Yeni bir teknoloji arzı kaydırırdı; fiyat tek başına teknolojiyi değiştirmez.
+1giw4ppzl0s Maliyeti çok yüksek olan ek birimler kârlı hâle gelir
+1hbqvy2ira7 Kesinlikle: alınan fiyatı sonraki birimin maliyetiyle karşılaştır.
+gben712pwh Formülü hak et: iki planı uyumlu hâle getirmek
+218vm6ygmw7 Verili bir fiyatta alıcılar bir miktar, satıcılar başka bir miktar açıklar. Her iki planın da aynı sayıda birimi kapsadığı bir fiyat gerekir. Bu fiyat dengedir: bu modelde ne hayal kırıklığına uğramış alıcı ne de satılmamış arz vardır.
+7kct2wiaum Market equilibrium: QD(p*) = QS(p*). İstenen miktarları eşitlemek p*’ı verir, sonra bir eğride yerine koymak Q*’ı verir.
+2aph587tcut Planların buluşmasını hangi eşitlik zorunlu kılar?
+217yvp9vc7 Evet: aynı birimler alınır ve satılır.
+bfemjvoe14 Miktarlar birbirini götürmez; örtüşmeleri gerekir.
+ymlyf0sky8 Sıfır fiyat kararları otomatik olarak koordine etmez.
+zihlqqkjka QD, QS’yi aşarsa bazı alıcılar almak ister ama onlara hiçbir birim sunulmaz.
+1e67w5abqto QS, QD’yi aşarsa planlanan bazı birimler alıcı bulamaz.
+t87jcts408 Eşitlik iki baskıyı da ortadan kaldırır; bir kişinin seçtiği bir hedef değil, kararların tutarlılık koşuludur.
+y9e4diiad1 p = 6’da: QD = 4 ve QS = 4. Tersine, Q = 4’te pD = 6 ve pS = 6. Doğrudan ve ters biçimler aynı noktayı anlatır.
+jkup5n4pek Bir fiyat öneriyorsun; bir öğrenciye ve bir satıcıya miktarlarını sor. İki cevap örtüşene kadar tekrarla.
+seajt5oysh Planların koordine olduğu nokta
+185c7g0bp0w 10 − p = p − 2’yi çöz. p* nedir?
+c00t8sf706 12 = 2p, yani p* = 6 €.
+1jh41jkhi92 Denge eşitliğini miktarlar cinsinden yeniden kur.
+75twhwcq4q Talep edilen miktar 10 − p, arz edilen miktar p − 2’ye eşit olmalı.
+vf3lgim6l9 Dosyada yeniden hesaplanmış sonuç
+2554ig1uuz2 4 € neden tutmaz
+ck2acflgg2 Kahve 4 €’ya ilan edilmiş. Altı birim isteniyor ama yalnızca iki birim sunuluyor: dört talep karşılanmadan kalıyor. Daha fazla ödemeye hazır alıcılar ve kuyruğu gören satıcılar fiyat üzerinde yukarı yönlü bir baskı yaratır.
+2gmxzyze730 Excess demand ya da shortage: QD − QS > 0. Kıtlık euro ile değil birimle ölçülür.
+c3to7xbdqw Kuyruk, aynı fiyatta iki plan arasındaki farkı görünür kılar.
+2fha1t6bjgl Fiyat artışı bazı alımları azaltır ve başka birimleri üretmeyi kârlı kılar.
+1g37sbae78 Bu iki tepki QD = QS olana kadar farkı kapatır; baskı bir uyumu tanımlar, kesin hızını değil.
+tfyb5fkid p = 4’te kıtlık = (10 − 4) − (4 − 2) = 6 − 2 = 4. p = 5’te yalnızca 5 − 3 = 2’dir.
+vtitegn52y Mevcut iki kahve bittikten sonra geliyorsun. 4 €’dan fazlasını ödemeye hazırsın ama ilan edilen fiyat bu uyuma hâlâ engel oluyordu.
+di8umkbkia p = 4’te kıtlık ne kadar?
+2fvbe5txy9y QD = 6, QS = 2: 4 birim eksik.
+1pyx7768asd 2 arz edilen miktardır, karşılanmayan alım sayısı değil.
+15v9r00v1kh Uyumu sıraya koy.
+21k4uan8e86 Düşük fiyatta QD, QS’yi aşar
+obwh6nbxbo Kıtlık fiyat üzerinde yukarı yönlü baskı yaratır
+2cdjy4du0ry Talep edilen miktar düşer ve arz edilen miktar artar
+2171tsduw0y İki plan buluşur
+1yk8v8b4m61 8 € neden ters etki yaratır
+6u0v07gvp0 8 €’da satıcılar altı birim planlar ama alıcılar yalnızca iki birim ister. Dört birim satılmadan kalır. Bir satıcı alıcı çekmek için fiyatı düşürebilir; bu baskı dengeye doğru iter.
+21cbgn1vu9h Excess supply ya da surplus: QS − QD > 0. Bu arz fazlası, tüketicinin parasal artığı değildir.
+265zsg7aye9 Alıcısı olmayan bir birim satıcıya hiçbir şey kazandırmaz.
+upddgd2peg Fiyatı düşürmek ek alımları çeker ve bazı satıcıları arzlarını azaltmaya iter.
+1cpdnyejb6w Tepkiler aynı yöne gider: arz fazlasını kapatmak.
+1ddrvs5k9at Bu fiyattan kimsenin almaya gelmediği kahveler hazırladın. Bir indirim satılmamış ürünlerden iyi olabilir.
+q3t9wab8wf p = 8’de hangi baskı ortaya çıkar?
+20dpxupzyr Yukarı yönlü bir baskı, çünkü satıcılar çok üretiyor
+w7dywqc8lb Üretmek satmayı garanti etmez: satılmayanlar fiyatı düşürmeye iter.
+12iekamoceu Fiyat üzerinde aşağı yönlü bir baskı
+3verym5vj Evet. QS = 6, QD = 2’yi aşıyor; satıcılar alıcı arıyor.
+b120tqk21r Hiçbiri, çünkü her satıcı serbestçe seçer
+2gg4vaezhtq Seçimler serbesttir ama bu fiyatta uyumlu değildir.
+1yepptgk1l7 Yanlış eğriyi kaydırmanı önleyen soru
+hgkqo3zv16 Kahve fiyatının arttığını görüyorsun. Bu, verili bir talep boyunca daha az alım okumak için yeterlidir; zevklerin değiştiğini kanıtlamaz. Bir eğriyi kaydırmadan önce, gösterilen malın fiyatı dışında neyin değiştiğine bak.
+a0oxu96acf Bir eğri zaten tüm olası fiyatlar için cevabı içerir.
+qddkre3k3z Yalnızca fiyatı değiştirmek aynı ilişkinin başka bir noktasını seçer.
+sgqfc3nlnf Geliri, zevki ya da ilişkili bir fiyatı değiştirmek ise her fiyatta istenen miktarı değiştirir.
+fqxfgn4rke Kahve fiyatı 6 → 8, geri kalan her şey sabit: D üzerinde QD 4 → 2. Normal bir kahve için daha yüksek gelir: p = 6’da 4 yerine 8 istenebilir; yeni bir D gerekir.
+rz58knazat Kendine sor: “aynı kahve fiyatında daha fazla kahve ister miydim?”. Evet ise bu bir kaymadır; değilse fiyata verilen bir tepkiye bakıyorsundur.
+1m44r2rvr3m Başka bir değişiklik olmadan kahvenin kendi fiyatı yükseliyor. Ne çizersin?
+s2hil907v1 Talep sola kayar
+2982c0jj550 Bunun için zevklerde azalma, normal bir mal için gelirde düşüş ya da başka bir belirleyici gerekirdi.
+1qpo0x5wnfj Talep boyunca bir hareket
+147jpvbocxj Fiyat, eğri üzerinde zaten gösterilen bir değişkendir.
+1m7gdvgdmhp Talep sağa kayar
+238r43jcioa Daha yüksek bir kendi fiyatı, verili fiyatta daha fazla talep yaratmaz.
+ioy24n92ez Yeni bir öğrenci dönemi geliyor
+39gx7fsnsa Artık her fiyatta daha fazla öğrenci kahve istiyor. Eski 6 € fiyatında satıcılar hâlâ dört birim sunuyor ama alıcılar sekiz istiyor. Kıtlık fiyatı yükseltir; satıcılar değişmeyen arzları boyunca tepki verir.
+2ajdltxeewp Pozitif bir talep şoku D’yi sağa kaydırır. Değişmeyen artan bir arzla p* ve Q* artar.
+22fj9q3gvkj Yeni öğrenci grubu kahve fiyatının dışında bir nedendir.
+hkytkgntj9 Değişmeyen fiyatta talep edilen miktar artar: kayan D’dir, S değil.
+17ccgbpgzld Daha yüksek fiyat ardından aynı S boyunca daha fazla arz edilen miktar çeker.
+1pfo8x0nry1 Kurgulanmış şok: QD = 14 − p, QS = p − 2. 14 − p = p − 2 ⇒ p = 8; Q = 6. (4, 6)’ya göre Q 2 ve p 2 artar.
+o56t9o0z3a Kampüste satıyorsun: maliyetlerin değişmedi. Yine de daha fazla üretebilirsin, çünkü yeni alıcılar fiyatı yükseltiyor.
+ocp1y0x08y Her fiyatta daha fazla talep
+epmzwda40d Kurgulanmış şok: QD 10 − p’den 14 − p’ye geçer. Değişmeyen arz QS = p − 2. Eski fiyat 6 bir kıtlık yaratır; yeni nokta (6, 8)’dir.
+udpbozszfe Yeni talep: p = 14 − Q
+60jjhgygi3 p = 6’da alıcılar 4 yerine 8 birim istiyor.
+229x4h3b53d Eski denge
+18nq1yi4frp Yeni: Q = 6, p = 8
+i78qhbwbby QD = 14 − p ve QS = p − 2 ile yeni fiyat nedir?
+13tl817ajkh 16 = 2p ⇒ p = 8; her taraf 6 birim seçer.
+16y58ze4591 Bu şoktan sonra satıcılar neden daha fazla üretir?
+15bumgjp0a5 Daha fazla sattıkları için arzları kaydı
+1s8lvpkr6xk Daha yüksek bir arz edilen miktar, arz ilişkisinin değiştiği anlamına gelmez.
+ih4vik8fdi Arzları boyunca daha yüksek fiyata tepki verirler
+11wmaaiupaq Kesinlikle. İlk belirleyici talep tarafındadır; maliyetler değişmemiştir.
+f6zxqi40z3 Çay, bisküvi, gelir: şokun yönünü bul
+196uwkmv8yp Çay fiyatı artıyor: ikame mallarsa bazı öğrenciler kahveye geçer. Bisküvi fiyatı artıyor: kahve ve bisküvi tamamlayıcıysa ikili daha az çekici olur. Yani aynı “başka fiyat” sözü talebi zıt yönlerde kaydırabilir.
+29djlprpvq3 Substitutes: diğer malın fiyatındaki artış talebi artırır. Complements: azaltır. Normal mal: gelirdeki artış talebi artırır; düşük mal: azaltır.
+10uzwrnhvxo İkame mallarda kahve diğer seçeneğe göre görece daha cazip hâle gelir.
+10725czf8v6 Tamamlayıcı mallarda ikiliyi almak pahalılaşır; her iki kullanım da gerileyebilir.
+9of77me4iw Gelir satın alma olanaklarını değiştirir, ama işaret bir kalite yargısına değil malın türüne bağlıdır.
+23na3w7p8hf Kurgulanmış durum: p_kahve = 6’da çay fiyatındaki artıştan sonra QD 4’ten 6’ya çıkıyor. Bu, o fiyatta +2’lik bir talep kaymasını tanımlar, kahve fiyatında bir değişimi değil.
+uubu0zt4l0 Yalnızca kahvenin etiketine bakmazsın: olası içecekleri ve bütçenin izin verdiğini karşılaştırırsın.
+1qk1dtrtgdx Kahve ve bisküvi tamamlayıcıysa ve bisküvi fiyatı artıyorsa, kahvenin D’sine ne olur?
+2ckvv4puhtv İkame malda olduğu gibi sağa kayar
+19lw0t3srqe Bu yön, kahveyle birlikte tüketilen bir mala değil, yerine geçen bir içeceğe uyardı.
+lye38akqaq Sola kayar
+42rmlr6vza İkili pahalılaştı; verili kahve fiyatında daha az kahve talep edilir.
+1vdlw5ohiea Çekirdek pahalılaşıyor
+17wwazzdvt Her birimi hazırlamak artık 2 € daha pahalı. Değişmeyen satış fiyatında bazı kafeler artık aynı miktarda üretmek istemiyor. Bu değişiklik maliyetlerle ilgilidir: arz yukarı kayar, sonra fiyat artışı değişmeyen talep boyunca alımları azaltır.
+17s5e7my4kl Daha yüksek bir girdi maliyeti S’yi sola/yukarı kaydırır. D değişmezken: p* artar ve Q* azalır.
+phdd4n2vam Satıcının aynı birim için daha fazla karşılık alması gerekir.
+23lqubj0lz1 Eski fiyatta arz edilen miktar düşer; kıtlık fiyatı yukarı iter.
+c2os64t828 Tüketiciler D boyunca daha yüksek nihai fiyata tepki verir; zevkleri değişmemiştir.
+1mbk7w5z5hp Kurgulanmış arz pS = 4 + Q, talep pD = 10 − Q. 10 − Q = 4 + Q ⇒ Q = 4 ve p = 6 yerine Q = 3 ve p = 7.
+19v4681tvkh Satıcısın: keyfine göre daha az hazırlamak istemiyorsun. Aynı kahve daha pahalıya mal oluyor, bu yüzden daha yüksek bir fiyat istiyorsun.
+1jgt9n7x2u3 Girdi birim başına 2 € daha pahalı
+21p3yxgyfnt Kurgulanmış şok: ters arz 2 + Q’dan 4 + Q’ya geçer, talep değişmez. Denge noktası Q = 3, p = 7 olur.
+ui1snzmmhg Yeni arz: p = 4 + Q
+10prmjbt08h Aynı miktar için 2 € daha yüksek bir fiyat gerekir.
+g21rfdhskh Eski
+1eksfs6u7x7 Yeni: Q = 3, p = 7
+10b10bfz8cz Hangi Q, 10 − Q = 4 + Q’yu çözer?
+27jwbdqtto7 6 = 2Q, yani Q = 3 ve p = 7.
+8cnad5ttfe Çekirdek maliyeti artıyor: önce hangi eğri değişir?
+1e97h02txbm Talep, çünkü nihai fiyat artıyor
+2ew1gd9aixe Bu neden ile tepkiyi tersine çevirir: nihai fiyat S değiştiği için artar.
+1kglqheh04i Arz
+1ukbudd08b3 Bu bir üretim maliyetidir. Alımların D boyunca son hareketi bir tepkidir.
+ecxohq96o7 İki şok: bilinemeyeni kabul et
+zr3fwvav52 Aynı anda daha fazla öğrenci ve daha pahalı çekirdek düşün. Her iki değişiklik de fiyatı yukarı iter. Miktar için ise alıcıların gelişi daha fazla kahveye, maliyet daha azına doğru iter: göreli büyüklükleri karar verir.
+2dgxsifu9l0 D sağa ve S sola: fiyat artar, şokların büyüklüğü olmadan miktar belirsizdir.
+202weug4vgc İki kısmi etkinin işareti aynıysa sonuç kesindir.
+10p3yuf5zpc Zıt işaretli etkiler ek bilgi olmadan ayırt edilemez.
+ze3q93on9i Belirsiz, değişmemiş demek değildir: artış, düşüş ya da sabitlik mümkündür.
+82erv9a8jw Temel pD = 10 − Q, pS = 2 + Q: Q = 4. pD 14 − Q ve pS 4 + Q olursa Q = 5. pS 4 + Q yerine 8 + Q olursa Q = 3. Her iki durumda da p artar: 9 ya da 11.
+pciu89sw0n Sınavda Q için bir ok uydurmak yerine belirsizliği tam olarak açıklayarak puanı alabilirsin.
+1yoqvvqxq3m D sağa ve S sola kayıyor, büyüklükler verilmemiş. Hangi sonuç gerekçelidir?
+hheyvi6fsq p ve Q mutlaka artar
+1xuh474p288 Bu, ikisinin değil yalnızca bir talep şokunun sonucu olurdu.
+ylbg0famqv p artar; Q artabilir, azalabilir ya da sabit kalabilir
+ljw60fie7s Her iki şok da p’yi yükseltir ama Q üzerindeki etkileri az çok birbirini dengeler.
+13qxfufffxk Q mutlaka değişmeden kalır
+u44pkyj02z Zıt etkiler mutlaka eşit değildir.
+10v6aylbb92 Satıcılar az uyum sağlayabildiğinde
+g2h1fn1tzf Kampüs daha fazla kahve istiyor, ama tek bir makine kısa vadede üretimi sınırlıyor. Arz edilen miktar çok az artabilir; uyumun daha büyük kısmı o zaman fiyattan geçer. Makineler mevcutsa, aynı talep şokunu daha fazla miktar karşılayabilir.
+acoibfng05 Verili bir şok için daha dik bir arz, olağan varsayımlar altında daha güçlü bir fiyat tepkisi ve daha zayıf bir miktar tepkisi demektir.
+jnl0xmzt5b Yeni denge aynı başlangıç talep fazlasını eritmelidir.
+7c0uft397n Miktar arz tarafında az uyum sağlıyorsa, fiyat talebi daha çok caydırmalıdır.
+1p349vfmdgo Eğim birimlerle ifade edilir; esneklik sonra tepkileri yüzdelerle nasıl karşılaştıracağını öğretecek.
+1bg9gnbyv4 Kurgulanmış iki piyasa (Q, p) = (4, 6)’dan başlar. Şok pD: 10 − Q → 14 − Q. Arz p = 2 + Q: yeni nokta (6, 8). Dik arz p = −6 + 3Q: yeni nokta (5, 9). Fiyat 2 yerine 3 artar; Q 2 yerine 1 artar.
+cqtgmtbcu1 Makine arızalıyken kahve istiyorsun. Daha güçlü bir satın alma isteği anında ek kapasite yaratmaz.
+1k786z2o3d1 Aynı pozitif talep şokunda daha dik bir arz genellikle şunu verir…
+1qfyt2vybjq Eğri hızla yükseldiği için Q’da daha güçlü bir artış
+1sn5t3dvbho Fiyatta hızla yükselmek, biraz ek Q için büyük bir fiyat artışı gerektiği anlamına gelir.
+kgjbokqtt3 Daha güçlü bir fiyat artışı ve Q’da daha zayıf bir artış
+1ddnniv2mdo Uyum işinin daha büyük kısmını fiyat yapmalıdır.

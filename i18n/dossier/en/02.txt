@@ -1,0 +1,73 @@
+======================================================================
+0. HOW TO USE THIS FILE AND WHAT IT COVERS
+======================================================================
+
+Goal: understand the mechanisms, recognise which model to apply,
+know how to rebuild the formulas, calculate, draw and explain in English.
+This dossier is a teaching summary, not an official SSE answer key.
+Numerical results presented as "recalculated" were derived from the
+exam/assignment texts. Personal answers in the assignments are not treated
+as an authority. The main errors or ambiguities are flagged.
+
+Full corpus of the Microeconomics folder: 23 PDFs, 373 pages.
+12 lectures, 5 assignments numbered 2 to 6, 6 final exams 2020 to 2025.
+Text extracted from every page; visual review of the lectures and
+assignments, checking tables embedded as images and the
+relevant calculations. The last page of the 2020 exam is blank.
+Page counts include covers, instructions and blank pages.
+
+Limits of the corpus, to keep in any sheet produced from it:
+- No assignment 1 or 7 is present.
+- Only lectures 1 to 12 are present. The Lecture 1 schedule
+  still announces platforms and international trade in week 7.
+- Auctions and some game-theory elements appear in the
+  exams or assignments without a matching full lecture here.
+- The six past-exam PDFs are FINAL exams, not midterms,
+  and contain no official solutions.
+- A frequency over six past exams describes this sample; it is
+  not a probability of appearing in the next exam.
+- Dates, rules and current-affairs examples are those of the materials.
+  This dossier does not check the current administrative rules on Canvas.
+
+Provenance markers: L1 to L12 = lectures; A2 to A6 = assignments;
+E2020 to E2025 = exams. "p." means the PDF page, counted from 1.
+"Complement" = a standard explanation rebuilt to handle an exercise,
+not a claim that an extra lecture was found.
+
+PROMPT TO GIVE CHATGPT WITH THIS FILE
+"You are my microeconomics tutor for the SSE BE 501 exam. Use this
+dossier as the main context. Explain in English, keeping the English
+terms and abbreviations I will meet in the exam. For each
+new symbol, spell out its English name, explain it, give its units
+and its role. For each formula, explain where it comes from, why it
+holds, its assumptions, how to recognise when to use it and when it
+does not apply. First make me identify the objective, the constraints,
+the choice variable and the model. Suggest progressive exercises,
+let me try, then correct my reasoning and my graphs.
+Also train me to give short, justified answers in English.
+Distinguish documented elements, recalculated results and
+complements. Do not invent an official answer key, a frequency or missing
+syllabus content. If I ask for sheets, a website or exercises, also cover
+the edge cases and pitfalls listed here."
+
+OUTLINE
+1. Inventory and mapping between lectures, assignments and exams
+2. Common logic and mathematical tools
+3. Supply, demand, equilibrium and shocks
+4. Consumer, preferences, budget and demand
+5. Elasticities
+6. Production, costs and competitive supply
+7. Surplus, taxes, subsidies and regulated prices
+8. Monopoly and monopolistic competition
+9. Discrimination, segmentation, bundling and tariffs
+10. Oligopoly, Cournot, Bertrand and Stackelberg
+11. Externalities, pollution, public goods and common resources
+12. Asymmetric information, contracts and incentives
+13. Game theory in Assignment 3
+14. Exam complements: trade, platforms, auctions and exchange
+15. Assignments: recalculated results and methods
+16. Exams: map of questions and reference results
+17. Cross-cutting formula sheet and choice of method
+18. Directory of abbreviations and symbols
+19. Bilingual lexicon of concepts and exam verbs
+20. Pitfalls, corrections, graphs and revision path

@@ -1,0 +1,104 @@
+======================================================================
+1. INVENTAIRE ET CARTE DU PROGRAMME
+======================================================================
+
+Tous les noms ci-dessous sont relatifs au dossier Microeconomics.
+
+S01 = assignments/Assignment3.pdf — 4 pages.
+S02 = assignments/Assignment2.pdf — 3 pages.
+S03 = assignments/Assignment4.pdf — 5 pages.
+S04 = assignments/Assignment5.pdf — 6 pages.
+S05 = assignments/Assignment6.pdf — 5 pages.
+S06 = lectures/Lecture 01 Micro 2026 15.16.11.pdf — 21 pages.
+S07 = lectures/Lecture 02 Micro 2026 15.16.11.pdf — 33 pages.
+S08 = lectures/Lecture 03 Micro 2026 15.16.11.pdf — 24 pages.
+S09 = lectures/Lecture 04 Micro 2026 15.16.11.pdf — 29 pages.
+S10 = lectures/Lecture 05 Micro 2026 15.16.11.pdf — 33 pages.
+S11 = lectures/Lecture 06 Micro 2026 15.16.11.pdf — 34 pages.
+S12 = lectures/Lecture 07 Micro 2026.pdf — 23 pages.
+S13 = lectures/Lecture 08 Micro 2026.pdf — 24 pages.
+S14 = lectures/Lecture 09 Micro 2026.pdf — 25 pages.
+S15 = lectures/Lecture 10 Micro 2026.pdf — 25 pages.
+S16 = lectures/Lecture 11 Micro 2026.pdf — 25 pages.
+S17 = lectures/Lecture 12 Mikro 2026.pdf — 20 pages.
+S18 = past exams/2020.pdf — 7 pages.
+S19 = past exams/2021.pdf — 5 pages.
+S20 = past exams/2022.pdf — 5 pages.
+S21 = past exams/2023.pdf — 6 pages.
+S22 = past exams/2024.pdf — 5 pages.
+S23 = past exams/2025.pdf — 6 pages.
+
+COURS -> COMPÉTENCES -> APPLICATIONS
+L1, Introduction, Friberg 1.1–2.1 et 19 : rareté, choix, allocation,
+  efficacité et distribution, hypothèses des modèles, dérivées.
+L2, Supply and demand, Friberg 2.2–2.5 : fonctions directes/inverses,
+  déplacements de courbes, équilibre et effets de chocs.
+  Sert de base à A4.2, A6.3 et aux politiques dans tous les examens.
+L3, Consumer choice, Friberg 5.1–5.6 : préférences, utilité ordinale,
+  indifférence, MRS, budget, choix intérieur ou en coin, biais comportementaux.
+  A2.2 ; E2022 Q5 ; E2021 Q4e ; définitions de Q5.
+L4, Demand curves and elasticities, Friberg 6.1–6.4 : demande individuelle,
+  agrégation, compensation et élasticités. A2.1 ; E2020 Q5 ; Lerner.
+L5, From technology to costs, Friberg 3.1–3.7 : production, MP, isoquantes,
+  productivité, minimisation du coût, catégories de coûts, rendements.
+  Q5 de E2021, E2023, E2025 ; définitions très récurrentes.
+L6, Supply by price taking firms, Friberg 4.1–4.8 : MR=MC, p=MC,
+  arrêt court terme, sortie long terme, agrégation, entrée et profit nul.
+  E2020 Q5, E2024 Q5 ; mécanismes de concurrence monopolistique.
+L7, Efficiency, Friberg 7.1–7.5 : CS, PS, welfare, DWL, plafond/plancher,
+  taxe et subvention. A4.2 ; politiques et graphiques de tous les sujets.
+L8, Monopoly and monopolistic competition, Friberg 9.1–9.3 : MR,
+  pouvoir de marché, Lerner, barrières, entrée, firmes hétérogènes.
+  A4.1/A4.3 ; E2021 Q3 ; E2022 Q3 ; E2023 Q1 ; E2025 Q3d.
+L9, Price discrimination, Friberg 12.1 : premier/troisième/deuxième degrés,
+  IC/IR, bundling, abonnement et two-part tariff.
+  A5.1/A5.2 ; présent dans les six anciens examens.
+L10, Oligopoly, Friberg 10.1–10.3 : Cournot, Nash, réaction, Stackelberg,
+  Bertrand homogène et différencié, nombre de firmes, coûts asymétriques.
+  A5.3 ; E2020/21/22/23 calculs Cournot ; E2024/25 calculs Bertrand.
+L11, Externalities, Friberg 13.1–13.2 : coûts/bénéfices privés et sociaux,
+  Pigou, émissions, permis, Coase, biens publics et ressources communes.
+  A6.1/A6.3 ; grands exercices E2020/23/24 et biens publics E2025.
+L12, Asymmetric information, Friberg 14.1–14.4 : adverse selection,
+  lemons, signal/screening, moral hazard, principal-agent, partage du risque.
+  A6.2 ; questions théoriques ou numériques dans les six examens.
+A3 : jeux simultanés/séquentiels, préférences sociales, engagements.
+  Extension du Nash évoqué en L10 ; provenance disciplinaire du devoir non
+  précisée par sa couverture. Ne pas l'écarter parce qu'il est atypique.
+
+FORMAT ET TENDANCES OBSERVÉS
+Les sujets 2020–2025 durent 4 heures, ont quatre questions principales
+totalisant 83 points et une Q5 de remplacement du midterm, sur 10 points.
+Les consignes exigent des réponses en anglais, structurées et motivées.
+Les sujets 2020–2023 précisent explicitement les aides/calculatrice ; ne pas
+extrapoler une autorisation actuelle à partir d'un ancien sujet.
+L1 p.17–18 annonce pour 2026 : examen le 23 octobre, midterm le 28 septembre,
+midterm couvrant L1–L6, hand-ins 7 points, midterm 10, final 83, total 100.
+Seuils affichés : Pass 50, Good 60, Very good 70, Excellent 80.
+
+Comptage par ANNÉE, pas par nombre de sous-questions :
+- Pouvoir de marché et tarification/discrimination : 6/6, 2020–2025.
+- Taxes, subventions ou autre réglementation avec raisonnement de surplus :
+  6/6, 2020–2025 ; inclut droits de douane et plafond en 2023.
+- Information asymétrique : 6/6, 2020–2025.
+- Biens publics au sens strict : 5/6, 2020, 2021, 2022, 2024, 2025.
+  2023 traite une ressource commune/spectre ; public OU commun = 6/6.
+- Externalités explicitement traitées hors simple définition de bien public :
+  5/6, 2020, 2021, 2023, 2024, 2025.
+- Commerce international ou avantage comparatif : 5/6,
+  2020, 2021, 2022, 2024, 2025.
+- Calcul d'équilibre Cournot : 4/6, 2020, 2021, 2022, 2023.
+  Comparaison qualitative Cournot/Bertrand également en 2025.
+- Calcul Bertrand différencié : 2/6, 2024, 2025.
+- Leadership séquentiel numérique : 2/6, 2021 en quantités, 2024 en prix.
+- Enchères explicites : 2/6, 2023 et 2025.
+- Plateformes/effets de réseau/multihoming comme modèles explicites :
+  2/6, 2022 et 2025 ; d'autres sujets utilisent des plateformes comme contexte.
+- Cinq définitions élémentaires dans la Q5 optionnelle : 6/6.
+
+PATTERN DE CONSTRUCTION D'UNE GRANDE QUESTION
+Définir un mécanisme -> résoudre un cas de base -> modifier une hypothèse
+(taxe, entrée, coûts, discrimination, information ou ordre des décisions)
+-> comparer les équilibres -> dessiner -> expliquer l'intuition.
+Les thèmes se combinent : monopole + taxe, Cournot + coûts asymétriques,
+subvention + externalité, plateforme + discrimination, crédit + IC.

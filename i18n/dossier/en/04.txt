@@ -1,0 +1,53 @@
+======================================================================
+2. COMMON LOGIC AND MATHEMATICAL TOOLS
+======================================================================
+
+2.1 The skeleton of almost every problem
+1) Who decides? Consumer, firm, bank, authority, bidder.
+2) What objective? Utility, profit, minimum cost or SOCIAL surplus.
+3) Which variable do they choose? Quantity, price, effort, inputs, contract.
+4) What is given? Prices, income, rival, technology, information.
+5) Which constraints? Budget, production, capacity, non-negativity,
+   participation, incentive, no resale, follower's reaction.
+6) Write the objective function and the consistency relations.
+7) Solve; check domain, corners, optimum and participation.
+8) Go back to the prices, quantities, profits and surplus asked for.
+9) Explain why a small deviation does not improve the objective.
+
+"Marginal" means the effect of one extra unit, or the derivative
+in a continuous model. "Average" means total divided by quantity.
+A marginal decision compares extra benefit and extra
+cost. An unavoidable fixed cost does not enter this comparison,
+but it counts in total profit and in the decision to stay in the long run.
+
+2.2 Derivatives and optimality conditions
+y=f(x): f'(x)=dy/dx, local slope. For several variables, use
+a partial derivative holding the others constant.
+d(k)/dx=0; d(ax)/dx=a; d(x^n)/dx=n*x^(n-1).
+d[f(x)g(x)]/dx=f'(x)g(x)+f(x)g'(x), product rule.
+For p(Q)Q, MR=p(Q)+Q*p'(Q), not just p'(Q)Q.
+For a concave function, the FOC f'(x)=0 gives an interior maximum.
+Check f''(x)<0 or compare values at the boundaries if needed.
+A FOC alone guarantees neither a maximum, nor a feasible quantity, nor production.
+
+For an expected sum: E[X]=sum(probability of the state * outcome).
+Compute the NET outcome in each state before weighting.
+A penalty applied with probability d has an expected cost d*F.
+
+2.3 Areas and units
+Rectangle = base*height; triangle = base*height/2.
+Surplus = area between marginal willingness to pay and the relevant cost/price.
+General form: area = integral of the vertical difference as a function of Q.
+Triangles assume linear curves over the interval considered.
+Price in money/unit * quantity in units = money.
+If Q is in THOUSANDS of tonnes and p in dollars/tonne, the area is in
+THOUSANDS of dollars. This point changes the result by a factor of 1000.
+An elasticity has no unit; a slope usually has one.
+
+2.4 Rewrite before calculating
+Direct demand Q=a-bp -> inverse demand p=a/b-Q/b.
+Direct supply Q=-c+dp -> inverse supply p=c/d+Q/d.
+On a market graph: Q horizontal, p vertical; draw the inverse
+forms. To add up private demands: add the quantities
+at the same price, not the prices. For a public good: add the marginal
+benefits at the same Q, i.e. vertically.

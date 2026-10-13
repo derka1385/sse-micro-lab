@@ -1,0 +1,202 @@
+1zp2z6mwea8	La demande mesure le [[MPB]] : la disposition à payer (WTP) pour l’unité marginale. Dans A6 : {{MPB = 100 − 3Q}}.
+21v92yd46gy	Toi → tous les acheteurs
+zbnyhltbdg	Tu peux imaginer UN acheteur (toi). Sur le marché, la courbe {{MPB = 100 − 3Q}} range tous les acheteurs du plus enthousiaste au moins enthousiaste : le point Q donne la valeur du Q-ième panneau pour celui qui l’achète.
+qz2xifuv10	La courbe descend parce que chaque panneau supplémentaire sert un usage moins important que le précédent (utilité marginale décroissante, §4.1).
+jdpuzd2zog	On raisonne « au marginal » parce que ta décision se prend unité par unité : acheter le 11e panneau ou pas. Ce qui compte, c’est ce que CE panneau ajoute (§2.1).
+2byyf7bcxvx	C’est la demande : si le prix est p, tu achètes tant que le panneau suivant vaut au moins p pour toi. À chaque prix, la quantité achetée est celle où MPB = p. La courbe MPB EST la demande, en forme inverse (§2.4).
+tk0kfll554	Ton 1er panneau alimente le frigo et l’éclairage (très utile). Le 8e chauffe la piscine (agréable, moins vital). Le 30e produit un surplus revendu presque rien.
+1tgrt9yd05x	Le vendeur te propose un panneau de plus à 70 €. Tu te demandes : « est-ce que CE panneau me rapporte au moins 70 € ? » Si oui, tu l’achètes. C’est tout ce que tu regardes.
+1asbrx9bpgt	La courbe bleue MPB : sa hauteur au point Q = ce que vaut le Q-ième panneau pour l’acheteur. Déplace le curseur : au point Q = 10, elle vaut 70.
+gxjnsi8q1m	voit MPB : sa valeur du panneau suivant
+1u1qpauj7ys	Avec {{MPB = 100 − 3Q}}, combien vaut le 10e panneau pour l’acheteur ?
+3k3xkhs1zu	Remplace Q par 10 — ou place le curseur du graphique sur Q = 10.
+2bvluyfg64j	100 est la valeur du tout premier panneau (Q = 0). Le 10e vaut moins.
+14zzck7msr5	Dans [[MPB]], que veut dire « marginal » ?
+r5eg3skex2	Le bénéfice total de tous les panneaux achetés
+vd20n25co0	Ça, c’est un total (l’aire sous la courbe). Marginal = une unité de plus.
+1gt10nnvpjg	Le bénéfice du panneau SUIVANT, un seul
+1uyt58zus0l	Exact : marginal = l’effet d’une unité supplémentaire.
+pq3p8b5g2s	Un bénéfice faible, presque négligeable
+bbfwx6c0h	Non : en économie, « marginal » ne veut pas dire « petit ». Il veut dire « pour une unité de plus ».
+1m065c912n5	définition MPB
+avhajgsj4v	Que regarde le producteur ?
+22b9tplkjgr	MPC(18), coût du 18e panneau
+9aybpj647k	Le fabricant se pose la question symétrique : « combien me coûte UN panneau de plus ? » Les premiers sortent des machines les plus efficaces ; pour en faire davantage, il faut des heures sup et des matériaux plus chers. Le coût du panneau suivant monte.
+14rcw142akq	En concurrence, l’offre est la courbe de [[MPC]] : la firme produit tant que p ≥ MC (§6.5). Dans A6 : {{MPC = 10 + 2Q}}.
+5jcbep17y6	La courbe monte : produire plus oblige à utiliser des ressources de plus en plus coûteuses, donc le coût de l’unité SUIVANTE augmente (§6.4).
+25g2u8o5cxy	C’est l’offre : une firme price taker produit tant que le prix couvre le coût du panneau suivant, et s’arrête où p = MC (§6.5). À chaque prix, la quantité offerte se lit sur MPC.
+8lnk55kvx3	« Privé » parce que c’est le coût que LE PRODUCTEUR paie. Si son usine imposait un coût à d’autres (bruit, fumée), il ne serait pas dedans. Ici, on suppose qu’il n’y en a pas.
+llcha11j0q	Les 10 premiers panneaux sortent de la ligne principale ; à partir du 15e il faut ouvrir l’atelier le samedi, avec des salaires majorés.
+1xfgnvybrx7	Tu es le fabricant. Un client veut un panneau de plus. Tu calcules : matériaux + heures pour CE panneau = 46 €. En dessous de 46 €, tu perds de l’argent sur ce panneau-là.
+kpp8odmnyr	La courbe orange MPC : sa hauteur au point Q = ce que coûte au fabricant le Q-ième panneau.
+9givru2s4h	voit MPC : son coût du panneau suivant
+9wmajq5hi0	Avec {{MPC = 10 + 2Q}}, combien coûte la fabrication du 18e panneau ?
+x70syvacwj	Remplace Q par 18.
+bcg6ikgsk9	Où l’échange s’arrête-t-il ?
+33g72ioid7	Qm, où l’échange s’arrête
+27nob5dxz5z	Tant qu’un panneau vaut plus pour l’acheteur qu’il ne coûte au fabricant, il existe un prix qui arrange les deux : il est vendu. Au 18e panneau, valeur = coût = 46 €. Au 19e, il vaut 43 € pour l’acheteur mais coûte 48 € à fabriquer : aucun prix n’arrange les deux. L’échange s’arrête à 18.
+289a0v5ft7l	Équilibre de marché (market equilibrium) : {{MPB = MPC}} ⇒ [[Qm]] = 18, p = 46. Au-delà, MPB < MPC.
+1jk1mof20ae	Quelle égalité décrit ce point d’arrêt ?
+1iz68y5by0h	Oui : la valeur du dernier panneau pour l’acheteur = son coût pour le fabricant.
+28kotueg2xj	Ça, c’est où l’acheteur ne voudrait plus rien même gratuitement. Le coût compte aussi.
+15bv8scpjl5	Le coût n’est jamais nul ici. Compare la valeur et le coût.
+ct9aijk21p	On ne fait pas la somme : on compare ce que l’un gagne à ce que l’autre dépense.
+1c35ie4z8ld	Tant que MPB > MPC, un prix entre les deux (par ex. 45 pour un panneau qui vaut 50 et coûte 40) fait gagner les DEUX. Les échanges mutuellement avantageux ont lieu.
+i1nd8dch8w	Au 19e : 43 < 48. Pour que le fabricant accepte, il faut un prix ≥ 48 ; pour que l’acheteur accepte, un prix ≤ 43. Aucun prix ne satisfait les deux.
+1vgb3mjjnye	À p = 46, la quantité que les acheteurs veulent (18) égale celle que les vendeurs veulent (18) : personne n’a intérêt à changer. C’est l’équilibre (§3, F01).
+ptaal04a5z	Au marché du samedi, chaque panneau vendu est une poignée de main. Le 19e : le vendeur dit « 48 minimum », l’acheteur « 43 maximum ». Pas de poignée de main.
+1c9ctr5htzr	Tu as 18 panneaux. Le vendeur te propose le 19e à 48 €. Il ne te rapporterait que 43 €. Tu refuses — et tu as raison, de TON point de vue.
+1k3tjck9k40	Qm = 18 est l’intersection de MPB et MPC. Le curseur est sur Q = 19 : regarde, MPB (43) est sous MPC (48).
+17cd0np17r	Après Q = 18, pourquoi le marché ne produit-il plus de panneaux ?
+1sky7d5a3rp	Le fabricant n’a plus de stock
+118pghqavyq	Rien ne l’empêche de produire : il pourrait — mais à un coût que personne ne veut payer.
+kaedy3ytnj	Le panneau suivant coûte plus à produire qu’il ne vaut pour l’acheteur
+23i7m3zp5ml	Oui : MPB < MPC. Aucun prix n’arrange les deux.
+1z943e488kq	L’État l’interdit
+1mc55g8gj1y	Il n’y a aucune intervention à ce stade.
+v9yxn83gqf	Les voisins ne veulent plus de panneaux
+8nmod5nnjb	Les voisins n’ont aucune voix dans la transaction — c’est justement le problème qu’on va découvrir.
+17a39qhbq3k	Sur le graphique, place le curseur exactement là où le dernier échange a lieu, puis valide.
+d1vpans1q4	Qm = 18 : l’intersection de MPB (bleu) et MPC (orange).
+18xtqvqhkek	Qpriv 18, p 46
+cbxs65prfz	équilibre privé MPB = MPC
+28cu6jdt517	Et ceux qui sont hors de la transaction ?
+h5ptw6xe82	Chaque panneau installé remplace un peu d’électricité produite au gaz ou au charbon : un peu moins de pollution dans l’air que respirent tes voisins. Dans l’exercice A6, chaque panneau supplémentaire leur apporte l’équivalent de 20 €. Ils n’ont rien payé et personne ne leur demande leur avis.
+1k0quuxvvmi	Les tiers reçoivent un bénéfice par unité, non compensé et non reflété dans les prix.
+27ey6jojp02	Tu ne comptes pas ces 20 € parce que ta décision compare ce que TU gagnes à ce que TU paies. Ces 20 € ne passent par aucune poche dans la transaction.
+1twes0ww1wm	Personne ne les fait payer : il faudrait identifier chaque voisin, mesurer son gain et lui faire payer sa part. En pratique, les coûts de transaction l’empêchent (§11.6).
+36ratsr9jv	Il manque donc une information dans le prix : le prix du marché reflète la valeur pour l’acheteur et le coût du vendeur — rien d’autre.
+u7ro9cqlay	Vaccination (E2020 Q3) : te vacciner te protège, mais réduit aussi le risque que tu contamines les autres. Tu ne reçois rien pour cette protection des autres.
+25i27iduxuo	Aucun voisin ne sonnera jamais à ta porte pour te donner 20 € par panneau. Donc dans ta tête, ces 20 € n’existent pas.
+1xaegzfiriq	Rien ne bouge encore sur le graphique : les 20 € des voisins n’apparaissent sur aucune courbe de marché. C’est le cœur du problème.
+12id7slwvm4	gagnent sans rien décider
+6l6gscks7p	Quand tu décides d’acheter ton 19e panneau, comptes-tu les 20 € de tes voisins ?
+260kmkc11c2	Oui, puisque je les reçois
+25dkue04gq2	Tu ne les reçois pas : ils vont aux voisins.
+2b5crytr24s	Non : ces 20 € vont aux voisins, ils n’entrent pas dans mon calcul
+cdrkfpkgaf	Exact. Ta décision privée ignore ce bénéfice.
+23gady27nqm	Oui, car le vendeur me les rembourse
+1z0b0wdn0v1	Le vendeur ne gagne rien non plus avec ces 20 € : personne ne les paie.
+1dh3xqz2o5x	mécanisme pollution évitée
+1yfgeb9mrg2	Comment s’appelle cet effet ?
+1tgna2kjwu9	Un effet sur des tiers qui n’est pas pris en compte dans la transaction s’appelle une **externalité** (externality). Quand l’effet est bon pour les tiers, c’est une **externalité positive**. La pollution d’une usine serait une externalité négative.
+1vuf5a1dch3	Externality : effet sur un tiers, non pris en compte dans la transaction (§11.1). Positive : vaccination, recherche, réseau. Négative : pollution, bruit.
+27ps17dwkn1	« Externe » parce que l’effet sort du cercle acheteur–vendeur : il touche quelqu’un d’extérieur.
+16v07gqmihw	Un effet qui passe PAR un prix n’en est pas une : si le prix du lait monte et renchérit ton café, tu paies et quelqu’un reçoit. Une externalité est précisément un effet qui n’a PAS de prix.
+29ffz7ty3ik	C’est important parce que le marché n’additionne que ce qui a un prix. Ce qui n’en a pas est ignoré dans la décision — d’où une quantité qui peut être mauvaise pour la société.
+xejvsd5ang	Positives : vaccination, recherche diffusée, ruches à côté d’un verger. Négatives : pollution, bruit (E2025 Q1c), centrale à charbon (E2021 Q1c).
+1kopch8p8x4	Ton geste (acheter des panneaux) a une conséquence (un air plus propre) pour des gens qui ne sont pas dans ta transaction. Voilà, c’est ça une externalité.
+hf2slb3l0x	Toujours rien de nouveau sur le graphique : nommer l’effet ne le fait pas entrer dans les prix.
+kb30k5umnz	Lequel de ces cas est une externalité POSITIVE ?
+f462ani0md	Une usine rejette des fumées dans la rivière
+2gj8jvd9km5	C’est une externalité, mais négative : un dommage pour des tiers.
+1ps62ejk4vc	Un chercheur publie une découverte que d’autres entreprises utilisent gratuitement
+1m22t4ygb25	Oui : un bénéfice pour des tiers, sans paiement.
+1zhzkcj5hf8	Ton café coûte plus cher parce que le prix du lait a monté
+113ot27w8eh	Cet effet passe par un prix (quelqu’un est payé) : ce n’est pas une externalité.
+2e6r2tj2btp	Le fabricant baisse ses prix
+1vj6y8zqoux	Un changement de prix n’est pas un effet externe.
+sif2byafeo	définition et exemples
+qk4v7ufqcy	Combien vaut cet effet, panneau par panneau ?
+ky66z67j3r	MPB(18) + MEB, valeur sociale du 18e
+13vs9x5fz3s	On mesure l’externalité comme tout le reste : pour UN panneau de plus. Le bénéfice qu’un panneau supplémentaire crée pour les autres s’appelle le [[MEB]]. Ici, chaque panneau en plus apporte 20 € aux voisins, quel que soit le nombre déjà installé.
+23d7zrmc5di	[[MEB]] = 20, constant : chaque unité supplémentaire procure 20 de bénéfice aux tiers. Le bénéfice externe TOTAL de Q unités est l’aire sous MEB (20Q).
+1dllfxsmihv	On mesure « par panneau » parce que toutes les décisions se prennent à la marge. L’externalité doit être dans la même unité (€ par panneau) pour pouvoir s’additionner aux autres valeurs.
+112kaf750g0	Constant ici par hypothèse de l’exercice A6 : chaque panneau remplace la même quantité de pollution. Ce n’est pas une loi — MEB peut dépendre de Q (dernier bloc).
+2b66na2hcx2	MEB est un MARGINAL, pas un total : le bénéfice externe TOTAL de 18 panneaux est 18 × 20 = 360, l’aire sous MEB (§11.1).
+1055ecdzc0o	Si chaque panneau évitait 0,1 tonne de CO₂ valorisée à 200 € la tonne, on aurait MEB = 20 € par panneau (chiffres d’illustration).
+6stqd0bm3h	Chaque fois que tu visses un panneau, imagine 20 € qui tombent dans la poche (invisible) de tes voisins — pas dans la tienne.
+1ft9w5rd5dj	La ligne violette MEB = 20 : ce n’est pas une courbe de marché (personne ne l’achète). C’est la valeur, pour les tiers, de chaque panneau supplémentaire.
+fv6i6jikup	reçoivent MEB = 20 €
+1jrhlxbx5jn	Au 18e panneau, combien la société ENTIÈRE (toi + tes voisins) gagne-t-elle grâce à ce panneau ?
+11j42fgi5pn	Ta part : MPB(18). La part des voisins : MEB.
+1tx6m7eki80	MPB(18) + MEB = 46 + 20 = 66 €. Tu viens de calculer un point de la future courbe MSB.
+1bhxbruv27p	20, c’est seulement la part des voisins (MEB). Ajoute la tienne.
+6urlf6e4z8	46, c’est seulement ta part (MPB(18)). Et les voisins ?
+25yxw4403rc	Une valeur pour les voisins s’AJOUTE à la tienne : elle ne se soustrait pas.
+mtak1w7a9n	marginal vs total
+qpl2a4lfof	Combien vaut un panneau pour la société ?
+19o8lgjurx1	Tu viens de le calculer pour le 18e panneau : 46 pour toi + 20 pour les voisins = 66 pour la société. Fais-le pour chaque Q : tu obtiens une nouvelle courbe, 20 au-dessus de MPB.
+1oxqa24dbtl	{{MSB = MPB + MEB = 120 − 3Q}} (A6). MSB > MPB parce que MEB > 0.
+260cyufesqf	La valeur d’un panneau supplémentaire pour la société entière, c’est…
+1s78wrmxgr	Le bénéfice des voisins est un gain, pas une perte : il s’ajoute.
+ce60jsf35s	Oui : la valeur pour l’acheteur + la valeur pour les tiers.
+291bbtyvkyn	On additionne des € par panneau ; multiplier n’a pas de sens ici.
+22trvffrzl5	MEB seulement
+2dz63m9532f	Tu oublies l’acheteur : il fait partie de la société.
+ufiy6btz44	Tu as construit MSB à partir des acteurs : c’est la formule du cours (§11.1, F34).
+3thd9g08su	MSB n’est PAS l’argent du gouvernement
+1i2xgzo6fnk	Personne ne « verse » MSB. C’est une mesure de VALEUR : ce que vaut le panneau pour tout le monde réuni. L’État pourra plus tard dépenser de l’argent (une subvention), mais MSB existe même s’il ne fait rien.
+1c0gm6awwxu	On additionne parce que la société, c’est tout le monde. Si un panneau vaut 46 à l’un et 20 aux autres, il vaut 66 à l’ensemble : les valeurs de personnes différentes pour la MÊME unité s’additionnent.
+25eyrf7rd4t	On additionne verticalement, au même Q, parce que c’est le MÊME panneau qui profite à l’acheteur et aux voisins — exactement comme pour un bien public (§11.8).
+o753nfz3g5	MSB est au-dessus de MPB parce que MEB > 0 : chaque unité a une valeur en plus de celle que voit l’acheteur.
+1pufsbbejvz	Vaccins (E2020 Q3) : demande 100 − Q et MEB = 20 donnent MSB = 120 − Q.
+rcjctdgeqn	Si tu pouvais encaisser les 20 € de tes voisins à chaque panneau, ta valeur pour un panneau ne serait plus MPB mais MPB + 20 = MSB. MSB, c’est « toi, si tu touchais aussi le gain des autres ».
+1zhvp42ai1g	La courbe verte MSB est exactement 20 au-dessus de MPB à chaque Q : la flèche violette au curseur montre ce +20.
+2bdalwb6lz4	voit MSB = MPB + MEB
+pfxllk8auc	[[MSB]] représente…
+1gvnu5qv7me	L’argent que l’État dépense pour chaque panneau
+9m753lfbc2	C’est LA confusion classique. MSB est une valeur, pas un flux d’argent : elle existe même si l’État ne fait rien.
+2cm8y3lx39f	La valeur d’un panneau supplémentaire pour l’acheteur et pour les tiers réunis
+1gnosrppyyi	Exact.
+d53c8j9r57	Le prix payé par l’acheteur
+18q7te1731s	Le prix payé se lit sur MPB (la demande) à la quantité échangée.
+1zi4gr4vqvi	Le bénéfice des voisins seulement
+1ergp5lpqlr	Ça, c’est MEB. MSB ajoute la valeur pour l’acheteur.
+uahscltpeg	Et le coût pour la société ?
+24mesv3qr5v	MEC dans A6
+288vcmqde0u	Même question côté coût : le panneau coûte-t-il quelque chose à quelqu’un d’autre que le fabricant ? Dans cet exercice, non. Le coût pour la société d’un panneau de plus est donc simplement son coût de fabrication.
+12u7k2a3yit	{{MSC = MPC + MEC}} ; ici [[MEC]] = 0 donc {{MSC = MPC = 10 + 2Q}}.
+w8ra224dca	Coût d’un panneau de plus pour la société = coût pour le producteur + … ?
+1cz232mb1fs	+ le coût imposé aux tiers (MEC)
+18leyrqqifa	Oui. Ici ce coût externe est nul.
+104verskny0	+ le bénéfice des tiers (MEB)
+112l5o2esnx	Un bénéfice n’est pas un coût : MEB est déjà dans MSB.
+eroo7z2b2w	+ la subvention
+2zccg5rp2g	Une subvention est un transfert d’argent, pas un coût réel de production.
+1u5xlw6suon	On se pose la question parce que l’optimum social compare TOUS les bénéfices à TOUS les coûts. Oublier un coût externe ferait surestimer la bonne quantité.
+2ckmi9cq93f	MEC = 0 par hypothèse de l’exercice. Dans d’autres exercices (essence L11/E2023, textiles E2024), MEC > 0 et MSC passe au-dessus de MPC.
+vzcw0lirw7	Si l’usine de panneaux faisait du bruit la nuit, ses riverains subiraient un coût : ce serait un MEC. Ici, on suppose que non.
+r94tez6k95	Le fabricant paie tout ce que coûte son panneau, et personne d’autre ne paie quoi que ce soit. Donc pour la société, un panneau coûte exactement ce qu’il coûte au fabricant.
+2d518vwlgiu	Pas de nouvelle courbe : MSC se confond avec MPC (orange). Seul le côté « bénéfice » a bougé.
+dg04s4skho	compare MSB et MSC
+2frjbohkrao	Pourquoi n’y a-t-il pas de courbe MSC distincte sur le graphique ?
+16gdknsb5sr	Parce que MEC = 0 : la fabrication n’impose aucun coût aux tiers dans ce modèle
+1zlvjradxe	Exact : MSC = MPC.
+rudjx1t32d	Parce que l’État paie les coûts
+11kq22926ot	Aucune intervention n’est en place, et une dépense publique ne changerait pas le coût réel.
+29povxikgva	Parce qu’avec une externalité positive, MSC = MSB
+29lsd5xffy2	Non : MSB et MSC sont deux courbes différentes qui se croisent en Q*.
+1jofnw4a7r0	pas de MEC dans A6
+166oz7epvp8	Combien de panneaux la société voudrait-elle ?
+1a0ncy3eyio	Q*, optimum social
+5ikd5esa36	Imagine un planificateur bienveillant qui compte tout le monde. Il ajoute des panneaux tant qu’un panneau de plus vaut plus pour la société qu’il ne lui coûte. Il s’arrête quand les deux sont égaux.
+2c9x5l600h6	Optimum social : {{MSB = MSC}} ⇒ 120 − 3Q = 10 + 2Q ⇒ [[Q*]] = 22. La règle universelle est MSB = MSC (§11.1).
+19jifssrykk	Quelle égalité utilise le planificateur ?
+1s8d2y24eeo	Ça, c’est la règle du marché : elle ignore les voisins.
+qmgsezj99i	Oui : valeur sociale du dernier panneau = son coût social.
+yetyvo543e	Ces deux courbes ne se croisent jamais ici : elles sont parallèles, à 20 d’écart.
+25dakudc0pz	Tu oublies la valeur pour l’acheteur.
+1ppxhe4kijl	Avant 22, chaque panneau ajoute plus de valeur sociale qu’il ne coûte → l’ajouter augmente le bien-être. Après 22, c’est l’inverse → l’ajouter le diminue. Le maximum est au croisement.
+r5ksf8bxcv	Le marché ne le fait pas tout seul parce que personne dans la transaction ne reçoit les 20 € des voisins : la décision privée compare MPB à MPC, pas MSB à MSC.
+zhl3vmlymr	C’est la règle universelle : quelle que soit l’externalité (positive, négative, production, consommation), l’optimum social est MSB = MSC. Seul change le côté du graphique qui bouge (§11.1).
+2563zq4pbs2	E2020 Q3 vaccins : 120 − Q = 10 + Q ⇒ Q* = 55, au-dessus du marché (45).
+11xb6nzyc8g	Si tu étais à la fois l’acheteur ET tous tes voisins, tu achèterais 22 panneaux : tu compterais 46 + 20 pour le 18e, et tu continuerais jusqu’à ce que ta valeur + celle des voisins = le coût.
+wm5pbhecn3	Q* = 22 : intersection de MSB (vert) et MPC (orange, = MSC). Qm = 18 reste là où le marché s’arrête.
+1p13apgfdhb	veut Q* = 22
+6nvn750r85	Vérifie le croisement : que vaut MSB(22) ? (Ce doit être égal au coût MPC(22).)
+1407n4xpebl	MSB(22) = 120 − 66 = 54 = MPC(22) = 10 + 44 = 54 ✓ : au point Q*, valeur sociale = coût social.
+1i56bgfsnqk	34 = MPB(22) : la valeur pour l’acheteur seul. Ajoute MEB.
+rjg4lz2w3z	Sans aucune intervention, le marché atteint-il Q* = 22 ?
+19zjcpzdwzq	Oui, un marché concurrentiel trouve toujours l’optimum
+9569a75kf7	Seulement si la demande = MSB et l’offre = MSC (§7.1). Une externalité casse ce résultat.
+xyb6hln7h1	Non : il s’arrête à 18, car les acheteurs ne comptent que MPB
+1onzjyqxpu	Exact : Qm = 18 < Q* = 22.
+1dyu95ef949	Oui, parce que Q* est le point d’équilibre
+2eoxxgxbjax	Q* ici = optimum SOCIAL, pas l’équilibre du marché. L’étoile ne dit pas « équilibre » (§18.3).
+21zi18iun4f	Qeff 22
+1wcoittihpc	optimum MSB = MSC
+13skowmxhhx	Les panneaux qui manquent
+2qr82krenm	Unités manquantes entre Qm et Q*
+xwbdl7ldld	Le marché s’arrête à 18. La société en voudrait 22. Les panneaux entre 18 et 22 vaudraient chacun plus pour la société qu’ils ne coûtent — mais ils ne sont pas produits, parce que l’acheteur seul ne les juge pas rentables.
+hgggek4sfg	Sur ]Qm, Q*] : MPB < MPC (pas d’échange privé) mais MSB > MSC (échange socialement souhaitable).

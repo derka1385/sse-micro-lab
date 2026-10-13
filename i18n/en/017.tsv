@@ -1,0 +1,212 @@
+25ly7ey3zjm Demand equals total damage
+21vjy4csdpb MPB measures marginal private value, not damage.
+16vwn5591d8 The loss comes from the excess units
+198w0demy9x The first 30 units remain socially useful. The efficiency loss comes from the units between 30 and 45: each costs society more than it is worth. You add up only this difference over the excess range, not all the damage from all units.
+2f45bvfyw9f DWL = area between MSC and MSB from Q* to Qm. The curves are linear: {{DWL = ½ × (45 − 30) × 45 = 337,5}}.
+igix0dufw5 Total damage includes units whose benefit still justifies producing them.
+1hdmh5w8kdk DWL compares the welfare achieved with that of the best feasible quantity in the model.
+y0kjfdyz22 At Q = 45, MSC − MPB = 100 − 55 = 45; at Q = 30, this gap is zero. Hence the triangle.
+1obhpz0qo74 Total damage of 1,012.5 and DWL of 337.5 do not answer the same question.
+1nackaxw0wc Eliminating all petrol would also eliminate very useful trips. Efficiency requires eliminating the units whose total cost exceeds their value.
+15xgxpd2ld4 Compare the EXT and DWL areas. One measures all the damage; the other only the avoidable net loss due to Qm > Q*.
+23uryg4sk3q Triangle between 30 and 45, final height 45: what DWL?
+22cl2jwbbi1 Why is the DWL smaller than total damage here?
+24wg6t0uxag Because the residents' damage doesn't count
+19phomicign It counts fully in MSC and in welfare.
+zmizyt23hh Some polluting units remain socially useful
+nvtalpfdq3 Their benefit exceeds their social cost; they belong to Q*.
+zj28d0rcqt A tax changes what the driver decides
+1ou8zf0krmt The state can charge an amount per litre. The driver then pays more than the station receives. This gap reduces the quantity chosen: a litre that seemed worthwhile at the private price may stop being so with the tax.
+miafmm37f2 Tax wedge: pb − ps = t, with pb = MPB(Q), ps = MPC(Q). Equilibrium: MPB = MPC + t.
+15g3dlaq9c3 Buyers decide based on what they actually pay, pb.
+1g26l93ljhh Sellers decide based on what they receive, ps.
+1rxsqvjyr3z The tax links these two decisions: pb = ps + t. Whoever formally remits the tax does not necessarily bear its whole economic burden.
+12cd9l9hwsy With t = 20: 100 − Q = 10 + Q + 20 ⇒ Q = 35. pb = 65; ps = 45; 65 − 45 = 20.
+1iwcr2ve9hf You no longer compare the value of your litre with the 45 the station receives, but with the 65 you pay out.
+1f4ft6xnyp2 The MPC + tax curve sets the private decision after intervention. The tax of 20 does not coincide with MSC everywhere.
+2gg8iftzlth With a tax of 20, what quantity is traded?
+bnwcix83l6 At Q = 35, what price does the driver pay?
+1q4r3avtt4 What net price does the station receive?
+2g0elkgs1nj An improvement is not necessarily the optimum
+10vxnvcyl2o The tax of 20 removes ten excess units, but the market stays at 35 instead of 30. At 35, the marginal damage is 35, higher than the tax. The last unit is still too cheap relative to its social cost.
+uq2bireerh Residual DWL: ½ × (35 − 30) × [MSC(35) − MPB(35)] = 37.5.
+1lr6nxeda4s You must compare the post-tax quantity with Q*, not just note that it has fallen.
+zg3z4g1hl9 Between 30 and 35, social cost still exceeds value.
+2crrla1sa8q Tax revenue is a transfer to the state; in itself it is not a destruction of resources.
+1ijnuco3e97 At Q = 35, MSC = 80 and MPB = 65: height 15, base 5, so DWL = 37.5. Tax revenue = 20 × 35 = 700.
+13skzympsav You can say "it's better" by comparing 337.5 with 37.5, then "still not enough" by noting Q > 30.
+1pqq40xovd4 The small residual triangle is the avoidable loss. The tax revenue rectangle is a transfer.
+1scvmseen6l After a tax of 20, base 5 and height 15: what DWL remains?
+1b699pheeoa Is the 700 of tax revenue automatically DWL?
+1o33b6ta70e Yes, every tax payment disappears
+24dy3gzgrkx The money is received by the state; it doesn't evaporate.
+s29rvfmqqt No, it's a transfer counted for the state
+24xe7ki6oti To compute W, add CS + PS + revenue, then subtract the real damage.
+8dan6r9lzd Why the correct tax is 30, not 45
+1e3w2pr7awr You want private decisions to stop exactly at the efficient quantity, 30. So the litre's damage must be charged at that point. A tax of 45 would charge the damage at the old market point; it would push the quantity down too far.
+1p43p3uydbo Pigouvian tax {{t* = MEC(Q*) = 30}}. At Q*: pb = 70, ps = 40, gap = 30. This rule assumes an otherwise competitive market and an externality not already internalized.
+1c3nz84x22z After the tax, the quantity changes: so does the marginal damage.
+17d5f7jqjlo So you first choose Q* with MSB = MSC, then evaluate MEC at Q*.
+48egi8bw63 A tax of 30 aligns the marginal incentive at the target point; MPC + 30 does not need to coincide with MSC at every quantity.
+15sytsvcjba t = 30 gives 100 − Q = 10 + Q + 30, so Q = 30. Revenue = 900; DWL = 0 in this model.
+i1gjbgkkt5 You set the price of the external effect for the last litre society wants to keep, not for the last litre of the old fill-up.
+fs1lkzrxpb Try 20, 30, then 45 on the policy. The goal is to align Qp with Q*, not to make the tax as high as possible.
+1598p30xrt2 MEC = Q and Q* = 30: what optimal tax?
+2fw19ptz14q In t* = MEC(Q*), where do you evaluate MEC?
+atwm9e180a Always at the old private quantity
+4xt8zycbod That quantity is precisely what the tax will change.
+78rxm81d0l At the socially efficient quantity
+2bgiq1jqwu8 That is the point where the private incentive must be aligned.
+157batntzxr If the axis changes, your reasoning must notice
+hj4ehipspc A firm can reduce emissions without necessarily cutting its output as much. Here, the axis counts the remaining emissions e. Moving left means abating more. The first reductions are easy; the last ones cost more. That is why MAC falls as you read this graph to the right.
+2ug73td5dm MAC = marginal abatement cost. L11: MAC = 10 − e, MEC = e/2. Under a tax, the firm chooses MAC = t; society chooses MAC = MEC.
+t6akyzkay2 An emissions cut avoids MEC of damage but costs MAC in resources.
+1usu7wt1uit It is worth reducing as long as the avoided damage exceeds the cost of reduction.
+1zmicrh8jpv Taxing emissions saves t on each unit eliminated: the firm reduces until MAC = t.
+2gom9nb5xtq Tax 2: 10 − e = 2 ⇒ e = 8. Optimum: 10 − e = e/2 ⇒ e = 20/3, tax = 10/3. A tax on output is equivalent only if emissions per unit are fixed.
+mc4xb1tk78 Replacing a boiler can avoid pollution without closing your factory. So check whether you're asked for a quantity produced or a quantity emitted.
+sojwgfd06i Careful: the axis measures remaining pollution
+2fibds4nmkh e, remaining emissions
+2827vj9qt51 € per unit avoided
+1frpa6y51cp L11: MAC = 10 − e, MEC = e/2. The further right you go, the less pollution you have already cut. The point MAC = MEC gives e = 20/3.
+2bupwtx2wyb Cost of eliminating one more unit of emissions, starting from level e.
+uxlftyuybm Damage avoided by eliminating this unit of emissions.
+tgpczr4kxl Optimum: e = 6.67
+20x8hk3r3kg MAC = 10 − e. With an emissions tax t = 2, what emissions level does the firm choose?
+5ph1rflclx emissions
+hf02nhi9ww Solve 10 − e = e/2 for efficient emissions.
+b86mk9i517 Same cap, different splits of the effort
+1xn8szkxb16 Two plants must reduce total emissions. The first can abate cheaply; the second has an installation that is hard to adapt. Asking both for exactly the same effort wastes resources: the first can reduce more, sell permits, and spare the second its most expensive reductions.
+1gxl12zqj7 With frictionless trading and interior solutions, permits equalize MACs at the permit price. The cap sets total emissions; the initial allocation distributes the rents.
+6ep3rdx4n6 When MACs differ, shifting a unit of abatement to the cheaper firm lowers total cost.
+1pqrhn2g52x Trading remains profitable as long as the cost saved exceeds the compensation required.
+28dgzpj48si When MACs are equal, no marginal shift lowers total cost further for the same cap.
+1plnvsat25c Constructed example: MAC_A = 4 and MAC_B = 10. Having A abate one more unit lets B abate one unit less: net saving of 6, before trading costs.
+16cta04wqpu If you can remove a tonne for 4, you can sell a permit for more than 4 to a firm that would have spent 10 on that tonne.
+1j8iq0c6vo0 What does the next avoided tonne cost, and where?
+1pe5y6zx86y € per tonne
+rt10rmvmqx Constructed example to show a marginal trade; these are not the total costs of two real plants.
+kmaimp2f22 Plant A
+210s2pobwkm A little more abatement costs 4.
+k9tirjq61x Plant B
+16afpvpdci3 A little less abatement saves 10.
+2bmet6i4isx A abates at 4, B at 10. Which shift of effort lowers costs?
+aay3spfemr B abates more because it has the higher MAC
+1mcm99sjrou You would be shifting the effort to the costlier firm.
+1ihsnav4hna A abates more; B abates less
+3whqvatyy8 The same avoided tonne costs 4 instead of 10.
+13arocddfvj Identical quotas are always the cheapest
+8lwv7oeuoi They ignore the differing MACs.
+1dv13fal0p9 What cost saving for one tonne shifted from B to A?
+jmclkxj1jw 10 saved at B − 4 spent at A = 6.
+8h0s3ttbkp Tax or quota, when nobody knows the cost of abating
+1prw0o30igc The state must choose its instrument before knowing how much it will cost the plants to cut their emissions. With a tax, it sets the price of polluting: each plant reduces until the next tonne costs it as much as the tax, so the quantity of emissions depends on its true cost. With a quota, it sets the quantity: emissions are known, but the cost of getting there is not. If each excess tonne does damage that climbs very fast, getting the quantity wrong is expensive: the quota protects better.
+yai546zvjc Instrument choice under uncertainty ("prices versus quantities"): with a very steep [[MEC]] and an uncertain [[MAC]], a tax's quantity error creates a large loss; the quota fixes e and limits that loss. If MEC is flat and MAC steep, it's the reverse: the tax avoids excessive compliance costs. This is an argument about relative slopes, not a general rule.
+aahl2scaon A tax guarantees the price of an avoided tonne, not the number of tonnes: if abating costs more than expected, the plants pollute more.
+enwa6hu67n A quota guarantees the number of tonnes, not the cost: if abating costs more than expected, the plants pay a lot to meet the cap.
+a0b5twhfg9 Which of the two errors costs more depends on the slopes: when marginal damage climbs fast, each excess tonne is very costly, so fixing the quantity is preferable.
+bbhiowkfw8 Constructed example: MEC = 3e and expected MAC 10 − e ⇒ e = 2.5 and t = 7.5. If MAC is actually 12 − e, the optimum becomes e = 3. The tax of 7.5 leaves e = 4.5: loss ½ × 1.5 × 6 = 4.5. The quota of 2.5 misses by only 0.5: loss ½ × 0.5 × 2 = 0.5.
+1h9yyvnyzqw You're advising the German government (E2021 Q1d): coal damage climbs fast and the abatement cost is poorly known. You choose the instrument that avoids the big error, here the quota, and justify it with the slopes.
+95tb6ncy9d The true cost of abating is known only after the choice
+1gbbtrh2whm Constructed example. MEC = 3e climbs fast; MAC is expected to be 10 − e but turns out to be 12 − e. Planned: e = 2.5 and t = 7.5. True optimum: e = 3. The tax leaves e = 4.5 (loss 4.5); the quota stays at 2.5 (loss 0.5).
+1m6k6vxbi5i Expected MAC: 10 − e
+9hvbqre841 What the state believes it costs to avoid the next tonne.
+1ijl3owisz1 Actual MAC: 12 − e
+22bw15k4la0 The true cost, discovered after the instrument is chosen: abating costs more than expected.
+4hg4wmcug0 The damage of the next tonne climbs fast: an excess tonne costs residents more and more.
+1ryt7rintmw Tax t = 7.5
+2b01fxj5fr8 The tax sets the price of polluting: the firm pollutes up to MAC = 7.5, whatever its true cost.
+vaqo2m45tm Quota e = 2.5
+unn4aepnps The quota fixes the quantity: 2.5, whatever the cost of getting there.
+ijlohemiz1 True optimum: e = 3
+1u1o4reilg8 Tax: e = 4.5
+1hih1p6ofcs Very steep marginal damage, poorly known abatement cost. Which instrument best limits the loss?
+d9r7zdiq8q A tax, because it is always more efficient
+8iutmeyn5n Under uncertainty, no instrument always wins: it all depends on the slopes.
+rkcswzr9ea A quota (emissions cap)
+270e5w3wj4b It fixes the quantity: the costly error, polluting far too much, is avoided.
+2f6l8a9htjr It doesn't matter: tax and quota always give the same result
+1qv4mvj423w They coincide without uncertainty; with uncertainty, one fixes the price, the other the quantity.
+21wdyq656by Actual MAC 12 − e and tax 7.5: how much does the firm emit?
+gx32972zxc 12 − e = 7.5 ⇒ e = 4.5, instead of the optimum 3.
+1n0gl9uvpyr Bargaining can internalize, under precise conditions
+fgh8cg8d3c If a plant and its neighbour can negotiate easily and know who holds the right to pollute or to demand clean air, they can share the gain from a useful reduction. But a hundred thousand victims, disputed measurements and costly contracts can prevent such an agreement.
+1z9r3mpyjr0 Coase: defined rights and zero transaction costs allow an efficient allocation under the theorem's assumptions. The assignment of rights changes the payments and the distribution.
+18iuwt4sr51 If avoiding a damage is worth more than the reduction costs, there is a surplus to share.
+2dlx1ah948r The initial right determines who must pay to obtain the change.
+19you3kf3q8 The costs of measurement, coordination and contracting can exceed the surplus and block the agreement. A merger that creates a monopoly can also introduce another distortion.
+erf1aqjuiw Reducing the noise costs the workshop 20 and is worth 50 to the neighbour. Compensation between 20 and 50 makes the reduction profitable for both, if the initial right belongs to the workshop.
+18rr7c5p9oy You would pay up to 50 to sleep better. The workshop accepts from 20. But without a clear right or an enforceable contract, this possible gain doesn't guarantee an agreement.
+mn8y8trje2 The surplus from an agreement
+1ikey9pw30t Constructed example; conditional efficiency, not a promise that every real negotiation succeeds.
+26ijjfpnh16 The neighbour
+ua17j6bj8r Values the avoidable damage: 50
+1o5m3m1pvbk Would agree to pay at most 50 for the reduction.
+1byatp5uac4 The workshop
+1dxb3tnbtzv Values the reduction cost: 20
+1erz2sqjtga Compensation above 20 makes it better off.
+2azxzw9pecd Both
+12alwuf96a5 Look for a payment between 20 and 50
+wbdpldz5eg The total surplus of 30 can be shared if bargaining is possible.
+1or9qes60gm Changing the initial assignment of rights necessarily changes what?
+10sd3zwoqvo The efficient quantity must always change
+o8a3sa2bzt That's not the theorem's conclusion under costless bargaining.
+1636vi0g33x Who pays and how the gains are distributed
+1hbjx3egntt Under Coase's assumptions, efficiency can stay the same but incomes change.
+25k435p854p Nothing at all, not even the payments
+29w7447c3et The initial right changes the starting point and the compensation.
+5wkpun1n0i Same mechanism, different numbers: textiles
+t411qffao Let's change products. Textiles pollute; the equations are different, but the question remains "what cost do the private decisions leave out?". Start again from that question, then build both equilibria. You don't need to memorize the results from the petrol market.
+1lh9l5a3q6s E2024 case from the dossier: MPB = 200 − Q, MPC = 80 + Q, MEC = Q, so MSC = 80 + 2Q.
+v50oj8g3dw Naming the product doesn't determine the method; the incentives and the missing cost do.
+17enm1zrbm5 The private equilibrium ignores MEC, whereas the social optimum adds it.
+20wlm9ond74 The tax is computed only after finding Q*; DWL measures the excess units.
+30g4cpik6i Qm = 60; Q* = 40; optimal tax 40; DWL height at Qm: MSC − MPB = 200 − 140 = 60; DWL = ½ × 20 × 60 = 600.
+1y2zf9qkggk Faced with a new problem, identify the third parties and the ignored cost before searching your memory for a formula.
+zin21imwsf The graph changes parameters for textiles. The private-versus-social reasoning stays the same.
+22shneqb7aw Textiles: 200 − Q = 80 + 2Q. What Q*?
+1a7ftp1zcvp With MEC = Q, what optimal tax for textiles?
+1rh8bcex1gg Qm = 60, Q* = 40, final marginal gap 60: what DWL?
+1shylkody4e They make their decisions based on what they receive and pay.
+toplml3e4t MEC does not appear in the private transaction.
+143h7tj332w MSC = MPC + MEC adds up all real marginal costs.
+17nsgm3nv7c MPB = MPC gives Qm > Q*, where MSB = MSC.
+23icvn36mlf t* = MEC(Q*) makes the competitive market stop at the efficient quantity.
+10nci0q87af The driver buys according to their private value and the price; the station produces according to its private cost. The residents suffer damage that doesn't enter their transaction. The social cost MSC = MPC + MEC therefore exceeds the private cost. The market Qm = 45 contains litres whose social cost exceeds their value; Q* = 30 excludes them. A tax equal to MEC(Q*) = 30 charges for this marginal damage and aligns private decisions with the efficient quantity.
+lt2ka8zb9z The driver and the station compare private gains and costs
+gjchva5wu9 The residents suffer unpaid damage
+rem819d1sd Social cost exceeds private cost
+3p4qdy3lu5 The market consumes socially excessive units
+1wbn1fasyu9 A tax evaluated at Q* corrects the marginal incentive
+2296o3lm1q0 Explain to a friend why a fill-up can be worthwhile for the buyer and the seller while containing too many litres for society. Connect the actors, the forgotten cost, Qm/Q* and the optimal tax.
+sskh3oy9ev The private decision
+1651rd9m10a The driver and the station count only private gains and costs.
+15ys9rqcipq The cost to third parties
+15dt9443l7g The damage to residents is absent from the private price.
+232q03ik2o4 Why too many litres
+207dsrvo8ko MSC > MPC implies Qm > Q*: the excess units cost society more than they are worth.
+g7kb51kx88 The correction
+20vtzby7bf The optimal tax is the marginal damage evaluated at Q*, not at the old quantity.
+1a978kjd9h0 MEC measures the damage of one more unit; total damage adds up all the units.
+12vgmb3diyy Find Q*, then evaluate MEC(Q*). The tax changes the quantity, so the old MEC(Qm) is not the target.
+75v2c6gbjo Tax revenue is a transfer received by the state. DWL measures a net loss of welfare.
+16qpbt24691 A factory pays its employees but doesn't compensate the neighbours for the noise. Where is the externality?
+dmjvodrdrb In the wages
+145imeugoyz They are already in private costs.
+2b72i52mohh In the uncompensated noise
+10c88w50jn6 It affects third parties outside the exchange.
+1rvaiqil4z Why can a voluntary exchange be inefficient?
+kdebpm9rcs Because every exchange destroys welfare
+1qtzwu56gs9 Exchange can produce a gain; all effects must be counted.
+xrin89ezrc Third parties may bear unpaid damage
+1kg3j38aa3e A private agreement doesn't guarantee everyone's welfare.
+21clzhr7yxl MEC means…
+1pghghsg15z The total damage from all units
+10bqhiyo7v9 That's the integral of MEC.
+2g93wwa26j9 The damage to third parties from one more unit
+ohoqokjp6p Marginal = one more unit.
+2csziwrmm8s A well-defined right to pollute with costless bargaining guarantees, under Coase…
+1u9pks66g6h That the state automatically pays for all damage
+1y9d68aq214 Coase describes bargaining between the parties.
+18sl0y77vg4 A possibility of bargaining efficiently, with a distribution that depends on the rights
+ra58mmk0g1 The assumptions concern rights and costs; the payments change.

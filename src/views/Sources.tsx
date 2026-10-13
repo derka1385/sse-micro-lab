@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { DOSSIER, resolve } from '../dossier';
+import { t } from '../i18n';
 
 type Tab = 'text' | 'abbr' | 'formulas' | 'lexicon';
 
@@ -24,19 +25,19 @@ export function Sources({ refId }: { refId?: string }) {
   return (
     <div className="page">
       <header className="page-head">
-        <h1>Le dossier, source de vérité</h1>
-        <p className="lead">Tout ce que l’app affiche renvoie ici. Les références « §11.3 », « §15 A6 » ou « §16 E2020 » ouvrent l’extrait exact.</p>
+        <h1>{t('Le dossier, source de vérité')}</h1>
+        <p className="lead">{t('Tout ce que l’app affiche renvoie ici. Les références « §11.3 », « §15 A6 » ou « §16 E2020 » ouvrent l’extrait exact.')}</p>
       </header>
       <div className="seg wrap" role="tablist">
-        {([['text', 'Texte'], ['abbr', 'Sigles (§18)'], ['formulas', 'Formulaire (§17)'], ['lexicon', 'Lexique (§19)']] as [Tab, string][]).map(([k, l]) => (
+        {([['text', t('Texte')], ['abbr', t('Sigles (§18)')], ['formulas', t('Formulaire (§17)')], ['lexicon', t('Lexique (§19)')]] as [Tab, string][]).map(([k, l]) => (
           <button key={k} role="tab" aria-selected={tab === k} className={tab === k ? 'on' : ''} onClick={() => setTab(k)}>{l}</button>
         ))}
       </div>
 
       {tab === 'text' && (
         <div className="source-grid">
-          <nav className="source-nav" aria-label="Chapitres">
-            <input type="search" placeholder="Rechercher dans le dossier…" value={q} onChange={(e) => setQ(e.target.value)} aria-label="Recherche" />
+          <nav className="source-nav" aria-label={t('Chapitres')}>
+            <input type="search" placeholder={t('Rechercher dans le dossier…')} value={q} onChange={(e) => setQ(e.target.value)} aria-label={t('Recherche')} />
             {hits.length > 0 ? (
               <ul className="hits">
                 {hits.map((i) => (
@@ -58,14 +59,14 @@ export function Sources({ refId }: { refId?: string }) {
       {tab === 'abbr' && (
         <div className="table-wrap">
           <table className="wtable">
-            <thead><tr><th>Sigle</th><th>Tag</th><th>English</th><th>Français / note</th><th>§</th></tr></thead>
+            <thead><tr><th>{t('Sigle')}</th><th>{t('Tag')}</th><th>English</th><th>{t('Français / note')}</th><th>§</th></tr></thead>
             <tbody>
               {DOSSIER.abbr.map((a) => (
                 <tr key={a.line}><th>{a.names.join(', ')}</th><td>{a.tag}</td><td>{a.english}</td><td className="small">{a.french}</td><td className="small">{a.section}</td></tr>
               ))}
             </tbody>
           </table>
-          <p className="small muted">[O] observé dans les PDF · [A] alias standard d’une notion présente · [C] complément ajouté pour rendre les méthodes compréhensibles.</p>
+          <p className="small muted">{t('[O] observé dans les PDF · [A] alias standard d’une notion présente · [C] complément ajouté pour rendre les méthodes compréhensibles.')}</p>
         </div>
       )}
 
@@ -105,7 +106,7 @@ function Lexicon() {
   const list = DOSSIER.lexicon.filter((e) => !q || `${e.term} ${e.french} ${e.def}`.toLowerCase().includes(q.toLowerCase()));
   return (
     <div>
-      <input type="search" placeholder="Chercher un mot anglais ou français…" value={q} onChange={(e) => setQ(e.target.value)} aria-label="Recherche lexique" />
+      <input type="search" placeholder={t('Chercher un mot anglais ou français…')} value={q} onChange={(e) => setQ(e.target.value)} aria-label={t('Recherche lexique')} />
       <dl className="lexicon">
         {list.map((e) => (
           <div key={e.line}><dt lang="en">{e.term}</dt><dd><b>{e.french}</b>{e.def && ` — ${e.def}`} <span className="muted small">§{e.section}</span></dd></div>

@@ -1,0 +1,214 @@
+u7mxoagap Du bist der Bewerber mit Kosten 60: Gib dich nicht mit dem ausgeschriebenen Lohn von 100 zufrieden, sondern zieh die Kosten des Abschlusses ab.
+244urxrnkv6 Der Lohn steigt mit Abschluss von 60 auf 100. Welche Kosten machen einen Bewerber indifferent?
+bk6gv3a7bq 100−C=60 ⇒ C=40. An dieser Schwelle hat der Bewerber keine strikte Präferenz.
+19ta0dw6j5d Warum reicht „das Signal ist teuer“ nicht?
+1au8hb4l71c Die Anreize müssen je nach Typ verschieden sein
+1e307remc74 Wollen alle Typen es nachahmen, trennt es die Typen nicht.
+1pl29mt5eme Ein Signal muss immer kostenlos sein
+1n8cuoxr3fq Gerade nach Typ unterschiedliche Kosten können ihm Glaubwürdigkeit verleihen.
+1fcwg9v5nj9 Der Eigentümer kann keine unsichtbare Anstrengung anordnen
+nacul9nyp Du führst ein Geschäft für einen Eigentümer. Mehr zu arbeiten kostet dich 10 und verbessert den Erlös, aber das Ergebnis hängt auch von einem guten oder schlechten Zustand ab. Der Eigentümer beobachtet den Erlös, ohne deine Anstrengung genau zu sehen: Er muss dir einen Grund geben, dich anzustrengen, statt es vorauszusetzen.
+1ssmkvgi0z2 Prinzipal-Agent: Der Agent wählt eine verborgene Anstrengung; der Prinzipal schlägt einen Vertrag vor. H erzeugt mit gleicher Wahrscheinlichkeit 40/100, L 20/40; erwartete Erlöse 70 und 30.
+26s9uv8dfti Auch mit H bleibt ein schlechtes Ergebnis möglich: Das Ergebnis identifiziert die Handlung nicht vollständig.
+nuej9ag8yt Die Gesamtrente H=70−10=60 übersteigt L=30, aber diese kollektive Rangfolge bestimmt nicht automatisch die Wahl des Agenten.
+18dxunvmzuo H: 0,5×40+0,5×100=70; L: 0,5×20+0,5×40=30. Die Anstrengung bringt 40 erwarteten Erlös für Kosten von 10.
+156sggslp12 Du wählst die Anstrengung nach deiner eigenen Nettovergütung; der Gewinn des Eigentümers bezahlt deine Müdigkeit nicht automatisch.
+jdxtpthzyo Unter H Erlös 40 oder 100 mit gleicher Wahrscheinlichkeit und Anstrengungskosten 10: Welche erwartete Gesamtrente?
+g83kh6bqn1 0,5×40+0,5×100−10=60. Ein etwaiger Lohn ist ein Transfer zwischen Eigentümer und Agent.
+m82p3sy9sn 70 ist der erwartete Erlös; die tatsächlichen Anstrengungskosten von 10 müssen abgezogen werden.
+rs3qe36dit Ein Fixlohn schützt vor Risiko, belohnt aber keine Anstrengung
+1e0dzn1sz3c Der Eigentümer zahlt dir w unabhängig vom Umsatz. Du bekommst denselben Lohn, ob du viel oder wenig arbeitest, aber H kostet dich 10 mehr. In diesem Modell ohne andere Motivation wählst du L; für den Eigentümer den erwarteten Erlös 70 anzusetzen wäre also inkonsistent.
+1uvsg48lxov Mit Fixlohn: U_H=w−10<U_L=w. Der Eigentümer erhält 30−w und trägt das Erlösrisiko.
+2edsw1ijzcu Der Erlösunterschied ändert deinen Lohn nicht, also gleicht er deine Anstrengungskosten nicht aus.
+uqlqv0w424 Dieses Ergebnis setzt voraus, dass es keine anderen Anreize oder Motivationen gibt; es beschreibt nicht automatisch jeden realen Beschäftigten.
+2ay8bxerlwp Bei w=20: H gibt dir 10, L gibt dir 20. Du wählst L; der Eigentümer erhält erwartet 30−20=10.
+2dx8cvztyj0 Du fragst: „Ändert ein zusätzlicher Euro Erlös meine Vergütung?“ Bei diesem Fixlohn lautet die Antwort Nein.
+1ub17q3sj92 Mit festem w und Kosten H=10, L=0: Welche Anstrengung ist für den Agenten optimal?
+15zmou98ojn H, weil sie den Gesamterlös maximiert
+1fcj2daflfm Der Agent erhält diesen zusätzlichen Erlös nicht. Vergleiche seine privaten Gewinne.
+gcrtw2fb1v L, weil sein Lohn gleich bleibt und die Anstrengung weniger kostet
+vvmkeyxs73 w>w−10; der Erlös des Prinzipals muss dann mit L gerechnet werden.
+21jl4wtr4ac Erlösbeteiligung gibt der Anstrengung einen privaten Ertrag
+1gpxhmvkov3 Der Eigentümer bietet dir jetzt die Hälfte des Erlöses an. Wenn du mehr arbeitest, bekommst du einen Teil des zusätzlichen Umsatzes. Du akzeptierst auch, dass deine Bezahlung mit den Schocks schwankt: Der Anreiz kommt zusammen mit Risiko.
+77q5vu7az4 Aufteilung 50/50: U_H=0,5×70−10=25; U_L=0,5×30=15. H wird anreizverträglich; der Eigentümer erhält 35.
+1a4fvgeoiuk Die Anstrengung bringt 40 erwarteten Erlös, wovon du 20 behältst; das deckt deine Kosten von 10.
+1vcea0czgcl Ein Vergleich von Erwartungswerten reicht hier bei Risikoneutralität; Risikoaversion könnte die Annahme des Vertrags verändern.
+3ss8c5r7uf Unter H beträgt dein Nettogewinn im schlechten Zustand 10 (20−10) und im guten 40 (50−10), also 25 im Erwartungswert.
+1877v88citi Du führst das Geschäft: Die Anstrengung bringt dir jetzt 20 zusätzliche erwartete Vergütung für Kosten von 10.
+28ouo5t2uhf Wem nützt die Anstrengung?
+2901249h8as erwartete €
+1r4lmpng1kj Risikoneutraler Agent; Anstrengung H kostet 10 und erzeugt 40/100 mit Wahrscheinlichkeit 1/2; Anstrengung L kostet 0 und erzeugt 20/40 mit Wahrscheinlichkeit 1/2. Aufteilung 50/50.
+17yz9b8aqse Agent H: 0,5×70−10
+250ga046w0s Der Agent erhält die Hälfte des Erlöszuwachses, zahlt aber seine gesamten Anstrengungskosten.
+16yofhfh3ax Agent L: 0,5×30
+1bdbwfitbhc Keine Anstrengungskosten; geringeres Einkommen.
+2eonin2eh1d Eigentümer bei H
+1d7ydijbee Die andere Hälfte des erwarteten Erlöses von 70.
+3s70lfukax Gesamtrente H: 70−10
+13nbopazdt9 Die monetäre Aufteilung ist keine verlorene Ressource.
+1dc2r6y8bjz Welchen erwarteten Nettogewinn erzielt der Agent mit 50 % der Erlöse H=(40,100), Anstrengungskosten 10?
+1mv4o4a6hoa 35 ist sein Erlösanteil vor den Anstrengungskosten.
+19us6fwui20 60 ist die Gesamtrente; der Eigentümer behält auch einen Teil davon.
+1xxenf6294c Starke Anreize reichen nicht, wenn niemand den Vertrag annimmt
+tk0keasvl0 Du kannst eine feste Gebühr F zahlen und den ganzen Erlös behalten. Jeder Erlöszuwachs gehört dir, also bringt H 60−F gegenüber 30−F bei L. Ist F aber zu hoch, lässt dir selbst die beste Anstrengung weniger als deine Außenoption; du lehnst den Vertrag ab.
+2bsg8bi0p10 IC = incentive compatibility: die gewünschte Handlung wählen. IR = individual rationality: die Teilnahme der Außenoption vorziehen. Die feste Gebühr überträgt das Risiko auf den Agenten.
+xdwze0womn F hebt sich im Vergleich H/L auf, also ändert es diesen Anreiz bei gegebener Anstrengung nicht.
+2ddw42v0ujm F hebt sich nicht auf, wenn du den Vertrag mit dem Nicht-Unterschreiben vergleichst: Es senkt deinen Nettogewinn aus der Teilnahme.
+sxv6owmuo5 Mit Außenoption 15 und Risikoneutralität: 60−F≥15 ⇒ F≤45. F=50 lässt H die beste Anstrengung bleiben, gibt aber nur 10: Vertrag abgelehnt.
+1u72vud5tcs Stell dir vor dem Unterschreiben zwei Fragen: „Was werde ich tun, wenn ich unterschreibe?“ und dann „Lohnt es sich für mich zu unterschreiben?“.
+5gzkjfuf8 Wenn H 60−F ergibt und deine Außenoption 15 ist: Welche Höchstgebühr erfüllt IR?
+163k5lrgo5 60−F≥15 ⇒ F≤45. Bei 45 schwache Teilnahme mit Indifferenz.
+yrkubo5vq9 F=50 induziert H, gibt aber 10 gegenüber einer Außenoption von 15. Welches Problem bleibt?
+1gl1e5qstn5 IR ist verletzt
+1ymns94fkmx Der Agent lehnt ab, obwohl er mit Unterschrift H wählen würde.
+1liz78e1563 IC ist zwangsläufig verletzt
+ig7kwhmist H gibt 10 und L −20: H bleibt die beste der Anstrengungen.
+1nuls7gd6p9 Der Unternehmer schaut, was nach der Rückzahlung bleibt
+1buvrv47hyr Die Bank leiht 20 für ein Projekt, das bei Erfolg 40 einbringt, sonst null. Sie verlangt 30 nur bei Erfolg. Mit H hast du mit Wahrscheinlichkeit 0,8 Erfolg, mit L nur 0,4, aber L bringt dir einen privaten Nutzen b, den die Bank nicht erhält.
+sj65d8emv7 Beschränkte Haftung: U_H=p_H(R−B), U_L=p_L(R−B)+b. Die versprochene Rückzahlung B wird nur bei Erfolg gezahlt.
+1791xujllo1 Eine höhere Rückzahlung senkt den Gewinn, den du behältst, wenn deine Anstrengung erfolgreich ist.
+2f82dkobdol Ein privater Nutzen kann geringe Anstrengung attraktiv machen, auch wenn das Projekt für die Bank weniger Wert erzeugt.
+aq3vkx1zy5 R−B=10. H gibt 0,8×10=8. L gibt 0,4×10+b=4+b: Bei b=2 bringt H 8 gegenüber 6; bei b=6 bringt L 10 gegenüber 8.
+1yly10k1khf Du bist Kreditnehmer: Berechne deinen Gewinn für jede Handlung, bevor du den der Bank berechnest.
+z9n1h5fsb5 Die nominale Rückzahlung wählt die Anstrengung nicht für dich
+1gcg6vya7p9 R=40, p_H=0,8, p_L=0,4, Rückzahlung bei Erfolg B=30, Kredit D=20, privater Nutzen b=6. Der Kreditnehmer wählt L: Für die Bank muss man dann p_L verwenden.
+n0wj1c5sks Unternehmer H: 0,8×10
+xwx1gfyu6j Residualerlös von 10 bei Erfolg.
+fdspwa1ftt Unternehmer L: 0,4×10+6
+eqqoy4txyu Der private Nutzen von 6 macht L vorteilhafter.
+ep9at6mfdm Tatsächlicher Erlös der Bank: 0,4×30
+18qegyt6a5g Die Erfolgswahrscheinlichkeit hängt von der tatsächlich gewählten Handlung ab.
+1ebypqi4l2w Ausgezahlter Kredit
+o4qjbxj43h Mit Erlös 12 verliert die Bank 8; diese 20 sind nicht ihr Gewinn.
+29ltto0ogc4 Mit R=40, B=30, p_L=0,4 und b=6: Welchen Gewinn bringt L dem Unternehmer?
+15hy6ckwzcl 0,4×(40−30)+6=10; das ist mehr als U_H=8.
+u3v1waf010 Es fehlt der private Nutzen von 6 aus L.
+1dcw15o520t 12 ist der erwartete Erlös der Bank, wenn L gewählt wird, nicht der Gewinn des Kreditnehmers.
+1z0bcxjlk85 Die Anreizformel ergibt sich aus dem Vergleich der beiden Entscheidungen
+11cyjd626mv Um H zu wählen, musst du durch die höhere Erfolgswahrscheinlichkeit mehr gewinnen als den privaten Nutzen, auf den du verzichtest. Die Rückzahlung senkt deinen Gewinn bei Erfolg, also kann sie am Ende deine Anstrengung zerstören. Die Bank kann nicht H unterstellen, um eine Rückzahlung zu rechtfertigen, die gerade zur Wahl von L führt.
+29zqs6ynoy0 IC_H: (p_H−p_L)(R−B)≥b. Bank: p_gewählt B−D; die Wahrscheinlichkeit muss zur tatsächlich gewählten Handlung passen.
+1ap29drnzt3 Welcher Vergleich garantiert, dass H mindestens so gut ist wie L?
+8ppl4ygybh Verglichen werden die vollständigen privaten Gewinne, einschließlich des Nutzens aus L.
+r8c89eypx3 Nur p_H B ≥ D
+2bouo19oyrg Das prüft die Bank unter H, ohne zu zeigen, dass der Kreditnehmer H wählt.
+nl9cl527no Bei b=6 und B=30 verlangt IC 0,4×10≥6: falsch.
+28ndfav5v7n Mit L fällt der Erlös der Bank trotz des nominalen Versprechens von 30 auf 12; abzüglich des Kredits von 20 beträgt der Gewinn −8.
+1nefhxc4cv1 Bei b=2 wird H gewählt und die Bank verdient 0,8×30−20=4. Bei b=6 wird L gewählt und sie verliert 0,4×30−20=−8.
+1gesa78bufp Du bist Banker: Ein höheres Versprechen auf dem Papier ist nicht unbedingt eine höhere erwartete Rückzahlung wert.
+1mc7o37cqn1 Für b=6, R=40, B=30, D=20, p_H=0,8, p_L=0,4: Welcher Bankgewinn wird tatsächlich induziert?
+1nrqxbv7mzu L bringt dem Unternehmer 10 gegenüber 8 unter H. Die Bank verwendet also p_L: 0,4×30−20=−8.
+z2dvjz8qf8 4 verwendet fälschlich p_H: IC_H gilt nicht.
+66upyarz1d 12 ist die erwartete Bruttorückzahlung; der Kredit von 20 sind Kosten der Bank.
+1oh6jrl160e Eigenkapital kann die Anstrengung wiederherstellen — ohne ihre Kosten zu tilgen
+22bovktw23v Du bringst 10 eigenes Geld ein, also leiht die Bank nur noch 10 und verlangt 15 bei Erfolg. Dir bleiben 25 bei Erfolg: Die private Belohnung des Erfolgs ist wieder groß genug, um H zu liefern, selbst bei b=6. Misst man deinen Gewinn ab dem Zeitpunkt vor der Investition, muss das Eigenkapital bei beiden Handlungen abgezogen werden.
+25mjx29okwf Mit B=15: U_H=0,8×25=20; U_L=0,4×25+6=16, vor Abzug von A=10. Bank=0,8×15−10=2. Nettogewinn des Unternehmers bei H=10.
+1rbzwlmhwd0 Eigenkapital verringert den Kreditbedarf; die geringere Rückzahlung lässt dem Agenten mehr vom Erfolgsgewinn.
+13kyxm5vu00 Bereits gezahlte Kosten heben sich beim Anstrengungsvergleich für einen gegebenen Vertrag auf, aber nicht im gesamten Nettogewinn aus der Teilnahme.
+1uh5rijmtr5 Ohne Eigenkapital und mit b=6: IC_H verlangt B≤40−6/0,4=25. Eine rentable Bank unter H verlangt B≥20/0,8=25; bei B=25 ist der Agent indifferent, also braucht H eine Gleichstandsregel.
+1vm95kne6zz Du ziehst dein Eigenkapital nicht nur dann ab, wenn du dich anstrengst: Du bringst es in beiden Szenarien vor der Wahl der Handlung ein.
+1mbiwzk92d7 Eigenkapital 10, Kredit 10, B=15, R=40, b=6: Welcher Bankgewinn, wenn der Unternehmer seine beste Anstrengung wählt?
+2cf99cfntel H ergibt 20 gegenüber 16 vor Eigenkapital, also H; Bank 0,8×15−10=2.
+29cuk22gutc Welchen Nettogewinn erzielt der Unternehmer unter H, Eigenkapital von 10 bereits eingerechnet?
+72zay5ykg1 20 ist der Gewinn vor Abzug des anfänglichen Eigenkapitals von 10.
+1zw3e8zyuqw Eine Strafe verändert die private Rechnung schlechter Qualität
+tl6g6jj6zd Der Reinigungsdienst erhält 110. Hohe Qualität kostet ihn 100, niedrige 70, aber eine Inspektion entdeckt den Qualitätsabfall mit Wahrscheinlichkeit 0,5 und löst eine Strafe F aus. Die Zahlung, die beiden Entscheidungen gemeinsam ist, bestimmt den Anreiz nicht: Vergleiche die Kostenersparnis mit der erwarteten Sanktion.
+1b7bjpbczkw H: Gewinn 10. L: Gewinn 40−0,5 F. Schwache IC: F≥60; H strikt vorgezogen für F>60, sofern die Strafe zahlbar ist und Risikoneutralität gilt.
+1bzr90jbyko L zu wählen spart 30; die Inspektion löst die Strafe nur jedes zweite Mal aus.
+1ghwedtbcz3 F=60 nimmt L im Erwartungswert 30 weg und gleicht seinen Gewinn dem von H an: Ohne zusätzliche Regel wählt das H nicht strikt aus.
+2vg7tpwrhj F = 60: L ergibt 40−30 = 10 = H. F = 70: L ergibt 5 < H = 10. Die Teilnahme ist noch mit der Außenoption zu vergleichen.
+8nw1sr0gz4 Du bist Dienstleister: Berechne die erwarteten Kosten des Schummelns, nicht nur den angegebenen Betrag der Strafe.
+1lpwsn9ty5t Kosten H = 100, L = 70, Entdeckungswahrscheinlichkeit 0,5: Welche Mindeststrafe sichert schwache IC?
+26w01tifnz1 (100−70)/0,5=60. Bei 60 herrscht Indifferenz; über 60 für eine strikte Wahl von H.
+fnh0dpz5cj 30 ist die Kostenersparnis; bei einer Entdeckungschance von eins zu zwei muss F doppelt so hoch sein.
+1i3bjdio240 Ist H bei F=60 strikt besser?
+1usv7db5y7j Nein, die Gewinne sind gleich
+1i0lg562yoh Ja, sobald IC erfüllt ist
+1l9zv03608h Eine schwache Ungleichung lässt Indifferenz zu.
+1k8fypkuqij Ein Erfolgsbonus bedeutet nicht automatisch einen Konflikt
+ampauqegkd Eine Führungskraft wählt zwischen zwei riskanten Projekten. Man könnte meinen, ein nur auf Gewinne gezahlter Bonus treibe sie zwangsläufig zum falschen Projekt. Berechne zuerst die Erwartungswerte: Mit den Zahlen der Prüfung ist das bevorzugte Projekt auch dasjenige, das den Eigentümern am meisten einbringt.
+2034vvexgld E2020: A bringt 100 mit 0,75 und 80 mit 0,25; B: 400 mit 0,75 und −160 mit 0,25. Bonus 1 % der positiven Gewinne, null bei Verlust.
+1lw0sfvesyn A ergibt Bruttogewinn 95, Bonus 0,95, netto 94,05. B ergibt Bruttogewinn 260, Bonus 3, netto 257.
+1bmd0etrbaz Bonus und Nettogewinn setzen B bei Risikoneutralität beide an die erste Stelle; die Daten allein belegen also keine Wahl gegen den Eigentümer.
+6xm5clzo6o B: 0,75×400+0,25×(−160)=260; Bonus 0,75×4+0,25×0=3; netto 257.
+1unm3yj1hp5 Du korrigierst deine Lösung: Ersetze „Boni verursachen zwangsläufig übermäßiges Risiko“ durch einen Vergleich der Entscheidungen in dieser Aufgabe.
+2dux383357m Was kann man mit diesen Zahlen und bei Risikoneutralität schließen?
+27q7ztm973l Ein Konflikt A/B ist bewiesen
+15js3igpeyb Die Führungskraft wählt B, und B maximiert auch den Nettogewinn von 257.
+2gbwugskl0c Die Entscheidungen stimmen hier überein, auch wenn andere Zahlen einen Konflikt erzeugen können
+utw3kuossq Der mögliche Mechanismus ersetzt nicht die Berechnung der gegebenen Gewinne.
+1pyy7vamibn Projekt B ergibt einen negativen erwarteten Gewinn
+u7inym9uto Die andere Partei kann den Vertrag nicht einfach an etwas knüpfen, das sie nicht kennt.
+251qbj1ly1 Ein gutes Auto verlangt einen anderen Preis; Anstrengung kostet den, der sie erbringt.
+ui4k2ckmad Jeder Agent wählt die Option, die seinen eigenen Gewinn maximiert, nicht die vermutete Rente.
+1wdj4k6kqxa Die verbleibenden Verkäufer ändern die Durchschnittsqualität; die tatsächlich induzierte Anstrengung ändert p.
+202a9adw8ql Ein Vertrag muss das in den Berechnungen verwendete Verhalten induzieren und von den Parteien angenommen werden.
+1wcc9e0l9p0 Ein verborgener Typ kann gute Autos bei einem Durchschnittspreis vertreiben: Das ist adverse Selektion. Verborgene Anstrengung reagiert auf die angebotene Bezahlung: Das ist Moral Hazard. Beim Kredit vergleicht der Kreditnehmer p_H(R−B) mit p_L(R−B)+b. Lässt B dem Kreditnehmer zu wenig vom Erfolg, kann L vorteilhafter werden; die Bank muss dann p_L verwenden, nicht p_H. IC garantiert die gewünschte Wahl, während IR einen Gewinn mindestens in Höhe der Außenoption verlangt. Beide sind notwendig.
+2fvkuyi082l Eine Information oder Handlung ist nicht beobachtbar
+bvzzg8xq57 Typen oder Handlungen verändern die privaten Gewinne
+6kn5cdxufq Der Vertrag wählt aus oder setzt Anreize
+o85nsg58ml Das Ergebnis ändert die Erwartungen oder die Erfolgswahrscheinlichkeit
+2fc2d4iz7dc Man prüft IC, dann IR und Rentabilität
+1joacmutdc Erkläre einem Freund den Unterschied zwischen verborgenem Typ und verborgener Anstrengung. Zeige am Kredit, warum „die Bank bekommt 30 zurück“ nicht reicht, und unterscheide dann IC und IR.
+80l7hnqlhp Die verborgene Information benennen
+176srikuz0d Typ/Qualität bei adverse selection, Handlung/Anstrengung bei moral hazard.
+27jyteurc6r Die Gewinne des Agenten vergleichen
+gil32y0ljp H und L müssen den Rest nach Rückzahlung und den privaten Nutzen enthalten.
+rbbgulogzk Die Anstrengung ableiten
+1hnxjrsrskc IC macht H mindestens so gut wie L; man setzt es nicht voraus.
+4udlmx2vdz Die wahre Wahrscheinlichkeit verwenden
+1wxc6qt6fjv Der Bankgewinn hängt vom tatsächlich gewählten Verhalten ab.
+19knkf5mnz7 Die Annahme prüfen
+1efpahtc3v IR vergleicht den Vertrag mit der Außenoption.
+28u5hnm97su Der verborgene Typ wählt die Teilnehmer aus; die verborgene Handlung ist eine vom Vertrag beeinflusste Entscheidung.
+zresp3p66q Schreib zuerst U_H und U_L auf. Die Bank darf p_H nur verwenden, wenn H tatsächlich induziert wird.
+1ylxra6pq5t IC vergleicht die angebotenen Handlungen oder Verträge; IR vergleicht die Teilnahme mit der Außenoption.
+1z0lthf0ilb Übung, rekonstruiert nach A6/L12/E2023; Rechnungen im Dossier geprüft. Fragen und Musterantwort sind didaktisch, keine offizielle Lösung.
+12pq4nz16pp H=0,8×10=8; L=0,4×10+6=10, hence L. Bank=0,4×30−20=−8.
+20qs10o2t9l H before equity 20>L=16. Entrepreneur 20−10=10; bank 0,8×15−10=2.
+1279ubhtnd2 Wer initiiert ein Signal?
+2a03fdtatro Die informierte Partei
+1v8rspx425b Sie wählt eine beobachtbare Handlung, die ihren Typ enthüllen kann.
+1exnbzvj1op Immer der Staat
+q23bzikh1t Das Signal kann ein Abschluss, eine Garantie oder eine Handlung eines privaten Akteurs sein.
+7e9rvnwm3k Was bedeutet IR in einem Vertrag?
+1s07nnd8kt5 Teilnahme im Vergleich zur Außenoption
+26iro88z2pu Individual rationality: annehmen, statt außerhalb des Vertrags zu bleiben.
+u3tkjjrjsk H strikt erzwingen
+1b21ynamnqa Das gehört zum Anreiz, mit Blick auf Indifferenzen.
+4th4ag8iis Baue die Auswahl der Autos neu auf.
+dbqhwsqxdm Durchschnittspreis auf Basis einer halb guten Qualität
+m6zyxiqtax Guter Verkäufer lehnt unter seinem Reservationspreis ab
+5l8ifj9yo5 Qualität der angebotenen Autos verschlechtert sich
+251vrykcxnj Käufer revidiert seine WTP anhand der verbleibenden Verkäufer
+1e4lutj2x26 In welcher Reihenfolge analysiert man einen Kredit mit verborgener Anstrengung?
+l37s7dqptk Die Gewinne des Kreditnehmers für H und L aufschreiben, privater Nutzen inklusive
+ad7lr2gfoq Die Gewinne vergleichen, um die tatsächlich gewählte Anstrengung zu finden
+17gwvmdc5qd Deren Erfolgswahrscheinlichkeit im Erlös der Bank verwenden
+43o6jux9m9 Auch Teilnahme und Annahmen bei Gleichheit prüfen
+1p2uox8xnmk R=40, B=30, p_H=0,8, p_L=0,4, b=2: Bankgewinn bei einem Kredit von 20?
+y20gx9dwpi H=8>L=6, also Bank 0,8×30−20=4.
+z75mo1thpn Private Ersparnis 30 und Entdeckungswahrscheinlichkeit 0,25: Mindeststrafe für schwache IC?
+1mebea9gav1 0,25 F≥30 ⇒ F≥120; Gleichheit = Indifferenz.
+px8b0c0nac Ein Handwerker mit Pauschale kann eine verborgene Qualität opfern, um Zeit zu sparen. Welcher Hebel zielt auf dieses Problem?
+14prz5t86b7 Eine Inspektion und eine von überprüfbarer Qualität abhängige Bezahlung
+1l3abxoxmla Das kann den Dienstleister die erwarteten Kosten zu niedriger Qualität tragen lassen.
+299p91lxdq5 Nur den Durchschnittslohn berechnen, ohne die Handlungen zu vergleichen
+1khzwmulxve Der gemeinsame Lohn zeigt nicht, welche Qualität der Handwerker wählt.
+i8m3itvkza Sagen, dass jede Pauschale immer schlecht ist
+26egwijlk7z Anreize, Zeit zu sparen, können nützlich sein; der Zielkonflikt muss behandelt werden.
+jjq8n3cmh2 Ein gut informierter Verkäufer bietet eine Garantie, deren Einlösung bei schlechten Produkten sehr teuer ist. Welche Logik kann dieses Signal glaubwürdig machen?
+qhoa5mpdly Der schlechte Typ gewinnt durch Nachahmung im Verhältnis zu seinen Kosten weniger
+vt0azbrsb4 Die Garantie muss je nach Typ unterschiedliche Entscheidungen erzeugen, nicht nur sichtbar sein.
+1kcezt4bkir Die Garantie ist beobachtbar, also werden alle Typen zwangsläufig enthüllt
+1ddmy2tgpjo Eine leicht nachahmbare Handlung trennt die Typen nicht.
+u14j6ys8ht Der Kunde hat ein Menü vorgeschlagen, also betreibt der Verkäufer Screening
+1dzy0044xjp In diesem Kontext geht die Initiative vom informierten Verkäufer aus: Es ist ein Signal.
+8kv59uxsbd Action conditional on signing
+1ink4m6dnvl Different choices by type
+27e0h87yfhz Both may pool
+j75i1gbp4r Bestimmen, wer was weiß, und verborgenen Typ, verborgene Handlung und gemeinsames Risiko unterscheiden.
+2gfit114393 Ein Kontextwort wie Versicherung wählt das Modell nicht für dich.
+1tlnksocb4d Prüfen, ob die Erwartungen über die Qualitäten den verbleibenden Verkäufern entsprechen.
+w8dz7z1gn Der Durchschnittspreis kann selbst die Zusammensetzung des Angebots verändern.
+1p52jm2b26q Die vollständigen privaten Gewinne vergleichen, bevor man die des Prinzipals berechnet.
+1k7pq1ag8fd Die Erfolgswahrscheinlichkeit hängt von der tatsächlich induzierten Anstrengung ab.

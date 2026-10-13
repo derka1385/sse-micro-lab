@@ -7,6 +7,7 @@ import { Checkpoint } from '../components/learning';
 import { ProvTags, Rich } from '../components/text';
 import { useProgress } from '../store';
 import { ArrowLeft, Check as CheckIcon } from '../components/icons';
+import { t } from '../i18n';
 
 export function Practice({ id }: { id?: string }) {
   const p = useProgress();
@@ -26,24 +27,24 @@ export function Practice({ id }: { id?: string }) {
   return (
     <div className="page">
       <header className="page-head">
-        <h1>Petits problèmes, un concept à la fois</h1>
-        <p className="lead">Chaque étape débloque un élément du graphique. Les erreurs typiques (oublier le ½, évaluer la taxe au mauvais point…) sont reconnues et expliquées.</p>
+        <h1>{t('Petits problèmes, un concept à la fois')}</h1>
+        <p className="lead">{t('Chaque étape débloque un élément du graphique. Les erreurs typiques (oublier le ½, évaluer la taxe au mauvais point…) sont reconnues et expliquées.')}</p>
       </header>
       <div className="lesson-list">
         {PROBLEMS.map((pr) => (
           <a key={pr.id} href={`#/practice/${pr.id}`} className="lesson-card link-card">
             <h3>{pr.title}</h3>
-            <p className="meta">{pr.steps.length} étapes{solved(pr) && <span className="status"> · <CheckIcon size={13} /> résolu</span>}</p>
+            <p className="meta">{t('{n} étapes', { n: pr.steps.length })}{solved(pr) && <span className="status"> · <CheckIcon size={13} /> {t('résolu')}</span>}</p>
             <p className="small"><Rich text={pr.context} /></p>
           </a>
         ))}
         <div className="lesson-card">
-          <h3>Nouveaux chiffres, même mécanisme</h3>
-          <p className="meta">Générateur</p>
-          <p className="small muted">Exercices construits (non tirés du cours), réponses entières.</p>
+          <h3>{t('Nouveaux chiffres, même mécanisme')}</h3>
+          <p className="meta">{t('Générateur')}</p>
+          <p className="small muted">{t('Exercices construits (non tirés du cours), réponses entières.')}</p>
           <div className="gen-row">
-            <button type="button" className="primary" onClick={() => newGen('positive')}>Externalité positive</button>
-            <button type="button" className="ghost" onClick={() => newGen('negative')}>Externalité négative</button>
+            <button type="button" className="primary" onClick={() => newGen('positive')}>{t('Externalité positive')}</button>
+            <button type="button" className="ghost" onClick={() => newGen('negative')}>{t('Externalité négative')}</button>
           </div>
         </div>
       </div>
@@ -61,7 +62,7 @@ function ProblemRunner({ problem, model, onNew }: { problem: Problem; model: Ext
   const checks: Check[] = problem.steps.map((s) => ({ kind: 'numeric', id: `${problem.id}:${s.id}`, q: s.q, answer: s.answer, tol: s.tol, unit: s.unit, dim: s.dim, tags: s.tags, explain: s.explain, traps: s.traps }));
   return (
     <div className="page">
-      <a href="#/practice" className="back"><ArrowLeft size={14} /> Pratique</a>
+      <a href="#/practice" className="back"><ArrowLeft size={14} /> {t('Pratique')}</a>
       <header className="page-head">
         <h1>{problem.title}</h1>
         <p className="lead"><Rich text={problem.context} /></p>
@@ -75,10 +76,10 @@ function ProblemRunner({ problem, model, onNew }: { problem: Problem; model: Ext
             ))}
             {next === -1 && (
               <div className="finish">
-                <p className="feedback good">Problème terminé. Refais-le demain sans regarder : c’est la deuxième réussite qui compte.</p>
+                <p className="feedback good">{t('Problème terminé. Refais-le demain sans regarder : c’est la deuxième réussite qui compte.')}</p>
                 <div className="row wrap">
-                  <button type="button" className="primary" onClick={() => onNew(model.kind)}>Un autre (nouveaux chiffres)</button>
-                  <a className="button" href="#/exam">Version examen</a>
+                  <button type="button" className="primary" onClick={() => onNew(model.kind)}>{t('Un autre (nouveaux chiffres)')}</button>
+                  <a className="button" href="#/exam">{t('Version examen')}</a>
                 </div>
               </div>
             )}

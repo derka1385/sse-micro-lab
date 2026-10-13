@@ -1,0 +1,207 @@
+urr9h5gslm An equilibrium requires both conditions to hold at the same pair.
+bfadtqwig9 An agreement that would improve both firms' profits may not be stable against an individual deviation.
+e1dt93goin With p = 70 − Q and MC = 10, q1 = q2 = 15 maximizes joint profit for Q = 30, but at q2 = 15 firm 1's best response is 22.5: the collusive pair is not a Cournot Nash equilibrium.
+bghrmyg5po You are firm 1: don't ask "do we all earn more?", ask "can I earn more by changing on my own?"
+27os33z2rgk To test Nash, a firm changes its quantity…
+1la1dt4cm4g Holding the other's strategy fixed
+syjb90gyhy We check a unilateral deviation from the pair under consideration.
+wldcv6tnyn While also imposing a new quantity on the other
+1exn4q1qp8x That would be a joint change, not a unilateral deviation.
+pxo3tvr6kx To maximize the two firms' total profit
+1k789ogx1mq Each firm maximizes its own profit.
+87ntp4og4 Two best responses on the same axes
+sgnjea3lro q1: firm 1's units
+1jt51kwfuk q2: firm 2's units
+1zn9mahf0vs p = 70 − q1 − q2, MC = 10. BR1: q1 = 30 − q2/2, so q2 = 60 − 2 q1 on these axes. BR2: q2 = 30 − q1/2. Nash (20,20); leader 1 (30,15) on BR2, not on BR1.
+ua3wfq6zrr BR1 rewritten: q2 = 60 − 2 q1
+1hput49hgi0 Each point gives firm 1's best quantity for the q2 considered.
+ex20j0fsac Each point gives firm 2's best quantity for the q1 considered.
+dlo4uv1d59 Cournot Nash
+isz2xm0tst 1 leads
+thjf3gp20a Building the quantity best response
+1wioenjbfqd Firm 1 knows that high output by its rival lowers the price for the whole market. It sells its own quantity at the price that depends on the total, but it pays only its own costs. For its Cournot best response, it treats q2 as fixed during this decision.
+2d3usb0nl72 p = 70 − q1 − q2; MC1 = 10; π1 = (60 − q1 − q2)q1. FOC: 60 − 2 q1 − q2 = 0; BR1 = max(0,30 − q2/2).
+28f7jeqtgfb Raising q1 adds a sale but lowers the price of the units firm 1 already sells.
+uzeu5nmiyy q2 affects the price, but its cost does not appear in firm 1's profit.
+utzzgdlfxa Quantity is bounded at 0: a negative linear reaction represents a corner, not negative output.
+1ktf7uh29aq If q2 = 10, BR1 = 25; if q2 = 20, BR1 = 20. A more active rival reduces firm 1's best volume: strategic substitutes in quantities.
+lf8qnil0j2 You run firm 1: don't plug total Q into your cost 30 q1; your employees don't produce firm 2's units.
+qrgz30bsxe BR1 = 30 − q2/2. If q2 = 10, what is the best quantity q1?
+1bl2xu4s3ft 20 is the symmetric equilibrium quantity when q2 is 20, not 10.
+280g399f7uy Rebuild firm 1's profit with constant MC c1 and FC1.
+13xjmrjeql0 The margin on its own sales, minus its own fixed cost.
+dvn4r9cp4l During firm 1's Cournot maximization, what do we do with q2?
+2bl7m1m3kyc Treat it as fixed to build BR1(q2)
+113r5i9l881 The reaction gives the best q1 for each possible value of q2.
+207h0njs852 Already replace q2 with the follower's reaction
+1m39lge40b5 That would be the sequential logic of the Stackelberg leader, not simultaneous Cournot.
+1gwuvca6qlz Impose q2 = q1 before differentiating
+ie7tkb9nmk Symmetry can help afterwards, but each firm controls only its own quantity.
+h33d6jgseu Two reactions, but a single axis convention
+dlrvg7h33j You want to draw both best responses in the same diagram. The horizontal axis represents q1 and the vertical one q2. Firm 2's reaction is already written that way, but firm 1's must be rearranged so its height also shows q2.
+2eiixu6h4qd BR2: q2 = 30 − q1/2. BR1: q1 = 30 − q2/2 rewrites as q2 = 60 − 2 q1. Don't draw the same slope twice.
+11a2ja757yv One equation can describe the same relationship in two forms.
+147tsrtmmfg BR1 cuts the horizontal axis at 30 and the vertical at 60; BR2 cuts the axes at 60 and 30.
+1kxohrfj1m Their intersection gives the two choices that are simultaneously optimal.
+yt8jpkrp45 At the point (20,20), both equations hold. The point (30,15) is on BR2 but not on BR1: useful for telling Stackelberg apart later.
+196e0x2ou As you start drawing, say out loud "horizontal q1, vertical q2" before placing the intercepts.
+hwo4vn2n6e Axes q1 horizontal, q2 vertical: when q1 = 0, what height does the rewritten BR1 line give?
+2fgwrmgzorr 30 is BR1's horizontal intercept, not its height at q1 = 0.
+1cyp2u785nn Solve the intersection, then price and profits
+ff10rqqm9c Both firms here have the same costs and the same options. At the intersection, each produces 20 and neither wants to change alone. The market contains 40 units; that total determines the price, while each firm's profit uses only its own 20 units.
+a3di3llqlg Symmetry q1 = q2 is a result of the same model with identical costs, not a property of every duopoly.
+nc44g5f773 The price depends on q1+q2; firm i's profit depends on qi.
+pldfrqcfqe At q2 = 20, BR1 = 20: the individual stability condition holds.
+qfut55ohip Putting Q = 40 into π1 = (p−10)q1 would give 800, the two firms' profit together, not firm 1's.
+28em9bjfdrz You write four separate lines: q1, q2, total Q, then p and π1. This keeps the firm and market levels apart.
+1npnt7tsx3t q1 = q2 = 20 and p = 70−Q: what price?
+jqj3op6eqi 50 forgets the other firm's 20 units.
+1kf6v1zvv61 p = 30, MC = 10, qi 20, FC = 0: each firm's profit?
+1bqo3myn7sq 800 uses the total of 40 in a single firm's profit.
+vsjxf1rsq4 Different costs give different volumes
+1osyb0cr17o Blue can produce at cost 0 while Red pays 10 per unit. Blue has more reason to add units, which lowers the price and discourages some of Red's sales. The less efficient rival stays active here, but the shares are no longer equal.
+dlirkq70rn p = 70−Q, cBlue 0, cRed 10: qBlue = (70−2×0+10)/3 = 80/3; qRed = (70−2×10+0)/3 = 50/3; p = 80/3.
+x3vwfpekwe The reaction functions change with the cost of the firm concerned.
+27ojid4hwbj The new equilibrium then includes the rival's adjustment, even though its own response function is unchanged.
+l5tk5gfw2j If an interior solution gives qi<0, you must solve for a corner and check the other best response.
+19zpd2zlv53 Blue 26.667, Red 16.667. Another case: c1 = 10, c2 = 50 gives a negative interior formula for firm 2; the valid corner is q1 = 30, q2 = 0, p = 40≤c2.
+18htbxlkke1 You see a large market share: ask whether it comes from low costs rather than concluding that the firms must produce equal amounts.
+cm8u0b5f8b p = 70−Q, cBlue 0, cRed 10: Blue's quantity? Round to 0.01.
+1s40i5x5oc8 (70−2cBlue+cRed)/3=80/3.
+sl3zz1hb0y 20 imposes the old symmetric costs.
+g9923kj8qv An interior formula gives a negative q2. What should you do?
+13zt5klv958 Solve with q2 = 0 and check the best responses
+20zknoc72f0 The economic domain requires non-negative quantities.
+24gseez4lil Keep the negative quantity
+8r04ovn42r A firm cannot produce a negative quantity.
+1aze921td68 Just replace the sign with the absolute value
+7lgqhiex5j That no longer solves the choice conditions.
+16xoi7se3l A per-unit tax pulls both reactions back
+n2yo14c1ev Take the two firms in the market p = 70 − Q again, each with a cost of 10 per unit. The state now levies 6 per unit sold on each. For each firm, the next unit costs 16: whatever the rival's quantity, it is better off producing less. Since both reason the same way, each also sees the other cut its sales, which leaves it a little room.
+i31zf65ho7 Effective cost c = MC + t = 16. π1 = (70 − q1 − q2 − 16)q1 ⇒ BR1 = 27 − q2/2, instead of 30 − q2/2. Both reactions shift toward the origin; symmetric Nash q = (70 − 16)/3 = 18, Q = 36, p = 34.
+5x65zjjtz8 The tax acts as a per-unit cost: it reduces the margin on each unit, whatever the rival's quantity.
+gutbvtaok3 In the (q1, q2) plane, each reaction shifts back in parallel: for any quantity of the other, the firm produces 3 less.
+10wep0uook The price rises from 30 to 34, i.e. 4 of the 6 tax: part of the tax comes out of both firms' margins.
+5pg84kr2ez Without tax: q = 20 each, p = 30, profit 400. With t = 6: q = 18, p = 34, profit (34 − 16) × 18 = 324; tax revenue 6 × 36 = 216.
+1qdodfsggsx You run firm 1: for a given q2, you sell 3 units fewer than before. But your rival does the same, which leaves you a bit more demand: in the end, you only cut by 2.
+1qfj0roxsxq Tax 6, effective cost 16, p = 70 − q1 − q2: if q2 = 18, what is firm 1's best quantity?
+g6buq1ud1m 21 uses the old reaction 30 − q2/2: the tax is part of the firm's cost.
+1cj8xyf2i9x Nash with tax: q1 = q2 = 18. What price?
+1rk12u2kynp 30 is the price without the tax.
+247ot3nz4db 36 is the total quantity, not the price.
+q3dt0e4o40 How does the tax shift the reactions in the (q1, q2) plane?
+1huv8cwf6ax Both move toward the origin, in parallel
+518sgk5t7d For any rival quantity, each firm produces 3 less: BR = 27 − qj/2.
+z2p9tflhut Only one firm's reaction moves
+mc8nemgetp Both firms pay the tax: both reactions move.
+28mmnwhkuct They move away from the origin because the price rises
+13uw0r0wff2 The price rises because quantities fall, not the other way around.
+uwbhwagpo5 A tax of 6 per unit, paid by both firms
+2ee081axghk p = 70 − q1 − q2, MC = 10, then a tax of 6: effective cost 16. Each reaction shifts back by 3 for any rival quantity: BR = 27 − qj/2. Nash moves from (20, 20) to (18, 18). This is the diagram asked for in E2022 Q3e.
+o2xg7fbrgn BR1 without tax: q2 = 60 − 2 q1
+6aarhxs8vm Firm 1's best quantity for each q2, cost 10.
+trpr4iw3xa BR1 with tax: q2 = 54 − 2 q1
+1ofqrp2s59m Same reasoning with a cost of 16: 3 units fewer for each q2.
+1yxoezvlvky BR2 without tax: q2 = 30 − q1/2
+23j47npzz9i Firm 2's best quantity for each q1, cost 10.
+o7w67qqmze BR2 with tax: q2 = 27 − q1/2
+233wbmi9i3p Firm 2 also pays the tax: its reaction shifts back by 3.
+19km7tb6bs8 Nash without tax
+q6vuos3kpm Nash with tax
+2cpss1bptex Fixed costs affect the accounts, then possibly entry
+q47pv23qfq One firm pays higher rent than its rival. As long as this payment is unavoidable and both stay active, it doesn't change what an extra unit costs. They can therefore produce the same volumes and still have different profits.
+13f6200u5eg At p = 30, qi 20, MC = 10: variable profit 400; with FC = 100, π = 300; with FC = 500, π−100. Short-run shutdown and long-run entry are not the same choice.
+1yrv1ckqgtj FC disappears from the derivative with respect to qi.
+1d3tuxk9gtr If producing creates 400 of variable gain, producing with FC = 500 loses 100 instead of losing 500 by shutting down, when FC is sunk.
+gh3fznz39t If the cost can be avoided by not entering, the earlier decision may be not to enter.
+1u5z1mzjaka E2021: same MC = 8, but FC = 100 and 50; quantities of 8 each, price 24, profits 28 and 78. The difference of 50 in profit comes from fixed costs.
+14w37tm5ozk You're a manager: distinguishing "not opening the plant" from "producing today after already paying" changes the benchmark.
+m3z3f6ui5p Variable profit 400, fixed cost 500 already sunk: shutting down would lose 500. Producing gives π−100. Which choice maximizes current profit?
+2npz0objg1 Produce
+24mzx3l1rsj −100 is better than −500; the variable gain of 400 covers its variable costs.
+9vzoa0caw2 Shut down, since any negative profit forces a shutdown
+27pg9lrwtb8 You're forgetting the unavoidable loss even without production.
+1u6jc9294f7 Produce only if FC becomes 0
+p6hvpyxzjs The fixed cost already paid cannot be avoided by this current choice.
+1gqadopsiit Adding a firm intensifies quantity competition
+1coqtx16nka An extra firm adds supply. Each of the existing ones responds by cutting its own volume, but this cut doesn't fully offset the arrival. In the symmetric model with no change in costs, the total rises and the price falls.
+vhwl1ptqq p = a−bQ, MC = c, n firms: qi = (a−c)/[b(n+1)], Q = nqi, p = (a+nc)/(n+1). Here n3 gives qi 15, Q = 45, p = 25.
+13foscqxhkl Each firm controls a smaller share of the scarcity effect that supports the price.
+p9v59i1uan As n increases, qi decreases but nqi increases.
+ec3c3autil A merger without synergies reduces n and tends to raise the price in this model; changed costs or products require another analysis.
+ico8rjevpr n2: Q = 40, p = 30; n3: Q = 45, p = 25; limit n → ∞: Q = 60, p = 10. Three firms do not automatically mean perfect competition.
+283twvlhjph You're assessing a merger: state "costs unchanged" before applying the comparison by number of firms.
+162gbbz4dsn p = 70−Q, MC = 10, n3 identical firms: how much does each produce?
+cgar9jdpgn 20 corresponds to the duopoly, with n+1 = 3.
+fs0c9gwahy 45 is the total of the three firms.
+261zgqoduz3 Same demand and same cost, different rules
+gtkdpurany Total units: p = 70 − Q, MC = 10, FC = 0
+iktdxhbknl Comparing these models requires keeping the same costs and demands. Cournot 3 and Stackelberg 2 both give Q = 45 here, but not the same split between firms.
+1r3zg0ybji1 Joint monopoly
+2fkts3m861p MR = MC; price 40.
+8xrm233agr Cournot 2
+zfi9oetdv0 Two simultaneous quantities; price 30.
+bqwejyqw98 Stackelberg 2
+27rbwiw4wm9 Leader 30, follower 15; price 25.
+8lam6xr1gm Cournot 3
+6jp1vl12vb Three firms at 15; price 25.
+15k7i5br1qi Homogeneous Bertrand
+2d2kriccppu Price equal to MC = 10 if capacities are sufficient and costs identical.
+28vt86q5fyk A leader chooses while anticipating the reaction
+xfmcyg8xa Firm 1 commits to its quantity before firm 2. The second will observe this quantity and choose its best volume. The leader knows this reaction: when it changes its commitment, it knows the follower will change too, so it can no longer treat q2 as constant.
+2dm0je8wbtk BRF(qL) = 30−qL/2. Substituting into πL = (60−qL−qF)qL gives πL = (30−qL/2)qL; FOC = 30−qL = 0 → qL = 30, qF = 15.
+14blqi379k9 The follower optimizes after observing, so its reaction is a constraint the leader anticipates.
+23r30yapi6y The leader chooses along this reaction, not at the intersection of the two simultaneous reactions.
+2brefw4bk59 Forgetting dqF/dqL would take you back to Cournot reasoning and miss the commitment.
+1o8mkwriu2y Q = 45, p = 25; πL = (25−10)×30 = 450; πF = (25−10)×15 = 225. The pair (30,15) lies on BRF but not on the Cournot BRL.
+tc3otvdhru You choose first: a large, credible output discourages some of the volume your rival will add afterwards.
+rnmxvsl20t The leader chooses 30 and BRF = 30−qL/2: the follower's volume?
+26th2e80zvq 20 belongs to the simultaneous Nash, not to this observed leader choice.
+ynybqo8zpd Put the sequential solution back in order.
+65ler1c18n Solve the follower's best response
+1b4v4gudgzb Substitute it into the leader's profit
+10b9nl8k4fp Maximize the leader's profit, anticipating this reaction
+13sfbp2iagv Recover the follower's choice, then price and profits
+chiylbwxmf Solve the follower's best response → Substitute it into the leader's profit → Maximize the leader's profit, anticipating this reaction → Recover the follower's choice, then price and profits
+27rvbh5q8ap Same environment, but different outcomes
+m78jnb9qde A joint monopoly would limit the total to support the price. Two firms choosing simultaneously produce more because each wants to win sales. A quantity leader commits even further; here that benefits customers but reduces the follower's profit.
+9br33qdw9z With p = 70−Q, MC = 10, FC = 0: monopoly Q = 30, p = 40; Cournot Q = 40, p = 30; Stackelberg Q = 45, p = 25; efficient benchmark Q = 60, p = 10.
+18fjhseo70i The leader's commitment changes the anticipated reaction, so it changes the outcome without changing customers' preferences.
+op91mwz20w The leader earns 450 instead of 400; the follower 225 instead of 400.
+1q4jtopds29 This first-mover advantage is a result of the quantity game, not a universal law of all sequential games.
+27rfh159b3a Cournot 3 and Stackelberg 2 both give Q = 45, p = 25 here; the individual volumes 15/15/15 and 30/15 remain very different.
+9qkomdf6iy You're comparing two answers: keep the same a, b, c before concluding that one model gives a higher price.
+2fa3lxjguzr The leader earns more in quantity Stackelberg here. Does that prove a first-mover advantage in every pricing game?
+2qhch8nz4p No: the strategic variable and the reactions change
+wo0pp7iwiw Price leadership can favor the follower even more, as in E2024.
+1dhfbwnqfrn Yes, "first" is enough
+1zpzudxur9g Timing alone does not determine profits.
+27u5ggzlehh No, because the leader earns less here
+2atvrcuye88 Here 450>400: the result is true but specific.
+2bmxb1qs44h Homogeneous Bertrand: why undercutting destroys the margin
+149tatv8akr Customers find the products identical and buy the cheapest. If both firms with cost 10 charge 12, one can charge just less and attract the whole market with a positive margin. At 10, undercutting would make it lose money on every unit.
+13d755qh3ra Homogeneous products, identical constant MC, at least two firms, sufficient capacity and continuous prices: Nash p = MC. Here p = 10, Q = 60 and zero variable margin.
+28h7zqogr47 A small price cut can shift almost all sales rather than a small marginal volume.
+qurugi23fk p>MC allows profitable undercutting; p<MC creates a loss per unit.
+1g0yfolub57 Capacity, differentiation, search or repetition can change the outcome: the assumptions must be checked.
+1xg0i9kq8vr At price 12, a firm offers 11.99 and can serve the entire demand of 58.01; the margin of 1.99 makes this deviation attractive under these assumptions.
+252fmhk13e2 You sell exactly the same product next to your rival: why would a customer pay 12 at your place if they can pay 11.99 elsewhere?
+169fd52wpb1 Two identical firms, homogeneous good, MC = 10, unlimited capacity: Bertrand price?
+23b4fdvhc20 At p = 10 no profitable undercutting remains; p>10 invites deviation.
+2buardn51ak 30 is the Cournot price for this environment.
+1at1wo82605 Selling below MC = 10 would lose money.
+gnvazrh4mi If the cheaper rival can serve only a small share of customers, the reasoning "it captures the whole market"…
+251m1ryrh5l Must be reconsidered
+2g7e58kdhad Insufficient capacity breaks an essential assumption of the p = MC result.
+267w87zev6y Remains exact by definition of Bertrand
+2csw3i0hh8u The name of the game does not provide unlimited capacity.
+opzah6ttoy Proves that the products are differentiated
+no3j98hcir A capacity constraint can exist with identical products.
+25bv3cgxc1v Bertrand with different costs: a margin can survive
+1mt1y2o5fpl The most efficient seller can lower its price until it deters a costlier competitor without reaching its own cost. Its limit depends on the best rival still able to supply, not automatically on its own MC. Price ties also require specifying how customers are shared.
+1nglejy2bcb E2024: demand 10−Q and MC = 5, 7, 8. The most efficient firm is limited around 7; writing 7−ε may be appropriate with equal sharing at identical prices. Its stand-alone monopoly price would be 7.5.
+185fu1welyf Below 7, the MC = 7 firm cannot compete with a positive margin, while the MC = 5 firm keeps a margin close to 2.
+ikgr0hyec7 Above 7, the rival can become profitable and undercut.
+3ichwkfnpf With continuous prices and equal sharing at ties, announcing exactly p = 7 as a pure Nash equilibrium requires justification; the limit alone does not prove existence.
+1nscbzu1pm5 At 7−ε, the MC = 5 firm sells about 3+ε units; margin about 2−ε. The MC = 8 rival is not the most binding competitor.
+1ksf4882tlj You observe a margin in a homogeneous market: check whether costs are really identical before declaring the model wrong.

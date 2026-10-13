@@ -1,0 +1,212 @@
+25ly7ey3zjm La domanda è uguale al danno totale
+21vjy4csdpb MPB misura il valore privato marginale, non i danni.
+16vwn5591d8 La perdita viene dalle unità in eccesso
+198w0demy9x Le prime 30 unità restano socialmente utili. La perdita di efficienza viene dalle unità tra 30 e 45: ciascuna costa alla società più di quanto valga. Si somma solo questa differenza sull’intervallo in eccesso, non tutti i danni di tutte le unità.
+2f45bvfyw9f DWL = area tra MSC e MSB da Q* a Qm. Le curve sono lineari: {{DWL = ½ × (45 − 30) × 45 = 337,5}}.
+igix0dufw5 Il danno totale include unità il cui beneficio giustifica ancora la produzione.
+1hdmh5w8kdk La DWL confronta il benessere ottenuto con quello della migliore quantità realizzabile nel modello.
+y0kjfdyz22 A Q = 45, MSC − MPB = 100 − 55 = 45; a Q = 30 questo scarto è nullo. Da qui il triangolo.
+1obhpz0qo74 Danno totale 1.012,5 e DWL 337,5 non rispondono alla stessa domanda.
+1nackaxw0wc Eliminare tutta la benzina eliminerebbe anche spostamenti molto utili. L’efficienza chiede di eliminare le unità il cui costo totale supera il valore.
+15xgxpd2ld4 Confronta le aree EXT e DWL. Una misura tutto il danno; l’altra solo la perdita netta evitabile dovuta a Qm > Q*.
+23uryg4sk3q Triangolo tra 30 e 45, altezza finale 45: quale DWL?
+22cl2jwbbi1 Perché qui la DWL è più piccola del danno totale?
+24wg6t0uxag Perché i danni dei residenti non contano
+19phomicign Contano interamente in MSC e nel benessere.
+zmizyt23hh Alcune unità inquinanti restano socialmente utili
+nvtalpfdq3 Il loro beneficio supera il loro costo sociale; appartengono a Q*.
+zj28d0rcqt Un’imposta cambia ciò che decide il conducente
+1ou8zf0krmt Lo Stato può far pagare un importo per litro. Il conducente paga allora più di quanto riceve il distributore. Questo scarto riduce la quantità scelta: un litro che sembrava conveniente al prezzo privato può smettere di esserlo con l’imposta.
+miafmm37f2 Cuneo fiscale: pb − ps = t, con pb = MPB(Q), ps = MPC(Q). Equilibrio: MPB = MPC + t.
+15g3dlaq9c3 Gli acquirenti decidono in base a ciò che pagano realmente, pb.
+1g26l93ljhh I venditori decidono in base a ciò che ricevono, ps.
+1rxsqvjyr3z L’imposta collega queste due decisioni: pb = ps + t. Chi versa formalmente l’imposta non ne sostiene per forza tutto il carico economico.
+12cd9l9hwsy Con t = 20: 100 − Q = 10 + Q + 20 ⇒ Q = 35. pb = 65; ps = 45; 65 − 45 = 20.
+1iwcr2ve9hf Non confronti più il valore del tuo litro con i 45 ricevuti dal distributore, ma con i 65 che sborsi.
+1f4ft6xnyp2 La curva MPC + imposta fissa la decisione privata dopo l’intervento. L’imposta di 20 non coincide ovunque con MSC.
+2gg8iftzlth Con un’imposta di 20, quale quantità viene scambiata?
+bnwcix83l6 A Q = 35, quale prezzo paga il conducente?
+1q4r3avtt4 Quale prezzo netto riceve il distributore?
+2g0elkgs1nj Un miglioramento non è per forza l’ottimo
+10vxnvcyl2o L’imposta di 20 toglie dieci unità in eccesso, ma il mercato resta a 35 invece di 30. A 35 il danno marginale è 35, superiore all’imposta. L’ultima unità resta troppo economica rispetto al suo costo sociale.
+uq2bireerh DWL residua: ½ × (35 − 30) × [MSC(35) − MPB(35)] = 37,5.
+1lr6nxeda4s Bisogna confrontare la quantità dopo l’imposta con Q*, non solo constatare che è scesa.
+zg3z4g1hl9 Tra 30 e 35 il costo sociale supera ancora il valore.
+2crrla1sa8q Il gettito fiscale è un trasferimento allo Stato; di per sé non è una distruzione di risorse.
+1ijnuco3e97 A Q = 35, MSC = 80 e MPB = 65: altezza 15, base 5, quindi DWL = 37,5. Gettito fiscale = 20 × 35 = 700.
+13skzympsav Puoi dire «è meglio» confrontando 337,5 con 37,5, poi «ancora insufficiente» osservando Q > 30.
+1pqq40xovd4 Il piccolo triangolo residuo è la perdita evitabile. Il rettangolo del gettito fiscale è un trasferimento.
+1scvmseen6l Dopo un’imposta di 20, base 5 e altezza 15: quale DWL resta?
+1b699pheeoa I 700 di gettito fiscale sono automaticamente una DWL?
+1o33b6ta70e Sì, ogni pagamento d’imposta scompare
+24dy3gzgrkx Il denaro lo riceve lo Stato; non evapora.
+s29rvfmqqt No, è un trasferimento contato presso lo Stato
+24xe7ki6oti Per calcolare W, somma CS + PS + gettito, poi sottrai il danno reale.
+8dan6r9lzd Perché l’imposta corretta vale 30, non 45
+1e3w2pr7awr Vuoi che le decisioni private si fermino esattamente alla quantità efficiente, 30. Bisogna quindi far pagare il danno del litro in quel punto. Un’imposta di 45 riprenderebbe il danno del vecchio mercato; farebbe scendere troppo la quantità.
+1p43p3uydbo Imposta pigouviana {{t* = MEC(Q*) = 30}}. A Q*: pb = 70, ps = 40, scarto = 30. Questa regola presuppone un mercato altrimenti concorrenziale e un’esternalità non già internalizzata.
+1c3nz84x22z Dopo l’imposta la quantità cambia: cambia anche il danno marginale.
+17d5f7jqjlo Si sceglie quindi prima Q* con MSB = MSC, poi si valuta MEC in Q*.
+48egi8bw63 Un’imposta di 30 allinea l’incentivo marginale nel punto obiettivo; non è necessario che MPC + 30 coincida con MSC a tutte le quantità.
+15sytsvcjba t = 30 dà 100 − Q = 10 + Q + 30, quindi Q = 30. Gettito = 900; DWL = 0 in questo modello.
+i1gjbgkkt5 Fissi il prezzo dell’effetto esterno per l’ultimo litro che la società vuole tenere, non per l’ultimo litro del vecchio pieno.
+fs1lkzrxpb Prova 20, 30 e poi 45 sulla politica. L’obiettivo è allineare Qp a Q*, non rendere l’imposta più alta possibile.
+1598p30xrt2 MEC = Q e Q* = 30: quale imposta ottimale?
+2fw19ptz14q In t* = MEC(Q*), dove valuti MEC?
+atwm9e180a Sempre alla vecchia quantità privata
+4xt8zycbod Questa quantità è proprio quella che l’imposta modificherà.
+78rxm81d0l Alla quantità socialmente efficiente
+2bgiq1jqwu8 È il punto in cui l’incentivo privato va allineato.
+157batntzxr Se l’asse cambia, il tuo ragionamento deve accorgersene
+hj4ehipspc Un’impresa può ridurre le emissioni senza per forza ridurre altrettanto la produzione. Qui l’asse conta le emissioni restanti e. Andare verso sinistra significa disinquinare di più. Le prime riduzioni sono facili; le ultime costano di più. Per questo MAC scende quando leggi il grafico verso destra.
+2ug73td5dm MAC = costo marginale di abbattimento. L11: MAC = 10 − e, MEC = e/2. Con l’imposta, l’impresa sceglie MAC = t; la società sceglie MAC = MEC.
+t6akyzkay2 Una riduzione delle emissioni evita MEC di danno ma costa MAC in risorse.
+1usu7wt1uit Conviene ridurre finché il danno evitato supera il costo della riduzione.
+1zmicrh8jpv Tassare le emissioni fa risparmiare t su ogni unità eliminata: l’impresa riduce fino a MAC = t.
+2gom9nb5xtq Imposta 2: 10 − e = 2 ⇒ e = 8. Ottimo: 10 − e = e/2 ⇒ e = 20/3, imposta = 10/3. Un’imposta sulla produzione è equivalente solo se le emissioni per unità sono fisse.
+mc4xb1tk78 Cambiare caldaia può evitare inquinamento senza chiudere la tua fabbrica. Verifica quindi se ti si chiede una quantità prodotta o una quantità emessa.
+sojwgfd06i Attenzione: l’asse misura l’inquinamento restante
+2fibds4nmkh e, emissioni restanti
+2827vj9qt51 € per unità evitata
+1frpa6y51cp L11: MAC = 10 − e, MEC = e/2. Più vai a destra, meno hai già ridotto l’inquinamento. Il punto MAC = MEC dà e = 20/3.
+2bupwtx2wyb Costo per eliminare un’unità di emissione in più, a partire dal livello e.
+uxlftyuybm Danno evitato eliminando questa unità di emissione.
+tgpczr4kxl Ottimo: e = 6,67
+20x8hk3r3kg MAC = 10 − e. Con un’imposta sulle emissioni t = 2, quale livello di emissioni sceglie l’impresa?
+5ph1rflclx emissioni
+hf02nhi9ww Risolvi 10 − e = e/2 per le emissioni efficienti.
+b86mk9i517 Stesso tetto, ripartizioni diverse dello sforzo
+1xn8szkxb16 Due stabilimenti devono ridurre in totale le emissioni. Il primo può disinquinare a basso costo; il secondo ha un impianto difficile da adattare. Chiedere a entrambi esattamente lo stesso sforzo spreca risorse: il primo può ridurre di più, vendere permessi ed evitare al secondo le riduzioni più costose.
+1gxl12zqj7 Con scambi senza attriti e soluzioni interne, i permessi uguagliano i MAC al prezzo del permesso. Il tetto fissa le emissioni totali; l’allocazione iniziale distribuisce le rendite.
+6ep3rdx4n6 Quando i MAC differiscono, spostare un’unità di abbattimento verso l’impresa meno costosa riduce il costo totale.
+1pqrhn2g52x Lo scambio resta profittevole finché il costo risparmiato supera la compensazione necessaria.
+28dgzpj48si A MAC uguali, nessuno spostamento marginale riduce ulteriormente il costo totale per lo stesso tetto.
+1plnvsat25c Esempio costruito: MAC_A = 4 e MAC_B = 10. Far ridurre ad A un’unità in più permette a B di ridurre un’unità in meno: risparmio netto 6, prima dei costi di scambio.
+16cta04wqpu Se puoi eliminare una tonnellata per 4, puoi vendere un permesso a più di 4 a un’impresa che avrebbe speso 10 per quella tonnellata.
+1j8iq0c6vo0 Quanto costa, e dove, la prossima tonnellata evitata?
+1pe5y6zx86y € per tonnellata
+rt10rmvmqx Esempio costruito per mostrare uno scambio marginale; non sono i costi totali di due stabilimenti reali.
+kmaimp2f22 Stabilimento A
+210s2pobwkm Un po’ più di abbattimento costa 4.
+k9tirjq61x Stabilimento B
+16afpvpdci3 Un po’ meno abbattimento fa risparmiare 10.
+2bmet6i4isx A riduce a 4, B a 10. Quale spostamento dello sforzo riduce i costi?
+aay3spfemr B disinquina di più perché ha il MAC più alto
+1mcm99sjrou Sposteresti lo sforzo verso l’impresa più costosa.
+1ihsnav4hna A disinquina di più; B disinquina di meno
+3whqvatyy8 La stessa tonnellata evitata costa 4 invece di 10.
+13arocddfvj Quote identiche sono sempre le meno costose
+8lwv7oeuoi Non tengono conto dei MAC diversi.
+1dv13fal0p9 Quale risparmio di costo per una tonnellata spostata da B ad A?
+jmclkxj1jw 10 risparmiati da B − 4 spesi da A = 6.
+8h0s3ttbkp Imposta o quota, quando nessuno conosce il costo di disinquinare
+1prw0o30igc Lo Stato deve scegliere lo strumento prima di sapere quanto costerà agli stabilimenti ridurre le emissioni. Con un’imposta fissa il prezzo dell’inquinamento: ogni stabilimento riduce finché la tonnellata successiva gli costa quanto l’imposta, quindi la quantità di emissioni dipende dal suo costo vero. Con una quota fissa la quantità: le emissioni sono note, ma il costo per arrivarci no. Se ogni tonnellata in più provoca danni che salgono molto in fretta, sbagliare la quantità costa caro: la quota protegge meglio.
+yai546zvjc Scelta dello strumento in condizioni di incertezza («prices versus quantities»): con un [[MEC]] molto ripido e un [[MAC]] incerto, l’errore di quantità di un’imposta crea una grande perdita; la quota fissa e e limita questa perdita. Se MEC è piatto e MAC ripido, vale l’inverso: l’imposta evita un costo di adeguamento eccessivo. È un argomento di pendenze relative, non una regola generale.
+aahl2scaon Un’imposta garantisce il prezzo della tonnellata evitata, non il numero di tonnellate: se disinquinare costa più del previsto, gli stabilimenti inquinano di più.
+enwa6hu67n Una quota garantisce il numero di tonnellate, non il costo: se disinquinare costa più del previsto, gli stabilimenti pagano caro per rispettare il tetto.
+a0b5twhfg9 Quale dei due errori costa di più dipende dalle pendenze: quando il danno marginale sale in fretta, ogni tonnellata in più è molto costosa, quindi si preferisce fissare la quantità.
+bbhiowkfw8 Esempio costruito: MEC = 3e e MAC attesa 10 − e ⇒ e = 2,5 e t = 7,5. Se in realtà MAC = 12 − e, l’ottimo diventa e = 3. L’imposta 7,5 lascia e = 4,5: perdita ½ × 1,5 × 6 = 4,5. La quota 2,5 si scosta solo di 0,5: perdita ½ × 0,5 × 2 = 0,5.
+1h9yyvnyzqw Consigli il governo tedesco (E2021 Q1d): il danno del carbone sale in fretta e il costo di disinquinamento è poco noto. Scegli lo strumento che evita il grande errore, qui la quota, e lo giustifichi con le pendenze.
+95tb6ncy9d Il vero costo di disinquinare si conosce solo dopo la scelta
+1gbbtrh2whm Esempio costruito. MEC = 3e sale in fretta; MAC attesa 10 − e, ma si rivela 12 − e. Previsto: e = 2,5 e t = 7,5. Vero ottimo: e = 3. L’imposta lascia e = 4,5 (perdita 4,5); la quota resta a 2,5 (perdita 0,5).
+1m6k6vxbi5i MAC attesa: 10 − e
+9hvbqre841 Quanto lo Stato crede che costi evitare la tonnellata successiva.
+1ijl3owisz1 MAC reale: 12 − e
+22bw15k4la0 Il vero costo, scoperto dopo la scelta dello strumento: disinquinare costa più del previsto.
+4hg4wmcug0 Il danno della tonnellata successiva sale in fretta: una tonnellata in più costa ai residenti sempre di più.
+1ryt7rintmw Imposta t = 7,5
+2b01fxj5fr8 L’imposta fissa il prezzo dell’inquinamento: l’impresa inquina fino a MAC = 7,5, qualunque sia il suo costo vero.
+vaqo2m45tm Quota e = 2,5
+unn4aepnps La quota fissa la quantità: 2,5, qualunque sia il costo per arrivarci.
+ijlohemiz1 Vero ottimo: e = 3
+1u1o4reilg8 Imposta: e = 4,5
+1hih1p6ofcs Danno marginale molto ripido, costo di disinquinamento poco noto. Quale strumento limita meglio la perdita?
+d9r7zdiq8q Un’imposta, perché è sempre più efficiente
+8iutmeyn5n In condizioni di incertezza nessuno strumento vince sempre: tutto dipende dalle pendenze.
+rkcswzr9ea Una quota (tetto alle emissioni)
+270e5w3wj4b Fissa la quantità: si evita l’errore costoso di inquinare troppo.
+2f6l8a9htjr Non importa: imposta e quota danno sempre lo stesso risultato
+1qv4mvj423w Coincidono senza incertezza; con incertezza, una fissa il prezzo, l’altra la quantità.
+21wdyq656by MAC reale 12 − e e imposta 7,5: quante emissioni mantiene l’impresa?
+gx32972zxc 12 − e = 7,5 ⇒ e = 4,5, invece dell’ottimo 3.
+1n0gl9uvpyr Negoziare può internalizzare, a condizioni precise
+fgh8cg8d3c Se uno stabilimento e il suo vicino possono negoziare facilmente e sanno a chi spetta il diritto di inquinare o di esigere aria pulita, possono spartirsi il guadagno di una riduzione utile. Ma centomila vittime, misure contestate e contratti costosi possono impedire questo accordo.
+1z9r3mpyjr0 Coase: diritti definiti e costi di transazione nulli permettono un’allocazione efficiente sotto le ipotesi del teorema. L’attribuzione dei diritti cambia i pagamenti e la distribuzione.
+18iuwt4sr51 Se evitare un danno vale più di quanto costa la riduzione, c’è un surplus da spartire.
+2dlx1ah948r Il diritto iniziale determina chi deve pagare per ottenere il cambiamento.
+19you3kf3q8 I costi di misura, coordinamento e contratto possono superare il surplus e bloccare l’accordo. Una fusione che crea un monopolio può anche introdurre un’altra distorsione.
+erf1aqjuiw Ridurre il rumore costa 20 al laboratorio e vale 50 per il vicino. Una compensazione tra 20 e 50 rende la riduzione vantaggiosa per entrambi, se il diritto iniziale spetta al laboratorio.
+18rr7c5p9oy Pagheresti fino a 50 per dormire meglio. Il laboratorio accetta da 20. Ma senza un diritto chiaro o un contratto applicabile, questo guadagno possibile non garantisce un accordo.
+mn8y8trje2 Il surplus di un accordo
+1ikey9pw30t Esempio costruito; efficienza condizionale, non la promessa che ogni negoziazione reale riesca.
+26ijjfpnh16 Il vicino
+ua17j6bj8r Valuta il danno evitabile: 50
+1o5m3m1pvbk Accetterebbe di pagare al massimo 50 per la riduzione.
+1byatp5uac4 Il laboratorio
+1dxb3tnbtzv Valuta il costo della riduzione: 20
+1erz2sqjtga Una compensazione superiore a 20 lo fa guadagnare.
+2azxzw9pecd Entrambi
+12alwuf96a5 Cercano un pagamento tra 20 e 50
+wbdpldz5eg Il surplus totale di 30 può essere spartito se negoziare è possibile.
+1or9qes60gm Cambiare l’attribuzione iniziale dei diritti cambia necessariamente che cosa?
+10sd3zwoqvo La quantità efficiente deve sempre cambiare
+o8a3sa2bzt Non è la conclusione del teorema con negoziazione senza costi.
+1636vi0g33x Chi paga e la distribuzione dei guadagni
+1hbjx3egntt Sotto le ipotesi di Coase l’efficienza può restare identica, ma i redditi cambiano.
+25k435p854p Niente di niente, nemmeno i pagamenti
+29w7447c3et Il diritto iniziale modifica il punto di partenza e le compensazioni.
+5wkpun1n0i Stesso meccanismo, altri numeri: il tessile
+t411qffao Cambiamo prodotto. Il tessile inquina; le equazioni sono diverse, ma la domanda resta «quale costo dimenticano le decisioni private?». Riparti da questa domanda, poi costruisci i due equilibri. Non hai bisogno di memorizzare i risultati del mercato della benzina.
+1lh9l5a3q6s Caso E2024 del dossier: MPB = 200 − Q, MPC = 80 + Q, MEC = Q, quindi MSC = 80 + 2Q.
+v50oj8g3dw Il nome del prodotto non determina il metodo; lo determinano gli incentivi e il costo mancante.
+17enm1zrbm5 L’equilibrio privato ignora MEC, mentre l’ottimo sociale lo aggiunge.
+20wlm9ond74 L’imposta si calcola solo dopo aver trovato Q*; la DWL misura le unità in eccesso.
+30g4cpik6i Qm = 60; Q* = 40; imposta ottimale 40; altezza della DWL in Qm: MSC − MPB = 200 − 140 = 60; DWL = ½ × 20 × 60 = 600.
+1y2zf9qkggk Davanti a un nuovo testo, identifica i terzi e il costo ignorato prima di cercare una formula nella memoria.
+zin21imwsf Il grafico cambia parametri per il tessile. Il ragionamento privato contro sociale resta identico.
+22shneqb7aw Tessile: 200 − Q = 80 + 2Q. Quale Q*?
+1a7ftp1zcvp Con MEC = Q, quale imposta ottimale per il tessile?
+1rh8bcex1gg Qm = 60, Q* = 40, scarto marginale finale 60: quale DWL?
+1shylkody4e Prendono le loro decisioni in base a ciò che ricevono e pagano.
+toplml3e4t MEC non compare nella transazione privata.
+143h7tj332w MSC = MPC + MEC somma tutti i costi marginali reali.
+17nsgm3nv7c MPB = MPC dà Qm > Q*, dove MSB = MSC.
+23icvn36mlf t* = MEC(Q*) fa fermare il mercato concorrenziale alla quantità efficiente.
+10nci0q87af Il conducente compra in base al suo valore privato e al prezzo; il distributore produce in base al suo costo privato. I residenti subiscono un danno che non entra nella loro transazione. Il costo sociale MSC = MPC + MEC supera quindi il costo privato. Il mercato Qm = 45 contiene litri il cui costo sociale supera il valore; Q* = 30 li esclude. Un’imposta pari a MEC(Q*) = 30 fa pagare questo danno marginale e allinea le decisioni private alla quantità efficiente.
+lt2ka8zb9z Il conducente e il distributore confrontano guadagni e costi privati
+gjchva5wu9 I residenti subiscono un danno non pagato
+rem819d1sd Il costo sociale supera il costo privato
+3p4qdy3lu5 Il mercato consuma unità socialmente eccessive
+1wbn1fasyu9 Un’imposta valutata in Q* corregge l’incentivo marginale
+2296o3lm1q0 Spiega a un amico perché un pieno può essere conveniente per chi compra e chi vende, pur contenendo troppi litri per la società. Collega gli attori, il costo dimenticato, Qm/Q* e l’imposta ottimale.
+sskh3oy9ev La decisione privata
+1651rd9m10a Il conducente e il distributore contano solo guadagni e costi privati.
+15ys9rqcipq Il costo per i terzi
+15dt9443l7g Il danno ai residenti è assente dal prezzo privato.
+232q03ik2o4 Perché troppi litri
+207dsrvo8ko MSC > MPC implica Qm > Q*: le unità in eccesso costano socialmente più di quanto valgano.
+g7kb51kx88 La correzione
+20vtzby7bf L’imposta ottimale è il danno marginale valutato in Q*, non alla vecchia quantità.
+1a978kjd9h0 MEC misura il danno di un’unità in più; il danno totale somma tutte le unità.
+12vgmb3diyy Trova Q*, poi valuta MEC(Q*). L’imposta cambia la quantità, quindi il vecchio MEC(Qm) non è l’obiettivo.
+75v2c6gbjo Il gettito fiscale è un trasferimento ricevuto dallo Stato. La DWL misura una perdita netta di benessere.
+16qpbt24691 Una fabbrica paga i dipendenti ma non compensa il rumore dei vicini. Dov’è l’esternalità?
+dmjvodrdrb Nei salari
+145imeugoyz Sono già nei costi privati.
+2b72i52mohh Nel rumore non compensato
+10c88w50jn6 Colpisce terzi fuori dallo scambio.
+1rvaiqil4z Perché uno scambio volontario può essere inefficiente?
+kdebpm9rcs Perché ogni scambio distrugge benessere
+1qtzwu56gs9 Lo scambio può produrre un guadagno; bisogna contare tutti gli effetti.
+xrin89ezrc Dei terzi possono subire un danno non pagato
+1kg3j38aa3e L’accordo privato non garantisce il benessere di tutti.
+21clzhr7yxl MEC indica…
+1pghghsg15z Il danno totale di tutte le unità
+10bqhiyo7v9 È l’integrale di MEC.
+2g93wwa26j9 Il danno ai terzi di un’unità in più
+ohoqokjp6p Marginale = un’unità in più.
+2csziwrmm8s Un diritto di inquinare ben definito con negoziazione gratuita garantisce, secondo Coase…
+1u9pks66g6h Che lo Stato paghi automaticamente ogni danno
+1y9d68aq214 Coase descrive la negoziazione tra le parti.
+18sl0y77vg4 Una possibilità di negoziare in modo efficiente, con una distribuzione che dipende dai diritti
+ra58mmk0g1 Le ipotesi riguardano diritti e costi; i pagamenti cambiano.

@@ -1,0 +1,41 @@
+======================================================================
+3. UTBUD, EFTERFRÅGAN, JÄMVIKT OCH CHOCKER — L2
+======================================================================
+
+Efterfrågan: den kvantitet köparna vill köpa vid varje pris.
+Utbud: den kvantitet säljarna vill sälja vid varje pris.
+Antaganden i den enkla konkurrensmodellen: många aktörer, homogena
+produkter, price takers; ingen betydande strategisk interaktion.
+Avgränsa marknaden efter produkt, geografiskt område och period.
+
+Exempel L2 p.7/16/20: QD=10-p, QS=-2+p.
+Jämvikt: QD=QS ->10-p=-2+p ->p*=6, Q*=4.
+Vid p=4: QD=6, QS=2, efterfrågeöverskott på 4, tryck uppåt.
+Vid p=8: QD=2, QS=6, utbudsöverskott på 4, tryck nedåt.
+En negativ förutsagd kvantitet utanför definitionsmängden betyder oftast kvantitet 0.
+
+ÄNDRING AV VARANS EGET PRIS -> rörelse LÄNGS dess kurva.
+ÄNDRING AV EN ANNAN BESTÄMNINGSFAKTOR ÄN DETTA PRIS -> skift av kurvan.
+Efterfrågan QD=f(p,T,p_r,I): smak/temperatur T, annat pris p_r, inkomst I.
+Normal vara: inkomsten ökar -> efterfrågan skiftar åt höger.
+Inferiör vara: inkomsten ökar -> efterfrågan skiftar åt vänster.
+Substitut: den andra varans pris ökar -> efterfrågan åt höger.
+Komplement: den andra varans pris ökar -> efterfrågan åt vänster.
+Insatsvarukostnaden ökar -> utbudet åt vänster/uppåt.
+Bättre teknologi/inträde av producenter -> utbudet åt höger/nedåt.
+
+Allt annat lika, för vanliga kurvor:
+D åt höger: p stiger, Q stiger. D åt vänster: p sjunker, Q sjunker.
+S åt höger: p sjunker, Q stiger. S åt vänster: p stiger, Q sjunker.
+D åt höger OCH S åt vänster: p stiger, effekten på Q oklar.
+D åt höger OCH S åt höger: Q stiger, effekten på p oklar.
+D åt vänster OCH S åt vänster: Q sjunker, effekten på p oklar.
+D åt vänster OCH S åt höger: p sjunker, effekten på Q oklar.
+Dra inga slutsatser om en oklar variabel utan chockernas relativa storlek.
+
+Känslighet: vid en given efterfrågechock innebär ett brant utbud
+en stor prisförändring och en liten kvantitetsförändring.
+Ett flackare utbud tar upp mer av chocken via kvantiteten.
+Tillämpningar L2: veteskördar, te/kaffe, ris, palladium.
+Förklara med ”vid ett givet pris skulle mer/mindre utbjudas/efterfrågas”,
+och sök först därefter den nya jämvikten.

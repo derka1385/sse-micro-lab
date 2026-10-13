@@ -1,0 +1,217 @@
+7xsyc1uc4h Bu paneller “eksik” derken yok edilmiş paneller kastedilmiyor: değer yaratacak olan ama hiç gerçekleşmemiş değişimlerdir.
+1s1bn7ddyvi 20 noktasındaki panel için alıcının 40’lık kişisel değer karşılığında en az 50 (maliyet) ödemesi gerekirdi. Komşuların 20 €’su onun cebinde değil.
+29xkfw5rieb Fark 18’den 22’ye doğru azalır, çünkü MSB düşer ve MPC yükselir: 19 noktasındaki paneldeki kayıp (63 − 48 = 15), 22 noktasındakinden (0) büyüktür.
+1sonjsf10m7 Grafikteki küçük çubuklara tıkla: her biri, sosyal değeri ve maliyetiyle birlikte eksik bir paneldir.
+1x9g192pgo8 20 noktasındaki paneli reddediyorsun: 40’lık değer için sana 50’ye mal olurdu. Senin için makul. Ama komşuların 20 kazanırdı: hepiniz için 50 maliyete karşı 60 değer. Kimsenin imzalamadığı iyi bir toplu anlaşma.
+178qmryrz9y 18 ile 22 arasındaki çubuklar eksik panellerdir. Her çubuk MPC’den (maliyet) MSB’ye (sosyal değer) uzanır: yüksekliği, toplumun o panelde kaybettiğidir.
+kehs6ghc6u Q = 20 noktasındaki panel: üretilmediği için toplum ne kadar kaybeder? (MSB − MPC)
+1jyqxfmcdiu 20 = MEB: bu MSB − MPB farkıdır. Aradığımız sosyal değer − maliyet: MSB − MPC.
+1bahqy71lp8 MPB − MPC = 40 − 50 = −10: alıcının reddetmesinin nedeni bu. Ama sosyal kayıp MSB’yi MPC ile karşılaştırır.
+2a1ogp4q5zv A6 eğrileri
+20ttd7swtld birim birim akıl yürütme
+t4g41tb9gg Toplumun kaybettiği: refah kaybı
+1yjcnyu8yp4 DWL, hiç yaratılmamış değer
+1hr4wia57kg Her eksik panel için toplum (sosyal değeri − maliyeti) kadar kaybeder. 18 noktasındaki panel 20 fazla getirirdi, 22 noktasındaki: 0. Tüm bu kayıpları topla: 18’den 22’ye MSB ile MPC arasındaki üçgenin alanını elde edersin.
+8p7mcv939s [[DWL]] = [Qm, Q*] üzerinde MSB ile MSC arasındaki alan = ½ × (22 − 18) × 20 = 40.
+rp41f5sw7y Bu alan bir üçgen biçiminde. Taban ve yükseklik?
+17zvv6rig2i Taban 22 − 18 = 4; yükseklik 66 − 46 = 20 (Q = 18’deki fark)
+10ou2ll4f6x Evet: fark 18 noktasında 20’dir ve 22 noktasında 0’a düşer.
+upelu3lzf9 Taban 22; yükseklik 20
+abxhih2d32 Taban 0’dan başlamaz: yalnızca 18 ile 22 arasındaki birimler eksik.
+1h0cfwpenk1 Taban 4; yükseklik 46
+29vbncflj42 46 bir fiyattır, sosyal değer ile maliyet arasındaki fark değil.
+13d8wz7fmvb Toplam refahla kontrol: W(22) − W(18) = 1210 − 1170 = 40 (§15 A6).
+221d4lw8s2a 18 ile 22 arasında eksik bir panel al. Üçgendeki yüksekliği = toplum için değeri (MSB) − üretim maliyeti (MPC). Bu fark, yaratılabilecekken yaratılmamış refahtır. Bunu her eksik panel için yap: üst üste konan dilimler üçgeni oluşturur.
+26dxyy7ozb Bu bir üçgendir, çünkü fark 18 noktasında 20, 22 noktasında 0’dır ve doğrusal olarak azalır (doğrusal eğriler): dilimlerin toplamı = ½ × taban × yükseklik (§2.3).
+22z22fqd8z5 Referans SOSYALDİR: toplumun, kendisi için EN İYİ sonuca (Q* = 22) göre ne kaybettiğini ölçeriz, piyasaya göre değil. Zaten 18 ile 22 arasında MPB ile MPC arasında hiçbir şey yoktur: MPB, MPC’nin ALTINDADIR (§11.2, §20.2).
+fy9rr4pk1r Kontrol: W = CS + PS + dışsal fayda. Müdahalesiz: 486 + 324 + 360 = 1170. Optimumda: 1210. Fark: 40 = DWL (§15 A6).
+2u825hnpjw Aşılar E2020 Q3: DWL = ½ × (55 − 45) × 20 = 100.
+1gndepeu6w3 Komşularınla birlikte 4 panel daha ödeyip toplamda 40 € daha zengin olabilirdiniz. Bu 40 € kimseye gitmedi: hiç var olmadı.
+2el1lhc0l51 Kırmızı üçgene tıkla: her dikey dilim eksik bir paneldir; yüksekliği = o noktadaki MSB − MSC.
+oi51s5j3hd Müdahalesiz piyasanın DWL’sini hesapla.
+t9javt8wup ½’yi unuttun: fark her eksik panel için 20 değil, 20’den 0’a iner.
+wmrscwkzl5 360 = 20 × 18 = üretilen panellerin TOPLAM dışsal faydası. Bir kayıp değil.
+4a7ajkhmmf 440 = 20 × 22: optimal sübvansiyonun harcaması. Bu bir transfer, DWL değil.
+1r2yoih6dxx Üçgen neden MPC’nin ÜSTÜNDE ve MSB’nin ALTINDA?
+ysaowetgrs Çünkü her dilimin yüksekliği = eksik panelin sosyal değeri − maliyeti
+rtnkd0quol Kesinlikle: birim birim kaybedilen net değerdir.
+1b25d7h1h4g Çünkü DWL her zaman arz ile talep arasındadır
+13atmw15kg0 Burada değil: 18 ile 22 arasında MPB, MPC’nin altındadır. Dışsallık varken referans SOSYALDİR (MSB, MSC).
+1bg1eswfmj3 Çünkü bu üçgeni devlet öder
+1ypc697sqhu Bu üçgeni kimse ödemez: var olmayan bir değerdir.
+1o5odl4yb3d DWL’nin ölçülmesi
+3oxv464gey Eksik panellerin satın alınmasını nasıl sağlarız?
+wlpgg0rexl Sorun: alıcı komşuların 20 €’sunu yok sayar. Fikir: devlet panel başına 20 € öder. O zaman özel hesabın “benim değerim + 20” = tam olarak toplum için değer olur. Böylece komşularını hesaba katıyormuş gibi satın alırsın.
+kjrkeko9n0 Pigou sübvansiyonu: {{s* = MEB(Q*) = 20}}. Denge: MPB + s = MPC ⇒ Q = 22; p_b = 34, p_s = 54.
+12w0eyn2v14 Piyasanın tam 22’de durması için panel başına sübvansiyon ne kadar olmalı?
+24olx5mt6y7 Evet: Q* noktasında MPB ile MSB arasındaki farkı tam olarak kapatır.
+1x6hb6508f4 40 = DWL
+cm0suy4d8z DWL bir alandır (€), sübvansiyon ise birim başına bir tutar (€/panel).
+1fqa4u5zp9p 54 = 22. panelin maliyeti
+vyz92fu7n Devlet panelin tamamını ödemez: yalnızca sosyal değer ile özel değer arasındaki farkı.
+2cinsld7cxg Bu, devletin TOPLAM harcamasıdır, panel başına tutar değil.
+2359unwxbvb Benzetmen doğru
+2fqx9gmwhar “18 panel alırdım. Toplum 22 isterdi. Devlet ek panelleri benim için kârlı hale getirmeye yardım ediyor.” ✓ Kesin sürüm: birim başına {{s* = MEB(Q*) = 20}} sübvansiyon, teşvikini MPB’den MPB + 20 = MSB’ye taşır.
+1dp304xm7b2 Tam 20, çünkü özel kararın (MPB + s = MPC) sosyal kararla (MSB = MPC) aynı yere düşmesi gerekir. MSB = MPB + 20 olduğundan s = 20 yeterlidir.
+1h9zqhanjgu Q* noktasında değerlendirilir, çünkü sübvansiyon üretilmesini istediğimiz SON birimin dışsal faydasını tam olarak ödemelidir. Burada MEB sabit, yani MEB(22) = 20. MEB Q’ya bağlıysa MEB(Q*) gerekir — sonraki blok.
+1tx0sp3v9v7 Sübvansiyonu hukuken kimin aldığı (alıcı ya da satıcı) önemli değildir: yalnızca p_s − p_b = s farkı önemlidir, miktar aynıdır (§7.2–7.3).
+eamhjddt7o Harcamaya rağmen refah artar: W = CS + PS − sübvansiyon + dışsal fayda = 726 + 484 − 440 + 440 = 1210 > 1170. Sübvansiyon bir transferdir; gerçek kazanç = geri kazanılan 40’lık DWL (§15 A6).
+1mmxbtcz0pd Panel ya da elektrikli araç başına çevre bonusu: satın alınan birim başına bir destek.
+26zab1isxqp Devlet sana diyor ki: “her panel için sana 20 € geri ödeyeceğim.” Senin için 40 değerinde olan 20 noktasındaki panel artık cüzdanın için 60 değerinde — 50’lik maliyetinden fazla: onu alırsın. Değerin + 20 = maliyet = 54 olan 22.’de durursun.
+1gfarylfu1j Mavi kesikli MPB + s eğrisi, s = 20 olduğunda MSB ile çakışır. Sübvansiyon imlecini kaydır: 20’de denge tam olarak Q* = 22’ye düşer. Gri dikdörtgen = devlet harcaması (20 × 22 = 440).
+cekhpe0ftm s* = 20 € öder
+1r2auh82o1q s = 20 iken alıcı 22. panel için hangi fiyatı ÖDER?
+zillb8pg3p Alıcı marjinal değerini öder: p_b = MPB(22).
+6gtzic1sf4 p_b = MPB(22) = 100 − 66 = 34. Satıcı p_s = 34 + 20 = 54 = MPC(22) alır.
+lnl1r97p0e 54, satıcının ALDIĞIDIR (p_s). Alıcı 20 daha az öder.
+msd3ms804g 440’lık (= 20 × 22) kamu harcaması bir refah kaybı mı?
+1a43q2rovfr Evet, devletin kaybettiği para
+17ozpk7igwq Para yok olmaz: vergi mükelleflerinden alıcılara ve satıcılara geçer.
+1l25eowibjk Hayır: bu bir transfer. W’de çıkarılır ama CS ve PS’de yeniden ortaya çıkar
+1795rzyemcl Kesinlikle. Refah 1170’ten 1210’a çıkar.
+1f7tjsu24ur Refaha dahil edilmez
+3apiqm3v78 Dahil EDİLMELİDİR (− 440), yoksa W olduğundan yüksek görünür; finanse ettiği kazançlarla dengelenir.
+25n5ox0e8wr Pigou
+29f7c8gry7j öğrencinin benzetmesi
+1gnzhrub04 Peki dışsal fayda Q’ya bağlıysa?
+2qalftese7 MEB = 30 − Q iken s* = MEB(Q*)
+lxl5xb9m6m Şehrin ilk panellerinin en kirli santrallerin, sonrakilerin daha temiz kaynakların yerini aldığını düşün: her ek panel biraz daha az yardımcı olur. MEB artık sabit değil: {{MEB = 30 − Q}}. O zaman hangi sübvansiyon gerekir?
+akzflmje30 MSB = 130 − 4Q ⇒ Q* = 20. {{s* = MEB(Q*) = 10}} — 30 kesişim değeri değil, MEB(Qm) = 12 de değil.
+2fioxsk9vhv Kurgulanmış varyant
+tani8v6czt MEB = 30 − Q derste yok: §11.3’te belgelenen kuralı (“etkin miktarda değerlendir”) çalışmak için bir ektir. Ders bunu negatif tarafta uygular: benzin, MEC = Q ⇒ t* = MEC(30) = 30, MEC(45) = 45 değil.
+1tuq1eapzn4 Q* noktasında sübvansiyonlu alıcı almakla almamak arasında kayıtsız olmalıdır: MPB(Q*) + s = MPC(Q*). MPC(Q*) = MSB(Q*) = MPB(Q*) + MEB(Q*) olduğundan s = MEB(Q*) elde edilir.
+1emu1cf4xtt Kesişim değeri değil: 30, 20. panelin değil EN İLK panelin dışsal faydasıdır. 30’luk bir sübvansiyon her paneli en faydalısıymış gibi öderdi: aşırı teşvik, piyasa 24’e kadar giderdi.
+20i0qu0bod8 MEB(Qm) de değil: sübvansiyondan sonra piyasa Qm’de kalmaz. Doğru değer, son ARZU EDİLEN birimin değeridir (§11.3, §20.2).
+1f01gzswcvk Negatif tarafta aynı mantık (L11, E2023): MEC = Q, Q* = 30 ⇒ vergi t* = MEC(30) = 30, 45 değil.
+28ixvfpzkem Devlet sana, SENİN SON panelinin komşulara sağladığı hizmet için ödeme yapar — şehrin ilk panelinin sağladığı için değil.
+1zlfkpyoq04 Varyantın grafiği: MEB düşer, MSB = MPB + MEB daha diktir. s = 30 (fazla), s = 12, sonra s = 10 dene: yalnızca sonuncusu tam Q* = 20’ye düşer.
+xvkkho9279 MEB = 30 − Q ve Q* = 20 iken optimumu hangi panel başına sübvansiyon sağlar?
+164e588whaa 30 (MEB’nin orijindeki değeri)
+8xl6pde7kd s = 30 ile piyasa Q = 24 > 20’ye kadar giderdi: çok fazla panel, 48’lik yeni bir DWL. Grafikte dene.
+sil3co0oy3 12 = MEB(18), başlangıçtaki piyasada değerlendirilmiş
+1fr4uiagtac Yanlış nokta: s = 12 ile piyasa 20,4’e giderdi. Hedeflenen miktardaki değer gerekir.
+kpvo2nkmv 10 = MEB(20), Q*’da değerlendirilmiş
+1h07pk6b5d5 Devlet yine de s = 30 öderse piyasa hangi miktarı değiştirir?
+2fkm1uiz8ul 100 − 3Q + 30 = 10 + 2Q’yu çöz.
+13gzz9f18z5 130 − 3Q = 10 + 2Q ⇒ Q = 24 > Q* = 20: aşırı üretim, DWL = ½ × 4 × 24 = 48.
+1mr92zf2k1f 20’ye s = 10 ile ulaşılırdı. 30 ile sübvansiyon daha ileri iter.
+15xreoepsig kurgulanmış varyant MEB = 30 − Q
+27kvo2z15uv Qeff’te değerlendir
+1t57cddighv benzin t* = 30
+1adrhm4zz7d Tam zincir
+10bidu2yij6 Mekanizmayı sıraya koy: her halka bir sonrakine NEDEN olur.
+58zyql5jj0 Her adım ancak bir öncekinin doğru olması sayesinde doğrudur: komşular hiçbir şey kazanmasaydı (MEB = 0), Qm zaten optimal olurdu ve ne DWL ne de sübvansiyon olurdu.
+d1s4wnpajm “Paneller” yerine “aşılar” koy: zincir aynıdır, yalnızca sayılar değişir (E2020 Q3).
+21b5q6ffhdx Kendim için alırım → komşularım da kazanır → bunu hesaba katmam → çok az alırım → toplum kaybeder → devlet farkı öder → doğru miktarı alırım.
+1wt2qan6qd7 Tam grafik: iki miktar, MPB ile MSB arasındaki MEB farkı ve refah kaybı.
+12inzl2yn0l Halkalara nedensel sırayla tıkla.
+1ib1a5rab53 Alıcı özel değerini (MPB) fiyatla karşılaştırır
+1w40pth47fz Her panel komşulara da 20 sağlar (MEB)
+1f5i254a64i Piyasa bu faydayı yok sayar: Qm = 18’de durur
+1z4zg75vnmt Toplum Q* = 22 isterdi (MSB = MSC)
+az5v5as9bw Eksik paneller 40’lık bir DWL yaratır
+cdrbjxoacd s* = MEB(Q*) = 20 sübvansiyonu özel teşviki sosyal değerle hizalar
+2ay4y8y6vi0 Bana anlat
+5jo3cwdkx6 Yukarıya bakmadan, güneş paneli piyasasının neden çok erken durduğunu ve devletin ne yapabileceğini kendi sözlerinle açıkla. Benzetmeler hoş karşılanır: değerlendirdiğimiz NEDENSEL BAĞLAR, kelimeler değil.
+2e1bv7zqyre Açıklamak, zinciri tanımak yerine yeniden kurmaya zorlar: eksik halkaları ortaya çıkaran budur.
+27or8iispdg “Bir panel aldığımda şuna bakarım…” diye başla.
+2b3qw0bzpke Panel almakta tereddüt eden bir arkadaşına anlatıyormuş gibi anlat.
+108acgpy4t1 Grafik görünür kalır: anlatırken kullanabilirsin.
+1v9q0e5w2dk Sınav sorusu (EN)
+1mqddbt0kok Yeni bağlam, aynı mekanizma: E2020 Q3’ten alınmış aşılar. İngilizce ve ipucu olmadan cevapla. Ayrıntılı çözüm sonra görünür.
+g5h8kvk4bh Bağlamı değiştirmek, “18 ve 22”yi ezberlemediğini, mekanizmayı anladığını kontrol eder.
+1a4f5vw6a7v Modeli belirleyerek başla: hangi eğri özel versiyonundan ayrılıyor?
+1lmkwks5edj Sınavdasın. Kimse sana “pozitif dışsallık” demeyecek: bunu soru metninde görmek sana kalmış.
+1cnpake881k Sınav modunda grafik yok: onu bir kâğıda ezberden çiz (eksenler, MPB, MSB, MPC, Qm, Q*, DWL).
+1x85dzrgtwj Artık yapabildiklerin
+2b298tclhmn Ders bitti. Ustalığın ancak birkaç güne yayılan tekrarlarla gerçekten artar: ilk aralıklı tekrar seni “Tekrarlar”da bekliyor.
+i7aley9fq6 Aynı gün başarı anlamayı kanıtlar; üç gün sonra başarı hafızayı kanıtlar. Sınav ikisini de ister.
+gncs5h0vnt Önerilen sonraki adım: negatif durumu aynı araçlarla görmek için Graph Lab (benzin, tekstil).
+1l1rydyvxdb Yarın MSB’yi yardım almadan yeniden kurman gerekecek. Ezberden okumak değil: yeniden kurmak.
+1ctkfk9k8lr Dersin tam grafiği.
+bywrhaytbb Kendim için bir panel alırım
+27nexxg6mws onun BENİM için değerini (MPB) fiyatıyla karşılaştırırım
+1l94peacvr3 Komşularım daha iyi nefes alır
+1qx8z9l4lbt her panel daha kirli elektriğin yerini alır: onlar için MEB = 20
+1kmf13nn9lh Bu 20 €’yu kimse saymaz
+20lcdqymsgi hiçbir fiyattan geçmez: ne alıcı ne satıcı onu alır
+1a6cw0fsh02 Piyasa Qm = 18’de durur
+ewfjk8eer5 MPB = MPC olan yerde; ötesinde alıcı tek başına paneli artık kârlı bulmaz
+fn75qd8m0s Toplum Q* = 22 isterdi
+9e9wug0cw3 alıcı + komşuları sayar: MSB = MPB + MEB = MSC
+77b2cyat63 18 → 22 arası paneller eksik: DWL = 40
+1qnu1aismcy her biri topluma maliyetinden (MSC) fazla değer (MSB) taşıyordu
+tvt0qpffl1 Sübvansiyon s* = MEB(Q*) = 20
+2bpx0tvuvdt özel teşvike, son arzu edilen birimin dışsal faydasını tam olarak ekler
+1t91h4wu7xb Alıcı özel değerine bakar
+6x7y7sg338 Başlangıç noktası: alıcı panelin KENDİSİ İÇİN değerini (MPB) fiyatıyla karşılaştırır.
+17rejg4z3d İktisatçı gibi: MPB (Marginal Private Benefit) = bir panel daha almanın alıcı için değeri.
+1qw5umhlt7j Üçüncü taraflar da yararlanır
+28o2oc4vjwn Her panel işlemin dışındaki insanlara bir fayda sağlar (daha az kirlilik): MEB.
+137b3k1j7f6 İktisatçı gibi: pozitif dışsallık; MEB (Marginal External Benefit) = bir panel daha olmasının başkalarına faydası.
+153ni7s4wkt Piyasa bu faydayı yok sayar
+3bqxqts5z6 Merkezdeki halka: işlemdeki kimse üçüncü tarafların faydasını almaz, dolayısıyla kimse onu hesaba katmaz. Piyasanın çok erken durmasının NEDENİ budur.
+s7p0jlytq4 İktisatçı gibi: alıcılar dışsal faydayı “içselleştirmez”.
+2chdf2ck8j2 Piyasa çok az üretir
+e32iah16vf Sonuç: piyasa miktarı (18) sosyal optimumun (22) altındadır.
+f3b5oh1oao İktisatçı gibi: Qm (piyasa dengesi, MPB = MPC) < Q* (sosyal optimum).
+1rj5rcaqazh Sosyal optimum daha yüksektir
+1nf9cm3d3ey Alıcıyı + üçüncü tarafları sayan toplum daha fazla panel isterdi: MSB = MSC olan Q*.
+9qzcyfj5l İktisatçı gibi: MSB = MPB + MEB olmak üzere MSB = MSC olan Q*.
+1cxdo7cwvh2 Bir sübvansiyon faydayı içselleştirebilir
+kfay7mgmrf Çözüm: MEB(Q*)’a eşit birim başına sübvansiyon, özel teşviki sosyal değerle hizalar.
+ezq4bne9rr İktisatçı gibi: Pigou sübvansiyonu s* = MEB(Q*) = 20.
+20j9kkjbxx5 MSB ödenen bir para değildir: bir panel daha olmasının tüm toplum için DEĞERİDİR (MPB + MEB). Sübvansiyon ise paradır.
+ycpjdzuqrh POZİTİF bir dışsallıkta piyasa ÇOK AZ üretir (18 < 22). Aşırı üretime yol açan negatif dışsallıktır.
+muoqq1u5m8 Sübvansiyon harcaması bir transferdir (vergi mükellefleri → alıcılar/satıcılar). DWL, hiç üretilmemiş faydalı panellerdir.
+27uvqg5y5o8 Müdahalesiz piyasa Qm = 18’de durur. Q* = 22’ye yalnızca sübvansiyonla ulaşılır.
+w6z305cxkv Bir panel aldığımda, onun BENİM için değerini (MPB) fiyatıyla karşılaştırırım. Ama her panel komşularım için kirliliği de azaltır: işlemdeki kimsenin almadığı, dolayısıyla kimsenin hesaba katmadığı bir dışsal fayda (MEB = 20). Piyasa MPB = MPC olan yerde (18 panel) durur; oysa komşuları da sayan toplum (MSB = MPB + MEB) MSB = MSC’ye (22) kadar gitmek isterdi. 18 → 22 arası paneller topluma maliyetlerinden fazla değer taşıyordu: bu refah kaybıdır (40). MEB(Q*) = 20’ye eşit panel başına sübvansiyon bu panelleri alıcı için kârlı kılar ve piyasayı 22’ye getirir.
+a8umzo4ln7 [[MEB]] kelimenin tam anlamıyla ne demek?
+rk4goy9wo9 Marginal External Benefit: bir birim daha olmasının BAŞKALARINA faydası
+4j31ysk60p Marginal Economic Benefit: üreticinin kârı
+1mlaaa85jnh E = External: söz konusu olan üçüncü taraflardır.
+1xnkvv4sozv Tüm birimlerin toplam dışsal faydası
+1i3phwyi5k Marjinal = BİR birim daha. Toplam, MEB’nin altındaki alandır.
+18z5rag4ux9 [[MSB]] ne demek?
+219es21sac1 Bir birim daha olmasının tüm toplum için değeri: alıcı + üçüncü taraflar
+1dir0ou7e33 Kesinlikle: MSB = MPB + MEB.
+6e43uqngbz Devletin her birime ayırdığı bütçe
+2b73hdpbei7 MSB bir değerdir, kamu harcaması değil.
+14cv5orxopa Satıcının marjinal faydası
+mj4txxqyao Satıcının burada bir “marjinal faydası” yoktur: bir maliyeti (MPC) ve bir artığı (PS) vardır.
+kj0wgjdn9i [[MPB]]’nin ölçtüğü faydayı kim alır?
+157aavfmy6d Alıcı, ve yalnızca o
+y77ub4621c Kesinlikle: P = Private.
+1hzroufqx51 Bu MEB’dir.
+22n9ecspyux Tüm toplum
+20wgs69wzlf Bu MSB’dir.
+g2xiaf33tp MSB neden MPB’nin üstünde?
+y7z22c2bx0 Çünkü her birim üçüncü taraflara da fayda sağlar (MEB > 0)
+2cdrdgjnnkx Kesinlikle: dikey fark = MEB.
+1ohjqc5n7qt Çünkü devlet para ekler
+zcukmjz625 MSB’nin var olması için hiçbir müdahale gerekmez.
+1fehcgk8cvx Çünkü sosyal maliyet daha yüksek
+n3in0jmk7k Bu MSC ve MEC ile ilgili olurdu (negatif dışsallık).
+ovf8euutya Piyasa neden Q*’da değil de Qm’de durur?
+dxpklaor46 Qm’nin ötesinde alıcı sonraki paneli yeterince değerli bulmaz (MPB < MPC), çünkü komşuların faydasını hesaba katmaz
+1i67mmq3r8c Çünkü Qm sosyal optimumdur
+28gt7wnjggl Qm özel dengedir; sosyal optimum Q*’dır.
+1vmakr0miof Çünkü üreticiler daha fazla üretemez
+2bmj3zjao0y Üretebilirler, ama hiçbir alıcı maliyeti ödemez.
+2ff4sai0hgo DWL üçgeninde ne kaybedilir?
+2wbga4fpxt Sosyal faydası sosyal maliyetini aştığı halde hiç üretilmemiş birimlerin net değeri
+1vztj90ikzr Devletin harcadığı para
+zzent3w3fq Kamu harcaması bir transferdir.
+pwi2kvy03g Komşuların toplam faydası
+21u1fdde12j Üretilen birimlerin dışsal faydası gerçekten alınır; DWL eksik birimlerle ilgilidir.
+23pexo7h5h7 MSB’yi aktörlerden yola çıkarak yeniden kur.
+27i6w0mwiam Üçüncü tarafların faydası eklenir, çıkarılmaz.
+qm2kq75m42 MEC dışsal bir maliyettir: MSB’ye değil MSC’ye girer.
+2fkwd71cpwf Toplum için değer = alıcı için değer (MPB) + üçüncü taraflar için değer (MEB).
+1xylqcx1160 Sosyal optimum koşulunu yeniden kur.
+14xpp3qe3du Bu PİYASA dengesidir, sosyal optimum değil.
+2dkddaojxk2 Toplum, sosyal değerleri sosyal maliyetlerini aştığı sürece birim ekler: MSB = MSC.
+2c95bio5aut Optimal sübvansiyonu yeniden kur.
+1kpzyuykw5c Kesişim değeri, son arzu edilen birimin değil İLK birimin dışsal faydasıdır.
+d2i0ox2brk Sübvansiyondan sonra piyasa Qm’de kalmaz: Q*’da değerlendir.
+15v3ebw8yy0 Q* noktasında MPB + s = MPC = MSB gerekir, dolayısıyla s = MSB − MPB = MEB(Q*).

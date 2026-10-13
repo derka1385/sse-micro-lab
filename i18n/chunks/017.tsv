@@ -1,0 +1,212 @@
+25ly7ey3zjm	La demande est égale au dommage total
+21vjy4csdpb	MPB mesure la valeur privée marginale, pas les dommages.
+16vwn5591d8	La perte vient des unités en trop
+198w0demy9x	Les 30 premières unités restent utiles socialement. La perte d’efficacité vient des unités entre 30 et 45 : chacune coûte socialement plus qu’elle ne vaut. On additionne seulement cette différence sur l’intervalle excessif, pas tous les dommages de toutes les unités.
+2f45bvfyw9f	DWL = aire entre MSC et MSB de Q* à Qm. Les courbes sont linéaires : {{DWL = ½ × (45 − 30) × 45 = 337,5}}.
+igix0dufw5	Le dommage total inclut des unités dont le bénéfice justifie encore la production.
+1hdmh5w8kdk	DWL compare le bien-être obtenu à celui de la meilleure quantité réalisable dans le modèle.
+y0kjfdyz22	À Q = 45, MSC − MPB = 100 − 55 = 45 ; à Q = 30, cet écart est nul. D’où le triangle.
+1obhpz0qo74	Dommage total 1 012,5 et DWL 337,5 ne répondent pas à la même question.
+1nackaxw0wc	Supprimer toute l’essence supprimerait aussi des déplacements très utiles. L’efficacité demande de supprimer les unités dont le coût total dépasse la valeur.
+15xgxpd2ld4	Compare les zones EXT et DWL. L’une mesure tout le dommage ; l’autre seulement la perte nette évitable due à Qm > Q*.
+23uryg4sk3q	Triangle entre 30 et 45, hauteur finale 45 : quelle DWL ?
+22cl2jwbbi1	Pourquoi la DWL est-elle plus petite que le dommage total ici ?
+24wg6t0uxag	Parce que les dommages des riverains ne comptent pas
+19phomicign	Ils comptent entièrement dans MSC et le bien-être.
+zmizyt23hh	Certaines unités polluantes restent socialement utiles
+nvtalpfdq3	Leur bénéfice dépasse leur coût social ; elles appartiennent à Q*.
+zj28d0rcqt	Une taxe change ce que décide le conducteur
+1ou8zf0krmt	L’État peut faire payer un montant par litre. Le conducteur paie alors davantage que ce que la station reçoit. Cet écart réduit la quantité choisie : un litre qui semblait rentable au prix privé peut cesser de l’être avec la taxe.
+miafmm37f2	Coin fiscal : pb − ps = t, avec pb = MPB(Q), ps = MPC(Q). Équilibre : MPB = MPC + t.
+15g3dlaq9c3	Les acheteurs décident selon ce qu’ils paient réellement, pb.
+1g26l93ljhh	Les vendeurs décident selon ce qu’ils reçoivent, ps.
+1rxsqvjyr3z	La taxe relie ces deux décisions : pb = ps + t. Celui qui verse administrativement la taxe ne supporte pas forcément toute sa charge économique.
+12cd9l9hwsy	Avec t = 20 : 100 − Q = 10 + Q + 20 ⇒ Q = 35. pb = 65 ; ps = 45 ; 65 − 45 = 20.
+1iwcr2ve9hf	Tu ne compares plus la valeur de ton litre à 45 reçus par la station, mais aux 65 que tu débourses.
+1f4ft6xnyp2	La courbe MPC + taxe fixe la décision privée après intervention. La taxe de 20 ne rejoint pas MSC partout.
+2gg8iftzlth	Avec une taxe de 20, quelle quantité échangée ?
+bnwcix83l6	À Q = 35, quel prix paie le conducteur ?
+1q4r3avtt4	Quel prix net reçoit la station ?
+2g0elkgs1nj	Une amélioration n’est pas forcément l’optimum
+10vxnvcyl2o	La taxe de 20 retire dix unités excessives, mais le marché reste à 35 au lieu de 30. À 35, le dommage marginal est 35, supérieur à la taxe. La dernière unité reste trop bon marché par rapport à son coût social.
+uq2bireerh	DWL résiduelle : ½ × (35 − 30) × [MSC(35) − MPB(35)] = 37,5.
+1lr6nxeda4s	Il faut comparer la quantité après taxe à Q*, pas seulement constater qu’elle a baissé.
+zg3z4g1hl9	Entre 30 et 35, le coût social dépasse encore la valeur.
+2crrla1sa8q	La recette fiscale est un transfert vers l’État ; ce n’est pas en elle-même une destruction de ressources.
+1ijnuco3e97	À Q = 35, MSC = 80 et MPB = 65 : hauteur 15, base 5, donc DWL = 37,5. Recette fiscale = 20 × 35 = 700.
+13skzympsav	Tu peux dire « c’est mieux » en comparant 337,5 à 37,5, puis « encore insuffisant » en observant Q > 30.
+1pqq40xovd4	Le petit triangle résiduel est la perte évitable. Le rectangle de recette fiscale est un transfert.
+1scvmseen6l	Après taxe 20, base 5 et hauteur 15 : quelle DWL reste ?
+1b699pheeoa	Les 700 de recette fiscale sont-ils automatiquement une DWL ?
+1o33b6ta70e	Oui, tout paiement de taxe disparaît
+24dy3gzgrkx	L’argent est reçu par l’État ; il ne s’évapore pas.
+s29rvfmqqt	Non, c’est un transfert compté chez l’État
+24xe7ki6oti	Pour calculer W, additionne CS + PS + recette, puis soustrais le dommage réel.
+8dan6r9lzd	Pourquoi la taxe correcte vaut 30, pas 45
+1e3w2pr7awr	Tu veux que les décisions privées s’arrêtent exactement à la quantité efficace, 30. Il faut donc faire payer le dommage du litre à cet endroit. Une taxe de 45 reprendrait le dommage au vieux marché ; elle ferait baisser la quantité trop loin.
+1p43p3uydbo	Taxe pigouvienne {{t* = MEC(Q*) = 30}}. À Q* : pb = 70, ps = 40, écart = 30. Cette règle suppose un marché autrement concurrentiel et une externalité non déjà internalisée.
+1c3nz84x22z	Après la taxe, la quantité change : le dommage marginal change aussi.
+17d5f7jqjlo	On choisit donc d’abord Q* avec MSB = MSC, puis on évalue MEC à Q*.
+48egi8bw63	Une taxe de 30 aligne l’incitation marginale au point visé ; il n’est pas nécessaire que MPC + 30 coïncide avec MSC à toutes les quantités.
+15sytsvcjba	t = 30 donne 100 − Q = 10 + Q + 30, donc Q = 30. Recette = 900 ; DWL = 0 dans ce modèle.
+i1gjbgkkt5	Tu règles le prix de l’effet externe pour le dernier litre que la société veut garder, pas pour le dernier litre de l’ancien plein.
+fs1lkzrxpb	Teste 20, 30 puis 45 sur la politique. L’objectif est d’aligner Qp sur Q*, pas de rendre la taxe aussi élevée que possible.
+1598p30xrt2	MEC = Q et Q* = 30 : quelle taxe optimale ?
+2fw19ptz14q	Dans t* = MEC(Q*), où évalues-tu MEC ?
+atwm9e180a	Toujours à l’ancienne quantité privée
+4xt8zycbod	Cette quantité est précisément celle que la taxe va modifier.
+78rxm81d0l	À la quantité socialement efficace
+2bgiq1jqwu8	C’est le point où l’incitation privée doit être alignée.
+157batntzxr	Si l’axe change, ton raisonnement doit le remarquer
+hj4ehipspc	Une entreprise peut réduire les émissions sans forcément réduire autant sa production. Ici, l’axe compte les émissions restantes e. Aller vers la gauche signifie dépolluer davantage. Les premières réductions sont faciles ; les dernières coûtent plus. C’est pour cela que MAC descend quand on lit ce graphique vers la droite.
+2ug73td5dm	MAC = coût marginal d’abattement. L11 : MAC = 10 − e, MEC = e/2. La firme sous taxe choisit MAC = t ; la société choisit MAC = MEC.
+t6akyzkay2	Une réduction d’émissions évite MEC de dommage mais coûte MAC en ressources.
+1usu7wt1uit	Il est utile de réduire tant que le dommage évité dépasse le coût de réduction.
+1zmicrh8jpv	Taxer les émissions fait économiser t à chaque unité supprimée : la firme réduit jusqu’à MAC = t.
+2gom9nb5xtq	Taxe 2 : 10 − e = 2 ⇒ e = 8. Optimum : 10 − e = e/2 ⇒ e = 20/3, taxe = 10/3. Une taxe par production n’est équivalente que si les émissions par unité sont fixes.
+mc4xb1tk78	Changer de chaudière peut éviter de la pollution sans fermer ton usine. Vérifie donc si on te demande une quantité produite ou une quantité émise.
+sojwgfd06i	Attention : l’axe mesure la pollution restante
+2fibds4nmkh	e, émissions restantes
+2827vj9qt51	€ par unité évitée
+1frpa6y51cp	L11 : MAC = 10 − e, MEC = e/2. Plus tu vas à droite, moins tu as déjà réduit la pollution. Le point MAC = MEC donne e = 20/3.
+2bupwtx2wyb	Coût de supprimer une unité supplémentaire d’émission, à partir du niveau e.
+uxlftyuybm	Dommage évité en supprimant cette unité d’émission.
+tgpczr4kxl	Optimum : e = 6,67
+20x8hk3r3kg	MAC = 10 − e. Avec une taxe d’émission t = 2, quelle émission choisit la firme ?
+5ph1rflclx	émissions
+hf02nhi9ww	Résous 10 − e = e/2 pour les émissions efficaces.
+b86mk9i517	Même plafond, répartitions de l’effort différentes
+1xn8szkxb16	Deux usines doivent réduire au total les émissions. La première peut dépolluer à faible coût ; la seconde a une installation difficile à adapter. Leur demander exactement le même effort gaspille des ressources : la première peut réduire davantage, vendre des permis, et éviter les réductions les plus coûteuses de la seconde.
+1gxl12zqj7	Avec échanges sans frictions et solutions intérieures, les permis égalisent les MAC au prix du permis. Le plafond fixe les émissions totales ; l’allocation initiale distribue les rentes.
+6ep3rdx4n6	Quand MAC diffèrent, déplacer une unité d’abattement vers la firme moins coûteuse réduit le coût total.
+1pqrhn2g52x	L’échange reste profitable tant que ce coût économisé dépasse la compensation nécessaire.
+28dgzpj48si	À l’égalité des MAC, aucun déplacement marginal ne réduit davantage le coût total pour le même plafond.
+1plnvsat25c	Exemple construit : MAC_A = 4 et MAC_B = 10. Faire réduire A d’une unité supplémentaire permet à B de réduire une unité de moins : économie nette 6, avant coûts d’échange.
+16cta04wqpu	Si tu peux enlever une tonne pour 4, tu peux vendre un permis à plus de 4 à une entreprise qui aurait dépensé 10 pour cette tonne.
+1j8iq0c6vo0	Où coûte la prochaine tonne évitée ?
+1pe5y6zx86y	€ par tonne
+rt10rmvmqx	Exemple construit pour montrer un échange marginal ; ce ne sont pas les coûts totaux de deux usines réelles.
+kmaimp2f22	Usine A
+210s2pobwkm	Un peu plus d’abattement coûte 4.
+k9tirjq61x	Usine B
+16afpvpdci3	Un peu moins d’abattement économise 10.
+2bmet6i4isx	A réduit pour 4, B pour 10. Quel transfert d’effort réduit les coûts ?
+aay3spfemr	B dépollue davantage parce qu’elle a le MAC le plus élevé
+1mcm99sjrou	Tu déplacerais l’effort vers la firme la plus coûteuse.
+1ihsnav4hna	A dépollue davantage ; B dépollue moins
+3whqvatyy8	La même tonne évitée coûte 4 au lieu de 10.
+13arocddfvj	Des quotas identiques sont toujours les moins coûteux
+8lwv7oeuoi	Ils ne tiennent pas compte des MAC différents.
+1dv13fal0p9	Quel gain de coût pour une tonne déplacée de B vers A ?
+jmclkxj1jw	10 économisés chez B − 4 dépensés chez A = 6.
+8h0s3ttbkp	Taxe ou quota, quand personne ne connaît le coût de dépolluer
+1prw0o30igc	L’État doit choisir son instrument avant de savoir combien il coûtera aux usines de réduire leurs émissions. Avec une taxe, il fixe le prix de polluer : chaque usine réduit jusqu’à ce que la tonne suivante lui coûte autant que la taxe, donc la quantité d’émissions dépend de son vrai coût. Avec un quota, il fixe la quantité : les émissions sont connues, mais le coût pour y arriver ne l’est pas. Si chaque tonne en trop fait des dégâts qui grimpent très vite, se tromper sur la quantité coûte cher : le quota protège mieux.
+yai546zvjc	Choix d’instrument sous incertitude (« prices versus quantities ») : avec un [[MEC]] très pentu et un [[MAC]] incertain, l’erreur de quantité d’une taxe crée une grande perte ; le quota fixe e et limite cette perte. Si MEC est plat et MAC pentu, c’est l’inverse : la taxe évite un coût de respect excessif. C’est un argument de pentes relatives, pas une règle générale.
+aahl2scaon	Une taxe garantit le prix de la tonne évitée, pas le nombre de tonnes : si dépolluer coûte plus cher que prévu, les usines polluent davantage.
+enwa6hu67n	Un quota garantit le nombre de tonnes, pas le coût : si dépolluer coûte plus cher que prévu, les usines paient cher pour respecter le plafond.
+a0b5twhfg9	Laquelle des deux erreurs coûte le plus dépend des pentes : quand le dommage marginal grimpe vite, chaque tonne en trop est très coûteuse, donc on préfère fixer la quantité.
+bbhiowkfw8	Exemple construit : MEC = 3e et MAC attendue 10 − e ⇒ e = 2,5 et t = 7,5. Si en réalité MAC = 12 − e, l’optimum devient e = 3. La taxe 7,5 laisse e = 4,5 : perte ½ × 1,5 × 6 = 4,5. Le quota 2,5 ne s’écarte que de 0,5 : perte ½ × 0,5 × 2 = 0,5.
+1h9yyvnyzqw	Tu conseilles le gouvernement allemand (E2021 Q1d) : le dommage du charbon grimpe vite et le coût de dépollution est mal connu. Tu choisis l’instrument qui évite la grosse erreur, ici le quota, et tu le justifies par les pentes.
+95tb6ncy9d	Le vrai coût de dépolluer n’est connu qu’après le choix
+1gbbtrh2whm	Exemple construit. MEC = 3e grimpe vite ; MAC attendue 10 − e, mais elle se révèle 12 − e. Prévu : e = 2,5 et t = 7,5. Vrai optimum : e = 3. La taxe laisse e = 4,5 (perte 4,5) ; le quota reste à 2,5 (perte 0,5).
+1m6k6vxbi5i	MAC attendue : 10 − e
+9hvbqre841	Ce que l’État croit qu’il en coûte d’éviter la tonne suivante.
+1ijl3owisz1	MAC réelle : 12 − e
+22bw15k4la0	Le vrai coût, découvert après le choix de l’instrument : dépolluer coûte plus cher que prévu.
+4hg4wmcug0	Le dommage de la tonne suivante grimpe vite : une tonne en trop coûte de plus en plus cher aux riverains.
+1ryt7rintmw	Taxe t = 7,5
+2b01fxj5fr8	La taxe fixe le prix de polluer : la firme pollue jusqu’à MAC = 7,5, quel que soit son vrai coût.
+vaqo2m45tm	Quota e = 2,5
+unn4aepnps	Le quota fixe la quantité : 2,5, quel que soit le coût pour y arriver.
+ijlohemiz1	Vrai optimum : e = 3
+1u1o4reilg8	Taxe : e = 4,5
+1hih1p6ofcs	Dommage marginal très pentu, coût de dépollution mal connu. Quel instrument limite le mieux la perte ?
+d9r7zdiq8q	Une taxe, car elle est toujours plus efficace
+8iutmeyn5n	Sous incertitude, aucun instrument ne gagne toujours : tout dépend des pentes.
+rkcswzr9ea	Un quota (plafond d’émissions)
+270e5w3wj4b	Il fixe la quantité : l’erreur coûteuse, polluer beaucoup trop, est évitée.
+2f6l8a9htjr	Peu importe : taxe et quota donnent toujours le même résultat
+1qv4mvj423w	Ils coïncident sans incertitude ; avec incertitude, l’un fixe le prix, l’autre la quantité.
+21wdyq656by	MAC réelle 12 − e et taxe 7,5 : combien d’émissions la firme garde-t-elle ?
+gx32972zxc	12 − e = 7,5 ⇒ e = 4,5, au lieu de l’optimum 3.
+1n0gl9uvpyr	Négocier peut internaliser, sous des conditions précises
+fgh8cg8d3c	Si une usine et son voisin peuvent négocier facilement et savent à qui appartient le droit de polluer ou d’exiger de l’air propre, ils peuvent partager le gain d’une réduction utile. Mais cent mille victimes, des mesures disputées et des contrats coûteux peuvent empêcher cet accord.
+1z9r3mpyjr0	Coase : droits définis et coûts de transaction nuls permettent une allocation efficace sous les hypothèses du théorème. L’attribution des droits change les paiements et la distribution.
+18iuwt4sr51	Si éviter un dommage vaut plus que ce que coûte la réduction, il existe un surplus à partager.
+2dlx1ah948r	Le droit initial détermine qui doit payer pour obtenir le changement.
+19you3kf3q8	Les coûts de mesure, coordination et contrat peuvent dépasser le surplus et bloquer l’accord. Une fusion qui crée un monopole peut aussi introduire une autre distorsion.
+erf1aqjuiw	Réduire le bruit coûte 20 à l’atelier et vaut 50 au voisin. Une compensation entre 20 et 50 rend la réduction profitable aux deux, si le droit initial appartient à l’atelier.
+18rr7c5p9oy	Tu paierais jusqu’à 50 pour dormir mieux. L’atelier accepte à partir de 20. Mais sans droit clair ou contrat applicable, ce gain possible ne garantit pas un accord.
+mn8y8trje2	Le surplus d’un accord
+1ikey9pw30t	Exemple construit ; efficacité conditionnelle, pas promesse que toute négociation réelle réussit.
+26ijjfpnh16	Le voisin
+ua17j6bj8r	Évalue le dommage évitable : 50
+1o5m3m1pvbk	Il accepterait de payer au maximum 50 pour la réduction.
+1byatp5uac4	L’atelier
+1dxb3tnbtzv	Évalue le coût de réduction : 20
+1erz2sqjtga	Une compensation supérieure à 20 le rend gagnant.
+2azxzw9pecd	Les deux
+12alwuf96a5	Cherchent un paiement entre 20 et 50
+wbdpldz5eg	Le surplus total de 30 peut être partagé si négocier est possible.
+1or9qes60gm	Changer l’attribution initiale des droits change nécessairement quoi ?
+10sd3zwoqvo	La quantité efficace doit toujours changer
+o8a3sa2bzt	Ce n’est pas la conclusion du théorème sous négociation sans coût.
+1636vi0g33x	Qui paie et la distribution des gains
+1hbjx3egntt	Sous les hypothèses de Coase, l’efficacité peut rester identique mais les revenus changent.
+25k435p854p	Rien du tout, même les paiements
+29w7447c3et	Le droit initial modifie le point de départ et les compensations.
+5wkpun1n0i	Même mécanisme, autres chiffres : les textiles
+t411qffao	Changeons de produit. Des textiles polluent ; les équations sont différentes, mais la question reste « quel coût les décisions privées oublient-elles ? ». Repars de cette question, puis construis les deux équilibres. Tu n’as pas besoin de mémoriser les résultats du marché de l’essence.
+1lh9l5a3q6s	Cas E2024 du dossier : MPB = 200 − Q, MPC = 80 + Q, MEC = Q, donc MSC = 80 + 2Q.
+v50oj8g3dw	Nommer le produit ne détermine pas la méthode ; les incitations et le coût absent la déterminent.
+17enm1zrbm5	L’équilibre privé ignore MEC, alors que l’optimum social l’ajoute.
+20wlm9ond74	La taxe se calcule seulement après avoir trouvé Q* ; la DWL mesure les unités excessives.
+30g4cpik6i	Qm = 60 ; Q* = 40 ; taxe optimale 40 ; hauteur de DWL à Qm : MSC − MPB = 200 − 140 = 60 ; DWL = ½ × 20 × 60 = 600.
+1y2zf9qkggk	Devant un nouvel énoncé, identifie les tiers et le coût ignoré avant de chercher une formule dans ta mémoire.
+zin21imwsf	Le graphique change de paramètres pour les textiles. Le raisonnement privé contre social reste identique.
+22shneqb7aw	Textiles : 200 − Q = 80 + 2Q. Quel Q* ?
+1a7ftp1zcvp	Avec MEC = Q, quelle taxe optimale pour les textiles ?
+1rh8bcex1gg	Qm = 60, Q* = 40, écart marginal final 60 : quelle DWL ?
+1shylkody4e	Ils prennent leurs décisions selon ce qu’ils reçoivent et paient.
+toplml3e4t	MEC ne figure pas dans la transaction privée.
+143h7tj332w	MSC = MPC + MEC additionne tous les coûts marginaux réels.
+17nsgm3nv7c	MPB = MPC donne Qm > Q*, où MSB = MSC.
+23icvn36mlf	t* = MEC(Q*) fait s’arrêter le marché concurrentiel à la quantité efficace.
+10nci0q87af	Le conducteur achète selon sa valeur privée et le prix ; la station produit selon son coût privé. Les riverains subissent un dommage qui n’entre pas dans leur transaction. Le coût social MSC = MPC + MEC dépasse donc le coût privé. Le marché Qm = 45 contient des litres dont le coût social dépasse la valeur ; Q* = 30 les exclut. Une taxe égale à MEC(Q*) = 30 fait payer ce dommage marginal et aligne les décisions privées sur la quantité efficace.
+lt2ka8zb9z	Le conducteur et la station comparent gains et coûts privés
+gjchva5wu9	Les riverains subissent un dommage non payé
+rem819d1sd	Le coût social dépasse le coût privé
+3p4qdy3lu5	Le marché consomme des unités socialement excessives
+1wbn1fasyu9	Une taxe évaluée à Q* corrige l’incitation marginale
+2296o3lm1q0	Explique à un ami pourquoi un plein peut être rentable pour l’acheteur et le vendeur, tout en contenant trop de litres pour la société. Relie les acteurs, le coût oublié, Qm/Q* et la taxe optimale.
+sskh3oy9ev	La décision privée
+1651rd9m10a	Le conducteur et la station ne comptent que les gains et coûts privés.
+15ys9rqcipq	Le coût des tiers
+15dt9443l7g	Le dommage aux riverains est absent du prix privé.
+232q03ik2o4	Pourquoi trop de litres
+207dsrvo8ko	MSC > MPC implique Qm > Q* : les unités en trop coûtent plus socialement qu’elles ne valent.
+g7kb51kx88	La correction
+20vtzby7bf	La taxe optimale est le dommage marginal évalué à Q*, et non à l’ancienne quantité.
+1a978kjd9h0	MEC mesure le dommage d’une unité de plus ; le dommage total additionne toutes les unités.
+12vgmb3diyy	Trouve Q* puis évalue MEC(Q*). La taxe change la quantité, donc l’ancien MEC(Qm) n’est pas la cible.
+75v2c6gbjo	La recette fiscale est un transfert reçu par l’État. La DWL mesure une perte nette de bien-être.
+16qpbt24691	Une usine paie ses salariés mais ne compense pas le bruit des voisins. Où est l’externalité ?
+dmjvodrdrb	Dans les salaires
+145imeugoyz	Ils sont déjà dans les coûts privés.
+2b72i52mohh	Dans le bruit non compensé
+10c88w50jn6	Il touche des tiers hors de l’échange.
+1rvaiqil4z	Pourquoi un échange volontaire peut-il être inefficace ?
+kdebpm9rcs	Parce que tout échange détruit du bien-être
+1qtzwu56gs9	L’échange peut produire un gain ; il faut compter tous les effets.
+xrin89ezrc	Des tiers peuvent supporter un dommage non payé
+1kg3j38aa3e	L’accord privé ne garantit pas le bien-être de tous.
+21clzhr7yxl	MEC désigne…
+1pghghsg15z	Le dommage total de toutes les unités
+10bqhiyo7v9	C’est l’intégrale de MEC.
+2g93wwa26j9	Le dommage aux tiers d’une unité supplémentaire
+ohoqokjp6p	Marginal = une unité de plus.
+2csziwrmm8s	Un droit de polluer bien défini avec négociation gratuite garantit sous Coase…
+1u9pks66g6h	Que l’État paie automatiquement tout dommage
+1y9d68aq214	Coase décrit la négociation des parties.
+18sl0y77vg4	Une possibilité de négocier efficacement, avec une distribution dépendant des droits
+ra58mmk0g1	Les hypothèses portent sur droits et coûts ; les paiements changent.

@@ -5,6 +5,7 @@
 
 import type { Lesson, Concept, FormulaSheet, WhyItem, Problem, ExamQuestion, Step } from './types';
 import type { ExtModel } from '../econ';
+import { t } from '../i18n';
 
 const T = ['ext'];
 
@@ -1277,35 +1278,35 @@ export function generateProblem(kind: 'positive' | 'negative', seed: number): { 
   if (kind === 'positive') {
     const qm = pick([10, 12, 14, 15, 16, 18, 20, 24]);
     const a = c + (b + d) * qm, qs = qm + gap, p = c + d * qm;
-    const model: ExtModel = { id: `gen-${seed}`, name: 'Exercice généré', ref: '11.3', kind: 'positive', a, b, c, d, e0: e, e1: 0,
-      qMax: Math.ceil(qs * 1.5), pMax: Math.ceil((a + e) * 1.08), unit: 'unités', constructed: true, story: 'Exercice généré' };
+    const model: ExtModel = { id: `gen-${seed}`, name: t('Exercice généré'), ref: '11.3', kind: 'positive', a, b, c, d, e0: e, e1: 0,
+      qMax: Math.ceil(qs * 1.5), pMax: Math.ceil((a + e) * 1.08), unit: t('unités'), constructed: true, story: t('Exercice généré') };
     return { model, problem: {
-      id: `gen-pos-${seed}`, title: 'Externalité positive — exercice généré', ref: '11.3', prov: 'peda', show: ['MPB', 'MPC', 'MEB'],
+      id: `gen-pos-${seed}`, title: t('Externalité positive — exercice généré'), ref: '11.3', prov: 'peda', show: ['MPB', 'MPC', 'MEB'],
       context: `{{MPB = ${a} − ${b}Q}}, {{MPC = ${c} + ${d}Q}}, {{MEB = ${e}}}.`,
       steps: [
-        step({ id: 'q1', q: 'Qm ?', answer: qm, dim: 'calculation', tags: T, explain: `${a} − ${b}Q = ${c} + ${d}Q ⇒ Q = ${qm}.`, reveal: ['QM'], traps: [{ value: qs, feedback: 'C’est Q* : le marché utilise MPB.', mis: 'market-eq-is-optimum' }] }),
-        step({ id: 'q2', q: 'Prix de marché ?', answer: p, dim: 'calculation', tags: T, explain: `p = ${c} + ${d} × ${qm} = ${p}.` }),
-        step({ id: 'q3', q: 'Q* ?', answer: qs, dim: 'calculation', tags: T, explain: `${a + e} − ${b}Q = ${c} + ${d}Q ⇒ Q* = ${qs}.`, reveal: ['MSB', 'QS'], traps: [{ value: qm, feedback: 'C’est Qm.', mis: 'q-star-is-market-eq' }] }),
-        step({ id: 'q4', q: 'DWL ?', answer: (gap * e) / 2, dim: 'calculation', tags: [...T, 'dwl'], explain: `½ × ${gap} × ${e} = ${(gap * e) / 2}.`, reveal: ['DWL'], traps: [{ value: gap * e, feedback: 'Oubli du ½.' }] }),
-        step({ id: 'q5', q: 'Subvention optimale ?', answer: e, dim: 'formula', tags: [...T, 'pigou'], explain: `s* = MEB(Q*) = ${e}.`, reveal: ['POL', 'QP', 'PRICES'], policy: e }),
-        step({ id: 'q6', q: 'Prix payé par l’acheteur avec s* ?', answer: a - b * qs, dim: 'calculation', tags: T, explain: `p_b = ${a} − ${b} × ${qs} = ${a - b * qs}.` }),
+        step({ id: 'q1', q: t('Qm ?'), answer: qm, dim: 'calculation', tags: T, explain: `${a} − ${b}Q = ${c} + ${d}Q ⇒ Q = ${qm}.`, reveal: ['QM'], traps: [{ value: qs, feedback: t('C’est Q* : le marché utilise MPB.'), mis: 'market-eq-is-optimum' }] }),
+        step({ id: 'q2', q: t('Prix de marché ?'), answer: p, dim: 'calculation', tags: T, explain: `p = ${c} + ${d} × ${qm} = ${p}.` }),
+        step({ id: 'q3', q: t('Q* ?'), answer: qs, dim: 'calculation', tags: T, explain: `${a + e} − ${b}Q = ${c} + ${d}Q ⇒ Q* = ${qs}.`, reveal: ['MSB', 'QS'], traps: [{ value: qm, feedback: t('C’est Qm.'), mis: 'q-star-is-market-eq' }] }),
+        step({ id: 'q4', q: t('DWL ?'), answer: (gap * e) / 2, dim: 'calculation', tags: [...T, 'dwl'], explain: `½ × ${gap} × ${e} = ${(gap * e) / 2}.`, reveal: ['DWL'], traps: [{ value: gap * e, feedback: t('Oubli du ½.') }] }),
+        step({ id: 'q5', q: t('Subvention optimale ?'), answer: e, dim: 'formula', tags: [...T, 'pigou'], explain: `s* = MEB(Q*) = ${e}.`, reveal: ['POL', 'QP', 'PRICES'], policy: e }),
+        step({ id: 'q6', q: t('Prix payé par l’acheteur avec s* ?'), answer: a - b * qs, dim: 'calculation', tags: T, explain: `p_b = ${a} − ${b} × ${qs} = ${a - b * qs}.` }),
       ],
     } };
   }
   const qs = pick([10, 12, 15, 18, 20, 24]);
   const qm = qs + gap, a = c + (b + d) * qm, p = c + d * qm;
-  const model: ExtModel = { id: `gen-${seed}`, name: 'Exercice généré', ref: '11.3', kind: 'negative', a, b, c, d, k0: e, k1: 0,
-    qMax: Math.ceil(qm * 1.5), pMax: Math.ceil(Math.max(a, c + e + d * qm * 1.5) * 1.08), unit: 'unités', constructed: true, story: 'Exercice généré' };
+  const model: ExtModel = { id: `gen-${seed}`, name: t('Exercice généré'), ref: '11.3', kind: 'negative', a, b, c, d, k0: e, k1: 0,
+    qMax: Math.ceil(qm * 1.5), pMax: Math.ceil(Math.max(a, c + e + d * qm * 1.5) * 1.08), unit: t('unités'), constructed: true, story: t('Exercice généré') };
   return { model, problem: {
-    id: `gen-neg-${seed}`, title: 'Externalité négative — exercice généré', ref: '11.3', prov: 'peda', show: ['MPB', 'MPC', 'MEC'],
+    id: `gen-neg-${seed}`, title: t('Externalité négative — exercice généré'), ref: '11.3', prov: 'peda', show: ['MPB', 'MPC', 'MEC'],
     context: `{{MPB = ${a} − ${b}Q}}, {{MPC = ${c} + ${d}Q}}, {{MEC = ${e}}}.`,
     steps: [
-      step({ id: 'q1', q: 'Qm ?', answer: qm, dim: 'calculation', tags: T, explain: `${a} − ${b}Q = ${c} + ${d}Q ⇒ Q = ${qm}.`, reveal: ['QM'] }),
-      step({ id: 'q2', q: 'Prix de marché ?', answer: p, dim: 'calculation', tags: T, explain: `p = ${p}.` }),
-      step({ id: 'q3', q: 'Q* ?', answer: qs, dim: 'calculation', tags: T, explain: `${a} − ${b}Q = ${c + e} + ${d}Q ⇒ Q* = ${qs}.`, reveal: ['MSC', 'QS'], traps: [{ value: qm, feedback: 'C’est Qm.', mis: 'q-star-is-market-eq' }] }),
-      step({ id: 'q4', q: 'DWL ?', answer: (gap * e) / 2, dim: 'calculation', tags: [...T, 'dwl'], explain: `½ × ${gap} × ${e} = ${(gap * e) / 2}.`, reveal: ['DWL'] }),
-      step({ id: 'q5', q: 'Taxe optimale ?', answer: e, dim: 'formula', tags: [...T, 'pigou'], explain: `t* = MEC(Q*) = ${e}.`, reveal: ['POL', 'QP', 'PRICES'], policy: e }),
-      step({ id: 'q6', q: 'Recette fiscale avec t* ?', answer: e * qs, dim: 'calculation', tags: T, explain: `t* × Q* = ${e} × ${qs} = ${e * qs} : un transfert, pas une perte.`, reveal: ['GOV'], traps: [{ value: (gap * e) / 2, feedback: 'C’est la DWL initiale, pas la recette.', mis: 'transfer-is-dwl' }] }),
+      step({ id: 'q1', q: t('Qm ?'), answer: qm, dim: 'calculation', tags: T, explain: `${a} − ${b}Q = ${c} + ${d}Q ⇒ Q = ${qm}.`, reveal: ['QM'] }),
+      step({ id: 'q2', q: t('Prix de marché ?'), answer: p, dim: 'calculation', tags: T, explain: `p = ${p}.` }),
+      step({ id: 'q3', q: t('Q* ?'), answer: qs, dim: 'calculation', tags: T, explain: `${a} − ${b}Q = ${c + e} + ${d}Q ⇒ Q* = ${qs}.`, reveal: ['MSC', 'QS'], traps: [{ value: qm, feedback: t('C’est Qm.'), mis: 'q-star-is-market-eq' }] }),
+      step({ id: 'q4', q: t('DWL ?'), answer: (gap * e) / 2, dim: 'calculation', tags: [...T, 'dwl'], explain: `½ × ${gap} × ${e} = ${(gap * e) / 2}.`, reveal: ['DWL'] }),
+      step({ id: 'q5', q: t('Taxe optimale ?'), answer: e, dim: 'formula', tags: [...T, 'pigou'], explain: `t* = MEC(Q*) = ${e}.`, reveal: ['POL', 'QP', 'PRICES'], policy: e }),
+      step({ id: 'q6', q: t('Recette fiscale avec t* ?'), answer: e * qs, dim: 'calculation', tags: T, explain: `t* × Q* = ${e} × ${qs} = ${e * qs} : ${t('un transfert, pas une perte.')}`, reveal: ['GOV'], traps: [{ value: (gap * e) / 2, feedback: t('C’est la DWL initiale, pas la recette.'), mis: 'transfer-is-dwl' }] }),
     ],
   } };
 }

@@ -1,0 +1,107 @@
+======================================================================
+4. CONSOMMATEUR, PRÉFÉRENCES, BUDGET ET DEMANDE — L3–L4
+======================================================================
+
+4.1 Préférences et utilité
+Complétude : possibilité de classer deux paniers, y compris indifférence.
+Transitivité : si A préféré à B et B à C, A préféré à C.
+Non-satiété / more-is-better : davantage de biens désirables est préférable.
+Utilité ordinale : U classe les paniers ; une utilité 100 n'indique pas
+deux fois plus de bonheur qu'une utilité 50. Une transformation strictement
+croissante représente les mêmes préférences.
+Exemple L3 : U(E,F)=sqrt(EF), avec E entertainment, F food.
+U=EF donne le même classement pour E,F positifs ; les niveaux numériques
+et les dérivées changent, pas les choix optimaux.
+
+MU_x = dérivée partielle de U par rapport à x : utilité marginale du bien x.
+Utilité marginale décroissante : une unité de plus ajoute de moins en moins
+d'utilité, à quantité de l'autre bien donnée. Ne pas confondre cette
+propriété avec le caractère ordinal de l'utilité.
+
+Courbe d'indifférence : paniers donnant le même U. Sous préférences usuelles,
+elle est décroissante, convexe vers l'origine, ne croise pas une autre courbe
+du même consommateur ; les courbes plus au nord-est sont préférées.
+Deux biens désirables : pente positive incompatible avec more-is-better.
+Si thé horizontal et café vertical, indifférences horizontales : seul le
+café compte ; le thé ne procure pas d'utilité marginale (L3 p.10).
+
+4.2 MRS et budget : ne jamais inverser les axes sans adapter les ratios
+Avec x horizontal et y vertical, le long d'une indifférence :
+0=MU_x*dx+MU_y*dy ->dy/dx=-MU_x/MU_y.
+MRS_xy=MU_x/MU_y, valeur absolue de cette pente : quantité de y que le
+consommateur est prêt à abandonner pour une unité supplémentaire de x.
+Dans L3, F horizontal et E vertical : pente=-MU_F/MU_E.
+
+Budget p_x*x+p_y*y <= I ; égalité à l'optimum si non-satiété et prix positifs.
+y=I/p_y-(p_x/p_y)*x ; intercepts x=I/p_x et y=I/p_y.
+Revenu augmente : déplacement parallèle vers l'extérieur, prix inchangés.
+Prix x augmente : intercept y inchangé, intercept x baisse, budget plus raide.
+Un changement de prix réduit le pouvoir d'achat ; il ne change pas forcément
+le revenu nominal I.
+
+4.3 Optimum intérieur
+Max U(x,y) sous le budget. À une tangence intérieure :
+MU_x/MU_y=p_x/p_y, soit MU_x/p_x=MU_y/p_y.
+Intuition : le dernier euro apporte la même utilité marginale dans les deux
+usages. Sinon déplacer une petite dépense vers le meilleur usage améliore U.
+Utiliser cette condition AVEC le budget, pas à sa place.
+Elle suppose une solution intérieure et des préférences suffisamment
+régulières ; comparer les coins et les coudes lorsque nécessaire.
+
+Complément calculatoire, Cobb-Douglas U=x^alpha*y^beta, alpha,beta>0 :
+x*=alpha/(alpha+beta)*I/p_x ; y*=beta/(alpha+beta)*I/p_y.
+Justification : MRS=(alpha/beta)*(y/x)=p_x/p_y, puis budget.
+Pour U=xy : moitié du revenu sur chaque bien, pas moitié du nombre d'unités.
+
+4.4 Substituts et compléments parfaits
+Substituts parfaits U=ax+by : MRS=a/b constant ; comparer a/p_x à b/p_y.
+Tout sur x si a/p_x>b/p_y ; tout sur y si inverse ; tout mélange sur le
+budget est optimal si égalité. Une tangence unique n'est pas requise.
+Exemple L4 p.10 : 2 macchiati équivalent à 1 cappuccino, mêmes prix :
+acheter seulement des cappuccini, plus d'utilité par euro.
+Compléments parfaits U=min(x/a,y/b) : choisir au coude x/a=y/b,
+car des unités non appariées n'ajoutent rien. Exemple chaussures G/D.
+Pour une paire 1:1 : x=y=I/(p_x+p_y).
+
+4.5 Demande et revenu
+Recalculer l'optimum pour chaque prix x, en gardant I et les autres prix
+constants ; les couples (p_x,x*) tracent la demande individuelle.
+Courbe d'Engel : quantité optimale en fonction du REVENU, prix constants.
+Bien normal : quantité augmente avec I ; inférieur : baisse avec I.
+Un même bien peut être normal à faible revenu et inférieur à haut revenu
+(L4 exemple des nuits en auberge).
+Bien de luxe : élasticité-revenu >1 ; nécessité normale : entre 0 et 1.
+Ces qualificatifs ne classent pas la qualité intrinsèque du bien.
+
+4.6 Substitution, revenu et compensation
+Une hausse du prix rend x relativement plus cher : substitution vers y.
+Elle diminue aussi le pouvoir d'achat : effet de revenu.
+L4 p.11–13 : taxe sur l'essence, puis transfert forfaitaire suffisant pour
+atteindre l'ANCIENNE indifférence aux NOUVEAUX prix. L'utilité peut être
+maintenue alors que la consommation d'essence baisse par substitution.
+Ce transfert ne supprime pas le nouveau prix relatif.
+E2022 Q5 : transfert permettant d'acheter l'ANCIEN PANIER après retrait
+d'une subvention alimentaire. L'ancien panier reste accessible ; avec une
+ancienne solution intérieure et une indifférence strictement convexe,
+rechoisir au nouveau budget donne généralement une utilité supérieure.
+Ancien panier accessible et ancienne utilité juste atteinte sont deux
+critères de compensation distincts. La garantie générale est « pas moins
+bien », la stricte amélioration demande des conditions de tangence/coin.
+
+4.7 Demande de marché
+QD(p)=somme_i max(0,q_i(p)). Addition HORIZONTALE à prix donné.
+L4 p.19 : q_H=10-p, q_L=5-p.
+QD=0 pour p>=10 ; QD=10-p pour 5<p<10 ; QD=15-2p pour 0<=p<=5.
+La demande inverse agrégée a un coude ; vérifier le segment de tout optimum.
+
+4.8 Comportement, préférences sociales et limites
+L3 : utilité peut intégrer altruisme, statut, respect, fierté et malveillance.
+Maximiser l'utilité n'équivaut donc pas à maximiser sa seule consommation.
+Ultimatum game : refus possible d'une offre monétaire positive pour équité.
+Manque de self-control : gratification immédiate contre intérêt futur.
+Heuristiques : règles simples lorsque l'optimisation est difficile.
+Loss aversion : les pertes peuvent peser davantage que les gains comparables.
+Framing : présentation d'un choix affecte la décision.
+Overconfidence : confiance excessive dans ses capacités/informations.
+Préférences sociales dans A3 : convertir les gains monétaires en UTILITÉS
+avant de chercher les meilleures réponses.

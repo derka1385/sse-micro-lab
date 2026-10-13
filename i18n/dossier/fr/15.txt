@@ -1,0 +1,73 @@
+======================================================================
+13. THÉORIE DES JEUX DANS ASSIGNMENT 3
+======================================================================
+
+13.1 Résoudre une matrice
+Une stratégie pure est un choix déterminé. Une stratégie dans un jeu
+séquentiel décrit l'action à CHAQUE nœud éventuel, même hors du chemin joué.
+Dans une matrice : premier gain pour joueur de ligne, second pour colonne.
+Pour chaque colonne, marquer meilleures réponses de ligne ; pour chaque
+ligne, celles de colonne. Une case doublement marquée est un Nash pur.
+Il peut y en avoir plusieurs, y compris avec indifférences.
+Dominante : optimale quelles que soient les actions rivales ; strictement
+dominante si toujours strictement meilleure. Un équilibre peut être
+inefficient : aucun gain unilatéral n'implique pas gain collectif maximal.
+
+13.2 Golden Balls — données A3 p.1, matrice vérifiée visuellement
+              Colin S          Colin N
+Rowena S      (10,10)           (0,20)
+Rowena N      (20,0)            (0,0)
+S=Split, N=Steal dans le fichier ; le symbole N n'est pas universel.
+Égoïstes : N est faiblement dominante ; Nash purs (S,N),(N,S),(N,N).
+Envie : retrancher1 à son utilité si l'autre reçoit davantage.
+SS(10,10), SN(-1,20), NS(20,-1), NN(0,0) ->seul Nash NN.
+Altruisme égal : u_i=argent_i+argent_j.
+SS donne utilités(20,20), SN(20,20), NS(20,20), NN(0,0).
+Nash purs SS,SN,NS. NN n'en est PAS un : dévier vers S face à N donne20
+au lieu de0. La réponse personnelle « SS et NN » dans A3.1c est erronée.
+Altruisme double : u_i=argent_i+2*argent_j.
+SS(30,30), SN(40,20), NS(20,40), NN(0,0) ->S strictement dominante,
+seul Nash SS. Préférences différentes ->jeu en utilités différent.
+Ces listes portent sur les stratégies PURES ; ne pas les présenter comme
+une classification complète de tous les équilibres mixtes.
+Complément pour la classification de tous les Nash de cette matrice :
+noter x la probabilité que Rowena choisisse S, y celle que Colin choisisse S.
+Égoïstes : équilibres si x=0 OU y=0 ; l'autre peut mélanger arbitrairement.
+Envie : x=y=0 uniquement. Altruisme égal : x=1 OU y=1 ; l'autre peut
+mélanger arbitrairement. Altruisme double : x=y=1 uniquement.
+On retrouve exactement les Nash purs ci-dessus aux valeurs0/1.
+
+13.3 Armes et pétrole : induction à rebours
+Pool pétrole6 ; coût d'armes X1,Y3. Si un seul armé, partage5/1 ; si aucun,
+3/3 ; si les deux armés, aucun pétrole mais coûts payés.
+Gains nets (X,Y) : ni armé(3,3), X seul(4,1), Y seul(1,2), deux(-1,-3).
+X joue d'abord : Y choisit ne pas armer après X armé (1>-3).
+Si X non armé, Y compare Y armé2 à Y non armé3 ->ne pas armer également.
+Donc stratégie complète Y : ne pas armer après chaque action de X.
+X compare armer4 et ne pas armer3 ->arme ; issue(4,1).
+Y joue d'abord : X choisit ne pas armer après Y armé (1>-1), et
+armer après Y non armé (4>3). Y compare armer2 et ne pas armer1 ->arme ;
+issue(1,2). Le suiveur X resterait non armé face à Y armé, contrairement
+à une réponse qui confond son gain1 et son coût d'armement.
+Un SPNE spécifie aussi les réactions hors chemin, pas seulement l'issue.
+
+13.4 Coordination paix/guerre — A3 p.3
+                 Y paix       Y guerre
+X paix           (9,9)        (0,8)
+X guerre         (8,0)        (7,7)
+Nash purs paix/paix et guerre/guerre. Paix/paix domine au sens de Pareto.
+Crainte de l'autre et croyances peuvent rendre guerre/guerre plausible,
+mais les seuls gains ne sélectionnent pas une issue simultanée unique.
+Si X joue d'abord : Y répond paix à paix (9>8), guerre à guerre (7>0).
+X anticipe9 contre7 ->paix ; issue paix/paix, SPNE par induction.
+Communication peut coordonner les croyances ; cheap talk non contraignant
+ne change pas nécessairement les incitations.
+
+13.5 Engagements et menaces crédibles — A3.4
+Pour analyser une promesse de sanction : au moment où elle devrait être
+exécutée, le promettant a-t-il encore intérêt à la respecter ?
+Écrit public peut imposer coûts de réputation/politiques, sans garantie
+d'engagement irrévocable. Une clause militaire n'est dissuasive que si elle
+change les incitations et/ou rend l'intervention crédible après l'attaque.
+La question historique de l'assignment sert d'application théorique ;
+ce dossier ne prétend pas vérifier l'histoire diplomatique du document.

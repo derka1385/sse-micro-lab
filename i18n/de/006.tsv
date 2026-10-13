@@ -1,0 +1,235 @@
+18dpsuzfzba Ein Markt addiert Käufe, keine Preise
+oe6wfcx5tz Zwei Studierende haben nicht dieselbe Zahlungsbereitschaft. Frag beim selben Preis jeden, wie viel er kauft, und addiere dann die Einheiten. Würde einer mit seiner Formel eine negative Menge angeben, kauft er null: Niemand verkauft hier „negativen Konsum“.
+1yku1mhxnuc Private Marktnachfrage: horizontale Aggregation QD(p) = Σ max(0, qi(p)). Die aggregierte Kurve kann einen Knick haben.
+v7i0k1wv1m Alle zahlen für das homogene Gut denselben Preis.
+12plbpmtm0k Was der Markt aufnimmt, ist die Gesamtzahl der Einheiten, also eine Summe von Mengen.
+15i13jr2p7l Ein Käufer verlässt den Markt oberhalb seines Reservationspreises; seine negative Nachfrage beizubehalten würde die Summe verfälschen.
+1bhd46aaz68 Beispiel L4: qH = max(0, 10 − p), qL = max(0, 5 − p). Bei p = 6: 4 + 0 = 4, nicht 4 + (−1) = 3. Bei p = 4: 6 + 1 = 7.
+209hgnko496 Bei 6 € verzichtet dein Freund auf Kaffee. Du kaufst nicht eine Einheit weniger, weil seine ungekappte Formel −1 ergibt.
+cjhz34g611 Mit qH = max(0, 10 − p) und qL = max(0, 5 − p): Was ist QD bei p = 6?
+2328b3u73ai qH = 4; qL = 0. Die Summe ist 4.
+2ca9l2fzfqh Du hast −1 für den zweiten Käufer behalten. Kappe jede Nachfrage bei null, bevor du summierst.
+17465blgkgw Prüf die Antwort, bevor du sie verkündest
+ymlenrrsh7 Eine lineare Formel ist ein Modell auf einem Definitionsbereich; sie zwingt keinen Verkäufer, eine negative Menge anzubieten. Setz nach einer Rechnung den Preis immer in beide Pläne ein und prüf die Einheiten. Eine richtige Gleichung mit falschem Bereich kann ein ökonomisch unmögliches Ergebnis liefern.
+27ntjay41z4 Prüfungen: Q ≥ 0, zulässiges p, QD(p*) = QS(p*), passende Kurve und Strecke, konsistente Einheiten.
+sagsk6hmxp Vorzeichen und Strecken spiegeln wider, was die Akteure wirklich wählen können.
+jm3rlqhgms Die Lösung in beide Seiten einzusetzen deckt einen Algebra- oder Datenfehler auf.
+45041kip37 Die kausale Geschichte muss zur ursprünglichen Verschiebung passen, nicht nur zum Zahlenergebnis.
+fpy0vw3hv3 Für QS = p − 2 bei p = 1 ist das ökonomische Angebot null, nicht −1. Für das berechnete Gleichgewicht p = 6 ergeben beide Formeln 4: Konsistenz bestätigt.
+1qry2yd8ttv Vor der Abgabe: „Wer hat sich geändert? Was will er bei gegebenem Preis tun? Welches Ungleichgewicht? Welche Preisreaktion?“ Mit diesen vier Fragen kannst du die Grafik rekonstruieren.
+sz8jfvblvx Erkläre in zwei Sätzen, warum die Ankunft von Studierenden p und Q erhöht, bei unverändertem Angebot.
+zmge2vse3h Mehr Käufe bei gegebenem Preis
+8kir7e8klv Knappheit, dann Preisanstieg
+27vm59r824b Reaktion entlang des unveränderten Angebots
+28i8xyu73gr Beim alten Preis wollen mehr Studierende kaufen, was eine Knappheit erzeugt. Der Preis steigt: Die Verkäufer erhöhen ihre angebotene Menge entlang der unveränderten S, und das neue Q liegt über dem alten.
+1sswgy73nwq Verknüpf die Ursachen, bevor du rechnest
+fcsytcl9o8 Bau den Mechanismus der Reihe nach wieder auf. Jeder Pfeil muss erklären, warum der nächste Schritt eintritt.
+1axl9c5gcb2 Die Änderung von Einkommen, Geschmack oder Kosten zeigt, welcher Plan sich ändert — unabhängig vom Preis des Gutes.
+1zf5ea52dhd Die geänderte Beziehung erzeugt eine Knappheit oder unverkaufte Einheiten.
+1vgpsxkoi5o Unbefriedigte Käufe treiben p nach oben; unverkaufte Einheiten drücken p nach unten.
+2x2qkdnpz8 Der neue Preis ändert die gewünschten Mengen, ohne automatisch alle Kurven zu verschieben.
+1kforv9e4ky Die gewünschten Mengen müssen gleich und ökonomisch möglich sein.
+265evcutd08 Die Beliebtheit erhöht die gewünschten Käufe bei jedem Preis: D verschiebt sich nach rechts. Teurere Bohnen verringern das Angebot bei jedem Preis: S verschiebt sich nach links. Beide Kräfte erhöhen p. Die erste erhöht Q, die zweite senkt es: Ohne relative Größen ist die Änderung von Q unbestimmt.
+rr0bnct7g8 Erkläre die Entscheidung, indem du dich in jeden Akteur hineinversetzt, und prüfe dann, was sich ändert, wenn sich seine Beschränkung ändert.
+1lqc9t1wbgh Konstruierte Übung; keine offizielle Lösung
+7ccpy2wrqd Bring Ursachen und Folgen in die richtige Reihenfolge.
+1zjmtxeh60 Den Anfangsschock bestimmen
+2ad4302v6qg QD und QS beim alten Preis vergleichen
+lahhunjcwd Den Druck auf den Preis ableiten
+2eenrem1llj Den Reaktionen entlang der unveränderten Kurven folgen
+1wmz4vfovj8 Das neue Gleichgewicht und den Definitionsbereich prüfen
+iz2irmc9mb Jeder Schritt erklärt, warum der nächste eintritt. Geh die „weil“-Verbindungen durch, wenn du zögerst.
+1qwxquktwes Erklär es mit deinen eigenen Worten
+10zbwsev1je Ein normaler Kaffee wird beliebter, während der Preis seiner Bohnen steigt. Erkläre einem Freund, was sich bei gegebenem Preis ändert, was mit dem Preis passiert und warum du das Vorzeichen der Änderung von Q nicht immer angeben kannst.
+2ba88wb6qk2 Du bist dran: eine Prüfungsantwort auf Englisch
+qlygeyaiz8 Wähle das Modell, stell die Beziehungen auf und begründe das Ergebnis. Die Lösung erscheint, nachdem du deine Antwort abgegeben hast.
+209zofzcfsa Was du rekonstruieren kannst
+1y2ozz57o9t Du hast den Mechanismus durchlaufen. Das Verständnis festigt sich jetzt durch verteiltes Abrufen, in einem anderen Kontext und ohne in die Lektion zu schauen.
+prgfage1vr Geschmack verschiebt D
+1v0w95l2yvc Beim selben Preis wird mehr Kaffee gewünscht.
+19mm88vyep4 Kosten verschieben S
+n21bwk8hlt Bei gegebenem Verkaufspreis wird weniger angeboten.
+1r30clqv1hj Beide treiben p nach oben
+jjyw0wt5ot Jeder Schock erzeugt beim alten Preis einen Nachfrageüberhang.
+1ut9v3wb76t Q bleibt unbestimmt
+rznoqmjsdm Die Mengeneffekte sind entgegengesetzt; man braucht ihre Größe.
+mkh1cz31rb Der Eigenpreis wählt einen Punkt entlang D. Ein anderer Geschmack verschiebt D bei gegebenem Preis.
+293z77kquhg Unbestimmt heißt nicht unverändert: Die beiden Schocks können unterschiedlich groß sein.
+1qk1og57via Übung konstruiert aus L2 und dem SSE-Argumentationsformat. Zahlen und Lösung sind keine offizielle Musterlösung.
+1ksrtbv83nc D für die Ankunft von Käufern verschieben, S für die Kosten.
+153bhyfxokn QD = QS in jedem der drei Fälle lösen.
+2d4rxldmop2 Das Zahlenergebnis dieses Falls von der allgemeinen Schlussfolgerung ohne Größen unterscheiden.
+dy7w0gfrye Beide: 14 − p = p − 4 ⇒ p = 9, Q = 5.
+guv232bc4w (4,6), (6,8), dann (5,9) in (Q,p)-Koordinaten markieren.
+2dw5m95e26u Quantity demanded und demand: Was ist der Unterschied?
+ru74j34q08 Keiner: Beide bezeichnen immer die ganze Kurve
+17ramyw7vf2 Diese Verwechslung verhindert, Bewegung und Verschiebung zu unterscheiden.
+2d5l7fo7vwj Ein Punkt bei gegebenem Preis gegenüber der ganzen Beziehung zwischen Preisen und Mengen
+1he717yaq4x Eine Änderung des Eigenpreises ändert den Punkt, nicht automatisch die Beziehung.
+f0bue9sbud Excess supply bezeichnet hier…
+coz4x7ue9a Den Gewinn aller Verkäufer
+27ehbg5t04r Das ist ein anderer Begriff, in Geld und nicht in Einheiten ausgedrückt.
+yz6ubxzy6s QS − QD, wenn diese Differenz positiv ist
+231rx3i54dp Es ist ein Überschuss an angebotenen Einheiten, keine Fläche monetären Gewinns.
+2db3pi97xru Ein Input wird billiger, D unverändert. Übliches Ergebnis?
+13ue40knmsq p und Q sinken
+85jw0qobgj Niedrigere Kosten ermöglichen mehr Menge, nicht weniger.
+1xk1kgcv2qk p sinkt und Q steigt
+1we83sca4c5 S verschiebt sich nach rechts; der neue niedrigere Preis erhöht die Käufe.
+1okrm172c9f Rekonstruiere einen positiven Nachfrageschock.
+17akqsrra4e Mehr gewünschte Käufe bei gegebenem Preis
+1qqf367ba79 Nachfrageüberhang beim alten Preis
+26bfnptq8hg Preisanstieg
+1n8y9g1pi5p Anstieg der angebotenen Menge entlang S
+h1dkmwrv49 Neuer Markt: QD = 18 − 2p; QS = p − 3. Berechne p*.
+xccld2jbvf Mit pD = 24 − 2Q und pS = 6 + Q: Berechne Q*.
+cipmf62nqa D nach links und S nach rechts, Größen unbekannt: sichere Schlussfolgerung?
+14gk7j9o1fn Q sinkt und p ist unbestimmt
+flpjby3fqb Das ist die andere Vorzeichenkombination. Geh jeden Schock einzeln durch.
+1yziyp7961o Der Preis sinkt; Q ist unbestimmt
+8uqdizazt1 Beide Kräfte senken p, aber die eine verringert Q und die andere erhöht es.
+1okzzhzy299 Zwei Nachfragen q1 = max(0, 8 − p) und q2 = max(0, 3 − p). Welche Summe bei p = 5?
+1ilzxny3f99 3 + 0 = 3; die zweite Nachfrage wird bei null gekappt.
+26ugwmfqrth Welcher EN-Satz beschreibt einen Anstieg des Eigenpreises richtig?
+1cj31b1l6f9 Es fehlt ein Bestimmungsfaktor außer dem Eigenpreis.
+1qpcncf96v5 Quantity demanded falls along an unchanged demand curve.
+26e7vw7jo42 Die Beziehung bleibt erhalten; der Punkt bewegt sich.
+1sd4j98mn2a Supply falls at a given price
+ad2ghnnw18 Shortage raises price
+27647lrhp8e Ich unterscheide einen Kaufplan von einem Verkaufsplan.
+18ln680on30 Ich benenne die Akteure und was sie als gegeben hinnehmen.
+iq0aq7nfxe Ich finde und prüfe p* und Q*.
+28uxlrll7ld Ich setze QD gleich QS und setze die Lösung dann in beide Beziehungen ein.
+24fspvr55ol Ich trenne Verschiebung und Bewegung.
+1k5tcjr75kj Ich stelle die Frage: „Würde man beim selben Preis mehr oder weniger wollen?“
+1adh626iw9c Ich kann eine Knappheit und unverkaufte Einheiten erklären.
+nwahru1cv8 Ich leite aus unvereinbaren Entscheidungen einen Preisdruck ab.
+235seppcwmz Ich gebe einer unbestimmten Variable kein Vorzeichen.
+y2b2w1llt6 Ich vergleiche die Effekte der beiden Schocks getrennt und ihre Größe.
+1hu7i8m2w82 Ich beachte Definitionsbereiche und Einheiten.
+25lh9r3gly2 Ich kappe negative Nachfragen und behalte in allen Beziehungen denselben Markt.
+r92ea4olki Konsument — wähle, was dein Budget erlaubt
+26ytlr578c0 Präferenzen, Abwägung und Beschränkung
+ueg3u6faq3 Ein Güterbündel kann dir besser gefallen, ohne dass du es dir leisten kannst. Du lässt dein Budget sprechen, entdeckst, was MRS bedeutet, und weißt dann, wann eine Tangente, eine Ecke oder ein Knick entscheidet.
+2bt4ggftts Du, als Konsument
+23eewen9xf5 teilst 1 200 auf L und R auf
+lmziav1uxc das erschwingliche Bündel, das du bevorzugst
+1fdq7885815 Die Verkäufer
+p1flxfkjer setzen pL = 40 und pR = 120
+14iawz26wvi für die gekauften Mengen bezahlt werden
+xcqjli061p unterscheidest Rangordnung und Machbarkeit
+a3w5ank1tq die Wahl finden, ohne aufs Geratewohl eine Tangentialbedingung aufzusagen
+vu6i8ubfxj Was du willst und was du kannst, sind zwei Fragen
+1g0674fhxcr Du hast 1 200 für zwei Güter L und R auszugeben. Das erste kostet 40, das zweite 120. Du magst ein sehr großzügiges Bündel bevorzugen, aber diese Vorliebe bezahlt den Kauf nicht: Prüf zuerst, was du dir leisten kannst.
+1bfxavf0gya Der Konsument maximiert seine Präferenzen unter pL·L + pR·R ≤ I. Ziel und Beschränkung spielen unterschiedliche Rollen.
+1fz9s2trpaf Präferenzen ordnen Bündel, auch solche, die das Budget übersteigen.
+1u2v9aiph9s Das Budget scheidet unmögliche Bündel vor dem abschließenden Vergleich aus.
+1t17f7tm0lk Optimieren unter Beschränkung heißt also nicht, aus einer Liste den höchsten Nutzenwert zu wählen, ohne seine Kosten zu prüfen.
+78t0ihb4hk A2: (L,R) = (20,4) ergibt U = 80, kostet aber 40×20 + 120×4 = 1 280. (15,5) ergibt U = 75 und kostet 1 200: Das zweite ist erschwinglich, das erste nicht.
+cdp81500l4 Vielleicht bevorzugst du einen leistungsstärkeren Computer, aber du kannst die fehlenden 80 nicht einfach zu deinem Budget hinzufügen, weil seine Bewertung besser ist.
+1lzrot934qd A2: dein Budget gegenüber deinen Präferenzen
+ka0pbj3oiy R, Einheiten von R
+13ur5jcjode L, Einheiten von L
+hy9so19tw2 R waagerecht, L senkrecht. Exaktes Budget L = 30 − 3R. Die Indifferenzkurve U = LR = 75 wird durch exakte, zur Lesbarkeit verbundene Punkte dargestellt; die Strecken sind eine visuelle Näherung der Hyperbel.
+vf4nfg1nwd Budget: L = 30 − 3R
+11chbxci6nd Bündel, die bei pL = 40 und pR = 120 genau 1 200 kosten.
+7ygdgpwn31 Indifferenz U = 75
+2415xcwhj1f Jeder Punkt ergibt LR = 75. Der Tangentialpunkt ist (R,L) = (5,15).
+2fajlengas9 Optimum: R = 5, L = 15
+1kphu8topnl Kostet 1 280: nicht erschwinglich
+20g4n8c03gq Wie viel kostet (L,R) = (20,4)?
+153hrhzkki2 Ist das Bündel (20,4) mit I = 1 200 verfügbar?
+1i6ryi39n9f Ja, weil U = 80 größer ist als U = 75
+103iwgd1d98 Eine Vorliebe macht ein Bündel nicht bezahlbar.
+uys85x5o4p Nein, auch wenn es mehr Nutzen bringt
+1x1k06xdct6 Es überschreitet die Beschränkung um 80.
+12zz6aefodk Nutzen ist eine Rangordnung, kein Glücksthermometer
+1a0din8fvat Das Modell U = LR ordnet jedem Bündel eine Zahl zu, um deine Präferenzen darzustellen. U = 80 statt 40 heißt, dass das erste Bündel vorgezogen wird; es misst nicht doppelt so viel Glück. Eine Transformation, die die Reihenfolge der Bündel bewahrt, stellt dieselben Entscheidungen dar.
+25kh6wgil4t Nutzen ist ordinal. Für positive L,R ordnen U = LR und V = √(LR) die Bündel in derselben Reihenfolge.
+1ye8hmpdxj0 Die Wahl braucht eine Reihenfolge zwischen Bündeln, keine universelle Glückseinheit.
+9naou16ibt Die Quadratwurzel ist steigend: Ist LR größer, ist es auch seine Wurzel.
+115dqci5vpj Niveaus und Ableitungen ändern sich, aber die konsistente Abwägung und das optimale Bündel bleiben gleich.
+123r3w6ekik Bündel (15,5) und (24,2): U = 75 und 48; V ≈ 8,66 und 6,93. Die Rangordnung ist trotz unterschiedlicher Zahlenabstände identisch.
+s3q4ps7mtl Deine App kann die Bewertung von 75 auf 8,66 ändern, ohne das Bündel zu ändern, das du wählen würdest.
+vmdrcgl96q U(A) = 80 und U(B) = 40 erlauben die Aussage…
+1tgyewpsncu A bringt genau doppelt so viel Glück
+w4rrpohibh Dieses Verhältnis verschwindet unter einer steigenden, aber gleichwertigen Transformation.
+251nrdzpj1f A wird gemäß diesen Präferenzen B vorgezogen
+23y9p8ia0ao Die Bewertung ordnet Bündel; sie misst kein Glücksverhältnis.
+1tb6l2wv76w Lies die Achsenabschnitte, bevor du eine Steigung berechnest
+1v738ym118u Gibst du dein ganzes Geld für L aus, kannst du 30 kaufen. Nimmst du nur R, kannst du 10 kaufen. Zwischen diesen Extremen zwingt dich ein R mehr, drei L aufzugeben: Das ist die Abwägung, die der Markt anbietet.
+126y4xd6qq8 Mit R waagerecht und L senkrecht: 40L + 120R = 1 200 ⇒ L = 30 − 3R. Steigung = −pR/pL = −3.
+1t1oomdlsic Ein R kostet 120 und ein L kostet 40. Wie viele L musst du opfern, um ein R mehr zu bezahlen?
+15asaoq5qw9 120/40 = 3. Deshalb ist das Preisverhältnis die Steigung im Betrag.
+16hhtziw1ml Das wären die Kosten eines L ausgedrückt in R; deine Achsen sind andersherum.
+1m1f8xh2nxk 120 ist Geld pro R, keine Anzahl L. Teile durch den Preis eines L.
+w26x2un00k Die Achsenabschnitte kaufen nur ein Gut: Sie sind also I geteilt durch dessen Preis.
+2fyqkcctvjx Das Budget erlaubt, 120 an Ausgaben für R gegen 120 an Ausgaben für L zu tauschen.
+m8loz2feod Die Zahl der geopferten L ist 120/40; das negative Vorzeichen zeigt die Abnahme von L.
+wn4s2qu460 Geh von (L,R) = (18,4) zu (15,5): −3 L und +1 R, Kosten unverändert 1 200.
+25ksxf0k7r7 Du legst ein R in den Korb. Um an der Kasse mit demselben Betrag auszukommen, nimmst du drei L heraus.
+exzsxalsj9 Wie viele R, wenn das ganze Budget von 1 200 zum Preis 120 in R fließt?
+nn3pur8f3z R waagerecht und L senkrecht: Betrag der Budgetsteigung?
+20g0qgbch2d Dieses Verhältnis würde zu L waagerecht und R senkrecht passen.
+1bc75f424nt Der Zähler ist der Preis des waagerechten Gutes.
+rdol3jow8r Das nächste Stück zählt je nach dem, was du schon hast, unterschiedlich
+16lxepuhim7 Bei U = LR ist ein L mehr umso nützlicher, je mehr R du schon hast, um es zu genießen. Umgekehrt ist ein R mehr mehr wert, wenn L reichlich vorhanden ist. Die Entscheidung, dein Bündel anzupassen, vergleicht, was jedes Gut an der Grenze hinzufügt.
+kkgmlbzuxc Für U = LR: MU_L = R und MU_R = L. MU bezeichnet die Ableitung des Nutzens nach dem betreffenden Gut.
+19kbao7yrzp Ist R fest, erhöht ein L mehr das Produkt LR um R.
+20s1vvgr4v3 Ist L fest, erhöht ein R mehr LR um L.
+27oa3z3dzbk Wir vergleichen lokale Änderungen, um zu wissen, ob eine kleine Verlagerung der Ausgaben das Bündel verbessert.
+2aoob7n51b Bei (L,R) = (15,5) erhöht ein L mehr bei festem R den Nutzen U um 5; ein R mehr bei festem L erhöht U um 15. Die Einheiten kosten aber 40 und 120: Man muss noch pro Euro vergleichen.
+w74as5txct Wähle R nicht nur, weil sein MU 15 gegenüber 5 beträgt: Ein R kostet dreimal so viel.
+12qdd1ceco6 Mit U = LR beim Bündel (L,R) = (15,5): Was ist MU_R?
+25e6qtz7xao Die Ableitung nach R ist L; hier L = 15.
+hawjdgnmfn Nutzeneinheiten/R
+12jzaj459v5 Reicht MU_R > MU_L, um alle Ausgaben auf R zu lenken?
+5tpayjz1gw Ja, der höchste MU entscheidet immer
+4bx1gs9zy1 Du ignorierst, was es kostet, diese Einheit zu bekommen.
+lt5k9vbps9 Nein: Man muss den Grenznutzen pro Euro vergleichen
+18q7qwh8a58 R kann pro Einheit nützlicher und im gleichen Verhältnis teurer sein.
+291qqcq6lqr MRS: dein freiwilliger Tausch, nicht der des Ladens
+1iqmn6g9jvf Auf derselben Indifferenzkurve kannst du etwas L verlieren und etwas R gewinnen und dabei genauso zufrieden bleiben. Die Menge L, die du für ein zusätzliches R opfern würdest, beschreibt deine persönliche Abwägung. Der Laden bietet eine andere Abwägung an, die durch seine Preise gegeben ist.
+19f0bw02ou9 Mit R waagerecht: MRS_RL = MU_R/MU_L = L/R, Betrag der Steigung der Indifferenzkurve. Die Einheit ist L pro R.
+2bo3f6xhs96 U konstant zu halten erfordert MU_R·dR + MU_L·dL = 0.
+ijpgaybs1h Also dL/dR = −MU_R/MU_L; das positive Verhältnis misst das akzeptierte Opfer.
+obl7r4qltb Übersteigt dein akzeptiertes Opfer das vom Markt verlangte, kann ein bisschen mehr R dein Bündel verbessern.
+1g0jjnv69yi Beim Bündel (15,5) ist MRS_RL = 15/5 = 3 L pro R. Beim Bündel (24,2) ist MRS = 12: Du bist bereit, mehr L für R zu opfern, weil R für dich relativ knapp ist.
+1k8z312shz Du fragst: „Wie viele L würde ich gern für etwas mehr R hergeben?“, und vergleichst diese Zahl mit den drei L, die die Preise verlangen.
+239nwfa4ho6 Bei (L,R) = (24,2): Was ist MRS_RL für U = LR?
+1jeen24nosy L pro R
+1p008xl0w04 Die MRS misst…
+13jhxr096z2 Den relativen Preis, unabhängig von deiner Präferenz
+1b7nfsa6tnt Das wäre pR/pL. Die beiden Verhältnisse stimmen nur in bestimmten Optima überein.
+1k75o2t61e8 Deine Abwägung bei konstanter Zufriedenheit
+2g9k3g5jzcl Sie kommt aus den Präferenzen; das Preisverhältnis kommt vom Markt.
+1geich0mo2u Warum der letzte Euro dieselbe Arbeit leisten muss
+1p5zy86fzn4 Bringt dir ein für R ausgegebener Euro mehr Zufriedenheit als ein für L ausgegebener, kannst du etwas Ausgaben zu R verlagern. Das verbessert dein Bündel, ohne das Budget zu überschreiten. In einem regulären inneren Optimum darf diese kleine Verlagerung in keine Richtung mehr helfen.
+1rnb7yxacqc Inneres Optimum: MU_R/pR = MU_L/pL, also MRS_RL = pR/pL. Man muss die Budgetbeschränkung hinzufügen und die Bedingungen für ein inneres Optimum prüfen.
+qsrk86h6g0 Welcher Vergleich verhindert, dass die Verlagerung eines Euros das Bündel verbessert?
+6mrsx11sle Ja: derselbe Grenzgewinn für den letzten Euro in beiden Verwendungen.
+lx0de6zzf1 Das würde Einheiten vergleichen, deren Preise unterschiedlich sein können.
+1qcn1o0jxxi Gleiche Mengen sind nicht gleiche Gewinne pro Euro.
+25e15rnxiep Das Budget bleibt konstant, wenn man einen kleinen Betrag von einem Gut zum anderen verschiebt.
+11s9zehwp41 Unterscheiden sich die Gewinne pro Euro, erhöht diese Verlagerung U: Das Bündel war nicht optimal.
+4886ceiqi1 Die Gleichung allein beschreibt eine Menge von Bündeln; das Budget wählt das, das du erreichen kannst.
+1gsio1p733s Bei (15,5): MU_R/pR = 15/120 = 0,125 und MU_L/pL = 5/40 = 0,125. Die beiden letzten Euros leisten dieselbe Arbeit.
+16cxdf8hocf Du verteilst einen zusätzlichen Euro. Im Optimum hat keines der beiden Regale einen Grenzvorteil gegenüber dem anderen.
+1ipqez6bof9 Rekonstruiere die Tangentialbedingung mit R waagerecht.
+1y6cbs51wud Dein Opfer MU_R/MU_L muss dem verlangten Opfer pR/pL entsprechen.
+16vqr1pil0d Löse das Bündel A2, nicht nur eine Gleichung
+5v5qqxxkl5 Die Tangentialbedingung sagt L = 3R. Das Budget sagt, dass die beiden Güter zusammen 1 200 kosten müssen. Kombinierst du beides, erhältst du ein eindeutiges Bündel; dann kannst du seine Kosten und seinen Nutzen prüfen.
+adx8dmgcvd U = LR: die Hälfte der Ausgaben für jedes Gut. Das heißt nicht die Hälfte der Einheiten.
+gtgr2fc4yf Mit L = 3R wird das Budget zu 40×3R + 120R = 1 200.
+22ephdhqsa5 Also 240R = 1 200: R = 5 und L = 15.
+2fx8rqe2iae Beide Güter sind begehrt, die Lösung ist positiv, und U = LR liefert hier ein stimmiges inneres Optimum.
+t57fdnq8o4 A2: R = 5, L = 15; Ausgaben 120×5 = 600 und 40×15 = 600; U = 75. Das Bündel (24,2) kostet ebenfalls 1 200, aber U = 48.
+2facl648bfh Du kaufst nicht von jedem Gut dieselbe Anzahl: Du reservierst für jedes denselben Betrag, weil die Exponenten in U = LR gleich sind.
+1ez9a0xqo4m Erschwingliches optimales Bündel
+1j24obfyiiw Finde R in 40(3R) + 120R = 1 200.
+1iyqt2650rm Welchen Nutzen bringt das optimale Bündel (L,R) = (15,5)?
+rmx6dzjbi7 Nutzen
+1bzqf1gyiha R wird teurer: Was ist wirklich gesunken?
+bwouilzwml Der Preis von R steigt von 120 auf 150. Du hast immer noch 1 200 an Geld, aber dieses Einkommen kauft weniger R. Das Budget dreht sich: Nur-L bleibt möglich, Nur-R sinkt von zehn auf acht Einheiten.
+y7kiqbs6tx Das nominale Einkommen I ist unverändert. Die Kaufkraft sinkt; Budgetsteigung −pR/pL = −3,75. Neue Wahl bei U = LR: L = 15, R = 4.
+1k957eylwn7 Der Preis von L und I ändern sich nicht, also bleibt der Achsenabschnitt L = 30 fest.

@@ -1,0 +1,218 @@
+24cjl9qyls8 The units cancel and the levels at the point are taken into account.
+1frafkodfnj εD = −2, small price rise. Why does R fall?
+27o4fr3f186 The price brings no gain on the units sold
+g5h2x3gv9s That gain exists but is outweighed by the loss of volume.
+215pf9y5qea The proportional fall in sales outweighs the gain per unit
+1po8o6b3kgk Q = 30 − 2p. Compute εD at p = 5.
+90e7xwcswm εD = −1.5; price −10%. Approximate change in Q in %?
+1yser2ep301 Q = A·p^−1. To cut Q by 20%, exact price rise in %?
+18xxpae4lms Does a constant direct slope guarantee a constant elasticity?
+1gm5ucnurx2 Yes, a straight line has the same proportional sensitivity everywhere
+6xg9wvnvai The same lost unit does not weigh the same in a large or a small quantity.
+17rj2x2o5ze No: p/Q varies along the curve
+y7wje55917 The slope is only one factor of ε.
+1pjw4mpqwtu Sales can react strongly, and the costs needed for profit are missing.
+jpftf7zyhe The quantity reaction is proportionally smaller.
+19psnh3mjma Constant derivative
+1jqm7nlxzlu Changing p/Q
+1t00j8nbl6 I recognise the variable that changed and the horizon.
+3fbmmqisvx Own price, cross price and income do not give the same classification.
+130eriyf24k I find ε with the derivative and p/Q.
+9700epne2e I can justify the formula with percentages and units.
+1ck18vxklw8 I keep the sign without confusing magnitude and negative ordering.
+20gm99e0lxm Elastic is judged by |ε| > 1.
+1tqtn0bpvm2 I distinguish slope and elasticity.
+29k4f0ebrok A linear demand does not have a single elasticity.
+16lbi5ydkop I state approximation, arc or exact.
+6pxbc47a25 A large change can make the gap large.
+secz1p12m7 I link elasticity to R without promising a profit.
+19rlxlql52j Profit requires costs and the problem's other conditions.
+4kcm3902vl Production and costs — should you produce, with what, and how much?
+1ydjlv5ccj0 Technology, minimum cost and the firm's decision
+2abjtlra08x An extra worker does not add average output. A loss does not always mean shutting down. You will rebuild these decisions and link the workshop, its costs and market supply.
+fsan1r4hfj The customers
+128g84vtcu0 buy at the market price
+z0bukuzc1u pay the same price for a homogeneous product
+212tox9g63b You, the workshop manager
+2abkw4k113d choose the inputs, then the quantity
+1oh7p0lf7hj produce at minimum cost and maximise economic profit
+105gicghwwy Workers and machine owners
+noqfck2y0w supply L and K at prices w and r
+29xtcckh1iz be paid for their use and their best alternative
+1y32vpgqb7u separate technology, cost and time horizon
+253q98ylt0j compare the right alternative: produce, shut down or exit
+lq6z5hzf2x Before profit, there is real production
+elyhqfbqvz You run a small workshop: workers L and machines K produce units Q. Two questions follow. First, "with which mix do I produce the target quantity at least cost?", then "which quantity is worth selling at the market price?".
+f1axagc9na Technology Q = f(K,L). Cost minimisation conditional on Q, then maximisation of π(q) = pq − C(q). The firm's quantity q is distinct from the market's total quantity Q.
+2er6djt7a6w A technology links physical resources to output, before selling prices come in.
+oi5g7jt0hl Input prices turn a physical mix into monetary spending.
+xkg0g6f967 The output price then lets you compare revenue with cost; it is not the same choice problem.
+rkmh046ob Constructed situation Q = √(KL): K = 20 and L = 5 produce Q = √100 = 10. With w = 4 and r = 1, this mix costs 4×5 + 1×20 = 40.
+1ao88at07t7 You cannot set a profitable quantity without knowing which resources it requires; you cannot minimise resources while forgetting the output to deliver.
+2gea0n5zb68 Producing 10 at minimum cost
+21tvnoz0avf L, units of labour
+1krb8bsvbb K, units of capital
+xiu3bkk5q3 Constructed example Q = √(KL), target Q = 10, w = 4 and r = 1. Isoquant K = 100/L: exact points joined, segments approximate visuals. Exact isocost K = 40 − 4L. Minimum (L,K) = (5,20), cost 40.
+v4k5guyjst Isoquant Q = 10
+7ij0srb86v Each point has KL = 100, so Q = 10.
+9eqr4004or Isocost C = 40
+23tonuvu2od Each point costs 4L + K = 40. Only (5,20) reaches Q = 10 at this cost.
+syocdos6u1 Minimum cost: L = 5, K = 20
+19koni70si1 Minimising cost for Q = 10 means…
+58jlq615i9 Choosing Q = 0 because it costs less
+2g8qlbkoog8 That violates the target quantity. Choosing the quantity belongs to the profit problem.
+11wdba15yvf Choosing the cheapest inputs able to produce 10
+1ergk6qh9np Output is imposed in this first problem.
+240xiwywwli What the tenth worker adds
+135pmozhnv3 Don't attribute all the output to the last worker. Their contribution is only the difference between what the workshop produces with them and without them, machines held fixed. The average answers a different question: how much is produced per worker present?
+1zmegit8uth Discrete marginal product MPL = ΔQ/ΔL, K fixed. Average product APL = Q/L. Continuous: MPL = ∂Q/∂L.
+14kk5pg86kg The hiring decision concerns what changes with one extra person.
+7slfcn9stm Output already possible before hiring is not attributed to them.
+26cu8poop2w An average combines all workers; it does not measure the gain from the next hire.
+zntfmhrm9v L5: at L = 9, Q = 50; at L = 10, Q = 54; at L = 11, Q = 56. The tenth adds 4, the eleventh 2. At L = 10, the average is 54/10 = 5.4.
+1w3bf9lsncf Before hiring the eleventh, you ask "are two more units worth their wage?", not "does 56/11 look big?".
+rblv24hyte Q goes from 50 to 54 when L goes from 9 to 10. What is the tenth worker's product?
+248gsnct9qr 54 − 50 = 4, K fixed.
+2dzmdoowg5n units/worker
+ao3bll0ltw At L = 10 and Q = 54, what average product?
+1cerjja15gd APL = Q/L = 54/10 = 5.4. That is not the marginal product 4.
+5garg25yh3 4 is the tenth worker's contribution; the average uses the whole output of 54 and all ten workers.
+fyuoa4qi8b The worker must bring in what they cost at the margin
+ger0ju17hr A worker can be physically productive without being profitable at the wage asked. Convert their extra output into revenue by multiplying by the selling price, then compare with the wage. This assumes your workshop can sell at the given price without moving it.
+21ie3d1oxwc Price-taking firm: value of the marginal product p·MPL; hire as long as p·MPL > w. At an interior point, p·MPL = w. With market power, use MR·MPL.
+1o1sw3wmgkl MPL is in output per worker, the wage in money per worker: a conversion is needed.
+23aizcw1w0w Multiplying MPL by p gives the revenue added if the selling price stays given.
+18ijeck2wpb Going beyond p·MPL = w would cost more than the last hire brings in.
+nrdsise26d Take L5 again with constructed price p = 3 and wage w = 9. Tenth: 3×4 = 12 > 9; eleventh: 3×2 = 6 < 9. If these increments describe the relevant options, the tenth is worth their cost, the eleventh is not.
+hh69mdiqey You compare the wage of nine with the extra turnover, not with the workshop's total turnover.
+csdbcqboff p = 3 and the eleventh worker's MPL = 2. How much does this extra hire bring in?
+1nmnnflxj6q p·MPL = 3×2 = 6, to compare with the wage of 9.
+19ktedl2437 With p·MPL = 6 and w = 9, does hiring this worker improve profit?
+zcp160ynkl Yes, because MPL is positive
+10sbi08s90y Physically positive does not mean profitable at the given wage.
+av0al35ed7 No: they add less revenue than cost
+83f75f4bcz The marginal contribution is 6 − 9 = −3.
+q0cnmsokmh Producing the same with a different mix
+gpxszq0q3v You must deliver ten units. Many machine–labour combinations can do it: fewer machines can be offset by more labour. An isoquant groups these mixes that are equivalent in output; it does not yet say which costs least.
+wfqdagbrpq Isoquant: f(K,L) = Q̄. With L horizontal and K vertical, slope = −MPL/MPK; MRTS_LK = MPL/MPK, capital saved per unit of L added.
+10whqdq0xwk Output is fixed so that only the input mix is compared.
+1fgj4rdt1zh Adding dL creates MPL·dL of output; removing dK takes away MPK·|dK|.
+1o4o07pk57y Keeping Q requires MPL·dL + MPK·dK = 0, hence the ratio of marginal products.
+1sif7do7d2w Q = √(KL), target 10: KL = 100. (L,K) = (5,20) and (10,10) both produce 10. MRTS_LK = K/L: at the first point, it is 4 units of K per L.
+2dbf7bju3bg You ask the engineer how many machines a bit more labour can replace without changing the delivery; you then ask the accountant whether that saves money.
+2ewtpr7rpd7 Q = √(KL) = 10 and L = 5. What K is needed?
+1neitbkn0l6 KL = 100, so K = 100/5 = 20.
+nsmsekhyic MRTS refers to…
+h9oxmx9wc4 A consumption trade-off at constant utility
+20slsdgfuhg That is MRS. Here the actors produce and the axes are L and K.
+e5qlynksqp A technical trade-off between inputs, at constant output
+5876flzee6 MRS concerns a consumer's preferences, at constant utility.
+11yb7f1d5j0 The input market offers a slope too
+lwcy0y7h3s Labour costs w and machines cost r. If you keep spending constant, one more worker requires removing w/r units of capital. The isocost describes this financial trade-off; it is not a production isoquant.
+2fmriwgj8ur C = wL + rK ⇒ K = C/r − (w/r)L. With L horizontal, the slope is −w/r; the intercepts are C/w and C/r.
+1vgz5zi1mvq The two spending items must add up to the same total cost.
+1rfpv9ks5oe Adding one unit of L costs w, financed by removing w/r units of K.
+1q7djfmfh6e The input price ratio comes from the market, whereas MRTS comes from technology.
+1z9iokwkqrt C = 40, w = 4, r = 1: K = 40 − 4L, intercepts L = 10 and K = 40. (5,20) costs 40; (10,10) costs 50 and is not on this isocost.
+1eojmiu25fx Two technical recipes deliver the same; you can now compare their bills with the same resource prices.
+2d72yq6yab9 With L horizontal, w = 4 and r = 1, what signed slope for K(L)?
+w2iu0hrpoi K = C/r − (w/r)L: slope = −4/1 = −4.
+1w9umy9lpza How much does (L,K) = (10,10) cost if w = 4 and r = 1?
+sfep0p5mg8 Earn the condition for the last productive euro
+2ftassl0yhx If a euro of labour creates more output than a euro of machinery, you can rearrange the mix a little. For the same spending, you produce more; or for the same delivery, you spend less. At the cheapest interior mix, no euro may work better in one input than in the other.
+1cm9nx0tw8a Interior minimisation: MPL/w = MPK/r, i.e. MRTS_LK = w/r. You also need f(K,L) = Q̄ and must check corners, technology and non-negativity.
+s213bk79x5 Which equality prevents a shift of spending from improving the mix?
+1pvs2ww44x0 Each last euro gives the same marginal output.
+1fnt3vvhckq MPL = MPK whatever the price
+bl5yyo6xdw Comparing units of inputs ignores what each costs.
+17m7x9fh6fq Quantities can differ depending on prices and technology.
+28v0ylekyi5 A reallocation of spending keeps the cost while changing output.
+27ouy7xv3j3 If the marginal gains per euro differ, the same output is reachable at lower cost.
+2brmpa90z8z The ratio condition and the physical target are two necessary relationships: tangency alone does not give the level of inputs.
+1pxc0d5exxi Q̄ = 10, w = 4, r = 1: K = 4L and KL = 100 ⇒ 4L² = 100 ⇒ L = 5, K = 20; C = 40. The mix (10,10) also delivers 10 but costs 50.
+2838qusjq9u You don't buy the same number of machines and hours to "balance". You equalise their extra output per euro.
+240p4c94zkk Cheapest mix for Q = 10
+tby37h4dsi Q = √(KL), Q̄ = 10, w/r = 4. Which L minimises cost?
+1cnrca70s3v Rebuild the interior condition for minimum cost.
+1ghqrfocd7i The technical trade-off MPL/MPK must equal the financial trade-off w/r.
+zrhvc1skss The wage rises: keep the same target delivery
+24f49f6hww7 Workers become more expensive, but the contract still asks for ten units. If the technology allows substitution, you use relatively more machines. Don't just pivot the old bill: the optimal mix and the minimum cost change too.
+1p7x7qb4loe At fixed Q, a rise in w makes L relatively expensive. For Q = √(KL), K/L = w/r rises; the new minimum isocost is higher.
+61t6fzm6m7 The isoquant stays tied to the same Q, so it does not move with the wage.
+1lkuxfnk5bb The slope of the isocost changes because the relative price of resources changes.
+ac3fuj4920 The new tangency point must still deliver the required output; a rise in an input price cannot lower minimum cost with technology and other prices unchanged.
+19j615yv744 Q̄ = 10, r = 1, w: 4 → 9. L* = 10/3 ≈ 3.333; K* = 30; C* = 9×(10/3) + 30 = 60, against 40. The initial mix would now cost 9×5 + 20 = 65.
+6oqzigqrtx The new mix at 60 costs more than before, but avoids the extra five of spending that keeping the old mix would have cost.
+1xxpewj90ov Labour gets more expensive, the target output stays 10
+2dvd6clcdd1 After w = 9 and r = 1, the new solution is L = 10/3 and K = 30, cost 60. The isoquant Q = 10 stays the same. The new minimum isocost is K = 60 − 9L.
+azfae4fpqd New isocost C = 60, w = 9
+143vqny8nbe L costs more; producing 10 with the best mix costs 60 instead of 40.
+165kigdy3jw Old: cost 40
+l55j7c4t7j New: cost 60
+n5qj20o6f6 Q̄ = 10, w = 9, r = 1 for Q = √(KL). What is K*?
+21sayateub1 After the rise in w, if Q̄ stays 10, which curve do we keep?
+rz3oq9p5t1 A lower-output isoquant, by definition
+1d54fuy3vzm The firm is not allowed to reduce delivery in this conditional problem.
+1fsrgs6o3sr The same isoquant Q = 10
+1g7yb0my55q An input price does not change the technology or the target delivery here.
+70atmjlfmi One more factor or all factors: two experiments
+2bop3dp98f2 Adding labour to a fixed amount of machinery can give smaller and smaller gains. Doubling machines and labour together is a different experiment: the workshop can double its output despite these diminishing marginal products. Don't draw a conclusion about scale from an experiment that keeps one input fixed.
+xr7efhqi70 Diminishing marginal product: one input rises, others fixed. Returns to scale: compare f(tK,tL) with t·f(K,L). Economies of scale: long-run average cost falls with Q.
+22i7u009esn With fixed machines, more workers share the same capacity.
+15ize9hbbim When all inputs rise, capacity per worker is no longer necessarily reduced.
+1ph77gp9yv1 Returns concern technology; economies concern a long-run average cost function, with resource prices and conditions specified.
+f996f6pmzh Q = √(KL): K = 4, L = 9 give Q = 6; K = 8, L = 18 give Q = 12: constant returns. Yet MPL = 0.5√(K/L) falls with L at fixed K. For Cobb-Douglas K^αL^β, the scale test compares α + β with 1.
+dbh17dc76v Don't confuse adding a cook to the same kitchen with opening a kitchen twice as big with twice as many cooks.
+jekekwambk Q = √(KL), all inputs double. Returns to scale are…
+2d9mko0qh76 Decreasing because MPL falls at fixed K
+27u33rfrob1 You are mixing two experiments: here K doubles too.
+chxtk6i06k Constant: Q doubles
+1j4mvr1bj6p Q = K^0.3 L^0.5. Which sum of exponents is used to diagnose returns to scale?
+8tbf2sux72 0.3 + 0.5 = 0.8 < 1: decreasing returns. It is not just the labour exponent.
+y3ze5l9hjo Total, average, marginal: three questions to keep apart
+10c43rk8jbl The workshop pays a fixed expense plus an expense that depends on the units made. The total answers "how much does it all cost?", the average "how much per unit on average?", the marginal "how much does a little extra unit cost?". Dividing or differentiating them therefore answers different questions.
+15d6mp7yfgu TC = FC + VC; ATC = TC/q = AFC + AVC; AFC = FC/q; AVC = VC/q; MC = dTC/dq. At q = 0, the per-unit averages are undefined.
+1r6u537or01 The fixed cost does not vary with q over the given horizon.
+141dmplnb16 Averages spread an expense over the units produced.
+1oybm1yfu0i The derivative of the fixed part is zero: marginal cost does not contain FC when it is constant.
+m2t8g11hxi L5: C = 30 + q² at q = 2. TC = 34, FC = 30, VC = 4, AFC = 15, AVC = 2, ATC = 17, continuous MC = 4. Check: 15 + 2 = 17.
+bawdzhzddy The bill of 34 is not the cost of the next unit. Nor is the average cost of 17 the cost of the next unit.
+27war3wc5re C = 30 + q² at q = 2. What is ATC?
+qcav6ug7zz €/unit
+c8gjox1hoo For C = 30 + q², what is the continuous MC at q = 2?
+i1wruoxmvs MC = dC/dq = 2q, so 4. The fixed 30 has a zero derivative.
+a805gw372a 34 is the total. MC is a derivative, not the bill.
+22qjup8re9 17 is the average. The derivative is 4.
+2ik3ysfg76 A whole unit is not an infinitesimal change
+eo3ngkss76 The derivative measures the slope at the current point. Producing exactly one whole extra unit adds up the cost over the entire transition. If the marginal cost rises between the two levels, this discrete cost exceeds the derivative at the start.
+112c4r1e4u2 Continuous MC = C′(q). Discrete cost from q to q+1: C(q+1) − C(q). If MC < ATC, the average falls; if MC > ATC, it rises.
+1qg77avxhk0 A derivative is a limit for a very small change.
+15dsfjead3t A difference over a whole unit covers several marginal values.
+1h76yqadg9y The cost of the new addition pulls an average towards it, like a new mark above or below your average.
+iygb85v34h C = 30 + q²: C(3) − C(2) = 39 − 34 = 5, whereas C′(2) = 4. In the other example C = 10 + q² at q = 2, MC = 4 < ATC = 7: ATC falls locally.
+5qixn0d39r A mark of 12 raises an average of 10, even if 12 is not the best mark imaginable. MC plays that role for ATC.
+1ot6h4vzboe A firm: cost of the next unit, average cost and price received
+1a5j9e50qif q, units of the firm
+24pqxxt8axi Example L6 C(q) = 10 + q². MC = 2q; AVC = q; ATC = 10/q + q for q > 0. Exact ATC points joined, segments approximate visuals. The price of 12 is given to the firm; q* = 6.
+wnztrphxn9 Cost of the marginal unit; the firm compares it with the price.
+6fb6fbobf9 Average variable cost: what revenue must cover to produce when FC is unavoidable.
+c8cmctqr76 Total cost per unit; comparing it with the price reveals a profit or a loss.
+uami8eiki0 Given price p = 12
+1ugrwuzzzf9 MR = p for this price-taking firm.
+12hja4dvdu1 min ATC ≈ 6.325
+poctr0qj3k C = 30 + q²: exact cost of going from q = 2 to q = 3?
+24f8ubxzh3v C(3) = 39 and C(2) = 34: difference 5, not the derivative 4.
+188970u1ov4 If MC is below ATC at the point considered, ATC…
+2bqm842pczg Rises because TC rises
+ocl9a2dxop A total can rise while its average falls.
+1xf6x13oz76 Falls locally
+1bdgcira950 The marginal addition is cheaper than the existing average.
+93cen09ski How much to sell when the price is given?
+1iyipdnljtt Your customers pay twelve per unit, and your small workshop does not change that price. So one more unit adds twelve of revenue. You keep going as long as its marginal cost is below twelve, then you check that the candidate beats shutting down and respects the domain.
+yhdb3itf9q Price taker: π(q) = pq − C(q), MR = p. Interior candidate: p = MC(q), on a relevant branch; compare with q = 0 and constraints.
+1e355qplzd1 Which point stops a small rise or fall in q from improving interior profit?
+19nusgym2fv The last unit brings in as much as it costs.
+2c01qj9aayx That describes zero profit, not necessarily the choice of q at any price.
+1rv9p29kddy Zero revenue is not the goal.
+2k5nhmgrcl One more unit adds p of revenue because the firm takes p as given.
+qy698cilxm If p > MC, making it raises π; if p < MC, removing it raises π.

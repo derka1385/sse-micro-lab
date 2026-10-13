@@ -1,0 +1,233 @@
+pcjarhuliw Pedagogiskt exempel: R(n)=20 n−n²; AP=R/n=20−n; MP=dR/dn=20−2 n; kostnad per båt=4. Fritt tillträde AP=4; optimum MP=4.
+fsq2o0fggs Vid n=8 får varje båt AP=12, men en nykomling tillför totalen bara MP=4.
+zk9ju3aw19 Skillnaden AP−MP fångar intäkt som flyttas bort från de andra; därför fortsätter inträdet för länge.
+iej3q47q53 Optimum: 20−2 n=4 ⇒ n=8. Fritt tillträde: 20−n=4 ⇒ n=16. Totalt överskott 16 n−n²: 64 vid n=8, noll vid n=16.
+vxw9sqnnv8 Personligen vinner du fortfarande på att komma in efter n=8. Titta ändå på vad som blir kvar åt dina grannar efter ditt inträde.
+3stuyh4y0c Fiske: inträdet ser på genomsnittet, samhället på marginalen
+1ngcs6s0nvw Kontinuerligt pedagogiskt exempel: total intäkt R(n)=20 n−n², total kostnad 4 n, 0≤n≤16. Vertikal axel i € per båt och dag; n är ett antal båtar som behandlas som kontinuerligt.
+1oq6ipio12j n: aktiva båtar
+24tb62iltkj € / båt / dag
+1kpt1btqm0q Genomsnittlig intäkt AP = 20−n
+1nv7xvlb2et Förväntad intäkt för en nykomling som delar den totala fångsten.
+jxzxxlpgyr Samhällelig marginalintäkt MP = 20−2 n
+1vd6jjyfxtu Tillskott till den totala intäkten, inklusive minskningen av de andras fångst; negativ över n=10.
+zb8t8gqvdo Kostnad per båt = 4
+2bty0sdo746 Bränsle och arbete som en extra båt använder.
+4gi4xozjo7 Optimum n=8
+1cc58y0w2ax Fritt tillträde n=16
+1v1u3hnfjyg Med R=20 n−n² och total kostnad 4 n, vilket n maximerar det kollektiva överskottet?
+fabq03uu3x båtar
+qwum71synn Derivatan av överskottet 16 n−n²: 16−2 n=0 ⇒ n=8; andraderivatan är −2.
+2da936il8xw 16 motsvarar AP=kostnad, alltså fritt inträde, inte optimum.
+fjthg99mll Och hur många båtar kommer in vid fritt tillträde om var och en får R/n?
+izm5pdow3n AP=20−n=4 ⇒ n=16. I den punkten är den privata vinsten noll och den kollektiva räntan har förskingrats.
+277x4e7uhe 8 jämför det samhälleliga marginella med kostnaden; en privat nykomling ser på sin genomsnittliga andel.
+1sipcj2w6ah Rätt botemedel beror på fel incitament
+290akqmc76b För gatan saknas bidrag trots ett delat värde. För sjön är inträdet för stort trots en begränsad resurs. En nyttig regel måste alltså sikta på det problematiska valet: att betala i det första fallet, att komma in eller fiska upp i det andra.
+o3fdl6maf3 Tillstånd, kvoter, avgifter, tillträdesrätter och lokala regler kan begränsa trycket på en allmänning. Obligatoriska bidrag gäller finansieringen av den kollektiva varan.
+1aofxvzdyb7 En båtkvot begränsar direkt den rivala användningen; en avgift gör en del av den kollektiva kostnaden synlig för nykomlingen.
+2dal4a5s20o En lösning måste dessutom gå att kontrollera och vara anpassad till den tillgängliga informationen; att ge en politik ett namn räcker inte.
+1c2x0xrp17k I vår sjö återskapar tillstånd för åtta båtar det effektiva riktmärket, med verklig kontroll och oförändrade kostnader. En regel med sexton båtar korrigerar ingenting.
+293vr5jucdh Du ger råd till kommunen: innan du säger ”beskatta”, namnge aktören, dess val och den konsekvens den ignorerar.
+28k5ct6foya Bygg upp gatans problem.
+15qq4rdhf86 Samma nivå gynnar de boende, även de som inte betalar
+14cgb7m031d En boende kan vänta på att andra finansierar
+20yob1kjhzt Hens bidrag återspeglar inte alla samhälleliga nyttor
+1quudmjfdii Frivillig finansiering kan stanna under den effektiva nivån
+1filn49wphu Deras konsumtion av den delade tjänsten delas inte upp i privata enheter.
+2as3z73ms2d Icke-uteslutning gör det individuellt lockande att vänta på andras betalningar.
+12xju1w38zx Betalaren får inte tillbaka i sin budget hela det värde som tillförs andra.
+19ly8q6hdry En enda extra enhet ger flera nyttor samtidigt.
+x9c8gle4v8 Den sista nyttiga enheten är värd sin verkliga kostnad för kollektivet.
+1rh2ski5st7 Gatan gynnar alla på samma nivå, även den som inte betalar. Var och en kan alltså vänta på de andra, och ens privata bidrag återspeglar inte hela den kollektiva vinsten. För att välja Q summerar jag de positiva MB vid samma Q och jämför summan med MC. I sjön är fångsterna rivala: en nykomling ser på sin genomsnittliga intäkt, medan hens samhälleliga marginalbidrag är lägre eftersom hen minskar de andras fångst. Fritt tillträde lockar för många båtar.
+23gl83qagkc Samma Q gynnar flera boende
+28iegilnztl Var och en kan ha nytta utan att bidra
+1v0cbhu1yuu Det privata valet utelämnar kollektiva vinster
+1e9xth8s0zg MB summeras vid samma Q
+a7b85tjwd9 Optimum likställer denna summa med MC
+r7szpcgr22 Förklara för en granne varför gatan kan vara underfinansierad trots sitt värde. Säg sedan varför den öppna sjön i stället lider av för mycket användning. Avsluta med skillnaden mellan vertikal summa och genomsnittlig intäkt.
+8smr4g1q32 En och samma nivå Q
+u96sz7dxkx De boende har nytta av samma nivå av den kollektiva varan.
+qda9a5nrh1 Incitamentet att vänta på de andra
+yjmq22wmw6 Man kan ha nytta utan att betala och därför bidra för lite.
+tlj20ipktm Marginalens kollektiva värde
+1zhgqdkir2k De individuella MB summeras vertikalt vid samma Q.
+2e1lc2jlz4l Jämföra med kostnaden
+12h3dwxsvcz Summan av MB jämförs med den gemensamma enhetens MC.
+1uq5d0zt62q Överdriven rival användning
+1ilzszrtt1l Nykomlingen ignorerar minskningen av de andras fångst och ser på AP, inte på samhälleligt MP.
+c00vfb1w1f Här har alla nytta av samma Q. Summera MB-höjderna vid detta Q, inte privata kvantiteter.
+2bzi4sub766 Frivilligt tillhandahållande kan vara positivt: en stor nyttotagare kan finansiera, men utan att räkna grannarnas hela vinst.
+2vabb4a6gy Allmänningen är rival och tenderar att överutnyttjas; den rena kollektiva varan är icke-rival och kan bli underfinansierad.
+1s0mp5kiuqy Övning byggd på A6 och §11.9. Städdata är dokumenterade; sjön är ett pedagogiskt exempel. Det är inte en officiell lösning.
+kkc0j36wn8 Vertical sum 36−3 Q=27 ⇒ Q=3; all three marginal benefits remain positive.
+rqhszbpgai Efficiency: R′(n)=20−2 n=4 ⇒ 8. Entry: R(n)/n=20−n=4 ⇒ 16.
+14ua4pnomup Icke-exkluderbar och rival: vilken typ av vara?
+5nv3qotvjh Ren kollektiv vara
+2ae8m4srk27 Den rena kollektiva varan är icke-rival.
+2dwjzws0qps Gemensam resurs
+jbtkou8356 Det är just fritt tillträde till en resurs vars användning minskar andras.
+9voso9qjum Klubbvara
+15n8guw384c En klubbvara är exkluderbar och icke-rival i den rena modellen.
+25uqrmcj0kb Vad mäter MB?
+wzdpq74vbq Nyttan av den extra enheten
+1as2cxo79ht Marginell = ett tillskott vid den aktuella nivån.
+1goblubpiep Den totala produktionskostnaden
+1uo3g9ndat9 MB är en marginell nytta, inte en total kostnad.
+1pg91w55hg4 Bygg upp fripassagerarbeteendet.
+1lkx1an6s1a Tillgång till varan även utan att betala
+1di1yaxg9ls Undvikbart privat bidrag
+27kjbmkgrpf Andras nyttor utelämnas ur det privata valet
+1kvkol2numx Potentiellt otillräckligt frivilligt tillhandahållande
+5n0rozy50w Varför kan ett lönsamt inträde i en sjö minska det kollektiva överskottet?
+eauz1x9sna Nykomlingen ignorerar minskningen av fångsten för båtarna som redan är där
+2161d6n40ca Hens genomsnittliga intäkt mäter inte vad hens närvaro tillför den totala intäkten.
+1njpl4cllkt Eftersom fiskarna inte värderar fisken
+kr2x506uzi Det är just fiskens värde som lockar nykomlingar; problemet är kostnaden som åläggs andra.
+tx2fyp6nxb Eftersom en privat nytta alltid är noll
+u9c9k1ao7y Inträdet kan vara lönsamt innan räntan är helt förskingrad.
+1q134g17kfk MB_1=max(0,10−Q), MB_2=max(0,20−Q), MC=14: effektivt Q?
+11dykdbto51 För Q≤10 ger 30−2 Q=14 ⇒ Q=8, giltigt intervall.
+98f3ggke2r MB_1=max(0,8−Q), MB_2=max(0,2−Q), MC=3: effektivt Q?
+6jh3av0384 Lösningen med två MB, 3,5, ligger utanför intervallet; efter Q=2 ger 8−Q=3 ⇒ 5.
+4pibkc15rq Ett digitalt bibliotek kan spärra icke-prenumeranter, och en läsare stör inte de andra. Vilken klassificering?
+24fk0ovts6m Exkluderbar och icke-rival, givet att det inte råder trängsel.
+1wf6yb36qqd Ren kollektiv
+v9mlvmwnjp Tillträdet är exkluderbart.
+1f5gaxb0o64 Allmänning
+13zorikpusu Allmänningen är icke-exkluderbar och rival.
+1didyjjzdna En bokning stänger tillträdet till sjön och begränsar båtarna. Vilken mekanism ändrar den direkt?
+21whoiv12h2 Det fria tillträdet och trycket från rival användning
+slbtvvs83s Regeln siktar på antalet användare och uttaget, inte på den vertikala summan för en kollektiv vara.
+kvgq0uk2vq Fiskens icke-rivalitet
+1ssc63sglxd Fångad fisk blir inte tillgänglig för andra tack vare en bokning.
+11qicsya3tf Behovet av att finansiera en gemensam wifi-hastighet
+9sbjg0ydya Det är ett annat problem: här står resursens konkurrerande användning på spel.
+18zug41bpgi Same quantity
+1zaf20dzrrj Own average share
+11tjahxxj59 Loss imposed on existing users
+o1q5sk5x1y Social marginal comparison
+12jkitamg6c Klassificera en vara genom att ställa frågorna om uteslutning och rivalitet var för sig.
+714s4pg57e Offentlig finansiering eller hög kostnad räcker inte.
+132066c46ko Summera MB vid samma Q och kontrollera trösklarna där WTP blir noll.
+gj84qm4hfr En linjär summa kan bli ogiltig efter att en nyttotagare fallit bort.
+14eo2zy43ny Förklara ett positivt eller uteblivet bidrag utan att säga att varan saknar värde.
+157hx03bak4 Incitamentet att betala skiljer sig från det mottagna värdet.
+1v1jyzlro1u Skilja AP=kostnad vid fritt tillträde från samhälleligt MP=kostnad i optimum.
+1ckd0cps0wt Ett lönsamt inträde kan flytta intäkt från andra användare.
+1flxxa3gsnx Dold information — bilar, examina och kredit
+210c0bpxm0h Urval av typer och incitament för handlingar
+29clh7ywm2s Varför kan en pålitlig bil försvinna från marknaden? Varför kan banken förlora på att kräva mer? Sätt dig in i situationen för den som vet och den som väljer.
+vcpos2mz5h Agenten / köparen
+2dtxzv1jp8v beslutar utifrån sin information och sina privata vinster
+26jqnzt4rnu välja det kontrakt eller den ansträngning som passar
+1dbc9cyxuow Säljaren / huvudmannen
+1hnw7h8wgrz har kvaliteten eller föreslår kontraktet
+ub8368cjvv genomföra ett lönsamt utbyte
+2eraexzsszu Den dolda typen
+1f2ulhdeqlu bär en annan kostnad eller har en annan kvalitet
+9hdkj6oilx bara anta ett erbjudande som passar
+1lsv7bi5r6 Bedömaren
+rn5b958jd1 jämför överskott och om incitamenten är genomförbara
+z51qukgegv inte förutsätta den önskade handlingen
+12pd5zhvr4z Banken / kontrollanten
+228lunsnnd0 finansierar eller kontrollerar ett utfall
+s690cew4n4 föreslå en regel som stämmer med valen
+mr6bg43uar Du köper utan att veta vad säljaren vet
+kwi128nnol Du vill ha en begagnad bil. Säljaren vet om den är pålitlig; du ser bara karossen. Innan du väljer en formel, identifiera vilken information var och en har och vilket beslut den ändrar.
+vslvrw4cdg Asymmetric information (asymmetrisk information): en part har relevant information som den andra saknar. Enbart osäkerhet räcker inte.
+mld9roagaj En händelse kan vara riskabel för båda utan att någon vet mer.
+15ymny7pbph Det ekonomiska problemet börjar när denna informationsskillnad ändrar ett val, ett erbjudande eller en ansträngning.
+1khw5i2cqsu Framtida väder som ingen av parterna känner till: delad risk. Kvalitet som redan är känd bara för säljaren: asymmetrisk information.
+uwnpfy51e5 Fråga ”vem vet vad, och när?” innan du skriver adverse selection eller moral hazard.
+1y80juodqo4 Framtida regn är okänt för köparen OCH säljaren. Visar det en asymmetri?
+8jkfb9otny Ja, all osäkerhet är asymmetrisk
+28fpkdklq6a Asymmetrisk betyder att informationen skiljer sig mellan parterna.
+kk1z9y2lql Nej, privat information på ena sidan saknas
+fj7lftmttb Risken kan vara gemensam; leta efter vem som vet mer.
+18l17hmrqk3 En dold typ och en dold handling är inte samma problem
+1h0hgz6zmlz En bils pålitlighet finns redan före försäljningen; köparen känner inte till egenskapen. Mekanikerns ansträngning är däremot ett val som kan ändras efter att kontraktet undertecknats. I det ena fallet lockar kontraktet vissa typer; i det andra påverkar det ett beteende.
+18huoua6elo Adverse selection (negativt urval): privat typ, risk eller kvalitet. Moral hazard (moralisk risk): handling eller ansträngning som är ofullständigt observerbar. Huvudkriteriet är informationens art; tidsordningen hjälper diagnosen.
+2dbdjcj66z7 Ett genomsnittskontrakt kan driva bort de goda typerna utan att ändra vad de är.
+usr0qqetzo En betalning som beror på utfallet kan ändra ansträngningen utan att avslöja en ursprunglig kvalitet.
+xwglrktfhn En försäkring kan locka de mest riskabla förarna och sedan minska deras försiktighet: två olika mekanismer i samma kontrakt.
+xmxtljjjt7 Du är försäkringsgivare: skilj på ”vem tecknar?” och ”hur kör hen när hen väl är försäkrad?”.
+2dxm0l1ekg4 En försäkrad blir mindre försiktig efter att ha fått skydd. Vilken mekanism?
+lj7fk2kl8h Adverse selection
+1yqhqazzwt8 Det skulle gälla vilken typ av förare som lockas före kontraktet.
+1xmznk1cpya Moral hazard
+113igzfb26r Skyddet ändrar en privat handling efter undertecknandet.
+g2vs70d02a Ingen risk
+18n2gsk0vhm Risken består; dess nivå ändras med beteendet.
+1hal5pkn4h0 Utan dold information kan båda kvaliteterna säljas
+16zl2ghbxtz En bra bil är värd 150 för dig och dess ägare avböjer allt under 130. En dålig är värd 50 för dig och dess ägare avböjer allt under 30. Om alla ser kvaliteten kan ett pris mellan de två värdena låta båda parter vinna för varje kvalitet.
+kg3cimypws Handelsvinster: köparens WTP över säljarens reservationspris. L12 ger intervallen [130,150] och [30,50].
+1jevd9624rh Säljarens reservationspris är vad hen offrar genom att sälja varan.
+1szladwjq8x En möjlig vinst garanterar inte att en marknad med dold kvalitet förverkligar den.
+yj3da9i9mx Bra bil för 140: köparen vinner 10 och säljaren 10 i förhållande till sitt reservationspris. Dålig för 40: samma vinster, 10 och 10.
+vybrm2bdur Du kan bjuda 140 för den bra bilen om du vet att den är bra. Den kunskapen gör priset trovärdigt för dig.
+wcjynzcqy8 Vad är summan av de möjliga vinsterna på en bra bil: värde 150, reservationspris 130?
+3d3hlwlrjr 150−130=20, oavsett hur priset fördelar vinsten.
+jsmlex2nuo De två värdena är inte två nyttor att summera: reservationspriset är säljarens uppoffring.
+r76lwbm5wl 10 vore var och ens andel vid priset 140; det totala överskottet är 20.
+kt05e0d8aj Genomsnittspriset håller bara om de genomsnittliga säljarna stannar
+2a8ry15mhaq Du tror först att du har en chans på två att få varje kvalitet. Om du är riskneutral bjuder du högst 100. Men ägaren till en bra bil avböjer det priset: bilarna som blir kvar är inte längre ett urval där hälften är bra.
+2fs3h1hkj1b Ursprunglig WTP E[v]=0,5×150+0,5×50=100. En jämviktsförväntan måste stämma med urvalet av säljare vid det erbjudna priset.
+234pdlhfu9r Priset är inte bara ett genomsnitt av värden; det är också en regel som väljer ut utbudet.
+13rtalgfiz0 Om den bra typen har reservationspriset 130 slår ett bud på 100 ut just den typ som motiverade genomsnittet 100.
+13cobrbqb66 Vid p=100 accepterar säljarna av låg kvalitet eftersom 100≥30, de bra avböjer eftersom 100<130. Om bara de låga är kvar blir WTP=50.
+xgbgfwclkr Du tittar på annonserna som fortfarande finns kvar efter ditt bud: bedöm om deras sammansättning, inte bara din första kalkyl.
+20thpbxwj15 Genomsnittspriset kan förstöra sitt eget antagande
+29p01xzb39d Data L12: bra bil värderad till 150 av köparen och 130 av säljaren; dålig till 50 och 30. Den ursprungliga sannolikheten för bra kvalitet är 1/2.
+2f6qxq0grbd Oinformerad köpare
+g25k3bpzss Bjuder högst 100 om båda kvaliteterna finns kvar i lika delar
+2epbc93elat (150+50)/2=100 är ett väntevärde, inte varje bils värde.
+1btachppdkb Säljare av en bra bil
+1iicznk2zie Avböjer 100 eftersom hens reservationspris är 130
+1pirw2yws0z De bra bilarna lämnar marknaden vid detta pris.
+1o6icqdh2eq Rationell köpare
+wys9t8lgyg Reviderar sin förväntan om bilarna som fortfarande erbjuds
+167dcufo544 Om bara de dåliga finns kvar sjunker hens WTP till 50.
+10g6n0tjmxv Före urvalet, med 50 % bra bilar värderade till 150 och 50 % dåliga värderade till 50, vilken förväntad WTP?
+2gaybt1s8aw (150+50)/2=100; denna WTP är villkorad av den antagna sammansättningen.
+28qmglybihe Varför stöder ett pris på 100 inte förväntan 50/50 här?
+1ihyu7eeh8h Säljarna av bra bilar avböjer 100<130
+1fql3vokxap Sammansättningen av erbjudna bilar ändras: förväntan måste revideras.
+1n0g7oh00xm De dåliga bilarna är värda 0
+1xa2prnm8n4 De är värda 50 för köparna; problemet är att de bra försvinner.
+n7s64sqjxy Ingen säljare känner till kvaliteten
+2b5aejez6jw Säljaren är just den informerade parten i detta fall.
+213l375hxfg Om ingen känner till kvaliteten är det inte längre samma marknad
+1pr1tgdd1ed Föreställ dig nu att inte ens säljaren vet vilken typ hens bil är. Under riskneutralitet är hens genomsnittliga reservationspris 80 och ditt genomsnittliga värde 100. Det kan alltså finnas ett pris som båda accepterar, utan selektivt utträde grundat på en känd kvalitet.
+yui713qev5 Symmetrisk osäkerhet: E[reservationspris]=0,5×130+0,5×30=80. Affärer mellan 80 och 100 är möjliga i denna modell.
+177z6hjtrr9 Privat information låter den bra säljaren medvetet avböja ett genomsnittspris.
+1kau7c91n7u Utan den kunskapen kan samma urval inte återskapas mekaniskt; riskaversion skulle dock kunna ändra reservationspriserna.
+neu5kpwwdx Pris 90: köparens förväntade vinst 100−90=10; säljarens 90−80=10. Kalkylen bygger på riskneutralitet, inte på en kvalitetsgaranti.
+p3mxvp8lcw Du jämför två scenarier: vem som har informationen ändras, även om de ursprungliga sannolikheterna är desamma.
+1j852hp58tn Om ingen säljare känner till kvaliteten, vilket är hens genomsnittliga reservationspris med 130/30 lika sannolika?
+1zo3lmok598 100 är köparens genomsnittliga värde, inte säljarens reservationspris.
+4eiy7a1w5y Vem tar initiativet till att avslöja typen?
+pww6y8b5dc En pålitlig säljare erbjuder en garanti som opålitliga säljare tycker är dyr att imitera. En köpare ordnar däremot en besiktning eller erbjuder en meny för att få veta det hen inte ser. Båda minskar informationsskillnaden, men initiativet kommer från olika håll.
+174lyp8e7oo Signalling: observerbar handling av den informerade parten. Screening: test, datainsamling eller meny som ordnas av den mindre informerade parten.
+1cd35azucwm En handling avslöjar typen bara om typerna har olika incitament att välja den.
+la9mzlr2g4 En signal som är mycket dyr för alla är inte nödvändigtvis särskiljande: den måste vara relativt svårare att imitera för den dåliga typen.
+my365clfru Säljare som erbjuder en trovärdig garanti: signal. Köpare som kräver en oberoende besiktning: screening. Ett kollektivt rykte kan också minska osäkerheten kring små märken.
+8wmfsia2a2 Du är en pålitlig säljare: fråga varför en säljare av låg kvalitet inte omedelbart skulle kopiera ditt drag.
+dnzefuqax7 Ett mindre informerat företag låter de sökande göra ett test. Vilken mekanism?
+7ohfu827aj Screening
+29yoq592dvz Arbetsgivaren försöker få veta den typ den inte observerar.
+1hguu4f2xnx Arbetsgivarens signalling
+27l8qp4np3i Den informerade parten skulle i detta exempel vara den sökande, inte arbetsgivaren.
+1z8h7k388xb Moral hazard redan visad
+15q1pf0j2do Ett test av typer visar inget val av ansträngning efter kontraktet.
+1aogoiyhmct En examen skiljer typerna åt bara om den ena vill kopiera den och den andra inte
+169fpizw61c Examen ger tillgång till en lön på 100 i stället för 60. En sökande betalar 20 i ansträngning för att ta den; en annan betalar 60. Den första vinner på att ta examen, den andra förlorar: samma signal skapar två olika val eftersom dess kostnad beror på typen.
+13peu3c0bpb Strikt separering om C_A<40<C_S, eftersom 100−C_A>60 och 100−C_S<60. Vid likhet måste indifferensen hanteras.
+cleu1ovaux Vilket villkor måste examenskostnaden uppfylla för en typ som strikt väljer att ta examen?
+1dhnhr6kn68 Kostnad < lönevinst på 40
+kt3gl0kckf 100−C>60 ⇔ C<40: lönevinsten måste täcka kostnaden.
+122tnwdhp1y Kostnad >40
+216mvvt72hh Då skulle nettot bli lägre än utan examen.
+1mojdig4ovn En trovärdig signal läses av genom två jämförelser, en per typ.
+n1564fo7ai Samma examensval för båda typerna vore pooling; examen kan också skapa kompetenser, vilket denna kalkyl inte förnekar.
+rdra7mbifb Typ A: 100−20=80>60. Typ S: 100−60=40<60. Om C_S=40 är S indifferent, så strikt separering är inte längre garanterad.

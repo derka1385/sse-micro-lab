@@ -1,0 +1,218 @@
+24cjl9qyls8	Les unités se simplifient et les niveaux du point sont pris en compte.
+1frafkodfnj	εD = −2, petite hausse du prix. Pourquoi R baisse-t-elle ?
+27o4fr3f186	Le prix n’apporte aucun gain sur les unités vendues
+g5h2x3gv9s	Ce gain existe mais est dépassé par la perte de volume.
+215pf9y5qea	La baisse proportionnelle des ventes domine le gain par unité
+1po8o6b3kgk	Q = 30 − 2p. Calcule εD à p = 5.
+90e7xwcswm	εD = −1,5 ; prix −10 %. Variation approximative de Q en % ?
+1yser2ep301	Q = A·p^−1. Pour réduire Q de 20 %, hausse exacte du prix en % ?
+18xxpae4lms	Une pente directe constante garantit-elle une élasticité constante ?
+1gm5ucnurx2	Oui, une droite a la même sensibilité proportionnelle partout
+6xg9wvnvai	Une même unité perdue n’a pas le même poids dans une grande ou petite quantité.
+17rj2x2o5ze	Non : p/Q varie le long de la courbe
+y7wje55917	La pente n’est qu’un facteur de ε.
+1pjw4mpqwtu	Les ventes peuvent réagir fortement et les coûts manquent pour le profit.
+jpftf7zyhe	La réaction de quantité est proportionnellement plus faible.
+19psnh3mjma	Constant derivative
+1jqm7nlxzlu	Changing p/Q
+1t00j8nbl6	Je reconnais la variable modifiée et l’horizon.
+3fbmmqisvx	Prix propre, prix croisé et revenu ne donnent pas la même classification.
+130eriyf24k	Je retrouve ε avec la dérivée et p/Q.
+9700epne2e	Je peux justifier la formule par les pourcentages et les unités.
+1ck18vxklw8	Je garde le signe sans confondre magnitude et ordre négatif.
+20gm99e0lxm	Élastique se juge avec |ε| > 1.
+1tqtn0bpvm2	Je distingue pente et élasticité.
+29k4f0ebrok	Une demande linéaire n’a pas une élasticité unique.
+16lbi5ydkop	Je précise approximation, arc ou exact.
+6pxbc47a25	Une grande variation peut rendre l’écart important.
+secz1p12m7	Je relie l’élasticité à R sans promettre un profit.
+19rlxlql52j	Le profit demande les coûts et les autres conditions du problème.
+4kcm3902vl	Production et coûts — faut-il produire, avec quoi, et combien ?
+1ydjlv5ccj0	Technologie, coût minimal et décision de la firme
+2abjtlra08x	Un travailleur supplémentaire n’ajoute pas la production moyenne. Une perte ne signifie pas toujours fermer. Tu vas reconstruire ces décisions et relier l’atelier, ses coûts et l’offre du marché.
+fsan1r4hfj	Les clients
+128g84vtcu0	achètent au prix de marché
+z0bukuzc1u	payer le même prix pour un produit homogène
+212tox9g63b	Toi, responsable de l’atelier
+2abkw4k113d	choisis les inputs puis la quantité
+1oh7p0lf7hj	produire au coût minimal et maximiser le profit économique
+105gicghwwy	Travailleurs et propriétaires de machines
+noqfck2y0w	fournissent L et K aux prix w et r
+29xtcckh1iz	être rémunérés pour leur usage et leur meilleure alternative
+1y32vpgqb7u	sépares technologie, coût et horizon
+253q98ylt0j	comparer la bonne alternative : produire, arrêter ou sortir
+lq6z5hzf2x	Avant le profit, il y a une vraie production
+elyhqfbqvz	Tu diriges un petit atelier : des travailleurs L et des machines K produisent des unités Q. Deux questions se suivent. D’abord « avec quel mélange produire la quantité visée au moindre coût ? », puis « quelle quantité vaut la peine d’être vendue au prix du marché ? ».
+f1axagc9na	Technologie Q = f(K,L). Minimisation du coût conditionnelle à Q, puis maximisation de π(q) = pq − C(q). La quantité de firme q se distingue de la quantité totale du marché Q.
+2er6djt7a6w	Une technologie relie les ressources physiques à l’output, avant les prix de vente.
+oi5g7jt0hl	Les prix des inputs transforment un mélange physique en dépense monétaire.
+xkg0g6f967	Le prix de l’output permet ensuite de comparer la recette au coût ; ce n’est pas le même problème de choix.
+rkmh046ob	Situation construite Q = √(KL) : K = 20 et L = 5 produisent Q = √100 = 10. Avec w = 4 et r = 1, ce mélange coûte 4×5 + 1×20 = 40.
+1ao88at07t7	Tu ne peux pas fixer une quantité rentable sans savoir quelles ressources elle exige ; tu ne peux pas minimiser les ressources en oubliant l’output à fournir.
+2gea0n5zb68	Produire 10 au coût minimal
+21tvnoz0avf	L, unités de travail
+1krb8bsvbb	K, unités de capital
+xiu3bkk5q3	Exemple construit Q = √(KL), objectif Q = 10, w = 4 et r = 1. Isoquante K = 100/L : points exacts reliés, segments visuels approximatifs. Isocoût exact K = 40 − 4L. Minimum (L,K) = (5,20), coût 40.
+v4k5guyjst	Isoquante Q = 10
+7ij0srb86v	Chaque point a KL = 100, donc Q = 10.
+9eqr4004or	Isocoût C = 40
+23tonuvu2od	Chaque point coûte 4L + K = 40. Seul (5,20) atteint Q = 10 à ce coût.
+syocdos6u1	Coût minimal : L = 5, K = 20
+19koni70si1	Minimiser le coût pour Q = 10 signifie…
+58jlq615i9	Choisir Q = 0 parce que cela coûte moins
+2g8qlbkoog8	Cela viole la quantité cible. Choisir la quantité vient dans le problème de profit.
+11wdba15yvf	Choisir les inputs les moins coûteux capables de produire 10
+1ergk6qh9np	L’output est imposé dans ce premier problème.
+240xiwywwli	Ce qu’ajoute le dixième travailleur
+135pmozhnv3	Ne répartis pas toute la production sur le dernier travailleur. Son apport est seulement la différence entre ce que l’atelier produit avec lui et sans lui, les machines restant fixes. La moyenne répond à une autre question : combien produit-on par travailleur présent ?
+1zmegit8uth	Produit marginal discret MPL = ΔQ/ΔL, K fixé. Produit moyen APL = Q/L. Continu : MPL = ∂Q/∂L.
+14kk5pg86kg	La décision d’embaucher concerne ce qui change avec une personne supplémentaire.
+7slfcn9stm	La production déjà possible avant l’embauche ne lui est pas attribuée.
+26cu8poop2w	Une moyenne combine tous les travailleurs ; elle ne mesure pas le gain de la prochaine embauche.
+zntfmhrm9v	L5 : à L = 9, Q = 50 ; à L = 10, Q = 54 ; à L = 11, Q = 56. Le dixième ajoute 4, le onzième 2. À L = 10, la moyenne est 54/10 = 5,4.
+1w3bf9lsncf	Avant d’embaucher le onzième, tu demandes « deux unités de plus valent-elles son salaire ? », pas « est-ce que 56/11 paraît grand ? ».
+rblv24hyte	Q passe de 50 à 54 lorsque L passe de 9 à 10. Quel produit du dixième travailleur ?
+248gsnct9qr	54 − 50 = 4, K fixé.
+2dzmdoowg5n	unités/travailleur
+ao3bll0ltw	À L = 10 et Q = 54, quel produit moyen ?
+1cerjja15gd	APL = Q/L = 54/10 = 5,4. Ce n’est pas le produit marginal 4.
+5garg25yh3	4 est l’apport du dixième ; la moyenne utilise toute la production 54 et les dix travailleurs.
+fyuoa4qi8b	Le travailleur doit rapporter ce qu’il coûte à la marge
+ger0ju17hr	Un travailleur peut être productif physiquement sans être rentable au salaire demandé. Convertis son output supplémentaire en recette en multipliant par le prix de vente, puis compare au salaire. Cela suppose que ton atelier peut vendre au prix donné sans le faire varier.
+21ie3d1oxwc	Firme price taker : valeur du produit marginal p·MPL ; embaucher tant que p·MPL > w. À l’intérieur, p·MPL = w. Avec pouvoir de marché, utiliser MR·MPL.
+1o1sw3wmgkl	MPL est en output par travailleur, le salaire en monnaie par travailleur : il faut une conversion.
+23aizcw1w0w	Multiplier MPL par p donne la recette ajoutée si le prix de vente reste donné.
+18ijeck2wpb	Continuer au-delà de p·MPL = w ferait coûter plus que ce que la dernière embauche rapporte.
+nrdsise26d	Reprends L5 avec prix construit p = 3 et salaire w = 9. Dixième : 3×4 = 12 > 9 ; onzième : 3×2 = 6 < 9. Si ces incréments décrivent les options pertinentes, le dixième vaut son coût, le onzième non.
+hh69mdiqey	Tu compares les neuf de salaire au chiffre d’affaires supplémentaire, pas au chiffre d’affaires total de l’atelier.
+csdbcqboff	p = 3 et MPL du onzième = 2. Combien rapporte cette embauche supplémentaire ?
+1nmnnflxj6q	p·MPL = 3×2 = 6, à comparer au salaire 9.
+19ktedl2437	Avec p·MPL = 6 et w = 9, embaucher ce travailleur améliore-t-il le profit ?
+zcp160ynkl	Oui parce que MPL est positif
+10sbi08s90y	Positif physiquement ne signifie pas rentable au salaire donné.
+av0al35ed7	Non : il ajoute moins de recette que de coût
+83f75f4bcz	La contribution marginale est 6 − 9 = −3.
+q0cnmsokmh	Produire la même chose avec un autre mélange
+gpxszq0q3v	Tu dois fournir dix unités. Beaucoup de combinaisons machines-travail peuvent y parvenir : moins de machines peut être compensé par plus de travail. Une isoquante regroupe ces mélanges équivalents en output ; elle ne dit pas encore lequel coûte le moins.
+wfqdagbrpq	Isoquante : f(K,L) = Q̄. Avec L horizontal et K vertical, pente = −MPL/MPK ; MRTS_LK = MPL/MPK, capital économisé par unité de L ajoutée.
+10whqdq0xwk	On fixe l’output pour comparer uniquement le mélange d’inputs.
+1fgj4rdt1zh	Ajouter dL crée MPL·dL de production ; retirer dK en retire MPK·|dK|.
+1o4o07pk57y	Maintenir Q impose MPL·dL + MPK·dK = 0, d’où le ratio de produits marginaux.
+1sif7do7d2w	Q = √(KL), cible 10 : KL = 100. (L,K) = (5,20) et (10,10) produisent tous deux 10. MRTS_LK = K/L : au premier point, elle vaut 4 unités de K par L.
+2dbf7bju3bg	Tu demandes à l’ingénieur combien de machines un peu plus de travail peut remplacer sans changer la livraison ; tu demandes ensuite au comptable si cela économise de l’argent.
+2ewtpr7rpd7	Q = √(KL) = 10 et L = 5. Quel K faut-il ?
+1neitbkn0l6	KL = 100, donc K = 100/5 = 20.
+nsmsekhyic	MRTS se rapporte à…
+h9oxmx9wc4	Un arbitrage de consommation à utilité constante
+20slsdgfuhg	C’est MRS. Ici les acteurs produisent et les axes sont L et K.
+e5qlynksqp	Un arbitrage technique entre inputs, à output constant
+5876flzee6	MRS concerne les préférences d’un consommateur, à utilité constante.
+11yb7f1d5j0	Le marché des inputs propose aussi une pente
+lwcy0y7h3s	Le travail coûte w et les machines r. Si tu maintiens la dépense constante, un travailleur de plus exige de retirer w/r unités de capital. L’isocoût décrit ce compromis financier ; il n’est pas une isoquante de production.
+2fmriwgj8ur	C = wL + rK ⇒ K = C/r − (w/r)L. Avec L horizontal, la pente vaut −w/r ; les intercepts sont C/w et C/r.
+1vgz5zi1mvq	Les deux dépenses doivent s’additionner au même coût total.
+1rfpv9ks5oe	Ajouter une unité de L coûte w, qu’on finance en retirant w/r unités de K.
+1q7djfmfh6e	Le ratio de prix des inputs vient du marché, tandis que MRTS vient de la technologie.
+1z9iokwkqrt	C = 40, w = 4, r = 1 : K = 40 − 4L, intercepts L = 10 et K = 40. (5,20) coûte 40 ; (10,10) coûte 50 et ne se trouve pas sur cet isocoût.
+1eojmiu25fx	Deux recettes techniques livrent autant ; tu peux désormais comparer leur facture avec les mêmes prix de ressources.
+2d72yq6yab9	Avec L horizontal, w = 4 et r = 1, quelle pente signée pour K(L) ?
+w2iu0hrpoi	K = C/r − (w/r)L : pente = −4/1 = −4.
+1w9umy9lpza	Combien coûte (L,K) = (10,10) si w = 4 et r = 1 ?
+sfep0p5mg8	Gagne la condition du dernier euro productif
+2ftassl0yhx	Si un euro de travail crée plus d’output qu’un euro de machine, tu peux réorganiser un peu le mélange. Pour la même dépense, tu produis davantage ; ou pour la même livraison, tu dépenses moins. Au mélange intérieur le moins cher, aucun euro ne doit travailler mieux dans un input que dans l’autre.
+1cm9nx0tw8a	Minimisation intérieure : MPL/w = MPK/r, soit MRTS_LK = w/r. Il faut aussi f(K,L) = Q̄ et vérifier coins, technologie et non-négativité.
+s213bk79x5	Quelle égalité empêche un transfert de dépense d’améliorer le mélange ?
+1pvs2ww44x0	Chaque dernier euro donne le même output marginal.
+1fnt3vvhckq	MPL = MPK quel que soit le prix
+bl5yyo6xdw	Comparer les unités d’inputs ignore ce que coûte chacune.
+17m7x9fh6fq	Les quantités peuvent différer selon les prix et la technologie.
+28v0ylekyi5	Une réallocation de dépense préserve le coût tout en changeant l’output.
+27ouy7xv3j3	Si les gains marginaux par euro diffèrent, le même output est atteignable à moindre coût.
+2brmpa90z8z	La condition de ratio et la cible physique sont deux relations nécessaires : la tangence seule ne donne pas le niveau des inputs.
+1pxc0d5exxi	Q̄ = 10, w = 4, r = 1 : K = 4L et KL = 100 ⇒ 4L² = 100 ⇒ L = 5, K = 20 ; C = 40. Le mélange (10,10) fournit aussi 10 mais coûte 50.
+2838qusjq9u	Tu n’achètes pas le même nombre de machines et d’heures pour « équilibrer ». Tu égalises leur output supplémentaire par euro.
+240p4c94zkk	Mélange le moins cher pour Q = 10
+tby37h4dsi	Q = √(KL), Q̄ = 10, w/r = 4. Quel L minimise le coût ?
+1cnrca70s3v	Reconstruis la condition intérieure de coût minimal.
+1ghqrfocd7i	Le compromis technique MPL/MPK doit égaler le compromis financier w/r.
+zrhvc1skss	Le salaire augmente : garde la même livraison cible
+24f49f6hww7	Les travailleurs deviennent plus chers, mais le contrat demande toujours dix unités. Si la technologie permet la substitution, tu utilises relativement plus de machines. Ne fais pas seulement pivoter l’ancienne facture : le mélange optimal et le coût minimal changent aussi.
+1p7x7qb4loe	À Q fixé, une hausse de w rend L relativement cher. Pour Q = √(KL), K/L = w/r augmente ; le nouvel isocoût minimal est plus élevé.
+61t6fzm6m7	L’isoquante reste liée au même Q, donc elle ne se déplace pas avec le salaire.
+1lkuxfnk5bb	La pente de l’isocoût change parce que le prix relatif des ressources change.
+ac3fuj4920	Le nouveau point tangent doit encore fournir l’output imposé ; l’augmentation d’un prix d’input ne peut pas réduire le coût minimal avec technologie et autres prix inchangés.
+19j615yv744	Q̄ = 10, r = 1, w : 4 → 9. L* = 10/3 ≈ 3,333 ; K* = 30 ; C* = 9×(10/3) + 30 = 60, contre 40. Le mélange initial coûterait maintenant 9×5 + 20 = 65.
+6oqzigqrtx	Le nouveau mélange à 60 coûte plus qu’avant, mais évite les cinq de dépense supplémentaire qu’aurait coûtés la conservation du vieux mélange.
+1xxpewj90ov	Le travail devient plus cher, l’output cible reste 10
+2dvd6clcdd1	Après w = 9 et r = 1, nouvelle solution L = 10/3 et K = 30, coût 60. L’isoquante Q = 10 reste la même. Le nouvel isocoût minimal est K = 60 − 9L.
+azfae4fpqd	Nouvel isocoût C = 60, w = 9
+143vqny8nbe	L coûte davantage ; produire 10 au meilleur mélange coûte 60 au lieu de 40.
+165kigdy3jw	Ancien : coût 40
+l55j7c4t7j	Nouveau : coût 60
+n5qj20o6f6	Q̄ = 10, w = 9, r = 1 pour Q = √(KL). Quel K* ?
+21sayateub1	Après la hausse de w, si Q̄ reste 10, quelle courbe garde-t-on ?
+rz3oq9p5t1	Une isoquante d’output plus faible par définition
+1d54fuy3vzm	La firme n’a pas le droit de réduire la livraison dans ce problème conditionnel.
+1fsrgs6o3sr	La même isoquante Q = 10
+1g7yb0my55q	Le prix d’un input ne modifie pas ici la technologie ni la livraison cible.
+70atmjlfmi	Un facteur de plus ou tous les facteurs : deux expériences
+2bop3dp98f2	Ajouter du travail à une quantité fixe de machines peut donner des gains de plus en plus faibles. Doubler simultanément machines et travail est une autre expérience : l’atelier peut doubler sa production malgré ces produits marginaux décroissants. Ne tire pas une conclusion d’échelle d’une expérience qui garde un input fixe.
+xr7efhqi70	Produit marginal décroissant : un input augmente, autres fixés. Rendements d’échelle : comparer f(tK,tL) à t·f(K,L). Économies d’échelle : le coût moyen de long terme diminue avec Q.
+22i7u009esn	Avec machines fixes, davantage de travailleurs se partagent la même capacité.
+15ize9hbbim	Quand tous les inputs augmentent, la capacité par travailleur n’est plus nécessairement réduite.
+1ph77gp9yv1	Les rendements concernent la technologie ; les économies concernent une fonction de coût moyen à long terme, avec prix des ressources et conditions précisés.
+f996f6pmzh	Q = √(KL) : K = 4, L = 9 donnent Q = 6 ; K = 8, L = 18 donnent Q = 12 : rendements constants. Pourtant MPL = 0,5√(K/L) diminue avec L à K fixé. Pour Cobb-Douglas K^αL^β, le test d’échelle compare α + β à 1.
+dbh17dc76v	Ne confonds pas ajouter un cuisinier dans la même cuisine et ouvrir une cuisine deux fois plus grande avec deux fois plus de cuisiniers.
+jekekwambk	Q = √(KL), tous les inputs doublent. Les rendements d’échelle sont…
+2d9mko0qh76	Décroissants parce que MPL diminue à K fixé
+27u33rfrob1	Tu mélanges deux expériences : ici K double aussi.
+chxtk6i06k	Constants : Q double
+1j4mvr1bj6p	Q = K^0,3 L^0,5. Quelle somme d’exposants sert au diagnostic des rendements d’échelle ?
+8tbf2sux72	0,3 + 0,5 = 0,8 < 1 : rendements décroissants. Ce n’est pas le seul exposant du travail.
+y3ze5l9hjo	Total, moyen, marginal : trois questions à séparer
+10c43rk8jbl	L’atelier paie une dépense fixe plus une dépense qui dépend des unités fabriquées. Le total répond « combien tout coûte ? », le moyen « combien par unité en moyenne ? », le marginal « combien coûte une petite unité de plus ? ». Les diviser ou les dériver répond donc à des questions différentes.
+15d6mp7yfgu	TC = FC + VC ; ATC = TC/q = AFC + AVC ; AFC = FC/q ; AVC = VC/q ; MC = dTC/dq. À q = 0, les moyennes par unité ne sont pas définies.
+1r6u537or01	Le coût fixe ne varie pas avec q dans l’horizon donné.
+141dmplnb16	Les moyennes répartissent une dépense sur les unités produites.
+1oybm1yfu0i	La dérivée du fixe est nulle : le coût marginal ne contient pas FC quand il est constant.
+m2t8g11hxi	L5 : C = 30 + q² à q = 2. TC = 34, FC = 30, VC = 4, AFC = 15, AVC = 2, ATC = 17, MC continu = 4. Vérification : 15 + 2 = 17.
+bawdzhzddy	La facture de 34 n’est pas le coût de la prochaine unité. Et le coût moyen 17 n’est pas non plus celui de la prochaine unité.
+27war3wc5re	C = 30 + q² à q = 2. Quel ATC ?
+qcav6ug7zz	€/unité
+c8gjox1hoo	Pour C = 30 + q², quel MC continu à q = 2 ?
+i1wruoxmvs	MC = dC/dq = 2q, donc 4. Le fixe 30 a une dérivée nulle.
+a805gw372a	34 est le total. MC est une dérivée, pas la facture.
+22qjup8re9	17 est le moyen. La dérivée vaut 4.
+2ik3ysfg76	Une unité entière n’est pas une variation infinitésimale
+eo3ngkss76	La dérivée mesure la pente au point actuel. Produire exactement une unité entière de plus additionne le coût sur toute la transition. Si le marginal augmente entre les deux niveaux, ce coût discret dépasse la dérivée au départ.
+112c4r1e4u2	MC continu = C′(q). Coût discret de q à q+1 : C(q+1) − C(q). Si MC < ATC, la moyenne baisse ; si MC > ATC, elle monte.
+1qg77avxhk0	Une dérivée est une limite pour une très petite variation.
+15dsfjead3t	Une différence sur une unité entière couvre plusieurs valeurs marginales.
+1h76yqadg9y	Le coût du nouvel ajout tire une moyenne vers lui, comme une nouvelle note au-dessus ou au-dessous de ta moyenne.
+iygb85v34h	C = 30 + q² : C(3) − C(2) = 39 − 34 = 5, alors que C′(2) = 4. Dans l’autre exemple C = 10 + q² à q = 2, MC = 4 < ATC = 7 : ATC baisse localement.
+5qixn0d39r	Une note de 12 augmente une moyenne de 10, même si 12 n’est pas la meilleure note imaginable. MC joue ce rôle pour ATC.
+1ot6h4vzboe	Une firme : coût du suivant, coût moyen et prix reçu
+1a5j9e50qif	q, unités de la firme
+24pqxxt8axi	Exemple L6 C(q) = 10 + q². MC = 2q ; AVC = q ; ATC = 10/q + q pour q > 0. Points de ATC exacts reliés, segments visuels approximatifs. Le prix de 12 est donné à la firme ; q* = 6.
+wnztrphxn9	Coût de l’unité marginale ; la firme le compare au prix.
+6fb6fbobf9	Coût variable moyen : ce que la recette doit couvrir pour produire avec FC inévitable.
+c8cmctqr76	Coût total par unité ; le comparer au prix révèle profit ou perte.
+uami8eiki0	Prix donné p = 12
+1ugrwuzzzf9	MR = p pour cette firme price taker.
+12hja4dvdu1	min ATC ≈ 6,325
+poctr0qj3k	C = 30 + q² : coût exact de passer de q = 2 à q = 3 ?
+24f8ubxzh3v	C(3) = 39 et C(2) = 34 : différence 5, pas la dérivée 4.
+188970u1ov4	Si MC est inférieur à ATC au point considéré, ATC…
+2bqm842pczg	Augmente parce que TC augmente
+ocl9a2dxop	Un total peut augmenter pendant que sa moyenne diminue.
+1xf6x13oz76	Diminue localement
+1bdgcira950	L’ajout marginal est moins cher que la moyenne existante.
+93cen09ski	Combien vendre quand le prix est donné ?
+1iyipdnljtt	Tes clients paient douze par unité, et ton petit atelier ne change pas ce prix. Une unité de plus ajoute donc douze de recette. Tu continues tant que son coût marginal est inférieur à douze, puis tu vérifies que le candidat est meilleur que l’arrêt et respecte le domaine.
+yhdb3itf9q	Price taker : π(q) = pq − C(q), MR = p. Candidat intérieur : p = MC(q), sur une branche pertinente ; comparaison avec q = 0 et contraintes.
+1e355qplzd1	Quel point empêche une petite hausse ou baisse de q d’améliorer le profit intérieur ?
+19nusgym2fv	La dernière unité rapporte autant qu’elle coûte.
+2c01qj9aayx	Cela décrit profit nul, pas nécessairement le choix de q à tout prix.
+1rv9p29kddy	La recette nulle n’est pas l’objectif.
+2k5nhmgrcl	Une unité supplémentaire ajoute p de recette parce que la firme prend p comme donné.
+qy698cilxm	Si p > MC, la fabriquer augmente π ; si p < MC, la retirer augmente π.

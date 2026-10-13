@@ -1,0 +1,235 @@
+18dpsuzfzba	Un marché additionne des achats, pas des prix
+oe6wfcx5tz	Deux étudiants n’ont pas la même disposition à payer. Au même prix, demande à chacun combien il achète, puis additionne les unités. Si l’un répondrait une quantité négative avec sa formule, il achète zéro : personne ne vend ici une « consommation négative ».
+1yku1mhxnuc	Demande privée de marché : sommation horizontale QD(p) = Σ max(0, qi(p)). La courbe agrégée peut avoir un coude.
+v7i0k1wv1m	Tous paient le même prix pour le bien homogène.
+12plbpmtm0k	Ce que le marché absorbe est le nombre total d’unités, donc une somme de quantités.
+15i13jr2p7l	Un acheteur sort du marché au-dessus de son prix de réserve ; conserver sa demande négative fausserait la somme.
+1bhd46aaz68	Exemple L4 : qH = max(0, 10 − p), qL = max(0, 5 − p). À p = 6 : 4 + 0 = 4, pas 4 + (−1) = 3. À p = 4 : 6 + 1 = 7.
+209hgnko496	À 6 €, ton ami renonce au café. Tu n’en achètes pas une unité de moins parce que sa formule non tronquée vaut −1.
+cjhz34g611	Avec qH = max(0, 10 − p) et qL = max(0, 5 − p), quel est QD à p = 6 ?
+2328b3u73ai	qH = 4 ; qL = 0. La somme est 4.
+2ca9l2fzfqh	Tu as conservé −1 pour le second acheteur. Tronque chaque demande à zéro avant de sommer.
+17465blgkgw	Vérifie la réponse avant de l’annoncer
+ymlenrrsh7	Une formule linéaire est un modèle sur un domaine ; elle n’oblige pas un vendeur à offrir une quantité négative. Après un calcul, réinjecte toujours le prix dans les deux plans et vérifie les unités. Une équation correcte avec un mauvais domaine peut produire un résultat économique impossible.
+27ntjay41z4	Vérifications : Q ≥ 0, p admissible, QD(p*) = QS(p*), courbe et segment pertinents, unités cohérentes.
+sagsk6hmxp	Les signes et les segments traduisent ce que les acteurs peuvent réellement choisir.
+jm3rlqhgms	Remplacer la solution dans les deux côtés détecte une erreur d’algèbre ou de donnée.
+45041kip37	Le récit causal doit correspondre au déplacement initial, pas seulement au résultat numérique.
+fpy0vw3hv3	Pour QS = p − 2 à p = 1, l’offre économique est zéro, pas −1. Pour l’équilibre calculé p = 6, les deux formules valent 4 : cohérence confirmée.
+1qry2yd8ttv	Avant de rendre : « qui a changé ? à prix donné que veut-il faire ? quel déséquilibre ? quelle réaction de prix ? ». Tu peux reconstruire le graphique avec ces quatre questions.
+sz8jfvblvx	Explique en deux phrases pourquoi l’arrivée d’étudiants fait monter p et Q, offre inchangée.
+zmge2vse3h	Plus d’achats à prix donné
+8kir7e8klv	Pénurie puis hausse du prix
+27vm59r824b	Réaction sur l’offre inchangée
+28i8xyu73gr	À l’ancien prix, davantage d’étudiants veulent acheter, ce qui crée une pénurie. Le prix monte : les vendeurs augmentent leur quantité offerte sur S inchangée et le nouveau Q dépasse l’ancien.
+1sswgy73nwq	Relie les causes avant de calculer
+fcsytcl9o8	Reconstruis le mécanisme dans l’ordre. Chaque flèche doit expliquer pourquoi l’étape suivante arrive.
+1axl9c5gcb2	Le changement de revenu, goût ou coût indique quel plan est modifié, indépendamment du prix du bien.
+1zf5ea52dhd	La relation modifiée crée une pénurie ou des invendus.
+1vgpsxkoi5o	Les achats insatisfaits poussent p vers le haut ; les invendus poussent p vers le bas.
+2x2qkdnpz8	Le nouveau prix change les quantités voulues sans déplacer automatiquement toutes les courbes.
+1kforv9e4ky	Les quantités souhaitées doivent être égales et économiquement possibles.
+265evcutd08	La popularité augmente les achats souhaités à chaque prix : D se déplace à droite. Les grains plus chers réduisent l’offre à chaque prix : S se déplace à gauche. Les deux forces augmentent p. La première augmente Q tandis que la seconde le réduit : sans tailles relatives, la variation de Q est ambiguë.
+rr0bnct7g8	Explique la décision en te mettant à la place de chaque acteur, puis vérifie ce qui change quand sa contrainte change.
+1lqc9t1wbgh	Entraînement construit ; pas de corrigé officiel
+7ccpy2wrqd	Remets les causes et conséquences dans l’ordre.
+1zjmtxeh60	Identifier le choc initial
+2ad4302v6qg	Comparer QD et QS à l’ancien prix
+lahhunjcwd	Déduire la pression sur le prix
+2eenrem1llj	Suivre les réactions sur les courbes inchangées
+1wmz4vfovj8	Vérifier le nouvel équilibre et le domaine
+iz2irmc9mb	Chaque étape explique pourquoi la suivante arrive. Reprends les liens « parce que » si tu hésites.
+1qwxquktwes	Explique-le avec tes mots
+10zbwsev1je	Un café normal devient plus populaire tandis que le prix de ses grains augmente. Explique à un ami ce qui change à prix donné, ce qui arrive au prix et pourquoi tu ne peux pas toujours signer la variation de Q.
+2ba88wb6qk2	À toi : une réponse d’examen en anglais
+qlygeyaiz8	Choisis le modèle, pose les relations et justifie le résultat. La correction apparaît après avoir rendu ta copie.
+209zofzcfsa	Ce que tu sais reconstruire
+1y2ozz57o9t	Tu as parcouru le mécanisme. La compréhension se consolide maintenant par le rappel espacé, dans un autre contexte et sans regarder la leçon.
+prgfage1vr	Le goût déplace D
+1v0w95l2yvc	Plus de café est voulu au même prix.
+19mm88vyep4	Le coût déplace S
+n21bwk8hlt	À prix de vente donné, moins est offert.
+1r30clqv1hj	Les deux poussent p vers le haut
+jjyw0wt5ot	Chaque choc crée un excès de demande à l’ancien prix.
+1ut9v3wb76t	Q reste ambiguë
+rznoqmjsdm	Les effets de quantité sont opposés ; il faut leur taille.
+mkh1cz31rb	Le prix propre fait choisir un point le long de D. Un goût différent déplace D à prix donné.
+293z77kquhg	Ambigu ne veut pas dire inchangé : les deux chocs peuvent être de tailles différentes.
+1qk1og57via	Entraînement construit à partir de L2 et du format de raisonnement SSE. Les nombres et la correction ne constituent pas un corrigé officiel.
+1ksrtbv83nc	Déplacer D pour l’arrivée d’acheteurs, S pour les coûts.
+153bhyfxokn	Résoudre QD = QS dans chacun des trois régimes.
+2d4rxldmop2	Distinguer le résultat numérique de ce cas et la conclusion générale sans tailles.
+dy7w0gfrye	Les deux : 14 − p = p − 4 ⇒ p = 9, Q = 5.
+guv232bc4w	Marquer (4,6), (6,8), puis (5,9) en coordonnées (Q,p).
+2dw5m95e26u	Quantity demanded et demand : quelle différence ?
+ru74j34q08	Aucune : les deux désignent toujours la courbe entière
+17ramyw7vf2	Cette confusion empêche de distinguer mouvement et déplacement.
+2d5l7fo7vwj	Un point à un prix donné, contre la relation entière entre prix et quantités
+1he717yaq4x	Une variation du prix propre change le point, pas automatiquement la relation.
+f0bue9sbud	Excess supply désigne ici…
+coz4x7ue9a	Le profit de tous les vendeurs
+27ehbg5t04r	C’est une autre notion, exprimée en monnaie et non en unités.
+yz6ubxzy6s	QS − QD lorsque cette différence est positive
+231rx3i54dp	C’est un excès d’unités proposées, pas une aire de gain monétaire.
+2db3pi97xru	Un input devient moins cher, D inchangée. Résultat usuel ?
+13ue40knmsq	p et Q baissent
+85jw0qobgj	La baisse du coût permet davantage de quantité, pas moins.
+1xk1kgcv2qk	p baisse et Q augmente
+1we83sca4c5	S se déplace à droite ; le nouveau prix plus bas fait augmenter les achats.
+1okrm172c9f	Reconstitue un choc positif de demande.
+17akqsrra4e	Plus d’achats souhaités à prix donné
+1qqf367ba79	Excès de demande à l’ancien prix
+26bfnptq8hg	Hausse du prix
+1n8y9g1pi5p	Hausse de la quantité offerte le long de S
+h1dkmwrv49	Nouveau marché : QD = 18 − 2p ; QS = p − 3. Calcule p*.
+xccld2jbvf	Avec pD = 24 − 2Q et pS = 6 + Q, calcule Q*.
+cipmf62nqa	D à gauche et S à droite, tailles inconnues : conclusion certaine ?
+14gk7j9o1fn	Q baisse et p est ambigu
+flpjby3fqb	C’est l’autre combinaison de signes. Refais chaque choc séparément.
+1yziyp7961o	Le prix baisse ; Q est ambiguë
+8uqdizazt1	Les deux forces baissent p, mais l’une réduit Q et l’autre l’augmente.
+1okzzhzy299	Deux demandes q1 = max(0, 8 − p) et q2 = max(0, 3 − p). À p = 5, quel total ?
+1ilzxny3f99	3 + 0 = 3 ; la seconde demande est tronquée à zéro.
+26ugwmfqrth	Quelle phrase EN décrit correctement une hausse du prix propre ?
+1cj31b1l6f9	Il manque un déterminant autre que le prix propre.
+1qpcncf96v5	Quantity demanded falls along an unchanged demand curve.
+26e7vw7jo42	La relation est conservée ; le point se déplace.
+1sd4j98mn2a	Supply falls at a given price
+ad2ghnnw18	Shortage raises price
+27647lrhp8e	Je distingue un plan d’achat d’un plan de vente.
+18ln680on30	Je nomme les acteurs et ce qu’ils prennent comme donné.
+iq0aq7nfxe	Je trouve et vérifie p* et Q*.
+28uxlrll7ld	J’égalise QD et QS puis remplace la solution dans les deux relations.
+24fspvr55ol	Je sépare déplacement et mouvement.
+1k5tcjr75kj	Je pose la question « au même prix, voudrait-on plus ou moins ? ».
+1adh626iw9c	Je peux expliquer une pénurie et des invendus.
+nwahru1cv8	Je déduis une pression de prix des décisions incompatibles.
+235seppcwmz	Je ne signe pas une variable ambiguë.
+y2b2w1llt6	Je compare les effets des deux chocs séparément et leur taille.
+1hu7i8m2w82	Je respecte les domaines et les unités.
+25lh9r3gly2	Je tronque les demandes négatives et garde le même marché dans toutes les relations.
+r92ea4olki	Consommateur — choisis ce que ton budget permet
+26ytlr578c0	Préférences, arbitrage et contrainte
+ueg3u6faq3	Un panier peut te plaire davantage sans être achetable. Tu vas faire parler ton budget, découvrir ce que signifie MRS, puis savoir quand une tangence, un coin ou un coude décide.
+2bt4ggftts	Toi, consommateur
+23eewen9xf5	répartis 1 200 entre L et R
+lmziav1uxc	le panier accessible que tu préfères
+1fdq7885815	Les vendeurs
+p1flxfkjer	affichent pL = 40 et pR = 120
+14iawz26wvi	être payés pour les quantités achetées
+xcqjli061p	distingues classement et faisabilité
+a3w5ank1tq	retrouver le choix sans réciter une tangence au hasard
+vu6i8ubfxj	Ce que tu veux et ce que tu peux sont deux questions
+1g0674fhxcr	Tu as 1 200 à dépenser entre deux biens L et R. Le premier coûte 40 et le second 120. Tu peux préférer un panier très généreux, mais cette préférence ne finance pas l’achat : commence par vérifier ce que tu peux payer.
+1bfxavf0gya	Le consommateur maximise ses préférences sous pL·L + pR·R ≤ I. L’objectif et la contrainte jouent des rôles différents.
+1fz9s2trpaf	Les préférences classent les paniers, y compris ceux qui dépassent le budget.
+1u2v9aiph9s	Le budget élimine les paniers impossibles avant la comparaison finale.
+1t17f7tm0lk	Optimiser sous contrainte ne consiste donc pas à choisir l’utilité numérique la plus élevée dans une liste sans vérifier son coût.
+78t0ihb4hk	A2 : (L,R) = (20,4) donne U = 80 mais coûte 40×20 + 120×4 = 1 280. (15,5) donne U = 75 et coûte 1 200 : le second est accessible, le premier non.
+cdp81500l4	Tu préfères peut-être un ordinateur plus performant, mais tu ne peux pas ajouter les 80 manquants à ton budget simplement parce que son score est meilleur.
+1lzrot934qd	A2 : ton budget face à tes préférences
+ka0pbj3oiy	R, unités de R
+13ur5jcjode	L, unités de L
+hy9so19tw2	R horizontal, L vertical. Budget exact L = 30 − 3R. L’indifférence U = LR = 75 est représentée par des points exacts reliés pour la lecture ; les segments sont une approximation visuelle de l’hyperbole.
+vf4nfg1nwd	Budget : L = 30 − 3R
+11chbxci6nd	Paniers coûtant exactement 1 200 avec pL = 40 et pR = 120.
+7ygdgpwn31	Indifférence U = 75
+2415xcwhj1f	Chaque point donne LR = 75. La tangence est (R,L) = (5,15).
+2fajlengas9	Optimum : R = 5, L = 15
+1kphu8topnl	Coûte 1 280 : inaccessible
+20g4n8c03gq	Combien coûte (L,R) = (20,4) ?
+153hrhzkki2	Le panier (20,4) est-il disponible avec I = 1 200 ?
+1i6ryi39n9f	Oui car U = 80 dépasse U = 75
+103iwgd1d98	Une préférence ne rend pas un panier payable.
+uys85x5o4p	Non, même s’il donne plus d’utilité
+1x1k06xdct6	Il dépasse la contrainte de 80.
+12zz6aefodk	L’utilité est un classement, pas un thermomètre du bonheur
+1a0din8fvat	Le modèle U = LR attribue un nombre à chaque panier pour représenter tes préférences. Dire U = 80 plutôt que 40 signifie que le premier panier est préféré ; cela ne mesure pas deux fois plus de bonheur. Une transformation qui garde l’ordre des paniers représente les mêmes choix.
+25kh6wgil4t	L’utilité est ordinale. Pour L,R positifs, U = LR et V = √(LR) classent les paniers dans le même ordre.
+1ye8hmpdxj0	Le choix a besoin d’un ordre entre paniers, pas d’une unité universelle de bonheur.
+9naou16ibt	La racine carrée est croissante : si LR est plus grand, sa racine l’est aussi.
+115dqci5vpj	Les niveaux et les dérivées changent, mais l’arbitrage cohérent et le panier optimal restent les mêmes.
+123r3w6ekik	Paniers (15,5) et (24,2) : U = 75 et 48 ; V ≈ 8,66 et 6,93. Le classement est identique malgré des écarts numériques différents.
+s3q4ps7mtl	Ton application peut changer la notation de 75 à 8,66 sans changer le panier que tu choisirais.
+vmdrcgl96q	U(A) = 80 et U(B) = 40 permettent d’affirmer…
+1tgyewpsncu	A apporte exactement deux fois plus de bonheur
+w4rrpohibh	Ce rapport disparaît sous une transformation croissante pourtant équivalente.
+251nrdzpj1f	A est préféré à B selon ces préférences
+23y9p8ia0ao	Le score classe les paniers ; il ne mesure pas un rapport de bonheur.
+1tb6l2wv76w	Lis les intercepts avant de calculer une pente
+1v738ym118u	Si tu consacres tout ton argent à L, tu peux en acheter 30. Si tu prends seulement R, tu peux en acheter 10. Entre ces extrêmes, acheter un R de plus oblige à abandonner trois L : c’est le compromis offert par le marché.
+126y4xd6qq8	Avec R horizontal et L vertical : 40L + 120R = 1 200 ⇒ L = 30 − 3R. Pente = −pR/pL = −3.
+1t1oomdlsic	Un R coûte 120 et un L coûte 40. Combien de L dois-tu sacrifier pour payer un R de plus ?
+15asaoq5qw9	120/40 = 3. Voilà pourquoi le ratio de prix est la pente en valeur absolue.
+16hhtziw1ml	Ce serait le coût d’un L exprimé en R ; tes axes sont dans l’autre sens.
+1m1f8xh2nxk	120 est une monnaie par R, pas un nombre de L. Divise par le prix d’un L.
+w26x2un00k	Les intercepts achètent un seul bien : ils sont donc I divisé par son prix.
+2fyqkcctvjx	Le budget permet d’échanger 120 de dépense sur R contre 120 de dépense sur L.
+m8loz2feod	Le nombre de L sacrifiés vaut 120/40 ; le signe négatif traduit la réduction de L.
+wn4s2qu460	Passe de (L,R) = (18,4) à (15,5) : −3 L et +1 R, coût inchangé de 1 200.
+25ksxf0k7r7	Tu ajoutes un R au panier. Pour rester à la caisse avec la même somme, tu retires trois L.
+exzsxalsj9	Combien de R si tout le budget de 1 200 va à R au prix 120 ?
+nn3pur8f3z	R horizontal et L vertical : valeur absolue de la pente budgétaire ?
+20g0qgbch2d	Ce ratio conviendrait à L horizontal et R vertical.
+1bc75f424nt	Le numérateur est le prix du bien horizontal.
+rdol3jow8r	Le prochain bien compte autrement selon ce que tu as déjà
+16lxepuhim7	Avec U = LR, un L de plus est d’autant plus utile que tu as déjà de R pour en profiter. À l’inverse, un R de plus vaut davantage quand L est abondant. La décision d’ajuster ton panier compare ce qu’ajoute chaque bien à la marge.
+kkgmlbzuxc	Pour U = LR : MU_L = R et MU_R = L. MU désigne la dérivée de l’utilité par rapport au bien concerné.
+19kbao7yrzp	Si R est fixé, ajouter un L augmente le produit LR de R.
+20s1vvgr4v3	Si L est fixé, ajouter un R augmente LR de L.
+27oa3z3dzbk	On compare des variations locales pour savoir si déplacer un peu de dépense améliore le panier.
+2aoob7n51b	À (L,R) = (15,5), un L de plus à R fixé augmente U de 5 ; un R de plus à L fixé augmente U de 15. Les unités coûtent cependant 40 et 120 : il faut encore comparer par euro.
+w74as5txct	Ne choisis pas R seulement parce que son MU vaut 15 contre 5 : un R coûte trois fois plus cher.
+12qdd1ceco6	Avec U = LR au panier (L,R) = (15,5), quel est MU_R ?
+25e6qtz7xao	La dérivée par rapport à R est L ; ici L = 15.
+hawjdgnmfn	unités d’utilité/R
+12jzaj459v5	MU_R > MU_L suffit-il pour consacrer toute la dépense à R ?
+5tpayjz1gw	Oui, le MU le plus élevé décide toujours
+4bx1gs9zy1	Tu ignores le coût d’obtenir cette unité.
+lt5k9vbps9	Non : il faut comparer l’utilité marginale par euro
+18q7qwh8a58	R peut être plus utile par unité et plus cher dans la même proportion.
+291qqcq6lqr	MRS : ton échange volontaire, pas celui du magasin
+1iqmn6g9jvf	Sur une même courbe d’indifférence, tu peux perdre un peu de L et gagner un peu de R tout en restant aussi satisfait. La quantité de L que tu accepterais de sacrifier pour un R supplémentaire décrit ton arbitrage personnel. Le magasin propose un autre arbitrage, donné par ses prix.
+19f0bw02ou9	Avec R horizontal : MRS_RL = MU_R/MU_L = L/R, valeur absolue de la pente d’indifférence. L’unité est L par R.
+2bo3f6xhs96	Garder U constant impose MU_R·dR + MU_L·dL = 0.
+ijpgaybs1h	Donc dL/dR = −MU_R/MU_L ; le ratio positif mesure le sacrifice consenti.
+obl7r4qltb	Si ton sacrifice accepté dépasse le sacrifice demandé par le marché, acheter un peu plus de R peut améliorer ton panier.
+1g0jjnv69yi	Au panier (15,5), MRS_RL = 15/5 = 3 L par R. Au panier (24,2), MRS = 12 : tu es prêt à sacrifier davantage de L pour R parce que R est relativement rare pour toi.
+1k8z312shz	Tu demandes « combien de L abandonnerais-je volontiers pour un peu plus de R ? », puis compares ce chiffre aux trois L réclamés par les prix.
+239nwfa4ho6	À (L,R) = (24,2), quelle est MRS_RL pour U = LR ?
+1jeen24nosy	L par R
+1p008xl0w04	MRS mesure…
+13jhxr096z2	Le prix relatif, quelle que soit ta préférence
+1b7nfsa6tnt	Ce serait pR/pL. Les deux ratios ne coïncident qu’à certains optima.
+1k75o2t61e8	Ton arbitrage à satisfaction constante
+2g9k3g5jzcl	Il vient des préférences ; le ratio des prix vient du marché.
+1geich0mo2u	Pourquoi le dernier euro doit faire le même travail
+1p5zy86fzn4	Si un euro dépensé en R t’ajoute plus de satisfaction qu’un euro dépensé en L, tu peux transférer un peu de dépense vers R. Cela améliore ton panier sans dépasser ton budget. À un optimum intérieur régulier, ce petit transfert ne doit plus aider dans aucun sens.
+1rnb7yxacqc	Optimum intérieur : MU_R/pR = MU_L/pL, soit MRS_RL = pR/pL. Il faut ajouter la contrainte budgétaire et vérifier les conditions d’intérieur.
+qsrk86h6g0	Quelle comparaison empêche un transfert d’un euro d’améliorer le panier ?
+6mrsx11sle	Oui : même gain marginal pour le dernier euro dans les deux usages.
+lx0de6zzf1	Cela comparerait des unités dont les prix peuvent différer.
+1qcn1o0jxxi	L’égalité des quantités n’est pas l’égalité des gains par euro.
+25e15rnxiep	Le budget reste constant si on déplace une petite somme d’un bien à l’autre.
+11s9zehwp41	Si les gains par euro diffèrent, ce transfert augmente U : le panier n’était pas optimal.
+4886ceiqi1	L’égalité seule décrit un ensemble de paniers ; le budget choisit celui que tu peux atteindre.
+1gsio1p733s	À (15,5), MU_R/pR = 15/120 = 0,125 et MU_L/pL = 5/40 = 0,125. Les deux derniers euros font le même travail.
+16cxdf8hocf	Tu répartis un euro supplémentaire. À l’optimum, aucun des deux rayons n’a un avantage marginal sur l’autre.
+1ipqez6bof9	Reconstruis la condition de tangence avec R horizontal.
+1y6cbs51wud	Ton sacrifice MU_R/MU_L doit égaler le sacrifice demandé pR/pL.
+16vqr1pil0d	Résous le panier A2, pas seulement une équation
+5v5qqxxkl5	La tangence dit L = 3R. Le budget dit que les deux biens doivent ensemble coûter 1 200. En combinant les deux, tu obtiens un panier unique ; tu peux ensuite vérifier son coût et son utilité.
+adx8dmgcvd	U = LR : moitié de la dépense dans chaque bien. Cela ne signifie pas la moitié des unités.
+gtgr2fc4yf	Avec L = 3R, le budget devient 40×3R + 120R = 1 200.
+22ephdhqsa5	Donc 240R = 1 200 : R = 5 et L = 15.
+2fx8rqe2iae	Les deux biens sont désirables, la solution est positive, et U = LR donne ici un optimum intérieur cohérent.
+t57fdnq8o4	A2 : R = 5, L = 15 ; dépenses 120×5 = 600 et 40×15 = 600 ; U = 75. Le panier (24,2) coûte aussi 1 200 mais U = 48.
+2facl648bfh	Tu n’achètes pas le même nombre de chaque bien : tu réserves la même somme à chacun parce que les exposants de U = LR sont égaux.
+1ez9a0xqo4m	Panier optimal accessible
+1j24obfyiiw	Trouve R dans 40(3R) + 120R = 1 200.
+1iyqt2650rm	Quelle utilité donne le panier optimal (L,R) = (15,5) ?
+rmx6dzjbi7	utilité
+1bzqf1gyiha	R devient plus cher : qu’est-ce qui a vraiment diminué ?
+bwouilzwml	Le prix de R passe de 120 à 150. Tu as toujours 1 200 en argent, mais ce revenu achète moins de R. Le budget pivote : tout-L reste possible, tout-R passe de dix à huit unités.
+y7kiqbs6tx	Le revenu nominal I est inchangé. Le pouvoir d’achat baisse ; pente budgétaire −pR/pL = −3,75. Nouveau choix U = LR : L = 15, R = 4.
+1k957eylwn7	Le prix de L et I ne changent pas, donc l’intercept L = 30 reste fixe.

@@ -1,0 +1,41 @@
+======================================================================
+3. ARZ, TALEP, DENGE VE ŞOKLAR — L2
+======================================================================
+
+Talep: alıcıların her fiyatta satın almak istediği miktar.
+Arz: satıcıların her fiyatta satmak istediği miktar.
+Basit rekabetçi modelin varsayımları: çok sayıda aktör, homojen
+ürünler, price takers; önemli bir stratejik etkileşim yok.
+Piyasayı ürün, coğrafi bölge ve dönem olarak tanımla.
+
+Örnek L2 p.7/16/20: QD=10-p, QS=-2+p.
+Denge: QD=QS ->10-p=-2+p ->p*=6, Q*=4.
+p=4'te: QD=6, QS=2, 4'lük talep fazlası, yukarı yönlü baskı.
+p=8'de: QD=2, QS=6, 4'lük arz fazlası, aşağı yönlü baskı.
+Tanım kümesi dışında öngörülen negatif bir miktar genellikle 0 miktar demektir.
+
+MALIN KENDİ FİYATINDAKİ DEĞİŞİM -> eğrisi ÜZERİNDE hareket.
+BU FİYAT DIŞINDAKİ BİR BELİRLEYİCİDEKİ DEĞİŞİM -> eğrinin kayması.
+Talep QD=f(p,T,p_r,I): zevkler/sıcaklık T, diğer fiyat p_r, gelir I.
+Normal mal: gelir artar -> talep sağa kayar.
+Düşük mal: gelir artar -> talep sola kayar.
+İkameler: diğer malın fiyatı artar -> talep sağa.
+Tamamlayıcılar: diğer malın fiyatı artar -> talep sola.
+Girdi maliyeti artar -> arz sola/yukarı.
+Daha iyi teknoloji/üretici girişi -> arz sağa/aşağı.
+
+Diğer her şey sabitken, olağan eğriler için:
+D sağa: p artar, Q artar. D sola: p düşer, Q düşer.
+S sağa: p düşer, Q artar. S sola: p artar, Q düşer.
+D sağa VE S sola: p artar, Q üzerindeki etki belirsiz.
+D sağa VE S sağa: Q artar, p üzerindeki etki belirsiz.
+D sola VE S sola: Q düşer, p üzerindeki etki belirsiz.
+D sola VE S sağa: p düşer, Q üzerindeki etki belirsiz.
+Şokların göreli büyüklüğü olmadan belirsiz bir değişken hakkında sonuç çıkarma.
+
+Duyarlılık: belirli bir talep şokunda dik bir arz
+güçlü bir fiyat değişimi ve zayıf bir miktar değişimi demektir.
+Daha yatık bir arz şoku daha çok miktar yoluyla emer.
+L2 uygulamaları: buğday hasadı, çay/kahve, pirinç, paladyum.
+«Belirli bir fiyatta daha fazla/az arz edilir/talep edilir» diye açıkla,
+ancak ondan sonra yeni dengeyi ara.

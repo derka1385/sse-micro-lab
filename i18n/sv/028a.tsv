@@ -1,0 +1,200 @@
+1w0dy7dfn1a Analysera mina orsakslänkar
+162wo0w5vxw Skriv åtminstone några meningar.
+1lm94wqze1r Den automatiska igenkänningen är ungefärlig: kontrollera de föreslagna länkarna och markera dem du har uttryckt på annat sätt.
+144ek6k0gpq länk inte hittad
+1yinlvcipz0 länk finns
+1k2mut90p1y du uttryckte det på annat sätt
+mob8gfoo2b Ordförråd att förfina:
+29e56v90j9h Jag sa det på annat sätt
+20fbpc7abb0 Visa mig den här länken
+jedf4wa65s Möjligt begreppsfel
+calguv5a8z Det var inte det jag menade
+4wt353yvos {a}/{b} orsakslänkar
+gg677qjnyz {n} fel att rätta
+okaj0ybmxc Kontrollera min förklaring
+fl3ifyqdmi Stabil orsakskedja. Det viktiga är att varje länk orsakar nästa — ditt ordförråd kan fortfarande förfinas.
+22vtd8splja Länkar saknas: komplettera din förklaring och kör analysen igen.
+1m178ow0ggz Dölj modellförklaringen
+1orpnfdjrn2 Visa en modellförklaring
+1vmji71q5bg Ditt svar…
+1a97w109j9a Ditt skrivna svar
+h1kv2tvojc Jämför med modellsvaret
+24pinnd05du Kryssa i vad ditt svar verkligen innehåller (förifyllt när vi har hittat det):
+24ibfi3z0wm Språk: ditt svar verkar vara på franska. På tentan, svara på engelska.
+1hkaaufi8au Kontrollera
+1go3e5t4hwv (subvention inräknad)
+th8g9g4lxu (skatt inräknad)
+1r25w8mxaub Handlad: den är värd {b} för köparen{sub} och kostar säljaren {c}{tax}.
+27snqtpzrqn Inte handlad: köparen skulle bara betala {b}{sub} för en kostnad på {c}{tax}.
+1dxsc91md0d För samhället: värde {v} − kostnad {c} = {g}.
+2cerrvquumg ⇒ Saknad enhet: samhället förlorar {g} € eftersom den inte produceras.
+5vzaj367vv ⇒ Enhet för mycket: den förstör {g} € i välfärd.
+6zguls8rqm Q, i {u}
+rzvcebd0a3 Enhet i punkt {q}
+1eakarhh4np Flytta reglaget · klicka på en kurva, en yta eller en stapel
+wcpc7iawiu Vad en enhet till är värd för köparens plånbok när subventionen är utbetald: MPB + s.
+1ysgmvajwjs Vad en enhet till kostar producenten när skatten är betald: MPC + t.
+mtsy9zbnhs I punkt Q = {q}: {v} € per enhet.
+1lu86pozeqr Dödviktsförlust — saknade enheter
+1ghcoy82ygm Dödviktsförlust — enheter för mycket
+1sprgoohm19 Dessa enheter produceras inte trots att deras sociala nytta överstiger deras sociala kostnad.
+213y6hh2bxw Dessa enheter produceras trots att deras sociala kostnad överstiger deras sociala nytta.
+1z2yk0izw7w Yta = {a} € (mellan Q = {lo} och Q* = {q}).
+1mzjuoraerf Skiva i punkt Q = {q}: |MSB − MSC| = |{b} − {c}| = {g} € förlorade på denna enhet.
+vi1weanoi1 Placera reglaget i ytan för att se skivan för en enhet.
+28wsypdqvq8 Köparnas nettovinst: för varje köpt enhet dess värde för köparen minus betalt pris.
+23lmji4sqco Yta = {a} €.
+uqv2grq0v9 Skiva i punkt {q}: MPB {b} − p_b {p} = {g}.
+1w50ru30hfl Säljarnas nettovinst: för varje såld enhet mottaget pris minus dess marginalkostnad.
+qdspfnpbts Skiva i punkt {q}: p_s {p} − MPC {c} = {g}.
+1vc7xr4gnjz Vad skattebetalarna betalar: s per handlad enhet. En transferering, ingen förstörelse.
+fd2pz6j4ec Vad staten får: t per handlad enhet. En transferering, ingen dödviktsförlust.
+16vc5gb6qkh Summan av de nyttor som tredje part får för alla producerade enheter (ytan under MEB).
+3ihwxnjtp5 Summan av de skador som tredje part lider för alla producerade enheter (ytan under MEC).
+23zi22dezjq Här MPB = MPC: det sista bytet är värt lika mycket för köparen som det kostar producenten. Därbortom MPB < MPC: inget pris passar längre båda.
+3hfvs3tqwp Här MSB = MSC: den sista enheten är värd exakt lika mycket för samhället som den kostar det. Före ökar ytterligare enheter välfärden; efter minskar de den.
+1a8fa5gcmvb Q med politik = {q}
+1o4hvb6j6pb Här MPB + s = MPC: det subventionerade privata beslutet stannar.
+e1vhlhpsaq Här MPB = MPC + t: det beskattade privata beslutet stannar.
+2e4io5celml Köparen betalar p_b; säljaren får p_s = p_b + s; staten betalar mellanskillnaden.
+k72yc3991g Köparen betalar p_b; säljaren behåller p_s = p_b − t; staten tar in mellanskillnaden.
+1krf0v2fcof Enhet i punkt Q = {q}
+ac3gc4wh9p Stäng inspektören
+1h4l0usl1oz Fetstil = privat incitament
+ucea0t4xma en enhet av {n}
+t8c36ven8k Understruket: saknas · överstruket: för mycket
+uk448eqcwm Enheterna en och en
+qw3ejpurkx Enhet {q}:
+1p59rx233dp handlad
+2glh5cu7zub inte handlad
+245ecwya078 saknas för samhället
+206wgklddb2 för mycket för samhället
+glii9grfhi Subvention per enhet
+21yr6g9ohbv Skatt per enhet
+65esbam7w2 Animera fram till
+1s8s1kun54n Ta bort politiken
+26ayrisf3hd Utan ingrepp
+12nyvf3o7p8 Optimum
+pkkdzpeo0y handlad kvantitet
+143fklon0lt köpare
+1400m5xf47z säljare
+1te2sjoc4up Staten (− subvention)
+25xxpyq8pkx Staten (+ intäkt)
+1bv2vk4dsis transferering
+21gomb5jh34 + extern nytta
+r08mavd1i4 − extern skada
+1zl0toxqoxq tredje part
+150xp4u1ch1 total välfärd
+1cmm2mmfdnd jämfört med optimum
+202av860ibt Varför? En nivå djupare
+29rzzq9m3bn Botten nådd: därunder ligger modellens antaganden.
+n62rksngja Fäll ihop
+tmpjvt68if eftersom
+4ctug8ufjd Redan klart.
+yrlflvkby3 Skriv ett tal.
+32expacln Inte än. Ledtråd: {h}
+1bap79dmdo9 Inte än — gör om resonemanget.
+me9uxwfusa Ditt svar
+rjjv0hjhfe ditt svar
+1myvxolc3n7 Kontrollera
+2dfvciemw65 Svar:
+2167viw13xk Reglage:
+lgpmvplgvt Inte där: leta efter skärningspunkten mellan de berörda kurvorna.
+1442ass3zou Bekräfta positionen
+151bjtaej3u Rätt kedja: varje länk orsakar nästa.
+1iynt8jpfrf Länk nr {n} är på fel plats: fråga dig vad som måste vara sant FÖRE den.
+207p2tscol Kontrollera ordningen
+ctp87u0wkj Radera det sista elementet
+1u9oix6w7l1 Uppbyggt.
+8w7d945c4x Inte än: vilka aktörer berörs?
+bfv12bjoh9 Nyckelelementen finns där.
+13b23ooqnmf Jämför med modellsvaret och lägg på minnet vad som saknades.
+f2zpe0si1h Mikrolektion · förväxling upptäckt två gånger
+23ztvhi1tu0 Stäng
+1jhw41yi8sx Referensen hittades inte i dossiern:
+1jfep1u49at Vardagligt
+1ubf52o05qp Ekonomiskt
+1dpe1v831zn Tenta (EN)
+v5qffwt9i3 Förkortning som inte finns i dossiern.
+2eperbkalil I dossierns ordlista:
+2eut6ctvcw6 [O] observerat i PDF:erna · [A] standardalias · [C] tillagt komplement (§18)
+9ns7ja6pof Fullständigt begreppskort
+11tzuwzd7t5 Bokstavligen:
+1y0znx9ljug Tre nivåer
+1z2yb48sjt0 Orsakskedja
+1ll2sxx5dal Formel
+1wygkx1xyt5 Enheter:
+1vtie3gma0w I grafen:
+ge74l85cm4 Antaganden
+1nq4pl3lris När man använder den
+23crdbf00ax När man INTE använder den
+dqcw7i3wf2 Vanliga förväxlingar
+w5zp36k6es Exempel
+o50h29xgsi Signalord på tentan
+agp8kw2edx Typsvar (EN)
+14ihli93mkb Källor:
+12eq63n4ctm Var kommer den ifrån?
+4m3evynqcn Varje term
+sokbdis0e6 Vanlig förväxling
+1mafbxsej1l Signalord
+kjeb22a4y7 Exakt utdrag ur dossiern (källfil).
+17nl9we27jw Öppna i Källor
+1qh9dk4vkfu Öppna kortet
+1bf3gfno7wj Bokstavligen
+phrl81fjv5 Vem?
+fykkvlwjw7 ”Marginell” här
+1uj8f701gib Enheter
+1yzab13vk8i I grafen
+22b45bbibn3 Varför den här formeln?
+11gj7wbvya8 dossierreferens
+2b5db4uq0wd Dokumenterat
+1ydd8gnsws5 Omräknat (dossier)
+16gsa1u86qa Pedagogiskt komplement
+1ryts69kosf Genererad övning
+2cm8rt3vuhl Positiv extern effekt — genererad övning
+14vov2fqfkg Qm?
+jjeo0le91d Det är Q*: marknaden använder MPB.
+1zwocwbvosr Q*?
+6b74ahesh5 Det är Qm.
+fc5bfjnxnn DWL?
+1nvrwfflxim Optimal subvention?
+1vkqbzr2vgd Pris som köparen betalar med s*?
+105vrib32x1 Negativ extern effekt — genererad övning
+1l6v4vwb9q7 Optimal skatt?
+41tdnf59tw Skatteintäkt med t*?
+27b5mexmuc3 en transferering, ingen förlust.
+1rrvfevnbr3 Det är den ursprungliga DWL, inte intäkten.
+14tik6vnx0s Två närliggande begrepp: förklara skillnaden
+uhhrtglpe9 Skriv först din egen distinktion (på franska eller engelska). Jämför den först därefter med kontrasten i dossiern.
+d918qdgrls klar
+duk1m6l30q att öva på
+311dqslyi2 Förklara skillnaden med egna ord. Vem berörs, vad ändras, var syns det i en graf?
+45i4cg9o4e Din distinktion…
+iegsxp5pfu Jämför
+1kiv1puf9pk Kryssa i de punkter som din distinktion verkligen innehåller (förifyllda när vi har hittat dem):
+1tppedw7n1f Sparat.
+2cxhke9azaa Om den här förväxlingen återkommer två gånger visas en riktad mikrolektion.
+vu05mr60dl Tentaläge · på engelska · utan ledtrådar
+13m5zkuca7 {n} försök · bästa {p} %
+jucaxl3no3 inte provat än
+1944cj8zvgz Tentaläge: på engelska, rättas efteråt
+1rk3wgdlz4d Skriv som på SSE: modell, beräkning, mekanism, på engelska. Rättningen börjar med den ekonomiska logiken, sedan beräkningen, grafen och ett modellsvar; den skiljer dina fel i **modell**, **logik**, **beräkning** och **språk**.
+200vidgirkz De riktiga tentorna, år för år
+1tvnkgavqyn Alla frågor från finalerna 2020–2025. Data och instruktioner kommer från tentorna (mappen ”past exams” i dossiern), omformulerade; lösningarna är dossierns omräkningar i §16, ingen officiell rättningsmall. Q5 räknas bara om den ersätter din midterm.
+2gjbrmeohw Final {y}
+1mfjf1z19pg Inlämningsuppgifter och lektionsövningar
+2doptbi0pxo En rekonstruerad inlämningsuppgift och lektionernas sluttest: övningar byggda för träning, aldrig presenterade som officiella tentor.
+21xj2z1xnkp Kombinerad prioritet
+ehoxym00ut Förkunskapsordning
+1qdvig7hf9c Observerad återkomst
+10m03kgesvy Din svaghet
+i57p05k11m Begreppslig betydelse
+1xzkxeb0sgr {n} dagar kvar till finalen
+vipkhcb1v4 Finaldagen
+1c02fle9ale Slutförberedelse · 23 oktober 2026, datum från L1-bilderna
+gipxx8gj6f Rangordna ämnena efter vad som är viktigt för dig. Återkomsten är en **observerad historik** över sex finaler (2020–2025): den beskriver urvalet, den förutsäger inte nästa tenta (§1).
+zfoebb79ew Sortera efter
+2fhbx1duzuf Ämne
+1s22ryv5ucm Förkunskaper klara
+12grnqoufsz Svaghet
+1bzg6p06pv7 Betydelse

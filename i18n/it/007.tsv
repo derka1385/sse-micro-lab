@@ -1,0 +1,221 @@
+64ihacbxm5 Ogni R consuma più budget, quindi l’intercetta R = 8 si avvicina all’origine.
+qbku3fovda U = LR divide ancora la spesa in due: 600/40 = 15 e 600/150 = 4.
+ip3xa2c57b Nuovo budget 40L + 150R = 1.200. Nella scelta (15,4), costo = 600 + 600 = 1.200; U = 60 invece di 75. Non è sparito nemmeno un euro di reddito nominale.
+26p5zlzhdm8 Vedi lo stesso saldo in banca ma gli articoli costano di più. Di’ «posso comprare di meno», non «il mio stipendio è sceso».
+18ph9d31dnx Il prezzo di R sale, il tuo reddito nominale resta 1.200
+u5hmssfkiz Dopo pR = 150, L = 30 − 3,75R. L’intercetta verticale resta 30, quella orizzontale passa da 10 a 8. Nuova scelta (R,L) = (4,15). Le curve di indifferenza sono campioni esatti, i segmenti approssimazioni visive.
+znv3sw2dd0 Nuovo budget: L = 30 − 3,75R
+1w7rcv5uaf6 Stesso reddito, R più caro: potere d’acquisto ridotto.
+261h0tj0omp Nuova indifferenza: U = 60
+m2845c3fiy Nel nuovo ottimo, LR = 60 invece di 75.
+ewlwu1q34k Vecchia scelta
+f3ozoujljx Nuova scelta
+1uezu8vt0p9 Dopo pR = 150, con U = LR e I = 1.200, quale R è ottimale?
+klxixvr416 Metà della spesa, 600, va a R: 600/150 = 4.
+r2pfsamzen Dopo questo aumento di prezzo, il reddito nominale vale…
+2cicp68048h 960, perché l’utilità è scesa del 20 %
+mkuz9cmcew Un’utilità ordinale non converte automaticamente una perdita di soddisfazione in reddito nominale.
+1umxpt5dd85 1.200, come prima
+koohwxr4tl Il prezzo cambia il potere d’acquisto, non l’importo dato I.
+1t1pf4dwjcy Il prezzo agisce attraverso due porte
+a9h6l0bwtn Quando R diventa più caro, è meno interessante rispetto a L: sostituisci verso L. Lo stesso reddito permette anche meno consumo totale: è l’effetto reddito. Anche se l’effetto totale su L è nullo in questo esempio, ciò non significa che queste due forze non esistano.
+21t0jg5plfi Effetto sostituzione: reazione al prezzo relativo a utilità compensata. Effetto reddito: reazione alla variazione del potere d’acquisto. La scomposizione richiede un benchmark di compensazione esplicito.
+ddojyih39y Il nuovo rapporto di prezzo cambia quanto costa R in unità di L, anche se ricevi denaro come compensazione.
+utdn3k2ous Il calo del potere d’acquisto agisce come un restringimento delle possibilità.
+1n90c3c2m70 Per U = LR, L è normale: la sostituzione verso L e l’effetto reddito negativo su L si oppongono e in questo caso si compensano.
+1mk5xh25wbh Base A2: L = 15, R = 5. Dopo pR = 150: L = 15, R = 4. L invariato non prova «nessun effetto»: gli effetti parziali possono compensarsi.
+lagumyv8o0 Anche se ti rimborsano una parte dell’aumento, un R costa ancora 3,75 L invece di 3. Hai ancora un motivo per cambiare composizione.
+wyrnm9oqkt Un trasferimento di denaro ripristina la tua vecchia soddisfazione dopo l’aumento di pR. Il prezzo relativo è sparito?
+1v3mo45dph9 Sì, una compensazione elimina tutti gli effetti del prezzo
+x5daibt59x Può ripristinare il livello di soddisfazione senza ripristinare i prezzi relativi.
+1s0o2iesllb No, R resta relativamente più caro
+cfey6nqlyc Il trasferimento sposta il budget parallelamente; non ripristina la vecchia pendenza.
+21ix1xqpjyw Ricomprare il vecchio paniere o ritrovare la vecchia utilità?
+1zslbbmu38x Due compensazioni hanno nomi simili ma non promettono la stessa cosa. Una finanzia esattamente il vecchio paniere ai nuovi prezzi. L’altra dà appena abbastanza per ritrovare la vecchia soddisfazione scegliendo un nuovo paniere; riscegliere può costare meno che copiare il vecchio.
+1i6zso17s7i Vecchio paniere accessibile e vecchia utilità appena raggiunta sono criteri distinti. Il miglioramento stretto grazie alla nuova scelta richiede condizioni regolari; la garanzia generale è «non peggio».
+eclbrn3286 Il nuovo prezzo relativo rende in genere il vecchio paniere poco adatto.
+1ub56vgu78e Se il vecchio paniere è accessibile, la migliore nuova scelta non può essere peggiore.
+2ep7gg6y8cc Con convessità stretta e vecchia soluzione interna, la nuova scelta può essere strettamente migliore; agli angoli non promettere sistematicamente un miglioramento stretto.
+xackl2yqg8 Ai nuovi prezzi 40 e 150, il vecchio (15,5) costa 1.350. Con I = 1.350, il nuovo ottimo è L = 16,875, R = 4,5, U = 75,9375 > 75. Raggiungere appena U = 75 richiede I = √(4×40×150×75) ≈ 1.341,64, quindi un trasferimento ≈ 141,64, contro 150 per finanziare il vecchio paniere.
+1rf2whm1xl6 Puoi riprendere esattamente il tuo vecchio paniere con 150 in più. Ma riorganizzando gli acquisti puoi raggiungere la vecchia soddisfazione con un po’ meno.
+10cfqz96vr0 A pL = 40 e pR = 150, quanto costa il vecchio paniere (L,R) = (15,5)?
+1qnhuspn88x Se un trasferimento rende accessibile il vecchio paniere, quale garanzia generale esiste?
+1uuu2k62z5j Il consumatore deve comprare esattamente il vecchio paniere
+1wzgu0qn1b3 L’accessibilità non è un obbligo di copiare la composizione.
+194oqvqjuh3 La migliore nuova scelta è almeno buona quanto la vecchia
+xyaft8ov5o Può sempre riprendere il vecchio paniere, e a volte fare meglio.
+u1439q52p9 Quando un angolo sostituisce la tangenza
+s9esq0tyx Supponi ora che due bevande siano per te sostituti perfetti. Se una dà più soddisfazione per euro, spendi tutto su di essa. Una bella tangenza interna non esiste necessariamente: il bordo del budget può essere il posto giusto.
+ca6760xiut Sostituti perfetti U = a·x + b·y: confrontare a/px e b/py. Un angolo se i rapporti differiscono; tutti i panieri del budget sono ottimali se sono uguali.
+1wq9gn9cizh I MU sono costanti: comprare di più del bene migliore non riduce il suo vantaggio relativo.
+cxf5jabcz2 Non serve alcun ribilanciamento interno se i rapporti non diventano mai uguali.
+qkrita3x1z A rapporti uguali, spostare la spesa non cambia l’utilità: la scelta non è unica.
+n36px4t96c Esempio costruito: U = 2x + y, I = 12, px = 2, py = 2. Guadagni per euro: 1 contro 0,5. Scegli x = 6, y = 0, U = 12. Se px diventa 4, i rapporti valgono entrambi 0,5: tutto il budget è ottimale.
+158kpgbsxjr Se due app fanno esattamente lo stesso lavoro, ma una offre il doppio del servizio allo stesso prezzo, non devi comprare un po’ di ciascuna.
+2ctmgyam2ck U = 2x + y, I = 12 e px = py = 2. Quale x ottimale?
+pldfkhbryp 2/2 > 1/2: tutta la spesa va a x, quindi x = 12/2 = 6.
+c1cgosswhf Se a/px = b/py per sostituti perfetti, che cosa si sa?
+22vum5ei4e9 x = y è per forza l’unico ottimo
+2ci2y5gdu39 Non è data alcuna preferenza per l’uguaglianza delle unità.
+1q2jirwy4qo Ogni paniere sul budget è ottimale
+ksso1gxl0d I due usi della spesa portano esattamente lo stesso guadagno.
+1zenub5a5e Quando serve un gomito, non un angolo
+rdlxtki3ci Una scarpa sinistra senza la destra non crea un paio in più. Se consumi i beni insieme in un rapporto fisso, un’unità spaiata non aggiunge nulla. Cerchi allora il gomito in cui la proporzione utile è rispettata.
+1c1m1uswq06 Complementi perfetti U = min(x/a, y/b): nella scelta efficiente x/a = y/b. Con coppie 1:1, x = y = I/(px + py).
+1ye1ys808uu Il numero più piccolo di componenti complete limita il numero di set utilizzabili.
+1eblvbwazlo Comprare un componente in eccesso spende budget senza aumentare i set.
+2r2tx8999u La regola di proporzione insieme al budget determina il gomito accessibile più alto.
+1b0jmtonmi0 Esempio costruito: U = min(x,y), I = 30, px = 2, py = 3. x = y e 2x + 3y = 30 ⇒ x = y = 6. Anche il paniere (9,4) costa 30, ma dà solo U = 4.
+1c9ezzo8l1f Non prendi nove scarpe sinistre e quattro destre con la scusa che il budget è esaurito: funzionano solo quattro paia.
+9d3dtabmir U = min(x,y), I = 30, px = 2, py = 3. Quante coppie ottimali?
+ghqrxu4enp Una coppia costa 2 + 3 = 5; 30/5 = 6.
+1ynz7xek3mf coppie
+1ddo26zuntt Un testo dice «sempre consumati in rapporto fisso». Primo metodo?
+89fddp0v4r Sempre MUx/MUy = px/py poi tangenza liscia
+d2calwch8d La condizione interna regolare non è universale.
+17h2qaayamp Proporzione al gomito + budget
+1uxtffa2cy8 Le preferenze non sono lisce nel gomito; una tangenza ordinaria non si applica.
+fhjauhfq4m Dalle tue scelte a una domanda: fai variare la cosa giusta
+v8fuv0nje0 Ora sai scegliere un paniere. Per costruire la domanda di R, ripeti questa scelta a diversi prezzi di R tenendo fissi reddito e pL. Per una curva di Engel, fai variare il reddito invece del prezzo; le due curve rispondono a domande diverse.
+zao13klb63 Domanda individuale: R*(pR), I e pL costanti. Curva di Engel: R*(I), prezzi costanti. La domanda privata di mercato somma orizzontalmente le scelte individuali non negative.
+q0kczomeue Le preferenze non bastano a definire un acquisto; i vincoli determinano la scelta accessibile.
+1jxil1ak6y Cambiare un prezzo e cambiare il reddito modificano il budget in due modi diversi: rotazione contro spostamento parallelo.
+19zchgezym9 Gli acquisti individuali vengono poi sommati allo stesso prezzo, con zero per chi non partecipa.
+fdtdcx7mi6 Per U = LR e I = 1.200, R*(pR) = 600/pR: a 100, R = 6; a 120, R = 5; a 150, R = 4. Con pR fisso a 120, I = 1.440 dà R = 6: è un punto di Engel diverso.
+ixppy2x3bw Puoi spiegare «compro 6 R» in due modi: o R costa meno, o sei più ricco. Il risultato identico non rende identiche le cause.
+1pbvpl289go U = LR, I = 1.200, pR = 100. Quale R ottimale?
+17zydhvdlsa 600 vanno a R; 600/100 = 6.
+204gxh1pv8s Per tracciare Engel, fai variare…
+2am8g159qzb Il prezzo di R, a reddito costante
+1jmu4ghhjog È la costruzione della domanda di R.
+16efyfi4gut Il reddito, mantenendo i prezzi costanti
+1xoighmvxlb Questo isola la relazione tra risorse e quantità scelta.
+11zmlgn0xqa L’utilità rappresenta un ordine; ciò che desideri non dipende ancora dalla fattibilità.
+t5jthkmxo8 Prezzi e reddito impongono il budget.
+154k2zo505f Spostare la spesa conviene se un uso porta più MU per euro.
+3uv9bx2hu4 Tangenza interna, angolo e gomito non sono intercambiabili.
+2g8h39b5bot Una variazione di prezzo modifica il vincolo e può cambiare il paniere, senza cambiare il reddito nominale.
+wxv7ypdwbw Il paniere (20,4) è preferito nella lista senza vincolo ma costa 1.280, oltre i 1.200 disponibili. Per U = LR, all’interno, l’ultimo euro deve dare la stessa utilità nei due beni: L/120 = R/40, quindi L = 3R. Con il budget, L = 15 e R = 5. Quando pR sale a 150, il reddito nominale resta 1.200 ma il potere d’acquisto scende; la scelta diventa L = 15, R = 4 e U passa da 75 a 60.
+14isc0ousqh Ordinare i panieri con le preferenze
+t7l0ligg3y Limitare la scelta ai panieri accessibili
+qtfuroxb2r Confrontare il guadagno marginale per euro
+fmoyfloq3l Scegliere il metodo adatto alle preferenze
+wu1e8fx2yi Verificare e poi rifare la scelta dopo uno shock
+cqut9yq90f Spiega a un amico perché (20,4), pur più utile, non è la scelta di A2. Poi spiega il paniere ottimale e che cosa cambia quando pR passa a 150. Usa parole tue prima delle sigle.
+22plty01tvh Prima l’accessibilità
+12agtqnic5t 1.280 supera il budget di 1.200.
+wgkekuaw6z Stesso guadagno sull’ultimo euro
+szthopfcx3 Una riallocazione aumenta U finché MU/prezzo differiscono.
+ui3qfkrsit Tangenza e budget insieme
+15rqcsfvahx L = 3R e poi il budget danno L = 15, R = 5.
+1mbmkqlq174 Stesso reddito, scelta cambiata
+118gocdx2dz pR = 150 dà R = 4; I resta 1.200.
+5d9ndgaxxz U è ordinale: si confronta un ordinamento, non un rapporto di felicità.
+o7wnd4d3vb I resta 1.200. È il potere d’acquisto a scendere quando R diventa più caro.
+hgq9yddh7o La tangenza presuppone un interno regolare. Sostituti perfetti e complementi perfetti richiedono angoli o gomiti.
+1azu4gcw4em Esercitazione costruita sulla struttura di A2.2 e §4.6. I prezzi modificati e la compensazione sono varianti didattiche; non si rivendica alcuna griglia ufficiale.
+12r99l9m0lz Identificare U = xy, prezzi positivi e soluzione interna.
+9o9vp6mmx6 Uguagliare MUx/px e MUy/py poi usare tutto il budget.
+1p305x7dmjp Dopo lo shock, mantenere I costante; distinguere compensazione del paniere e dell’utilità.
+t30lr8jlhn Dopo: x = 120/4 = 30, y = 120/15 = 8, U = 240.
+26aqgjhvwi4 Con I = 270, nuova scelta: x = 33,75, y = 9, U = 303,75 > 300.
+r9sigvdi35 x in orizzontale e y in verticale: intercette iniziali 60 e 20, pendenza −1/3.
+26qonmxj8e7 Dopo py = 15: intercetta x = 60 invariata; intercetta y = 16 e pendenza −4/15.
+1q05g39z7zy Il budget compensato passa per il vecchio paniere ma conserva la nuova pendenza.
+ttfl8dme7w MRS_RL, con R in orizzontale, significa…
+di3kp7o4sa R che devi per forza abbandonare per un L
+1mmjz2uria7 Questo inverte il bene aggiunto e gli assi.
+1927p3enfpc L che sei disposto ad abbandonare per un R in più, a utilità costante
+ajzy01bpyq Il rapporto viene dalle preferenze; il sacrificio del mercato viene dai prezzi.
+zbit5w21v3 Utilità ordinale: una trasformazione crescente…
+akge7drmxr Conserva per forza ogni differenza numerica
+1bajfebce4r Gli scarti non hanno significato cardinale.
+1cgvdrf3573 Conserva l’ordinamento dei panieri
+1eh1ev12h1r Cambia i numeri senza cambiare l’ordine.
+rxetqh44bz Perché uguagliare MU/prezzo in un ottimo interno?
+w14vbg1v12 Perché le due quantità devono essere uguali
+rx4k61ipso Prezzi e preferenze possono giustificare quantità diverse.
+1s7v4o1um0i Altrimenti uno spostamento di spesa migliora l’utilità
+1jm5jgcnivm Il budget può restare costante durante la riallocazione.
+1pl1cgxn694 Il prezzo di un bene aumenta, I è fisso. Ciò che diminuisce è…
+uj12s96jv9 Il reddito nominale, per definizione
+1yhfwq4dpod Il reddito nominale è l’importo di denaro I, dato come invariato.
+age6si6mq6 Il potere d’acquisto, non necessariamente il reddito nominale
+gypmw03em0 La stessa somma compra meno.
+2162g63uirz U = xy, I = 100, px = 5, py = 10. Trova x*.
+4x73bnbgnn La spesa per x vale 50: x = 50/5 = 10.
+1fej26q5q45 U = min(x,y), I = 48, px = 3, py = 5. Trova x* = y*.
+w3i56rddpt Una coppia costa 8; 48/8 = 6.
+a9w17fzejg U = 3x + y e px = py = 1. Metodo e scelta?
+27lq9145wmy Cercare per forza una tangenza interna
+gzds3c33qg I MU non convergono quando cambiano le quantità.
+1lzbnrfig1z Confrontare MU/prezzo; tutto il budget su x
+1bqro90hp5s I sostituti perfetti mantengono rapporti costanti; 3 > 1.
+lrz2mymsdx Rendere accessibile il vecchio paniere dopo uno shock garantisce…
+1b652382358 Una soddisfazione strettamente superiore in tutti i casi
+274s0alfipk Il miglioramento stretto richiede più condizioni; gli angoli possono dare uguaglianza.
+twsh3vudar Un nuovo ottimo almeno buono quanto il vecchio paniere
+1ezhaxmfup Il consumatore può scegliere quel paniere o meglio.
+yas75wu4al Relative prices
+24wwkzy299m A price increase necessarily lowers nominal income.
+rqhchvi1u6 Questo confonde l’importo monetario con ciò che permette di comprare.
+p5o6xgt6r5 A higher price can lower purchasing power while nominal income remains constant.
+11oev1gg5bi Prezzo e reddito nominale sono dati distinti.
+1cvcpatt9a7 Verifico il costo prima di ordinare i panieri accessibili.
+vio1xwm9lt Il paniere preferito senza vincolo può superare il budget.
+20mlpkd6mq8 Definisco la MRS con assi e unità.
+indq0sf4j5 Invertire gli assi inverte il rapporto pertinente.
+1no6soyjdbb Ricostruisco l’ultimo euro invece di recitare una tangenza.
+1axg6s13ltb So spiegare la deviazione che migliorerebbe un paniere non ottimale.
+be8jn34bit Distinguo interno, angolo e gomito.
+eamcbgkgau Riconosco sostituti perfetti e complementi perfetti.
+hyzjczr1mb Separo reddito nominale, potere d’acquisto e sostituzione.
+9o86xhvp8c La compensazione non ripristina automaticamente il prezzo relativo.
+1tn42hjdwvt Non tratto U come una quantità di felicità.
+2gltxx8awrg L’ordinamento è ordinale; un rapporto numerico non misura il benessere relativo.
+1feozkmwc30 Elasticità — quanto si reagisce, in percentuale?
+nbquag86xn Reazione proporzionale, segni e orizzonte
+2fwaahnmlc3 Un aumento di prezzo può far salire o scendere il ricavo. Imparerai a misurare la reazione degli acquirenti, a tenere i segni giusti e a riconoscere quando un’approssimazione non basta più.
+1qmnl62v4c Gli automobilisti
+1u4x1fh71fr scelgono il loro consumo di benzina
+csrbw4koaj adattare spostamenti e spese ai prezzi
+2dfxpdu2j8x Il venditore
+1iowku0jgxu osserva la reazione delle sue vendite
+1s97rbarrzr capire il suo ricavo senza confonderlo con il profitto
+26fo4n5h46o confronti reazioni in percentuale
+1z43auyxvd3 mantenere coerenti segno, basi e modello
+2c821mmr1xn L’autorità
+qzuwq737yb valuta un obiettivo di riduzione della benzina
+ok167gifdl prevedere l’aumento di prezzo necessario e i suoi limiti
+2j9qvxvaht Stesso aumento di prezzo, non la stessa libertà di reagire
+1wgifdaetgc Domani il prezzo della benzina sale. Puoi evitare uno spostamento, ma non puoi cambiare all’istante auto o casa. Su più anni diventano possibili più opzioni: misurare la reazione richiede di precisare l’orizzonte.
+dvbgir3xtk L’elasticità misura una sensibilità proporzionale della quantità a una determinante. Dipende dal punto, dal mercato e dall’orizzonte; non è un tratto immutabile del prodotto.
+287trv2mrxs Uno stesso cambiamento in litri non significa lo stesso adattamento per un piccolo e un grande consumatore.
+1zoevs0o07k Una misura in percentuale rapporta la variazione al consumo di partenza.
+1ih5lbk0s9o Le possibilità di sostituzione evolvono nel tempo, quindi la risposta della quantità può amplificarsi.
+21m4q0dy3yd A2 dà εSR = −0,25 e εLR = −0,60 per la benzina. Per un prezzo +5 %, l’approssimazione dà Q −1,25 % nel breve periodo e −3 % nel lungo periodo.
+17ugj8vfm5h Domani puoi fare meno spostamenti; l’anno prossimo puoi scegliere un’auto più parca. Il modello deve sapere di quale decisione si parla.
+1sploso9p3 Perché la benzina può essere più elastica nel lungo periodo?
+21lhgk878mj Perché un’elasticità negativa diventa per forza positiva col tempo
+1ryn5ffbg6a Il segno resta quello della reazione prezzo-quantità; spesso è il valore assoluto ad aumentare.
+7nycjev7qo Diventano accessibili più possibilità di sostituzione
+132qsf1qjaj Veicolo, abitazione o organizzazione degli spostamenti possono cambiare.
+23nunzm9bol Prima della sigla: confrontare due percentuali
+1c7gl7c1noa Se le vendite passano da sei a quattro, hai perso due unità. Ma due su sei sono un terzo, non il due per cento. Il prezzo che passa da uno a due è aumentato del cento per cento: confronta variazioni proporzionali, non numeri grezzi.
+t6xw4et6ma Convenzione base iniziale: ΔQ/Q0 e Δp/p0. L’elasticità discreta è il loro rapporto; la convenzione deve restare identica nelle due percentuali.
+bsj4py9anz Una variazione assoluta dipende dalle unità scelte: litri o millilitri danno numeri diversi.
+15ofa60cyn8 Una variazione percentuale divide per il valore iniziale ed elimina questo problema di scala.
+whzrvfk781 I segni descrivono la direzione: quantità in calo e prezzo in aumento danno un rapporto negativo.
+1mk9pur1eby Scrivi prima «due unità perse sulle sei di partenza», poi lo confronti con il prezzo che raddoppia.
+7qvc06ngl4 Q: 6 → 4, p: 1 → 2. Con basi iniziali, quale elasticità?
+1f3w161ezyd (−2/6)/(1/1) = −1/3. Il segno negativo è necessario.
+seee7h6jwg −2/1 è un rapporto di variazioni assolute. Mancano le basi Q0 e p0.
+upwtpeor22 La quantità scende quando il prezzo sale: tieni il segno negativo.
+dynsdyp6et Guadagnati la formula puntuale con le unità
+93ja1cyfa9 Una derivata ti dice quante unità di vendita perdi per un euro in più. Non è ancora una percentuale. Moltiplicare per il prezzo di partenza e dividere per la quantità di partenza trasforma questa reazione in percentuale di quantità per percentuale di prezzo.
+197qig2mx0w Elasticità puntuale della domanda: εD = (dQ/dp)·(p/Q). È adimensionale. Con più determinanti, usare la derivata parziale appropriata.
+1thojow9yxj dQ/dp è in unità per euro. Quale fattore la converte in sensibilità proporzionale adimensionale?
+i2g5x0wejp (unità/€) × (€/unità): le unità si semplificano.
+6blnvgx8nj Le unità non si semplificano; ottieni l’inverso del fattore richiesto.
+yozmauqbwu Questo non normalizza le variazioni con i livelli.
+1nwavxbx6y4 dQ/dp indica una reazione assoluta a un piccolo aumento di prezzo.

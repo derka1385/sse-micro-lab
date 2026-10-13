@@ -1,0 +1,220 @@
+277m3esfz76	La condition marginale ne suffit pas sans maximum, faisabilité et comparaison à l’alternative d’arrêt.
+2677jxi0o7r	L6 : C = 10 + q², p = 12. q = 6 ; R = 72, C = 46, π = 26. À q = 7, π = 84 − 59 = 25 : produire davantage réduit le profit.
+croq3lfhhd	Tu prends le prix de douze comme une information extérieure ; tu ne le lis pas sur la demande de tout le marché pour choisir une marge de monopole.
+1f4ge5cufuy	Quantité choisie au prix 12
+2bvzm82qy0n	C = 10 + q², p = 12. Quel q maximise le profit ?
+29iupm7ggt1	MC = 2q ; 12 = 2q ⇒ q = 6. Le profit 26 dépasse celui de l’arrêt −10.
+14fd7wk6dli	Au même choix q = 6, quelle est π ?
+voc2ikg0r6	Perdre quinze peut être préférable à perdre seize
+18aeaiv8wyu	Le prix chute et tu fais une perte. Si une dépense fixe doit être payée même en fermant pour la journée, fermer ne la supprime pas. Produire peut encore financer une partie de cette dépense et réduire la perte : compare les deux alternatives réelles.
+282goe4p865	Court terme, FC inévitable : produire si la meilleure quantité donne R ≥ VC, soit p ≥ AVC(q*). À égalité, indifférence ; sinon arrêt. Le critère n’est pas simplement π ≥ 0.
+k5h8vpn32	À l’arrêt, la recette et le coût variable disparaissent, mais le fixe inévitable reste.
+1k1kkqrvkft	Produire vaut la peine si R − VC est positif : cette contribution réduit la perte fixe.
+qhwlmjdflx	Si R < VC même au meilleur choix, produire aggrave la perte ; l’arrêt devient préférable.
+ooshvr5ddz	Autre situation construite : C = 16 + 4q + q², FC = 16 inévitable, p = 6. MC = 4 + 2q ⇒ q = 1 ; R = 6, VC = 5, π = −15. Arrêt : π = −16. Produire évite un euro de perte.
+1q2en7yw9f8	Le loyer est déjà dû aujourd’hui. Ouvrir gagne un euro après les coûts qui dépendent de l’ouverture : tu récupères un euro de ce loyer, même si la journée reste déficitaire.
+9yezx19nbj	Produire peut limiter une perte
+1wonns4diqv	Autre situation construite : C(q) = 16 + 4q + q², coût fixe de 16 inévitable. MC = 4 + 2q ; AVC = 4 + q. À p = 6, q* = 1 et perte = 15, contre 16 à l’arrêt. Le seuil standard est inf AVC = 4, atteint comme limite à q → 0.
+1k7sr1rumuu	À p = 6, MC atteint p pour q = 1.
+zb4qo162gb	À q = 1, AVC = 5 < p : une partie du fixe est couverte.
+16ueqvknhrj	p = 6 est sous ATC : le profit est négatif malgré la décision de produire.
+7px3z3qfj	Prix p = 6
+22rpbb7b83y	Le prix couvre AVC à q*, mais pas ATC.
+16p6wq4sy9e	q* = 1, perte 15
+7ks518c0ta	C = 16 + 4q + q², p = 6, q = 1. Quel profit en produisant ?
+1ox6zxk6mac	Avec FC = 16 inévitable, vaut-il mieux produire à perte 15 ou arrêter à perte 16 ?
+1niiv9r77ro	Arrêter car tout profit négatif est irrationnel
+1sxtkmhfk10	Il faut comparer à −16, pas à une alternative zéro qui n’est pas disponible.
+lbgd3cc3vb	Produire minimise la perte
+29u835odz2r	La recette 6 couvre VC = 5 et finance un euro du fixe.
+7i541n9a9o	Fixe ne veut pas forcément dire irrécupérable
+m597x70c08	Une dépense peut rester la même pour toutes les quantités positives et pourtant être évitée en n’ouvrant pas. Tu ne dois donc pas retirer tous les coûts fixes du raisonnement sans lire l’horizon et le contrat. Le bon test compare ce qui change vraiment entre les options.
+xs4r1p9bxo	Fixed : ne varie pas avec q sur le domaine. Sunk ou inévitable pour la décision : ne peut pas être récupéré/évité par l’option alternative. À long terme, sortie et ajustement des inputs deviennent possibles.
+22lp72et2fa	« Fixe » décrit la relation au volume ; « sunk » décrit la possibilité de récupération.
+1mbjzuehszd	Si fermer évite la dépense, elle fait partie du gain de fermeture et doit entrer dans la comparaison.
+1k9p855ol6l	L’horizon économique est défini par les marges d’ajustement disponibles, pas par un nombre universel de mois.
+959nl3av0e	Même activité que le bloc précédent : R = 6 et VC = 5. Si les 16 sont un paiement déjà dû, produire donne −15 contre −16 à l’arrêt. Si les 16 ne sont dus qu’en ouvrant, l’arrêt donne 0 et domine la perte −15.
+cd0jqu37id	Avant de dire « le fixe ne compte pas », demande si tu peux annuler cette facture en choisissant l’autre option.
+cjhnjm7ehn	Un paiement fixe de 16 est entièrement évitable en n’ouvrant pas. Produire donnerait π = −15. Que choisir ?
+16n7wl4n2bo	Produire comme dans le cas du fixe inévitable
+jjunu8p0pn	Tu as conservé une hypothèse que l’énoncé a changée.
+1i9bnutmvu9	Ne pas ouvrir : le profit de cette option vaut 0
+2654ozvpxv5	Ce fixe est évitable, donc la comparaison n’est plus −15 contre −16.
+9en55ro360	Le court terme signifie…
+xbkvw0uame	Exactement moins d’un an pour toute entreprise
+2cure9oesld	Aucune durée calendaire universelle ne définit l’horizon.
+1hucz7crhce	Au moins un input reste fixé pour la décision
+pv3g47p4g6	Il s’agit des possibilités d’ajustement.
+1oi8qdqcdqq	L’offre n’est pas toute la courbe MC sans conditions
+yjjh863qn9	L’égalité p = MC donne un candidat dans une situation intérieure. Un prix trop bas peut faire choisir zéro ; une capacité peut faire choisir son maximum. Si le coût marginal est constant et que chaque vente rapporte une marge positive, il n’existe même pas de quantité optimale finie sans limite supplémentaire.
+2c0h292ynnm	Offre individuelle : partie pertinente de MC croissante au-dessus du seuil d’arrêt, avec contraintes. Vérifier non-négativité, capacité, maximum et coûts évitables.
+147f8my737w	Une FOC intérieure n’est pas requise à un bord du choix.
+1gr405xosv8	Avec une marge constante positive, chaque unité supplémentaire améliore encore π.
+fupz0tek73	Une capacité ferme ce choix non borné ; un prix inférieur au coût variable peut faire préférer zéro.
+18xzyk8d9wj	C = 5q, p = 10, capacité q ≤ 10 : π = 5q, donc q* = 10. Sans capacité ni autre coût croissant, π augmente sans borne : l’équation 10 = 5 n’a pas de solution et aucun optimum fini n’est donné.
+20qvp3atipp	Si chaque T-shirt rapporte cinq de marge, tu n’arrêtes pas arbitrairement à six T-shirts : tu cherches ce qui limite vraiment la production.
+25od356hl5e	C = 5q, p = 10, 0 ≤ q ≤ 10. Quel q optimal ?
+1esyl7e1c8x	π = 5q augmente sur tout le domaine : le maximum est au bord q = 10.
+23e2yppiwie	Même cas sans capacité et sans coût supplémentaire croissant : que conclure ?
+144fpxfewas	q = 5 car MC = 5
+d8dyed5yhu	Le chiffre 5 est un coût par unité, pas une quantité optimale.
+pa7sf2bdea	Aucun optimum fini n’est fourni par ce modèle
+2244g9zn8ng	Chaque unité ajoute cinq de profit ; une limite supplémentaire est nécessaire.
+qoppmm7tgb	De ton atelier à tous les ateliers
+22oma5mc2b2	Le marché additionne les unités que chaque firme offre au même prix. Une firme dont le prix ne couvre pas son seuil ne contribue pas une quantité négative : elle produit zéro. L’entrée d’une nouvelle firme change le nombre de plans additionnés et déplace l’offre de marché.
+1er60rem9ia	QS(p) = Σ qi(p), en respectant chaque seuil. L6 : q1 = max(0,p − 2), q2 = max(0,p − 4). Offre par morceaux.
+1ashzmvfhbp	Les firmes reçoivent un même prix dans le modèle homogène concurrentiel.
+7ovfmkueuw	Les quantités s’ajoutent, pas les prix ni les coûts marginaux verticaux.
+2513cf6hqhu	Au passage d’un seuil de participation, une firme supplémentaire commence à contribuer : la relation de marché peut avoir un coude.
+qrqq1mg3r0	L6 : à p = 3, q1 = 1 et q2 = 0, donc QS = 1. À p = 5, q1 = 3 et q2 = 1, donc QS = 4. Pour p ≥ 4, QS = 2p − 6 ; on ne peut pas utiliser ce segment à p = 3.
+24s8b4oap6m	L’atelier voisin ferme temporairement à ce prix. Son absence réduit l’offre ; elle ne soustrait pas des unités déjà fabriquées par toi.
+g623ugzi4q	q1 = max(0,p − 2), q2 = max(0,p − 4). Quel QS à p = 3 ?
+1kg4b4w943g	q1 = 1 et q2 = 0 ; QS = 1. Le segment 2p − 6 n’est pas valable ici.
+105zfl1s344	Même marché, quel QS à p = 5 ?
+2dxjylqdshc	q1 = 3 et q2 = 1, donc QS = 4.
+kijio44z9l	Profit nul ne signifie pas travailler pour rien
+1m5z5m16ald	Une demande plus forte peut faire monter prix et profits à court terme. Si de nouveaux ateliers identiques peuvent entrer facilement, leurs unités déplacent l’offre et réduisent ensuite le prix. Dans le modèle de libre entrée à coûts constants, le profit économique finit nul parce que les facteurs sont déjà rémunérés à leur coût d’opportunité.
+1ka6r0evyz8	Cas usuel de firmes identiques réplicables : pLR = min ATC, profit économique nul, davantage de firmes pour une demande plus forte. Le coût économique inclut la meilleure alternative sacrifiée ; PS = R − VC = π + FC quand FC est inévitable.
+1nb9ysyqxl9	Un profit économique positif attire des ressources tant que l’entrée reste accessible.
+itlw8uia5t	L’offre accrue réduit le prix et l’avantage d’entrée.
+219t1ag6jal	Rémunérer ton travail à son alternative est déjà un coût économique ; nul après ce coût n’est pas un revenu nul. Le résultat d’entrée change si ressources rares, barrières ou coûts sectoriels changent.
+1tcltrixz4a	L6 Naomi : fournitures 30 000 + livraison 10 000 donnent coût comptable 40 000 ; salaire alternatif 50 000 donne coût économique 90 000. Avec recette construite 90 000 : profit comptable 50 000 et économique 0. Autre exemple L6 C = 10 + q² à p = 12 : PS = 72 − 36 = 36, mais π = 26.
+16avqvgx2bx	Tu gagnes cinquante mille dans ton activité mais renonces à un emploi qui rapportait la même somme : tu n’as pas un gain économique de cinquante mille sur cette alternative.
+ibgmp3ngd6	Dépenses explicites 40 000, salaire sacrifié 50 000. Quel coût économique sans double comptage ?
+aclpvn79jz	40 000 + 50 000 = 90 000 ; l’usage de ton temps a une alternative.
+14xij7bedaj	Profit économique nul dans le modèle de libre entrée signifie…
+1f14vob3z0n	Les propriétaires et travailleurs ne gagnent aucun revenu
+1b5lkyeknxw	Leur rémunération d’opportunité est déjà incluse dans les coûts.
+imw4diyqxp	Les facteurs reçoivent déjà leur rémunération d’opportunité
+xhkwozt75e	La recette couvre les coûts explicites et implicites pertinents.
+1lw735w1e9b	C = 10 + q², q = 6, p = 12. Quel surplus du producteur R − VC ?
+1kvlc6gy2d2	72 − 36 = 36 ; il diffère du profit 26 par FC = 10.
+gi9ljyv398	Les inputs doivent réellement permettre de produire ce qui est demandé.
+261ktxtkw2n	Un mélange non équilibré permet une économie de coût pour le même output.
+16c4n7econc	La facture, le coût par unité et le coût du suivant répondent à trois questions différentes.
+1l93fdsn5t	La firme choisit q, mais une capacité ou un arrêt peut rendre l’optimum non intérieur.
+gsy0i3qq10	Les coûts réellement évitables et l’alternative d’opportunité déterminent la décision.
+1m22q0ard5p	Un résultat d’une firme à court terme ne décrit pas automatiquement le marché à long terme.
+1msq6zgrk5t	MPL décroissant mesure l’effet de plus de travail avec le capital fixé. Les rendements d’échelle augmentent tous les inputs : Q = √(KL) a des MPL décroissants mais double Q quand K et L doublent. Une firme price taker cherche un candidat p = MC puis vérifie contraintes et arrêt. Avec C = 16 + 4q + q², p = 6 et fixe inévitable, q = 1 donne R = 6, VC = 5 et perte 15. Arrêter coûte 16 : produire limite la perte. Si le fixe était évitable, l’arrêt à profit zéro serait préférable.
+jtu820v5cw	Définir technologie et output cible
+1962prtp7ty	Égaliser la productivité marginale par euro si l’intérieur le permet
+308y39va9g	Construire total, moyen et marginal sans les confondre
+28u3sstryle	Comparer recette marginale et coût marginal avec les contraintes
+1nusxvj0xap	Comparer produire, arrêter et sortir sur le bon horizon
+1z7m36498g1	Additionner les offres et penser à l’entrée
+1iyno5iojv	Ton ami veut fermer toute firme qui fait une perte et affirme que MPL décroissant veut dire rendements d’échelle décroissants. Corrige les deux idées avec des nombres et explique ce que serait la bonne décision d’une firme price taker.
+n9udihrgaz	Un input fixe contre tous les inputs
+1nhbovzt657	Le produit marginal et les rendements d’échelle font varier des choses différentes.
+128bgmm3udc	p = MC pour un candidat intérieur
+1mvn5au6xqm	Le suivant rapporte p et coûte MC, sous les conditions du modèle.
+w218ey6t5p	Comparer R à VC si FC inévitable
+1qxs9epqxsb	Produire peut couvrir une partie du fixe et limiter la perte.
+u5hzprfixr	Comparer les pertes disponibles
+gybe9el9d0	−15 peut dominer −16 ; zéro n’est pas toujours une option.
+1342t1i8ea6	Une perte ne suffit pas : si le fixe est inévitable, compare produire à la perte fixe de l’arrêt.
+29qoznhybqn	Le premier test garde d’autres inputs fixes ; le second multiplie tous les inputs.
+1qmausk857o	Fixe signifie indépendant du volume ; regarde séparément s’il est évitable dans l’alternative.
+kvphrrzvl1	Entraînement construit d’après L5–L6 et les formats des finals E2020 Q5/E2025 Q5. La fonction de coût est une variante pédagogique ; correction recalculée, non officielle.
+1663vlomqj6	MC = 4 + 2q = 14 ⇒ q = 5. R = 70, VC = 45, C = 65. Profit = 5, PS = 25.
+26krc67719o	Distinguer fixe inévitable et variable ; écrire MC.
+28l3l9woiny	Trouver q avec p = MC, vérifier maximum et non-négativité.
+ovhtq38syv	Calculer R, VC, C, π et PS sans les confondre.
+9na023jg9w	Comparer les niveaux de profit avec l’arrêt, puis appliquer le benchmark de long terme seulement sous ses hypothèses.
+18t1832a3lr	p = 8 ⇒ q = 2 ; R = 16, VC = 12, C = 32, π = −16 > −20 à l’arrêt.
+2bsacs7o5uu	ATC = 20/q + 4 + q ; dérivée = −20/q² + 1 = 0 ⇒ qLR = √20.
+2c2ur741omr	pLR = ATC(qLR) = 4 + 2√20 ≈ 12,944 ; profit économique nul.
+1xzsmiu7qhz	q horizontal et monnaie par unité verticale : MC = 4 + 2q, AVC = 4 + q, ATC = 20/q + 4 + q.
+1uydr33hz6a	À p = 14, q = 5 et profit rectangle (p − ATC)q = 5.
+1hk037qjt1d	À p = 8, q = 2 et p est entre AVC = 6 et ATC = 16 : perte 16 mais contribution variable positive.
+o1ah0rrgr2	Le minimum de ATC marque le benchmark d’entrée à long terme ; ce n’est pas le seuil d’arrêt court terme.
+1cin3xhbgd1	MPL et APL désignent…
+11ddp7v9k1c	Deux écritures de Q/L
+gip08ledit	Q/L est seulement le produit moyen.
+87jyhizbyz	Output supplémentaire du travailleur marginal ; output par travailleur en moyenne
+1sx5zagcaya	Différence et ratio répondent à deux questions distinctes.
+26vbwmycx9g	Rendements d’échelle teste…
+9raqiymhv4	Plus de L avec K fixe
+1cgk1jkdv1h	C’est le test du produit marginal du travail.
+utha6palst	Une variation proportionnelle de tous les inputs
+nji29qsbso	On compare f(tK,tL) à t·f(K,L).
+y42zf19sjg	Pourquoi produire avec AVC < p < ATC et FC inévitable ?
+1c7j1w26if2	La firme réalise forcément un profit positif
+vgw39uzddn	p < ATC signifie encore une perte.
+240plswdmk9	R couvre VC et une partie de FC, limitant la perte
+1tonyb359o4	L’arrêt laisse toute la perte fixe.
+18kmo5kfjae	Reconstruis la réaction d’un secteur à une demande accrue, sous libre entrée à coûts constants.
+b9z80vfch8	La demande accrue fait monter le prix à court terme
+oj0umvj9mi	Des profits économiques positifs attirent l’entrée
+t6kw3qwgra	L’offre de marché se déplace à droite
+2f275kdhlaf	Le prix revient vers min ATC et le profit économique vers zéro
+1tfi9xasc38	C = 12 + q², p = 10. Calcule q*.
+2knmfy1oc5	MC = 2q, donc q = p/2 = 5 ; π = 50 − 37 = 13 > −12 à l’arrêt.
+jrfd02hvfs	C = 30 + q² à q = 3. Calcule AVC.
+2ee7olq85i7	VC = 9 ; AVC = 9/3 = 3, sans FC.
+1t8fvri33nv	Q = √(KL), Q̄ = 12, w = 4 et r = 1. Trouve le coût minimal.
+1xz9cdw5hg	FC augmente mais reste inévitable, p et VC inchangés. Le q intérieur choisi…
+7v56ojkky9	Augmente pour répartir le fixe sur davantage d’unités
+1r1cw5i2p7r	Ce raisonnement de moyenne ne remplace pas le maximum de profit à prix donné.
+16j5h62exyn	Ne change pas si la décision de produire reste pertinente
+2f7aimpfzff	MC est inchangé ; le fixe modifie π, pas la condition marginale.
+x66tyhjmim	Unavoidable fixed cost
+2bj8kslcrdb	Covering VC
+21ewsd5axnz	Q = √(KL) fournit un contre-exemple.
+16i2714kgit	Un input fixe contre tous les inputs qui augmentent : deux expériences.
+icq7foe67d	Je distingue MP, AP, MRS et MRTS.
+1z3ed7e4kml	Je peux nommer les acteurs, les axes et ce qui reste constant.
+23shbrcfgk3	Je minimise un coût avec technologie et prix d’inputs.
+1y0wtichus1	La tangence ne suffit pas sans la cible physique et les contraintes.
+1c9y4oyq5su	Je sépare produit marginal décroissant et échelle.
+1xt531pb860	Je sais quelle expérience fait varier un facteur ou tous les facteurs.
+2bi7ogvxdag	Je remplis TC, FC, VC, ATC, AFC, AVC et MC.
+2788k6a8hu1	Je ne confonds ni moyenne et marginal, ni dérivée et coût d’une unité entière.
+1bdopr6xr7v	Je justifie q avec p = MC et vérifie les bords.
+qnq9705f6c	Capacité, coût constant, arrêt et non-négativité peuvent changer la méthode.
+1m734mx6wsh	Je compare arrêt et production sur les coûts évitables.
+294zlkvpsxx	Une perte peut être la meilleure option disponible à court terme.
+1bi9htnwxiy	Je relie offre individuelle, entrée et profit économique.
+vwaqewwxlk	Je additionne les quantités non négatives ; zéro profit inclut les coûts d’opportunité.
+8st00rbno9	Surplus et politiques — suivre chaque euro
+rhyh5dpxuf	Surplus, incidence et perte sèche
+27rn84jibgc	Une taxe enlève de l’argent à quelqu’un. Mais tout cet argent est-il perdu ? Suis les acheteurs, les vendeurs et l’État avant de colorier les triangles.
+1kc5vco99dk	Achètent les unités qui valent au moins leur prix.
+1e5hmukh2mh	Garder de la valeur après avoir payé.
+185j6gvaofn	Produisent lorsque le prix net couvre le coût marginal.
+xd6c0q1iwx	Couvrir leurs coûts et garder un surplus.
+vaqjk8xjzn	Compte les gains et les coûts réels de tous.
+4hif064kfa	Éviter de confondre un transfert avec une destruction.
+1k1c2df99br	Prélève ou finance une politique.
+80anhm7s4p	Connaître son budget et les effets de sa règle.
+25981xyhm2h	Un achat : deux gains possibles
+cjgzsfjfjd	Un client valorise une unité à 20. Un vendeur peut la produire pour 12. S’ils s’accordent sur 16, chacun gagne quelque chose par rapport à ne pas échanger ; le paiement passe d’une poche à l’autre.
+1j4m4di812c	Le surplus total de cette unité est WTP−MC = 8. Le prix partage ce gain mais ne crée pas à lui seul une ressource.
+2g81j40r5sf	L’acheteur reçoit une valeur 20 mais cède 16 : il garde 4.
+a54j4tpqh7	Le vendeur reçoit 16 mais mobilise des ressources 12 : il garde 4.
+20m80rssfqm	En additionnant, le paiement 16 disparaît : la valeur réelle moins le coût réel reste 8.
+1ndowdmag1j	Si le prix passe de 16 à 18 pour la même unité, les gains deviennent 2 et 6 ; le total reste 8.
+2dd9625jniw	Tu négocies le prix : cherche à mieux partager les 8, sans prétendre avoir créé 8 de plus.
+lbzi7cwmtq	Valeur 20, coût 12, prix 18 : quel est le surplus TOTAL de l’unité ?
+1jk5u496ogj	20−12 = 8 ; 18 est un transfert.
+1d8g37dykbd	2 est seulement le gain du client.
+8z6j644huv	6 est seulement le gain du vendeur.
+j86vovoru1	Où les échanges s’arrêtent-ils ?
+1vmo0slw3jt	Les clients les plus intéressés achètent d’abord. Pour servir davantage de monde, les vendeurs utilisent des ressources plus coûteuses. Ils cessent de s’accorder lorsque la valeur de l’unité suivante rejoint son coût.
+rfbd7kzsaf	En concurrence sans autre défaillance : p_D = 23−Q et p_S = 2+2Q ; l’équilibre satisfait p_D = p_S.
+1a40p0lsfxo	Avant Q = 7, la demande est au-dessus du coût : un échange supplémentaire peut faire gagner les deux.
+2a1rd5fpz4k	Après Q = 7, le coût dépasse la valeur : produire davantage détruirait du surplus.
+4f2oh29r7m	23−Q = 2+2Q donne 3Q = 21, donc Q = 7 et p = 16. À Q = 8, valeur 15 et coût 18 : l’unité additionnelle ne vaut pas ses ressources.
+26bvv0g3k1v	Tu veux commander une unité de plus : accepterais-tu de payer 18 pour une valeur 15 ?
+1srs79arjqj	Avec D = 23−Q et S = 2+2Q, calcule Q sans politique.
+yl3rpsi8qu	16 est le prix, pas la quantité.
+xw3jb9dm3v	L7 : valeur des acheteurs et coût des vendeurs
+2a1fhw6dm7d	Q : unités échangées
+3t0uq6qmjq	Prix / valeur / coût par unité
+27u7egxiybm	Demande 23−Q ; offre 2+2Q. Sans taxe Q = 7, p = 16. Avec t = 3 : Q = 6, acheteur 17, vendeur 14. La distance verticale au même Q est la taxe.
+10nx37md2eo	Valeur de l’unité suivante pour les acheteurs.
+nv88zdh6ze	Coût réel de l’unité suivante pour les vendeurs.
+1t2t9gz57op	Prix acheteur nécessaire pour payer le vendeur et les 3 de taxe.
+6aplaa5x5g	Sans taxe
+1bgn8bb2hvk	Le gain des clients est une aire
+17wgrrfjh4a	Tous les clients ne valorisent pas leur achat exactement à 16. Le plus enthousiaste aurait payé près de 23, tandis que le dernier accepte juste 16. Leurs gains additionnés forment une aire au-dessus du prix payé.
+1pfftpg9xb8	Consumer surplus (CS) : valeur totale moins dépense. Ici CS = (23−16)×7/2 = 24,5, sous allocation aux WTP les plus élevées.

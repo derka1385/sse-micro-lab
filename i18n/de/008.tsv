@@ -1,0 +1,210 @@
+th0n2b09ze dQ/Q misst die Reaktion relativ zur Menge; dp/p relativ zum Preis.
+1fyhmpslm6f Ihr Verhältnis ist über verschiedene Einheiten hinweg vergleichbar, sofern Markt und Punkt definiert sind.
+a5d1x9fbro Konstruierte Nachfrage Q = 12 − p: dQ/dp = −1. Bei p = 4 ist Q = 8, ε = −1×4/8 = −0,5.
+22bdxqrat0a Du übersetzt „ein verlorener Verkauf pro Euro“ in „wie viel Prozent Verkäufe pro Prozent Preis“.
+kq8rm2loq8 Dieselbe Gerade, unterschiedliche Empfindlichkeiten
+1l33i6j2jxa Q, Einheiten
+1duujjeodb3 Lehrbeispiel Q = 12 − p. Die direkte Steigung dQ/dp = −1 ist konstant, aber ε = −p/Q variiert: −0,5 bei (8,4), −1 bei (6,6), −2 bei (4,8).
+l5132hoh2y Nachfrage: p = 12 − Q
+1favkmrdvqs Eine Einheit für 1 € Preisanstieg zu verlieren ist nicht an jedem Punkt derselbe Prozentsatz.
+cukp4x30vo Rekonstruiere die Punktelastizität von Q bezüglich p.
+1gz60q5tk0p Die absolute Ableitung wird mit p/Q normiert.
+14fts9r4fjf Q = 12 − p. Welche εD bei p = 4?
+1yd6nnzfyrl Q = 8 und dQ/dp = −1, also εD = −4/8 = −0,5.
+2is9xu8gx0 Leite die Funktion nicht in die falsche Richtung ab
+gq6isa529x Manchmal gibt dir eine Aufgabe den Preis als Funktion der Menge. Ihre Steigung beantwortet dann „wie viele Euro pro Einheit“, während die Nachfrageelastizität „wie viele Einheiten pro Euro“ verlangt. Schreib die Nachfrage um oder kehre die Ableitung korrekt um, bevor du rechnest.
+10026115t1h Wenn p = A − BQ, dann Q = (A − p)/B, dQ/dp = −1/B und εD = −p/(BQ).
+7i751x6f20 Die Achsen einer üblichen Grafik zeigen p(Q), gesucht ist aber Q(p).
+1vz62xwgj17 dp/dQ und dQ/dp sind Kehrwerte, wenn die Beziehung lokal umkehrbar ist.
+1uyb8lj6lkk Wer diese Umkehrung vergisst, erhält ein falsches Ergebnis, das manchmal trotzdem ein plausibles Vorzeichen hat.
+b9vjowzofd Andere Situation: p = 20 − 2Q. Bei Q = 5 ist p = 10. dQ/dp = −1/2; ε = −(1/2)×10/5 = −1, nicht −4.
+1qj9q8k56pq Siehst du die Steigung −2 auf dem Blatt, frag: „zwei was pro was?“ Diese Frage reicht oft, um die Umkehrung zu erkennen.
+1y3qam95k2s p = 20 − 2Q, Q = 5, p = 10. Welche εD?
+1wz9kw5lz14 Du hast dp/dQ = −2 statt dQ/dp = −1/2 verwendet.
+21hmhth0t5w Die Steigung bewegt sich nicht, die Elastizität schon
+1qc8c4updw9 Auf Q = 12 − p kostet jeder zusätzliche Euro überall eine Einheit. Aber eine verlorene Einheit wiegt wenig, wenn du viel verkaufst, und viel, wenn du wenig verkaufst. Die Gerade bleibt gleich; die proportionale Reaktion hängt vom Punkt ab.
+xddv17i64l Lineare Nachfrage Q = a − bp: direkte Steigung −b konstant, ε = −bp/(a − bp) variabel. Unelastisch: |ε| < 1; elastisch: |ε| > 1.
+1ib30yvn4cz Die Ableitung misst die absolute Änderung und bleibt auf dieser Geraden konstant.
+13gt0zu7cwp Der Faktor p/Q ändert sich, wenn du dich auf der Kurve bewegst.
+2cmqqk7ft93 Bei hohem Preis und kleinem Q ist ein gegebener Verlust ein größerer Prozentsatz von Q und ein kleinerer Prozentsatz des Preises.
+1f2gd2emlp5 Dieselbe Q = 12 − p: bei p = 4 ist Q = 8 und ε = −0,5; bei p = 6 ist Q = 6 und ε = −1; bei p = 8 ist Q = 4 und ε = −2.
+1uoo44yb8tu Einen von acht Verkäufen zu verlieren wiegt weniger als einen von vier, auch wenn beide Verluste von einem Euro Preisanstieg kommen.
+usmzqe2r7z Q = 12 − p: Berechne εD bei p = 8.
+1pur74kov50 εD = −2 beschreibt eine Nachfrage, die…
+295n66y022r Unelastisch ist, weil −2 kleiner als −1 ist
+u9o4a6k39w Man vergleicht |ε| mit 1; das negative Vorzeichen beschreibt die Richtung, nicht eine kleine Größe.
+23k6o52w39o Elastisch
+2gcrqhn9xmi Die proportionale Reaktion übersteigt im Betrag 1.
+7tl4xuf3e4 Der Verkäufer verdient mehr pro Einheit, verkauft aber weniger
+bqm2eygwdn Eine Preiserhöhung hat zwei Effekte auf den Erlös: Jede verkaufte Einheit bringt mehr, aber manche Verkäufe fallen weg. Reagieren die Käufer wenig, dominiert der erste Effekt. Reagieren sie stark, dominiert der Verlust an Verkäufen.
+o3glwurr3c R = pQ(p), also dR/dp = Q + p·dQ/dp = Q(1 + εD). Unelastisch: Ein höheres p erhöht R lokal; elastisch: Es senkt R.
+whtzo0u4an R = pQ(p). Welcher Ausdruck erfasst bei einer Änderung von p beide Effekte?
+y4rbzj4zdg Q kommt vom höheren Preis auf die Verkäufe; p·dQ/dp kommt von der Änderung der Verkäufe.
+xkgw2y0ad6 Nur Q
+10rvo8q12in Du vergisst, dass die Käufer ihre Menge ändern.
+1kzk74njn02 Nur p·dQ/dp
+275y3v88b3z Du vergisst den Mehrerlös auf die weiterhin verkauften Einheiten.
+1297rboq669 Beide Komponenten von pQ ändern sich; man braucht die Produktregel.
+1sw3lh3lm2y Das Vorzeichen von 1 + εD zeigt, welcher Effekt bei Q > 0 dominiert.
+151y6m1ijqz Diese Schlussfolgerung betrifft eine kleine lokale Änderung; bei einer großen Änderung berechne beide Erlöse direkt.
+1dsn9y2aoun Für Q = 12 − p: bei p = 4 ist R = 32; bei p = 5 ist Q = 7, R = 35. Bei p = 8 ist R = 32; bei p = 9 ist Q = 3, R = 27.
+1ldqx7r2aah Du verkaufst einen Platz teurer. Vergiss die Studierenden nicht, die die Schlange verlassen: Das neue Preisschild ist nicht dein ganzer Erlös.
+48gvi6bsmh Der Preis steigt; der Erlös steigt nicht immer
+al6seu2os6 € Erlös
+1xi5gp6fvn2 Dieselbe konstruierte Nachfrage Q = 12 − p. Erlös = pQ; das sind Erlöse, keine Gewinne, da noch keine Kosten gegeben sind.
+3rgce7n9ou R = 6×6 = 36; Einheitselastizität, Maximum von R auf dieser Geraden.
+sinj0k6rbt R = 8×4 = 32; lokal elastische Nachfrage.
+23640mgfie1 εD = −0,4. Was bewirkt eine kleine Erhöhung von p bei R?
+pndtaernk R sinkt, weil Q sinkt
+1kba7x52p22 Du vergisst den erhaltenen Preis auf die Einheiten, die weiterhin verkauft werden.
+d6g3y205v5 R steigt
+2f62z4rtdqq 1 + ε = 0,6 > 0: Die Menge sinkt proportional weniger, als der Preis steigt.
+25p13v3jowo Q = 12 − p: Welcher Erlös bei p = 6?
+2e6m06fcc7x Q = 6, also R = 6×6 = 36.
+1lf180i6g31 Maximaler Erlös heißt nicht maximaler Gewinn
+1abgnp3t3wc Der Verkäufer behält nicht seinen ganzen Erlös: Er zahlt auch für die Produktion. Der Preis, der pQ maximiert, kann also dazu führen, Einheiten zu produzieren, die zu viel kosten. Die Elastizität erklärt einen Teil der Wahl; für den Gewinn braucht man zusätzlich die Kosten.
+1i58i8jmo6s Gewinn π = R − C. Maximales R bedeutet im Inneren MR = 0; maximaler Gewinn bedeutet MR = MC mit den übrigen Prüfungen.
+1s3qfef8sqq Ein zusätzlicher Verkauf kann den Erlös erhöhen und dabei mehr kosten, als er hinzufügt.
+19cwz4rou9t Die Erlösmaximierung ignoriert diese Zusatzkosten.
+18m60n0aybt Sobald MC > 0, liegt der für den Gewinn relevante Haltepunkt meist vor dem Erlösmaximum.
+2th76fhh0g Dieselbe inverse Nachfrage p = 12 − Q, konstruierte Kosten C = 2Q. Maximaler Erlös: Q = 6, p = 6, Gewinn = 36 − 12 = 24. Maximaler Gewinn: MR = 12 − 2Q = 2 ⇒ Q = 5, p = 7, Gewinn = 35 − 10 = 25.
+19go82xzq0e Du schaust nicht nur darauf, wie viel in die Kasse kommt; du schaust, was nach den Kosten der Kaffees übrig bleibt.
+aucpyuhvrt Garantiert eine Nachfrage mit Einheitselastizität ε = −1 einen maximalen Gewinn?
+b0q7qlruhh Ja, weil der Erlös maximal ist
+1t5bvxq4k4j Das wäre nur unter zusätzlichen Annahmen über Kosten und Definitionsbereich garantiert.
+1wltdfol9ac Nein, sie zeigt einen lokal stationären Erlös; für den Gewinn zählen die Kosten
+1krgoorn14y Der Gewinn vergleicht MR mit den Grenzkosten.
+ncbsb2f6ts A2: Nutze Vorzeichen und Zeithorizont zur Vorhersage
+1w93uptld75 Die Behörde will die Wirkung eines höheren Benzinpreises kennen. Beginne mit dem gefragten Zeithorizont und behalte das negative Vorzeichen der Nachfrage. Eine Preiserhöhung mal eine negative Elastizität ergibt einen Mengenrückgang.
+1durs949tjb Näherung: %ΔQ ≈ ε·%Δp. Für ein Ziel: %Δp ≈ %ΔQ/ε.
+1nj4r8kj7at Der Prozentsatz Menge pro 1 % Preis ist genau die Bedeutung von ε.
+2apnpiy94nu Für eine gegebene Änderung bewahrt das Multiplizieren diese Logik als lokale Näherung.
+2fe7pm9hm74 Um die nötige Maßnahme zu finden, kehrt man die Rechnung um, behält aber die Vorzeichen.
+zptgdjd72j A2: εSR = −0,25; εLR = −0,60. Preis +5 % ⇒ QSR ≈ −1,25 %, QLR ≈ −3 %. Ziel QLR −15 % ⇒ Preis ≈ (−15)/(−0,60) = +25 %.
+b9wjr2qns1 Bevor du in den Taschenrechner tippst, sag die Richtung voraus: Um Benzin bei fallender Nachfrage zu reduzieren, muss der Preis steigen.
+1ilybs6nopr εSR = −0,25 und Preis +5 %. Ungefähre Änderung von Q in %?
+1zzvonvk0u1 −0,25×5 = −1,25 %. Behalte den Mengenrückgang.
+24r3k50xfdp εLR = −0,60; Ziel Q −15 %. Ungefähre Preiserhöhung in %?
+1mhfv4yo03s (−15)/(−0,60) = +25 %. Das ist die proportionale Näherung.
+1k6skzlhm43 Eine große Änderung zeigt die Grenze der Näherung
+88q0oziz08 Prozentsätze zu multiplizieren ist nahe am Ausgangspunkt praktisch. Bei einer großen Erhöhung kann die Krümmung der Nachfrage eine Rolle spielen. Gibt die Aufgabe eine Funktion mit konstanter Elastizität vor, liefert sie eine andere exakte Beziehung: Nenne die Konvention vor der Zahl.
+1i0hv1ucgt1 Wenn Q = A·p^ε, dann Q1/Q0 = (p1/p0)^ε. Also p1/p0 = (Q1/Q0)^(1/ε). Die lineare Näherung ist nicht diese exakte Identität.
+1yns6fs3oka Die lokale Elastizität misst eine infinitesimale Reaktion; eine einzige Steigung auf eine lange Änderung anzuwenden vereinfacht den Verlauf.
+5u90jlitdc Eine Funktion mit konstanter Elastizität beschreibt den ganzen Verlauf und erlaubt eine exakte Rechnung.
+1fr0vxi7jyb Die beiden Ergebnisse folgen unterschiedlichen Konventionen; das eine erlaubt nicht, das andere als Identität auszugeben.
+1litnvor235 A2: Ziel Q1/Q0 = 0,85 und ε = −0,60. Exakt bei Q = A·p^−0,6: p1/p0 = 0,85^(−1/0,6) ≈ 1,3111, also +31,11 %. Übliche Näherung: +25 %. Abstand ≈ 6,11 Prozentpunkte.
+23s07clcmg4 Du schreibst „proportionale Näherung“ oder „exakte konstante Funktion“, bevor du das Ergebnis zeigst: Dann sieht der Korrektor das gewählte Modell.
+bi4y6kh9h1 Das Ergebnis +25 % für das Ziel −15 % mit ε = −0,60 ist…
+18fbvy8nasw Exakt für jede Funktion, bei der ε am Anfang −0,60 beträgt
+36tcnn8vro Eine Elastizität am Ausgangspunkt legt nicht die ganze Funktion fest.
+gdjd6bsasc Die proportionale Näherung, nicht das exakte Ergebnis von Q = A·p^−0,6
+2chgtefqu6j Die exakte Rechnung mit der Potenzfunktion ergibt etwa +31,11 %.
+ns2nu0gitf Konstruierte Nachfrage Q = A/p, also ε = −1. Um Q zu halbieren: Um wie viel Prozent muss p exakt steigen?
+j4f04y1ptq Q1/Q0 = p0/p1 = 1/2 ⇒ p1 = 2p0: Preis +100 %, nicht +50 %.
+7uavg115yf Der Preis, der sich ändert, ist der eines anderen Gutes
+28d1gy1j8uk Der Teepreis steigt und du kaufst mehr Kaffee: Das deutet darauf hin, dass das eine das andere ersetzt. Der Keksepreis steigt und die damit konsumierten Kaffees gehen zurück: Das deutet auf Komplementarität hin. Das Vorzeichen liest man am tatsächlich geänderten Bestimmungsfaktor ab, nicht an einer Regel „jede Nachfrage ist negativ“.
+6awag2yska Kreuzpreiselastizität εij = (∂Qi/∂pj)·(pj/Qi). Positiv: Substitute; negativ: Komplemente, im gegebenen Modell.
+1i7szcj8pr1 Der Preis von Gut i bleibt gegeben: Man misst eine Verschiebung seiner Nachfrage, die ein anderer Preis verursacht.
+zywx2u5ilh Wird das andere Gut weniger attraktiv und wechselt man zu i, ist die Reaktion positiv.
+1mkm4sy16ol Werden die Güter zusammen genutzt, verringert eine Verteuerung des einen die Nutzung des Paares und kann Qi senken.
+f42o4v50lg Konstruierte Übung: εKaffee,Tee = +0,4 und Teepreis +10 % ⇒ Kaffee ≈ +4 %. Mit εKaffee,Keks = −0,2 und Keksepreis +10 % ⇒ Kaffee ≈ −2 %.
+27gcw82o8d4 Du kannst das Vorzeichen vor dem Rechnen erklären: „Ich ersetze den Tee“ oder „Ich nehme weniger vom Paar“.
+24n2g9cduxn εKaffee,Tee = +0,4. Teepreis +10 %. Ungefähre Änderung der Kaffees in %?
+hfxt4j37bw 0,4×10 = +4 %. Kaffee und Tee sind in dieser Situation Substitute.
+r474x9lh9y Eine negative Kreuzelastizität zeigt…
+18ybbgx4tn8 Eine gewöhnliche Eigenpreisnachfrage, ohne Information über Zusammenhänge
+1o1mwopd70 Der Index des Preises zählt: Es geht um pj, den Preis eines anderen Gutes.
+ygwd4q9il0 Komplemente
+kl1evt9kj4 Der Preis des anderen Gutes steigt und die Menge des untersuchten Gutes sinkt.
+11j49agcqy Wenn sich dein Einkommen ändert, erzählt das Vorzeichen etwas anderes
+153kb8wzcy9 Mit mehr Einkommen kannst du mehr von einem normalen Gut kaufen. Du kannst auch ein Gut aufgeben, das du vor allem bei knappem Budget genutzt hast: Es ist dann in diesem Einkommensbereich inferior. Diese Begriffe beschreiben eine Mengenreaktion, nicht die moralische oder materielle Qualität des Gutes.
+q1kxeujxcf Einkommenselastizität η = (∂Q/∂I)·(I/Q). η < 0: inferior; η > 0: normal; η > 1: Luxusgut; 0 < η < 1: normales notwendiges Gut.
+1qm9ole8pzx Das Einkommen ändert die erschwinglichen Bündel, während die Preise konstant bleiben.
+tzyco1cmt0 Die Reaktion hängt von den Präferenzen und vom beobachteten Einkommensniveau ab.
+1c757h4vx72 Dasselbe Gut kann seine Kategorie wechseln, wenn sich Bedürfnisse und Alternativen ändern.
+1hsoo8v8si0 Konstruierte Beispiele: η = −2, Einkommen +10 % ⇒ Q ≈ −20 %. η = 1,4, Einkommen +10 % ⇒ Q ≈ +14 %: Dieses Gut ist im untersuchten Bereich normal und ein Luxusgut.
+jw6iwyv24o Eine Jugendherberge kann bei kleinem Einkommen deine normale Option sein und dann durch ein Hotel ersetzt werden, wenn deine Mittel wachsen. „Inferior“ beschreibt diese Wahl.
+2fr0610vuek η = −2, Einkommen +10 %. Ungefähre Änderung von Q in %?
+2e6x155iifc −2×10 = −20 %. Das Gut ist in diesem Bereich inferior.
+1epd5rswiye η = 1,4 bedeutet…
+26v4ydzxl75 Ein Gut schlechter Qualität, weil es teuer ist
+iazl3mcki1 Diese Einteilung beurteilt weder die Qualität noch das Preisniveau.
+1hdp69021yv Ein normales Gut, dessen Menge überproportional zum Einkommen wächst
+1g0ton7yifo 1,4 > 1: ein Luxusgut im Sinne der Einkommenselastizität.
+1jr4k7lg1t8 Zwei Punkte: Gib an, welche Basis du verwendest
+kcamnir2kv Eine Änderung von 6 auf 4 ergibt nicht denselben Prozentsatz, wenn du 6, 4 oder ihren Mittelwert als Basis nimmst. Um zwei Punkte symmetrisch zu vergleichen, verwendet die Bogenmethode Mittelwerte. Sie darf nicht mit einer Ausgangsbasis für die andere Variable vermischt werden.
+lh46rr9fwk Bogenelastizität: [ΔQ/((Q0+Q1)/2)] / [Δp/((p0+p1)/2)]. Beide Nenner folgen derselben Konvention.
+s4mefamj6h Die Ausgangsbasis hängt davon ab, in welcher Richtung du die Änderung durchläufst.
+16xle7jl6ar Mittelwerte behandeln die beiden Punkte symmetrisch.
+twtey4ps2k Eine andere Basis ändert das diskrete Maß; die Konvention anzugeben macht die Rechnung interpretierbar.
+2bfg9rvvkho Q: 6 → 4, p: 1 → 2. Bogen: (−2/5)/(1/1,5) = −0,4/(2/3) = −0,6. Ausgangsbasis von L4: −1/3. Die Daten sind identisch; die Konvention unterscheidet sich.
+1zrd346r3xz Auf deinem Blatt notierst du „Bogen, mittlere Basen“ und verwendest fünf für Q und 1,5 für p; du mischst nicht fünf und eins.
+1us8nsjopqd Q: 6 → 4, p: 1 → 2. Welche Bogenelastizität mit mittleren Basen?
+1jqo86dl1uf Mittelwerte: Q = 5, p = 1,5. (−2/5)/(1/1,5) = −0,6.
+1n14r19ikmj Mittleres Q, aber anfängliches p zu verwenden ergibt…
+1cn5g1h1frd Per Definition dasselbe wie der Bogen
+8mpvxvz2k9 Der Bogen nimmt in beiden Prozentsätzen die Mittelwerte.
+1rttxfnfykx Eine zu vermeidende Mischung von Konventionen
+1fcumo7ta0n Das Verhältnis ist weder das definierte Bogenmaß noch das Maß mit Ausgangsbasis.
+1m08l1fdmo1 Grenzfälle und die letzte Prüfung
+xl6k0loaa2 Ändert sich die Menge nie, wenn sich der Preis bewegt, ist die Nachfrage vollkommen unelastisch. Lässt ein infinitesimaler Preisunterschied im Grenzmodell die Käufe umkippen, ist sie vollkommen elastisch. Dazwischen behältst du Vorzeichen und Punkt: Du kannst einer ganzen Geraden nicht automatisch eine einzige Elastizität zuschreiben.
+17xeg5ye94h Senkrechte Nachfrage: ε = 0. Waagerechte Nachfrage im Grenzfall: |ε| unendlich. Bei Q = 0 ist ε = (dQ/dp)p/Q nicht definiert; prüfe einen Grenzwert, wenn das gerechtfertigt ist.
+1j82mjfklup Eine senkrechte Linie legt Q unabhängig vom Preis fest: dQ/dp = 0.
+2fjmu245s2f Eine waagerechte Linie legt den zulässigen Preis fest und erlaubt im Idealmodell eine beliebig starke Mengenreaktion.
+z5kqmkdkbu Die Division durch Q erzwingt einen Definitionsbereich: Gib an dem Punkt, an dem Q null ist, ohne Begründung kein endliches Verhältnis an.
+1sjd4am4ck4 Konstruierte Nachfrage Q = 12 − p: bei p = 0 und Q = 12 ist ε = 0 in diesem Punkt; das macht die ganze Gerade nicht senkrecht. Nähert sich p von unten 12, geht Q gegen 0 und |ε| wird sehr groß.
+1fw2bj584uf Du prüfst „welcher Preis? welche Menge? welche Variable hat sich geändert? welche Konvention?“, bevor du einordnest oder einen Erlös berechnest.
+ag9ro98t7c Eine vollkommen unelastische Nachfrage hat eine Kurve, die…
+sjl9t4u08p Waagerecht ist, weil ε = 0 eine waagerechte Steigung bedeutet
+dca2dswwo2 Du hast dQ/dp mit der gezeichneten Steigung dp/dQ verwechselt.
+17i9caezzlr Senkrecht ist: Q ändert sich nicht, wenn sich p ändert
+1u0qch1dmob Die proportionale Reaktion von Q ist null.
+170hodeyruu Erkläre mit deinen eigenen Worten, warum eine Preiserhöhung den Erlös senken kann.
+27uhnaqwzcd Mehr pro Einheit
+122ytyr8ihs Verlorene Verkäufe
+1fgw68gohan Dominierende proportionale Reaktion
+wfa59edzv0 Der höhere Preis bringt auf jede weiterhin verkaufte Einheit mehr, verringert aber die Verkäufe. Ist die Nachfrage elastisch, überwiegt der proportionale Mengenrückgang den Preisanstieg: Der Erlös sinkt.
+zf0nopyu8v Eigenpreis, Fremdpreis und Einkommen beschreiben nicht dieselbe Reaktion; kurze und lange Frist bieten nicht dieselben Möglichkeiten.
+1krcs26et5f Man will die Änderung relativ zu den Ausgangsniveaus vergleichen, nicht eine rohe Steigung mit Einheiten.
+2dbd21z5be1 Das Vorzeichen beschreibt die Richtung; der Betrag kann entlang derselben Geraden variieren.
+biu2gr5ep Lokale Näherung, Bogen und exakte Potenzfunktion können unterschiedliche Zahlen ergeben.
+zanm4c6l3z Die Reaktion zeigt Substitution, Art des Gutes, ein Mengenziel oder die Wirkung auf den Erlös, ohne eine Gewinnrechnung zu ersetzen.
+1pum31gpx28 ε = −0,6 beschreibt einen proportionalen Rückgang von Q bei steigendem p, über den angegebenen Zeithorizont und am angegebenen Punkt. Die Rechnung −15/(−0,6) = +25 % ist die proportionale Näherung. Wird Q = A·p^−0,6 für die ganze Änderung vorgegeben, beträgt der exakte Anstieg etwa 31,11 %. Eine unelastische Nachfrage lässt den Erlös bei einer kleinen Preiserhöhung steigen; der Gewinn hängt auch von den Kosten ab, und eine große Änderung erfordert den Vergleich der Niveaus.
+24ksbgoyrs Variable und Zeithorizont bestimmen
+27vn4gnu83f Die Reaktion in Prozent umrechnen
+maiwn1fgdz Vorzeichen und Punkt behalten
+1u9ldqbbdzk Unter einer angegebenen Konvention rechnen
+knek3w6ome Zur ökonomischen Entscheidung zurückkehren
+uyg30g9nby Eine Freundin sagt: „Benzin hat ε = −0,6, also senkt eine Preiserhöhung um 25 % Q um genau 15 % und erhöht zwingend den Gewinn.“ Erkläre, was stimmt, was fehlt und wie du argumentieren würdest.
+5w0sgi59l3 Negative proportionale Empfindlichkeit
+oh9esg6g33 1 % mehr Preis ergibt lokal etwa 0,6 % weniger Q.
+lk2uppaifk 25 % ist eine Näherung
+1kv1etf0v7o Eine große Änderung erfordert ein ausdrückliches Modell oder eine ausdrückliche Konvention.
+lubmbxeel4 Mit |ε| < 1 dominiert lokal der Preiseffekt.
+kwyngprinw Kosten für den Gewinn
+1a0e398p3fd Der Erlös reicht nicht, um auf π zu schließen.
+c6vwww5n82 Die Ableitung muss mit p/Q normiert werden; auf einer Geraden variiert die Elastizität mit dem Punkt.
+17p6i00pqoi 25 % ist die Näherung für das Ziel in A2. Für Q = A·p^−0,6 ist die exakte Lösung etwa +31,11 %.
+1wuw3azlq36 Der Gewinn zieht die Kosten ab. Ein höherer Erlös beweist keinen höheren Gewinn.
+1iet1i42reo Konstruierte Übung auf Grundlage von L4, A2.1 und den Fallen aus §20. Die Werte der linearen Nachfrage und des exakten Ziels sind didaktische Varianten, keine offizielle Prüfungsaufgabe.
+2bex13zy1i0 dQ/dp = −2, Q = 80, ε = −2×20/80 = −0.5 : inelastic.
+svbbli5lp6 p1/p0 = 0.8^(−2) = 1.5625, exact +56.25%. Approximation: (−20)/(−0.5) = +40%.
+vonuwse6vt Direkte Nachfrage erkennen und Q am gefragten Punkt berechnen.
+1rkwgau46fn Die Ableitung mit p/Q normieren, dann mit |ε| einordnen.
+205ik13qbbn R = pQ an beiden Punkten berechnen, statt eine lokale Schlussfolgerung blind zu extrapolieren.
+1coehiwdse0 Für die exakte Änderung im anderen Markt das Verhältnis der Potenzfunktion verwenden.
+1enkr6gx67j (Q,p) = (80,20) und (70,25) markieren, dann die zugehörigen Rechtecke pQ.
+28xcgcfui4o Diese Gerade nicht verwenden, um den anderen Markt mit konstanter Elastizität darzustellen.
+1hy6rg6vb3i Eine Nachfrage ist elastisch, wenn…
+1bk365e7o45 εD negativ ist, unabhängig vom Betrag
+hwx8ul3jsw Die meisten fallenden Nachfragen haben ein negatives Vorzeichen; das reicht nicht, um den Betrag einzuordnen.
+wqo8a2ao4f Die proportionale Reaktion von Q übersteigt die des Preises.
+awyf40xayi Eine positive Kreuzelastizität zeigt…
+gf46ebxwq1 Ein Luxusgut
+12p9sicfth6 Luxus liest man an der Einkommenselastizität ab, nicht an der Kreuzelastizität.
+1zud98yev5d Substitute im gegebenen Modell
+12lkc97iadv Der Preis des anderen Gutes steigt und die untersuchte Nachfrage steigt.
+1edylwewpik Warum die Ableitung mit p/Q normieren?
+q83w0ctw1t Um alle Elastizitäten positiv zu machen
+1v4fkhyt77j Die Normierung entfernt das Vorzeichen der Ableitung nicht.
+nz2doue3po Um die absolute Reaktion in eine proportionale Reaktion umzuwandeln

@@ -1,0 +1,235 @@
+18dpsuzfzba A market adds up purchases, not prices
+oe6wfcx5tz Two students do not have the same willingness to pay. At the same price, ask each how much they buy, then add up the units. If one would give a negative quantity with their formula, they buy zero: nobody here sells "negative consumption".
+1yku1mhxnuc Private market demand: horizontal summation QD(p) = Σ max(0, qi(p)). The aggregate curve can have a kink.
+v7i0k1wv1m Everyone pays the same price for the homogeneous good.
+12plbpmtm0k What the market absorbs is the total number of units, so a sum of quantities.
+15i13jr2p7l A buyer leaves the market above their reservation price; keeping their negative demand would distort the sum.
+1bhd46aaz68 Example L4: qH = max(0, 10 − p), qL = max(0, 5 − p). At p = 6: 4 + 0 = 4, not 4 + (−1) = 3. At p = 4: 6 + 1 = 7.
+209hgnko496 At €6, your friend gives up coffee. You don't buy one unit less because their untruncated formula gives −1.
+cjhz34g611 With qH = max(0, 10 − p) and qL = max(0, 5 − p), what is QD at p = 6?
+2328b3u73ai qH = 4; qL = 0. The sum is 4.
+2ca9l2fzfqh You kept −1 for the second buyer. Truncate each demand at zero before summing.
+17465blgkgw Check the answer before announcing it
+ymlenrrsh7 A linear formula is a model over a domain; it does not force a seller to offer a negative quantity. After a calculation, always plug the price back into both plans and check the units. A correct equation with the wrong domain can produce an economically impossible result.
+27ntjay41z4 Checks: Q ≥ 0, admissible p, QD(p*) = QS(p*), relevant curve and segment, consistent units.
+sagsk6hmxp Signs and segments reflect what the actors can really choose.
+jm3rlqhgms Plugging the solution into both sides catches an algebra or data error.
+45041kip37 The causal story must match the initial shift, not just the numerical result.
+fpy0vw3hv3 For QS = p − 2 at p = 1, economic supply is zero, not −1. For the computed equilibrium p = 6, both formulas give 4: consistency confirmed.
+1qry2yd8ttv Before handing in: "who changed? at a given price what do they want to do? what imbalance? what price reaction?". You can rebuild the graph with these four questions.
+sz8jfvblvx Explain in two sentences why the arrival of students raises p and Q, with supply unchanged.
+zmge2vse3h More purchases at a given price
+8kir7e8klv Shortage, then a price rise
+27vm59r824b Reaction along unchanged supply
+28i8xyu73gr At the old price, more students want to buy, which creates a shortage. The price rises: sellers increase their quantity supplied along unchanged S and the new Q exceeds the old one.
+1sswgy73nwq Link the causes before calculating
+fcsytcl9o8 Rebuild the mechanism in order. Each arrow must explain why the next step happens.
+1axl9c5gcb2 The change in income, taste or cost tells you which plan is modified, regardless of the good's price.
+1zf5ea52dhd The modified relationship creates a shortage or unsold units.
+1vgpsxkoi5o Unmet purchases push p up; unsold units push p down.
+2x2qkdnpz8 The new price changes the quantities wanted without automatically shifting every curve.
+1kforv9e4ky The desired quantities must be equal and economically possible.
+265evcutd08 Popularity raises desired purchases at every price: D shifts right. Pricier beans reduce supply at every price: S shifts left. Both forces raise p. The first raises Q while the second lowers it: without relative sizes, the change in Q is ambiguous.
+rr0bnct7g8 Explain the decision by putting yourself in each actor's shoes, then check what changes when their constraint changes.
+1lqc9t1wbgh Constructed practice; no official solution
+7ccpy2wrqd Put the causes and consequences in order.
+1zjmtxeh60 Identify the initial shock
+2ad4302v6qg Compare QD and QS at the old price
+lahhunjcwd Deduce the pressure on the price
+2eenrem1llj Follow the reactions along the unchanged curves
+1wmz4vfovj8 Check the new equilibrium and the domain
+iz2irmc9mb Each step explains why the next one happens. Go back over the "because" links if you hesitate.
+1qwxquktwes Explain it in your own words
+10zbwsev1je A normal coffee becomes more popular while the price of its beans rises. Explain to a friend what changes at a given price, what happens to the price, and why you cannot always sign the change in Q.
+2ba88wb6qk2 Your turn: an exam answer in English
+qlygeyaiz8 Choose the model, set out the relationships and justify the result. The solution appears after you hand in your answer.
+209zofzcfsa What you can rebuild
+1y2ozz57o9t You have gone through the mechanism. Understanding now consolidates through spaced recall, in another context and without looking at the lesson.
+prgfage1vr Taste shifts D
+1v0w95l2yvc More coffee is wanted at the same price.
+19mm88vyep4 Cost shifts S
+n21bwk8hlt At a given selling price, less is supplied.
+1r30clqv1hj Both push p up
+jjyw0wt5ot Each shock creates excess demand at the old price.
+1ut9v3wb76t Q stays ambiguous
+rznoqmjsdm The quantity effects are opposite; you need their size.
+mkh1cz31rb The own price picks a point along D. A different taste shifts D at a given price.
+293z77kquhg Ambiguous does not mean unchanged: the two shocks can be of different sizes.
+1qk1og57via Practice constructed from L2 and the SSE reasoning format. The numbers and the solution are not an official answer key.
+1ksrtbv83nc Shift D for the arrival of buyers, S for costs.
+153bhyfxokn Solve QD = QS in each of the three regimes.
+2d4rxldmop2 Distinguish the numerical result for this case from the general conclusion without sizes.
+dy7w0gfrye Both: 14 − p = p − 4 ⇒ p = 9, Q = 5.
+guv232bc4w Mark (4,6), (6,8), then (5,9) in (Q,p) coordinates.
+2dw5m95e26u Quantity demanded and demand: what is the difference?
+ru74j34q08 None: both always mean the whole curve
+17ramyw7vf2 This confusion stops you distinguishing a movement from a shift.
+2d5l7fo7vwj One point at a given price, versus the whole relationship between prices and quantities
+1he717yaq4x A change in the own price changes the point, not automatically the relationship.
+f0bue9sbud Excess supply here means…
+coz4x7ue9a The profit of all sellers
+27ehbg5t04r That is a different notion, expressed in money, not units.
+yz6ubxzy6s QS − QD when this difference is positive
+231rx3i54dp It is an excess of units offered, not an area of monetary gain.
+2db3pi97xru An input gets cheaper, D unchanged. Usual result?
+13ue40knmsq p and Q fall
+85jw0qobgj Lower costs allow more quantity, not less.
+1xk1kgcv2qk p falls and Q rises
+1we83sca4c5 S shifts right; the new lower price raises purchases.
+1okrm172c9f Rebuild a positive demand shock.
+17akqsrra4e More desired purchases at a given price
+1qqf367ba79 Excess demand at the old price
+26bfnptq8hg Price rise
+1n8y9g1pi5p Rise in the quantity supplied along S
+h1dkmwrv49 New market: QD = 18 − 2p; QS = p − 3. Compute p*.
+xccld2jbvf With pD = 24 − 2Q and pS = 6 + Q, compute Q*.
+cipmf62nqa D left and S right, sizes unknown: certain conclusion?
+14gk7j9o1fn Q falls and p is ambiguous
+flpjby3fqb That is the other sign combination. Redo each shock separately.
+1yziyp7961o The price falls; Q is ambiguous
+8uqdizazt1 Both forces lower p, but one reduces Q and the other increases it.
+1okzzhzy299 Two demands q1 = max(0, 8 − p) and q2 = max(0, 3 − p). At p = 5, what total?
+1ilzxny3f99 3 + 0 = 3; the second demand is truncated at zero.
+26ugwmfqrth Which EN sentence correctly describes a rise in the own price?
+1cj31b1l6f9 A determinant other than the own price is missing.
+1qpcncf96v5 Quantity demanded falls along an unchanged demand curve.
+26e7vw7jo42 The relationship is kept; the point moves.
+1sd4j98mn2a Supply falls at a given price
+ad2ghnnw18 Shortage raises price
+27647lrhp8e I distinguish a purchase plan from a sales plan.
+18ln680on30 I name the actors and what they take as given.
+iq0aq7nfxe I find and check p* and Q*.
+28uxlrll7ld I set QD equal to QS, then plug the solution into both relationships.
+24fspvr55ol I separate a shift from a movement.
+1k5tcjr75kj I ask "at the same price, would people want more or less?".
+1adh626iw9c I can explain a shortage and unsold units.
+nwahru1cv8 I deduce a price pressure from incompatible decisions.
+235seppcwmz I don't sign an ambiguous variable.
+y2b2w1llt6 I compare the effects of the two shocks separately, and their size.
+1hu7i8m2w82 I respect domains and units.
+25lh9r3gly2 I truncate negative demands and keep the same market in all relationships.
+r92ea4olki Consumer — choose what your budget allows
+26ytlr578c0 Preferences, trade-off and constraint
+ueg3u6faq3 A bundle can please you more without being affordable. You will make your budget speak, discover what MRS means, then know when a tangency, a corner or a kink decides.
+2bt4ggftts You, the consumer
+23eewen9xf5 split 1,200 between L and R
+lmziav1uxc the affordable bundle you prefer
+1fdq7885815 The sellers
+p1flxfkjer post pL = 40 and pR = 120
+14iawz26wvi to be paid for the quantities bought
+xcqjli061p distinguish ranking from feasibility
+a3w5ank1tq find the choice without reciting a tangency at random
+vu6i8ubfxj What you want and what you can afford are two questions
+1g0674fhxcr You have 1,200 to spend on two goods L and R. The first costs 40 and the second 120. You may prefer a very generous bundle, but that preference does not pay for it: start by checking what you can afford.
+1bfxavf0gya The consumer maximises preferences subject to pL·L + pR·R ≤ I. The objective and the constraint play different roles.
+1fz9s2trpaf Preferences rank bundles, including those that exceed the budget.
+1u2v9aiph9s The budget rules out impossible bundles before the final comparison.
+1t17f7tm0lk So optimising under a constraint does not mean picking the highest numerical utility from a list without checking its cost.
+78t0ihb4hk A2: (L,R) = (20,4) gives U = 80 but costs 40×20 + 120×4 = 1,280. (15,5) gives U = 75 and costs 1,200: the second is affordable, the first is not.
+cdp81500l4 You may prefer a more powerful computer, but you cannot add the missing 80 to your budget just because its score is better.
+1lzrot934qd A2: your budget versus your preferences
+ka0pbj3oiy R, units of R
+13ur5jcjode L, units of L
+hy9so19tw2 R horizontal, L vertical. Exact budget L = 30 − 3R. The indifference curve U = LR = 75 is shown by exact points joined for readability; the segments are a visual approximation of the hyperbola.
+vf4nfg1nwd Budget: L = 30 − 3R
+11chbxci6nd Bundles costing exactly 1,200 with pL = 40 and pR = 120.
+7ygdgpwn31 Indifference U = 75
+2415xcwhj1f Each point gives LR = 75. The tangency is (R,L) = (5,15).
+2fajlengas9 Optimum: R = 5, L = 15
+1kphu8topnl Costs 1,280: unaffordable
+20g4n8c03gq How much does (L,R) = (20,4) cost?
+153hrhzkki2 Is the bundle (20,4) available with I = 1,200?
+1i6ryi39n9f Yes, because U = 80 exceeds U = 75
+103iwgd1d98 A preference does not make a bundle affordable.
+uys85x5o4p No, even though it gives more utility
+1x1k06xdct6 It exceeds the constraint by 80.
+12zz6aefodk Utility is a ranking, not a happiness thermometer
+1a0din8fvat The model U = LR gives each bundle a number to represent your preferences. Saying U = 80 rather than 40 means the first bundle is preferred; it does not measure twice as much happiness. A transformation that keeps the order of bundles represents the same choices.
+25kh6wgil4t Utility is ordinal. For positive L,R, U = LR and V = √(LR) rank bundles in the same order.
+1ye8hmpdxj0 Choice needs an order between bundles, not a universal unit of happiness.
+9naou16ibt The square root is increasing: if LR is larger, so is its root.
+115dqci5vpj Levels and derivatives change, but the consistent trade-off and the optimal bundle stay the same.
+123r3w6ekik Bundles (15,5) and (24,2): U = 75 and 48; V ≈ 8.66 and 6.93. The ranking is identical despite different numerical gaps.
+s3q4ps7mtl Your app can change the score from 75 to 8.66 without changing the bundle you would choose.
+vmdrcgl96q U(A) = 80 and U(B) = 40 let you say…
+1tgyewpsncu A brings exactly twice as much happiness
+w4rrpohibh That ratio disappears under an increasing transformation that is nonetheless equivalent.
+251nrdzpj1f A is preferred to B according to these preferences
+23y9p8ia0ao The score ranks bundles; it does not measure a happiness ratio.
+1tb6l2wv76w Read the intercepts before calculating a slope
+1v738ym118u If you spend all your money on L, you can buy 30. If you take only R, you can buy 10. Between these extremes, buying one more R forces you to give up three L: that is the trade-off the market offers.
+126y4xd6qq8 With R horizontal and L vertical: 40L + 120R = 1,200 ⇒ L = 30 − 3R. Slope = −pR/pL = −3.
+1t1oomdlsic One R costs 120 and one L costs 40. How many L must you give up to pay for one more R?
+15asaoq5qw9 120/40 = 3. That is why the price ratio is the slope in absolute value.
+16hhtziw1ml That would be the cost of one L expressed in R; your axes are the other way round.
+1m1f8xh2nxk 120 is money per R, not a number of L. Divide by the price of one L.
+w26x2un00k The intercepts buy a single good: so they are I divided by its price.
+2fyqkcctvjx The budget lets you swap 120 of spending on R for 120 of spending on L.
+m8loz2feod The number of L given up is 120/40; the negative sign reflects the fall in L.
+wn4s2qu460 Go from (L,R) = (18,4) to (15,5): −3 L and +1 R, cost unchanged at 1,200.
+25ksxf0k7r7 You add one R to the basket. To stay at the till with the same amount, you remove three L.
+exzsxalsj9 How many R if the whole budget of 1,200 goes to R at price 120?
+nn3pur8f3z R horizontal and L vertical: absolute value of the budget slope?
+20g0qgbch2d That ratio would fit L horizontal and R vertical.
+1bc75f424nt The numerator is the price of the horizontal good.
+rdol3jow8r The next item counts differently depending on what you already have
+16lxepuhim7 With U = LR, one more L is all the more useful the more R you already have to enjoy it with. Conversely, one more R is worth more when L is plentiful. The decision to adjust your bundle compares what each good adds at the margin.
+kkgmlbzuxc For U = LR: MU_L = R and MU_R = L. MU is the derivative of utility with respect to the good concerned.
+19kbao7yrzp If R is fixed, adding one L raises the product LR by R.
+20s1vvgr4v3 If L is fixed, adding one R raises LR by L.
+27oa3z3dzbk We compare local changes to know whether shifting a little spending improves the bundle.
+2aoob7n51b At (L,R) = (15,5), one more L with R fixed raises U by 5; one more R with L fixed raises U by 15. But the units cost 40 and 120: you still have to compare per euro.
+w74as5txct Don't choose R just because its MU is 15 against 5: one R costs three times as much.
+12qdd1ceco6 With U = LR at the bundle (L,R) = (15,5), what is MU_R?
+25e6qtz7xao The derivative with respect to R is L; here L = 15.
+hawjdgnmfn units of utility/R
+12jzaj459v5 Is MU_R > MU_L enough to put all spending into R?
+5tpayjz1gw Yes, the highest MU always decides
+4bx1gs9zy1 You are ignoring the cost of getting that unit.
+lt5k9vbps9 No: you must compare marginal utility per euro
+18q7qwh8a58 R can be more useful per unit and more expensive in the same proportion.
+291qqcq6lqr MRS: your voluntary trade, not the shop's
+1iqmn6g9jvf On the same indifference curve, you can lose a little L and gain a little R while staying just as satisfied. The amount of L you would be willing to give up for one extra R describes your personal trade-off. The shop offers another trade-off, set by its prices.
+19f0bw02ou9 With R horizontal: MRS_RL = MU_R/MU_L = L/R, absolute value of the indifference slope. The unit is L per R.
+2bo3f6xhs96 Keeping U constant requires MU_R·dR + MU_L·dL = 0.
+ijpgaybs1h So dL/dR = −MU_R/MU_L; the positive ratio measures the sacrifice you accept.
+obl7r4qltb If the sacrifice you accept exceeds the one the market demands, buying a little more R can improve your bundle.
+1g0jjnv69yi At the bundle (15,5), MRS_RL = 15/5 = 3 L per R. At the bundle (24,2), MRS = 12: you are willing to give up more L for R because R is relatively scarce for you.
+1k8z312shz You ask "how many L would I happily give up for a little more R?", then compare that number with the three L the prices demand.
+239nwfa4ho6 At (L,R) = (24,2), what is MRS_RL for U = LR?
+1jeen24nosy L per R
+1p008xl0w04 MRS measures…
+13jhxr096z2 The relative price, whatever your preference
+1b7nfsa6tnt That would be pR/pL. The two ratios only coincide at certain optima.
+1k75o2t61e8 Your trade-off at constant satisfaction
+2g9k3g5jzcl It comes from preferences; the price ratio comes from the market.
+1geich0mo2u Why the last euro must do the same job
+1p5zy86fzn4 If a euro spent on R adds more satisfaction than a euro spent on L, you can shift a little spending towards R. That improves your bundle without exceeding your budget. At a regular interior optimum, this small shift must no longer help in either direction.
+1rnb7yxacqc Interior optimum: MU_R/pR = MU_L/pL, i.e. MRS_RL = pR/pL. You must add the budget constraint and check the interior conditions.
+qsrk86h6g0 Which comparison prevents shifting one euro from improving the bundle?
+6mrsx11sle Yes: the same marginal gain for the last euro in both uses.
+lx0de6zzf1 That would compare units whose prices may differ.
+1qcn1o0jxxi Equal quantities are not equal gains per euro.
+25e15rnxiep The budget stays constant if you move a small amount from one good to the other.
+11s9zehwp41 If the gains per euro differ, this shift raises U: the bundle was not optimal.
+4886ceiqi1 The equality alone describes a set of bundles; the budget picks the one you can reach.
+1gsio1p733s At (15,5), MU_R/pR = 15/120 = 0.125 and MU_L/pL = 5/40 = 0.125. The last two euros do the same job.
+16cxdf8hocf You allocate an extra euro. At the optimum, neither aisle has a marginal advantage over the other.
+1ipqez6bof9 Rebuild the tangency condition with R horizontal.
+1y6cbs51wud Your sacrifice MU_R/MU_L must equal the sacrifice demanded, pR/pL.
+16vqr1pil0d Solve the A2 bundle, not just an equation
+5v5qqxxkl5 The tangency says L = 3R. The budget says the two goods together must cost 1,200. Combining the two gives a unique bundle; you can then check its cost and its utility.
+adx8dmgcvd U = LR: half the spending on each good. That does not mean half the units.
+gtgr2fc4yf With L = 3R, the budget becomes 40×3R + 120R = 1,200.
+22ephdhqsa5 So 240R = 1,200: R = 5 and L = 15.
+2fx8rqe2iae Both goods are desirable, the solution is positive, and U = LR gives a consistent interior optimum here.
+t57fdnq8o4 A2: R = 5, L = 15; spending 120×5 = 600 and 40×15 = 600; U = 75. The bundle (24,2) also costs 1,200 but U = 48.
+2facl648bfh You don't buy the same number of each good: you set aside the same amount for each because the exponents in U = LR are equal.
+1ez9a0xqo4m Affordable optimal bundle
+1j24obfyiiw Find R in 40(3R) + 120R = 1,200.
+1iyqt2650rm What utility does the optimal bundle (L,R) = (15,5) give?
+rmx6dzjbi7 utility
+1bzqf1gyiha R gets more expensive: what has really fallen?
+bwouilzwml The price of R goes from 120 to 150. You still have 1,200 in money, but that income buys less R. The budget pivots: all-L is still possible, all-R goes from ten to eight units.
+y7kiqbs6tx Nominal income I is unchanged. Purchasing power falls; budget slope −pR/pL = −3.75. New choice with U = LR: L = 15, R = 4.
+1k957eylwn7 The price of L and I do not change, so the intercept L = 30 stays fixed.

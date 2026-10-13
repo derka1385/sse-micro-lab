@@ -1,0 +1,107 @@
+======================================================================
+4. CONSUMER, PREFERENCES, BUDGET AND DEMAND — L3–L4
+======================================================================
+
+4.1 Preferences and utility
+Completeness: any two bundles can be ranked, indifference included.
+Transitivity: if A is preferred to B and B to C, A is preferred to C.
+Non-satiation / more-is-better: more of desirable goods is preferred.
+Ordinal utility: U ranks bundles; a utility of 100 does not mean
+twice as much happiness as a utility of 50. A strictly increasing
+transformation represents the same preferences.
+Example L3: U(E,F)=sqrt(EF), with E entertainment, F food.
+U=EF gives the same ranking for positive E,F; the numerical levels
+and the derivatives change, not the optimal choices.
+
+MU_x = partial derivative of U with respect to x: marginal utility of good x.
+Diminishing marginal utility: one more unit adds less and less
+utility, for a given quantity of the other good. Do not confuse this
+property with the ordinal nature of utility.
+
+Indifference curve: bundles giving the same U. Under usual preferences,
+it is downward sloping, convex to the origin, does not cross another curve
+of the same consumer; curves further north-east are preferred.
+Two desirable goods: a positive slope is incompatible with more-is-better.
+If tea is horizontal and coffee vertical, horizontal indifference curves: only
+coffee matters; tea gives no marginal utility (L3 p.10).
+
+4.2 MRS and budget: never swap the axes without adapting the ratios
+With x horizontal and y vertical, along an indifference curve:
+0=MU_x*dx+MU_y*dy ->dy/dx=-MU_x/MU_y.
+MRS_xy=MU_x/MU_y, absolute value of that slope: amount of y the
+consumer is willing to give up for one extra unit of x.
+In L3, F horizontal and E vertical: slope=-MU_F/MU_E.
+
+Budget p_x*x+p_y*y <= I; equality at the optimum if non-satiation and positive prices.
+y=I/p_y-(p_x/p_y)*x; intercepts x=I/p_x and y=I/p_y.
+Income rises: parallel outward shift, prices unchanged.
+Price of x rises: y-intercept unchanged, x-intercept falls, budget steeper.
+A price change reduces purchasing power; it does not necessarily change
+nominal income I.
+
+4.3 Interior optimum
+Max U(x,y) subject to the budget. At an interior tangency:
+MU_x/MU_y=p_x/p_y, i.e. MU_x/p_x=MU_y/p_y.
+Intuition: the last euro brings the same marginal utility in both
+uses. Otherwise moving a small amount of spending to the better use raises U.
+Use this condition TOGETHER WITH the budget, not instead of it.
+It assumes an interior solution and sufficiently
+regular preferences; compare corners and kinks when needed.
+
+Computational complement, Cobb-Douglas U=x^alpha*y^beta, alpha,beta>0:
+x*=alpha/(alpha+beta)*I/p_x; y*=beta/(alpha+beta)*I/p_y.
+Justification: MRS=(alpha/beta)*(y/x)=p_x/p_y, then the budget.
+For U=xy: half of income on each good, not half of the number of units.
+
+4.4 Perfect substitutes and complements
+Perfect substitutes U=ax+by: MRS=a/b constant; compare a/p_x with b/p_y.
+All on x if a/p_x>b/p_y; all on y if the reverse; any mix on the
+budget is optimal if equal. A unique tangency is not required.
+Example L4 p.10: 2 macchiatos equivalent to 1 cappuccino, same prices:
+buy only cappuccinos, more utility per euro.
+Perfect complements U=min(x/a,y/b): choose at the kink x/a=y/b,
+because unmatched units add nothing. Example left/right shoes.
+For a 1:1 pair: x=y=I/(p_x+p_y).
+
+4.5 Demand and income
+Recompute the optimum for each price of x, keeping I and the other prices
+constant; the pairs (p_x,x*) trace the individual demand.
+Engel curve: optimal quantity as a function of INCOME, prices constant.
+Normal good: quantity rises with I; inferior: falls with I.
+The same good can be normal at low income and inferior at high income
+(L4 example of hostel nights).
+Luxury good: income elasticity >1; normal necessity: between 0 and 1.
+These labels do not rank the intrinsic quality of the good.
+
+4.6 Substitution, income and compensation
+A price rise makes x relatively more expensive: substitution towards y.
+It also reduces purchasing power: income effect.
+L4 p.11–13: tax on petrol, then a lump-sum transfer just enough to
+reach the OLD indifference curve at the NEW prices. Utility can be
+maintained while petrol consumption falls through substitution.
+This transfer does not remove the new relative price.
+E2022 Q5: transfer allowing the OLD BUNDLE to be bought after removing
+a food subsidy. The old bundle remains affordable; with an
+old interior solution and a strictly convex indifference curve,
+re-choosing on the new budget usually gives higher utility.
+Old bundle affordable and old utility just reached are two
+distinct compensation criteria. The general guarantee is "no worse
+off"; strict improvement needs tangency/corner conditions.
+
+4.7 Market demand
+QD(p)=sum_i max(0,q_i(p)). HORIZONTAL summation at a given price.
+L4 p.19: q_H=10-p, q_L=5-p.
+QD=0 for p>=10; QD=10-p for 5<p<10; QD=15-2p for 0<=p<=5.
+The aggregate inverse demand has a kink; check the segment of any optimum.
+
+4.8 Behaviour, social preferences and limits
+L3: utility can include altruism, status, respect, pride and spite.
+Maximising utility is therefore not the same as maximising one's own consumption.
+Ultimatum game: a positive money offer may be rejected for fairness.
+Lack of self-control: immediate gratification against future interest.
+Heuristics: simple rules when optimisation is hard.
+Loss aversion: losses can weigh more than comparable gains.
+Framing: how a choice is presented affects the decision.
+Overconfidence: excessive confidence in one's abilities/information.
+Social preferences in A3: convert money payoffs into UTILITIES
+before looking for best responses.

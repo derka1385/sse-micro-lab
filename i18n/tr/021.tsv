@@ -1,0 +1,219 @@
+187lp75r5mv IC, IR, risk ve eşitlikleri ayrı ayrı ele almak.
+lezd37ioi5 Zayıf bir teşvik ne kesin çabayı ne de kabulü gerektirir.
+dh719osuil Bir çatışmayı bonus kelimesinden yola çıkarak varsaymak yerine kanıtlamak.
+2d9tgl777b6 E2020'nin rakamları yöneticinin ve sahibin seçimlerini uyumlu hale getirir.
+17ovhd91bm9 Oyunlar — o da seçim yapan birine karşı seçmek
+1stqtppif61 En iyi yanıtlar, dengeler ve güvenilirlik
+n7g35w8l73 Ödül havuzunu paylaşmak mı, almak mı? Silahlanmak mı, güvenmek mi? Seçimlerini her senaryoda karşılaştır, kayıtsızlıkları koru ve tam planı yeniden kur.
+vr42z4tub8 Rowena / X
+1zv02w2fqdt bir satır seçer ya da önce hareket eder
+havgwywhc6 kendi faydasını maksimize etmek
+1gmq5bvxcu2 Colin / Y
+9aiuhlnfmm bir sütun seçer ya da gözlemledikten sonra yanıt verir
+obkdu1bpfv kendi kazancını maksimize etmek
+wqc5gtn3t7 Analiz
+1n9pgtv7wue her oyuncunun seçimlerini ve kazançlarını ayrı tutar
+1dliqueit0q istikrarı ve etkinliği karıştırmadan belirlemek
+1vifqqnyb0k Seçiminin sonucunu tek başına sen belirlemezsin
+x0pbxj1gff Rowena ve Colin, her biri bir ödül havuzunu paylaşabilir ya da almayı deneyebilir. İkisi de paylaşırsa her biri 10 alır; yalnızca biri alırsa o 20, diğeri 0 alır. İkisi de alırsa 0 alırlar: seçiminin değeri diğerinin seçimine bağlıdır.
+1j0ldw7kvw6 Bir oyun oyuncuları, stratejilerini, bilgilerini ve kazançlarını tanımlar. Eşzamanlı bir oyunda herkes diğerinin mevcut eylemini gözlemlemeden seçer.
+edkhm8qdrj Bir eylemin sabit bir kazancı yoktur: paylaşmak Colin'e göre 10 ya da 0 verebilir.
+1g7suld45pe Ne yapacağını bilmek için Rowena, tablodaki en büyük hücreyi seçmek yerine, eylemlerini rakibin her senaryosunda karşılaştırmalıdır.
+1y1g7wezu0u Paylaşmaya karşı paylaşmak 10 verir; paylaşmaya karşı almak 20 verir. Aynı rakip, karşılaştırılacak iki özel seçim.
+2dpnxxre0hg Rowena'sın: önce Colin'in paylaştığını hayal et, sonra tam bu senaryoda hangi seçimin sana en çok kazandırdığını sor.
+9qi3p8kwun Golden Balls: parasal kazançlar
+dup59hasxc Bu assignment'ta S=Split, N=Steal. İlk sayı: Rowena (satır), ikinci: Colin (sütun). Parasal kazançlar; izleyen sorularda yalnızca saf Nash.
+z5lckyzhuv Rowena
+20mnhbdjivw Colin
+1hmntqyoz3o S: paylaşmak
+1s3uuibln69 N: almak
+18fv6pj7i6p Bu neden stratejik bir sorundur?
+m2s9v0jlz5 Kazancın diğerinin eylemine de bağlıdır
+16lb37npx99 Onun seçimini öngörmeli ya da akıl yürütmeni ona göre koşullandırmalısın.
+2fpxm1h0svp Çünkü en büyük sayı mutlaka senin seçimindir
+2b1blkkf5dq Bir hücre iki seçimden oluşan bir profil verir; diğerininkini doğrudan kontrol etmezsin.
+1o0qenrvqc7 Çünkü herkes iki seçime de karar verebilir
+186jhmp9znr Her oyuncu yalnızca kendi stratejisini kontrol eder.
+3qi380qwdq İlk sayı her zaman ilgilendiğin oyuncuya ait değildir
+wwi85f4oyc Her hücrede iki kişi kazanç alır. İlk sayı satır oyuncusu Rowena'ya, ikincisi sütun oyuncusu Colin'e aittir. Bu sayıları yer değiştirirsen, birine diğerinin kazancıyla karar verdirmiş olursun.
+26rpipo1oo9 Tablo kuralı: (u_satır,u_sütun). Maliyetleri çıkarırken ya da parayı faydaya çevirirken her zaman aynı sırayı koru.
+1bfepurwgnt Tablo aynı hücrelerde iki tercih sıralamasını kodlar.
+1nlpkdaxzpz Bir oyuncunun en iyi yanıtı yalnızca kendi sıralamasına bağlıdır, toplamaya ya da rakibin kazancına değil.
+1w88c3pco20 Hücre Rowena S, Colin N: (0,20). Rowena 0, Colin 20 alır. Bu "Colin ilk sayıyı seçer" demek değildir.
+4snx6xa70x Eylemlerini karşılaştırırken rakibinin sayısını kapat: böylece kendi sorunun yerine onunkini çözmekten kaçınırsın.
+pwvxk50ph2 (S,N)=(0,20) hücresinde Colin hangi kazancı alır?
+2br0cs60oyf Colin sütun oyuncusudur: kazancı ikinci sayıdır.
+1mhu5iyos64 0, satır oyuncusu Rowena'nın kazancıdır.
+1sdh9dn0c31 Sütunu sabitle, sonra Rowena'ya seçtir
+2ebkqll3chr Colin'in paylaştığını varsay. Rowena paylaşırsa 10'u, alırsa 20'yi karşılaştırır, bu yüzden alır. Şimdi Colin'in aldığını varsay: Rowena her iki durumda da 0 alır, dolayısıyla iki seçim de onun en iyi yanıtlarıdır.
+21gogxrsx2i BR_i = best response: verilen bir rakip eylemine karşı özel kazancı maksimize eden eylem. Kayıtsızlık olduğunda en iyi yanıt bir küme olabilir.
+93s2lubxm2 Karşılaştırma sırasında Colin'in seçimi sabit kalır: aksi halde tek taraflı bir sapma ölçülmez.
+11e7423d68k Eşit bir kazanç bir eylemi elemeye izin vermez; eşitlikte de optimal kalır.
+175jomob8zb BR_Rowena(S)={N}. BR_Rowena(N)={S,N}. Bütün alternatifler de sıfır veriyorsa sıfır, en iyi yanıtı engellemez.
+21lvr45tccj Sabit bir sütunda yalnızca kendi satırını değiştirirsin. Kazancının maksimumuna ulaşan bütün hücreleri daire içine al.
+2bglpkx2qr0 Colin N'ye karşı Rowena'nın en iyi yanıtları nelerdir?
+1u2za4lqnuh Yalnızca N
+20ycvis4nws S de 0 verir; kayıtsızlık iki eylemi de korur.
+rpialj25c4 İkisi de bu sütunda onun 0 kazancını maksimize eder.
+1ngdv2666j4 Hiçbir eylem
+2em52tfbbaw Kazanç sıfır olsa bile bir maksimum vardır.
+hz4lnw1jtq Şimdi satırı sabitle, sonra Colin'e seçtir
+asvsdi0ilv Rowena'nın paylaştığını varsay: Colin paylaşınca 10'u, alınca 20'yi karşılaştırır, bu yüzden alır. Rowena alırsa, Colin her iki sütunda da 0 alır. Sorun simetriktir, ama çözmek için ikinci sayıları kullanmalısın.
+211wz233q3j BR_Colin(S)={N}, BR_Colin(N)={S,N}. Sütun oyuncusunun en iyi yanıtları satır sabitken yatay olarak aranır.
+1mxt250761n İki seçimi birden değiştirmek, belirli bir rakibe karşı en iyi özel seçimi değil, bir koordinasyonu test eder.
+1gr3s69vsoi Simetri kazançlardan kontrol edilmelidir; eylemlerin adları bunu garanti etmez.
+1gw1rshhp34 S'ye karşı Colin'in S'den N'ye geçmekten elde ettiği özel kazanç 20−10=10'dur.
+x418vdhalo Colin'sin: sapman, Rowena'nın seçtiği satırı kaydırmadan bir sütundan diğerine geçer.
+1t4x7z24ktd Rowena S'ye karşı Colin S'den N'ye geçerek ne kadar fazla kazanır?
+dl44vungkh Colin ikinci kazançları karşılaştırır: 20−10=10.
+12zgz3u4mfs 20 onun yeni kazancıdır, başlangıçtaki 10'a göre artış değil.
+1yostz6dkf5 Nash, hiçbir oyuncunun kazancını tek başına artıramadığı bir hücredir
+2614at9ge4c Herkesin zaten diğerine en iyi yanıt verdiği bir hücreye bak. O zaman tek başına değiştirmek kesin bir kazanç getirmez. Bencil Golden Balls'ta (S,N), (N,S) ve (N,N) bu testi geçer, bazı oyuncular kayıtsız olsa bile.
+1kre6i409kv Saf Nash: her eylem diğerine en iyi yanıttır. Ne bir işbirliği vaadi ne de kolektif bir optimumdur.
+1m2t3qes2n0 Bir Nash dengesini hangi test tanımlar?
+gihgvfj508 Hiçbir oyuncu tek başına değiştirerek kazancını artıramaz
+1q43pdhnwx6 Herkes diğerinin seçimine yanıt verir; kesin kazanç getirmeyen bir sapma Nash'i bozmaz.
+1vw35xvfaml Kazançların toplamı maksimumdur
+1rvw76nluaf Bu, bireysel istikrarı değil kolektif etkinliği test eder.
+12i4hrlmokg (S,N)'de Rowena da alabilir ama 0'da kalır; Colin paylaşarak kaybeder.
+tc68f76zv2 (S,S)'de herkes tek başına alarak 10 daha fazla kazanır: dolayısıyla hücre, kolektif cazibesine rağmen Nash değildir.
+24z3wqf8ogk (N,N) Nash'tir: tek başına S'ye geçmek kazancı 0'da tutar. Yalnızca iki kişi birlikte elde edilebilen bir iyileşme tek taraflı bir sapma değildir.
+2f367no9hac Her oyuncu için sor: "Diğeri kıpırdamazsa kesin olarak daha iyisini yapabilir miyim?".
+1fzbphkxbtr Hangi liste bencil Golden Balls'un saf Nash dengelerini tam olarak içerir?
+s05s04kp3t En iyi yanıtlar N'ye karşı kayıtsızlıkları içerir.
+1oqzj8bg8li Yalnızca (N,N)
+26s0w2dyw1i Asimetrik profillerdeki eşitlik durumundaki en iyi yanıtları unuttun.
+zj7j0lqn3z (S,S)'de tek başına almak kazancı 10'dan 20'ye çıkarır.
+14zwru6031r Zayıf baskın, kesin baskın değildir
+bqafewirnb Paylaşan birine karşı almak 10 yerine 20 verir. Alan birine karşı almak, paylaşmakla aynı sıfırı verir. Almak hiçbir zaman daha kötü değildir ve bazen daha iyidir; her durumda daha iyi değildir.
+1fqhlo03voj N zayıf baskındır: her rakip eylemine karşı en az o kadar iyi, bazılarına karşı kesin olarak daha iyi. Kesin baskın bir strateji hepsine karşı kesin olarak daha iyi olurdu.
+p5j7vlsxdl Ayrım eşitsizliklerle ilgilidir, ayartmanın psikolojik gücüyle değil.
+x9ralilhkn Kayıtsızlık, (N,N) dışındaki profillerin neden Nash olabileceğini açıklar.
+2c6xjbb0cwx S'ye karşı: 20>10. N'ye karşı: 0=0. Kesin baskınlıktan söz etmek için kesin bir eşitsizlik eksik.
+1mtw46fthn1 Bir eylemi daha doğal bulduğun için eşittir işaretlerini silme: bunlar ekonomik bilgidir.
+16plbnsi1a9 N neden kesin baskın değildir?
+f7qo44v3ly N'ye karşı S ile aynı kazancı verir
+xpplt6rue6 0=0: bu eşitlik kesin baskınlığı dışlar.
+9yrnj1j7qr Her zaman S'den daha az verir
+11ztj92qs17 S'ye karşı 10 yerine 20 verir.
+1oe6dap1g3x Hiçbir zaman bir Nash'e ait olamaz
+15gfkv0r7t Zayıf baskın bir strateji birden çok Nash dengesine ait olabilir.
+9cxlen7s77 Bireysel olarak istikrarlı olan ikisi için de kötü olabilir
+uyxpo946ki (N,N)'de Rowena ve Colin 0 alır. Birlikte paylaşarak ikisi de 10 alabilirdi. Ama diğeri almaya devam ederse, tek başına paylaşmak kazancını artırmaz: daha iyi bir kolektif sonucun mümkün olması onu istikrarlı kılmaya yetmez.
+vmp157inw (S,S), (N,N)'yi Pareto anlamında domine eder, ama bencil oyunda Nash değildir. Etkinlik ve denge farklı soruları yanıtlar.
+zhoae1xfq Pareto iki dağılımı karşılaştırır: kimse kaybetmez ve en az biri kazanır.
+cpwfwn4d5x Nash, diğer seçimleri sabit tutarak tek bir kişinin sapmalarını karşılaştırır.
+1sbzdcggv3g NN'de toplam=0; SS'de toplam=20. Yine de S'ye karşı almak, paylaşmanın 10'una karşı 20 getirir.
+q077k1uorj Rakibine bir koordinasyon öneriyorsun. Sonra, senin seçimin belliyken plana uymanın hâlâ onun çıkarına olup olmadığını kontrol et.
+23v0wgxg52y Kazançların toplamını maksimize eden bir hücre otomatik olarak Nash midir?
+12egl825zqa Hayır: herkes hâlâ tek başına saparak kazanabilir
+mxjwb9vhx5 En iyi yanıtlar bireysel olarak test edilmelidir.
+21ynqca4xq6 Evet: kolektif kazanç her sapmayı engeller
+289bnh8zw7l Kolektif, her bencil oyuncunun amaç fonksiyonu değildir.
+1wqir33jl1u Geride kalmak seni rahatsız ediyorsa, bir sıfır artık aynı sıfır değildir
+2aakfpli5jz Diğeri daha fazla para aldığında faydandan 1 çıkardığını varsay. 20 alan birine karşı 0 almak −1 olur, 0'a karşı 0 almak ise 0 kalır. Asimetrik dengeleri destekleyen kayıtsızlık ortadan kalkar.
+8xdryosunb Kıskançlıkla: SS(10,10), SN(−1,20), NS(20,−1), NN(0,0). N kesin baskın olur; tek saf Nash NN.
+186049tkelo Seçimler, yalnızca parayı değil, tercihlere göre faydayı maksimize eder.
+8o23hemcrl N'ye karşı N'yi seçmek 0>−1 değerindedir; S'ye karşı N 20>10 değerindedir. İki karşılaştırma da artık kesindir.
+gka1pzkvmn SN profilinde Rowena N'ye sapar: faydası −1'den 0'a çıkar. SN artık Nash değildir.
+vaq6y71gpp Ödül havuzundaki hiçbir tutarı değiştirmiyorsun: bu tutarların senin için ne ifade ettiğini değiştiriyorsun.
+8sjzk8niwq Kıskançlıklı SN profilinde Rowena N'ye geçerek faydasını ne kadar artırır?
+9xcrnipja9 fayda birimi
+2gbgh5b0wbs −1'den 0'a çıkar: 1'lik artış.
+plpdw72j3i Eski çözümün tuzağına dikkat: NN artık Nash değil
+18kf3gy7wtc Artık diğerinin parasına kendi paran kadar değer veriyorsun. En az biri paylaşır paylaşmaz ödül havuzundaki 20 dağıtılır ve herkes 20 fayda elde eder. (N,N)'de tek başına paylaşmak, diğerinin aldığı para sayesinde faydanı 0'dan 20'ye çıkarır.
+2c5mbbw1877 Eşit özgecilik: u_i=m_i+m_j. Saf Nash SS,SN,NS; NN Nash değildir. A3.1 c'de belirtilen kişisel cevap "SS ve NN" yanlıştır.
+1nv59wuooy SS'de N'ye sapmak faydayı 20'de bırakır: kesin kazanç yok, dolayısıyla SS Nash'tir.
+hvs2f17onn NN'de S'ye sapmak diğeri için 20 yaratır ve sapan oyuncu buna kendisi de değer verir: kesin olarak kazanır.
+10rznm7zhr2 SN: Rowena'nın faydası 0+20=20 ve Colin'in 20+0=20. NN: 0+0=0. Aynı para başka bir fayda matrisi üretir.
+2ft6i9sbata NN'yi tek bir somut sapmayla düzelt; yeniden kuramayacağın bir denge listesini ezberleme.
+1i2et0eufit Aynı para miktarları, yeni faydalar
+v13q4ihwv Fayda u_i=para_i+para_j. Gösterilen sayılar faydadır, paranın yeni bir paylaşımı değil. İlk sayı: Rowena, ikinci: Colin.
+27eg9ygmayh u_i=m_i+m_j ile saf Nash dengeleri tam olarak nelerdir?
+prllhf2f56 Bütün bu hücreler 20 verir; NN'de tek başına paylaşmak 0'ı 20'ye çıkarır.
+20frwg1vs1w Kişisel çözümün hatası tam olarak bu: NN kârlı bir sapmaya izin verir.
+lgsx4d2olf Yalnızca NN
+2fvrznq6mzj Faydaları yeniden hesaplamak yerine bencil tercihleri korudun.
+1nb3els1hv9 Diğerinin parası iki kat sayılınca paylaşmak kesin baskın olur
+cxna0sn6es Şimdi diğerine giden bir euroya faydanda iki euro kadar değer verdiğini varsay. Diğeri paylaşırsa, paylaşmak almanın 20'sine karşı 30 verir. O alırsa, paylaşmak 0'a karşı 40 verir: paylaşmak her senaryoda daha iyi olur.
+1rsuv2hhjyg u_i=m_i+2 m_j: SS(30,30), SN(40,20), NS(20,40), NN(0,0). S kesin baskın; tek Nash SS.
+56or28vhww S'ye karşı 10 tutup 10 vermek 10+2×10=30 değerindedir; hepsini almak 20 değerindedir.
+8dwhlig9fv N'ye karşı paylaşmak diğerine 20 verir, değeri 40; almak her şeyi yok eder ve değeri 0'dır.
+axla3kgvhm SN'de Rowena'nın parası 0 ama faydası 40'tır. Bir matrisin para mı fayda mı gösterdiği belirtilmelidir.
+11nbgzeh6wv Cüzdanına gireni, sonuca biçtiğin değerden ayırırsın.
+15uajkagage Rowena paylaşır, Colin 20 alır; u_R=m_R+2 m_C ile Rowena'nın faydası nedir?
+kr3cephp65 0 onun aldığı paradır; faydası Colin'in kazancını da sayar.
+10qs8l2sltj 20 eşit özgeciliğe karşılık gelir, 2 ağırlığına değil.
+u9rsnkewym İki Nash hangisinin oynanacağını söylemez
+1x8whzqyvk8 İki ülke birlikte barış içinde olmayı tercih eder: her biri 9 alır. Ama diğeri savaşa hazırlanıyorsa, savaşla yanıt vermek 0 yerine 7 verir. Dolayısıyla ortak barış da ortak savaş da istikrarlıdır, barış her biri için daha iyi olsa bile.
+np82o00w82 A3 koordinasyon oyunu: saf Nash (barış,barış) ve (savaş,savaş). Matris tek başına eşzamanlı tek bir denge seçmez.
+5vgl7sq2pj Barışa karşı: barış 9>savaş 8. Savaşa karşı: savaş 7>barış 0.
+m5prqo5zqk Diğerinin yanıtına dair inançlar bir sonucu makul kılabilir; bağlayıcı olmayan bir duyuru kazançları otomatik olarak değiştirmez.
+1qtrblbje34 Savaş/savaş'tan barış/barış'a geçmek her birine 2 kazandırır, ama savaşa karşı tek taraflı bir geçiş 7 kaybettirir.
+9xk5hy3il9 Barışta koordine olmak istiyorsun: diğerini yanıtına ikna etmek önemli olabilir, ama onun teşviklerini gerçekten değiştirip değiştirmediğini kontrol et.
+1860mfs1jzd Barış/savaş koordinasyonu
+3fs93sdhyd İlk kazanç: X, satır oyuncusu; ikinci: Y, sütun oyuncusu. İki saf denge barış/barış ve savaş/savaş'tır.
+2384s7d3ze7 Barış
+87f6a55m7l Savaş
+1w0gmra09xf Yalnızca eşzamanlı kazançlar hangi sonucu haklı çıkarır?
+5dclnzb8ls İki saf Nash; matrisin dayattığı tek bir seçim yok
+1uikdb7uv42 İki köşegen de karşılıklı en iyi yanıtlardır.
+7wqluzitf4 9>7 olduğu için mutlaka barış oynanır
+2lmuf8rleu Bu iki koordinasyonu karşılaştırır; özel seçim diğerinin beklenen seçimine bağlıdır.
+1vjsm9ae4qt Savaş kesin baskındır
+sogty5r6bj Barışa karşı barış 8'e karşı 9 getirir.
+xqehnlgbnf Biri harekete geçmeden önce gözlemliyorsa, sondan başla
+oerhiw1qrn Koordinasyon oyununda X önce hareket eder, Y gözlemler. X barışı seçerse, Y barış 9'u savaş 8'e tercih eder; X savaşı seçerse, Y savaş 7'yi barış 0'a tercih eder. Dolayısıyla X barışı seçerek 9'u, savaşı seçerek 7'yi öngörür.
+1zp5qev5xh5 Geriye doğru tümevarım: takipçinin her alt oyundaki optimal seçimlerini çöz, sonra başlangıç düğümünde seç. Burada sonuç barış/barış'tır.
+1cijfksj9dl İlk oyuncu, diğerinin eylemini yapay olarak sabit tutmak yerine fiili yanıtı öngörmelidir.
+1xqddmmltga Gözlemlenebilir bir karara geçmek oyunu değiştirir; eşzamanlı oyunun Nash dengeleri olduğu gibi kopyalanmaz.
+xt1nssz682 Y'nin tepkisi: barıştan sonra barış, savaştan sonra savaş. X teşvik edilen sonuçları 9 ve 7'yi karşılaştırır, dolayısıyla barış.
+1zeqlw8669b X'sin: oynamadan önce Y'nin iki olası gelecek yanıtını doldur, sonunda ulaşılmayacak olanı bile.
+1o7h39f538 Sıralı koordinasyon
+255ehnhmj4g Y, X'i gözlemler; kazançlar A3 matrisindeki gibi.
+10cgws0hy9y Barıştan sonra Y
+2bno703pwad 9'u 8 ile karşılaştırır
+1oiiibzvoga Barışı seçer.
+1gcjnsnbptk Savaştan sonra Y
+10yp9x1hor7 7'yi 0 ile karşılaştırır
+6wit8mb8lo Savaşı seçer.
+dvi9cll3dh Başlangıçta X
+rl97lf8zur İki yanıtı da öngörür
+1dn5zonq5gu 9>7 olduğu için barışı seçer.
+1k8bw3d1yj3 İki aşamalı sıralı bir oyun hangi sırayla çözülür?
+1cm6p53h520 Son kazançları ve bilgiyi tanımlamak
+17hsj6yhvjj Her olası eylemden sonra takipçinin en iyi yanıtını seçmek
+1740ld0xgzf Bu sonuçları liderin seçimine aktarmak
+k67akyr3np Tam stratejiyi ve elde edilen sonucu belirtmek
+et6vjk0fsd Karşılaştırmadan önce silah maliyetlerini çıkar
+1lx50gfpel X ve Y ülkeleri altı birim petrolü paylaşır. Silahlanmak X'e 1'e, Y'ye 3'e mal olur; tek silahlı ülke petrolden 5 alır, diğeri 1. İkisi de silahlanırsa petrol yok olur ama maliyetler ödenmiş olarak kalır: büyük bir brüt pay henüz net bir kazanç değildir.
+1x3h67ykoox Net kazançlar (X,Y): kimse silahlı değil (3,3), yalnızca X (4,1), yalnızca Y (1,2), ikisi de (−1,−3).
+1lo1bv4m76p Tek silahlı Y 5 alır ama 3 harcar, dolayısıyla kazancı 2; silahsız X 1 alır, 2 değil.
+1vnh5e7906z Diğerinin kazancını kendi maliyetinle karıştırmak, yanlış bir akıl yürütmeyle iyi bir sonuç üretebilir.
+123dhqqy6l7 Yalnızca X: X için 5−1=4, Y için 1. İkisi de silahlı: X için 0−1=−1 ve Y için 0−3=−3.
+aowtt3m8eo Y'sin: seçeneklerini incelemeden önce her petrol gelirini 3 maliyetinle net kazanca çevir.
+1o5fy0v5pv Silahlar ve petrol: net kazançlar
+1p22d4e3418 Havuz 6; silahlanma maliyeti X1, Y3. Tek silahlı olan maliyetten önce 5 alır, diğeri 1; kimse silahlı değilse 3/3 paylaşılır; ikisi de silahlıysa petrolü kaybederler. İlk kazanç X, ikinci Y.
+1fuvda6yn8 X (maliyet 1)
+wvjk7omtrb Y (maliyet 3)
+2agxro88rqr Silahsız
+1qxcoa0k2o0 Silahlı
+2g7wow28kz5 Yalnızca Y silahlıysa, Y hangi net kazancı alır?
+6ev7e5ldhc 5 petrol alır ve 3 öder: 5−3=2. Silahsız X 1 alır.
+1z5qjc07qpc 5, maliyetten önceki brüt gelirdir.
+27hglkbciuv 1, silahsız X'in kazancıdır, Y'ninki değil.
+k068zd9d2t Bir strateji, oynanan yolun dışında ne yapacağını da söyler
+14ptqiyj6h9 Silah oyununda X önce oynar. X silahlandıktan sonra Y silahsız kalmayı tercih eder: 1>−3. X silahsız kaldıktan sonra da Y silahsız kalmayı tercih eder: 3>2. X o halde silahlanarak 4'ü, aksi halde 3'ü öngörür; ama yalnızca "X silahlanır" yazmak Y'nin bütün planını unutmaktır.
+153cftrib23 SPNE = subgame perfect Nash equilibrium (alt oyun yetkin Nash dengesi). Takipçinin stratejisi, denge yolunun dışı dahil her olası düğümde bir eylem belirtir.
+1trknyfih76 Yol dışı tepki, başlangıç seçimini gerekçelendirmeyi sağlar: lider, dal değiştirse ne olacağını karşılaştırır.
+25apq3nwx0t Son bir sonuç kazançların bir dağılımıdır; tek başına tam bir strateji profili değildir.
+1i3s03jky51 Önce X: X silahlanır; Y, X'in hiçbir eyleminden sonra silahlanmaz; sonuç (4,1). Y'nin silahsız X'ten sonraki yanıtı yolun dışındadır ama vazgeçilmezdir.
+265b8q2jpp1 Y'nin planında iki kutu doldurursun: "X silahlıysa" ve "X silahsızsa". Boş bir kutu akıl yürütmeyi eksik bırakır.
+jsyicl12wa X önce oynadığında Y'nin tam optimal planı nedir?
+23eo137hj0p X silahlıysa VE X silahsızsa silahlanmamak
+1fou9bct6uv Y ilk dalda 1>−3'ü, ikincide 3>2'yi karşılaştırır.
+2c6b29irfkb Yalnızca oynanan dalda silahlanmamak
+21lmpz4co8p Bir stratejiyi belirtmek için gereken yol dışı bir karar eksik.
+pozjw5e84q 5>3 olduğu için X silahsızken silahlanmak
+1tk4elyvw7u 5 brüttür: 3 maliyetten sonra Y 2<3 elde eder.
+2e8metvgw2m Sırayı değiştirmek sonucu değiştirebilir — duyurmak yetmez

@@ -1,0 +1,207 @@
+urr9h5gslm Bir denge, iki koşulun da aynı çiftte sağlanmasını gerektirir.
+bfadtqwig9 İkisinin de kârını artıracak bir anlaşma, bireysel bir sapma karşısında istikrarlı olmayabilir.
+e1dt93goin p = 70 − Q ve MC = 10 ile q1 = q2 = 15, Q = 30 için ortak kârı maksimize eder; ama q2 = 15’te 1’in en iyi yanıtı 22,5’tir: gizli anlaşma çifti bir Cournot Nash dengesi değildir.
+bghrmyg5po Firma 1’sin: “hepimiz daha çok kazanır mıyız?” diye sorma, “tek başıma değiştirerek daha çok kazanabilir miyim?” diye sor.
+27os33z2rgk Nash’i test etmek için bir firma miktarını değiştirir…
+1la1dt4cm4g Ötekinin stratejisini sabit tutarak
+syjb90gyhy İncelenen çiftten tek taraflı bir sapma kontrol edilir.
+wldcv6tnyn Ötekine de yeni bir miktar dayatarak
+1exn4q1qp8x Bu tek taraflı bir sapma değil, ortak bir değişiklik olurdu.
+pxo3tvr6kx İkisinin toplam kârını maksimize etmek için
+1k789ogx1mq Her firma kendi kârını maksimize eder.
+87ntp4og4 Aynı eksenlerde iki en iyi yanıt
+sgnjea3lro q1: firma 1’in birimleri
+1jt51kwfuk q2: firma 2’nin birimleri
+1zn9mahf0vs p = 70 − q1 − q2, MC = 10. BR1: q1 = 30 − q2/2, yani bu eksenlerde q2 = 60 − 2 q1. BR2: q2 = 30 − q1/2. Nash (20,20); lider 1 (30,15) BR2 üzerinde, BR1 üzerinde değil.
+ua3wfq6zrr Yeniden yazılmış BR1: q2 = 60 − 2 q1
+1hput49hgi0 Her nokta, ele alınan q2 için 1’in en iyi miktarını verir.
+ex20j0fsac Her nokta, ele alınan q1 için 2’nin en iyi miktarını verir.
+dlo4uv1d59 Cournot Nash
+isz2xm0tst 1 lider
+thjf3gp20a Miktar en iyi yanıtını kurmak
+1wioenjbfqd Firma 1, rakibin yüksek üretiminin tüm piyasanın fiyatını düşürdüğünü bilir. Kendi miktarını toplama bağlı fiyattan satar ama yalnızca kendi maliyetlerini öder. Cournot en iyi yanıtı için bu karar sırasında q2’yi sabit kabul eder.
+2d3usb0nl72 p = 70 − q1 − q2; MC1 = 10; π1 = (60 − q1 − q2)q1. FOC: 60 − 2 q1 − q2 = 0; BR1 = max(0,30 − q2/2).
+28f7jeqtgfb q1’i artırmak bir satış ekler ama 1’in zaten sattığı birimlerin fiyatını düşürür.
+uzeu5nmiyy q2 fiyatı etkiler ama maliyeti 1’in kârında yer almaz.
+utzzgdlfxa Miktar 0’la sınırlıdır: negatif bir doğrusal tepki negatif üretimi değil, bir köşe çözümünü temsil eder.
+1ktf7uh29aq q2 = 10 ise BR1 = 25; q2 = 20 ise BR1 = 20. Daha aktif bir rakip 1’in en iyi hacmini düşürür: miktarlarda stratejik ikameler.
+lf8qnil0j2 1’i yönetiyorsun: toplam Q’yu 30 q1 maliyetine koyma; çalışanların 2’nin birimlerini üretmez.
+qrgz30bsxe BR1 = 30 − q2/2. q2 = 10 ise en iyi q1 miktarı nedir?
+1bl2xu4s3ft 20, q2 10 değil 20 olduğunda simetrik denge miktarıdır.
+280g399f7uy Firma 1’in kârını sabit MC c1 ve FC1 ile yeniden kur.
+13xjmrjeql0 Kendi satışlarındaki marj eksi kendi sabit maliyeti.
+dvn4r9cp4l 1’in Cournot maksimizasyonu sırasında q2 ile ne yapılır?
+2bl7m1m3kyc BR1(q2)’yi kurmak için sabit kabul edilir
+113r5i9l881 Tepki, q2’nin her olası değeri için en iyi q1’i gösterir.
+207h0njs852 q2 hemen takipçinin tepkisiyle değiştirilir
+1m39lge40b5 Bu, eşzamanlı Cournot değil, Stackelberg liderinin sıralı mantığı olurdu.
+1gwuvca6qlz Türev almadan önce q2 = q1 dayatılır
+ie7tkb9nmk Simetri sonra yardımcı olabilir ama her firma yalnızca kendi miktarını kontrol eder.
+h33d6jgseu İki tepki ama tek bir eksen kuralı
+dlrvg7h33j İki en iyi yanıtı aynı grafikte çizmek istiyorsun. Yatay eksen q1’i, dikey eksen q2’yi gösterir. 2’nin tepkisi zaten bu yönde yazılmıştır, ama 1’inkinin yüksekliği de q2’yi gösterecek şekilde yeniden düzenlenmesi gerekir.
+2eiixu6h4qd BR2: q2 = 30 − q1/2. BR1: q1 = 30 − q2/2, q2 = 60 − 2 q1 olarak yeniden yazılır. Aynı eğimi iki kez çizme.
+11a2ja757yv Bir denklem aynı ilişkiyi iki yazımla tarif edebilir.
+147tsrtmmfg BR1 yatay ekseni 30’da, dikey ekseni 60’ta keser; BR2 eksenleri 60 ve 30’da keser.
+1kxohrfj1m Kesişimleri, eşzamanlı olarak optimal iki seçimi verir.
+yt8jpkrp45 (20,20) noktasında iki denklem de sağlanır. (30,15) noktası BR2 üzerindedir ama BR1 üzerinde değildir: daha sonra Stackelberg’i ayırt etmek için yararlıdır.
+196e0x2ou Çizmeye başlamadan, eksen kesişimlerini yerleştirmeden önce “yatay q1, dikey q2” diye yüksek sesle söyle.
+hwo4vn2n6e Eksenler q1 yatay, q2 dikey: q1 = 0 iken yeniden yazılmış BR1 doğrusu hangi yüksekliği verir?
+2fgwrmgzorr 30, BR1’in yatay kesişimidir, q1 = 0’daki yüksekliği değil.
+1cyp2u785nn Kesişimi çözmek, sonra fiyatı ve kârları
+ff10rqqm9c Burada iki firmanın maliyetleri ve olanakları aynıdır. Kesişimde her biri 20 üretir ve hiçbiri tek başına değiştirmek istemez. Piyasada 40 birim vardır; fiyatı bu toplam belirler, her firmanın kârı ise yalnızca kendi 20 birimini kullanır.
+a3di3llqlg q1 = q2 simetrisi, aynı model ve özdeş maliyetlerin bir sonucudur; her duopolün özelliği değildir.
+nc44g5f773 Fiyat q1+q2’ye bağlıdır; i’nin kârı qi’ye bağlıdır.
+pldfrqcfqe q2 = 20’de BR1 = 20: bireysel istikrar koşulu sağlanır.
+qfut55ohip Q = 40’ı π1 = (p−10)q1’e koymak 800 verirdi; bu, 1’in değil iki firmanın birlikte kârıdır.
+28em9bjfdrz Dört ayrı satır yazarsın: q1, q2, toplam Q, sonra p ve π1. Bu, firma ve piyasa düzeyini karıştırmanı önler.
+1npnt7tsx3t q1 = q2 = 20 ve p = 70−Q: hangi fiyat?
+jqj3op6eqi 50, öteki firmanın 20 birimini unutur.
+1kf6v1zvv61 p = 30, MC = 10, qi 20, FC = 0: her firmanın kârı?
+1bqo3myn7sq 800, toplam 40’ı tek bir firmanın kârında kullanır.
+vsjxf1rsq4 Farklı maliyetler farklı hacimler verir
+1osyb0cr17o Blue 0 maliyetle üretebilirken Red birim başına 10 öder. Blue’nun birim eklemeye daha çok ilgisi vardır; bu da fiyatı düşürür ve Red’in satışlarının bir kısmını caydırır. Daha az etkin rakip burada aktif kalır ama paylar artık eşit değildir.
+dlirkq70rn p = 70−Q, cBlue 0, cRed 10: qBlue = (70−2×0+10)/3 = 80/3; qRed = (70−2×10+0)/3 = 50/3; p = 80/3.
+x3vwfpekwe Tepki fonksiyonları ilgili firmanın maliyetiyle değişir.
+27ojid4hwbj Yeni denge, kendi yanıt fonksiyonu değişmemiş olsa bile rakibin uyumunu da içerir.
+l5tk5gfw2j İç çözüm qi<0 veriyorsa bir köşe çözümü bulmak ve öteki en iyi yanıtı kontrol etmek gerekir.
+19zpd2zlv53 Blue 26,667, Red 16,667. Başka bir durum: c1 = 10, c2 = 50, 2 için negatif bir iç formül verir; geçerli köşe çözümü q1 = 30, q2 = 0, p = 40≤c2’dir.
+18htbxlkke1 Büyük bir pazar payı görüyorsun: firmaların aynı miktarda üretmesi gerektiği sonucuna varmak yerine bunun düşük maliyetlerden gelip gelmediğini sor.
+cm8u0b5f8b p = 70−Q, cBlue 0, cRed 10: Blue’nun miktarı? 0,01’e yuvarla.
+1s40i5x5oc8 (70−2cBlue+cRed)/3=80/3.
+sl3zz1hb0y 20, eski simetrik maliyetleri dayatır.
+g9923kj8qv Bir iç formül negatif q2 veriyor. Ne yapmalı?
+13zt5klv958 q2 = 0 ile çözüp en iyi yanıtları kontrol etmek
+20zknoc72f0 İktisadi tanım kümesi negatif olmayan miktarlar gerektirir.
+24gseez4lil Negatif miktarı korumak
+8r04ovn42r Bir firma negatif miktar üretemez.
+1aze921td68 Yalnızca işareti mutlak değerle değiştirmek
+7lgqhiex5j Bu artık seçim koşullarını çözmez.
+16xoi7se3l Birim başına vergi iki tepkiyi de geriye iter
+n2yo14c1ev p = 70 − Q piyasasındaki iki firmayı yeniden ele al; her birinin birim maliyeti 10. Devlet artık her ikisinden de satılan birim başına 6 alıyor. Her firma için sonraki birim 16’ya mal olur: rakibin miktarı ne olursa olsun daha az üretmek işine gelir. İkisi de aynı şekilde düşündüğü için her biri ötekinin de satışlarını azalttığını görür; bu da ona biraz alan bırakır.
+i31zf65ho7 Etkin maliyet c = MC + t = 16. π1 = (70 − q1 − q2 − 16)q1 ⇒ BR1 = 30 − q2/2 yerine 27 − q2/2. İki tepki de orijine doğru kayar; simetrik Nash q = (70 − 16)/3 = 18, Q = 36, p = 34.
+5x65zjjtz8 Vergi birim başına bir maliyet gibi işler: rakibin miktarı ne olursa olsun her birimin marjını azaltır.
+gutbvtaok3 (q1, q2) düzleminde her tepki paralel olarak geriler: ötekinin her miktarı için 3 daha az üretilir.
+10wep0uook Fiyat 30’dan 34’e çıkar, yani 6’lık verginin 4’ü kadar: verginin bir kısmı iki firmanın marjlarından çıkar.
+5pg84kr2ez Vergisiz: her biri q = 20, p = 30, kâr 400. t = 6 ile: q = 18, p = 34, kâr (34 − 16) × 18 = 324; vergi geliri 6 × 36 = 216.
+1qdodfsggsx Firma 1’i yönetiyorsun: belirli bir q2’de öncekinden 3 birim daha az satarsın. Ama rakibin de aynısını yapar, bu da sana biraz daha talep bırakır: sonunda yalnızca 2 azaltırsın.
+1qfj0roxsxq Vergi 6, etkin maliyet 16, p = 70 − q1 − q2: q2 = 18 ise firma 1’in en iyi miktarı nedir?
+g6buq1ud1m 21, eski 30 − q2/2 tepkisini kullanır: vergi firmanın maliyetinin parçasıdır.
+1cj8xyf2i9x Vergili Nash: q1 = q2 = 18. Hangi fiyat?
+1rk12u2kynp 30 vergisiz fiyattır.
+247ot3nz4db 36 fiyat değil, toplam miktardır.
+q3dt0e4o40 Vergi (q1, q2) düzleminde tepkileri nasıl kaydırır?
+1huv8cwf6ax İkisi de paralel olarak orijine yaklaşır
+518sgk5t7d Rakibin her miktarı için her firma 3 daha az üretir: BR = 27 − qj/2.
+z2p9tflhut Yalnızca bir firmanın tepkisi hareket eder
+mc8nemgetp İki firma da vergiyi öder: iki tepki de hareket eder.
+28mmnwhkuct Fiyat yükseldiği için orijinden uzaklaşırlar
+13uw0r0wff2 Fiyat miktarlar düştüğü için yükselir, tersi değil.
+uwbhwagpo5 İki firmanın da ödediği birim başına 6’lık vergi
+2ee081axghk p = 70 − q1 − q2, MC = 10, sonra 6’lık vergi: etkin maliyet 16. Rakibin her miktarı için her tepki 3 geriler: BR = 27 − qj/2. Nash (20, 20)’den (18, 18)’e geçer. Bu, E2022 Q3e’de istenen şemadır.
+o2xg7fbrgn Vergisiz BR1: q2 = 60 − 2 q1
+6aarhxs8vm Her q2 için 1’in en iyi miktarı, maliyet 10.
+trpr4iw3xa Vergili BR1: q2 = 54 − 2 q1
+1ofqrp2s59m 16’lık maliyetle aynı akıl yürütme: her q2 için 3 birim daha az.
+1yxoezvlvky Vergisiz BR2: q2 = 30 − q1/2
+23j47npzz9i Her q1 için 2’nin en iyi miktarı, maliyet 10.
+o7w67qqmze Vergili BR2: q2 = 27 − q1/2
+233wbmi9i3p Firma 2 de vergiyi öder: tepkisi 3 geriler.
+19km7tb6bs8 Vergisiz Nash
+q6vuos3kpm Vergili Nash
+2cpss1bptex Sabit maliyetler hesapları, sonra muhtemelen girişi etkiler
+q47pv23qfq Bir firma rakibinden daha yüksek kira öder. Bu ödeme kaçınılmaz olduğu ve ikisi de aktif kaldığı sürece ek bir birimin maliyetini değiştirmez. Dolayısıyla aynı hacimleri üretip yine de farklı kârlara sahip olabilirler.
+13f6200u5eg p = 30, qi 20, MC = 10’da: değişken kâr 400; FC = 100 ile π = 300; FC = 500 ile π−100. Kısa dönem kapanma ile uzun dönem giriş aynı seçim değildir.
+1yrv1ckqgtj FC, qi’ye göre türevden kaybolur.
+1d3tuxk9gtr Üretmek 400 değişken kazanç yaratıyorsa ve FC batıksa, FC = 500 ile üretmek kapanınca kaybedilecek 500 yerine 100 kaybettirir.
+gh3fznz39t Girmeyerek bu maliyetten kaçınılabiliyorsa, önceki karar girmemek olabilir.
+1u5z1mzjaka E2021: aynı MC = 8 ama FC = 100 ve 50; miktarlar her biri 8, fiyat 24, kârlar 28 ve 78. Kârdaki 50’lik fark sabit maliyetlerden gelir.
+14w37tm5ozk Yöneticisin: “fabrikayı açmamak” ile “zaten ödedikten sonra bugün üretmek” arasındaki ayrım karşılaştırma ölçütünü değiştirir.
+m3z3f6ui5p Değişken kâr 400, sabit maliyet 500 zaten batık: kapanmak 500 kaybettirir. Üretmek π−100 verir. Hangi seçim cari kârı maksimize eder?
+2npz0objg1 Üretmek
+24mzx3l1rsj −100, −500’den iyidir; 400’lük değişken kazanç değişken maliyetleri karşılar.
+9vzoa0caw2 Kapanmak, çünkü her negatif kâr kapanmayı gerektirir
+27pg9lrwtb8 Üretim olmasa bile kaçınılmaz kaybı unutuyorsun.
+1u6jc9294f7 Yalnızca FC 0 olursa üretmek
+p6hvpyxzjs Zaten ödenmiş sabit maliyetten bu cari seçimle kaçınılamaz.
+1gqadopsiit Bir firma eklemek miktar rekabetini yoğunlaştırır
+1coqtx16nka Ek bir firma arz ekler. Mevcut firmaların her biri kendi hacmini azaltarak tepki verir ama bu azalma girişi tamamen telafi etmez. Maliyetlerin değişmediği simetrik modelde toplam artar ve fiyat düşer.
+vhwl1ptqq p = a−bQ, MC = c, n firma: qi = (a−c)/[b(n+1)], Q = nqi, p = (a+nc)/(n+1). Burada n3, qi 15, Q = 45, p = 25 verir.
+13foscqxhkl Her firma fiyatı destekleyen kıtlık etkisinin daha küçük bir kısmını kontrol eder.
+p9v59i1uan n arttıkça qi azalır ama nqi artar.
+ec3c3autil Sinerjisiz bir birleşme n’yi azaltır ve bu modelde fiyatı artırma eğilimindedir; değişen maliyetler ya da ürünler başka bir analiz gerektirir.
+ico8rjevpr n2: Q = 40, p = 30; n3: Q = 45, p = 25; limit n → ∞: Q = 60, p = 10. Üç firma otomatik olarak tam rekabet anlamına gelmez.
+283twvlhjph Bir birleşmeyi değerlendiriyorsun: firma sayısına göre karşılaştırmayı uygulamadan önce “maliyetler değişmedi” de.
+162gbbz4dsn p = 70−Q, MC = 10, n3 özdeş firma: her biri ne kadar üretir?
+cgar9jdpgn 20, n+1 = 3 ile duopole karşılık gelir.
+fs0c9gwahy 45, üç firmanın toplamıdır.
+261zgqoduz3 Aynı talep, aynı maliyet, farklı kurallar
+gtkdpurany Toplam birimler: p = 70 − Q, MC = 10, FC = 0
+iktdxhbknl Bu modelleri karşılaştırmak aynı maliyetleri ve talepleri korumayı gerektirir. Cournot 3 ve Stackelberg 2 burada ikisi de Q = 45 verir ama firmalar arasında aynı dağılımı vermez.
+1r3zg0ybji1 Ortak tekel
+2fkts3m861p MR = MC; fiyat 40.
+8xrm233agr Cournot 2
+zfi9oetdv0 İki eşzamanlı miktar; fiyat 30.
+bqwejyqw98 Stackelberg 2
+27rbwiw4wm9 Lider 30, takipçi 15; fiyat 25.
+8lam6xr1gm Cournot 3
+6jp1vl12vb 15’er üreten üç firma; fiyat 25.
+15k7i5br1qi Homojen Bertrand
+2d2kriccppu Kapasiteler yeterli ve maliyetler aynıysa fiyat MC = 10’a eşittir.
+28vt86q5fyk Bir lider tepkiyi öngörerek seçer
+xfmcyg8xa Firma 1, miktarını firma 2’den önce taahhüt eder. İkincisi bu miktarı gözlemleyip en iyi hacmini seçecektir. Lider bu tepkiyi bilir: taahhüdünü değiştirdiğinde takipçinin de değişeceğini bilir, dolayısıyla q2’yi artık sabit kabul edemez.
+2dm0je8wbtk BRF(qL) = 30−qL/2. πL = (60−qL−qF)qL’ye koymak πL = (30−qL/2)qL verir; FOC = 30−qL = 0 → qL = 30, qF = 15.
+14blqi379k9 Takipçi gözlemledikten sonra optimize eder, dolayısıyla tepkisi liderin öngördüğü bir kısıttır.
+23r30yapi6y Lider, iki eşzamanlı tepkinin kesişiminde değil, bu tepki üzerinde seçer.
+2brefw4bk59 dqF/dqL’yi unutmak Cournot akıl yürütmesine geri döndürür ve taahhüdü kaçırır.
+1o8mkwriu2y Q = 45, p = 25; πL = (25−10)×30 = 450; πF = (25−10)×15 = 225. (30,15) çifti BRF üzerindedir ama Cournot BRL’si üzerinde değildir.
+tc3otvdhru İlk sen seçiyorsun: büyük ve inandırıcı bir üretim, rakibinin sonra ekleyeceği hacmin bir kısmını caydırır.
+rnmxvsl20t Lider 30’u seçiyor ve BRF = 30−qL/2: takipçinin hacmi?
+26th2e80zvq 20, liderin bu gözlenen seçimine değil, eşzamanlı Nash’e aittir.
+ynybqo8zpd Sıralı çözümü doğru sıraya koy.
+65ler1c18n Takipçinin en iyi yanıtını çözmek
+1b4v4gudgzb Onu liderin kârına yerleştirmek
+10b9nl8k4fp Bu tepkiyi öngörerek liderin kârını maksimize etmek
+13sfbp2iagv Takipçinin seçimini, sonra fiyatı ve kârları bulmak
+chiylbwxmf Takipçinin en iyi yanıtını çözmek → Onu liderin kârına yerleştirmek → Bu tepkiyi öngörerek liderin kârını maksimize etmek → Takipçinin seçimini, sonra fiyatı ve kârları bulmak
+27rvbh5q8ap Aynı ortam ama farklı sonuçlar
+m78jnb9qde Ortak tekel fiyatı desteklemek için toplamı sınırlardı. Eşzamanlı seçen iki firma daha çok üretir, çünkü her biri satış kazanmak ister. Miktarda bir lider daha da fazla taahhüt eder; bu burada müşterilerin işine yarar ama takipçinin kârını azaltır.
+9br33qdw9z p = 70−Q, MC = 10, FC = 0 ile: tekel Q = 30, p = 40; Cournot Q = 40, p = 30; Stackelberg Q = 45, p = 25; etkin referans Q = 60, p = 10.
+18fjhseo70i Liderin taahhüdü öngörülen tepkiyi değiştirir, dolayısıyla müşterilerin tercihlerini değiştirmeden sonucu değiştirir.
+op91mwz20w Lider 400 yerine 450 kazanır; takipçi 400 yerine 225.
+1q4jtopds29 Bu first-mover advantage, miktar oyununun bir sonucudur; tüm sıralı oyunların evrensel yasası değildir.
+27rfh159b3a Cournot 3 ve Stackelberg 2 burada ikisi de Q = 45, p = 25 verir; bireysel hacimler 15/15/15 ve 30/15 çok farklı kalır.
+9qkomdf6iy İki kâğıdı karşılaştırıyorsun: bir modelin daha yüksek fiyat verdiği sonucuna varmadan önce aynı a, b, c’yi koru.
+2fa3lxjguzr Lider burada miktar Stackelberg’inde daha çok kazanıyor. Bu, tüm fiyat oyunlarında ilk hamle avantajını kanıtlar mı?
+2qhch8nz4p Hayır: stratejik değişken ve tepkiler değişir
+wo0pp7iwiw Fiyat liderliği, E2024’teki gibi takipçiyi daha da çok kayırabilir.
+1dhfbwnqfrn Evet, “ilk” olmak yeter
+1zpzudxur9g Hamle sırası tek başına kârları belirlemez.
+27u5ggzlehh Hayır, çünkü lider burada daha az kazanır
+2atvrcuye88 Burada 450>400: sonuç doğru ama özeldir.
+2bmxb1qs44h Homojen Bertrand: fiyat kırmak neden marjı yok eder
+149tatv8akr Müşteriler ürünleri aynı bulur ve en ucuzdan alır. Maliyeti 10 olan iki firma da 12 isterse, biri biraz daha az isteyip pozitif marjla tüm piyasayı çekebilir. 10’da fiyat kırmak ona her birimde para kaybettirir.
+13d755qh3ra Homojen ürünler, aynı sabit MC, en az iki firma, yeterli kapasite ve sürekli fiyatlar: Nash p = MC. Burada p = 10, Q = 60 ve değişken marj sıfırdır.
+28h7zqogr47 Küçük bir fiyat indirimi küçük bir marjinal hacmi değil, neredeyse tüm satışları kaydırabilir.
+qurugi23fk p>MC kârlı bir fiyat kırmaya izin verir; p<MC birim başına zarar yaratır.
+1g0yfolub57 Kapasite, farklılaştırma, arama ya da tekrar sonucu değiştirebilir: varsayımları kontrol etmek gerekir.
+1xg0i9kq8vr 12 fiyatında bir firma 11,99 önerir ve 58,01’lik talebin tamamına hizmet edebilir; 1,99’luk marj bu varsayımlar altında sapmayı cazip kılar.
+252fmhk13e2 Rakibinin yanında tamamen aynı ürünü satıyorsun: bir müşteri başka yerde 11,99 ödeyebilecekken neden sende 12 ödesin?
+169fd52wpb1 İki özdeş firma, homojen mal, MC = 10, sınırsız kapasite: Bertrand fiyatı?
+23b4fdvhc20 p = 10’da kârlı bir fiyat kırma kalmaz; p>10’da sapmak kârlıdır.
+2buardn51ak 30 bu ortam için Cournot fiyatıdır.
+1at1wo82605 MC = 10’un altında satmak para kaybettirir.
+gnvazrh4mi Daha ucuz rakip müşterilerin yalnızca küçük bir kısmına hizmet edebiliyorsa, “tüm piyasayı alır” akıl yürütmesi…
+251m1ryrh5l Yeniden ele alınmalıdır
+2g7e58kdhad Yetersiz kapasite, p = MC sonucunun temel bir varsayımını bozar.
+267w87zev6y Bertrand tanımı gereği kesin kalır
+2csw3i0hh8u Oyunun adı sınırsız kapasite sağlamaz.
+opzah6ttoy Ürünlerin farklılaştırılmış olduğunu kanıtlar
+no3j98hcir Özdeş ürünlerde de kapasite kısıtı olabilir.
+25bv3cgxc1v Farklı maliyetlerle Bertrand: bir marj kalabilir
+1mt1y2o5fpl En etkin satıcı, kendi maliyetine ulaşmadan daha pahalı bir rakibi caydıracak kadar fiyatını düşürebilir. Sınırı otomatik olarak kendi MC’sine değil, hâlâ arz edebilen en iyi rakibe bağlıdır. Fiyat eşitlikleri ayrıca müşterilerin nasıl paylaşıldığının belirtilmesini gerektirir.
+1nglejy2bcb E2024: talep 10−Q ve MC = 5, 7 ve 8. En etkin firma 7 civarında sınırlanır; özdeş fiyatlarda eşit paylaşımla 7−ε yazmak uygun olabilir. Tek başına tekel fiyatı 7,5 olurdu.
+185fu1welyf 7’nin altında MC = 7 olan firma pozitif marjla rekabet edemez, MC = 5 olan firma ise 2’ye yakın bir marj korur.
+ikgr0hyec7 7’nin üstünde rakip kârlı hâle gelip fiyat kırabilir.
+3ichwkfnpf Sürekli fiyatlarda ve eşitlikte eşit paylaşımla, tam p = 7’yi saf Nash dengesi olarak ilan etmek gerekçe ister; sınır tek başına varlığı kanıtlamaz.
+1nscbzu1pm5 7−ε’da MC = 5 olan firma yaklaşık 3+ε birim satar; marj yaklaşık 2−ε. MC = 8 olan rakip en bağlayıcı rakip değildir.
+1ksf4882tlj Homojen bir piyasada marj görüyorsun: modeli yanlış ilan etmeden önce maliyetlerin gerçekten aynı olup olmadığını kontrol et.

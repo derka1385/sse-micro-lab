@@ -1,0 +1,48 @@
+======================================================================
+5. ÉLASTICITÉS — L4 ET A2
+======================================================================
+
+Élasticité de Q par rapport à z : variation en % de Q pour variation de 1%
+de z, localement. Forme discrète de L4 : (Delta Q/Q0)/(Delta z/z0).
+Forme ponctuelle : epsilon_Q,z=(dQ/dz)*(z/Q) ; dérivée partielle si besoin.
+
+Prix propre : epsilon_D=(dQD/dp)*(p/QD), généralement négative.
+Offre : epsilon_S=(dQS/dp)*(p/QS), généralement positive.
+Prix croisé : epsilon_ij=(partial Q_i/partial p_j)*(p_j/Q_i).
+Revenu : eta=(partial Q/partial I)*(I/Q).
+Prix croisé positif -> substituts ; négatif -> compléments.
+Revenu négatif -> inférieur ; positif -> normal ; >1 -> luxe.
+Demande inélastique : -1<epsilon_D<0 ; unitaire : -1 ; élastique : <-1.
+Parfaitement inélastique : 0, courbe verticale. Parfaitement élastique :
+valeur absolue infinie, courbe horizontale dans le cas limite.
+
+Approximation de variation : %Delta Q ≈ epsilon * %Delta z.
+Objectif de quantité : %Delta z ≈ %Delta Q / epsilon.
+Garder le signe : baisse de prix et epsilon négatif donnent hausse de Q.
+Pour une variation importante, préciser la convention ; l'approximation
+linéaire n'est pas une identité d'une fonction à élasticité constante.
+Si Q=A*p^epsilon, exact : Q1/Q0=(p1/p0)^epsilon.
+Élasticité d'arc (complément) : utiliser les moyennes (Q0+Q1)/2 et
+(p0+p1)/2 dans les deux pourcentages. Ne pas mélanger les conventions.
+
+Exemples L4 : Q passe 6->4, p 1->2 : epsilon sur base initiale=-1/3.
+epsilon=-1.5, prix baisse de 10% ->Q augmente approximativement de 15%.
+epsilon=-0.5, objectif Q +5% ->prix environ -10%.
+eta=-2, revenu +10% ->Q environ -20%.
+
+Demande linéaire Q=a-bp : dérivée=-b constante, epsilon=-b*p/(a-bp)
+VARIABLE. Plus p est élevé, plus |epsilon| est grand, à paramètres fixes.
+Demande inverse p=A-BQ : epsilon=-p/(B*Q).
+Ne pas utiliser dp/dQ à la place de dQ/dp sans prendre l'inverse.
+Recette R=pQ : dR/dp=Q*(1+epsilon_D).
+Demande élastique : hausse du prix baisse R ; inélastique : hausse du prix
+augmente R ; unitaire : recette localement stationnaire.
+Le profit dépend aussi des coûts : recette maximale et profit maximal
+ne sont pas toujours au même prix.
+
+Horizon long -> souvent davantage de possibilités de substitution.
+Définition étroite d'un produit -> souvent davantage de substituts.
+L4 étude alcool, valeurs du SUPPORT, pas règles universelles :
+Own-price spirits -1.3, beer -0.9, wine -0.2 ; cross-price Danemark
+0.3/0.5/0.2 ; income 1.4/1.0/0.6 ; stores et Fridays 0.1/0.2/0.2.
+Ces nombres illustrent l'estimation empirique, pas une formule à mémoriser.

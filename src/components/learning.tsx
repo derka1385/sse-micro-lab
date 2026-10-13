@@ -6,6 +6,7 @@ import { record, resolveMisconception, type Src } from '../store';
 import { Formula, Rich } from './text';
 import { TextAnswer } from './TeachBack';
 import { ArrowDown, Erase } from './icons';
+import { t } from '../i18n';
 
 /** Deterministic shuffle (stable across renders for a given seed). */
 export function shuffled<X>(xs: X[], seed: string): X[] {
@@ -24,7 +25,7 @@ const parseNum = (s: string) => Number(s.replace(/\s/g, '').replace(',', '.').re
 
 // ——— WhyChain (Why mode / WhyButton): each click goes one causal layer deeper
 
-export function WhyChain({ layers, label = 'Pourquoi ?', start = 0 }: { layers: string[]; label?: string; start?: number }) {
+export function WhyChain({ layers, label = t('Pourquoi ?'), start = 0 }: { layers: string[]; label?: string; start?: number }) {
   const [n, setN] = useState(start);
   return (
     <div className="why">
@@ -37,12 +38,12 @@ export function WhyChain({ layers, label = 'Pourquoi ?', start = 0 }: { layers: 
       {n < layers.length ? (
         <button type="button" className="why-btn" onClick={() => setN(n + 1)}>
           <ArrowDown size={14} />
-          {n === 0 ? label : 'Pourquoi ? Un niveau plus profond'}
+          {n === 0 ? label : t('Pourquoi ? Un niveau plus profond')}
         </button>
       ) : (
         <p className="why-end muted small">
-          Fond atteint : en dessous, ce sont les hypothèses du modèle.{' '}
-          <button type="button" className="link" onClick={() => setN(0)}>Replier</button>
+          {t('Fond atteint : en dessous, ce sont les hypothèses du modèle.')}{' '}
+          <button type="button" className="link" onClick={() => setN(0)}>{t('Replier')}</button>
         </p>
       )}
     </div>
@@ -54,7 +55,7 @@ export function WhyChain({ layers, label = 'Pourquoi ?', start = 0 }: { layers: 
 export function ActorMap({ actors, seen, focus = [] }: { actors: Record<ActorId, Actor>; seen: Partial<Record<ActorId, string>>; focus?: ActorId[] }) {
   return (
     <div className="actors">
-      {(Object.keys(actors) as ActorId[]).filter((id) => !actors[id].role.startsWith('Aucun rôle actif')).map((id) => {
+      {(Object.keys(actors) as ActorId[]).filter((id) => actors[id].role !== t('Aucun rôle actif dans cette situation.')).map((id) => {
         const a = actors[id];
         return (
           <div key={id} className={`actor ${focus.includes(id) ? 'actor-focus' : ''}`} style={{ ['--tone' as string]: a.color }} title={`${a.name} : ${a.role}`}>
@@ -79,7 +80,7 @@ export function CausalChain({ steps }: { steps: ChainStep[] }) {
           <button type="button" className={`chain-step ${open === i ? 'open' : ''}`} onClick={() => setOpen(open === i ? null : i)} aria-expanded={open === i}>
             <Rich text={s.text} />
           </button>
-          {open === i && <p className="chain-because"><span className="muted">parce que </span><Rich text={s.because} /></p>}
+          {open === i && <p className="chain-because"><span className="muted">{t('parce que')} </span><Rich text={s.because} /></p>}
           {i < steps.length - 1 && <span className="chain-arrow"><ArrowDown size={14} /></span>}
         </li>
       ))}
@@ -130,7 +131,7 @@ export function FormulaReveal({ q, options, formula, after, onDone, done, seed, 
 
 export function Checkpoint({ check, onPass, onResult, src, cursor, passed }: { check: Check; onPass: () => void; onResult?: (ok: boolean) => void; src: Src; cursor?: number; passed?: boolean }) {
   const [tries, setTries] = useState(0);
-  const [msg, setMsg] = useState<{ ok: boolean; text: string } | null>(passed ? { ok: true, text: 'Déjà réussi.' } : null);
+  const [msg, setMsg] = useState<{ ok: boolean; text: string } | null>(passed ? { ok: true, text: t('Déjà réussi.') } : null);
   const [val, setVal] = useState('');
   const [seq, setSeq] = useState<string[]>([]);
   const done = msg?.ok === true;
@@ -165,26 +166,26 @@ export function Checkpoint({ check, onPass, onResult, src, cursor, passed }: { c
         <form className="numrow" onSubmit={(e) => {
           e.preventDefault();
           const v = parseNum(val);
-          if (!isFinite(v)) return setMsg({ ok: false, text: 'Entre un nombre.' });
+          if (!isFinite(v)) return setMsg({ ok: false, text: t('Entre un nombre.') });
           const tol = check.tol ?? Math.max(0.01, Math.abs(check.answer) * 0.005);
-          if (Math.abs(v - check.answer) <= tol) return grade(true, explain('Exact.'));
+          if (Math.abs(v - check.answer) <= tol) return grade(true, explain(t('Exact.')));
           const trap = check.traps?.find((t) => Math.abs(t.value - v) <= tol);
-          grade(false, trap ? trap.feedback : tries >= 1 && check.hint ? `Pas encore. Indice : ${check.hint}` : 'Pas encore — refais le raisonnement.', trap?.mis);
+          grade(false, trap ? trap.feedback : tries >= 1 && check.hint ? t('Pas encore. Indice : {h}', { h: check.hint }) : t('Pas encore — refais le raisonnement.'), trap?.mis);
         }}>
-          <input inputMode="decimal" value={val} disabled={done} onChange={(e) => setVal(e.target.value)} aria-label="Ta réponse" placeholder="ta réponse" />
+          <input inputMode="decimal" value={val} disabled={done} onChange={(e) => setVal(e.target.value)} aria-label={t('Ta réponse')} placeholder={t('ta réponse')} />
           {check.unit && <span className="muted">{check.unit}</span>}
-          <button type="submit" className="primary" disabled={done || !val.trim()}>Vérifier</button>
-          {!done && tries >= 2 && <button type="button" className="ghost" onClick={() => { setMsg({ ok: true, text: `Réponse : ${check.answer}. ${check.explain ?? ''}` }); record({ tags: check.tags, dim: check.dim, ok: false, src, item: check.id }); onPass(); }}>Voir la réponse</button>}
+          <button type="submit" className="primary" disabled={done || !val.trim()}>{t('Vérifier')}</button>
+          {!done && tries >= 2 && <button type="button" className="ghost" onClick={() => { setMsg({ ok: true, text: `${t('Réponse :')} ${check.answer}. ${check.explain ?? ''}` }); record({ tags: check.tags, dim: check.dim, ok: false, src, item: check.id }); onPass(); }}>Voir la réponse</button>}
         </form>
       )}
 
       {check.kind === 'pick' && (
         <div className="numrow">
-          <span>Curseur : <b>Q = {cursor?.toFixed(1)}</b></span>
+          <span>{t('Curseur :')} <b>Q = {cursor?.toFixed(1)}</b></span>
           <button type="button" className="primary" disabled={done} onClick={() => {
             const ok = cursor !== undefined && Math.abs(cursor - check.target) <= check.tol;
-            grade(ok, ok ? explain('Exact.') : 'Pas là : cherche l’intersection des courbes concernées.');
-          }}>Valider la position</button>
+            grade(ok, ok ? explain(t('Exact.')) : t('Pas là : cherche l’intersection des courbes concernées.'));
+          }}>{t('Valider la position')}</button>
         </div>
       )}
 
@@ -204,9 +205,9 @@ export function Checkpoint({ check, onPass, onResult, src, cursor, passed }: { c
             <button type="button" className="ghost" disabled={done || !seq.length} onClick={() => { setSeq([]); setMsg(null); }}>Recommencer</button>
             <button type="button" className="primary" disabled={done || seq.length !== check.items.length} onClick={() => {
               const wrongAt = seq.findIndex((s, i) => s !== check.items[i]);
-              if (wrongAt < 0) grade(true, explain('Chaîne correcte : chaque maillon cause le suivant.'));
-              else { grade(false, `Le maillon n°${wrongAt + 1} n’est pas à sa place : demande-toi ce qui doit être vrai AVANT lui.`); setSeq(seq.slice(0, wrongAt)); }
-            }}>Valider l’ordre</button>
+              if (wrongAt < 0) grade(true, explain(t('Chaîne correcte : chaque maillon cause le suivant.')));
+              else { grade(false, t('Le maillon n°{n} n’est pas à sa place : demande-toi ce qui doit être vrai AVANT lui.', { n: wrongAt + 1 })); setSeq(seq.slice(0, wrongAt)); }
+            }}>{t('Valider l’ordre')}</button>
           </div>
         </div>
       )}
@@ -218,19 +219,19 @@ export function Checkpoint({ check, onPass, onResult, src, cursor, passed }: { c
             {items.map((t) => <button key={t} type="button" className="token" disabled={done} onClick={() => setSeq([...seq, t])}>{t}</button>)}
           </div>
           <div className="row">
-            <button type="button" className="ghost erase" disabled={done || !seq.length} onClick={() => setSeq(seq.slice(0, -1))} aria-label="Effacer le dernier élément"><Erase /></button>
+            <button type="button" className="ghost erase" disabled={done || !seq.length} onClick={() => setSeq(seq.slice(0, -1))} aria-label={t('Effacer le dernier élément')}><Erase /></button>
             <button type="button" className="primary" disabled={done || !seq.length} onClick={() => {
               const ok = check.accept.some((a) => a.join(' ') === seq.join(' '));
               const trap = check.traps?.find((t) => t.seq.join(' ') === seq.join(' '));
-              grade(ok, ok ? explain('Reconstruit.') : trap?.feedback ?? 'Pas encore : quels acteurs sont concernés ?', trap?.mis);
+              grade(ok, ok ? explain(t('Reconstruit.')) : trap?.feedback ?? t('Pas encore : quels acteurs sont concernés ?'), trap?.mis);
               if (!ok) setSeq([]);
-            }}>Valider</button>
+            }}>{t('Valider')}</button>
           </div>
         </div>
       )}
 
       {check.kind === 'text' && !done && (
-        <TextAnswer rubric={check.rubric} model={check.model} lang={check.lang} onGraded={(ok) => grade(ok, ok ? 'Les éléments clés sont là.' : 'Compare avec la réponse modèle et retiens ce qui manquait.')} />
+        <TextAnswer rubric={check.rubric} model={check.model} lang={check.lang} onGraded={(ok) => grade(ok, ok ? t('Les éléments clés sont là.') : t('Compare avec la réponse modèle et retiens ce qui manquait.'))} />
       )}
 
       {msg && <p className={`feedback ${msg.ok ? 'good' : 'bad'}`} role="status"><Rich text={msg.text} /></p>}
@@ -249,7 +250,7 @@ export function MisconceptionCard({ id, onResolved }: { id: string; onResolved?:
   return (
     <div className="miscard">
       <h3>{m.label}</h3>
-      <p className="meta">Micro-leçon · confusion repérée deux fois</p>
+      <p className="meta">{t('Micro-leçon · confusion repérée deux fois')}</p>
       <div className="contrast">
         <div><span className="contrast-term">{m.left.term}</span><p><Rich text={m.left.text} /></p></div>
         <div><span className="contrast-term">{m.right.term}</span><p><Rich text={m.right.text} /></p></div>
@@ -268,7 +269,7 @@ export function MisconceptionCard({ id, onResolved }: { id: string; onResolved?:
         ))}
       </div>
       {picked !== null && <p className={`feedback ${right ? 'good' : 'bad'}`}><Rich text={opts[picked].feedback} /></p>}
-      <p className="small muted">Source : {m.refs.map((r) => <Rich key={r} text={`§${r} `} />)}</p>
+      <p className="small muted">{t('Source :')} {m.refs.map((r) => <Rich key={r} text={`§${r} `} />)}</p>
     </div>
   );
 }

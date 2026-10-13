@@ -1,0 +1,219 @@
+187lp75r5mv IC, IR, Risiko und Gleichheiten getrennt behandeln.
+lezd37ioi5 Ein schwacher Anreiz impliziert weder strikte Anstrengung noch Annahme.
+dh719osuil Einen Konflikt nachweisen, statt ihn aus dem Wort Bonus abzuleiten.
+2d9tgl777b6 Die Zahlen von E2020 bringen die Wahl der Führungskraft und des Eigentümers in Einklang.
+17ovhd91bm9 Spiele — wählen gegenüber jemandem, der ebenfalls wählt
+1stqtppif61 Beste Antworten, Gleichgewichte und Glaubwürdigkeit
+n7g35w8l73 Teilen oder den Jackpot nehmen? Aufrüsten oder vertrauen? Vergleiche deine Entscheidungen in jedem Szenario, behalte die Indifferenzen und rekonstruiere den vollständigen Plan.
+vr42z4tub8 Rowena / X
+1zv02w2fqdt wählt eine Zeile oder handelt zuerst
+havgwywhc6 ihren eigenen Nutzen maximieren
+1gmq5bvxcu2 Colin / Y
+9aiuhlnfmm wählt eine Spalte oder antwortet nach Beobachtung
+obkdu1bpfv seine eigene Auszahlung maximieren
+wqc5gtn3t7 Die Analyse
+1n9pgtv7wue hält die Entscheidungen und Auszahlungen jedes Spielers getrennt
+1dliqueit0q Stabilität und Effizienz erkennen, ohne sie zu verwechseln
+1vifqqnyb0k Du bestimmst das Ergebnis deiner Wahl nicht allein
+x0pbxj1gff Rowena und Colin können jeweils einen Jackpot teilen oder versuchen, ihn zu nehmen. Teilen beide, bekommt jeder 10; nimmt nur einer, bekommt er 20 und der andere 0. Nehmen beide, bekommen sie 0: Der Wert deiner Wahl hängt von der Wahl des anderen ab.
+1j0ldw7kvw6 Ein Spiel beschreibt Spieler, ihre Strategien, ihre Information und ihre Auszahlungen. In einem simultanen Spiel wählt jeder, ohne die aktuelle Handlung des anderen zu beobachten.
+edkhm8qdrj Eine Handlung hat keine feste Auszahlung: Teilen kann je nach Colin 10 oder 0 bringen.
+1g7suld45pe Um zu wissen, was zu tun ist, muss Rowena ihre Handlungen in jedem Szenario des Gegners vergleichen, statt das größte Feld der Tabelle zu wählen.
+1y1g7wezu0u Teilen gegen Teilen ergibt 10; Nehmen gegen Teilen ergibt 20. Derselbe Gegner, zwei private Entscheidungen zum Vergleichen.
+2dpnxxre0hg Du bist Rowena: Stell dir zuerst vor, dass Colin teilt, und frag dann, welche Wahl dir in genau diesem Szenario am meisten bringt.
+9qi3p8kwun Golden Balls: die Geldauszahlungen
+dup59hasxc S=Split, N=Steal in diesem Assignment. Erste Zahl: Rowena (Zeile), zweite: Colin (Spalte). Geldauszahlungen; in den folgenden Fragen nur reine Nash-Gleichgewichte.
+z5lckyzhuv Rowena
+20mnhbdjivw Colin
+1hmntqyoz3o S: teilen
+1s3uuibln69 N: nehmen
+18fv6pj7i6p Warum ist das ein strategisches Problem?
+m2s9v0jlz5 Deine Auszahlung hängt auch von der Handlung des anderen ab
+16lb37npx99 Du musst seine Wahl antizipieren oder dein Denken davon abhängig machen.
+2fpxm1h0svp Weil die größte Zahl zwangsläufig deine Wahl ist
+2b1blkkf5dq Ein Feld gibt ein Profil aus zwei Entscheidungen an; die des anderen kontrollierst du nicht direkt.
+1o0qenrvqc7 Weil jeder über beide Entscheidungen bestimmen kann
+186jhmp9znr Jeder Spieler kontrolliert nur seine eigene Strategie.
+3qi380qwdq Die erste Zahl gehört nicht immer dem Spieler, der dich interessiert
+wwi85f4oyc In jedem Feld erhalten zwei Personen Auszahlungen. Die erste Zahl gehört der Zeilenspielerin Rowena, die zweite Colin, dem Spaltenspieler. Vertauschst du diese Zahlen, lässt du jemanden mit der Auszahlung des anderen entscheiden.
+26rpipo1oo9 Tabellenkonvention: (u_Zeile,u_Spalte). Immer dieselbe Reihenfolge beibehalten, wenn man Kosten abzieht oder Geld in Nutzen umrechnet.
+1bfepurwgnt Die Tabelle kodiert zwei Präferenzordnungen in denselben Feldern.
+1nlpkdaxzpz Die beste Antwort eines Spielers hängt nur von seiner eigenen Ordnung ab, nicht von der Summe oder der Auszahlung des Gegners.
+1w88c3pco20 Feld Rowena S, Colin N: (0,20). Rowena erhält 0, Colin 20. Es heißt nicht „Colin wählt die erste Zahl“.
+4snx6xa70x Verdecke die Zahl deines Gegners, während du deine Handlungen vergleichst: So löst du nicht sein Problem statt deines eigenen.
+pwvxk50ph2 Welche Auszahlung erhält Colin im Feld (S,N)=(0,20)?
+2br0cs60oyf Colin ist der Spaltenspieler: Seine Auszahlung ist die zweite Zahl.
+1mhu5iyos64 0 ist die Auszahlung von Rowena, der Zeilenspielerin.
+1sdh9dn0c31 Fixiere die Spalte und lass dann Rowena wählen
+2ebkqll3chr Angenommen, Colin teilt. Rowena vergleicht 10, wenn sie teilt, mit 20, wenn sie nimmt, also nimmt sie. Angenommen nun, Colin nimmt: Rowena bekommt in beiden Fällen 0, also sind beide Entscheidungen ihre besten Antworten.
+21gogxrsx2i BR_i = best response: die Handlung, die die private Auszahlung gegenüber einer gegebenen Handlung des Gegners maximiert. Bei Indifferenz kann eine beste Antwort eine Menge sein.
+93s2lubxm2 Colins Wahl bleibt während des Vergleichs fest: Sonst misst man keine einseitige Abweichung.
+11e7423d68k Eine gleiche Auszahlung erlaubt es nicht, eine Handlung zu eliminieren; bei Gleichstand bleibt sie optimal.
+175jomob8zb BR_Rowena(S)={N}. BR_Rowena(N)={S,N}. Die Null schließt eine beste Antwort nicht aus, wenn alle Alternativen ebenfalls null ergeben.
+21lvr45tccj Du variierst nur deine Zeile, in einer festen Spalte. Kreise alle Felder ein, die das Maximum deiner Auszahlung erreichen.
+2bglpkx2qr0 Was sind Rowenas beste Antworten auf Colin N?
+1u2za4lqnuh Nur N
+20ycvis4nws S ergibt ebenfalls 0; Indifferenz behält beide Handlungen.
+rpialj25c4 Beide maximieren ihre Auszahlung 0 in dieser Spalte.
+1ngdv2666j4 Keine Handlung
+2em52tfbbaw Auch wenn die Auszahlung null ist, existiert ein Maximum.
+hz4lnw1jtq Fixiere jetzt die Zeile und lass dann Colin wählen
+asvsdi0ilv Angenommen, Rowena teilt: Colin vergleicht 10 beim Teilen mit 20 beim Nehmen, also nimmt er. Nimmt Rowena, bekommt er in beiden Spalten 0. Das Problem ist symmetrisch, aber du musst die zweiten Zahlen verwenden, um es zu lösen.
+211wz233q3j BR_Colin(S)={N}, BR_Colin(N)={S,N}. Die besten Antworten des Spaltenspielers sucht man horizontal bei fester Zeile.
+1mxt250761n Beide Entscheidungen gleichzeitig zu ändern testet eine Koordination, nicht die beste private Wahl gegenüber einem gegebenen Gegner.
+1gr3s69vsoi Symmetrie muss anhand der Auszahlungen geprüft werden; die Namen der Handlungen garantieren sie nicht.
+1gw1rshhp34 Gegen S beträgt Colins privater Gewinn beim Wechsel von S zu N 20−10=10.
+x418vdhalo Du bist Colin: Deine Abweichung führt von einer Spalte zur anderen, ohne die von Rowena gewählte Zeile zu verschieben.
+1t4x7z24ktd Wie viel mehr verdient Colin gegen Rowena S, wenn er von S zu N wechselt?
+dl44vungkh Colin vergleicht die zweiten Auszahlungen: 20−10=10.
+12zgz3u4mfs 20 ist seine neue Auszahlung, nicht der Zuwachs gegenüber den anfänglichen 10.
+1yostz6dkf5 Ein Nash ist ein Feld, in dem kein Spieler seine Auszahlung allein verbessern kann
+2614at9ge4c Schau dir ein Feld an, in dem jeder schon beste Antwort auf den anderen spielt. Allein zu wechseln bringt dann keinen strikten Gewinn. Im egoistischen Golden Balls bestehen (S,N), (N,S) und (N,N) diesen Test, auch wenn manche Spieler indifferent sind.
+1kre6i409kv Reines Nash: Jede Handlung ist eine beste Antwort auf die andere. Es ist weder ein Kooperationsversprechen noch ein kollektives Optimum.
+1m2t3qes2n0 Welcher Test definiert ein Nash-Gleichgewicht?
+gihgvfj508 Kein Spieler verbessert seine Auszahlung, indem er allein wechselt
+1q43pdhnwx6 Jeder antwortet auf die Wahl des anderen; eine Abweichung ohne strikten Gewinn zerstört Nash nicht.
+1vw35xvfaml Die Summe der Auszahlungen ist maximal
+1rvw76nluaf Das testet kollektive Effizienz, nicht individuelle Stabilität.
+12i4hrlmokg Bei (S,N) kann Rowena auch nehmen, bleibt aber bei 0; Colin würde durch Teilen verlieren.
+tc68f76zv2 Bei (S,S) verdient jeder 10 mehr, wenn er allein nimmt: Das Feld ist also trotz seines kollektiven Reizes kein Nash.
+24z3wqf8ogk (N,N) ist Nash: Allein zu S zu wechseln lässt die Auszahlung bei 0. Eine Verbesserung, die nur zu zweit möglich ist, ist keine einseitige Abweichung.
+2f367no9hac Frag für jeden Spieler: „Wenn der andere sich nicht bewegt, kann ich mich strikt verbessern?“.
+1fzbphkxbtr Welche Liste enthält genau die reinen Nash-Gleichgewichte des egoistischen Golden Balls?
+s05s04kp3t Die besten Antworten schließen die Indifferenzen gegenüber N ein.
+1oqzj8bg8li Nur (N,N)
+26s0w2dyw1i Du hast die besten Antworten bei Gleichstand in den asymmetrischen Profilen vergessen.
+zj7j0lqn3z Bei (S,S) erhöht allein zu nehmen die Auszahlung von 10 auf 20.
+14zwru6031r Schwach dominant ist nicht strikt dominant
+bqafewirnb Nehmen bringt 20 statt 10 gegen jemanden, der teilt. Gegen jemanden, der nimmt, bringt Nehmen dieselbe Null wie Teilen. Nehmen ist nie schlechter und manchmal besser; es ist nicht in jedem Fall besser.
+1fqhlo03voj N ist schwach dominant: mindestens so gut gegen jede Handlung des Gegners, strikt besser gegen manche. Eine strikt dominante Strategie wäre gegen alle strikt besser.
+p5j7vlsxdl Der Unterschied betrifft die Ungleichungen, nicht die psychologische Stärke der Versuchung.
+x9ralilhkn Indifferenz erklärt, warum andere Profile als (N,N) Nash sein können.
+2c6xjbb0cwx Gegen S: 20>10. Gegen N: 0=0. Es fehlt eine strikte Ungleichung, um von strikter Dominanz zu sprechen.
+1mtw46fthn1 Streich die Gleichheitszeichen nicht, nur weil dir eine Handlung natürlicher vorkommt: Sie sind ökonomische Information.
+16plbnsi1a9 Warum ist N nicht strikt dominant?
+f7qo44v3ly Es bringt gegen N dieselbe Auszahlung wie S
+xpplt6rue6 0=0: Diese Gleichheit schließt strikte Dominanz aus.
+9yrnj1j7qr Es bringt immer weniger als S
+11ztj92qs17 Gegen S bringt es 20 statt 10.
+1oe6dap1g3x Es kann nie zu einem Nash gehören
+15gfkv0r7t Eine schwach dominante Strategie kann zu mehreren Nash-Gleichgewichten gehören.
+9cxlen7s77 Individuell stabil kann für beide schlecht sein
+uyxpo946ki Bei (N,N) erhalten Rowena und Colin 0. Sie könnten beide 10 bekommen, wenn sie gemeinsam teilen. Aber wenn der andere weiter nimmt, verbessert allein zu teilen deine Auszahlung nicht: Die Möglichkeit eines besseren kollektiven Ergebnisses reicht nicht, um es stabil zu machen.
+vmp157inw (S,S) dominiert (N,N) im Sinne von Pareto, ist aber im egoistischen Spiel kein Nash. Effizienz und Gleichgewicht beantworten verschiedene Fragen.
+zhoae1xfq Pareto vergleicht zwei Allokationen: Niemand verliert und mindestens einer gewinnt.
+cpwfwn4d5x Nash vergleicht die Abweichungen einer einzelnen Person, während die anderen Entscheidungen fest bleiben.
+1sbzdcggv3g Summe bei NN=0; Summe bei SS=20. Dennoch bringt Nehmen gegen S 20 statt 10 beim Teilen.
+q077k1uorj Du schlägst deinem Gegner eine Koordination vor. Prüfe dann, ob er noch ein Interesse hat, sich an den Plan zu halten, wenn deine eigene Wahl feststeht.
+23v0wgxg52y Ist ein Feld, das die Summe der Auszahlungen maximiert, automatisch Nash?
+12egl825zqa Nein: Jeder kann noch durch einseitiges Abweichen gewinnen
+mxjwb9vhx5 Die besten Antworten müssen einzeln getestet werden.
+21ynqca4xq6 Ja: Der kollektive Gewinn verhindert jede Abweichung
+289bnh8zw7l Das Kollektiv ist nicht die Zielfunktion jedes egoistischen Spielers.
+1wqir33jl1u Wenn es dich stört, hinten zu liegen, ist eine Null nicht mehr dieselbe Null
+2aakfpli5jz Angenommen, du ziehst 1 von deinem Nutzen ab, wenn der andere mehr Geld bekommt. 0 zu erhalten, während jemand 20 bekommt, wird zu −1, während 0 gegen 0 bei 0 bleibt. Die Indifferenz, die die asymmetrischen Gleichgewichte stützte, verschwindet.
+8xdryosunb Mit Neid: SS(10,10), SN(−1,20), NS(20,−1), NN(0,0). N wird strikt dominant; einziges reines Nash ist NN.
+186049tkelo Entscheidungen maximieren den Nutzen gemäß den Präferenzen, nicht unbedingt nur das Geld.
+8o23hemcrl Gegen N ist N 0>−1 wert; gegen S ist N 20>10 wert. Beide Vergleiche sind jetzt strikt.
+gka1pzkvmn Im Profil SN weicht Rowena zu N ab: Ihr Nutzen steigt von −1 auf 0. SN ist kein Nash mehr.
+vaq6y71gpp Du änderst keinen Betrag im Jackpot: Du änderst, was diese Beträge für dich bedeuten.
+8sjzk8niwq Um wie viel verbessert Rowena im Profil SN mit Neid ihren Nutzen, wenn sie zu N wechselt?
+9xcrnipja9 Nutzeneinheit
+2gbgh5b0wbs Sie geht von −1 auf 0: ein Anstieg um 1.
+plpdw72j3i Achtung, Falle der alten Lösung: NN ist kein Nash mehr
+18kf3gy7wtc Du bewertest das Geld des anderen jetzt genauso wie dein eigenes. Sobald mindestens einer teilt, werden die 20 des Jackpots ausgezahlt und jeder erhält Nutzen 20. Bei (N,N) hebt allein zu teilen deinen Nutzen dank des Geldes, das der andere bekommt, von 0 auf 20.
+2c5mbbw1877 Gleicher Altruismus: u_i=m_i+m_j. Reine Nash SS,SN,NS; NN ist kein Nash. Die in A3.1 c gemeldete persönliche Antwort „SS und NN“ ist falsch.
+1nv59wuooy Bei SS lässt die Abweichung zu N den Nutzen bei 20: kein strikter Gewinn, also ist SS Nash.
+hvs2f17onn Bei NN erzeugt die Abweichung zu S 20 für den anderen, die der abweichende Spieler selbst wertschätzt: Er gewinnt strikt.
+10rznm7zhr2 SN: Nutzen Rowena 0+20=20 und Colin 20+0=20. NN: 0+0=0. Dasselbe Geld ergibt eine andere Nutzenmatrix.
+2ft6i9sbata Korrigiere NN mit einer einzigen konkreten Abweichung; lerne keine Liste von Gleichgewichten auswendig, die du nicht rekonstruieren kannst.
+1i2et0eufit Gleiche Geldbeträge, neue Nutzen
+v13q4ihwv Nutzen u_i=Geld_i+Geld_j. Die angezeigten Zahlen sind Nutzen, keine neue Geldaufteilung. Erste Zahl: Rowena, zweite: Colin.
+27eg9ygmayh Was genau sind mit u_i=m_i+m_j die reinen Nash-Gleichgewichte?
+prllhf2f56 All diese Felder ergeben 20; bei NN verbessert allein zu teilen 0 auf 20.
+20frwg1vs1w Genau das ist der Fehler der persönlichen Lösung: NN lässt eine profitable Abweichung zu.
+lgsx4d2olf Nur NN
+2fvrznq6mzj Du hast die egoistischen Präferenzen beibehalten, statt die Nutzen neu zu berechnen.
+1nb3els1hv9 Zählt das Geld des anderen doppelt, wird Teilen strikt dominant
+cxna0sn6es Angenommen jetzt, du bewertest einen Euro beim anderen wie zwei Euro in deinem Nutzen. Teilt der andere, bringt Teilen 30 gegenüber 20 beim Nehmen. Nimmt er, bringt Teilen 40 gegenüber 0: Teilen wird in jedem Szenario besser.
+1rsuv2hhjyg u_i=m_i+2 m_j: SS(30,30), SN(40,20), NS(20,40), NN(0,0). S strikt dominant; einziges Nash SS.
+56or28vhww Gegen S ist 10 behalten und 10 abgeben 10+2×10=30 wert; alles nehmen ist 20 wert.
+8dwhlig9fv Gegen N gibt Teilen dem anderen 20, bewertet mit 40; Nehmen zerstört alles und ist 0 wert.
+axla3kgvhm Bei SN ist Rowenas Geld 0, aber ihr Nutzen 40. Man muss angeben, ob eine Matrix Geld oder Nutzen zeigt.
+11nbgzeh6wv Du unterscheidest, was in deinem Portemonnaie landet, vom Wert, den du dem Ergebnis beimisst.
+15uajkagage Rowena teilt, Colin nimmt 20; mit u_R=m_R+2 m_C, welchen Nutzen hat Rowena?
+kr3cephp65 0 ist das Geld, das sie erhält; ihr Nutzen zählt auch Colins Auszahlung.
+10qs8l2sltj 20 entspricht gleichem Altruismus, nicht dem Gewicht 2.
+u9rsnkewym Zwei Nash-Gleichgewichte sagen dir nicht, welches gespielt wird
+1x8whzqyvk8 Zwei Länder leben lieber gemeinsam in Frieden: Jedes erhält 9. Bereitet sich das andere aber auf Krieg vor, bringt Krieg als Antwort 7 statt 0. Gemeinsamer Frieden und gemeinsamer Krieg sind also beide stabil, auch wenn Frieden für jedes besser ist.
+np82o00w82 Koordinationsspiel A3: reine Nash (Frieden,Frieden) und (Krieg,Krieg). Die Matrix allein wählt kein eindeutiges simultanes Gleichgewicht aus.
+5vgl7sq2pj Gegen Frieden: Frieden 9>Krieg 8. Gegen Krieg: Krieg 7>Frieden 0.
+m5prqo5zqk Erwartungen über die Antwort des anderen können ein Ergebnis plausibel machen; eine unverbindliche Ankündigung ändert die Auszahlungen nicht automatisch.
+1qtrblbje34 Der Übergang von Krieg/Krieg zu Frieden/Frieden bringt jedem 2, aber ein einseitiger Wechsel gegen Krieg kostet 7.
+9xk5hy3il9 Du willst Frieden koordinieren: Den anderen von deiner Antwort zu überzeugen kann zählen, aber prüfe, ob du seine Anreize tatsächlich verändert hast.
+1860mfs1jzd Koordination Frieden/Krieg
+3fs93sdhyd Erste Auszahlung: X, Zeilenspieler; zweite: Y, Spaltenspieler. Die beiden reinen Gleichgewichte sind Frieden/Frieden und Krieg/Krieg.
+2384s7d3ze7 Frieden
+87f6a55m7l Krieg
+1w0gmra09xf Welche Schlussfolgerung rechtfertigen die simultanen Auszahlungen allein?
+5dclnzb8ls Zwei reine Nash; keine eindeutige Wahl durch die Matrix vorgegeben
+1uikdb7uv42 Beide Diagonalen sind gegenseitige beste Antworten.
+7wqluzitf4 Frieden wird zwangsläufig gespielt, weil 9>7
+2lmuf8rleu Das vergleicht zwei Koordinationen; die private Wahl hängt von der erwarteten Wahl des anderen ab.
+1vjsm9ae4qt Krieg ist strikt dominant
+sogty5r6bj Gegen Frieden bringt Frieden 9 gegenüber 8.
+xqehnlgbnf Wenn jemand vor dem Handeln beobachtet, fang am Ende an
+oerhiw1qrn X handelt im Koordinationsspiel zuerst, und Y beobachtet. Wählt X Frieden, zieht Y Frieden 9 Krieg 8 vor; wählt X Krieg, zieht Y Krieg 7 Frieden 0 vor. X erwartet also 9, wenn es Frieden wählt, gegenüber 7, wenn es Krieg wählt.
+1zp5qev5xh5 Rückwärtsinduktion: die optimalen Entscheidungen des Folgers in jedem Teilspiel lösen, dann am Anfangsknoten wählen. Hier ist das Ergebnis Frieden/Frieden.
+1cijfksj9dl Der erste Spieler muss die tatsächliche Antwort antizipieren, statt die Handlung des anderen künstlich festzuhalten.
+1xqddmmltga Der Übergang zu einer beobachtbaren Entscheidung verändert das Spiel; man kopiert nicht einfach die Nash-Gleichgewichte des simultanen Spiels.
+xt1nssz682 Reaktion Y: Frieden nach Frieden, Krieg nach Krieg. X vergleicht die induzierten Ergebnisse 9 und 7, also Frieden.
+1zeqlw8669b Du bist X: Trag vor dem Spielen beide möglichen künftigen Antworten von Y ein, auch die, die am Ende nicht erreicht wird.
+1o7h39f538 Sequenzielle Koordination
+255ehnhmj4g Y beobachtet X; Auszahlungen wie in Matrix A3.
+10cgws0hy9y Y nach Frieden
+2bno703pwad Vergleicht 9 mit 8
+1oiiibzvoga Wählt Frieden.
+1gcjnsnbptk Y nach Krieg
+10yp9x1hor7 Vergleicht 7 mit 0
+6wit8mb8lo Wählt Krieg.
+dvi9cll3dh X am Anfang
+rl97lf8zur Antizipiert beide Antworten
+1dn5zonq5gu Wählt Frieden, weil 9>7.
+1k8bw3d1yj3 In welcher Reihenfolge löst man ein zweistufiges sequenzielles Spiel?
+1cm6p53h520 Die Endauszahlungen und die Information beschreiben
+17hsj6yhvjj Die beste Antwort des Folgers nach jeder möglichen Handlung wählen
+1740ld0xgzf Diese Ergebnisse in die Wahl des Führers übertragen
+k67akyr3np Die vollständige Strategie und das erreichte Ergebnis angeben
+et6vjk0fsd Zieh die Rüstungskosten vor dem Vergleich ab
+1lx50gfpel Die Länder X und Y teilen sich sechs Einheiten Öl. Aufrüsten kostet X 1 und Y 3; ein Land, das als einziges gerüstet ist, erhält 5 vom Öl, das andere 1. Rüsten beide auf, verschwindet das Öl, aber die Kosten bleiben bezahlt: Ein großer Bruttoanteil ist noch keine Nettoauszahlung.
+1x3h67ykoox Nettoauszahlungen (X,Y): keiner gerüstet (3,3), nur X (4,1), nur Y (1,2), beide (−1,−3).
+1lo1bv4m76p Y, als einziges gerüstet, erhält 5, gibt aber 3 aus, also Auszahlung 2; das ungerüstete X erhält 1, nicht 2.
+1vnh5e7906z Wer die Auszahlung des anderen mit den eigenen Kosten verwechselt, kann durch falsches Denken zu einem guten Ergebnis kommen.
+123dhqqy6l7 Nur X: 5−1=4 für X, 1 für Y. Beide gerüstet: 0−1=−1 für X und 0−3=−3 für Y.
+aowtt3m8eo Du bist Y: Bevor du deine Optionen prüfst, rechne jede Öleinnahme mit deinen Kosten 3 in eine Nettoauszahlung um.
+1o5fy0v5pv Waffen und Öl: Nettoauszahlungen
+1p22d4e3418 Pool 6; Rüstungskosten X1, Y3. Das einzige gerüstete Land erhält vor Kosten 5, das andere 1; ohne Rüstung teilen beide 3/3; rüsten beide, verlieren sie das Öl. Erste Auszahlung X, zweite Y.
+1fuvda6yn8 X (Kosten 1)
+wvjk7omtrb Y (Kosten 3)
+2agxro88rqr Ungerüstet
+1qxcoa0k2o0 Gerüstet
+2g7wow28kz5 Wenn nur Y gerüstet ist, welche Nettoauszahlung erhält Y?
+6ev7e5ldhc Es erhält 5 Öl und zahlt 3: 5−3=2. Das ungerüstete X erhält 1.
+1z5qjc07qpc 5 ist die Bruttoeinnahme vor Kosten.
+27hglkbciuv 1 ist die Auszahlung des ungerüsteten X, nicht die von Y.
+k068zd9d2t Eine Strategie sagt auch, was du abseits des gespielten Pfads tun würdest
+14ptqiyj6h9 X zieht im Waffenspiel zuerst. Nachdem X aufgerüstet hat, bleibt Y lieber ungerüstet: 1>−3. Nachdem X ungerüstet bleibt, bleibt Y ebenfalls lieber ungerüstet: 3>2. X erwartet dann 4 beim Aufrüsten gegenüber 3 sonst; aber nur „X rüstet auf“ zu schreiben vergisst Ys gesamten Plan.
+153cftrib23 SPNE = subgame perfect Nash equilibrium (teilspielperfektes Nash-Gleichgewicht). Eine Strategie des Folgers legt an jedem möglichen Knoten eine Handlung fest, auch abseits des Gleichgewichtspfads.
+1trknyfih76 Die Reaktion abseits des Pfads rechtfertigt die anfängliche Wahl: Der Führer vergleicht, was passieren würde, wenn er den Zweig wechselte.
+25apq3nwx0t Ein Endergebnis ist eine Aufteilung von Auszahlungen; für sich allein ist es kein vollständiges Strategieprofil.
+1i3s03jky51 X zuerst: X rüstet auf; Y rüstet nach keiner Handlung von X auf; Ergebnis (4,1). Ys Antwort nach ungerüstetem X liegt abseits des Pfads, ist aber unverzichtbar.
+265b8q2jpp1 Du füllst zwei Felder in Ys Plan aus: „nach X gerüstet“ und „nach X ungerüstet“. Ein leeres Feld lässt die Argumentation unvollständig.
+jsyicl12wa Was ist Ys vollständiger optimaler Plan, wenn X zuerst zieht?
+23eo137hj0p Nicht aufrüsten nach X gerüstet UND nach X ungerüstet
+1fou9bct6uv Y vergleicht 1>−3 im ersten Zweig und 3>2 im zweiten.
+2c6b29irfkb Nur im gespielten Zweig nicht aufrüsten
+21lmpz4co8p Es fehlt eine Entscheidung abseits des Pfads, die nötig ist, um eine Strategie festzulegen.
+pozjw5e84q Nach ungerüstetem X aufrüsten, weil 5>3
+1tk4elyvw7u 5 ist brutto: Nach Kosten 3 erhält Y 2<3.
+2e8metvgw2m Die Reihenfolge zu ändern kann das Ergebnis ändern — ankündigen reicht nicht

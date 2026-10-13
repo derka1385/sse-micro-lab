@@ -1,0 +1,104 @@
+======================================================================
+1. INVENTERING OCH KARTA ÖVER KURSINNEHÅLLET
+======================================================================
+
+Alla namn nedan är relativa till mappen Microeconomics.
+
+S01 = assignments/Assignment3.pdf — 4 sidor.
+S02 = assignments/Assignment2.pdf — 3 sidor.
+S03 = assignments/Assignment4.pdf — 5 sidor.
+S04 = assignments/Assignment5.pdf — 6 sidor.
+S05 = assignments/Assignment6.pdf — 5 sidor.
+S06 = lectures/Lecture 01 Micro 2026 15.16.11.pdf — 21 sidor.
+S07 = lectures/Lecture 02 Micro 2026 15.16.11.pdf — 33 sidor.
+S08 = lectures/Lecture 03 Micro 2026 15.16.11.pdf — 24 sidor.
+S09 = lectures/Lecture 04 Micro 2026 15.16.11.pdf — 29 sidor.
+S10 = lectures/Lecture 05 Micro 2026 15.16.11.pdf — 33 sidor.
+S11 = lectures/Lecture 06 Micro 2026 15.16.11.pdf — 34 sidor.
+S12 = lectures/Lecture 07 Micro 2026.pdf — 23 sidor.
+S13 = lectures/Lecture 08 Micro 2026.pdf — 24 sidor.
+S14 = lectures/Lecture 09 Micro 2026.pdf — 25 sidor.
+S15 = lectures/Lecture 10 Micro 2026.pdf — 25 sidor.
+S16 = lectures/Lecture 11 Micro 2026.pdf — 25 sidor.
+S17 = lectures/Lecture 12 Mikro 2026.pdf — 20 sidor.
+S18 = past exams/2020.pdf — 7 sidor.
+S19 = past exams/2021.pdf — 5 sidor.
+S20 = past exams/2022.pdf — 5 sidor.
+S21 = past exams/2023.pdf — 6 sidor.
+S22 = past exams/2024.pdf — 5 sidor.
+S23 = past exams/2025.pdf — 6 sidor.
+
+FÖRELÄSNINGAR -> FÄRDIGHETER -> TILLÄMPNINGAR
+L1, Introduction, Friberg 1.1–2.1 och 19: knapphet, val, allokering,
+  effektivitet och fördelning, modellantaganden, derivator.
+L2, Supply and demand, Friberg 2.2–2.5: direkta/inversa funktioner,
+  kurvskiften, jämvikt och effekter av chocker.
+  Grund för A4.2, A6.3 och för politik i alla tentor.
+L3, Consumer choice, Friberg 5.1–5.6: preferenser, ordinal nytta,
+  indifferens, MRS, budget, inre lösning eller hörnlösning, beteendemässiga biaser.
+  A2.2; E2022 Q5; E2021 Q4e; definitioner i Q5.
+L4, Demand curves and elasticities, Friberg 6.1–6.4: individuell efterfrågan,
+  aggregering, kompensation och elasticiteter. A2.1; E2020 Q5; Lerner.
+L5, From technology to costs, Friberg 3.1–3.7: produktion, MP, isokvanter,
+  produktivitet, kostnadsminimering, kostnadskategorier, skalavkastning.
+  Q5 i E2021, E2023, E2025; mycket återkommande definitioner.
+L6, Supply by price taking firms, Friberg 4.1–4.8: MR=MC, p=MC,
+  nedstängning på kort sikt, utträde på lång sikt, aggregering, inträde och nollvinst.
+  E2020 Q5, E2024 Q5; mekanismer i monopolistisk konkurrens.
+L7, Efficiency, Friberg 7.1–7.5: CS, PS, välfärd, DWL, pristak/prisgolv,
+  skatt och subvention. A4.2; politik och grafer i alla tentor.
+L8, Monopoly and monopolistic competition, Friberg 9.1–9.3: MR,
+  marknadsmakt, Lerner, hinder, inträde, heterogena företag.
+  A4.1/A4.3; E2021 Q3; E2022 Q3; E2023 Q1; E2025 Q3d.
+L9, Price discrimination, Friberg 12.1: första/tredje/andra graden,
+  IC/IR, bundling, abonnemang och two-part tariff.
+  A5.1/A5.2; finns i alla sex gamla tentor.
+L10, Oligopoly, Friberg 10.1–10.3: Cournot, Nash, reaktion, Stackelberg,
+  homogen och differentierad Bertrand, antal företag, asymmetriska kostnader.
+  A5.3; E2020/21/22/23 Cournot-beräkningar; E2024/25 Bertrand-beräkningar.
+L11, Externalities, Friberg 13.1–13.2: privata och samhälleliga kostnader/nyttor,
+  Pigou, utsläpp, tillstånd, Coase, kollektiva nyttigheter och allmänningar.
+  A6.1/A6.3; stora uppgifter E2020/23/24 och kollektiva nyttigheter E2025.
+L12, Asymmetric information, Friberg 14.1–14.4: adverse selection,
+  lemons, signal/screening, moral hazard, principal-agent, riskdelning.
+  A6.2; teoretiska eller numeriska frågor i alla sex tentor.
+A3: simultana/sekventiella spel, sociala preferenser, åtaganden.
+  Utvidgning av Nash som nämns i L10; omslaget anger inte vilken
+  kurs uppgiften kommer från. Avfärda den inte för att den är atypisk.
+
+FORMAT OCH OBSERVERADE TRENDER
+Tentorna 2020–2025 varar 4 timmar, har fyra huvudfrågor
+på totalt 83 poäng och en Q5 som ersätter midtermen, värd 10 poäng.
+Instruktionerna kräver svar på engelska, strukturerade och motiverade.
+Tentorna 2020–2023 anger uttryckligen tillåtna hjälpmedel/miniräknare; dra
+inga slutsatser om nuvarande tillåtelse från en gammal tenta.
+L1 p.17–18 aviserar för 2026: tenta den 23 oktober, midterm den 28 september,
+midterm som täcker L1–L6, hand-ins 7 poäng, midterm 10, final 83, totalt 100.
+Angivna gränser: Pass 50, Good 60, Very good 70, Excellent 80.
+
+Räknat per ÅR, inte per antal delfrågor:
+- Marknadsmakt och prissättning/diskriminering: 6/6, 2020–2025.
+- Skatter, subventioner eller annan reglering med överskottsresonemang:
+  6/6, 2020–2025; inkluderar tullar och pristak 2023.
+- Asymmetrisk information: 6/6, 2020–2025.
+- Kollektiva nyttigheter i strikt mening: 5/6, 2020, 2021, 2022, 2024, 2025.
+  2023 behandlar en allmänning/frekvensspektrum; kollektiv ELLER allmänning = 6/6.
+- Externaliteter uttryckligen behandlade utöver en enkel definition av kollektiv nyttighet:
+  5/6, 2020, 2021, 2023, 2024, 2025.
+- Internationell handel eller komparativa fördelar: 5/6,
+  2020, 2021, 2022, 2024, 2025.
+- Beräkning av Cournot-jämvikt: 4/6, 2020, 2021, 2022, 2023.
+  Kvalitativ jämförelse Cournot/Bertrand även 2025.
+- Beräkning av differentierad Bertrand: 2/6, 2024, 2025.
+- Numeriskt sekventiellt ledarskap: 2/6, 2021 i kvantiteter, 2024 i priser.
+- Uttryckliga auktioner: 2/6, 2023 och 2025.
+- Plattformar/nätverkseffekter/multihoming som uttryckliga modeller:
+  2/6, 2022 och 2025; andra tentor använder plattformar som kontext.
+- Fem grundläggande definitioner i den valfria Q5: 6/6.
+
+HUR EN STOR FRÅGA ÄR UPPBYGGD
+Definiera en mekanism -> lös ett grundfall -> ändra ett antagande
+(skatt, inträde, kostnader, diskriminering, information eller dragordning)
+-> jämför jämvikterna -> rita -> förklara intuitionen.
+Teman kombineras: monopol + skatt, Cournot + asymmetriska kostnader,
+subvention + externalitet, plattform + diskriminering, kredit + IC.

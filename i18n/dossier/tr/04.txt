@@ -1,0 +1,53 @@
+======================================================================
+2. ORTAK MANTIK VE MATEMATİKSEL ARAÇLAR
+======================================================================
+
+2.1 Neredeyse tüm problemlerin iskeleti
+1) Kim karar veriyor? Tüketici, firma, banka, otorite, teklif veren.
+2) Amaç ne? Fayda, kâr, minimum maliyet veya SOSYAL rant.
+3) Hangi değişkeni seçiyor? Miktar, fiyat, çaba, girdiler, sözleşme.
+4) Ne veri? Fiyatlar, gelir, rakip, teknoloji, bilgi.
+5) Hangi kısıtlar? Bütçe, üretim, kapasite, negatif olmama,
+   katılım, teşvik, yeniden satış yasağı, takipçinin tepkisi.
+6) Amaç fonksiyonunu ve tutarlılık ilişkilerini yaz.
+7) Çöz; tanım kümesini, köşe çözümlerini, optimumu ve katılımı kontrol et.
+8) İstenen fiyatlara, miktarlara, kârlara ve rantlara geri dön.
+9) Küçük bir sapmanın amacı neden iyileştirmediğini açıkla.
+
+«Marginal», bir ek birimin etkisi veya sürekli bir modelde
+türev demektir. «Average», toplamın miktara bölümü demektir.
+Marjinal bir karar ek faydayı ve ek
+maliyeti karşılaştırır. Kaçınılmaz bir sabit maliyet bu karşılaştırmaya girmez,
+ama toplam kârda ve uzun dönemde kalma kararında sayılır.
+
+2.2 Türevler ve optimallik koşulları
+y=f(x): f'(x)=dy/dx, yerel eğim. Birden fazla değişken için,
+diğerlerini sabit tutarak kısmi türev kullan.
+d(k)/dx=0; d(ax)/dx=a; d(x^n)/dx=n*x^(n-1).
+d[f(x)g(x)]/dx=f'(x)g(x)+f(x)g'(x), çarpım kuralı.
+p(Q)Q için MR=p(Q)+Q*p'(Q), yalnızca p'(Q)Q değil.
+İçbükey bir fonksiyon için FOC f'(x)=0 iç maksimumu verir.
+f''(x)<0'ı kontrol et veya gerekirse sınırlardaki değerleri karşılaştır.
+Tek başına bir FOC ne maksimumu, ne uygun bir miktarı, ne de üretimi garanti eder.
+
+Beklenen bir toplam için: E[X]=toplam(durumun olasılığı * sonuç).
+Ağırlıklandırmadan önce her durumda NET sonucu hesapla.
+d olasılıkla uygulanan bir cezanın beklenen maliyeti d*F'dir.
+
+2.3 Alanlar ve birimler
+Dikdörtgen = taban*yükseklik; üçgen = taban*yükseklik/2.
+Rant = marjinal ödeme istekliliği ile ilgili maliyet/fiyat arasındaki alan.
+Genel biçim: alan = Q'nun fonksiyonu olarak dikey farkın integrali.
+Üçgenler, ele alınan aralıkta doğrusal eğriler varsayar.
+Para/birim cinsinden fiyat * birim cinsinden miktar = para.
+Q BİN ton ve p dolar/ton cinsindense, alan
+BİN dolar cinsindendir. Bu nokta sonucu 1000 kat değiştirir.
+Esnekliğin birimi yoktur; eğimin genellikle vardır.
+
+2.4 Hesaplamadan önce yeniden yaz
+Doğrudan talep Q=a-bp -> ters talep p=a/b-Q/b.
+Doğrudan arz Q=-c+dp -> ters arz p=c/d+Q/d.
+Bir piyasa grafiğinde: Q yatay, p dikey; ters biçimleri
+çiz. Özel talepleri toplamak için: aynı fiyattaki miktarları topla,
+fiyatları değil. Bir kamu malı için: marjinal faydaları
+aynı Q'da topla, yani dikey olarak.

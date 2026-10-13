@@ -1,0 +1,212 @@
+25ly7ey3zjm Die Nachfrage ist gleich dem Gesamtschaden
+21vjy4csdpb MPB misst den privaten Grenzwert, nicht die Schäden.
+16vwn5591d8 Der Verlust kommt von den überzähligen Einheiten
+198w0demy9x Die ersten 30 Einheiten bleiben gesellschaftlich nützlich. Der Effizienzverlust kommt von den Einheiten zwischen 30 und 45: Jede kostet die Gesellschaft mehr, als sie wert ist. Man summiert nur diese Differenz über den überzähligen Bereich, nicht alle Schäden aller Einheiten.
+2f45bvfyw9f DWL = Fläche zwischen MSC und MSB von Q* bis Qm. Die Kurven sind linear: {{DWL = ½ × (45 − 30) × 45 = 337,5}}.
+igix0dufw5 Der Gesamtschaden umfasst Einheiten, deren Nutzen ihre Produktion noch rechtfertigt.
+1hdmh5w8kdk Der DWL vergleicht die erreichte Wohlfahrt mit der bei der besten im Modell erreichbaren Menge.
+y0kjfdyz22 Bei Q = 45 ist MSC − MPB = 100 − 55 = 45; bei Q = 30 ist dieser Abstand null. Daher das Dreieck.
+1obhpz0qo74 Gesamtschaden 1 012,5 und DWL 337,5 beantworten nicht dieselbe Frage.
+1nackaxw0wc Alles Benzin abzuschaffen würde auch sehr nützliche Fahrten abschaffen. Effizienz verlangt, die Einheiten abzuschaffen, deren Gesamtkosten ihren Wert übersteigen.
+15xgxpd2ld4 Vergleiche die Flächen EXT und DWL. Die eine misst den gesamten Schaden, die andere nur den vermeidbaren Nettoverlust durch Qm > Q*.
+23uryg4sk3q Dreieck zwischen 30 und 45, Endhöhe 45: welcher DWL?
+22cl2jwbbi1 Warum ist der DWL hier kleiner als der Gesamtschaden?
+24wg6t0uxag Weil die Schäden der Anwohner nicht zählen
+19phomicign Sie zählen voll in MSC und in der Wohlfahrt.
+zmizyt23hh Manche verschmutzenden Einheiten bleiben gesellschaftlich nützlich
+nvtalpfdq3 Ihr Nutzen übersteigt ihre sozialen Kosten; sie gehören zu Q*.
+zj28d0rcqt Eine Steuer ändert, was der Fahrer entscheidet
+1ou8zf0krmt Der Staat kann einen Betrag pro Liter verlangen. Der Fahrer zahlt dann mehr, als die Tankstelle erhält. Dieser Abstand senkt die gewählte Menge: Ein Liter, der zum privaten Preis lohnend schien, ist es mit der Steuer vielleicht nicht mehr.
+miafmm37f2 Steuerkeil: pb − ps = t, mit pb = MPB(Q), ps = MPC(Q). Gleichgewicht: MPB = MPC + t.
+15g3dlaq9c3 Käufer entscheiden nach dem, was sie tatsächlich zahlen, pb.
+1g26l93ljhh Verkäufer entscheiden nach dem, was sie erhalten, ps.
+1rxsqvjyr3z Die Steuer verbindet diese beiden Entscheidungen: pb = ps + t. Wer die Steuer formal abführt, trägt nicht unbedingt ihre gesamte wirtschaftliche Last.
+12cd9l9hwsy Mit t = 20: 100 − Q = 10 + Q + 20 ⇒ Q = 35. pb = 65; ps = 45; 65 − 45 = 20.
+1iwcr2ve9hf Du vergleichst den Wert deines Liters nicht mehr mit den 45, die die Tankstelle erhält, sondern mit den 65, die du bezahlst.
+1f4ft6xnyp2 Die Kurve MPC + Steuer bestimmt die private Entscheidung nach dem Eingriff. Die Steuer von 20 deckt sich nicht überall mit MSC.
+2gg8iftzlth Mit einer Steuer von 20: Welche Menge wird gehandelt?
+bnwcix83l6 Bei Q = 35: Welchen Preis zahlt der Fahrer?
+1q4r3avtt4 Welchen Nettopreis erhält die Tankstelle?
+2g0elkgs1nj Eine Verbesserung ist nicht unbedingt das Optimum
+10vxnvcyl2o Die Steuer von 20 beseitigt zehn überzählige Einheiten, aber der Markt bleibt bei 35 statt 30. Bei 35 ist der Grenzschaden 35, höher als die Steuer. Die letzte Einheit bleibt im Verhältnis zu ihren sozialen Kosten zu billig.
+uq2bireerh Verbleibender DWL: ½ × (35 − 30) × [MSC(35) − MPB(35)] = 37,5.
+1lr6nxeda4s Man muss die Menge nach Steuer mit Q* vergleichen, nicht nur feststellen, dass sie gesunken ist.
+zg3z4g1hl9 Zwischen 30 und 35 übersteigen die sozialen Kosten noch den Wert.
+2crrla1sa8q Das Steueraufkommen ist ein Transfer an den Staat; an sich ist es keine Vernichtung von Ressourcen.
+1ijnuco3e97 Bei Q = 35 ist MSC = 80 und MPB = 65: Höhe 15, Basis 5, also DWL = 37,5. Steueraufkommen = 20 × 35 = 700.
+13skzympsav Du kannst „es ist besser“ sagen, wenn du 337,5 mit 37,5 vergleichst, und dann „noch nicht genug“, wenn du Q > 30 bemerkst.
+1pqq40xovd4 Das kleine verbleibende Dreieck ist der vermeidbare Verlust. Das Rechteck des Steueraufkommens ist ein Transfer.
+1scvmseen6l Nach einer Steuer von 20, Basis 5 und Höhe 15: Welcher DWL bleibt?
+1b699pheeoa Sind die 700 Steueraufkommen automatisch ein DWL?
+1o33b6ta70e Ja, jede Steuerzahlung verschwindet
+24dy3gzgrkx Das Geld erhält der Staat; es verdunstet nicht.
+s29rvfmqqt Nein, es ist ein Transfer, der beim Staat gezählt wird
+24xe7ki6oti Um W zu berechnen, addiere CS + PS + Aufkommen und ziehe dann den tatsächlichen Schaden ab.
+8dan6r9lzd Warum die richtige Steuer 30 beträgt, nicht 45
+1e3w2pr7awr Du willst, dass die privaten Entscheidungen genau bei der effizienten Menge 30 aufhören. Also muss der Schaden des Liters an dieser Stelle bezahlt werden. Eine Steuer von 45 würde den Schaden des alten Marktes ansetzen; sie würde die Menge zu stark senken.
+1p43p3uydbo Pigou-Steuer {{t* = MEC(Q*) = 30}}. Bei Q*: pb = 70, ps = 40, Abstand = 30. Diese Regel setzt einen ansonsten wettbewerblichen Markt und eine noch nicht internalisierte Externalität voraus.
+1c3nz84x22z Nach der Steuer ändert sich die Menge: Auch der Grenzschaden ändert sich.
+17d5f7jqjlo Man wählt also zuerst Q* mit MSB = MSC und bewertet dann MEC bei Q*.
+48egi8bw63 Eine Steuer von 30 richtet den Grenzanreiz am Zielpunkt aus; MPC + 30 muss nicht bei allen Mengen mit MSC zusammenfallen.
+15sytsvcjba t = 30 ergibt 100 − Q = 10 + Q + 30, also Q = 30. Aufkommen = 900; DWL = 0 in diesem Modell.
+i1gjbgkkt5 Du legst den Preis des externen Effekts für den letzten Liter fest, den die Gesellschaft behalten will, nicht für den letzten Liter der alten Tankfüllung.
+fs1lkzrxpb Teste 20, 30 und dann 45 bei der Politik. Ziel ist, Qp an Q* anzugleichen, nicht die Steuer so hoch wie möglich zu machen.
+1598p30xrt2 MEC = Q und Q* = 30: Welche optimale Steuer?
+2fw19ptz14q Wo bewertest du MEC in t* = MEC(Q*)?
+atwm9e180a Immer bei der alten privaten Menge
+4xt8zycbod Genau diese Menge wird die Steuer verändern.
+78rxm81d0l Bei der gesellschaftlich effizienten Menge
+2bgiq1jqwu8 Das ist der Punkt, an dem der private Anreiz ausgerichtet werden muss.
+157batntzxr Wenn sich die Achse ändert, muss deine Überlegung es bemerken
+hj4ehipspc Ein Unternehmen kann Emissionen senken, ohne seine Produktion unbedingt ebenso stark zu senken. Hier zählt die Achse die verbleibenden Emissionen e. Nach links zu gehen heißt, mehr zu vermeiden. Die ersten Senkungen sind leicht; die letzten kosten mehr. Deshalb fällt MAC, wenn man dieses Diagramm nach rechts liest.
+2ug73td5dm MAC = Grenzvermeidungskosten. L11: MAC = 10 − e, MEC = e/2. Unter einer Steuer wählt die Firma MAC = t; die Gesellschaft wählt MAC = MEC.
+t6akyzkay2 Eine Emissionssenkung vermeidet MEC an Schaden, kostet aber MAC an Ressourcen.
+1usu7wt1uit Senken lohnt sich, solange der vermiedene Schaden die Vermeidungskosten übersteigt.
+1zmicrh8jpv Eine Emissionssteuer spart t bei jeder vermiedenen Einheit: Die Firma senkt bis MAC = t.
+2gom9nb5xtq Steuer 2: 10 − e = 2 ⇒ e = 8. Optimum: 10 − e = e/2 ⇒ e = 20/3, Steuer = 10/3. Eine Steuer auf die Produktion ist nur gleichwertig, wenn die Emissionen pro Einheit fest sind.
+mc4xb1tk78 Ein neuer Heizkessel kann Verschmutzung vermeiden, ohne deine Fabrik zu schließen. Prüfe also, ob nach einer produzierten oder einer emittierten Menge gefragt wird.
+sojwgfd06i Achtung: Die Achse misst die verbleibende Verschmutzung
+2fibds4nmkh e, verbleibende Emissionen
+2827vj9qt51 € pro vermiedene Einheit
+1frpa6y51cp L11: MAC = 10 − e, MEC = e/2. Je weiter rechts, desto weniger hast du die Verschmutzung bereits gesenkt. Der Punkt MAC = MEC ergibt e = 20/3.
+2bupwtx2wyb Kosten, eine weitere Emissionseinheit zu vermeiden, ausgehend vom Niveau e.
+uxlftyuybm Schaden, der durch die Vermeidung dieser Emissionseinheit verhindert wird.
+tgpczr4kxl Optimum: e = 6,67
+20x8hk3r3kg MAC = 10 − e. Bei einer Emissionssteuer t = 2: Welche Emission wählt die Firma?
+5ph1rflclx Emissionen
+hf02nhi9ww Löse 10 − e = e/2 für die effizienten Emissionen.
+b86mk9i517 Gleiche Obergrenze, unterschiedliche Aufteilung der Anstrengung
+1xn8szkxb16 Zwei Werke müssen die Emissionen insgesamt senken. Das erste kann günstig vermeiden; das zweite hat eine schwer anpassbare Anlage. Von beiden genau dieselbe Anstrengung zu verlangen verschwendet Ressourcen: Das erste kann mehr senken, Zertifikate verkaufen und dem zweiten die teuersten Senkungen ersparen.
+1gxl12zqj7 Bei reibungslosem Handel und inneren Lösungen gleichen Zertifikate die MAC an den Zertifikatspreis an. Die Obergrenze legt die Gesamtemissionen fest; die Anfangszuteilung verteilt die Renten.
+6ep3rdx4n6 Wenn die MAC sich unterscheiden, senkt die Verlagerung einer Vermeidungseinheit zur günstigeren Firma die Gesamtkosten.
+1pqrhn2g52x Der Handel bleibt profitabel, solange die eingesparten Kosten die nötige Kompensation übersteigen.
+28dgzpj48si Bei gleichen MAC senkt keine marginale Verlagerung die Gesamtkosten bei derselben Obergrenze weiter.
+1plnvsat25c Konstruiertes Beispiel: MAC_A = 4 und MAC_B = 10. Lässt man A eine Einheit mehr vermeiden, kann B eine Einheit weniger vermeiden: Nettoersparnis 6, vor Handelskosten.
+16cta04wqpu Wenn du eine Tonne für 4 vermeiden kannst, kannst du ein Zertifikat für mehr als 4 an ein Unternehmen verkaufen, das für diese Tonne 10 ausgegeben hätte.
+1j8iq0c6vo0 Was kostet die nächste vermiedene Tonne, und wo?
+1pe5y6zx86y € pro Tonne
+rt10rmvmqx Konstruiertes Beispiel zur Veranschaulichung eines marginalen Tauschs; es sind nicht die Gesamtkosten zweier realer Werke.
+kmaimp2f22 Werk A
+210s2pobwkm Etwas mehr Vermeidung kostet 4.
+k9tirjq61x Werk B
+16afpvpdci3 Etwas weniger Vermeidung spart 10.
+2bmet6i4isx A vermeidet zu 4, B zu 10. Welche Verlagerung der Anstrengung senkt die Kosten?
+aay3spfemr B vermeidet mehr, weil es die höheren MAC hat
+1mcm99sjrou Du würdest die Anstrengung zur teureren Firma verlagern.
+1ihsnav4hna A vermeidet mehr; B vermeidet weniger
+3whqvatyy8 Dieselbe vermiedene Tonne kostet 4 statt 10.
+13arocddfvj Identische Quoten sind immer am günstigsten
+8lwv7oeuoi Sie berücksichtigen die unterschiedlichen MAC nicht.
+1dv13fal0p9 Welche Kostenersparnis bringt eine von B nach A verlagerte Tonne?
+jmclkxj1jw 10 bei B gespart − 4 bei A ausgegeben = 6.
+8h0s3ttbkp Steuer oder Quote, wenn niemand die Vermeidungskosten kennt
+1prw0o30igc Der Staat muss sein Instrument wählen, bevor er weiß, wie viel es die Werke kosten wird, ihre Emissionen zu senken. Mit einer Steuer legt er den Preis der Verschmutzung fest: Jedes Werk senkt, bis die nächste Tonne es so viel kostet wie die Steuer, also hängt die Emissionsmenge von seinen wahren Kosten ab. Mit einer Quote legt er die Menge fest: Die Emissionen sind bekannt, die Kosten, sie zu erreichen, aber nicht. Wenn jede überzählige Tonne Schäden verursacht, die sehr schnell steigen, ist ein Irrtum bei der Menge teuer: Die Quote schützt besser.
+yai546zvjc Instrumentenwahl unter Unsicherheit („prices versus quantities“): Bei sehr steilem [[MEC]] und unsicheren [[MAC]] erzeugt der Mengenfehler einer Steuer einen großen Verlust; die Quote fixiert e und begrenzt diesen Verlust. Ist MEC flach und MAC steil, gilt das Umgekehrte: Die Steuer vermeidet übermäßige Erfüllungskosten. Das ist ein Argument über relative Steigungen, keine allgemeine Regel.
+aahl2scaon Eine Steuer garantiert den Preis der vermiedenen Tonne, nicht die Zahl der Tonnen: Ist Vermeidung teurer als erwartet, verschmutzen die Werke mehr.
+enwa6hu67n Eine Quote garantiert die Zahl der Tonnen, nicht die Kosten: Ist Vermeidung teurer als erwartet, zahlen die Werke viel, um die Obergrenze einzuhalten.
+a0b5twhfg9 Welcher der beiden Fehler mehr kostet, hängt von den Steigungen ab: Steigt der Grenzschaden schnell, ist jede überzählige Tonne sehr teuer, also legt man lieber die Menge fest.
+bbhiowkfw8 Konstruiertes Beispiel: MEC = 3e und erwartete MAC 10 − e ⇒ e = 2,5 und t = 7,5. Sind die MAC tatsächlich 12 − e, wird das Optimum e = 3. Die Steuer 7,5 lässt e = 4,5: Verlust ½ × 1,5 × 6 = 4,5. Die Quote 2,5 weicht nur um 0,5 ab: Verlust ½ × 0,5 × 2 = 0,5.
+1h9yyvnyzqw Du berätst die deutsche Regierung (E2021 Q1d): Der Kohleschaden steigt schnell und die Vermeidungskosten sind schlecht bekannt. Du wählst das Instrument, das den großen Fehler vermeidet, hier die Quote, und begründest es mit den Steigungen.
+95tb6ncy9d Die wahren Vermeidungskosten sind erst nach der Wahl bekannt
+1gbbtrh2whm Konstruiertes Beispiel. MEC = 3e steigt schnell; erwartet werden MAC 10 − e, sie erweisen sich aber als 12 − e. Geplant: e = 2,5 und t = 7,5. Wahres Optimum: e = 3. Die Steuer lässt e = 4,5 (Verlust 4,5); die Quote bleibt bei 2,5 (Verlust 0,5).
+1m6k6vxbi5i Erwartete MAC: 10 − e
+9hvbqre841 Was die Vermeidung der nächsten Tonne nach Ansicht des Staates kostet.
+1ijl3owisz1 Tatsächliche MAC: 12 − e
+22bw15k4la0 Die wahren Kosten, entdeckt nach der Wahl des Instruments: Vermeidung ist teurer als erwartet.
+4hg4wmcug0 Der Schaden der nächsten Tonne steigt schnell: Eine überzählige Tonne kostet die Anwohner immer mehr.
+1ryt7rintmw Steuer t = 7,5
+2b01fxj5fr8 Die Steuer legt den Preis der Verschmutzung fest: Die Firma verschmutzt bis MAC = 7,5, unabhängig von ihren wahren Kosten.
+vaqo2m45tm Quote e = 2,5
+unn4aepnps Die Quote legt die Menge fest: 2,5, unabhängig von den Kosten, sie zu erreichen.
+ijlohemiz1 Wahres Optimum: e = 3
+1u1o4reilg8 Steuer: e = 4,5
+1hih1p6ofcs Sehr steiler Grenzschaden, schlecht bekannte Vermeidungskosten. Welches Instrument begrenzt den Verlust am besten?
+d9r7zdiq8q Eine Steuer, weil sie immer effizienter ist
+8iutmeyn5n Unter Unsicherheit gewinnt kein Instrument immer: Alles hängt von den Steigungen ab.
+rkcswzr9ea Eine Quote (Emissionsobergrenze)
+270e5w3wj4b Sie legt die Menge fest: Der teure Fehler, viel zu viel zu verschmutzen, wird vermieden.
+2f6l8a9htjr Egal: Steuer und Quote ergeben immer dasselbe Ergebnis
+1qv4mvj423w Ohne Unsicherheit fallen sie zusammen; mit Unsicherheit legt die eine den Preis, die andere die Menge fest.
+21wdyq656by Tatsächliche MAC 12 − e und Steuer 7,5: Wie viele Emissionen behält die Firma?
+gx32972zxc 12 − e = 7,5 ⇒ e = 4,5 statt des Optimums 3.
+1n0gl9uvpyr Verhandeln kann internalisieren, unter präzisen Bedingungen
+fgh8cg8d3c Wenn ein Werk und sein Nachbar leicht verhandeln können und wissen, wem das Recht zu verschmutzen oder saubere Luft zu verlangen gehört, können sie den Gewinn einer nützlichen Senkung teilen. Aber hunderttausend Betroffene, umstrittene Messungen und teure Verträge können eine solche Einigung verhindern.
+1z9r3mpyjr0 Coase: Definierte Rechte und Transaktionskosten von null ermöglichen unter den Annahmen des Theorems eine effiziente Allokation. Die Zuteilung der Rechte ändert die Zahlungen und die Verteilung.
+18iuwt4sr51 Ist die Vermeidung eines Schadens mehr wert, als die Senkung kostet, gibt es eine Rente zu teilen.
+2dlx1ah948r Das Anfangsrecht bestimmt, wer zahlen muss, um die Änderung zu erreichen.
+19you3kf3q8 Die Kosten für Messung, Koordination und Verträge können die Rente übersteigen und die Einigung blockieren. Eine Fusion, die ein Monopol schafft, kann zudem eine andere Verzerrung einführen.
+erf1aqjuiw Den Lärm zu senken kostet die Werkstatt 20 und ist dem Nachbarn 50 wert. Eine Kompensation zwischen 20 und 50 macht die Senkung für beide lohnend, wenn das Anfangsrecht der Werkstatt gehört.
+18rr7c5p9oy Du würdest bis zu 50 zahlen, um besser zu schlafen. Die Werkstatt akzeptiert ab 20. Aber ohne klares Recht oder durchsetzbaren Vertrag garantiert dieser mögliche Gewinn keine Einigung.
+mn8y8trje2 Die Rente einer Einigung
+1ikey9pw30t Konstruiertes Beispiel; bedingte Effizienz, kein Versprechen, dass jede reale Verhandlung gelingt.
+26ijjfpnh16 Der Nachbar
+ua17j6bj8r Bewertet den vermeidbaren Schaden: 50
+1o5m3m1pvbk Wäre bereit, höchstens 50 für die Senkung zu zahlen.
+1byatp5uac4 Die Werkstatt
+1dxb3tnbtzv Bewertet die Kosten der Senkung: 20
+1erz2sqjtga Eine Kompensation über 20 stellt sie besser.
+2azxzw9pecd Beide
+12alwuf96a5 Suchen eine Zahlung zwischen 20 und 50
+wbdpldz5eg Die Gesamtrente von 30 kann geteilt werden, wenn Verhandeln möglich ist.
+1or9qes60gm Was ändert eine andere Anfangszuteilung der Rechte zwangsläufig?
+10sd3zwoqvo Die effiziente Menge muss sich immer ändern
+o8a3sa2bzt Das ist nicht die Schlussfolgerung des Theorems bei kostenlosem Verhandeln.
+1636vi0g33x Wer zahlt und wie die Gewinne verteilt werden
+1hbjx3egntt Unter den Annahmen von Coase kann die Effizienz gleich bleiben, aber die Einkommen ändern sich.
+25k435p854p Gar nichts, nicht einmal die Zahlungen
+29w7447c3et Das Anfangsrecht ändert den Ausgangspunkt und die Kompensationen.
+5wkpun1n0i Gleicher Mechanismus, andere Zahlen: Textilien
+t411qffao Wechseln wir das Produkt. Textilien verschmutzen; die Gleichungen sind andere, aber die Frage bleibt: „Welche Kosten vergessen die privaten Entscheidungen?“. Geh von dieser Frage aus und konstruiere dann die beiden Gleichgewichte. Die Ergebnisse des Benzinmarkts musst du nicht auswendig lernen.
+1lh9l5a3q6s Fall E2024 aus dem Dossier: MPB = 200 − Q, MPC = 80 + Q, MEC = Q, also MSC = 80 + 2Q.
+v50oj8g3dw Der Name des Produkts bestimmt nicht die Methode; die Anreize und die fehlenden Kosten bestimmen sie.
+17enm1zrbm5 Das private Gleichgewicht ignoriert MEC, während das soziale Optimum sie hinzufügt.
+20wlm9ond74 Die Steuer wird erst berechnet, nachdem Q* gefunden ist; der DWL misst die überzähligen Einheiten.
+30g4cpik6i Qm = 60; Q* = 40; optimale Steuer 40; Höhe des DWL bei Qm: MSC − MPB = 200 − 140 = 60; DWL = ½ × 20 × 60 = 600.
+1y2zf9qkggk Bei einer neuen Aufgabe: Bestimme die Dritten und die ignorierten Kosten, bevor du in deinem Gedächtnis nach einer Formel suchst.
+zin21imwsf Das Diagramm ändert für Textilien die Parameter. Die Überlegung privat gegen sozial bleibt gleich.
+22shneqb7aw Textilien: 200 − Q = 80 + 2Q. Welches Q*?
+1a7ftp1zcvp Mit MEC = Q: Welche optimale Steuer für Textilien?
+1rh8bcex1gg Qm = 60, Q* = 40, letzter Grenzabstand 60: welcher DWL?
+1shylkody4e Sie entscheiden nach dem, was sie erhalten und zahlen.
+toplml3e4t MEC erscheint in der privaten Transaktion nicht.
+143h7tj332w MSC = MPC + MEC addiert alle realen Grenzkosten.
+17nsgm3nv7c MPB = MPC ergibt Qm > Q*, wo MSB = MSC.
+23icvn36mlf t* = MEC(Q*) lässt den Wettbewerbsmarkt bei der effizienten Menge aufhören.
+10nci0q87af Der Fahrer kauft nach seinem privaten Wert und dem Preis; die Tankstelle produziert nach ihren privaten Kosten. Die Anwohner erleiden einen Schaden, der nicht in ihre Transaktion eingeht. Die sozialen Kosten MSC = MPC + MEC übersteigen also die privaten Kosten. Der Markt Qm = 45 enthält Liter, deren soziale Kosten ihren Wert übersteigen; Q* = 30 schließt sie aus. Eine Steuer gleich MEC(Q*) = 30 lässt diesen Grenzschaden bezahlen und richtet die privaten Entscheidungen an der effizienten Menge aus.
+lt2ka8zb9z Fahrer und Tankstelle vergleichen private Gewinne und Kosten
+gjchva5wu9 Die Anwohner erleiden einen unbezahlten Schaden
+rem819d1sd Die sozialen Kosten übersteigen die privaten Kosten
+3p4qdy3lu5 Der Markt konsumiert gesellschaftlich überzählige Einheiten
+1wbn1fasyu9 Eine bei Q* bewertete Steuer korrigiert den Grenzanreiz
+2296o3lm1q0 Erkläre einem Freund, warum eine Tankfüllung für Käufer und Verkäufer lohnend sein und trotzdem zu viele Liter für die Gesellschaft enthalten kann. Verbinde die Akteure, die vergessenen Kosten, Qm/Q* und die optimale Steuer.
+sskh3oy9ev Die private Entscheidung
+1651rd9m10a Fahrer und Tankstelle zählen nur private Gewinne und Kosten.
+15ys9rqcipq Die Kosten für Dritte
+15dt9443l7g Der Schaden für die Anwohner fehlt im privaten Preis.
+232q03ik2o4 Warum zu viele Liter
+207dsrvo8ko MSC > MPC impliziert Qm > Q*: Die überzähligen Einheiten kosten die Gesellschaft mehr, als sie wert sind.
+g7kb51kx88 Die Korrektur
+20vtzby7bf Die optimale Steuer ist der bei Q* bewertete Grenzschaden, nicht der bei der alten Menge.
+1a978kjd9h0 MEC misst den Schaden einer weiteren Einheit; der Gesamtschaden summiert alle Einheiten.
+12vgmb3diyy Finde Q* und bewerte dann MEC(Q*). Die Steuer ändert die Menge, also ist das alte MEC(Qm) nicht das Ziel.
+75v2c6gbjo Das Steueraufkommen ist ein Transfer an den Staat. Der DWL misst einen Nettoverlust an Wohlfahrt.
+16qpbt24691 Eine Fabrik bezahlt ihre Beschäftigten, entschädigt aber die Nachbarn nicht für den Lärm. Wo ist die Externalität?
+dmjvodrdrb In den Löhnen
+145imeugoyz Sie sind bereits in den privaten Kosten.
+2b72i52mohh Im nicht entschädigten Lärm
+10c88w50jn6 Er trifft Dritte außerhalb des Tauschs.
+1rvaiqil4z Warum kann ein freiwilliger Tausch ineffizient sein?
+kdebpm9rcs Weil jeder Tausch Wohlfahrt vernichtet
+1qtzwu56gs9 Tausch kann einen Gewinn bringen; alle Wirkungen müssen gezählt werden.
+xrin89ezrc Dritte können einen unbezahlten Schaden tragen
+1kg3j38aa3e Eine private Einigung garantiert nicht die Wohlfahrt aller.
+21clzhr7yxl MEC bezeichnet…
+1pghghsg15z Den Gesamtschaden aller Einheiten
+10bqhiyo7v9 Das ist das Integral von MEC.
+2g93wwa26j9 Den Schaden für Dritte durch eine weitere Einheit
+ohoqokjp6p Marginal = eine Einheit mehr.
+2csziwrmm8s Ein klar definiertes Verschmutzungsrecht mit kostenlosem Verhandeln garantiert nach Coase…
+1u9pks66g6h Dass der Staat automatisch jeden Schaden bezahlt
+1y9d68aq214 Coase beschreibt das Verhandeln der Parteien.
+18sl0y77vg4 Eine Möglichkeit, effizient zu verhandeln, mit einer Verteilung, die von den Rechten abhängt
+ra58mmk0g1 Die Annahmen betreffen Rechte und Kosten; die Zahlungen ändern sich.

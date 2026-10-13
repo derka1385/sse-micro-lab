@@ -1,0 +1,48 @@
+======================================================================
+5. ELASTICITÀ — L4 E A2
+======================================================================
+
+Elasticità di Q rispetto a z: variazione % di Q per una variazione dell'1%
+di z, localmente. Forma discreta di L4: (Delta Q/Q0)/(Delta z/z0).
+Forma puntuale: epsilon_Q,z=(dQ/dz)*(z/Q); derivata parziale se serve.
+
+Prezzo proprio: epsilon_D=(dQD/dp)*(p/QD), in genere negativa.
+Offerta: epsilon_S=(dQS/dp)*(p/QS), in genere positiva.
+Prezzo incrociato: epsilon_ij=(partial Q_i/partial p_j)*(p_j/Q_i).
+Reddito: eta=(partial Q/partial I)*(I/Q).
+Prezzo incrociato positivo -> sostituti; negativo -> complementi.
+Reddito negativo -> inferiore; positivo -> normale; >1 -> lusso.
+Domanda anelastica: -1<epsilon_D<0; unitaria: -1; elastica: <-1.
+Perfettamente anelastica: 0, curva verticale. Perfettamente elastica:
+valore assoluto infinito, curva orizzontale nel caso limite.
+
+Approssimazione della variazione: %Delta Q ≈ epsilon * %Delta z.
+Obiettivo di quantità: %Delta z ≈ %Delta Q / epsilon.
+Mantenere il segno: un calo di prezzo ed epsilon negativo danno un aumento di Q.
+Per una variazione ampia, precisare la convenzione; l'approssimazione
+lineare non è un'identità di una funzione a elasticità costante.
+Se Q=A*p^epsilon, esattamente: Q1/Q0=(p1/p0)^epsilon.
+Elasticità d'arco (complemento): usare le medie (Q0+Q1)/2 e
+(p0+p1)/2 in entrambe le percentuali. Non mescolare le convenzioni.
+
+Esempi L4: Q passa 6->4, p 1->2: epsilon su base iniziale=-1/3.
+epsilon=-1.5, il prezzo cala del 10% ->Q aumenta circa del 15%.
+epsilon=-0.5, obiettivo Q +5% ->prezzo circa -10%.
+eta=-2, reddito +10% ->Q circa -20%.
+
+Domanda lineare Q=a-bp: derivata=-b costante, epsilon=-b*p/(a-bp)
+VARIABILE. Più p è alto, più |epsilon| è grande, a parametri fissi.
+Domanda inversa p=A-BQ: epsilon=-p/(B*Q).
+Non usare dp/dQ al posto di dQ/dp senza prendere l'inverso.
+Ricavo R=pQ: dR/dp=Q*(1+epsilon_D).
+Domanda elastica: un aumento di prezzo riduce R; anelastica: un aumento di prezzo
+aumenta R; unitaria: ricavo localmente stazionario.
+Il profitto dipende anche dai costi: ricavo massimo e profitto massimo
+non sono sempre allo stesso prezzo.
+
+Orizzonte lungo -> spesso più possibilità di sostituzione.
+Definizione stretta di un prodotto -> spesso più sostituti.
+L4 studio sull'alcol, valori del MATERIALE, non regole universali:
+Own-price spirits -1.3, beer -0.9, wine -0.2; cross-price Danimarca
+0.3/0.5/0.2; income 1.4/1.0/0.6; stores e Fridays 0.1/0.2/0.2.
+Questi numeri illustrano la stima empirica, non una formula da memorizzare.

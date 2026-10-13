@@ -1,0 +1,200 @@
+1w0dy7dfn1a Meine Ursache-Wirkungs-Glieder analysieren
+162wo0w5vxw Schreib mindestens ein paar Sätze.
+1lm94wqze1r Die automatische Erkennung ist ungefähr: Prüfe die vorgeschlagenen Glieder und markiere die, die du anders formuliert hast.
+144ek6k0gpq Glied nicht erkannt
+1yinlvcipz0 Glied vorhanden
+1k2mut90p1y du hast es anders formuliert
+mob8gfoo2b Wortschatz zum Verfeinern:
+29e56v90j9h Ich habe es anders gesagt
+20fbpc7abb0 Zeig mir dieses Glied
+jedf4wa65s Möglicher Begriffsfehler
+calguv5a8z Das meinte ich nicht
+4wt353yvos {a}/{b} Ursache-Wirkungs-Glieder
+gg677qjnyz {n} Fehler zu korrigieren
+okaj0ybmxc Erklärung prüfen
+fl3ifyqdmi Solide Wirkungskette. Entscheidend ist, dass jedes Glied das nächste verursacht — dein Wortschatz lässt sich noch verfeinern.
+22vtd8splja Es fehlen Glieder: Vervollständige deine Erklärung und starte die Analyse dann neu.
+1m178ow0ggz Mustererklärung ausblenden
+1orpnfdjrn2 Mustererklärung ansehen
+1vmji71q5bg Deine Antwort …
+1a97w109j9a Deine schriftliche Antwort
+h1kv2tvojc Mit der Musterantwort vergleichen
+24pinnd05du Hak an, was deine Antwort wirklich enthält (vorausgewählt, wenn wir es erkannt haben):
+24ibfi3z0wm Sprache: Deine Antwort scheint auf Französisch zu sein. In der Prüfung antworte auf Englisch.
+1hkaaufi8au Prüfen
+1go3e5t4hwv (inkl. Subvention)
+th8g9g4lxu (inkl. Steuer)
+1r25w8mxaub Gehandelt: Sie ist dem Käufer {b} wert{sub} und kostet den Verkäufer {c}{tax}.
+27snqtpzrqn Nicht gehandelt: Der Käufer würde nur {b}{sub} für Kosten von {c}{tax} zahlen.
+1dxsc91md0d Für die Gesellschaft: Wert {v} − Kosten {c} = {g}.
+2cerrvquumg ⇒ Fehlende Einheit: Die Gesellschaft verliert {g} €, weil sie nicht produziert wird.
+5vzaj367vv ⇒ Überzählige Einheit: Sie vernichtet {g} € an Wohlfahrt.
+6zguls8rqm Q, in {u}
+rzvcebd0a3 Einheit am Punkt {q}
+1eakarhh4np Verschieb den Regler · klick auf eine Kurve, eine Fläche oder einen Balken
+wcpc7iawiu Was eine zusätzliche Einheit dem Käufer im Portemonnaie wert ist, nachdem die Subvention gezahlt wurde: MPB + s.
+1ysgmvajwjs Was eine zusätzliche Einheit den Produzenten kostet, nachdem die Steuer gezahlt ist: MPC + t.
+mtsy9zbnhs Am Punkt Q = {q}: {v} € pro Einheit.
+1lu86pozeqr Wohlfahrtsverlust — fehlende Einheiten
+1ghcoy82ygm Wohlfahrtsverlust — überzählige Einheiten
+1sprgoohm19 Diese Einheiten werden nicht produziert, obwohl ihr sozialer Nutzen ihre sozialen Kosten übersteigt.
+213y6hh2bxw Diese Einheiten werden produziert, obwohl ihre sozialen Kosten ihren sozialen Nutzen übersteigen.
+1z2yk0izw7w Fläche = {a} € (zwischen Q = {lo} und Q* = {q}).
+1mzjuoraerf Streifen am Punkt Q = {q}: |MSB − MSC| = |{b} − {c}| = {g} € Verlust bei dieser Einheit.
+vi1weanoi1 Setz den Regler in die Fläche, um den Streifen einer Einheit zu sehen.
+28wsypdqvq8 Nettogewinn der Käufer: für jede gekaufte Einheit ihr Wert für den Käufer minus den gezahlten Preis.
+23lmji4sqco Fläche = {a} €.
+uqv2grq0v9 Streifen am Punkt {q}: MPB {b} − p_b {p} = {g}.
+1w50ru30hfl Nettogewinn der Verkäufer: für jede verkaufte Einheit der erhaltene Preis minus ihre Grenzkosten.
+qdspfnpbts Streifen am Punkt {q}: p_s {p} − MPC {c} = {g}.
+1vc7xr4gnjz Was die Steuerzahler zahlen: s pro gehandelter Einheit. Ein Transfer, keine Vernichtung.
+fd2pz6j4ec Was der Staat erhält: t pro gehandelter Einheit. Ein Transfer, kein Wohlfahrtsverlust.
+16vc5gb6qkh Summe der Nutzen, die Dritte für alle produzierten Einheiten erhalten (Fläche unter MEB).
+3ihwxnjtp5 Summe der Schäden, die Dritte für alle produzierten Einheiten erleiden (Fläche unter MEC).
+23zi22dezjq Hier MPB = MPC: Der letzte Tausch ist dem Käufer so viel wert, wie er den Produzenten kostet. Darüber hinaus MPB < MPC: Kein Preis passt mehr beiden.
+3hfvs3tqwp Hier MSB = MSC: Die letzte Einheit ist der Gesellschaft genau das wert, was sie sie kostet. Davor erhöht Hinzufügen die Wohlfahrt, danach senkt es sie.
+1a8fa5gcmvb Q mit Maßnahme = {q}
+1o4hvb6j6pb Hier MPB + s = MPC: Die subventionierte private Entscheidung endet.
+e1vhlhpsaq Hier MPB = MPC + t: Die besteuerte private Entscheidung endet.
+2e4io5celml Der Käufer zahlt p_b; der Verkäufer erhält p_s = p_b + s; der Staat zahlt die Differenz.
+k72yc3991g Der Käufer zahlt p_b; der Verkäufer behält p_s = p_b − t; der Staat kassiert die Differenz.
+1krf0v2fcof Einheit am Punkt Q = {q}
+ac3gc4wh9p Inspektor schließen
+1h4l0usl1oz Fett = privater Anreiz
+ucea0t4xma eine Einheit von {n}
+t8c36ven8k Unterstrichen: fehlend · durchgestrichen: überzählig
+uk448eqcwm Die Einheiten einzeln
+qw3ejpurkx Einheit {q}:
+1p59rx233dp gehandelt
+2glh5cu7zub nicht gehandelt
+245ecwya078 fehlt der Gesellschaft
+206wgklddb2 überzählig für die Gesellschaft
+glii9grfhi Subvention pro Einheit
+21yr6g9ohbv Steuer pro Einheit
+65esbam7w2 Animieren bis
+1s8s1kun54n Maßnahme entfernen
+26ayrisf3hd Ohne Eingriff
+12nyvf3o7p8 Optimum
+pkkdzpeo0y gehandelte Menge
+143fklon0lt Käufer
+1400m5xf47z Verkäufer
+1te2sjoc4up Staat (− Subvention)
+25xxpyq8pkx Staat (+ Einnahmen)
+1bv2vk4dsis Transfer
+21gomb5jh34 + externer Nutzen
+r08mavd1i4 − externer Schaden
+1zl0toxqoxq Dritte
+150xp4u1ch1 Gesamtwohlfahrt
+1cmm2mmfdnd vs. Optimum
+202av860ibt Warum? Eine Ebene tiefer
+29rzzq9m3bn Grund erreicht: Darunter liegen die Annahmen des Modells.
+n62rksngja Einklappen
+tmpjvt68if weil
+4ctug8ufjd Schon geschafft.
+yrlflvkby3 Gib eine Zahl ein.
+32expacln Noch nicht. Hinweis: {h}
+1bap79dmdo9 Noch nicht — geh die Argumentation noch einmal durch.
+me9uxwfusa Deine Antwort
+rjjv0hjhfe deine Antwort
+1myvxolc3n7 Prüfen
+2dfvciemw65 Antwort:
+2167viw13xk Regler:
+lgpmvplgvt Nicht dort: Such den Schnittpunkt der betreffenden Kurven.
+1442ass3zou Position bestätigen
+151bjtaej3u Richtige Kette: Jedes Glied verursacht das nächste.
+1iynt8jpfrf Glied Nr. {n} steht an der falschen Stelle: Frag dich, was VOR ihm wahr sein muss.
+207p2tscol Reihenfolge prüfen
+ctp87u0wkj Letztes Element entfernen
+1u9oix6w7l1 Rekonstruiert.
+8w7d945c4x Noch nicht: Welche Akteure sind betroffen?
+bfv12bjoh9 Die Schlüsselelemente sind da.
+13b23ooqnmf Vergleiche mit der Musterantwort und merk dir, was fehlte.
+f2zpe0si1h Mikro-Lektion · Verwechslung zweimal erkannt
+23ztvhi1tu0 Schließen
+1jhw41yi8sx Verweis im Dossier nicht gefunden:
+1jfep1u49at Menschlich
+1ubf52o05qp Ökonomisch
+1dpe1v831zn Prüfung (EN)
+v5qffwt9i3 Kürzel nicht im Dossier.
+2eperbkalil Im Verzeichnis des Dossiers:
+2eut6ctvcw6 [O] in den PDFs beobachtet · [A] Standard-Alias · [C] ergänzt (§18)
+9ns7ja6pof Vollständiges Begriffsblatt
+11tzuwzd7t5 Wörtlich:
+1y0znx9ljug Drei Ebenen
+1z2yb48sjt0 Wirkungskette
+1ll2sxx5dal Formel
+1wygkx1xyt5 Einheiten:
+1vtie3gma0w In der Grafik:
+ge74l85cm4 Annahmen
+1nq4pl3lris Wann man es verwendet
+23crdbf00ax Wann man es NICHT verwendet
+dqcw7i3wf2 Häufige Verwechslungen
+w5zp36k6es Beispiele
+o50h29xgsi Signalwörter in der Prüfung
+agp8kw2edx Musterantwort (EN)
+14ihli93mkb Quellen:
+12eq63n4ctm Woher kommt sie?
+4m3evynqcn Jeder Term
+sokbdis0e6 Häufige Verwechslung
+1mafbxsej1l Signalwörter
+kjeb22a4y7 Genauer Auszug aus dem Dossier (Quelldatei).
+17nl9we27jw In Quellen öffnen
+1qh9dk4vkfu Blatt öffnen
+1bf3gfno7wj Wörtlich
+phrl81fjv5 Wer?
+fykkvlwjw7 „Marginal“ hier
+1uj8f701gib Einheiten
+1yzab13vk8i In der Grafik
+22b45bbibn3 Warum diese Formel?
+11gj7wbvya8 Verweis auf das Dossier
+2b5db4uq0wd Dokumentiert
+1ydd8gnsws5 Nachgerechnet (Dossier)
+16gsa1u86qa Didaktische Ergänzung
+1ryts69kosf Generierte Übung
+2cm8rt3vuhl Positive Externalität — generierte Übung
+14vov2fqfkg Qm?
+jjeo0le91d Das ist Q*: Der Markt verwendet MPB.
+1zwocwbvosr Q*?
+6b74ahesh5 Das ist Qm.
+fc5bfjnxnn DWL?
+1nvrwfflxim Optimale Subvention?
+1vkqbzr2vgd Vom Käufer gezahlter Preis mit s*?
+105vrib32x1 Negative Externalität — generierte Übung
+1l6v4vwb9q7 Optimale Steuer?
+41tdnf59tw Steuereinnahmen mit t*?
+27b5mexmuc3 ein Transfer, kein Verlust.
+1rrvfevnbr3 Das ist der anfängliche DWL, nicht die Einnahmen.
+14tik6vnx0s Zwei verwandte Begriffe: Erkläre den Unterschied
+uhhrtglpe9 Schreib zuerst deine eigene Unterscheidung (Französisch oder Englisch). Erst dann vergleichst du sie mit dem Kontrast im Dossier.
+d918qdgrls geschafft
+duk1m6l30q noch üben
+311dqslyi2 Erklär den Unterschied mit deinen Worten. Wer ist betroffen, was ändert sich, wo sieht man es in einer Grafik?
+45i4cg9o4e Deine Unterscheidung …
+iegsxp5pfu Vergleichen
+1kiv1puf9pk Hak die Punkte an, die deine Unterscheidung wirklich enthält (vorausgewählt, wenn wir sie erkannt haben):
+1tppedw7n1f Gespeichert.
+2cxhke9azaa Taucht diese Verwechslung zweimal auf, erscheint eine gezielte Mikro-Lektion.
+vu05mr60dl Prüfungsmodus · auf Englisch · ohne Hinweise
+13m5zkuca7 {n} Abgabe(n) · beste {p} %
+jucaxl3no3 noch nicht versucht
+1944cj8zvgz Prüfungsmodus: auf Englisch, Korrektur danach
+1rk3wgdlz4d Schreib wie an der SSE: Modell, Rechnung, Mechanismus, auf Englisch. Die Korrektur beginnt mit der ökonomischen Logik, dann folgen Rechnung, Grafik und eine Musterantwort; sie trennt deine Fehler bei **Modell**, **Logik**, **Rechnung** und **Sprache**.
+200vidgirkz Die echten Prüfungen, Jahr für Jahr
+1tvnkgavqyn Alle Fragen der Finals 2020–2025. Daten und Aufgaben stammen aus den Prüfungen (Ordner „past exams“ im Dossier), umformuliert; die Lösungen sind die Nachrechnungen des Dossiers in §16, kein offizielles Bewertungsschema. Q5 zählt nur, wenn sie dein Midterm ersetzt.
+2gjbrmeohw Final {y}
+1mfjf1z19pg Hausaufgaben und Lektionsübungen
+2doptbi0pxo Eine rekonstruierte Hausaufgabe und die Abschlusstests der Lektionen: Übungen zum Trainieren, nie als offizielle Prüfungen ausgegeben.
+21xj2z1xnkp Kombinierte Priorität
+ehoxym00ut Reihenfolge der Voraussetzungen
+1qdvig7hf9c Beobachtete Häufigkeit
+10m03kgesvy Deine Schwäche
+i57p05k11m Konzeptuelle Bedeutung
+1xzkxeb0sgr {n} Tage bis zum Final
+vipkhcb1v4 Tag des Finals
+1c02fle9ale Endspurt · 23. Oktober 2026, Datum aus den L1-Folien
+gipxx8gj6f Ordne die Themen nach dem, was dir wichtig ist. Die Häufigkeit ist eine **beobachtete Historie** über sechs Finals (2020–2025): Sie beschreibt die Stichprobe, sie sagt die nächste Prüfung nicht voraus (§1).
+zfoebb79ew Sortieren nach
+2fhbx1duzuf Thema
+1s22ryv5ucm Voraussetzungen bereit
+12grnqoufsz Schwäche
+1bzg6p06pv7 Bedeutung

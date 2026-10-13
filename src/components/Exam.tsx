@@ -5,6 +5,7 @@ import { Rich } from './text';
 import { shuffled } from './learning';
 import { languageOf, normalize } from './TeachBack';
 import { Check, Cross } from './icons';
+import { lang, t } from '../i18n';
 
 type Answers = Record<string, string>; // key: partId:label (num), partId (choice index / text)
 const parseNum = (s: string) => Number(s.replace(/\s/g, '').replace(',', '.').replace('−', '-'));
@@ -52,8 +53,8 @@ export function ExamQuestion({ q, onDone }: { q: EQ; onDone?: () => void }) {
             </div>
           ))}
           <div className="row">
-            <button type="button" className="primary" disabled={!complete} onClick={() => setPhase('review')}>Rendre ma copie</button>
-            <span className="muted small">{complete ? 'Pas d’indice avant de rendre.' : 'Réponds à chaque partie avant de rendre ta copie.'}</span>
+            <button type="button" className="primary" disabled={!complete} onClick={() => setPhase('review')}>{t('Rendre ma copie')}</button>
+            <span className="muted small">{complete ? t('Pas d’indice avant de rendre.') : t('Réponds à chaque partie avant de rendre ta copie.')}</span>
           </div>
         </>
       ) : (
@@ -109,10 +110,10 @@ function AnswerReview({ q, ans, choiceOpts, minutes, onDone }: { q: EQ; ans: Ans
       <div className="review-score">
         <b>{score} / {max}</b> <span className="muted">· {minutes} min</span>
         <div className="mistake-chips">
-          <span className={`mchip ${mistakes.model ? 'on' : ''}`}>Modèle {mistakes.model}</span>
-          <span className={`mchip ${mistakes.logic ? 'on' : ''}`}>Logique {mistakes.logic}</span>
-          <span className={`mchip ${mistakes.calc ? 'on' : ''}`}>Calcul {mistakes.calc}</span>
-          <span className={`mchip ${mistakes.lang ? 'on' : ''}`}>Langue {mistakes.lang}</span>
+          <span className={`mchip ${mistakes.model ? 'on' : ''}`}>{t('Modèle')} {mistakes.model}</span>
+          <span className={`mchip ${mistakes.logic ? 'on' : ''}`}>{t('Logique')} {mistakes.logic}</span>
+          <span className={`mchip ${mistakes.calc ? 'on' : ''}`}>{t('Calcul')} {mistakes.calc}</span>
+          <span className={`mchip ${mistakes.lang ? 'on' : ''}`}>{t('Langue')} {mistakes.lang}</span>
         </div>
       </div>
 
@@ -122,19 +123,19 @@ function AnswerReview({ q, ans, choiceOpts, minutes, onDone }: { q: EQ; ans: Ans
           {p.kind === 'num' && (
             <ul className="numres">
               {numResults.filter((r) => r.part === p).map((r) => (
-                <li key={r.a.label} className={r.ok ? 'good' : 'bad'}>{r.ok ? <Check label="juste" /> : <Cross label="faux" />} {r.a.label} = {r.given || '—'} {!r.ok && <span className="muted">(attendu : {r.a.value})</span>}</li>
+                <li key={r.a.label} className={r.ok ? 'good' : 'bad'}>{r.ok ? <Check label={t('juste')} /> : <Cross label={t('faux')} />} {r.a.label} = {r.given || '—'} {!r.ok && <span className="muted">({t('attendu :')} {r.a.value})</span>}</li>
               ))}
-              <li className="muted small" lang="fr"><Rich text={p.explain} /></li>
+              <li className="muted small" lang={lang}><Rich text={p.explain} /></li>
             </ul>
           )}
           {p.kind === 'choice' && (() => {
             const c = choiceResults.find((x) => x.part === p)!;
-            return <p className={`feedback ${c.picked?.correct ? 'good' : 'bad'}`}>{c.picked ? `${c.picked.text} — ${c.picked.feedback}` : 'Pas de réponse.'}</p>;
+            return <p className={`feedback ${c.picked?.correct ? 'good' : 'bad'}`}>{c.picked ? `${c.picked.text} — ${c.picked.feedback}` : t('Pas de réponse.')}</p>;
           })()}
           {p.kind === 'text' && (
             <div className="rubric">
-              <blockquote className="mine">{ans[p.id]?.trim() || '— (pas de réponse)'}</blockquote>
-              {(ans[p.id] ?? '').trim() && languageOf(ans[p.id] ?? '') === 'fr' && <p className="feedback bad" lang="fr">Langue : réponse en français — à l’examen, réponds en anglais.</p>}
+              <blockquote className="mine">{ans[p.id]?.trim() || t('— (pas de réponse)')}</blockquote>
+              {(ans[p.id] ?? '').trim() && languageOf(ans[p.id] ?? '') === 'fr' && <p className="feedback bad" lang={lang}>{t('Langue : réponse en français — à l’examen, réponds en anglais.')}</p>}
               {p.rubric.map((r, i) => (
                 <label key={r.id} className="tick">
                   <input type="checkbox" checked={ticks[p.id][i]} disabled={saved} onChange={() => setTicks({ ...ticks, [p.id]: ticks[p.id].map((x, j) => (j === i ? !x : x)) })} />
@@ -147,28 +148,28 @@ function AnswerReview({ q, ans, choiceOpts, minutes, onDone }: { q: EQ; ans: Ans
         </div>
       ))}
 
-      <section className="review-block" lang="fr">
-        <h4>Logique économique</h4>
+      <section className="review-block" lang={lang}>
+        <h4>{t('Logique économique')}</h4>
         <ul>{q.logic.map((l, i) => <li key={i}><Rich text={l} /></li>)}</ul>
-        <h4>Calcul</h4>
+        <h4>{t('Calcul')}</h4>
         <ol>{q.calc.map((l, i) => <li key={i}><Rich text={l} /></li>)}</ol>
-        <h4>Ce que le graphique doit montrer</h4>
+        <h4>{t('Ce que le graphique doit montrer')}</h4>
         <ul>{q.graph.map((l, i) => <li key={i}><Rich text={l} /></li>)}</ul>
-        <h4>Réponse modèle (EN)</h4>
+        <h4>{t('Réponse modèle (EN)')}</h4>
         <blockquote className="model" lang="en">{q.modelAnswer}</blockquote>
       </section>
 
       {!saved ? (
-        <section className="review-block" lang="fr">
-          <h4>Ton auto-diagnostic</h4>
-          <label className="tick"><input type="checkbox" checked={self.model} onChange={() => setSelf({ ...self, model: !self.model })} /> Je n’avais pas reconnu le bon modèle</label>
-          <label className="tick"><input type="checkbox" checked={self.logic} onChange={() => setSelf({ ...self, logic: !self.logic })} /> Mon raisonnement sautait un maillon</label>
-          <label className="tick"><input type="checkbox" checked={self.calc} onChange={() => setSelf({ ...self, calc: !self.calc })} /> Erreur de calcul ou de lecture</label>
-          <label className="tick"><input type="checkbox" checked={self.lang} onChange={() => setSelf({ ...self, lang: !self.lang })} /> Formulation anglaise à améliorer</label>
-          <button type="button" className="primary" onClick={save}>Enregistrer la copie</button>
+        <section className="review-block" lang={lang}>
+          <h4>{t('Ton auto-diagnostic')}</h4>
+          <label className="tick"><input type="checkbox" checked={self.model} onChange={() => setSelf({ ...self, model: !self.model })} /> {t('Je n’avais pas reconnu le bon modèle')}</label>
+          <label className="tick"><input type="checkbox" checked={self.logic} onChange={() => setSelf({ ...self, logic: !self.logic })} /> {t('Mon raisonnement sautait un maillon')}</label>
+          <label className="tick"><input type="checkbox" checked={self.calc} onChange={() => setSelf({ ...self, calc: !self.calc })} /> {t('Erreur de calcul ou de lecture')}</label>
+          <label className="tick"><input type="checkbox" checked={self.lang} onChange={() => setSelf({ ...self, lang: !self.lang })} /> {t('Formulation anglaise à améliorer')}</label>
+          <button type="button" className="primary" onClick={save}>{t('Enregistrer la copie')}</button>
         </section>
       ) : (
-        <p className="feedback good" lang="fr">Copie enregistrée : les erreurs de calcul, de modèle et de langue alimentent ta maîtrise et tes micro-leçons.</p>
+        <p className="feedback good" lang={lang}>{t('Copie enregistrée : les erreurs de calcul, de modèle et de langue alimentent ta maîtrise et tes micro-leçons.')}</p>
       )}
     </div>
   );

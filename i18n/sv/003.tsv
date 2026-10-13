@@ -1,0 +1,217 @@
+7xsyc1uc4h De här panelerna ”saknas” inte i meningen att de har förstörts: det är affärer som skulle ha skapat värde men som aldrig blev av.
+1s1bn7ddyvi För panelen i punkt 20 skulle köparen behöva betala minst 50 (kostnaden) för ett personligt värde på 40. Grannarnas 20 € finns inte i hens ficka.
+29xkfw5rieb Gapet krymper från 18 till 22 eftersom MSB sjunker och MPC stiger: förlusten på panelen i punkt 19 (63 − 48 = 15) är större än i punkt 22 (0).
+1sonjsf10m7 Klicka på de små staplarna i grafen: var och en är en saknad panel, med sitt samhälleliga värde och sin kostnad.
+1x9g192pgo8 Du tackar nej till panelen i punkt 20: den skulle kosta dig 50 för 40 i värde. Rimligt för dig. Men dina grannar skulle ha vunnit 20: för er alla 60 i värde mot 50 i kostnad. En bra gemensam affär som ingen skriver under.
+178qmryrz9y Staplarna mellan 18 och 22 är de saknade panelerna. Varje stapel går från MPC (kostnad) till MSB (samhälleligt värde): dess höjd är vad samhället förlorar på den panelen.
+kehs6ghc6u Panelen i punkt Q = 20: hur mycket förlorar samhället på att den inte produceras? (MSB − MPC)
+1jyqxfmcdiu 20 = MEB: det är gapet MSB − MPB. Vi söker samhälleligt värde − kostnad: MSB − MPC.
+1bahqy71lp8 MPB − MPC = 40 − 50 = −10: därför tackar köparen nej. Men den samhälleliga förlusten jämför MSB med MPC.
+2a1ogp4q5zv kurvor A6
+20ttd7swtld resonemang enhet för enhet
+t4g41tb9gg Det samhället förlorar: dödviktsförlusten
+1yjcnyu8yp4 DWL, värde som aldrig skapades
+1hr4wia57kg För varje saknad panel förlorar samhället (dess samhälleliga värde − dess kostnad). Panelen i punkt 18 skulle ha gett 20 till, den i punkt 22: 0. Summera alla dessa förluster: du får ytan av triangeln mellan MSB och MPC, från 18 till 22.
+8p7mcv939s [[DWL]] = ytan mellan MSB och MSC över [Qm, Q*] = ½ × (22 − 18) × 20 = 40.
+rp41f5sw7y Den här ytan har formen av en triangel. Bas och höjd?
+17zvv6rig2i Bas 22 − 18 = 4; höjd 66 − 46 = 20 (gapet vid Q = 18)
+10ou2ll4f6x Ja: gapet är 20 i punkt 18 och sjunker till 0 i punkt 22.
+upelu3lzf9 Bas 22; höjd 20
+abxhih2d32 Basen börjar inte vid 0: bara enheterna mellan 18 och 22 saknas.
+1h0cfwpenk1 Bas 4; höjd 46
+29vbncflj42 46 är ett pris, inte gapet mellan samhälleligt värde och kostnad.
+13d8wz7fmvb Kontroll med total välfärd: W(22) − W(18) = 1210 − 1170 = 40 (§15 A6).
+221d4lw8s2a Ta en saknad panel mellan 18 och 22. Dess höjd i triangeln = vad den är värd för samhället (MSB) − vad den kostar att producera (MPC). Den skillnaden är välfärd som kunde ha skapats men inte skapades. Gör så för varje saknad panel: de staplade skivorna bildar triangeln.
+26dxyy7ozb Det är en triangel eftersom gapet är 20 i punkt 18 och 0 i punkt 22, och minskar linjärt (linjära kurvor): summan av skivorna = ½ × bas × höjd (§2.3).
+22z22fqd8z5 Riktmärket är SAMHÄLLELIGT: vi mäter vad samhället förlorar jämfört med det BÄSTA utfallet för det (Q* = 22), inte jämfört med marknaden. Mellan 18 och 22 finns det för övrigt inget mellan MPB och MPC: MPB ligger UNDER MPC (§11.2, §20.2).
+fy9rr4pk1r Kontroll: W = CS + PS + extern nytta. Utan ingrepp: 486 + 324 + 360 = 1170. I optimum: 1210. Skillnad: 40 = DWL (§15 A6).
+2u825hnpjw Vacciner E2020 Q3: DWL = ½ × (55 − 45) × 20 = 100.
+1gndepeu6w3 Du och dina grannar hade tillsammans kunnat betala 4 paneler till och blivit 40 € rikare totalt. De 40 € gick inte till någon: de fanns aldrig.
+2el1lhc0l51 Klicka på den röda triangeln: varje vertikal skiva är en saknad panel; dess höjd = MSB − MSC i den punkten.
+oi51s5j3hd Räkna ut marknadens DWL utan ingrepp.
+t9javt8wup Du glömde ½: gapet är inte 20 för varje saknad panel, det går från 20 till 0.
+wmrscwkzl5 360 = 20 × 18 = TOTAL extern nytta av de producerade panelerna. Det är ingen förlust.
+4a7ajkhmmf 440 = 20 × 22: utgiften för den optimala subventionen. Det är en transferering, inte DWL.
+1r2yoih6dxx Varför ligger triangeln OVANFÖR MPC och UNDER MSB?
+ysaowetgrs Eftersom varje skivas höjd = den saknade panelens samhälleliga värde − dess kostnad
+rtnkd0quol Precis: det är det förlorade nettovärdet, enhet för enhet.
+1b25d7h1h4g Eftersom en DWL alltid ligger mellan utbud och efterfrågan
+13atmw15kg0 Inte här: mellan 18 och 22 ligger MPB under MPC. Med en externalitet är riktmärket SAMHÄLLELIGT (MSB, MSC).
+1bg1eswfmj3 Eftersom staten betalar den här triangeln
+1ypc697sqhu Ingen betalar den här triangeln: det är ett värde som inte finns.
+1o5odl4yb3d mätning av DWL
+3oxv464gey Hur får man folk att köpa de saknade panelerna?
+wlpgg0rexl Problemet: köparen bortser från grannarnas 20 €. Idé: staten betalar 20 € per panel. Din privata kalkyl blir då ”mitt värde + 20” = exakt värdet för samhället. Du köper alltså som om du räknade med dina grannar.
+kjrkeko9n0 Pigousubvention: {{s* = MEB(Q*) = 20}}. Jämvikt: MPB + s = MPC ⇒ Q = 22; p_b = 34, p_s = 54.
+12w0eyn2v14 Hur stor måste subventionen per panel vara för att marknaden ska stanna exakt vid 22?
+24olx5mt6y7 Ja: den fyller exakt gapet mellan MPB och MSB i punkten Q*.
+1x6hb6508f4 40 = DWL
+cm0suy4d8z DWL är en yta (€), subventionen ett belopp per enhet (€/panel).
+1fqa4u5zp9p 54 = kostnaden för den 22:a panelen
+vyz92fu7n Staten betalar inte hela panelen: bara gapet mellan samhälleligt och privat värde.
+2cinsld7cxg Det är statens TOTALA utgift, inte beloppet per panel.
+2359unwxbvb Din analogi stämmer
+2fqx9gmwhar ”Jag skulle köpa 18 paneler. Samhället skulle vilja ha 22. Staten hjälper till att göra de extra panelerna lönsamma för mig.” ✓ Exakt version: en subvention per enhet {{s* = MEB(Q*) = 20}} flyttar ditt incitament från MPB till MPB + 20 = MSB.
+1dp304xm7b2 Exakt 20 eftersom det privata beslutet (MPB + s = MPC) måste hamna på samma ställe som det samhälleliga (MSB = MPC). Eftersom MSB = MPB + 20 räcker det med s = 20.
+1h9zqhanjgu Den utvärderas vid Q* eftersom subventionen ska betala exakt den externa nyttan av den SISTA enhet vi vill se producerad. Här är MEB konstant, så MEB(22) = 20. Om MEB beror på Q behövs MEB(Q*) — nästa block.
+1tx0sp3v9v7 Det spelar ingen roll vem som juridiskt tar emot subventionen (köpare eller säljare): bara gapet p_s − p_b = s räknas, kvantiteten är densamma (§7.2–7.3).
+eamhjddt7o Välfärden ökar trots utgiften: W = CS + PS − subvention + extern nytta = 726 + 484 − 440 + 440 = 1210 > 1170. Subventionen är en transferering; den verkliga vinsten = de 40 i DWL som återvinns (§15 A6).
+1mmxbtcz0pd Miljöbonus per panel eller per elbil: ett stöd per köpt enhet.
+26zab1isxqp Staten säger till dig: ”för varje panel betalar jag tillbaka 20 €”. Panelen i punkt 20, som var värd 40 för dig, är nu värd 60 för din plånbok — mer än dess kostnad på 50: du köper den. Du stannar vid den 22:a, där ditt värde + 20 = kostnaden = 54.
+1gfarylfu1j Den streckade blå kurvan MPB + s sammanfaller med MSB när s = 20. Flytta subventionsreglaget: vid 20 hamnar jämvikten exakt på Q* = 22. Den grå rektangeln = statens utgift (20 × 22 = 440).
+cekhpe0ftm betalar s* = 20 €
+1r2auh82o1q Med s = 20, vilket pris BETALAR köparen för den 22:a panelen?
+zillb8pg3p Köparen betalar sitt marginella värde: p_b = MPB(22).
+6gtzic1sf4 p_b = MPB(22) = 100 − 66 = 34. Säljaren får p_s = 34 + 20 = 54 = MPC(22).
+lnl1r97p0e 54 är vad säljaren FÅR (p_s). Köparen betalar 20 mindre.
+msd3ms804g Är den offentliga utgiften på 440 (= 20 × 22) en dödviktsförlust?
+1a43q2rovfr Ja, det är pengar som staten förlorar
+17ozpk7igwq Pengarna förstörs inte: de går från skattebetalarna till köpare och säljare.
+1l25eowibjk Nej: det är en transferering. I W dras den av, men den dyker upp igen i CS och PS
+1795rzyemcl Precis. Välfärden går från 1170 till 1210.
+1f7tjsu24ur Man räknar inte med den i välfärden
+3apiqm3v78 Man MÅSTE räkna med den (− 440), annars överskattas W; den vägs upp av de vinster den finansierar.
+25n5ox0e8wr Pigou
+29f7c8gry7j elevens analogi
+1gnzhrub04 Och om den externa nyttan beror på Q?
+2qalftese7 s* = MEB(Q*) när MEB = 30 − Q
+lxl5xb9m6m Föreställ dig att stadens första paneler ersätter de smutsigaste kraftverken, och de följande renare källor: varje extra panel hjälper lite mindre. MEB är inte längre konstant: {{MEB = 30 − Q}}. Vilken subvention behövs då?
+akzflmje30 MSB = 130 − 4Q ⇒ Q* = 20. {{s* = MEB(Q*) = 10}} — inte skärningen med axeln 30, inte MEB(Qm) = 12.
+2fioxsk9vhv Konstruerad variant
+tani8v6czt MEB = 30 − Q finns inte i kursen: det är ett komplement för att öva regeln som dokumenteras i §11.3 (”utvärdera vid den effektiva kvantiteten”). Kursen tillämpar den på den negativa sidan: bensin, MEC = Q ⇒ t* = MEC(30) = 30, inte MEC(45) = 45.
+1tuq1eapzn4 I punkten Q* måste den subventionerade köparen vara indifferent mellan att köpa och att inte köpa: MPB(Q*) + s = MPC(Q*). Eftersom MPC(Q*) = MSB(Q*) = MPB(Q*) + MEB(Q*) får vi s = MEB(Q*).
+1emu1cf4xtt Inte skärningen med axeln: 30 är den externa nyttan av den ALLRA FÖRSTA panelen, inte den 20:e. En subvention på 30 skulle betala varje panel som om den vore den nyttigaste: för starkt incitament, marknaden skulle gå ända till 24.
+20i0qu0bod8 Inte heller MEB(Qm): marknaden stannar inte vid Qm när den väl subventioneras. Rätt värde är det för den sista ÖNSKVÄRDA enheten (§11.3, §20.2).
+1f01gzswcvk Samma logik på den negativa sidan (L11, E2023): MEC = Q, Q* = 30 ⇒ skatt t* = MEC(30) = 30, inte 45.
+28ixvfpzkem Staten betalar dig för den tjänst DIN SISTA panel gör grannarna — inte för den som stadens första panel gjorde.
+1zlfkpyoq04 Grafen för varianten: MEB sjunker, MSB = MPB + MEB är brantare. Prova s = 30 (för mycket), s = 12, sedan s = 10: bara den sista hamnar exakt på Q* = 20.
+xvkkho9279 Med MEB = 30 − Q och Q* = 20, vilken subvention per panel genomför optimum?
+164e588whaa 30 (värdet av MEB i origo)
+8xl6pde7kd Med s = 30 skulle marknaden gå ända till Q = 24 > 20: för många paneler, en ny DWL på 48. Prova i grafen.
+sil3co0oy3 12 = MEB(18), utvärderad på den ursprungliga marknaden
+1fr4uiagtac Fel punkt: med s = 12 skulle marknaden gå till 20,4. Man behöver värdet vid den eftersträvade kvantiteten.
+kpvo2nkmv 10 = MEB(20), utvärderad vid Q*
+1h07pk6b5d5 Om staten ändå betalar s = 30, vilken kvantitet omsätter marknaden?
+2fkm1uiz8ul Lös 100 − 3Q + 30 = 10 + 2Q.
+13gzz9f18z5 130 − 3Q = 10 + 2Q ⇒ Q = 24 > Q* = 20: överproduktion, DWL = ½ × 4 × 24 = 48.
+1mr92zf2k1f 20 skulle nås med s = 10. Med 30 driver subventionen längre.
+15xreoepsig konstruerad variant MEB = 30 − Q
+27kvo2z15uv utvärdera vid Qeff
+1t57cddighv bensin t* = 30
+1adrhm4zz7d Hela kedjan
+10bidu2yij6 Sätt mekanismen i rätt ordning: varje länk ORSAKAR nästa.
+58zyql5jj0 Varje steg är bara sant för att det föregående är det: om grannarna inte vann något (MEB = 0) skulle Qm redan vara optimal och det skulle varken finnas DWL eller subvention.
+d1s4wnpajm Byt ”paneler” mot ”vacciner”: kedjan är identisk, bara siffrorna ändras (E2020 Q3).
+21b5q6ffhdx Jag köper för min egen skull → mina grannar vinner också → jag räknar inte med det → jag köper för lite → samhället förlorar → staten betalar mellanskillnaden → jag köper rätt kvantitet.
+1wt2qan6qd7 Hela grafen: båda kvantiteterna, MEB-gapet mellan MPB och MSB, och dödviktsförlusten.
+12inzl2yn0l Klicka på länkarna i orsaksordning.
+1ib1a5rab53 Köparen jämför sitt privata värde (MPB) med priset
+1w40pth47fz Varje panel ger också grannarna 20 (MEB)
+1f5i254a64i Marknaden bortser från den nyttan: den stannar vid Qm = 18
+1z4zg75vnmt Samhället skulle vilja ha Q* = 22 (MSB = MSC)
+az5v5as9bw De saknade panelerna skapar en DWL på 40
+cdrbjxoacd En subvention s* = MEB(Q*) = 20 riktar in det privata incitamentet mot det samhälleliga värdet
+2ay4y8y6vi0 Förklara det för mig
+5jo3cwdkx6 Utan att titta ovan: förklara med egna ord varför marknaden för solpaneler stannar för tidigt och vad staten kan göra. Analogier är välkomna: vi bedömer ORSAKSSAMBANDEN, inte ordförrådet.
+2e1bv7zqyre Att förklara tvingar dig att bygga upp kedjan i stället för att känna igen den: det är det som avslöjar de saknade länkarna.
+27or8iispdg Börja med ”När jag köper en panel tittar jag på…”.
+2b3qw0bzpke Berätta det som om du förklarade för en vän som tvekar inför att köpa paneler.
+108acgpy4t1 Grafen syns fortfarande: du kan använda den när du berättar.
+1v9q0e5w2dk Tentafråga (EN)
+1mqddbt0kok Nytt sammanhang, samma mekanism: vacciner, hämtade från E2020 Q3. Svara på engelska, utan ledtrådar. Den detaljerade lösningen visas efteråt.
+g5h8kvk4bh Att byta sammanhang kontrollerar att du har förstått mekanismen, inte memorerat ”18 och 22”.
+1a4f5vw6a7v Börja med att identifiera modellen: vilken kurva avviker från sin privata version?
+1lmkwks5edj Du sitter på tentan. Ingen säger ”positiv externalitet” till dig: det är upp till dig att se det i uppgiften.
+1cnpake881k Ingen graf i tentaläge: rita den ur minnet på ett papper (axlar, MPB, MSB, MPC, Qm, Q*, DWL).
+1x85dzrgtwj Det här kan du nu
+2b298tclhmn Lektionen är klar. Din behärskning växer bara på riktigt med repetitioner över flera dagar: den första spridda repetitionen väntar på dig under ”Repetitioner”.
+i7aley9fq6 Att lyckas samma dag bevisar förståelse; att lyckas tre dagar senare bevisar minne. Tentan kräver båda.
+gncs5h0vnt Föreslaget nästa steg: Graph Lab (bensin, textilier) för att se det negativa fallet med samma verktyg.
+1l1rydyvxdb I morgon måste du bygga upp MSB utan hjälp. Inte rabbla: bygga upp.
+1ctkfk9k8lr Lektionens kompletta graf.
+bywrhaytbb Jag köper en panel för min egen skull
+27nexxg6mws jag jämför dess värde för MIG (MPB) med dess pris
+1l94peacvr3 Mina grannar andas bättre
+1qx8z9l4lbt varje panel ersätter mer förorenande el: MEB = 20 för dem
+1kmf13nn9lh Ingen räknar med de 20 €
+20lcdqymsgi de går inte via något pris: varken köparen eller säljaren får dem
+1a6cw0fsh02 Marknaden stannar vid Qm = 18
+ewfjk8eer5 där MPB = MPC; bortom det tycker köparen ensam inte längre att panelen lönar sig
+fn75qd8m0s Samhället skulle vilja ha Q* = 22
+9e9wug0cw3 det räknar köpare + grannar: MSB = MPB + MEB = MSC
+77b2cyat63 Panelerna 18 → 22 saknas: DWL = 40
+1qnu1aismcy var och en var värd mer för samhället (MSB) än den kostade (MSC)
+tvt0qpffl1 Subvention s* = MEB(Q*) = 20
+2bpx0tvuvdt den lägger till det privata incitamentet exakt den externa nyttan av den sista önskvärda enheten
+1t91h4wu7xb Köparen tittar på sitt privata värde
+6x7y7sg338 Utgångspunkt: köparen jämför vad panelen är värd FÖR HEN (MPB) med dess pris.
+17rejg4z3d Som ekonom: MPB (Marginal Private Benefit) = värdet av en panel till för köparen.
+1qw5umhlt7j Tredje part gynnas också
+28o2oc4vjwn Varje panel ger en nytta till människor utanför transaktionen (mindre föroreningar): MEB.
+137b3k1j7f6 Som ekonom: positiv externalitet; MEB (Marginal External Benefit) = nyttan för andra av en panel till.
+153ni7s4wkt Marknaden bortser från den nyttan
+3bqxqts5z6 Den centrala länken: ingen i transaktionen får tredje parts nytta, så ingen räknar med den. Det är DÄRFÖR marknaden stannar för tidigt.
+s7p0jlytq4 Som ekonom: köparna ”internaliserar” inte den externa nyttan.
+2chdf2ck8j2 Marknaden producerar för lite
+e32iah16vf Följd: marknadens kvantitet (18) är lägre än samhällsoptimum (22).
+f3b5oh1oao Som ekonom: Qm (marknadsjämvikt, MPB = MPC) < Q* (samhällsoptimum).
+1rj5rcaqazh Samhällsoptimum är högre
+1nf9cm3d3ey Samhället, som räknar köpare + tredje part, skulle vilja ha fler paneler: Q* där MSB = MSC.
+9qzcyfj5l Som ekonom: Q* där MSB = MSC, med MSB = MPB + MEB.
+1cxdo7cwvh2 En subvention kan internalisera nyttan
+kfay7mgmrf Botemedel: en subvention per enhet lika med MEB(Q*) riktar in det privata incitamentet mot det samhälleliga värdet.
+ezq4bne9rr Som ekonom: pigousubvention s* = MEB(Q*) = 20.
+20j9kkjbxx5 MSB är inga utbetalda pengar: det är VÄRDET av en panel till för hela samhället (MPB + MEB). Subventionen däremot är pengar.
+ycpjdzuqrh Med en POSITIV externalitet producerar marknaden FÖR LITE (18 < 22). Det är den negativa externaliteten som leder till överproduktion.
+muoqq1u5m8 Utgiften för subventionen är en transferering (skattebetalare → köpare/säljare). DWL är de nyttiga paneler som aldrig producerades.
+27uvqg5y5o8 Utan ingrepp stannar marknaden vid Qm = 18. Q* = 22 nås bara med subventionen.
+w6z305cxkv När jag köper en panel jämför jag vad den är värd FÖR MIG (MPB) med dess pris. Men varje panel minskar också föroreningarna för mina grannar: en extern nytta (MEB = 20) som ingen i transaktionen får, och som därför ingen räknar med. Marknaden stannar där MPB = MPC (18 paneler), medan samhället, som också räknar med grannarna (MSB = MPB + MEB), skulle vilja gå ända till MSB = MSC (22). Panelerna 18 → 22 var värda mer för samhället än de kostade: det är dödviktsförlusten (40). En subvention per panel lika med MEB(Q*) = 20 gör de panelerna lönsamma för köparen och tar marknaden till 22.
+a8umzo4ln7 Vad betyder [[MEB]] ordagrant?
+rk4goy9wo9 Marginal External Benefit: nyttan för ANDRA av en enhet till
+4j31ysk60p Marginal Economic Benefit: producentens vinst
+1mlaaa85jnh E = External: det handlar om tredje part.
+1xnkvv4sozv Den totala externa nyttan av alla enheter
+1i3phwyi5k Marginell = EN enhet till. Totalen är ytan under MEB.
+18z5rag4ux9 Vad betyder [[MSB]]?
+219es21sac1 Värdet av en enhet till för hela samhället: köpare + tredje part
+1dir0ou7e33 Precis: MSB = MPB + MEB.
+6e43uqngbz Budgeten som staten lägger på varje enhet
+2b73hdpbei7 MSB är ett värde, inte en offentlig utgift.
+14cv5orxopa Säljarens marginalnytta
+mj4txxqyao Säljaren har ingen ”marginalnytta” här: hen har en kostnad (MPC) och ett överskott (PS).
+kj0wgjdn9i Vem får den nytta som [[MPB]] mäter?
+157aavfmy6d Köparen, och bara hen
+y77ub4621c Precis: P = Private.
+1hzroufqx51 Det är MEB.
+22n9ecspyux Hela samhället
+20wgs69wzlf Det är MSB.
+g2xiaf33tp Varför ligger MSB ovanför MPB?
+y7z22c2bx0 Eftersom varje enhet också ger tredje part en nytta (MEB > 0)
+2cdrdgjnnkx Precis: det vertikala gapet = MEB.
+1ohjqc5n7qt Eftersom staten tillför pengar
+zcukmjz625 Inget ingrepp behövs för att MSB ska finnas.
+1fehcgk8cvx Eftersom den samhälleliga kostnaden är högre
+n3in0jmk7k Det skulle gälla MSC och MEC (negativ externalitet).
+ovf8euutya Varför stannar marknaden vid Qm och inte vid Q*?
+dxpklaor46 Bortom Qm värderar köparen inte nästa panel tillräckligt (MPB < MPC) eftersom hen inte räknar med grannarnas nytta
+1i67mmq3r8c Eftersom Qm är samhällsoptimum
+28gt7wnjggl Qm är den privata jämvikten; samhällsoptimum är Q*.
+1vmakr0miof Eftersom producenterna inte klarar av att producera mer
+2bmj3zjao0y De skulle kunna, men ingen köpare skulle betala kostnaden.
+2ff4sai0hgo Vad förloras i DWL-triangeln?
+2wbga4fpxt Nettovärdet av enheter som aldrig producerades trots att deras samhälleliga nytta översteg deras samhälleliga kostnad
+1vztj90ikzr Pengarna som staten lägger ut
+zzent3w3fq En offentlig utgift är en transferering.
+pwi2kvy03g Grannarnas totala nytta
+21u1fdde12j Den externa nyttan av de producerade enheterna tas faktiskt emot; DWL gäller de saknade enheterna.
+23pexo7h5h7 Bygg upp MSB utifrån aktörerna.
+27i6w0mwiam Tredje parts nytta läggs till, den dras inte av.
+qm2kq75m42 MEC är en extern kostnad: den hör till MSC, inte MSB.
+2fkwd71cpwf Värde för samhället = värde för köparen (MPB) + värde för tredje part (MEB).
+1xylqcx1160 Bygg upp villkoret för samhällsoptimum.
+14xpp3qe3du Det är MARKNADSjämvikten, inte samhällsoptimum.
+2dkddaojxk2 Samhället lägger till enheter så länge deras samhälleliga värde överstiger deras samhälleliga kostnad: MSB = MSC.
+2c95bio5aut Bygg upp den optimala subventionen.
+1kpzyuykw5c Skärningen med axeln är den externa nyttan av den FÖRSTA enheten, inte av den sista önskvärda.
+d2i0ox2brk När marknaden väl subventioneras stannar den inte vid Qm: utvärdera vid Q*.
+15v3ebw8yy0 I punkten Q* krävs MPB + s = MPC = MSB, alltså s = MSB − MPB = MEB(Q*).

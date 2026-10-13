@@ -1,0 +1,73 @@
+======================================================================
+0. COMMENT UTILISER CE FICHIER ET CE QU'IL COUVRE
+======================================================================
+
+Objectif : comprendre les mécanismes, reconnaître le modèle à appliquer,
+savoir reconstruire les formules, calculer, dessiner et expliquer en anglais.
+Ce dossier est une synthèse pédagogique, pas un corrigé officiel de SSE.
+Les résultats chiffrés présentés comme « recalculés » ont été dérivés des
+énoncés. Les réponses personnelles dans les assignments ne sont pas traitées
+comme une autorité. Les principales erreurs ou ambiguïtés sont signalées.
+
+Corpus intégral du dossier Microeconomics : 23 PDF, 373 pages.
+12 lectures, 5 assignments numérotés 2 à 6, 6 examens finaux 2020 à 2025.
+Extraction du texte de toutes les pages ; examen visuel des cours et des
+assignments, avec vérification des tableaux intégrés comme images et des
+calculs utiles. La dernière page du sujet 2020 est blanche.
+Les nombres de pages comprennent couvertures, consignes et pages blanches.
+
+Limites du corpus, à conserver dans toute fiche produite à partir de lui :
+- Aucun assignment 1 ou 7 n'est présent.
+- Seules les lectures 1 à 12 sont présentes. Le calendrier de Lecture 1
+  annonce encore plateformes et commerce international en semaine 7.
+- Les enchères et certains éléments de théorie des jeux apparaissent dans
+  les examens ou assignments sans cours complet correspondant ici.
+- Les six PDF de past exams sont des énoncés de FINALS, pas des midterms,
+  et ne contiennent pas de corrigés officiels.
+- Une fréquence sur six anciens examens décrit cet échantillon ; elle ne
+  constitue pas une probabilité de présence au prochain examen.
+- Les dates, règles et exemples d'actualité cités sont ceux des supports.
+  Ce dossier ne vérifie pas les règles administratives actuelles sur Canvas.
+
+Repères de provenance : L1 à L12 = lectures ; A2 à A6 = assignments ;
+E2020 à E2025 = examens. « p. » désigne la page PDF, comptée depuis 1.
+« Complément » = explication standard reconstruite pour traiter un exercice,
+et non affirmation qu'un cours supplémentaire a été trouvé.
+
+PROMPT À DONNER À CHATGPT AVEC CE FICHIER
+« Tu es mon tuteur de microéconomie pour l'examen SSE BE 501. Utilise ce
+dossier comme contexte principal. Explique en français en conservant les
+termes et abréviations anglais que je rencontrerai à l'examen. À chaque
+nouveau symbole, développe son nom anglais, traduis-le, indique ses unités
+et son rôle. Pour chaque formule, explique d'où elle vient, pourquoi elle
+est valable, ses hypothèses, comment reconnaître son usage et quand elle
+ne s'applique pas. Fais-moi d'abord identifier l'objectif, les contraintes,
+la variable de choix et le modèle. Propose des exercices progressifs,
+laisse-moi essayer puis corrige mon raisonnement et mes graphiques.
+Entraîne-moi aussi à donner des réponses courtes et motivées en anglais.
+Distingue les éléments documentés, les résultats recalculés et les
+compléments. N'invente ni corrigé officiel, ni fréquence, ni programme
+manquant. Si je demande des fiches, un site ou des exercices, couvre aussi
+les cas limites et les pièges recensés ici. »
+
+PLAN
+1. Inventaire et correspondance entre cours, assignments et examens
+2. Logique commune et outils mathématiques
+3. Offre, demande, équilibre et chocs
+4. Consommateur, préférences, budget et demande
+5. Élasticités
+6. Production, coûts et offre concurrentielle
+7. Surplus, taxes, subventions et prix réglementés
+8. Monopole et concurrence monopolistique
+9. Discrimination, segmentation, bundling et tarifs
+10. Oligopole, Cournot, Bertrand et Stackelberg
+11. Externalités, pollution, biens publics et ressources communes
+12. Information asymétrique, contrats et incitations
+13. Théorie des jeux dans Assignment 3
+14. Compléments d'examens : commerce, plateformes, enchères et échange
+15. Assignments : résultats et méthodes recalculés
+16. Examens : carte des questions et résultats de référence
+17. Formulaire transversal et choix de méthode
+18. Répertoire des abréviations et symboles
+19. Lexique bilingue des notions et verbes d'examen
+20. Pièges, corrections, graphiques et parcours de révision

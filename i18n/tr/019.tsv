@@ -1,0 +1,233 @@
+pcjarhuliw Didaktik örnek: R(n)=20 n−n²; AP=R/n=20−n; MP=dR/dn=20−2 n; tekne başına maliyet=4. Serbest erişim AP=4; optimum MP=4.
+fsq2o0fggs n=8’de her tekne AP=12 alır ama yeni giren toplama yalnızca MP=4 ekler.
+zk9ju3aw19 AP−MP farkı, ötekilerden alınan hasılatı yakalar; giriş bu yüzden çok uzun sürer.
+iej3q47q53 Optimum: 20−2 n=4 ⇒ n=8. Serbest erişim: 20−n=4 ⇒ n=16. Toplam artık 16 n−n²: n=8’de 64, n=16’da sıfır.
+vxw9sqnnv8 n=8’den sonra girerek kişisel olarak hâlâ kazanırsın. Yine de girişinden sonra komşularına ne kaldığına bak.
+3stuyh4y0c Balıkçılık: giriş ortalamaya, toplum marjinale bakar
+1ngcs6s0nvw Sürekli didaktik örnek: toplam hasılat R(n)=20 n−n², toplam maliyet 4 n, 0≤n≤16. Dikey eksen tekne başına günlük €; n sürekli kabul edilen tekne sayısıdır.
+1oq6ipio12j n: aktif tekneler
+24tb62iltkj € / tekne / gün
+1kpt1btqm0q Ortalama hasılat AP = 20−n
+1nv7xvlb2et Toplam avı paylaşan yeni girenin beklenen hasılatı.
+jxzxxlpgyr Sosyal marjinal hasılat MP = 20−2 n
+1vd6jjyfxtu Başkalarının avındaki düşüş dahil toplam hasılata eklenen; n=10’un ötesinde negatif.
+zb8t8gqvdo Tekne başına maliyet = 4
+2bty0sdo746 Ek bir teknenin kullandığı yakıt ve emek.
+4gi4xozjo7 Optimum n=8
+1cc58y0w2ax Serbest erişim n=16
+1v1u3hnfjyg R=20 n−n² ve toplam maliyet 4 n ile hangi n toplu artığı maksimize eder?
+fabq03uu3x tekne
+qwum71synn 16 n−n² artığının türevi: 16−2 n=0 ⇒ n=8; ikinci türev −2’dir.
+2da936il8xw 16, AP=maliyet’e, yani optimuma değil serbest girişe karşılık gelir.
+fjthg99mll Peki her biri R/n alırsa serbest erişimde kaç tekne girer?
+izm5pdow3n AP=20−n=4 ⇒ n=16. Bu noktada özel kâr sıfırdır ve toplu rant tükenmiştir.
+277x4e7uhe 8, sosyal marjinali maliyetle karşılaştırır; özel bir yeni giren kendi ortalama payına bakar.
+1sipcj2w6ah Doğru çare yanlış teşvike bağlıdır
+290akqmc76b Sokak için, paylaşılan bir değere rağmen katkılar eksik. Göl için, sınırlı bir kaynağa rağmen çok fazla giriş var. Dolayısıyla yararlı bir kural sorunlu seçimi hedeflemelidir: ilk durumda ödemeyi, ikincisinde girmeyi ya da avlanmayı.
+o3fdl6maf3 İzinler, kotalar, ücretler, erişim hakları ve yerel kurallar ortak kaynak üzerindeki baskıyı sınırlayabilir. Zorunlu katkılar kamu malının finansmanıyla ilgilidir.
+1aofxvzdyb7 Tekne kotası rakip kullanımı doğrudan sınırlar; bir ücret toplu maliyetin bir kısmını yeni girene görünür kılar.
+2dal4a5s20o Bir çözümün ayrıca denetlenebilir ve mevcut bilgiye uygun olması gerekir; bir politikaya ad vermek yetmez.
+1c2x0xrp17k Bizim gölde sekiz tekneye izin vermek, etkin denetim ve değişmeyen maliyetlerle etkin referansı yeniden üretir. On altı teknelik bir kural hiçbir şeyi düzeltmez.
+293vr5jucdh Belediyeye danışmanlık yapıyorsun: “vergilendir” demeden önce aktörü, seçimini ve göz ardı ettiği sonucu adlandır.
+28k5ct6foya Sokak sorununu yeniden kur.
+15qq4rdhf86 Aynı düzey sakinlere, ödemeyenlere bile yarar
+14cgb7m031d Bir sakin başkalarının finanse etmesini bekleyebilir
+20yob1kjhzt Katkısı tüm sosyal faydaları yansıtmaz
+1quudmjfdii Gönüllü finansman etkin düzeyin altında kalabilir
+1filn49wphu Paylaşılan hizmeti tüketimleri özel birimlere bölünmez.
+2as3z73ms2d Dışlanamazlık, başkalarının ödemelerini beklemeyi bireysel olarak cazip kılar.
+12xju1w38zx Ödeyen, başkalarına sağladığı değerin tamamını kendi bütçesine geri almaz.
+19ly8q6hdry Tek bir ek birim aynı anda birkaç fayda sağlar.
+x9c8gle4v8 Son yararlı birim topluluk için gerçek maliyetine değer.
+1rh2ski5st7 Sokak, ödemeyen dahil herkese aynı düzeyde yarar. Dolayısıyla herkes ötekileri bekleyebilir ve özel katkısı toplu kazancın tamamını yansıtmaz. Q’yu seçmek için aynı Q’daki pozitif MB’leri toplar ve toplamlarını MC ile karşılaştırırım. Gölde avlar rakiptir: yeni giren ortalama hasılatına bakar, oysa başkalarının avını azalttığı için sosyal marjinal katkısı daha düşüktür. Serbest erişim çok fazla tekne çeker.
+23gl83qagkc Aynı Q birkaç sakine yarar
+28iegilnztl Herkes katkıda bulunmadan yararlanabilir
+1v0cbhu1yuu Özel seçim toplu kazançları dışarıda bırakır
+1e9xth8s0zg MB’ler aynı Q’da toplanır
+a7b85tjwd9 Optimum bu toplamı MC’ye eşitler
+r7szpcgr22 Bir komşuna, sokağın değerine rağmen neden yetersiz finanse edilebileceğini açıkla. Sonra açık gölün neden tersine aşırı kullanımdan muzdarip olduğunu söyle. Dikey toplam ile ortalama hasılat arasındaki farkla bitir.
+8smr4g1q32 Aynı Q düzeyi
+u96sz7dxkx Sakinler kamu malının aynı düzeyinden yararlanır.
+qda9a5nrh1 Ötekileri bekleme teşviki
+yjmq22wmw6 Ödemeden yararlanılabilir, dolayısıyla az katkıda bulunulur.
+tlj20ipktm Marjın toplu değeri
+1zhgqdkir2k Bireysel MB’ler aynı Q’da dikey olarak toplanır.
+2e1lc2jlz4l Maliyetle karşılaştırmak
+12h3dwxsvcz MB’lerin toplamı ortak birimin MC’siyle karşılaştırılır.
+1uq5d0zt62q Aşırı rakip kullanım
+1ilzszrtt1l Yeni giren başkalarının avındaki düşüşü göz ardı eder ve sosyal MP’ye değil AP’ye bakar.
+c00vfb1w1f Burada herkes aynı Q’dan yararlanır. Özel miktarları değil, bu Q’daki MB yüksekliklerini topla.
+2bzi4sub766 Gönüllü sağlama pozitif olabilir: büyük bir yararlanıcı finanse edebilir, ama komşuların kazancının tamamını saymadan.
+2vabb4a6gy Ortak kaynak rakiptir ve aşırı kullanılma eğilimindedir; saf kamu malı rakip değildir ve yetersiz finanse edilebilir.
+1s0mp5kiuqy A6 ve §11.9 temel alınarak kurgulanmış alıştırma. Temizlik verileri belgelenmiştir; göl didaktik bir örnektir. Resmî bir çözüm değildir.
+kkc0j36wn8 Vertical sum 36−3 Q=27 ⇒ Q=3; all three marginal benefits remain positive.
+rqhszbpgai Efficiency: R′(n)=20−2 n=4 ⇒ 8. Entry: R(n)/n=20−n=4 ⇒ 16.
+14ua4pnomup Dışlanamaz ve rakip: ne tür bir mal?
+5nv3qotvjh Saf kamu malı
+2ae8m4srk27 Saf kamu malı rakip değildir.
+2dwjzws0qps Ortak kaynak
+jbtkou8356 Tam da kullanımı başkalarınınkini azaltan bir kaynağa serbest erişimdir.
+9voso9qjum Kulüp malı
+15n8guw384c Kulüp malı saf modelde dışlanabilir ve rakip değildir.
+25uqrmcj0kb MB neyi ölçer?
+wzdpq74vbq Ek birimin faydasını
+1as2cxo79ht Marjinal = mevcut düzeyde bir ekleme.
+1goblubpiep Toplam üretim maliyetini
+1uo3g9ndat9 MB toplam maliyet değil, marjinal faydadır.
+1pg91w55hg4 Bedavacılığı yeniden kur.
+1lkx1an6s1a Ödemeden bile mala erişim
+1di1yaxg9ls Kaçınılabilir özel katkı
+27kjbmkgrpf Başkalarının faydaları özel seçimde yer almaz
+1kvkol2numx Potansiyel olarak yetersiz gönüllü sağlama
+5n0rozy50w Bir göle kârlı bir giriş neden toplu artığı azaltabilir?
+eauz1x9sna Yeni giren, mevcut teknelerin avındaki düşüşü göz ardı eder
+2161d6n40ca Ortalama hasılatı, varlığının toplam hasılata ne eklediğini ölçmez.
+1njpl4cllkt Çünkü balıkçılar balığa değer vermez
+kr2x506uzi Yeni girenleri çeken tam da balığın değeridir; sorun başkalarına yüklenen maliyettir.
+tx2fyp6nxb Çünkü özel fayda her zaman sıfırdır
+u9c9k1ao7y Rant tamamen tükenmeden önce giriş kârlı olabilir.
+1q134g17kfk MB_1=max(0,10−Q), MB_2=max(0,20−Q), MC=14: etkin Q?
+11dykdbto51 Q≤10 için 30−2 Q=14 ⇒ Q=8, geçerli parça.
+98f3ggke2r MB_1=max(0,8−Q), MB_2=max(0,2−Q), MC=3: etkin Q?
+6jh3av0384 İki MB’li çözüm olan 3,5 parçanın dışındadır; Q=2’den sonra 8−Q=3 ⇒ 5.
+4pibkc15rq Dijital bir kütüphane abone olmayanları engelleyebilir ve bir okuyucu ötekileri rahatsız etmez. Hangi sınıflandırma?
+24fk0ovts6m Yoğunluk olmadığı varsayımıyla dışlanabilir ve rakip olmayan.
+1wf6yb36qqd Saf kamu
+v9mlvmwnjp Erişim dışlanabilirdir.
+1f5gaxb0o64 Ortak
+13zorikpusu Ortak kaynak dışlanamaz ve rakiptir.
+1didyjjzdna Bir rezervasyon göle erişimi kapatır ve tekneleri sınırlar. Doğrudan hangi mekanizmayı değiştirir?
+21whoiv12h2 Serbest erişimi ve rakip kullanımın baskısını
+slbtvvs83s Kural bir kamu malının dikey toplamını değil, kullanıcı sayısını ve avlanmayı hedefler.
+kvgq0uk2vq Balıkların rakip olmamasını
+1ssc63sglxd Yakalanan balıklar bir rezervasyon sayesinde başkalarına açık hâle gelmez.
+11qicsya3tf Ortak bir wifi hızını finanse etme ihtiyacını
+9sbjg0ydya Bu başka bir sorundur: burada söz konusu olan kaynağın rekabet eden kullanımıdır.
+18zug41bpgi Same quantity
+1zaf20dzrrj Own average share
+11tjahxxj59 Loss imposed on existing users
+o1q5sk5x1y Social marginal comparison
+12jkitamg6c Dışlama ve rakiplik sorularını ayrı ayrı sorarak bir malı sınıflandırmak.
+714s4pg57e Kamu finansmanı ya da yüksek maliyet yetmez.
+132066c46ko MB’leri aynı Q’da toplamak ve WTP’nin sıfır olduğu eşikleri kontrol etmek.
+gj84qm4hfr Bir yararlanıcı çıktıktan sonra doğrusal bir toplam geçersiz hâle gelebilir.
+14eo2zy43ny Pozitif ya da sıfır bir eksik katkıyı, malın değersiz olduğunu söylemeden açıklamak.
+157hx03bak4 Ödeme teşviki alınan değerden farklıdır.
+1v1jyzlro1u Serbest erişimdeki AP=maliyet’i optimumdaki sosyal MP=maliyet’ten ayırmak.
+1ckd0cps0wt Kârlı bir giriş, başka kullanıcıların hasılatını kaydırabilir.
+1flxxa3gsnx Gizli bilgi — arabalar, diplomalar ve kredi
+210c0bpxm0h Tiplerin seçilmesi ve eylemlere yönelik teşvikler
+29clh7ywm2s Güvenilir bir araba neden piyasadan kaybolabilir? Banka neden daha fazlasını isteyerek kaybedebilir? Bilenin ve seçenin yerine koy kendini.
+vcpos2mz5h Vekil / alıcı
+2dtxzv1jp8v bilgisine ve özel kazançlarına göre karar verir
+26jqnzt4rnu kendisine uyan sözleşmeyi ya da çabayı seçmek
+1dbc9cyxuow Satıcı / asıl
+1hnw7h8wgrz kaliteye sahiptir ya da sözleşmeyi önerir
+ub8368cjvv kârlı bir değişim gerçekleştirmek
+2eraexzsszu Gizli tip
+1f2ulhdeqlu farklı bir maliyete katlanır ya da farklı bir kaliteye sahiptir
+9hdkj6oilx yalnızca kendisine uyan bir teklifi kabul etmek
+1lsv7bi5r6 Değerlendirici
+rn5b958jd1 artığı ve teşviklerin uygulanabilirliğini karşılaştırır
+z51qukgegv istenen eylemi peşinen varsaymamak
+12pd5zhvr4z Banka / denetçi
+228lunsnnd0 bir sonucu finanse eder ya da doğrular
+s690cew4n4 seçimlerle tutarlı bir kural önermek
+mr6bg43uar Satıcının bildiğini bilmeden satın alıyorsun
+kwi128nnol İkinci el bir araba istiyorsun. Satıcı onun güvenilir olup olmadığını biliyor; sen yalnızca kaportasını görüyorsun. Bir formül seçmeden önce her tarafın sahip olduğu bilgiyi ve bu bilginin değiştirdiği kararı belirle.
+vslvrw4cdg Asymmetric information (asimetrik bilgi): bir tarafın ötekinde olmayan ilgili bir bilgisi vardır. Yalnızca belirsizliğin varlığı yetmez.
+mld9roagaj Bir olay, hiçbiri daha fazlasını bilmeden ikisi için de riskli olabilir.
+15ymny7pbph İktisadi sorun, bu bilgi farkı bir seçimi, teklifi ya da çabayı değiştirdiğinde başlar.
+1khw5i2cqsu İki tarafın da bilmediği gelecekteki hava: paylaşılan risk. Yalnızca satıcının zaten bildiği kalite: asimetrik bilgi.
+uwnpfy51e5 adverse selection ya da moral hazard yazmadan önce “kim neyi ne zaman biliyor?” diye sor.
+1y80juodqo4 Gelecekteki yağmuru ne alıcı NE de satıcı biliyor. Bu bir asimetri gösterir mi?
+8jkfb9otny Evet, her belirsizlik asimetriktir
+28fpkdklq6a Asimetrik, bilgilerin taraflar arasında farklı olduğu anlamına gelir.
+kk1z9y2lql Hayır, bir taraftaki özel bilgi eksik
+fj7lftmttb Risk ortak olabilir; kimin daha çok bildiğine bak.
+18l17hmrqk3 Gizli bir tip ile gizli bir eylem aynı sorunu doğurmaz
+1h0hgz6zmlz Bir arabanın güvenilirliği satıştan önce vardır; alıcı bu özelliği bilmez. Tamircinin çabası ise sözleşmeyi imzaladıktan sonra değiştirebileceği bir seçimdir. Bir durumda sözleşme belirli tipleri çeker; ötekinde bir davranışı etkiler.
+18huoua6elo Adverse selection (ters seçim): özel tip, risk ya da kalite. Moral hazard (ahlaki tehlike): kusurlu gözlenebilen eylem ya da çaba. Temel ölçüt bilginin niteliğidir; zamanlama teşhise yardımcı olur.
+2dbdjcj66z7 Ortalama bir sözleşme, iyi tipleri ne olduklarını değiştirmeden uzaklaştırabilir.
+usr0qqetzo Sonuca bağlı bir ödeme, başlangıçtaki bir kaliteyi açığa vurmadan çabayı değiştirebilir.
+xwglrktfhn Bir sigorta en riskli sürücüleri çekebilir, sonra onların dikkatini azaltabilir: aynı sözleşmede iki farklı mekanizma.
+xmxtljjjt7 Sigortacısın: “kim sigorta yaptırıyor?” sorusunu “sigortalandıktan sonra nasıl araba kullanıyor?” sorusundan ayır.
+2dxm0l1ekg4 Bir sigortalı, teminattan sonra daha az dikkatli oluyor. Hangi mekanizma?
+lj7fk2kl8h Adverse selection
+1yqhqazzwt8 Bu, sözleşmeden önce çekilen sürücü tipini ilgilendirirdi.
+1xmznk1cpya Moral hazard
+113igzfb26r Teminat, imzadan sonra özel bir eylemi değiştirir.
+g2vs70d02a Risk yokluğu
+18n2gsk0vhm Risk sürer; düzeyi davranışla değişir.
+1hal5pkn4h0 Gizli bilgi olmadan iki kalite de satılabilir
+16zl2ghbxtz İyi bir araba senin için 150 değerinde ve sahibi 130’un altını reddediyor. Kötü bir araba senin için 50 değerinde ve sahibi 30’un altını reddediyor. Herkes kaliteyi görürse, iki değer arasındaki bir fiyat her kalite için iki tarafı da kazançlı çıkarabilir.
+kg3cimypws Değişimden kazançlar: alıcının WTP’si satıcının rezerv fiyatının üstünde. L12, [130,150] ve [30,50] aralıklarını verir.
+1jevd9624rh Satıcının rezerv fiyatı, malı devrederek feda ettiği şeydir.
+1szladwjq8x Potansiyel bir kazanç, gizli kaliteli bir piyasanın onu gerçekleştireceğini garanti etmez.
+yj3da9i9mx İyi araba 140’tan: alıcı 10, satıcı da rezerv fiyatına göre 10 kazanır. Kötü araba 40’tan: aynı kazançlar, 10 ve 10.
+vybrm2bdur İyi olduğunu biliyorsan iyi araba için 140 önerebilirsin. Bu bilgi fiyatı senin için inandırıcı kılar.
+wcjynzcqy8 İyi bir arabada potansiyel kazançların toplamı nedir: değer 150, rezerv fiyatı 130?
+3d3hlwlrjr 150−130=20; fiyatın bu kazancı nasıl paylaştırdığından bağımsız.
+jsmlex2nuo İki değer toplanacak iki fayda değildir: rezerv fiyatı satıcının fedakârlığıdır.
+r76lwbm5wl 10, 140 fiyatında her birinin payı olurdu; toplam artık 20’dir.
+kt05e0d8aj Ortalama fiyat ancak ortalama satıcılar kalırsa tutar
+2a8ry15mhaq Başta her kaliteyi alma şansının ikide bir olduğuna inanıyorsun. Riske nötr isen en fazla 100 önerirsin. Ama iyi bir arabanın sahibi bu fiyatı reddeder: kalan arabalar artık yarısı iyi bir örneklem değildir.
+2fs3h1hkj1b Başlangıç WTP’si E[v]=0,5×150+0,5×50=100. Denge inancı, önerilen fiyatta satıcıların seçilmesiyle tutarlı olmalıdır.
+234pdlhfu9r Fiyat yalnızca değerlerin ortalaması değildir; aynı zamanda arzı seçen bir kuraldır.
+13rtalgfiz0 İyi tipin rezerv fiyatı 130 ise, 100 önermek tam da 100’lük ortalamayı haklı çıkaran tipi eler.
+13cobrbqb66 p=100’de düşük kaliteli satıcılar 100≥30 olduğu için kabul eder, iyiler 100<130 olduğu için reddeder. Yalnızca düşükler kalırsa WTP=50.
+xgbgfwclkr Teklifinden sonra hâlâ mevcut ilanlara bakıyorsun: yalnızca ilk hesabını değil, onların bileşimini de yeniden değerlendir.
+20thpbxwj15 Ortalama fiyat kendi varsayımını yıkabilir
+29p01xzb39d L12 verileri: iyi araba alıcı için 150, satıcı için 130 değerinde; kötü araba 50 ve 30. İyi kalitenin başlangıç olasılığı 1/2’dir.
+2f6qxq0grbd Bilgisiz alıcı
+g25k3bpzss İki kalite eşit oranda kalırsa en fazla 100 önerir
+2epbc93elat (150+50)/2=100 bir beklenen değerdir, her arabanın değeri değil.
+1btachppdkb İyi araba satıcısı
+1iicznk2zie Rezerv fiyatı 130 olduğu için 100’ü reddeder
+1pirw2yws0z İyi arabalar bu fiyatta piyasadan çıkar.
+1o6icqdh2eq Rasyonel alıcı
+wys9t8lgyg Hâlâ satışta olan arabalar hakkındaki inancını günceller
+167dcufo544 Yalnızca kötüler kalırsa WTP’si 50’ye düşer.
+10g6n0tjmxv Seçilmeden önce, %50’si 150 değerinde iyi ve %50’si 50 değerinde kötü arabalarla beklenen WTP nedir?
+2gaybt1s8aw (150+50)/2=100; bu WTP varsayılan bileşime bağlıdır.
+28qmglybihe 100’lük bir fiyat burada neden 50/50 inancını desteklemez?
+1ihyu7eeh8h İyi araba satıcıları 100<130’u reddeder
+1fql3vokxap Satışa sunulan arabaların bileşimi değişir: inancı güncellemek gerekir.
+1n0g7oh00xm Kötü arabalar 0 değerindedir
+1xa2prnm8n4 Alıcılar için 50 değerindedirler; sorun iyilerin çıkışıdır.
+n7s64sqjxy Hiçbir satıcı kaliteyi bilmez
+2b5aejez6jw Bu durumda bilgili taraf tam da satıcıdır.
+213l375hxfg Kaliteyi kimse bilmiyorsa artık aynı piyasa değildir
+1pr1tgdd1ed Şimdi satıcının bile arabasının tipini bilmediğini düşün. Risk nötrlüğü altında ortalama rezerv fiyatı 80, senin ortalama değerin 100’dür. Dolayısıyla bilinen bir kaliteye dayanan seçici çıkış olmadan, iki taraf için de kabul edilebilir bir fiyat olabilir.
+yui713qev5 Simetrik belirsizlik: E[rezerv]=0,5×130+0,5×30=80. Bu modelde 80 ile 100 arasında değişimler mümkündür.
+177z6hjtrr9 Özel bilgi, iyi satıcının ortalama bir fiyatı bilerek reddetmesine izin verir.
+1kau7c91n7u Bu bilgi olmadan aynı seçim mekanik olarak tekrarlanamaz; ama riskten kaçınma rezerv fiyatlarını değiştirebilir.
+neu5kpwwdx Fiyat 90: alıcının beklenen kazancı 100−90=10; satıcınınki 90−80=10. Bu hesap bir kalite garantisini değil, risk nötrlüğünü kullanır.
+p3mxvp8lcw İki senaryoyu karşılaştırıyorsun: başlangıç olasılıkları aynı kalsa bile bilgiye kimin sahip olduğu değişir.
+1j852hp58tn Hiçbir satıcı kaliteyi bilmiyorsa, eşit olasılıklı 130/30 ile ortalama rezerv fiyatı nedir?
+1zo3lmok598 100, satıcının rezerv fiyatı değil, alıcının ortalama değeridir.
+4eiy7a1w5y Tipi açığa vurmak için girişimi kim üstlenir?
+pww6y8b5dc Güvenilir bir satıcı, güvenilmez satıcıların taklit etmesi pahalı olan bir garanti sunar. Alıcı ise göremediğini öğrenmek için bir inceleme düzenler ya da bir menü sunar. İkisi de bilgi farkını azaltır ama girişim farklı taraflardan gelir.
+174lyp8e7oo Signalling: bilgili tarafın gözlenebilir eylemi. Screening: daha az bilgili tarafın düzenlediği test, veri toplama ya da menü.
+1cd35azucwm Bir eylem, ancak tiplerin onu seçmek için farklı teşvikleri varsa tipi açığa vurur.
+la9mzlr2g4 Herkes için çok pahalı bir sinyal mutlaka ayırt edici değildir: kötü tipin taklit etmesi görece daha zor olmalıdır.
+my365clfru İnandırıcı bir garanti sunan satıcı: sinyal. Bağımsız inceleme isteyen alıcı: screening. Kolektif bir itibar da küçük markalar üzerindeki belirsizliği azaltabilir.
+8wmfsia2a2 Güvenilir bir satıcısın: düşük kaliteli bir satıcının hamleni neden hemen kopyalamayacağını sor.
+dnzefuqax7 Daha az bilgili bir işletme adaylara bir test yaptırıyor. Hangi mekanizma?
+7ohfu827aj Screening
+29yoq592dvz İşveren gözlemlemediği tipi öğrenmeye çalışır.
+1hguu4f2xnx İşverenin signalling’i
+27l8qp4np3i Bu örnekte bilgili taraf işveren değil, aday olurdu.
+1z8h7k388xb Moral hazard zaten kanıtlanmış
+15q1pf0j2do Tipler üzerine bir test, sözleşmeden sonraki bir çaba seçimini kanıtlamaz.
+1aogoiyhmct Bir diploma tipleri ancak biri onu kopyalamak isteyip öteki istemezse ayırır
+169fpizw61c Diploma 60 yerine 100’lük bir ücrete erişim sağlar. Bir aday onu almak için 20 çaba öder; bir başkası 60 öder. İlki diploma alarak kazanır, ikincisi kaybeder: aynı sinyal iki farklı seçim yaratır, çünkü maliyeti tipe bağlıdır.
+13peu3c0bpb C_A<40<C_S ise kesin ayrışma, çünkü 100−C_A>60 ve 100−C_S<60. Eşitliklerde kayıtsızlığı ele almak gerekir.
+cleu1ovaux Kesin olarak diploma almayı seçen bir tip için diplomanın maliyeti neyi sağlamalıdır?
+1dhnhr6kn68 Maliyet < 40’lık ücret kazancı
+kt3gl0kckf 100−C>60 ⇔ C<40: ücret kazancı maliyeti karşılamalıdır.
+122tnwdhp1y Maliyet >40
+216mvvt72hh O zaman diplomasız kalmaktan daha az net kazanırdı.
+1mojdig4ovn İnandırıcı bir sinyal, her tip için bir tane olmak üzere iki karşılaştırmayla okunur.
+n1564fo7ai İki tip için aynı diploma seçimi pooling olurdu; diploma beceri de yaratabilir, bu hesap bunu inkâr etmez.
+rdra7mbifb Tip A: 100−20=80>60. Tip S: 100−60=40<60. C_S=40 ise S kayıtsızdır, dolayısıyla kesin ayrışma artık garanti değildir.

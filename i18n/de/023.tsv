@@ -1,0 +1,182 @@
+1o5erzw7b5l Zwei Dreiecke: 0,5×10×10 + 0,5×10×10=100.
+5mzj28x80t 200 sind die Einnahmen des Staates, in diesem Benchmark ein inländischer Transfer.
+oai01gjw2o 450 ist der CS-Verlust; er umfasst auch die Transfers an Produzenten und Staat.
+2471u0ya2cb Jenseits der Autarkie gilt die Formel p_w+τ nicht mehr
+198b82q7sod Der Autarkiepreis unseres Landes beträgt 50. Ein Zoll von 30 ließe naiv einen Preis von 60 erwarten, aber bei diesem Preis müsste man nicht mehr importieren: Der Markt kann sich lokal bei 50 räumen. Ist der Zoll prohibitiv, erzeugt er keine Einnahmen auf Importe, die es nicht gibt.
+a4d4dmi18m Prohibitive Schwelle=p_Autarkie−p_w=20. Für τ≥20 gilt in diesem Modell M=0 und p=50. Ein großes Land, das p_w beeinflusst, erfordert ein anderes Modell mit Terms of Trade.
+3knvc455fe Bei einem Preis über 50 würde das heimische Angebot die Nachfrage übersteigen; die Importe bestimmen also nicht mehr den Grenzpreis.
+14380gr7j0n Die Annahme des kleinen Landes schließt Effekte auf p_w aus; man darf keine Schlussfolgerung für ein großes Land übernehmen, ohne sie zu analysieren.
+14y5q611pp1 τ=30: p=50, Q_D=Q_S=30, M=0 und Einnahmen 0. Es ist nicht p 60, Q_D=20, Q_S 40 mit „Importen −20“.
+17j1hv5tht9 Prüfe M≥0, bevor du eine Formel für ein Importland anwendest; negative Importe zeigen, dass du das Regime gewechselt hast.
+1svndx0i1nq p_D = 80−Q, p_S = 20+Q, p_w = 30, Zoll 30: welcher Inlandspreis?
+1j61prjd4p2 Der Autarkiepreis beträgt 50 und der Zoll ist prohibitiv: Das Land hört auf zu importieren.
+md2av90rxn p_w+τ=60 gilt nicht mehr, weil das Land kein Importeur bleibt.
+1harw0r6zqq Warum hier nicht auf einen optimalen Zoll eines großen Landes schließen?
+1jjnsjmv2xp Der Weltmarktpreis wird in unserem Modell als gegeben angenommen
+28e8dn1fr5f Ein Effekt auf den ausländischen Preis und die Terms of Trade würde andere Zusammenhänge erfordern.
+1lko7zhnnp6 Weil kein Land den Weltmarktpreis beeinflussen kann
+23osnd5dgzg Das ist eine Annahme des kleinen Landes, keine universelle Wahrheit.
+1g2kpf11bf0 Ein Land, das gewinnt, kann Menschen enthalten, die verlieren
+1cpwmxx4nnm Billigere importierte Lebensmittel nützen den Konsumenten. Aber die Eigentümer von Agrarland erhalten weniger für ihre Produktion; Arbeit kann die Landwirtschaft verlassen und in die Industrie wechseln. Ein etwaiger Gesamtgewinn entschädigt nicht automatisch jeden Verlierer.
+xewgl44cxy Spezifische Faktoren: Boden an die Landwirtschaft gebunden, Kapital an die Industrie gebunden, Arbeit mobil. Jeder Sektor stellt nach p_j MP_Lj=w ein; Verteilungseffekte sind von den aggregierten Gewinnen zu unterscheiden.
+1amlx0d4v9x Der Rückgang des Agrarpreises senkt bei gegebener Beschäftigung den Wert des Grenzprodukts der Arbeit in der Landwirtschaft.
+ezwph7ndt Die Anpassung der Arbeit verändert die Einkommen der spezifischen Faktoren; die Wirkung auf den Reallohn hängt auch vom Warenkorb der Arbeitenden und von den Preisen ab.
+1yai4emgfn1 Lebensmittelimportierendes Land: Ein niedrigerer Importpreis kann die Terms of Trade verbessern, während Grundeigentümer verlieren. Für einen Agrarexporteur verschlechtert ein niedrigerer erhaltener Preis dagegen die Terms of Trade.
+27gxj8hiqdw Du besitzt Land: „Das Land gewinnt“ beschreibt nicht dein Einkommen. Frag, welches Gut dein Faktor produzieren hilft und was mit dessen Preis geschieht.
+22lx9oj0iv0 Beweist ein Anstieg der nationalen Wohlfahrt, dass jeder Faktoreigentümer gewinnt?
+1wih37boki4 Nein, die Effekte hängen von Sektor und Faktor ab
+3tr9dy3z1z Der aggregierte Gewinn kann mit Verlusten für Boden oder einen anderen spezifischen Faktor einhergehen.
+1os4d5ay9fm Ja, weil die Gesamtrente automatisch geteilt wird
+1uv6pmcz876 Die Aggregation beschreibt nicht, ob Verlierer tatsächlich entschädigt werden.
+wpkicf9ytp Ja, der Reallohn steigt zwangsläufig gemessen an allen Gütern
+ada8r6mgjk Der Reallohn hängt vom Nominallohn und vom Preiskorb ab.
+aquuyapeum Der Wert einer Plattform kommt auch davon, wer darauf ist
+m7keekapo7 Du willst Sportausrüstung mieten. Eine leere App hilft dir wenig; sie wird nützlich, wenn viele Eigentümer passende Ausrüstung anbieten. Diese Eigentümer haben wiederum mehr Grund zu kommen, wenn es schon Mieter gibt: Jede Seite beeinflusst den Wert der anderen.
+19o65l35h6 Indirekter/seitenübergreifender Netzwerkeffekt: Mehr Teilnehmer auf einer Seite ziehen die andere an. Direkter Effekt: Nutzer derselben Seite erhöhen den Wert füreinander, wie in einem Multiplayer-Spiel.
+27sgiz6q9jm Die Plattform organisiert eine Interaktion, nicht nur eine Sammlung von Seiten.
+1i5upk2f261 Ein direktes Netzwerk verknüpft den Nutzen mit der eigenen Gruppe; ein seitenübergreifender Effekt geht von einer Gruppe auf die andere über.
+1ei63toaf0v Viele Künstler ziehen Publikum an; viel Publikum zieht Künstler an. Verlässliche Bewertungen und sichere Zahlung machen Interaktionen ebenfalls möglich, unabhängig von der bloßen Zahl der Konten.
+1tpmhgf9wq7 Frag: „Mehr von wem macht diesen Dienst für wen nützlich?“ Dieser Satz identifiziert beide Seiten und die Richtung des Effekts.
+1xztqyf3iyt Mehr Vermieter ziehen Mieter an. Welcher Effekt?
+fx8mrpn5jf Indirekt/seitenübergreifend
+3jqm7wi211 Der Wert steigt auf einer Seite dank der Präsenz der anderen Seite.
+1ctx2ttf3qf Direkt zwischen Mietern
+jpgrh4fsvy Die neuen Teilnehmer sind Vermieter, nicht Mieter derselben Seite.
+z2i2gtmvcl Zwangsläufig sinkende Grenzkosten
+1cdqj1kvscx Der Effekt beschreibt den Wert des Netzwerks, nicht direkt die Kostentechnologie.
+p9uuxu76dt Zum Start braucht die erste Seite einen Grund zu kommen
+fknxyfc8f6 Ohne Vermieter kommt niemand zum Mieten; ohne Mieter bietet niemand seine Ausrüstung an. Die Plattform kann eine Seite subventionieren, um das Kommen der anderen attraktiv zu machen. Freier Zugang kann also das Netzwerk aufbauen und zusätzlich die Nutzer nach Zahlungsbereitschaft sortieren.
+17mvw817jez Chicken-and-egg problem: Die Teilnahme der Seiten ist komplementär. Freemium kann den Anschub des Netzwerks mit self-selection verbinden.
+5btdvzerdv Die Kosten, eine Seite anzuziehen, können durch den Wert ausgeglichen werden, den sie für die andere schafft.
+1hj5binnx3w Die richtige Subvention hängt von den Reaktionen und Einnahmen jeder Seite ab; „alles gratis“ ist für sich allein kein rentables Modell.
+cr62oruosq Eine Konzertplattform kann den ersten Künstlern freien Zugang bieten, um Publikum anzuziehen, und dann eine andere Interaktion monetarisieren. Matching, Qualität und Vertrauen sind noch zu prüfen.
+nwr71vis1u Du startest die Plattform: Sag, welche Seite Hilfe erhält, welche andere Seite reagiert und wie die Plattform Wert abschöpfen kann.
+1bp3qy6q1wn Rekonstruiere eine plausible Anschubstrategie.
+2cq19lalp6t Geringe Teilnahme jeder Seite macht die andere wenig attraktiv
+21gqyt721le Gezielte Hilfe, um eine erste Seite anzuziehen
+22y7hudo2me Höherer Wert der Plattform für die andere Seite
+269ql8fmjlb Seitenübergreifende Teilnahme, dann eine zu prüfende Monetarisierungsmöglichkeit
+53yf5k6o9h Ein großes Netzwerk ist nicht automatisch ein natürliches Monopol
+h0f2wp8q18 Ein Nutzer kann manchmal ohne hohe Kosten Konten in mehreren Apps behalten. Ein Neueinsteiger kann dann Interaktionen anziehen, ohne dass das bestehende Netzwerk ganz aufgegeben werden muss. Umgekehrt erschweren Exklusivität und Wechselkosten diesen Eintritt.
+7ia8cy7wiz Multi-homing: mehrere Plattformen nutzen. Single-homing: nur eine. Netzwerkeffekte können Konzentration oder tipping begünstigen, beweisen aber nicht in jedem digitalen Markt ein natürliches Monopol.
+1ga74lzcwiz Das etablierte Netzwerk wird weniger uneinnehmbar, wenn seine Nutzer auch dem neuen Dienst beitreten können.
+3awsnfop66 Die Konzentration hängt auch von Qualität, Differenzierung, Überlastung, Exklusivitätsregeln und Wechselkosten ab.
+1kdojb4z4fm Ein Eigentümer kann seine Ausrüstung in zwei Apps einstellen. Eine Exklusivitätsklausel oder eine nicht übertragbare Reputation kann dieses Multi-homing erschweren.
+88txjwalm1 Du analysierst eine dominante Plattform: Such, was einen Nutzer oder Anbieter tatsächlich daran hindert, einen Konkurrenten auszuprobieren.
+1gdgdqsakzd Welches Element erleichtert, ceteris paribus, den Eintritt einer anderen Plattform?
+iyri5n8kkx Leichtes Multi-homing der Nutzer
+znmjb1pxv4 Sie können den Neueinsteiger nutzen, ohne den Etablierten ganz zu verlassen.
+1x3l5m7ex8d Verpflichtende Exklusivität der Verkäufer
+digq3snslv Sie entzieht dem Neueinsteiger eine Marktseite.
+ksejfuk0sr Sehr hohe Wechselkosten
+1tqvck5p5d2 Sie erschweren den Wechsel der Nutzer.
+qwglzmcvex Bei einem Verkauf zum zweiten Preis entscheidet dein Gebot vor allem, ob du gewinnst
+1pxphvfrt9t Du nimmst an einer verdeckten Auktion teil, bei der das höchste Gebot gewinnt, aber das zweithöchste zahlt. Dein Gebot legt also nicht direkt deinen Preis fest, wenn du gewinnst. Mit privaten Werten im Grundmodell gewinnst du mit deinem wahren Wert als Gebot genau dann, wenn der beste gegnerische Preis nicht über dem liegt, was dir das Objekt wert ist.
+zd5np4j5sa Vickrey: Verkauf zum zweiten Preis. Wahrheitsgemäßes Bieten ist unter den Modellannahmen privater Werte und monetären Nutzens schwach dominant.
+8zz7avwta8 Liegt der gegnerische Preis unter deinem Wert, ist Gewinnen profitabel; zu niedrig zu bieten könnte dich darum bringen.
+j53reerfah Übersteigt der gegnerische Preis deinen Wert, würde Gewinnen Verlust bringen; zu hoch zu bieten könnte diesen Verlust erzeugen.
+89108m52ls Werte 80,100,92 Millionen, wahrheitsgemäße Gebote: Bieter 2 gewinnt, zahlt 92 und erhält 100−92=8 an Rente.
+1sgyf0zwsd4 Das Objekt ist dir 100 wert: Ein Gebot über 100 senkt den gegnerischen Preis nicht und kann dich einen Preis akzeptieren lassen, bei dem du verlierst.
+20zanplfq4u Verkauf zum zweiten Preis: Nicht alle Werte werden bezahlt
+1yyyg5zvba8 Mio.
+1rp18ru01ha Private Werte 80,100,92; wahrheitsgemäße Gebote. Bieter 2 gewinnt und zahlt 92, nicht 100. Die monetäre Rente beträgt 8.
+d4t7z7s1n1 Wert von Bieter 1
+12jlipm89kf Gebot 80 bei wahrheitsgemäßem Bieten.
+29i202o0eue Wert von Bieter 2, Gewinner
+v4k4mbiyqt Höchster Wert, Gebot 100.
+2g92mteqama Wert von Bieter 3 / gezahlter Preis
+291rtt2qsu2 Zweithöchstes Gebot: Es bestimmt die Zahlung des Gewinners.
+1s7f25xpctx Private Werte 80,100,92, wahrheitsgemäße Gebote: Wie viel zahlt der Gewinner?
+1r4bfo2gufy Gewinner ist Bieter 2 mit 100; er zahlt das zweite Gebot, 92.
+6czq4rmzh 100 ist sein Gebot und sein Wert, nicht die Zahlung zum zweiten Preis.
+1lfcr3q5gpo 80 ist das niedrigste Gebot, nicht das zweithöchste.
+28ii63iqisa Welche Rente erhält der Gewinner, der das Objekt mit 100 bewertet und 92 zahlt?
+1q0jxgxprm1 Wert−Zahlung=100−92=8.
+1uslufmpxl8 Die Zahlungsregel ist eine Annahme, kein Detail
+11jridxsq5l Stell dir vor, das Objekt ist dir 100 wert. Beim zweiten Preis kann ein zu niedriges Gebot von 90 dich gegen 95 verlieren lassen, obwohl ein Kauf zu 95 einen Gewinn von 5 gebracht hätte. Bei einer Erstpreisauktion wird dein Gebot zu deiner Zahlung: Die Logik des wahrheitsgemäßen Bietens lässt sich also nicht übertragen.
+1qel749iqne Die schwache Dominanz des wahrheitsgemäßen Bietens betrifft die Vickrey-Regel des Modells. Beim ersten Preis verlangt der Zielkonflikt zwischen Gewinnwahrscheinlichkeit und Marge eine strategische Analyse der Gegner.
+1p0d1dd6eh4 Beim zweiten Preis ändert ein anderes Gebot, das den Gewinner nicht ändert, den von den anderen festgelegten Preis nicht.
+1p6sp89tsit Beim ersten Preis senkt ein höheres Gebot direkt die Rente im Gewinnfall; man braucht zusätzliche Erwartungen, um ein optimales Gebot zu berechnen.
+28b76gxt6pr Wahrer Wert 100, bestes gegnerisches Gebot 95: Ein Gebot von 100 gewinnt zum Preis 95; ein Gebot von 90 verschenkt einen Gewinn von 5. Ein Gebot von 110 gegen 105 würde mit einem Verlust von 5 gewinnen.
+29znnipkc02 Liest du „winner pays own bid“, hör auf, „bid your value“ herunterzubeten, und bestimme den neuen Zielkonflikt.
+2gefmprwxai Ist wahrheitsgemäßes Bieten in jeder Auktion schwach dominant?
+26m5d8fyydi Nein, man braucht die Zweitpreisregel und ihre Annahmen
+75givght3h Erster Preis und gemeinsame Werte verändern das Problem.
+1paa2o84256 Ja, unabhängig vom gezahlten Preis
+1yboyg7u7gq Beim ersten Preis bestimmt dein Gebot deine Zahlung; der vorige Beweis funktioniert nicht mehr.
+rqtkzajnfn Wenn der Staat kauft, kehrt sich die Rangfolge um
+1np1hijf6fw Die Stadtverwaltung kauft eine identische Leistung bei drei Unternehmen ein. Ihre Kosten betragen 20 000, 24 000 und 28 000. In einer umgekehrten Zweitpreis-Beschaffungsauktion gewinnt das günstigste, erhält aber das zweitniedrigste Gebot: Es behält die Differenz als Gewinn.
+1yyobgm5t57 Reverse second-price procurement: Das niedrigste Gebot gewinnt, die Zahlung entspricht dem zweitniedrigsten, bei gleicher Qualität und privaten Kosten im Modell.
+1whafo9hpyj Der Auftraggeber will eine Leistung kaufen, nicht ein Objekt an den Meistbietenden verkaufen.
+1pmat6sqlk9 Die Regel gibt dem Anbieter im Modell privater Kosten einen Grund, seine Kosten offenzulegen, löst aber nicht automatisch das Problem verborgener Qualität nach der Vergabe.
+gn97z3rwp1 A gewinnt mit Kosten 20 000, erhält 24 000 und verdient 4 000. Eine Zahlung von 24 000 ist kein Gewinn von 24 000.
+12idvs98ydx Du bist A: Deine Marge ist die erhaltene Zahlung minus die eingesetzten Ressourcen; behalte in beiden Termen dieselbe Geldeinheit.
+1mrijou06sm Kosten 20 000, 24 000, 28 000 und umgekehrte Zweitpreisauktion: Zahlung an den Gewinner?
+1tmi6mcyxz3 Das niedrigste Gebot gewinnt; die Zahlung ist das zweitniedrigste, 24 000.
+bnav75dygd 20 000 sind seine Kosten/sein Gebot, nicht die Zahlung nach dieser Regel.
+2eyo8oyoabu 28 000 ist das dritte Gebot.
+21rjpw90zg6 Kosten 20 000, Zahlung 24 000: Gewinn des Anbieters?
+2e749kf9dxf Zu gewinnen kann verraten, dass du am optimistischsten warst — wenn du ein privates Signal hattest
+2u0dow4iak Mehrere Unternehmen schätzen die unsicheren Kosten derselben Baustelle. Erhält jedes ein privates Signal und gewinnt der günstigste Bieter, kann der Zuschlag anzeigen, dass man die Kosten im Vergleich zu den anderen unterschätzt hat. Ein gemeinsamer Wetterschock, der nur über dieselbe öffentliche Verteilung bekannt ist, reicht dagegen nicht, um diese informationelle Selektion zu beweisen.
+1afutqcams3 Winner’s curse: Information, die im Ereignis „gewinnen“ steckt, in einem Modell mit gemeinsamem Wert/gemeinsamen Kosten und privaten Signalen. E2025 legt diese Signale für sich allein nicht fest.
+tp0a49uz7m Ein Gewinner, der aufgrund einer extremen Schätzung ausgewählt wurde, muss die Schätzung bedingt auf seinen Sieg neu bewerten.
+1681zjo7y7i Ohne unterschiedliche private Informationen fehlt dieser Selektionsmechanismus; das Vertragsrisiko ist mit den vorliegenden Daten noch zu analysieren.
+1i0js9wqrfz Bei einem Verkauf kann der Gewinner am optimistischsten über den Wert sein. Bei einem Bauauftrag kann er am optimistischsten über niedrige Kosten sein, daher das Risiko eines Verlustauftrags.
+12ntrnt1nq2 Schreib „winner’s curse“ erst, nachdem du gesagt hast, wer welches Signal beobachtet und warum Gewinnen zusätzliche Information liefert.
+1tlfy7z9zcv Eine Aufgabe sagt nur: „Das künftige Wetter beeinflusst die Kosten aller.“ Kann man einen informationellen winner’s curse behaupten?
+1aup9xcakyh Nein, die privaten Signale und die Selektion sind noch nicht festgelegt
+2ev516285mn Der gemeinsame Schock erzeugt Risiko, nicht automatisch einen Informationsnachteil bedingt auf den Sieg.
+1pjda9sa70f Ja, jedes gemeinsame Risiko genügt
+178gwbmim18 Das ist die Falle von E2025: Man muss die zusätzliche Information erklären, die das Gewinnen offenbart.
+sj35okbcu3 Nein, weil Auktionen nie Risiko enthalten
+1pld902d6s5 Risiko ist durchaus möglich; zu zeigen bleibt der Informationsmechanismus.
+lvax2l9o2v Zwei Personen, dieselben Summen, unterschiedliche Vorlieben
+13fn87xpk3y Christina und Sebastian haben je 10 Drinks und 10 Snacks. Christina bewertet einen Drink wie einen Snack; Sebastian bewertet einen Snack wie zwei Drinks. Ein Tausch kann die Snacks also zu der Person verlagern, die sie relativ höher bewertet, ohne ein einziges zusätzliches Gut zu produzieren.
+1905irt49n6 E2021: U_C=D_C+S_C; U_S=D_S+2 S_S. Edgeworth-Box mit den Maßen 20 Drinks×20 Snacks, mit gegenüberliegenden Ursprüngen und komplementären Allokationen.
+14z0wq59123 Eine Allokation an Sebastian legt über die festen Summen automatisch die von Christina fest.
+2apq8qz7npt Die Gewinne kommen aus einer besseren Passung zwischen Gütern und Präferenzen, nicht aus mehr Snacks.
+16qe24kg2ie Zu Beginn: U_C=10+10=20; U_S=10+2×10=30. In Sebastians Koordinaten (D,S) hat Christina (20−D, 20−S).
+lb0mgr5gds Du bist Sebastian: Du wärst bereit, bis zu 2 Drinks für einen Snack zu geben; Christina verlangt nur einen Drink, um an der Grenze einen Snack abzugeben.
+b79xfmli9k Tausch: Sebastians Bündel, das von Christina als Komplement
+14ecc98vq0x Sebastians Koordinaten: D_S horizontal, S_S vertikal, Summen 20/20. Christina erhält (20−D_S, 20−S_S). Dieser Machbarkeitsschnitt ersetzt nicht die Zeichnung mit zwei Ursprüngen: Er zeigt die beiden anfänglichen Nutzenniveaus.
+2xgilm6hyd D_S: Sebastians Drinks
+d1xrcm1cws S_S: Sebastians Snacks
+2g35r0ati0n Sebastian U=30: S=15−D/2
+2gcrcvhvxx2 Darüber zieht Sebastian das Bündel seiner Anfangsausstattung vor.
+288raxa1h6s Christina U=20: S=20−D
+v53q8uuhcm Darunter zieht Christina das Ergebnis der Ausstattung vor, da für Christina mehr von den Summen bleibt.
+fzp4bj31zd Effizienter Rand D_S=0
+6932gujk51 Keine Drinks mehr, die von Sebastian zu Christina wandern können.
+22a98u4tmfk Effizienter Rand S_S=20
+2eheswqm67r Keine Snacks mehr, die von Christina zu Sebastian wandern können.
+9qkrbzuvy6 Ausstattung: U_S=30, U_C=20
+21a6gf9clhr Tausch: U_S=31, U_C=21
+18s1nyjrtce Effizient und für beide besser
+1e6j4c5p3jk Sebastian besitzt 7 Drinks von insgesamt 20. Wie viele besitzt Christina?
+1m7ajwrgj8u Drinks
+16dq7li7ie2 20−7=13. Jede Allokation muss die Summen einhalten.
+cqnjuo3bk9 Die beiden Bündel sind komplementär, nicht identisch, sobald getauscht wird.
+1umkxf1pmp4 Prüfe beide Nutzen, bevor du einen beiderseitigen Gewinn verkündest
+221oait5qxa Sebastian gibt Christina 3 Drinks und erhält 2 Snacks. Er endet mit 7 Drinks und 12 Snacks, Christina mit 13 und 8. Der Nutzen beider steigt um eine Einheit: Ein Preis von 1,5 Drinks pro Snack liegt zwischen ihren relativen Tauschbereitschaften.
+1m05gl9s4k2 Pareto-Verbesserung: Niemand ist schlechter gestellt, mindestens einer strikt besser. Hier U_S=31>30 und U_C=21>20.
+6n96avz59v Sebastian bewertet seine zwei zusätzlichen Snacks mit 4 Drinks, mehr als die 3 abgegebenen.
+1n5rrng2up Christina verliert 2 Snacks, erhält aber 3 Drinks; auch Christinas Nutzen steigt.
+f6yqh7hh8c In Sebastians Koordinaten: Nicht zu verlieren verlangt D+2 S≥30 und D+S≤20; für eine echte Verbesserung mindestens eine strikte Ungleichung.
+23rbo23wmgz Erkläre einen Tausch nicht für gut, weil ein Spieler gewinnt: Prüfe auch das Bündel, das dem anderen bleibt.
+809c51sb00 Nach dem Tausch hat Sebastian (7 D, 12 S) und U=D+2 S. Welcher Nutzen?
+14vl01muww4 7+2×12=31, gegenüber 30 zu Beginn.
+2dqrnp4sewj Christina hat (13 D, 8 S) und U=D+S. Welcher Nutzen?
+1mvrob1dbsr 13+8=21, gegenüber 20 zu Beginn.
+1xg6ccld7pu Verschiedene MRS treffen sich nicht immer in einem Tangentialpunkt
+1lskq2e460w Die linearen Vorlieben von Christina und Sebastian ändern sich nicht mit ihrem Bündel. Solange Sebastian noch Drinks und Christina Snacks hat, kann ein kleiner Tausch zu einem Preis zwischen 1 und 2 beide besserstellen. Effizienz wird also an einer physischen Grenze erreicht: Sebastian hat keine Drinks mehr oder besitzt alle Snacks.
+w0dv4l1zhr Bei glatten Präferenzen mit innerem Optimum gilt MRS_C=MRS_S. Mit perfekten Substituten bleiben die MRS hier verschieden: Effiziente Allokationen liegen an den Rändern D_S=0 oder S_S=20.
+1pj1udbqdor Die Tangentialbedingung ist eine Bedingung für ein inneres Optimum, keine universelle Gleichung jeder effizienten Allokation.
+51v0bf87u0 Nützlicher Tausch endet, wenn das Gut, das in die günstige Richtung wandern soll, nicht mehr verfügbar ist, nicht, wenn die Vorlieben identisch werden.
+1k9c158gvub Von der Anfangsausstattung aus, ohne jemanden schlechterzustellen, ist der erreichbare effiziente Rand D_S=0 und 15≤S_S≤20. Bei (0,17) gilt U_S=34 und U_C=23: Beide gewinnen, und Sebastian kann keine Drinks mehr abgeben.
+2bs2n9318uf Prüfe zuerst, ob ein vorteilhafter marginaler Tausch noch machbar ist. Ist ein Bestand erschöpft, erzwinge keine unmögliche MRS-Gleichheit.
+qtvbnost0a Welche Allokation für Sebastian ist effizient und stellt beide gegenüber (10,10) besser?
+u4zii61e7q U_S=34>30, U_C=23>20; Sebastian hat keine Drinks mehr, die für einen beiderseitigen Gewinn übertragen werden könnten.
+1a966a89cug Beide haben gewonnen, aber Sebastian hat noch Drinks und Christina Snacks: Weitere Gewinne sind möglich.
+1hniipbqvo9 Das ist die Anfangsausstattung; ihre relativen Tauschbereitschaften unterscheiden sich, und ein nützlicher Tausch ist machbar.
+cqren79zcu Ein Gewinn lässt sich nicht ohne Opportunitätskosten oder relevante Option beurteilen.
+1cxuhv6bmv7 Gegebener Weltmarktpreis, zweiter Preis oder private Signale bedeuten unterschiedliche Modelle.

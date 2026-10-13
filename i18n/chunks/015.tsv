@@ -1,0 +1,207 @@
+urr9h5gslm	Un équilibre exige que les deux conditions soient satisfaites au même couple.
+bfadtqwig9	Un accord qui améliorerait les profits des deux peut ne pas être stable face à une déviation individuelle.
+e1dt93goin	Avec p = 70 − Q et MC = 10, q1 = q2 = 15 maximise le profit joint pour Q = 30, mais à q2 = 15 la meilleure réponse de 1 est 22,5 : le couple collusif n’est pas Nash Cournot.
+bghrmyg5po	Tu es firme 1 : ne demande pas « gagnons-nous tous davantage ? », demande « puis-je gagner davantage en changeant seule ? »
+27os33z2rgk	Pour tester Nash, une firme change sa quantité…
+1la1dt4cm4g	En gardant la stratégie de l’autre fixée
+syjb90gyhy	On vérifie une déviation unilatérale depuis le couple considéré.
+wldcv6tnyn	En imposant aussi une nouvelle quantité à l’autre
+1exn4q1qp8x	Ce serait une modification conjointe, pas une déviation unilatérale.
+pxo3tvr6kx	Pour maximiser le profit total des deux
+1k789ogx1mq	Chaque firme maximise son propre profit.
+87ntp4og4	Deux meilleures réponses dans les mêmes axes
+sgnjea3lro	q1 : unités de firme 1
+1jt51kwfuk	q2 : unités de firme 2
+1zn9mahf0vs	p = 70 − q1 − q2, MC = 10. BR1 : q1 = 30 − q2/2, donc q2 = 60 − 2 q1 dans ces axes. BR2 : q2 = 30 − q1/2. Nash (20,20) ; leader 1 (30,15) sur BR2, pas sur BR1.
+ua3wfq6zrr	BR1 réécrite : q2 = 60 − 2 q1
+1hput49hgi0	Chaque point donne la meilleure quantité de 1 pour le q2 considéré.
+ex20j0fsac	Chaque point donne la meilleure quantité de 2 pour le q1 considéré.
+dlo4uv1d59	Nash Cournot
+isz2xm0tst	1 leader
+thjf3gp20a	Construire la meilleure réponse de quantité
+1wioenjbfqd	La firme 1 sait qu’une production élevée de la rivale fait baisser le prix de tout le marché. Elle vend sa propre quantité au prix qui dépend du total, mais elle ne paie que ses propres coûts. Pour sa meilleure réponse Cournot, elle traite q2 comme fixé pendant cette décision.
+2d3usb0nl72	p = 70 − q1 − q2 ; MC1 = 10 ; π1 = (60 − q1 − q2)q1. FOC : 60 − 2 q1 − q2 = 0 ; BR1 = max(0,30 − q2/2).
+28f7jeqtgfb	Augmenter q1 ajoute une vente mais réduit le prix des unités déjà vendues par 1.
+uzeu5nmiyy	q2 influence le prix mais son coût ne figure pas dans le profit de 1.
+utzzgdlfxa	La quantité est bornée à 0 : une réaction linéaire négative représente un coin, pas une production négative.
+1ktf7uh29aq	Si q2 = 10, BR1 = 25 ; si q2 = 20, BR1 = 20. Une rivale plus active réduit le meilleur volume de 1 : substituts stratégiques en quantités.
+lf8qnil0j2	Tu diriges 1 : n’insère pas Q total dans ton coût 30 q1 ; tes salariés ne produisent pas les unités de 2.
+qrgz30bsxe	BR1 = 30 − q2/2. Si q2 = 10, quelle est la meilleure quantité q1 ?
+1bl2xu4s3ft	20 est la quantité symétrique d’équilibre lorsque q2 vaut 20, pas 10.
+280g399f7uy	Reconstruis le profit de firme 1 avec MC constant c1 et FC1.
+13xjmrjeql0	La marge sur ses propres ventes, moins son propre coût fixe.
+dvn4r9cp4l	Pendant la maximisation Cournot de 1, que fait-on de q2 ?
+2bl7m1m3kyc	On le traite comme fixé pour construire BR1(q2)
+113r5i9l881	La réaction indique le meilleur q1 pour chaque valeur possible de q2.
+207h0njs852	On remplace déjà q2 par la réaction du suiveur
+1m39lge40b5	Ce serait la logique séquentielle du leader Stackelberg, pas Cournot simultané.
+1gwuvca6qlz	On impose q2 = q1 avant de dériver
+ie7tkb9nmk	La symétrie peut aider ensuite, mais chaque firme contrôle seulement sa propre quantité.
+h33d6jgseu	Deux réactions, mais une seule convention d’axes
+dlrvg7h33j	Tu veux tracer les deux meilleures réponses dans le même repère. L’axe horizontal représente q1 et le vertical q2. La réaction de 2 est déjà écrite dans ce sens, mais celle de 1 doit être réarrangée pour que sa hauteur indique aussi q2.
+2eiixu6h4qd	BR2 : q2 = 30 − q1/2. BR1 : q1 = 30 − q2/2 se réécrit q2 = 60 − 2 q1. Ne pas dessiner deux fois la même pente.
+11a2ja757yv	Une équation peut décrire la même relation sous deux écritures.
+147tsrtmmfg	BR1 coupe l’axe horizontal à 30 et le vertical à 60 ; BR2 coupe les axes à 60 et 30.
+1kxohrfj1m	Leur intersection donne les deux choix simultanément optimaux.
+yt8jpkrp45	Au point (20,20), les deux équations tiennent. Le point (30,15) est sur BR2 mais pas sur BR1 : utile pour distinguer Stackelberg plus tard.
+196e0x2ou	Tu poses le crayon : dis à voix haute « horizontal q1, vertical q2 » avant de placer les intercepts.
+hwo4vn2n6e	Axes q1 horizontal, q2 vertical : quand q1 = 0, quelle hauteur donne la droite BR1 réécrite ?
+2fgwrmgzorr	30 est l’interception horizontale de BR1, pas sa hauteur à q1 = 0.
+1cyp2u785nn	Résoudre le croisement, puis le prix et les profits
+ff10rqqm9c	Les deux firmes ont ici les mêmes coûts et les mêmes possibilités. Au croisement, chacune produit 20 et aucune ne veut changer seule. Le marché contient 40 unités ; c’est ce total qui détermine le prix, tandis que le profit de chaque firme utilise seulement ses 20 unités.
+a3di3llqlg	La symétrie q1 = q2 est un résultat du même modèle et de coûts identiques, pas une propriété de tous les duopoles.
+nc44g5f773	Le prix dépend de q1+q2 ; le profit de i dépend de qi.
+pldfrqcfqe	À q2 = 20, BR1 = 20 : la condition de stabilité individuelle est vérifiée.
+qfut55ohip	Mettre Q = 40 dans π1 = (p−10)q1 donnerait 800, soit le profit des deux firmes ensemble, pas celui de 1.
+28em9bjfdrz	Tu écris quatre lignes distinctes : q1, q2, Q total, puis p et π1. Cela évite de perdre le niveau firme/marché.
+1npnt7tsx3t	q1 = q2 = 20 et p = 70−Q : quel prix ?
+jqj3op6eqi	50 oublie les 20 unités de l’autre firme.
+1kf6v1zvv61	p = 30, MC = 10, qi 20, FC = 0 : profit de chaque firme ?
+1bqo3myn7sq	800 utilise le total 40 dans le profit d’une seule firme.
+vsjxf1rsq4	Des coûts différents donnent des volumes différents
+1osyb0cr17o	Blue peut produire à coût 0 tandis que Red paie 10 par unité. Blue a plus intérêt à ajouter des unités, ce qui fait baisser le prix et décourage une partie des ventes de Red. La rivale moins efficace reste active ici, mais les parts ne sont plus égales.
+dlirkq70rn	p = 70−Q, cBlue 0, cRed 10 : qBlue = (70−2×0+10)/3 = 80/3 ; qRed = (70−2×10+0)/3 = 50/3 ; p = 80/3.
+x3vwfpekwe	Les fonctions de réaction changent avec le coût de la firme concernée.
+27ojid4hwbj	Le nouvel équilibre inclut ensuite l’ajustement de la rivale, même si sa propre fonction de réponse est inchangée.
+l5tk5gfw2j	Si une solution intérieure donne qi<0, il faut résoudre un coin et vérifier l’autre meilleure réponse.
+19zpd2zlv53	Blue 26,667, Red 16,667. Autre cas : c1 = 10, c2 = 50 donne une formule intérieure négative pour 2 ; le coin valide est q1 = 30, q2 = 0, p = 40≤c2.
+18htbxlkke1	Tu vois une grosse part de marché : demande si elle provient de faibles coûts plutôt que de conclure que les firmes doivent produire autant.
+cm8u0b5f8b	p = 70−Q, cBlue 0, cRed 10 : quantité Blue ? Arrondis à 0,01.
+1s40i5x5oc8	(70−2cBlue+cRed)/3=80/3.
+sl3zz1hb0y	20 impose les anciens coûts symétriques.
+g9923kj8qv	Une formule intérieure donne q2 négatif. Que faire ?
+13zt5klv958	Résoudre avec q2 = 0 et vérifier les meilleures réponses
+20zknoc72f0	Le domaine économique impose des quantités non négatives.
+24gseez4lil	Garder la quantité négative
+8r04ovn42r	Une firme ne peut pas produire une quantité négative.
+1aze921td68	Remplacer seulement le signe par sa valeur absolue
+7lgqhiex5j	Cela ne résout plus les conditions de choix.
+16xoi7se3l	Une taxe par unité fait reculer les deux réactions
+n2yo14c1ev	Reprends les deux firmes du marché p = 70 − Q, chacune avec un coût de 10 par unité. L’État prélève maintenant 6 par unité vendue, sur chacune. Pour chaque firme, l’unité suivante coûte 16 : quelle que soit la quantité de la rivale, elle a intérêt à produire moins. Comme les deux font ce même raisonnement, chacune voit aussi l’autre réduire ses ventes, ce qui lui laisse un peu de place.
+i31zf65ho7	Coût effectif c = MC + t = 16. π1 = (70 − q1 − q2 − 16)q1 ⇒ BR1 = 27 − q2/2, au lieu de 30 − q2/2. Les deux réactions glissent vers l’origine ; Nash symétrique q = (70 − 16)/3 = 18, Q = 36, p = 34.
+5x65zjjtz8	La taxe agit comme un coût par unité : elle réduit la marge de chaque unité, quelle que soit la quantité de la rivale.
+gutbvtaok3	Dans le plan (q1, q2), chaque réaction recule parallèlement : pour toute quantité de l’autre, on produit 3 de moins.
+10wep0uook	Le prix monte de 30 à 34, soit 4 sur 6 de taxe : une partie de la taxe est prise sur les marges des deux firmes.
+5pg84kr2ez	Sans taxe : q = 20 chacune, p = 30, profit 400. Avec t = 6 : q = 18, p = 34, profit (34 − 16) × 18 = 324 ; recette fiscale 6 × 36 = 216.
+1qdodfsggsx	Tu diriges la firme 1 : à q2 donné, tu vends 3 unités de moins qu’avant. Mais ta rivale fait pareil, ce qui te laisse un peu plus de demande : au final, tu ne baisses que de 2.
+1qfj0roxsxq	Taxe 6, coût effectif 16, p = 70 − q1 − q2 : si q2 = 18, quelle est la meilleure quantité de la firme 1 ?
+g6buq1ud1m	21 utilise l’ancienne réaction 30 − q2/2 : la taxe fait partie du coût de la firme.
+1cj8xyf2i9x	Nash avec taxe : q1 = q2 = 18. Quel prix ?
+1rk12u2kynp	30 est le prix sans taxe.
+247ot3nz4db	36 est la quantité totale, pas le prix.
+q3dt0e4o40	Comment la taxe déplace-t-elle les réactions dans le plan (q1, q2) ?
+1huv8cwf6ax	Les deux se rapprochent de l’origine, parallèlement
+518sgk5t7d	Pour toute quantité de la rivale, chaque firme produit 3 de moins : BR = 27 − qj/2.
+z2p9tflhut	Seule la réaction d’une firme bouge
+mc8nemgetp	Les deux firmes paient la taxe : les deux réactions bougent.
+28mmnwhkuct	Elles s’éloignent de l’origine parce que le prix monte
+13uw0r0wff2	Le prix monte parce que les quantités baissent, pas l’inverse.
+uwbhwagpo5	Une taxe de 6 par unité, payée par les deux firmes
+2ee081axghk	p = 70 − q1 − q2, MC = 10, puis taxe 6 : coût effectif 16. Chaque réaction recule de 3 pour toute quantité de la rivale : BR = 27 − qj/2. Nash passe de (20, 20) à (18, 18). C’est le schéma demandé en E2022 Q3e.
+o2xg7fbrgn	BR1 sans taxe : q2 = 60 − 2 q1
+6aarhxs8vm	Meilleure quantité de 1 pour chaque q2, coût 10.
+trpr4iw3xa	BR1 avec taxe : q2 = 54 − 2 q1
+1ofqrp2s59m	Même raisonnement avec un coût de 16 : 3 unités de moins pour chaque q2.
+1yxoezvlvky	BR2 sans taxe : q2 = 30 − q1/2
+23j47npzz9i	Meilleure quantité de 2 pour chaque q1, coût 10.
+o7w67qqmze	BR2 avec taxe : q2 = 27 − q1/2
+233wbmi9i3p	La firme 2 paie aussi la taxe : sa réaction recule de 3.
+19km7tb6bs8	Nash sans taxe
+q6vuos3kpm	Nash avec taxe
+2cpss1bptex	Les coûts fixes affectent les comptes, puis éventuellement l’entrée
+q47pv23qfq	Une firme paie un loyer supérieur à celui de sa rivale. Tant que ce paiement est inévitable et que toutes deux restent actives, il ne change pas ce que coûte une unité supplémentaire. Elles peuvent donc produire les mêmes volumes et pourtant avoir des profits différents.
+13f6200u5eg	À p = 30, qi 20, MC = 10 : profit variable 400 ; avec FC = 100, π = 300 ; avec FC = 500, π−100. L’arrêt de court terme et l’entrée de long terme ne sont pas le même choix.
+1yrv1ckqgtj	FC disparaît de la dérivée par rapport à qi.
+1d3tuxk9gtr	Si produire crée 400 de gain variable, produire avec FC = 500 perd 100 au lieu de perdre 500 en arrêtant, quand FC est irrécupérable.
+gh3fznz39t	Si l’on peut éviter ce coût en n’entrant pas, la décision préalable peut être de ne pas entrer.
+1u5z1mzjaka	E2021 : mêmes MC = 8, mais FC = 100 et 50 ; quantités 8 chacune, prix 24, profits 28 et 78. La différence 50 de profit vient des coûts fixes.
+14w37tm5ozk	Tu es gestionnaire : distinguer « ne pas ouvrir l’usine » et « produire aujourd’hui après avoir déjà payé » change le benchmark.
+m3z3f6ui5p	Profit variable 400, coût fixe 500 déjà irrécupérable : arrêter ferait perdre 500. Produire donne π−100. Quel choix maximise le profit courant ?
+2npz0objg1	Produire
+24mzx3l1rsj	−100 vaut mieux que−500 ; le gain variable 400 couvre ses coûts variables.
+9vzoa0caw2	Arrêter car tout profit négatif impose l’arrêt
+27pg9lrwtb8	Tu oublies la perte inévitable même sans production.
+1u6jc9294f7	Produire seulement si FC devient 0
+p6hvpyxzjs	Le coût fixe déjà payé n’est pas évitable par ce choix courant.
+1gqadopsiit	Ajouter une firme intensifie la concurrence en quantités
+1coqtx16nka	Une firme supplémentaire ajoute de l’offre. Chacune des anciennes réagit en réduisant son propre volume, mais cette réduction ne compense pas entièrement l’arrivée. Dans le modèle symétrique sans changement de coût, le total augmente et le prix baisse.
+vhwl1ptqq	p = a−bQ, MC = c, n firmes : qi = (a−c)/[b(n+1)], Q = nqi, p = (a+nc)/(n+1). Ici n3 donne qi 15, Q = 45, p = 25.
+13foscqxhkl	Chaque firme contrôle une fraction plus faible de l’effet de rareté qui soutient le prix.
+p9v59i1uan	Quand n augmente, qi diminue mais nqi augmente.
+ec3c3autil	Une fusion sans synergie réduit n et tend à augmenter le prix dans ce modèle ; des coûts ou produits modifiés demandent une autre analyse.
+ico8rjevpr	n2 : Q = 40, p = 30 ; n3 : Q = 45, p = 25 ; limite n → ∞ : Q = 60, p = 10. Trois firmes ne signifient pas automatiquement concurrence parfaite.
+283twvlhjph	Tu évalues une fusion : annonce « coûts inchangés » avant d’appliquer la comparaison du nombre de firmes.
+162gbbz4dsn	p = 70−Q, MC = 10, n3 identiques : combien produit chaque firme ?
+cgar9jdpgn	20 correspond au duopole, avec n+1 = 3.
+fs0c9gwahy	45 est le total des trois firmes.
+261zgqoduz3	Même demande et même coût, règles différentes
+gtkdpurany	Unités totales : p = 70 − Q, MC = 10, FC = 0
+iktdxhbknl	Comparer ces modèles exige de garder les mêmes coûts et demandes. Cournot 3 et Stackelberg 2 donnent ici Q = 45, mais pas la même répartition entre firmes.
+1r3zg0ybji1	Monopole commun
+2fkts3m861p	MR = MC ; prix 40.
+8xrm233agr	Cournot 2
+zfi9oetdv0	Deux quantités simultanées ; prix 30.
+bqwejyqw98	Stackelberg 2
+27rbwiw4wm9	Leader 30, suiveur 15 ; prix 25.
+8lam6xr1gm	Cournot 3
+6jp1vl12vb	Trois firmes à 15 ; prix 25.
+15k7i5br1qi	Bertrand homogène
+2d2kriccppu	Prix égal au MC = 10 si capacités suffisantes et mêmes coûts.
+28vt86q5fyk	Un leader choisit en anticipant la réaction
+xfmcyg8xa	Firme 1 s’engage sur sa quantité avant 2. La seconde observera cette quantité et choisira son meilleur volume. Le leader connaît cette réaction : quand il change son engagement, il sait que le suiveur changera aussi, donc il ne peut plus traiter q2 comme constant.
+2dm0je8wbtk	BRF(qL) = 30−qL/2. Substituer dans πL = (60−qL−qF)qL donne πL = (30−qL/2)qL ; FOC = 30−qL = 0 → qL = 30, qF = 15.
+14blqi379k9	Le suiveur optimise après avoir observé, donc sa réaction est une contrainte anticipée par le leader.
+23r30yapi6y	Le leader choisit sur cette réaction, pas à l’intersection des deux réactions simultanées.
+2brefw4bk59	Oublier dqF/dqL ferait revenir au raisonnement Cournot et manquerait l’engagement.
+1o8mkwriu2y	Q = 45, p = 25 ; πL = (25−10)×30 = 450 ; πF = (25−10)×15 = 225. Le couple (30,15) appartient à BRF mais pas à BRL Cournot.
+tc3otvdhru	Tu choisis en premier : une grande production crédible décourage une partie du volume que ton rival ajoutera ensuite.
+rnmxvsl20t	Le leader choisit 30 et BRF = 30−qL/2 : volume du suiveur ?
+26th2e80zvq	20 appartient au Nash simultané, pas à ce choix observé du leader.
+ynybqo8zpd	Remets la résolution séquentielle dans l’ordre.
+65ler1c18n	Résoudre la meilleure réponse du suiveur
+1b4v4gudgzb	La substituer dans le profit du leader
+10b9nl8k4fp	Maximiser le profit du leader en anticipant cette réaction
+13sfbp2iagv	Retrouver le choix du suiveur puis prix et profits
+chiylbwxmf	Résoudre la meilleure réponse du suiveur → La substituer dans le profit du leader → Maximiser le profit du leader en anticipant cette réaction → Retrouver le choix du suiveur puis prix et profits
+27rvbh5q8ap	Même environnement, mais résultats différents
+m78jnb9qde	Le monopole commun limiterait le total pour soutenir le prix. Deux firmes choisissant simultanément produisent davantage parce que chacune veut gagner des ventes. Un leader en quantités s’engage encore davantage ; cela bénéficie ici aux clients mais réduit le profit du suiveur.
+9br33qdw9z	Avec p = 70−Q, MC = 10, FC = 0 : monopole Q = 30, p = 40 ; Cournot Q = 40, p = 30 ; Stackelberg Q = 45, p = 25 ; benchmark efficient Q = 60, p = 10.
+18fjhseo70i	L’engagement du leader modifie la réaction anticipée, donc change le résultat sans changer les préférences des clients.
+op91mwz20w	Le leader gagne 450 au lieu de 400 ; le suiveur 225 au lieu de 400.
+1q4jtopds29	Ce first-mover advantage est un résultat du jeu en quantités, pas une loi universelle de tous les jeux séquentiels.
+27rfh159b3a	Cournot 3 et Stackelberg 2 donnent tous deux Q = 45, p = 25 ici ; les volumes individuels 15/15/15 et 30/15 restent très différents.
+9qkomdf6iy	Tu compares deux copies : garde le même a, b, c avant de conclure qu’un modèle donne un prix plus élevé.
+2fa3lxjguzr	Le leader gagne davantage en Stackelberg quantités ici. Cela prouve-t-il un avantage du premier dans tous les jeux de prix ?
+2qhch8nz4p	Non : variable stratégique et réactions changent
+wo0pp7iwiw	Le leadership en prix peut favoriser encore plus le suiveur, comme E2024.
+1dhfbwnqfrn	Oui, « premier » suffit
+1zpzudxur9g	Le timing seul ne détermine pas les profits.
+27u5ggzlehh	Non, parce que le leader gagne moins ici
+2atvrcuye88	Ici 450>400 : le résultat est vrai mais spécifique.
+2bmxb1qs44h	Bertrand homogène : pourquoi la sous-enchère casse la marge
+149tatv8akr	Les clients trouvent les produits identiques et achètent au moins cher. Si les deux firmes à coût 10 demandent 12, l’une peut demander juste moins et attirer tout le marché avec une marge positive. À 10, sous-enchérir lui ferait perdre de l’argent sur chaque unité.
+13d755qh3ra	Produits homogènes, mêmes MC constants, au moins deux firmes, capacité suffisante et prix continus : Nash p = MC. Ici p = 10, Q = 60 et marge variable nulle.
+28h7zqogr47	Une faible baisse de prix peut déplacer presque toutes les ventes plutôt qu’un petit volume marginal.
+qurugi23fk	p>MC permet une sous-enchère profitable ; p<MC crée une perte par unité.
+1g0yfolub57	Capacité, différenciation, recherche ou répétition peuvent changer le résultat : il faut vérifier les hypothèses.
+1xg0i9kq8vr	À prix 12, une firme propose 11,99 et peut servir toute la demande 58,01 ; la marge 1,99 rend cette déviation attractive sous ces hypothèses.
+252fmhk13e2	Tu vends exactement le même produit à côté du rival : pourquoi un client paierait-il 12 chez toi s’il peut payer 11,99 ailleurs ?
+169fd52wpb1	Deux firmes identiques, homogène, MC = 10, capacité illimitée : prix Bertrand ?
+23b4fdvhc20	À p = 10 aucune sous-enchère profitable ne reste ; p>10 est déviable.
+2buardn51ak	30 est le prix Cournot pour cet environnement.
+1at1wo82605	Vendre sous MC = 10 ferait perdre de l’argent.
+gnvazrh4mi	Si le rival moins cher ne peut servir qu’une petite partie des clients, le raisonnement « il capte tout le marché »…
+251m1ryrh5l	Doit être reconsidéré
+2g7e58kdhad	La capacité insuffisante casse une hypothèse essentielle du résultat p = MC.
+267w87zev6y	Reste exact par définition de Bertrand
+2csw3i0hh8u	Le nom du jeu ne donne pas une capacité illimitée.
+opzah6ttoy	Prouve que les produits sont différenciés
+no3j98hcir	Une contrainte de capacité peut exister avec produits identiques.
+25bv3cgxc1v	Bertrand à coûts différents : une marge peut subsister
+1mt1y2o5fpl	Le vendeur le plus efficace peut baisser son prix jusqu’à décourager un concurrent plus coûteux sans atteindre son propre coût. Sa limite dépend du meilleur rival encore capable de fournir, pas automatiquement de son propre MC. Les égalités de prix demandent aussi de préciser comment les clients se répartissent.
+1nglejy2bcb	E2024 : demande 10−Q et MC = 5,7,8. Le plus efficace est limité autour de 7 ; écrire 7−ε peut être approprié avec partage égal aux prix identiques. Son prix de monopole seul serait 7,5.
+185fu1welyf	Sous 7, la firme MC = 7 ne peut rivaliser avec une marge positive tandis que la firme MC = 5 garde une marge proche de 2.
+ikgr0hyec7	Au-dessus 7, le rival peut devenir rentable et sous-enchérir.
+3ichwkfnpf	En prix continus et avec partage égal à égalité, annoncer p = 7 exact comme Nash pur exige une justification ; la limite ne suffit pas à prouver l’existence.
+1nscbzu1pm5	À 7−ε, la firme MC = 5 vend environ 3+ε unités ; marge environ 2−ε. Le rival MC = 8 n’est pas le concurrent le plus contraignant.
+1ksf4882tlj	Tu observes une marge dans un marché homogène : regarde si les coûts sont vraiment identiques avant de déclarer le modèle faux.

@@ -1,0 +1,200 @@
+1w0dy7dfn1a Analyse my causal links
+162wo0w5vxw Write at least a few sentences.
+1lm94wqze1r Automatic detection is approximate: check the suggested links and flag the ones you expressed differently.
+144ek6k0gpq link not detected
+1yinlvcipz0 link present
+1k2mut90p1y you expressed it differently
+mob8gfoo2b Vocabulary to refine:
+29e56v90j9h I said it differently
+20fbpc7abb0 Show me this link
+jedf4wa65s Possible concept error
+calguv5a8z That's not what I meant
+4wt353yvos {a}/{b} causal links
+gg677qjnyz {n} error(s) to fix
+okaj0ybmxc Check my explanation
+fl3ifyqdmi Solid causal chain. What matters is that each link causes the next — your vocabulary can still be refined.
+22vtd8splja Some links are missing: complete your explanation, then run the analysis again.
+1m178ow0ggz Hide the model explanation
+1orpnfdjrn2 See a model explanation
+1vmji71q5bg Your answer…
+1a97w109j9a Your written answer
+h1kv2tvojc Compare with the model answer
+24pinnd05du Tick what your answer really contains (pre-ticked when we detected it):
+24ibfi3z0wm Language: your answer seems to be in French. In the exam, answer in English.
+1hkaaufi8au Check
+1go3e5t4hwv (subsidy included)
+th8g9g4lxu (tax included)
+1r25w8mxaub Traded: it's worth {b} to the buyer{sub} and costs the seller {c}{tax}.
+27snqtpzrqn Not traded: the buyer would only pay {b}{sub} for a cost of {c}{tax}.
+1dxsc91md0d For society: value {v} − cost {c} = {g}.
+2cerrvquumg ⇒ Missing unit: society loses €{g} because it isn't produced.
+5vzaj367vv ⇒ Extra unit: it destroys €{g} of welfare.
+6zguls8rqm Q, in {u}
+rzvcebd0a3 Unit at point {q}
+1eakarhh4np Move the slider · click a curve, an area or a bar
+wcpc7iawiu What one more unit is worth to the buyer's wallet once the subsidy is paid: MPB + s.
+1ysgmvajwjs What one more unit costs the producer once the tax is paid: MPC + t.
+mtsy9zbnhs At point Q = {q}: €{v} per unit.
+1lu86pozeqr Deadweight loss — missing units
+1ghcoy82ygm Deadweight loss — extra units
+1sprgoohm19 These units aren't produced even though their social benefit exceeds their social cost.
+213y6hh2bxw These units are produced even though their social cost exceeds their social benefit.
+1z2yk0izw7w Area = €{a} (between Q = {lo} and Q* = {q}).
+1mzjuoraerf Slice at point Q = {q}: |MSB − MSC| = |{b} − {c}| = €{g} lost on this unit.
+vi1weanoi1 Place the slider inside the area to see the slice for one unit.
+28wsypdqvq8 Buyers' net gain: for each unit bought, its value to the buyer minus the price paid.
+23lmji4sqco Area = €{a}.
+uqv2grq0v9 Slice at point {q}: MPB {b} − p_b {p} = {g}.
+1w50ru30hfl Sellers' net gain: for each unit sold, the price received minus its marginal cost.
+qdspfnpbts Slice at point {q}: p_s {p} − MPC {c} = {g}.
+1vc7xr4gnjz What taxpayers pay: s per unit traded. A transfer, not destruction.
+fd2pz6j4ec What the state receives: t per unit traded. A transfer, not a deadweight loss.
+16vc5gb6qkh Sum of the benefits received by third parties for all units produced (area under MEB).
+3ihwxnjtp5 Sum of the damage suffered by third parties for all units produced (area under MEC).
+23zi22dezjq Here MPB = MPC: the last trade is worth as much to the buyer as it costs the producer. Beyond it, MPB < MPC: no price suits both any more.
+3hfvs3tqwp Here MSB = MSC: the last unit is worth to society exactly what it costs it. Before, adding raises welfare; after, it lowers it.
+1a8fa5gcmvb Q with policy = {q}
+1o4hvb6j6pb Here MPB + s = MPC: the subsidized private decision stops.
+e1vhlhpsaq Here MPB = MPC + t: the taxed private decision stops.
+2e4io5celml The buyer pays p_b; the seller receives p_s = p_b + s; the state pays the gap.
+k72yc3991g The buyer pays p_b; the seller keeps p_s = p_b − t; the state collects the gap.
+1krf0v2fcof Unit at point Q = {q}
+ac3gc4wh9p Close the inspector
+1h4l0usl1oz Bold = private incentive
+ucea0t4xma one unit in {n}
+t8c36ven8k Underlined: missing · struck through: extra
+uk448eqcwm Units one by one
+qw3ejpurkx Unit {q}:
+1p59rx233dp traded
+2glh5cu7zub not traded
+245ecwya078 missing for society
+206wgklddb2 extra for society
+glii9grfhi Subsidy per unit
+21yr6g9ohbv Tax per unit
+65esbam7w2 Animate up to
+1s8s1kun54n Remove the policy
+26ayrisf3hd No intervention
+12nyvf3o7p8 Optimum
+pkkdzpeo0y quantity traded
+143fklon0lt buyers
+1400m5xf47z sellers
+1te2sjoc4up State (− subsidy)
+25xxpyq8pkx State (+ revenue)
+1bv2vk4dsis transfer
+21gomb5jh34 + external benefit
+r08mavd1i4 − external damage
+1zl0toxqoxq third parties
+150xp4u1ch1 total welfare
+1cmm2mmfdnd vs optimum
+202av860ibt Why? One level deeper
+29rzzq9m3bn Bottom reached: below this are the model's assumptions.
+n62rksngja Collapse
+tmpjvt68if because
+4ctug8ufjd Already done.
+yrlflvkby3 Enter a number.
+32expacln Not yet. Hint: {h}
+1bap79dmdo9 Not yet — redo the reasoning.
+me9uxwfusa Your answer
+rjjv0hjhfe your answer
+1myvxolc3n7 Check
+2dfvciemw65 Answer:
+2167viw13xk Slider:
+lgpmvplgvt Not there: look for the intersection of the relevant curves.
+1442ass3zou Confirm position
+151bjtaej3u Correct chain: each link causes the next.
+1iynt8jpfrf Link no. {n} is out of place: ask yourself what must be true BEFORE it.
+207p2tscol Check the order
+ctp87u0wkj Remove the last item
+1u9oix6w7l1 Rebuilt.
+8w7d945c4x Not yet: which actors are involved?
+bfv12bjoh9 The key elements are there.
+13b23ooqnmf Compare with the model answer and note what was missing.
+f2zpe0si1h Micro-lesson · confusion spotted twice
+23ztvhi1tu0 Close
+1jhw41yi8sx Reference not found in the dossier:
+1jfep1u49at Human
+1ubf52o05qp Economist
+1dpe1v831zn Exam (EN)
+v5qffwt9i3 Abbreviation not in the dossier.
+2eperbkalil In the dossier's glossary:
+2eut6ctvcw6 [O] observed in the PDFs · [A] standard alias · [C] added supplement (§18)
+9ns7ja6pof Full concept sheet
+11tzuwzd7t5 Literally:
+1y0znx9ljug Three levels
+1z2yb48sjt0 Causal chain
+1ll2sxx5dal Formula
+1wygkx1xyt5 Units:
+1vtie3gma0w On the graph:
+ge74l85cm4 Assumptions
+1nq4pl3lris When to use it
+23crdbf00ax When NOT to use it
+dqcw7i3wf2 Common confusions
+w5zp36k6es Examples
+o50h29xgsi Exam trigger words
+agp8kw2edx Model answer (EN)
+14ihli93mkb Sources:
+12eq63n4ctm Where does it come from?
+4m3evynqcn Each term
+sokbdis0e6 Common confusion
+1mafbxsej1l Trigger words
+kjeb22a4y7 Exact excerpt from the dossier (source file).
+17nl9we27jw Open in Sources
+1qh9dk4vkfu Open the sheet
+1bf3gfno7wj Literally
+phrl81fjv5 Who?
+fykkvlwjw7 "Marginal" here
+1uj8f701gib Units
+1yzab13vk8i On the graph
+22b45bbibn3 Why this formula?
+11gj7wbvya8 dossier reference
+2b5db4uq0wd Documented
+1ydd8gnsws5 Recalculated (dossier)
+16gsa1u86qa Teaching supplement
+1ryts69kosf Generated exercise
+2cm8rt3vuhl Positive externality — generated exercise
+14vov2fqfkg Qm?
+jjeo0le91d That's Q*: the market uses MPB.
+1zwocwbvosr Q*?
+6b74ahesh5 That's Qm.
+fc5bfjnxnn DWL?
+1nvrwfflxim Optimal subsidy?
+1vkqbzr2vgd Price paid by the buyer with s*?
+105vrib32x1 Negative externality — generated exercise
+1l6v4vwb9q7 Optimal tax?
+41tdnf59tw Tax revenue with t*?
+27b5mexmuc3 a transfer, not a loss.
+1rrvfevnbr3 That's the initial DWL, not the revenue.
+14tik6vnx0s Two closely related ideas: explain the difference
+uhhrtglpe9 First write your own distinction (French or English). Only then compare it with the contrast in the dossier.
+d918qdgrls done
+duk1m6l30q to rework
+311dqslyi2 Explain the difference in your own words. Who is involved, what changes, where does it show on a graph?
+45i4cg9o4e Your distinction…
+iegsxp5pfu Compare
+1kiv1puf9pk Tick the points your distinction really contains (pre-ticked when we detected them):
+1tppedw7n1f Saved.
+2cxhke9azaa If this confusion comes up twice, a targeted micro-lesson will appear.
+vu05mr60dl Exam mode · in English · no hints
+13m5zkuca7 {n} attempt(s) · best {p}%
+jucaxl3no3 not attempted yet
+1944cj8zvgz Exam mode: in English, marked afterwards
+1rk3wgdlz4d Write as at SSE: model, calculation, mechanism, in English. The marking starts with the economic logic, then the calculation, the graph and a model answer; it separates your **model**, **logic**, **calculation** and **language** errors.
+200vidgirkz The real exams, year by year
+1tvnkgavqyn Every question from the 2020–2025 finals. The data and instructions come from the exams ("past exams" folder in the dossier), reworded; the solutions are the dossier's recalculations in §16, not an official marking scheme. Q5 only counts if it replaces your midterm.
+2gjbrmeohw Final {y}
+1mfjf1z19pg Assignments and lesson practice
+2doptbi0pxo A reconstructed assignment and the end-of-lesson tests: exercises built for practice, never presented as official exams.
+21xj2z1xnkp Combined priority
+ehoxym00ut Prerequisite order
+1qdvig7hf9c Observed recurrence
+10m03kgesvy Your weakness
+i57p05k11m Conceptual importance
+1xzkxeb0sgr {n} days until the final
+vipkhcb1v4 Final exam day
+1c02fle9ale Final prep · 23 October 2026, date from the L1 slides
+gipxx8gj6f Rank the topics by what matters to you. Recurrence is an **observed history** over six finals (2020–2025): it describes the sample, it doesn't predict the next exam (§1).
+zfoebb79ew Sort by
+2fhbx1duzuf Topic
+1s22ryv5ucm Prerequisites ready
+12grnqoufsz Weakness
+1bzg6p06pv7 Importance

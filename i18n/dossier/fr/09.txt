@@ -1,0 +1,94 @@
+======================================================================
+7. SURPLUS, TAXES, SUBVENTIONS ET PRIX RÉGLEMENTÉS — L7
+======================================================================
+
+7.1 Qui reçoit quoi ?
+CS, consumer surplus : valeur totale pour les acheteurs moins leurs paiements.
+CS=intégrale_0^Q [p_D(q)-p_b] dq, si les unités vont aux acheteurs qui les
+valorisent le plus. Pour p_D=a-bQ : CS=(a-p_b)*Q/2.
+PS, producer surplus : recettes nettes de taxe moins coût variable.
+PS=intégrale_0^Q [p_s-MC(q)] dq ; pour p_S=c+dQ : PS=(p_s-c)*Q/2.
+Profit=PS-FC. En présence de prix différents, intégrer les recettes réelles
+au lieu d'utiliser un rectangle pQ unique.
+Welfare W=CS+PS dans le modèle sans État ni externalité, à coûts fixes
+inchangés. Avec État : ajouter recettes fiscales, soustraire dépenses de
+subvention. Avec externalité : ajouter bénéfices externes, soustraire dommages.
+Lorsque l'entrée ou les coûts fixes changent, inclure aussi ces coûts réels.
+
+Une somme de surplus mesure l'efficacité monétaire, pas l'équité.
+Un transfert de CS vers PS n'est pas à lui seul une DWL. Une perte sèche
+est une perte NETTE de surplus par rapport au benchmark efficient.
+Le modèle concurrentiel maximise W si la demande est le bénéfice marginal
+social, l'offre le coût marginal social et les autres hypothèses tiennent.
+Monopole, externalité ou information asymétrique peuvent casser ce résultat.
+
+L7 exemple : p_D=23-Q, p_S=2+2Q ->Q7,p16.
+CS=(23-16)*7/2=24.5 ; PS=(16-2)*7/2=49 ; W73.5.
+Si Q limité à 5 et prix18 : CS12.5 ; PS55 ; W67.5 ; DWL6.
+Ici les producteurs gagnent 6 pendant que les consommateurs perdent12 :
+la perte sociale est6, pas12.
+
+7.2 Taxe unitaire : écrire TROIS relations
+QD(p_b)=QS(p_s)=Q ; p_b=p_s+t.
+Le consommateur paie p_b ; le producteur garde p_s ; l'État reçoit tQ.
+Que la loi fasse verser la taxe par acheteur ou vendeur ne change pas
+l'équilibre de ce modèle, à même taxe et mêmes possibilités de transaction.
+
+Pour p_D=a-bQ et p_S=c+dQ, b,d>0, solution intérieure :
+Q0=(a-c)/(b+d) ; Qt=(a-c-t)/(b+d).
+p_b=a-bQt ; p_s=c+dQt ; T=tQt.
+Hausse de prix acheteur=b*t/(b+d).
+Baisse de prix vendeur=d*t/(b+d).
+DWL=t*(Q0-Qt)/2=t^2/[2(b+d)], SANS externalité/pouvoir de marché.
+Au-delà de la taxe prohibitive, Q=0 ; ne pas prolonger les formules vers Q<0.
+
+Incidence économique : le côté le moins élastique supporte davantage.
+Forme locale concurrentielle : part acheteur=epsilon_S/(epsilon_S+|epsilon_D|),
+part vendeur=|epsilon_D|/(epsilon_S+|epsilon_D|).
+Ces parts ne sont pas une règle générale d'oligopole ou de monopole.
+Une base peu élastique génère moins de changement de Q, donc généralement
+moins de DWL pour un même prélèvement, sous les hypothèses de comparaison.
+
+L7 taxe t3 : Q6,p_b17,p_s14,T18 ; CS18,PS36,W72,DWL1.5.
+Les rectangles transférés à l'État ne sont pas détruits.
+Une taxe peut néanmoins financer un bien public ou corriger une externalité :
+sa DWL ne suffit pas à juger toute la politique.
+
+7.3 Subvention unitaire
+QD(p_b)=QS(p_s)=Q ; p_s=p_b+s.
+L'acheteur paie moins, le vendeur reçoit davantage, l'État paie sQ.
+Qs=(a-c+s)/(b+d) ; W=CS+PS-sQ.
+Sans externalité : DWL=s*(Qs-Q0)/2. Les unités additionnelles ont un coût
+réel supérieur à leur bénéfice. Avec externalité positive, cette formule
+sans correction externe peut donner le mauvais diagnostic.
+L7 s3 : Q8,p_b15,p_s18 ; CS32,PS64,dépense24,W72,DWL1.5.
+
+7.4 Prix plafond et plancher
+Price ceiling / cap : prix maximal. Binding si plafond sous p* dans le
+cas usuel. Quantité échangée souvent limitée par QS ; pénurie QD-QS.
+Dessiner le plafond horizontal ; lire QS et QD séparément.
+Le CS dépend aussi du rationnement : la formule standard suppose que les
+unités disponibles vont aux acheteurs qui ont les plus fortes WTP.
+Rationnement aléatoire, files d'attente et recherche peuvent ajouter des pertes.
+Le PS baisse ; le CS peut monter OU baisser ; W baisse sans autre défaillance.
+L7 plafond12 : QS5,QD11 ; échanges5 ; CS42.5,PS25,W67.5,DWL6.
+Un plafond >=p* est non contraignant dans le modèle concurrentiel simple.
+
+Price floor : prix minimal, binding au-dessus de p*. Excès d'offre.
+Sans achats publics, quantité vendue limitée par QD ; ne pas compter QS
+comme quantité consommée. Avec achats publics, inclure leur coût et le
+sort des invendus. Le résultat de welfare dépend de ce dispositif.
+
+E2023 pétrole russe : ne pas appliquer mécaniquement « plafond ->pénurie ».
+Offre russe verticale au-delà de50, plafond60 au lieu de90 : même volume
+8 millions de barils/jour ; transfert de rente30*8 millions=240 millions
+USD/jour. Pas de baisse de cette offre sous les hypothèses ; le plafond
+vise un fournisseur, pas nécessairement le prix de tout le marché mondial.
+
+7.5 Taxes et revenus : une conclusion à vérifier
+Revenue=t*Q(t). Baisser t réduit le prélèvement par unité mais peut augmenter
+le volume. Le signe de Delta revenue n'est pas universel sans chiffres.
+Avec demande inélastique et faible baisse de taxe, le volume varie peu et
+les recettes diminuent généralement. Montrer les deux effets si l'énoncé
+ne permet pas de chiffrer. Une TVA en % et une taxe unitaire ne sont pas
+identiques ; E2025 autorise explicitement de traiter la TVA comme unitaire.

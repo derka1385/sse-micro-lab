@@ -1,0 +1,218 @@
+sq3xmx63sb Baue MSC für eine negative Externalität neu auf.
+1btk7w1nuh4 Die optimale Korrektursteuer berechnet man…
+1bxapkqysi0 Indem man MEC immer bei Qm bewertet
+ygez7a3y0i Gerade Qm wird durch die Steuer verändert.
+gnh6hs5x5d Indem man MEC bei der effizienten Menge bewertet
+1953cll6ntt Finde zuerst Q* über MSB = MSC.
+u850qbfnuj MPB = 100 − Q, MPC = 10 + Q, MEC = Q: Welches Q*?
+1853xem6kvk Textilien: MPB = 200 − Q, MPC = 80 + Q, MEC = Q. Welche optimale Steuer?
+1btxx8lj6qr Q* = 40, dann MEC(40) = 40.
+dcptp399uv Unpriced external damage
+1pq50thu1jw Different marginal abatement costs
+1qxrcfymdqu MSC = MPC + MEC: Private Kosten und Schäden für Dritte zählen zusammen.
+em5abf19j0 Beide Wirkungen betreffen dieselbe zusätzliche Einheit.
+1wwhj45gn5c Der private Preis ignoriert MEC, solange die Wirkung nicht internalisiert ist.
+vurscpvpqb Qm = 45, Q* = 30: Die Einheiten über 30 erzeugen den DWL.
+1243z1yqfyl Bei Qm gilt MPB = MPC; bei Q* gilt MSB = MSC.
+16jb0avtl2m Die überzähligen Einheiten haben soziale Kosten über ihrem Wert.
+gw1hhl6nwg Gesamtschaden und DWL sind zwei verschiedene Flächen.
+1bo2cyb5pd2 Der Gesamtschaden umfasst die Schäden gesellschaftlich nützlicher Einheiten.
+1obr5qi78mh Der DWL misst nur den vermeidbaren Nettoverlust gegenüber Q*.
+2binhutfmrl t* = MEC(Q*): hier 30; eine Steuer von 20 verbessert, lässt aber einen DWL von 37,5.
+1wtnh0gyn4o Der Grenzschaden hängt von der gewählten Menge ab.
+1fopo6bevff Eine Steuer ist ein Transfer; sie kann eine bestehende Verzerrung korrigieren.
+1vx2gy7y4d6 Verbleibende Verschmutzung und Vermeidung sind zwei verschiedene Achsen.
+1fhtal0jjic Verschmutzung zu senken heißt, auf einer Emissionsachse nach links zu gehen.
+4073dt1wof Die Firma vergleicht MAC mit der Steuer; die Gesellschaft vergleicht MAC mit MEC.
+238mv5yffl6 Bei Zertifikaten und Coase müssen die Bedingungen ausdrücklich genannt werden.
+2efzqk22zrx Reibungsloser Zertifikatehandel gleicht die MAC an und minimiert die Kosten einer gegebenen Obergrenze.
+1ucxky3cjvm Coase setzt definierte Rechte und Transaktionskosten von null voraus; die Rechte verändern die Verteilung.
+1izbt9qegjk Öffentliche Güter und Allmende — die saubere Straße und der See
+1ht854qnsm6 Geteilter Wert, Beitrag und freier Zugang
+2cdphfmken6 Warum bleibt eine nützliche Straße unterfinanziert, während ein nützlicher See zu viele Fischer anzieht? Verfolge zuerst die Anwohner, dann die Neuankömmlinge, bevor du summierst oder ableitest.
+qhhmm0c4vj Anna
+2786tzq0nzz wohnt in der Straße und kann beitragen
+1stzpuj1dlx eine saubere Straße genießen und dabei Budget übrig behalten
+l0q2ql6iwg Der Dienstleister
+d3jskdh76v erbringt das gemeinsame Reinigungsniveau
+16ncxloza8n die Ressourcen der nächsten Einheit decken
+bf0vtm6ju1 Bilal und Clara
+69d9ymhyi7 genießen dasselbe Niveau, auch ohne zu zahlen
+16h5xp3wvfp von der Leistung profitieren
+1wg7254voln Die Gemeinschaft
+ak1c9hdq2n zählt alle Nutzen und Kosten
+2f4r7gh6t0e das Niveau wählen, das die Rente maximiert
+1e9c8bcszwh Das Rathaus
+1rgm7727xpn kann Beiträge und Zugangsregeln organisieren
+1oh4uq3lzj1 den relevanten Anreiz korrigieren
+1jlz3ac8fu1 Wer profitiert, wenn deine Straße gereinigt wird?
+14x4s25yw93 Anna, Bilal und Clara wohnen in derselben Straße. Fügt ein Kehrfahrzeug eine Reinigungseinheit hinzu, sehen alle drei eine sauberere Straße: Man muss nicht drei Exemplare derselben Reinigung kaufen. Der Dienstleister dagegen muss Zeit und Material für diese zusätzliche Einheit bezahlen.
+56cruk9m3v Im Modell A6 ist das Reinigungsniveau Q ein reines öffentliches Gut: Dasselbe Q nützt allen Anwohnern.
+6a5gabuwl1 Das Sauberkeitsniveau wird geteilt: Claras Nutzen nimmt Anna nichts weg.
+228ll5nfd2p Hier wird angenommen, dass man einen nicht zahlenden Anwohner nicht ausschließen kann; diese Annahme gehört zum Modell, nicht zu jeder realen Leistung.
+v0t6geriez Drei Anwohner und drei gemeinsame Einheiten ergeben Q=3 für jeden, nicht Q=1 pro Anwohner.
+1jk3kxrxc98 Du kommst nach Hause, nachdem das Kehrfahrzeug vorbeigekommen ist. Du profitierst von der sauberen Straße, auch wenn dein Nachbar die Reinigung bezahlt hat.
+nh9yk5jwab Drei Anwohner genießen eine auf Niveau Q=3 gereinigte Straße. Welches Q konsumiert Clara?
+1lxo1bwy4it Genau: Die geteilte Leistung hat für alle dasselbe Niveau.
+izjpr3uuuq Du teilst ein privates Gut auf. Geteilte Sauberkeit wird nicht gedrittelt.
+up24qnb1n4 Man kann ihre Nutzen addieren, nicht das physische Niveau multiplizieren.
+13f55k6zov3 Erste Frage: Nimmt deine Nutzung den anderen etwas weg?
+yfgdcmh2v9 Wenn du ein Sandwich isst, kann niemand sonst dasselbe Sandwich essen. Wenn du ein frei veröffentlichtes Forschungsergebnis liest, kann dein Nachbar es trotzdem lesen. Frag dich, was mit der Nutzungsmöglichkeit des anderen geschieht, bevor du schaust, wer das Gut finanziert.
+nkrfanto6c Rivalität: Die Nutzung einer Person verringert die Nutzungsmöglichkeiten der anderen. Nicht-Rivalität bedeutet nicht Produktionskosten von null.
+1nw04yw6opx Die erste Leistung zu produzieren kann teuer sein, auch wenn ein zusätzlicher Nutzer niemandem etwas wegnimmt.
+1cs3i9mcefw Das Kriterium betrifft konkurrierenden Konsum; „vom Staat bereitgestellt“ ist ein anderes Kriterium.
+g5onxl3uac Ein PDF kann 1 000 € in der Herstellung kosten; es zu zweit zu lesen erfordert nicht zwei physische PDFs.
+15dtaq2cey3 Du nimmst den letzten Platz in einem Bus: Jemand bleibt draußen. Vergleiche das mit dem Hören einer bereits ausgestrahlten Radiowarnung.
+laighy68mq Eine Leistung ist teuer in der Erstellung, aber ein zusätzlicher Leser stört niemanden. Ist sie zwangsläufig rival?
+11o1aznjt6r Ja, weil sie teuer ist
+m2p5xa9q09 Produktionskosten sind keine Rivalität im Konsum.
+1gcc7ehso1h Nein: Sie kann nicht-rival sein
+2fa3r3m9qks Genau: Prüfe die Wirkung deiner Nutzung auf die Nutzung der anderen.
+12my0de8wqh Ja, wenn sie privat ist
+1ldh15byq2q Privateigentum und Rivalität beantworten verschiedene Fragen.
+1cdsbrkdrkz Zweite Frage: Kann man die Tür schließen?
+1nmkpvljw46 Eine Plattform kann einem nicht zahlenden Konto den Zugang verweigern, auch wenn ihre Videos nicht überlastet sind. Eine saubere Straße nützt auch Anwohnern, die nicht zahlen wollen. Ausschluss ist also eine andere Frage als Rivalität.
+xq91g5px08 Ausschließbarkeit: die Möglichkeit, den Zugang zu verhindern. Die vier Felder sind privates Gut, Clubgut, Allmendegut und reines öffentliches Gut.
+1bhx7b747sd Das Wort „öffentlich“ beschreibt hier zwei ökonomische Eigenschaften, nicht den Namen des Eigentümers.
+yb36q8ucbx Regeln und Technologie verändern den Ausschluss: Eine Maut kann eine Straße in ein anderes Feld verschieben.
+1bzs296utxd Nicht überlastetes Abo-Video: ausschließbar und nicht-rival, also ein Clubgut. Uneingeschränkte Fischerei: nicht ausschließbar, aber rival, also ein Allmendegut.
+1wmbecuw455 Wenn du ein Abo verwaltest, kannst du meinen Zugang deaktivieren? Wenn ja, ist der Zugang ausschließbar, auch wenn du deinem anderen Kunden keine Datei wegnimmst.
+1sovv2nwtdr Eine frei zugängliche Fischerei, in der deine Fänge die der anderen verringern, ist…
+208q3adapnm Ein reines öffentliches Gut
+1pci4xsm1bq Es fehlt die Nicht-Rivalität: Gefangene Fische sind nicht mehr verfügbar.
+wrohklbevq Ein Allmendegut
+iru7xzvxyp Nicht ausschließbar, aber rival: Das ist das Feld der Allmende.
+rr7c0pc0fx Ein Clubgut
+2a8qaiclu7z Ein Club kann ausschließen; hier ist der Zugang frei.
+21c66bkb1jp Eine Straße kann das Feld wechseln
+13t8bkkbjyg Um drei Uhr morgens stört dein Auto auf einer leeren Straße andere kaum. Um acht Uhr verlängert es ihre Fahrt. Kommt eine Maut hinzu, ändert sich noch eine weitere Eigenschaft: Der Zugang wird kontrollierbar.
+1y8vigg41fo Überlastung erzeugt Rivalität. Eine Straße ist also nicht immer ein reines öffentliches Gut.
+uijei5cuvj Ökonomische Eigenschaften hängen von der Situation ab, nicht vom Etikett „Infrastruktur“.
+1q8mx4u1sf1 Eine Maut wirkt auf den Ausschluss; sie beseitigt die physische Überlastung nicht automatisch.
+1krhh8b3mf4 Mauttunnel mit Stau: ausschließbarer Zugang und rivale Nutzung an der Marge.
+1h09nlq17rr Du erreichst die Mautstelle zur Hauptverkehrszeit: Stell die beiden Fragen getrennt, bevor du „public good“ schreibst.
+1ps7d04sjbj Ist ein überlasteter Mauttunnel ein reines öffentliches Gut?
+1bqbkrtunm Nein, er ist ausschließbar und an der Marge rival
+3olst60x36 Die Maut kontrolliert den Zugang, und die Überlastung lässt andere deine Nutzung spüren.
+1972z8cf6pc Ja, weil er der Öffentlichkeit dient
+29cqxzxlul5 „Dient der Öffentlichkeit“ prüft keines der beiden ökonomischen Kriterien.
+1y23ctpr94u Ja, weil ein Tunnel teuer ist
+27ugd9whcxy Die Baukosten bestimmen diese Einordnung nicht.
+ms651uj76a Wie viel ist die nächste Einheit jedem wert?
+vc85ytsco8 Die Straße ist bereits auf Niveau Q=3 gereinigt. Anna würde bis zu 12 € für eine ganz kleine zusätzliche Einheit zahlen, Bilal 9 € und Clara 6 €. Diese Beträge beschreiben einen Zusatzwert, nicht was sie insgesamt für die ganze Straße zahlen würden.
+27c3hih6lg8 MB bedeutet marginal benefit: Zahlungsbereitschaft für die zusätzliche Einheit. A6: MB_A=15−Q, MB_B=12−Q, MB_C=9−Q, solange diese Werte positiv sind.
+298me1m1n4e Die nächste Einheit verbessert gleichzeitig die Lage aller drei Anwohner.
+1qr2h2n0ox2 Der Gesamtnutzen mehrerer Einheiten ist eine Summe/Fläche; die Höhe der Kurve beschreibt nur den Grenzwert.
+20vbiagydob Bei Q=3: 15−3=12, 12−3=9 und 9−3=6 € pro Einheit.
+1vipdqg7atl Du bist Clara: Du prüfst, ob die nächste Reinigung dir 6 € wert ist. Den Nutzen deiner Nachbarn gibst du noch nicht an.
+1b33pzjws6o Ein Reinigungsniveau, drei Grenzwerte
+66ol3hkakf Q = gemeinsame Reinigungseinheiten; Höhe = € pro zusätzliche Einheit. Jeder MB wird bei null abgeschnitten; die soziale Kurve addiert die Höhen, nie die Mengen.
+d5x9gr815q Q: gemeinsame Reinigungseinheiten
+1mau3gzqwdx € / zusätzliche Einheit
+2djiu0uuwkb MB Anna = max(0,15−Q)
+2717z14piwf Wert derselben Erhöhung für Anna.
+1cyp8ze8eyy MB Bilal = max(0,12−Q)
+2dniz9tcbdp Wert derselben Erhöhung für Bilal.
+1dt90pkrmqv MB Clara = max(0,9−Q)
+vq2p0w7by2 Wert derselben Erhöhung für Clara.
+fl7gunudcb Summe der positiven MB
+4aiegu3vag Steigung −3, dann −2, dann −1: An jeder Schwelle fällt ein Nutznießer aus der Summe.
+1cy2abol1v3 Tatsächliche Kosten der nächsten Reinigungseinheit.
+vmw942ys6h Effizientes Q = 3
+22cra522yka Mit MB_C=9−Q: Welchen Grenzwert hat Clara bei Q=3?
+1wfbz0dbarf € / Einheit
+102z2b0oe8l 9−3=6 € pro Reinigungseinheit.
+7iw6egzehz 9 ist der Achsenabschnitt, nicht der Wert beim bereits erreichten Niveau.
+57gzh3axk2 22,5 ist der Gesamtnutzen auf [0,3]: 9×3−3²/2. Das ist nicht der Grenzwert bei 3.
+ba59rg1wku Die Gesellschaft addiert drei Werte derselben Reinigung
+dyezmch0ls Das Kehrfahrzeug kann eine einzige gemeinsame Einheit hinzufügen. Sie bringt Anna 12 €, Bilal 9 € und Clara 6 €: Insgesamt ist sie 27 € wert. Ihre Mengen zu addieren hieße, dasselbe Niveau sauberer Straße dreimal zu zählen.
+153vxl765pj Bei einem öffentlichen Gut summiert man die Grenznutzen vertikal beim selben Q: MB_social(Q)=Σ_i max(0,MB_i(Q)).
+89kcfor3p0 Was muss man addieren, um zu wissen, was die gemeinsame Einheit bei Q=3 wert ist?
+29k3be0aw0u Die drei Höhen beim selben Q: Eine einzige Einheit bringt drei Gewinne.
+1co5whkj6tr Die drei Q
+g5hp36ockf Diese horizontale Regel betrifft die individuellen Mengen eines privaten Guts.
+kad3nxqasz Jeder Anwohner profitiert von der Erhöhung: Die kollektive Bewertung zählt jeden Nutzen einmal.
+27ecm1t6zu6 Bei einem privaten Gut kann man getrennte Einheiten kaufen; hier verbietet gerade das gemeinsame Niveau Q diese horizontale Überlegung.
+1phsi0ka6ur Für Q≤9 sind alle drei MB positiv: (15−Q)+(12−Q)+(9−Q)=36−3 Q.
+2gaa90j3js1 Du organisierst die Reinigung für die drei Nachbarn. Frag vor der Bestellung jeden nach dem Wert derselben zusätzlichen Reinigung.
+21c28s70pvj Baue die soziale Summe auf, wenn alle drei MB positiv sind.
+gelr7k43hn Man addiert die marginalen Zahlungsbereitschaften beim selben Niveau Q, daher 36−3 Q.
+1shi39agvwj Wann ist die zusätzliche Reinigung ihre Kosten nicht mehr wert?
+29i7bez56f9 Die nächste Erhöhung kostet 27 € an Ressourcen. Bei wenig Reinigung übersteigen die drei Gewinne zusammen diese Kosten: Die Straße zu verbessern erhöht die Wohlfahrt. Bei Q=3 ist der kollektive Gewinn an der Marge gleich den Kosten; darüber liegt er darunter.
+hhz6tr0wk6 Inneres Optimum des öffentlichen Guts: Σ MB_i(Q)=MC(Q), wobei man den Abschnitt der positiven MB prüft.
+24xfv3q36cb Der Anbieter muss reale Ressourcen einsetzen, ob nun eine oder drei Personen profitieren.
+1p5l9pqc62g Der Test ist sozial: Kein einzelner Anwohner muss die Einheit mit 27 € bewerten.
+6sq60pvegs 36−3 Q=27 ⇒ 3 Q=9 ⇒ Q=3. Bei dieser Menge sind die MB 12, 9 und 6, und ihre Summe deckt genau MC=27.
+1b7jskjgp8u Du musst das Niveau vor einem Anwohnerverein rechtfertigen: Erkläre die Kosten und die drei Nutzen, bevor du die Gleichung hervorholst.
+1zfdswvlvhh Effizientes gemeinsames Niveau
+1lex8iy7nch MB_A=15−Q, MB_B=12−Q, MB_C=9−Q und MC=27. Welches Q maximiert die Rente?
+2dlbzepdhlf 36−3 Q=27 ergibt Q=3, das unter allen drei Schwellen 9, 12 und 15 liegt.
+111xe6aprm6 9 ist die Differenz 36−27; sie muss noch durch 3 geteilt werden.
+2c75av6gnhy Niemand würde anfangs allein MC zahlen, aber die kollektiven Nutzen sind 36>27 wert.
+28tdj3iwkcc Ein negativer Wert ist keine Abneigung, die man erfinden darf
+219f4icvenx Ein kleiner Gemeinschaftsgarten gefällt Léa sehr und Sam ein wenig. Nach Q=2 will Sam einfach keinen zusätzlichen Garten mehr: Der Wert ist null, keine Belästigung. Die Gerade mechanisch unter null fortzusetzen, würde Léa fälschlich Nutzen abziehen.
+upu2b9fl0d Mit MB_L=max(0,8−Q), MB_S=max(0,2−Q) bestimmen die Schwellen verschiedene Abschnitte. Würde eine Einheit Sam tatsächlich schaden, bräuchte man ein anderes Modell.
+25yoci51ctx Lineare Funktionen fassen eine Nachfrage auf ihrem relevanten Bereich zusammen; eine negative Menge oder eine negative WTP ist nicht automatisch zulässig.
+17pm371xamf Man muss in einem Abschnitt lösen und dann prüfen, dass die Lösung zu diesem Abschnitt gehört.
+29tohiqvw12 Mit MC=3: 10−2 Q=3 ergibt 3,5, aber der Abschnitt mit zwei Nutznießern verlangt Q≤2. Auf Q≥2 ergibt 8−Q=3 Q=5; Sams Wert ist 0, Léas 3.
+1z704x74xqx Du bist Sam: Du sagst „Ich will nicht mehr davon“, nicht „Bezahlt mich dafür, diesen Garten zu ertragen“. Lass nicht zu, dass eine Gerade deine Präferenzen ändert.
+17lxpz9k72s Für diese zwei abgeschnittenen MB und MC=3: Welches Niveau ist effizient?
+1nixis31wgv Über 2 trägt nur Léa zur Summe bei: 8−Q=3 ⇒ Q=5.
+se137d6jxj Bei 3,5 zählt die Formel 10−2 Q eine negative WTP von Sam; das liegt außerhalb ihres Abschnitts.
+110yim9divd 2 ist eine Schwelle, an der die Formel wechselt, nicht unbedingt das Optimum.
+4h3f1x1850 300 Studierende teilen die Geschwindigkeit nicht in 300 Stücke
+mvdd0rb00b Ein Campus wählt die Qualität eines gemeinsamen WLANs. Alle 300 Studierenden profitieren von derselben Geschwindigkeit Q. Eine zusätzliche Person fügt der kollektiven Rechnung eine Zahlungsbereitschaft hinzu; sie verlangt keine eigene Geschwindigkeit neben der der anderen.
+27vj3xnjgky E2022: 300 Personen mit MB_i=10−Q und MC=1 500 ergeben 300(10−Q)=1 500.
+57uul42rxi Der Stückpreis des gemeinsamen Guts sind Kosten für die ganze Leistung, nicht der Preis von 300 getrennten privaten Verbindungen.
+tb45583srj Die Einheiten der Gleichung sind auf beiden Seiten Euro pro Geschwindigkeitseinheit.
+aud8p8v7km 300(10−Q)=1 500 ⇒ 10−Q=5 ⇒ Q=5. Alle Studierenden bewerten die Marge mit 5; 300×5=1 500.
+fi86frs6il Du lernst mit Freunden im selben Netz: „Welche gemeinsame Geschwindigkeit?“ zu fragen ist nützlicher als „Wie viele Geschwindigkeiten kauft jeder?“.
+88of5jvkpb 300 Studierende haben jeweils MB=10−Q; gemeinsame MC=1 500. Welches Q ist effizient?
+s676f8donb Qualitätseinheiten
+puhkzj37xs Teile zuerst 1 500 durch 300: erforderlicher individueller MB=5, also Q=5.
+19r9vjkvj3d 1 500 sind monetäre Grenzkosten, keine Menge.
+111uiqagihn 300×10 ist die Summe der MB bei Q=0, keine optimale Menge.
+27uxik0ioyh Wenn dein Nachbar zahlt, warum solltest du auch zahlen?
+2d3gs40waxo Anna überlegt, die Reinigung zu finanzieren. Bilal weiß, dass die Straße auch ohne eigenen Beitrag sauber wird. Bilal kann Annas Beitrag abwarten und einen zu niedrigen Wert angeben, um die eigene Rechnung zu senken, obwohl die saubere Straße Bilal viel bedeutet.
+zvpu75x4t3 Trittbrettfahrer (free rider): profitieren, ohne beizutragen. Nicht-Ausschluss schafft einen Anreiz, zu wenig beizutragen und die eigene WTP zu niedrig anzugeben.
+1hq2ti71dcu Der private Gewinn aus dem Zahlen umfasst nur den Nutzen, den der Zahlende selbst zurückerhält; der Gewinn der Nachbarn bleibt außerhalb dieser Abwägung.
+1i4eux4fk1y Fehlende Beiträge beweisen nicht, dass es keinen Wert gibt: Sie können eine rationale Reaktion auf die Zugangsregel sein.
+27piqkcmnqi In L11 ist MB_H=20−h und MC=14: H allein wählt h=6, während MB_H+MB_L=30−2 h kollektiv h=8 ergibt.
+wx35zyue36 Du fragst dich: „Wird die Straße sauber, auch wenn ich nicht zahle?“ Wenn ja, siehst du die private Versuchung, die eine kollektive Finanzierung lösen muss.
+l4qmnk4rm0 Bedeutet Trittbrettfahren immer eine freiwillige Bereitstellung von null?
+ebr8svfyel Ja, niemand schätzt das Gut
+jha1yfod3c Das Problem betrifft den Beitrag, nicht den Wert; H kann h=6 finanzieren.
+1nbs5sydqvz Nein, ein Anwohner kann ein positives, aber unzureichendes Niveau finanzieren
+1592lqzbqt3 Hier finanziert H 6, während das kollektive Optimum 8 ist.
+1koch21aobj Nein, es macht das Niveau zwangsläufig effizient
+hioxuiqokt Die Nutzen der anderen fehlen in der individuellen Entscheidung.
+27edyea98v6 Eine kollektive Regel kann finanzieren, was jeder von den anderen erwartet
+2gftayytguw Die Anwohner können einen Pflichtbeitrag akzeptieren, um das gemeinsame Niveau zu finanzieren. Das verhindert, dass man profitiert, indem man die Teilnahme einfach verweigert. Aber das richtige Leistungsniveau festzulegen erfordert weiterhin, Nutzen und Kosten zu kennen; Geld einzusammeln ist kein automatischer Beweis für Effizienz.
+1h45k2nxdhw Pflichtfinanzierung kann das Trittbrettfahrerproblem verringern. Im Referenzmodell finanzieren die Zahlungen reale Ressourcen; Information, Erhebungskosten und Steuerwirkungen sind ebenfalls zu prüfen, wenn die Aufgabe sie enthält.
+py5sle90br Eine andere Beitragsregel ändert den Anreiz, sein Geld zu behalten und trotzdem vom Gut zu profitieren.
+25kieb1k8vw Das effiziente Niveau und die Aufteilung der Finanzierung sind zwei verschiedene Entscheidungen; die Nutznießer haben nicht unbedingt dieselbe WTP.
+gcbv9sgcjs Bei Q=3 in A6 rechtfertigt 12+9+6=27 die letzte Einheit. Das heißt nicht, dass jeder Anwohner 27 € für diese Einheit zahlen muss.
+yhv1osrgq7 Du verhandelst mit den Nachbarn: Bestimme zuerst, ob die Reinigung ihre Kosten wert ist, und besprich dann die Aufteilung der Rechnung.
+1d3jxmtcto6 Warum ist „jeder zahlt MC=27“ nicht die Bedingung für das öffentliche Gut?
+2yxgjm3b39 Weil alle drei von derselben Einheit profitieren: Ihre MB werden addiert
+twnplcwoee Die Kosten der gemeinsamen Einheit zählen einmal, und der Nutzen jedes Einzelnen einmal.
+1avyln7s2xn Weil die Leistung kostenlos zu produzieren ist
+97tteyt3yu MC=27 steht genau für die nötigen Ressourcen.
+8079l3wifd Weil nur die höchste WTP zählt
+yi4v1pmlj9 Der Wert für die anderen Nutznießer zählt ebenfalls in der kollektiven Rente.
+20omqicmjeg Wer frei einsteigen darf, nimmt den anderen auch Fisch weg
+12wu5ez8trv Ein See steht allen offen. Dein Boot bringt einen Fang ein, verringert aber den Bestand für die Boote, die schon da sind. Du vergleichst deinen eigenen Erlös mit den Kosten der Ausfahrt; den Verlust, den dein Einstieg den anderen Fischern auferlegt, trägst du nicht.
+cn07nkegbb Ein Allmendegut ist nicht ausschließbar, aber rival. Freier Zugang führt zu Übernutzung, während das reine öffentliche Gut unter zu geringen Beiträgen litt.
+1ozi1tmu7ra Wer einsteigt, behält den eigenen Fang, ohne den Rückgang des Fangs der anderen auszugleichen.
+29hec9kxrum Eine wertvolle Ressource kann also gerade deshalb übernutzt werden, weil jeder von ihr profitieren will.
+xh6a7hjk9c Für eine saubere Straße nicht zahlen = Trittbrettfahren. Ein Boot hinzufügen, das den Fang der anderen verringert = Druck auf eine Allmende.
+2ayhnvhetu4 Du bist neu als Fischer: Eine für dich lohnende Ausfahrt beweist noch nicht, dass ein Boot mehr den ganzen See reicher macht.
+1t2q3q8kslk Welches Problem gehört zur Allmende statt zum reinen öffentlichen Gut?
+1dbd7ehxtw3 Zu wenige Beiträge zur geteilten Leistung
+dev25oqvj0 Das ist das Finanzierungsproblem des öffentlichen Guts.
+1hpxb3redkx Zu viele Boote, die in eine rivale Fischerei mit freiem Zugang einsteigen
+25slhkatldk Jeder Neuankömmling ignoriert einen Teil der Verknappung, die er den anderen auferlegt.
+1n99746kr95 Produktionskosten, die zwangsläufig null sind
+1skakotd18y Boote verbrauchen Treibstoff und Arbeit.
+1jzxdv0k9rs Dein Durchschnittserlös ist nicht das, was dein Boot dem See hinzufügt
+16soxv7fnpn Bei n gleichen Booten teilt sich jedes den Gesamterlös. Wer fischt, vergleicht also den Durchschnittsanteil mit den individuellen Kosten. Die Gesellschaft fragt dagegen, um wie viel der Gesamterlös steigt, wenn ein Boot mehr einsteigt: Sie zählt auch den Rückgang des Fangs der anderen.
