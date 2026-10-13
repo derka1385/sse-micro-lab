@@ -1,0 +1,257 @@
+======================================================================
+19. KAVRAMLAR VE SORU YÖNERGELERİ İÇİN İKİ DİLLİ SÖZLÜK
+======================================================================
+
+Ayrıntılı tanımlar, varsayımlar ve hesaplar bölümlerdedir.
+Bu sözlük, bölümünü bilmeden bir İngilizce sözcüğü bulmayı sağlar.
+
+19.1 Temeller ve piyasalar
+Absolute advantage — mutlak üstünlük : daha az kaynakla üretmek.
+Accounting cost/profit — muhasebe maliyeti/kârı : açık harcamalar/bakiye.
+Allocation — dağılım : kimin hangi malları/kaynakları aldığı.
+Barrier to entry — giriş engeli : yeni bir rakibin önündeki engel.
+Binding constraint — bağlayıcı kısıt : seçimi fiilen sınırlar.
+Ceteris paribus — diğer her şey sabitken : tek bir değişimi yalıtmak.
+Commodity — standartlaştırılmış temel ürün, rekabetçi model için yararlı.
+Competitive reallocation — daha verimli firmalara doğru yeniden dağılım.
+Comparative advantage — karşılaştırmalı üstünlük : daha düşük göreli fırsat maliyeti.
+Complementary goods — tamamlayıcı mallar : birinin fiyatı diğerinin talebini azaltır.
+Consumer — tüketici : kısıtlar altında bir sepet seçer.
+Demand curve/function — talep eğrisi/fonksiyonu : fiyata göre istenen alım.
+Differentiated products — farklılaştırılmış ürünler : farklı özellikler.
+Distribution — gelirlerin/kazançların dağılımı; etkinlikten ayrılmalıdır.
+Economic cost/profit — ekonomik maliyet/kâr : vazgeçilen fırsatları içerir.
+Economic rent — ekonomik rant : kıt bir kaynağa bağlı gelir.
+Efficiency — etkinlik : kazanç/kaynaklara dair açık bir hedef, basit eşitlik değil.
+Equilibrium — denge : tutarlı kararlar/miktarlar, zorunlu olarak sosyal optimum değil.
+Excess demand / shortage — talep fazlası/kıtlık : cari fiyatta QD>QS.
+Excess supply / surplus — arz fazlası : QS>QD ; « surplus » her zaman
+  refah rantı anlamına gelmez.
+Exit / entry — firmaların bir piyasadan çıkışı/girişi.
+Free entry — serbest giriş : LR uyumunu engelleyen bir engel olmadan erişim.
+Homogeneous product — homojen ürün : alıcılar onu özdeş kabul eder.
+Input — girdi/faktör : üretmek için kullanılan kaynak.
+Inverse demand/supply — ters talep/arz : fiyat Q'nun fonksiyonu olarak yazılır.
+Market clearing price — denge fiyatı : QD ile QS'yi eşitler.
+Market definition — piyasa tanımı : ürünler, coğrafya, dönem.
+Model — tutarlı varsayım ve çıkarımları olan basitleştirilmiş temsil.
+Opportunity cost — fırsat maliyeti : vazgeçilen en iyi seçenek.
+Output — elde edilen üretim, kullanılan girdilerden farklıdır.
+Partial equilibrium — kısmi denge : geri kalanı yalıtarak bir piyasanın analizi.
+Price taker — fiyat alan : bireysel seçiminin p'yi etkilemediğini düşünür.
+Scarcity — kıtlık : sınırlı kaynaklar seçim/ödünleşim gerektirir.
+Shift — eğrinin kayması; movement along — eğri üzerinde hareket.
+Substitute goods — ikameler : birinin fiyatı diğerinin talebini artırır.
+Supply curve/function — arz : her fiyatta istenen miktar.
+Zero economic profit — sıfır ekonomik kâr : fırsat maliyetleri karşılanır.
+
+19.2 Tüketici ve davranış
+Affordable/feasible bundle — ulaşılabilir sepet : bütçeye/kısıtlara uyar.
+Altruism — özgecilik : fayda başkalarının refahı/kazancıyla artar.
+Behavioral economics — davranışsal iktisat : basit rasyonel seçimi zenginleştirir.
+Budget constraint/line — bütçe kısıtı/doğrusu : olası harcamalar.
+Bundle/basket — sepet : mal miktarlarının bileşimi.
+Cardinal utility — kardinal fayda : yorumlanabilir düzeyler/yoğunluklar;
+  dersin fonksiyonlarının standart ordinal kullanımına uymaz.
+Cognitive limitations — bilişsel sınırlar : kusurlu optimizasyon/bilgi.
+Complete preferences — tam tercihler : her çift karşılaştırılabilir.
+Compensation — benimsenen tanıma göre bir sepet veya fayda olanağını
+  yeniden sağlayan transfer.
+Convex preferences — dışbükey tercihler : olağan biçimde karışımlara eğilim.
+Corner solution — köşe çözümü : mallardan biri 0 miktarında seçilir.
+Diminishing marginal utility — miktarla azalan marjinal fayda.
+Engel curve — Engel eğrisi : fiyatlar sabitken gelire bağlı miktar.
+Envy / spite — kıskançlık / kötü niyet : başkasının kazancı kendi faydayı düşürebilir.
+Framing — çerçeveleme etkisi : sunum kararı etkiler.
+Heuristic — sezgisel yöntem : karar vermek için basit kural.
+Homo economicus — stilize rasyonel aktör; tercihleri zorunlu olarak
+  yalnızca maddeci değildir.
+Income effect — gelir etkisi : reel satın alma gücünden kaynaklanan değişim.
+Indifference curve — kayıtsızlık eğrisi : tüm sepetlerinde aynı fayda.
+Inferior good — düşük mal : gelir artınca talep düşer.
+Interior solution — iç çözüm : mallar/girdiler kesin pozitif.
+Loss aversion — kayıptan kaçınma : kayıpların kazançlara göre ağırlığı.
+Lump-sum payment — götürü transfer : marjinal alımdan bağımsız tutar.
+Luxury good — lüks mal : talep gelirden orantılı olarak daha hızlı artar.
+Marginal utility — marjinal fayda : ek birimin katkısı.
+More-is-better / non-satiation — doymazlık : istenen mallardan daha fazlası tercih edilir.
+Normal good — normal mal : talep gelirle artar.
+Ordinal utility — ordinal fayda : sıralamaya yarar, mutlak mutluluğu ölçmez.
+Overconfidence — aşırı güven : kesinliği/yetenekleri abartmak.
+Perfect complements — tam tamamlayıcılar : sabit oranlarda tüketim.
+Perfect substitutes — tam ikameler : sabit oranda değişim.
+Preference — tercih : seçeneklerin sıralanması.
+Self-control — öz denetim : anlık tatmin/gelecek hedef arasında denge.
+Social preferences — sosyal tercihler : fayda başkalarına/normlara da bağlıdır.
+Substitution effect — ikame etkisi : göreli fiyata tepki.
+Transitivity — geçişlilik : birkaç sepet boyunca tutarlı sıralama.
+Ultimatum game — ültimatom oyunu : önerilen paylaşım kabul ya da reddedilir.
+Utility maximization — fayda maksimizasyonu : ulaşılabilir en iyi sepet.
+
+19.3 Üretim ve maliyetler
+Average product — ortalama ürün : girdi birimi başına üretim.
+Capital-labor ratio — sermaye/emek oranı : K/L.
+Constant economies of scale — ilgili aralıkta sabit LR ortalama maliyet.
+Cost function — verili çıktı ve girdi fiyatlarına göre minimum maliyet fonksiyonu.
+Cost minimization — dayatılmış bir üretim için maliyet minimizasyonu.
+Decreasing returns to scale — tüm girdiler t ile çarpılır, çıktı t'den az artar.
+Diminishing marginal product — tek bir girdinin azalan marjinal ürünü.
+Diseconomies of scale — ölçek diseconomisi : artan ortalama maliyet.
+Economies of scale — ölçek ekonomileri : azalan ortalama maliyet.
+Factor of production — üretim faktörü : emek, sermaye, toprak, diğer girdiler.
+Fixed cost — dönem içinde Q'dan bağımsız sabit maliyet.
+Increasing returns to scale — tüm girdiler t ile çarpılır, çıktı t'den fazla artar.
+Intermediate input — ara girdi : üretimde kullanılan üretilmiş mal.
+Isocost — eş maliyet : aynı maliyetli girdi bileşimleri.
+Isoquant — eş ürün : aynı çıktıyı veren girdi bileşimleri.
+Labor — emek, soruya göre kişi/saat olarak ölçülür.
+Learning-by-doing — yaparak öğrenme, maliyetleri düşürebilir.
+Long run — tüm faktörler ayarlanabilir.
+Marginal cost — ek üretimin maliyeti.
+Marginal product — ek bir girdiden gelen ek çıktı.
+Production function — teknoloji/girdiler/çıktı ilişkisi.
+Productivity — kullanılan kaynaklara göre elde edilen üretim.
+Raw material — üretimde kullanılan hammadde.
+Returns to scale — tüm girdilerdeki orantılı değişime Q'nun tepkisi.
+Short run — en az bir faktör sabittir.
+Shutdown — kısa dönemde üretimi durdurma; kesin/LR çıkıştan farklı.
+Sunk cost — batık maliyet; ileriye dönük karşılaştırmayı çarpıtmamalı.
+Variable cost — çıktıyla değişen maliyet.
+
+19.4 Piyasa gücü ve fiyat stratejisi
+Arbitrage / resale — fiyat farkından yararlanmak için alıp yeniden satmak.
+Best response / reaction function — rakibe koşullu optimal seçim.
+Bertrand competition — fiyat rekabeti.
+Bundling — paket satış; pure=yalnızca paket, mixed=paket ve ayrı ayrı.
+Capacity constraint — olası üretim/koltuk/satış sınırı.
+Collusion — rakipler arası koordinasyon; işbirliksiz Nash'ten farklıdır.
+Cournot competition — eşzamanlı miktarlarda rekabet.
+Duopoly — iki firmalı oligopol.
+Excess capacity — minimum ATC'nin altında üretim anlamında atıl kapasite.
+First-degree price discrimination — her bireysel marjinal WTP'den fiyatlama.
+First-mover advantage — ilk hamle yapanın üstünlüğü, oyuna bağlıdır.
+Freemium — ücretsiz sürüm ve ücretli seçenekler, öz seçim/ağ.
+Horizontal differentiation — zevk çeşitliliği, evrensel kalite sıralaması yok.
+Incumbent — girişten önce zaten var olan firma.
+Integrated market — segmentlenmemiş piyasa, arbitraj veya ortak fiyat.
+Lerner index — fiyat/marjinal maliyet marjının fiyata bölümü.
+Market power — marjinal maliyetin üstünde fiyat belirleme yeteneği.
+Market share — pazar payı, q_i/Q ; kârla eş anlamlı değildir.
+Markup — fiyat-maliyet marjı; mutlak mı, fiyata mı maliyete mi göre olduğunu belirt.
+Monopolistic competition — kolay girişli çok sayıda farklılaştırılmış firma.
+Monopoly — ilgili piyasada yakın ikamesi olmayan tek satıcı.
+Natural monopoly — tek üreticiyi kayıran maliyet teknolojisi.
+Nash equilibrium — kârlı tek taraflı sapma yok.
+Oligopoly — stratejik etkileşim içindeki az sayıda firma.
+Parallel imports — fiyat segmentasyonunu engelleyen paralel ithalat.
+Patent — geçici dışlama hakkı, modelde yenilik teşviki.
+Perfect competition — fiyat alanlar, homojenlik, çok sayıda aktör, serbest giriş.
+Price discrimination — yalnızca maliyetin ötesinde birimlere/müşterilere göre farklı fiyatlar.
+Profit maximization — maksimum miktar değil, ulaşılabilir en iyi kâr.
+Reservation price — rezervasyon fiyatı, bir birim/işlem için maksimum WTP.
+Second-degree discrimination — bir menüde öz seçim.
+Segmented markets — aralarında yeniden satışın/aktarımın sınırlı olduğu gruplar.
+Self-selection — müşteri seçtiği teklifle tipini açığa vurur.
+Single-price monopoly — her birim için aynı fiyatı uygulayan tekel.
+Stackelberg leadership — sıralı düzen, takipçinin tepkisi gözlemlenir.
+Strategic complements — en iyi tepki rakibin seçimiyle artar, örn. fiyatlar.
+Strategic substitutes — en iyi tepki rakibin seçimiyle azalır, örn. Cournot Q.
+Third-degree discrimination — farklı tarifeli gözlemlenebilir gruplar.
+Two-part tariff — erişim ücreti artı kullanım fiyatı.
+Vertical differentiation — sıralanabilir kalite, tüketicilerin WTP'si farklıdır.
+
+19.5 Refah, çevre ve bilgi
+Adverse selection — özel bir tipe bağlı ters seçim.
+Asymmetric information — taraflar arasında farklı bilgi.
+Bargaining cost / transaction cost — bir anlaşmayı müzakere etme/uygulatma maliyeti.
+Certification — üçüncü bir tarafça veya standartla onaylanan kalite.
+Club good — dışlanabilir, tıkanıklık yokken rakip olmayan.
+Coase theorem — iyi tanımlanmış haklarla maliyetsiz pazarlık yoluyla etkinlik.
+Common resource — ele alınan kurallarda rakip, dışlanamaz kaynak.
+Consumer/producer surplus — alıcıların/satıcıların ödeme/değişken maliyetin
+  ötesindeki parasal kazançları.
+Deadweight loss — gerçekleşmemiş/kaybedilmiş net sosyal rant.
+Deductible — sigortalının üstlendiği sigorta muafiyeti.
+Emission cap/quota — emisyonlara miktar sınırı.
+Emission fee — emisyon birimi başına fiyat/vergi.
+External benefit/cost — üçüncü taraflar üzerinde hesaba katılmayan fayda/zarar.
+Externality — dışsallık, pozitif veya negatif.
+Franchise contract — ödeme karşılığı bir işi/markayı kullanma sözleşmesi,
+  potansiyel olarak sonuca dayalı güçlü teşviklerle.
+Free rider — bedavacı, katkıda bulunmadan yararlanır.
+Incentive compatibility — istenen seçim alternatiflerden daha iyidir.
+Individual rationality / participation — sözleşme dış seçeneğe göre kabul edilebilir.
+Internalization — dışsal maliyeti/faydayı özel karara dahil etmek.
+Limited liability — sınırlı sorumluluk, kayıplar/geri ödemeler tavanlı.
+Lemons market — gizli kalitenin iyi kaliteyi dışlayabildiği piyasa.
+Moral hazard — ahlaki tehlike, sözleşme/teşviklerle değişen özel seçim/eylem.
+Open access — etkin kısıtlama olmadan bir kaynağa serbest erişim.
+Pareto improvement/efficiency — kaybeden olmadan kazanç/kaybeden olmadan mümkün kazanç yok.
+Pigouvian tax/subsidy — bir dışsallığı düzelten vergi/yardım.
+Pooling equilibrium — tiplerin gözlemlenebilir davranışla ayrışmadığı denge.
+Principal-agent problem — vekilin gözlemlenemeyen eylemini içeren sözleşme.
+Private benefit — karar vericinin, bazen asil aleyhine elde ettiği avantaj.
+Private good — rakip ve dışlanabilir.
+Procurement — bir alıcının hizmet/mal satın alması, çoğu zaman ters ihaleyle.
+Property rights — kimin kullanabileceğini/yasaklayabileceğini/değiş tokuş edebileceğini belirleyen haklar.
+Public good — saf modelde rakip olmayan ve dışlanamaz.
+Reputation — kalite/davranış hakkında birikmiş bilgi.
+Risk sharing — şoklara maruziyetin taraflar arasında paylaşımı.
+Screening — daha az bilgili tarafın bilgi toplaması/yapılandırması.
+Separating equilibrium — tiplerin farklı seçim/sinyallerle açığa çıktığı denge.
+Sharecropping — ortakçılık, hasadın/hasılatın işleten ile sahip arasında paylaşımı.
+Signalling — daha bilgili tarafın gönderdiği gözlemlenebilir sinyal.
+Social cost/benefit — toplam etki, özel artı dışsal.
+Subsidy — alıcı fiyatını düşüren veya satıcı hasılatını artıran yardım.
+Tax incidence — vergi yükünün fiili dağılımı.
+Tradable permits — toplam tavan altında ticareti yapılabilen izinler.
+Tragedy of the commons — kıtlık dışsallığından kaynaklanan aşırı kullanım.
+Trust — güven, bazı bilgi/sözleşme sürtünmelerini azaltır.
+
+19.6 Oyunlar, ticaret, platformlar ve ihaleler
+Backward induction — geriye doğru tümevarım : son kararlardan başla.
+Cheap talk — oyunda doğrudan bağlayıcı olmayan iletişim.
+Commitment — gelecekteki seçimleri inandırıcı biçimde değiştiren taahhüt.
+Credible threat — çağrıldığı düğümde uygulanması optimal olan tehdit.
+Dominant strategy — diğerlerinin stratejileri ne olursa olsun optimal.
+Edgeworth box — iki aktör arasında iki malın değişim kutusu.
+Free trade — ele alınan engel olmadan serbest ticaret.
+Gains from trade — değişimden kazançlar, karşılıklı yararlı değişimlerin rantı.
+Multihoming — birkaç platforma katılım.
+Network effect — hizmetin değeri aynı/öteki taraftaki katılımcılara bağlıdır.
+Payoff — bir sonucun getirisi/faydası, sosyal tercihlerde paradan ayrılır.
+Platform — gruplar arası etkileşimleri düzenleyen aracı.
+Pooling/separating — bilgiye bak; ürün bundling'iyle karıştırma.
+Production possibility frontier — gerçekleştirilebilir bileşimler sınırı.
+Pure/mixed strategy — kesin seçim/eylemler arasında olasılıklı çekiliş.
+Reverse auction — alım ihalesi, düşük teklif kazanabilir.
+Sealed-bid auction — başkalarınınkini görmeden verilen teklifler.
+Sequential/simultaneous moves — bir sırayla/rakibi gözlemlemeden alınan kararlar.
+Single-homing — tek bir platformun kullanımı.
+Specific factors — ticaret modelinde bir sektöre bağlı faktörler.
+Subgame perfect equilibrium — her alt oyunda Nash, inandırıcı olmayan tehditleri dışlar.
+Switching costs — tedarikçi/platform değiştirme maliyetleri.
+Tariff — ithalata gümrük vergisi; iki parçalı tarifeden farklıdır.
+Terms of trade — ihracat fiyatlarının ithalat fiyatlarına oranı.
+Vickrey auction — özel değerler modelinde kapalı zarf ikinci fiyat ihalesi.
+Winner's curse — iyimser bir tahminin seçilmesinden doğan kazananın laneti.
+
+19.7 Hemen tanınması gereken yönerge fiilleri ve sözcükleri
+Assume — varsay : verilen varsayımı, stilize olsa bile kullan.
+Calculate / find / determine — hesapla/bul : denklemler, adımlar, sonuç/birim.
+Compare — karşılaştır : aynı referans, aynı varsayımlar, ilgili değişkenler.
+Define — tanımla : yalnızca bir formül değil, basit bir anlam ver.
+Derive / show how derived — türet/göster : amaçtan başlayıp ilişkiyi elde et.
+Discuss — tartış : mekanizma, varsayımlar ve olası belirsizlik.
+Explain why / intuition — nedenini açıkla : teşvikleri, marjı ve sonucu bağla.
+Illustrate / use a figure — etiketli eksenler, eğriler, miktarlar ve alanlarla çiz.
+Holding constant / given — verili tut : bu değişkeni bir seçimmiş gibi türetme.
+In the long run — uzun dönem : giriş, çıkış ve girdileri ayarlama olanağını kontrol et.
+Maximize / minimize — yalnızca eğrileri eşitlemek değil, amacı optimize et.
+Motivate / justify — gerekçelendir : ekonomik argüman ve hesapla bağlantı.
+No calculations needed — mekanizmayı açıkla; sezgiyi rakamlarla değiştirme.
+Per unit — birim başına, ilgili hacimle çarpılacak tutar.
+Resale impossible — yeniden satış imkânsız : segmentasyonun kilit koşulu.
+Subject to — kısıtı altında : seçimi neyin sınırladığını açıkça yaz.
+Unilaterally — tek taraflı : yalnızca karar veren stratejisini değiştirir.
+Welfare maximizing — özel kârdan farklı olarak SOSYAL refahı maksimize et.

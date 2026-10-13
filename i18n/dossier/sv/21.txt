@@ -1,0 +1,257 @@
+======================================================================
+19. TVÅSPRÅKIG ORDLISTA ÖVER BEGREPP OCH UPPGIFTSFORMULERINGAR
+======================================================================
+
+Utförliga definitioner, antaganden och beräkningar finns i kapitlen.
+Ordlistan gör det möjligt att hitta ett engelskt ord utan att känna till dess kapitel.
+
+19.1 Grunder och marknader
+Absolute advantage — absolut fördel : producera med färre resurser.
+Accounting cost/profit — bokföringsmässig kostnad/vinst : explicita utgifter/saldo.
+Allocation — allokering : vem som får vilka varor/resurser.
+Barrier to entry — inträdeshinder : hinder för en ny konkurrent.
+Binding constraint — bindande begränsning : begränsar faktiskt valet.
+Ceteris paribus — allt annat lika : isolera en förändring.
+Commodity — standardiserad basprodukt, användbar för konkurrensmodellen.
+Competitive reallocation — omfördelning mot mer produktiva företag.
+Comparative advantage — komparativ fördel : lägre relativ alternativkostnad.
+Complementary goods — komplement : priset på den ena minskar efterfrågan på den andra.
+Consumer — konsument : väljer en korg under begränsningar.
+Demand curve/function — efterfrågekurva/-funktion : önskat köp beroende på pris.
+Differentiated products — differentierade produkter : olika egenskaper.
+Distribution — fördelning av inkomster/vinster; skilj från effektivitet.
+Economic cost/profit — ekonomisk kostnad/vinst : inkluderar uppoffrade möjligheter.
+Economic rent — ekonomisk ränta : inkomst kopplad till en knapp resurs.
+Efficiency — effektivitet : ett uttalat mål för vinster/resurser, inte bara likhet.
+Equilibrium — jämvikt : förenliga beslut/kvantiteter, inte nödvändigtvis samhälleligt optimum.
+Excess demand / shortage — efterfrågeöverskott/brist : QD>QS vid rådande pris.
+Excess supply / surplus — utbudsöverskott : QS>QD ; « surplus » betyder inte
+  alltid välfärdsöverskott.
+Exit / entry — företags utträde/inträde på en marknad.
+Free entry — fritt inträde : tillträde utan hinder som förhindrar LR-anpassning.
+Homogeneous product — homogen produkt : köparna behandlar den som identisk.
+Input — insatsvara/faktor : resurs som används för att producera.
+Inverse demand/supply — invers efterfrågan/utbud : priset skrivet som funktion av Q.
+Market clearing price — jämviktspris : utjämnar QD och QS.
+Market definition — marknadsavgränsning : produkter, geografi, period.
+Model — förenklad representation med förenliga antaganden och implikationer.
+Opportunity cost — alternativkostnad : bästa uppgivna alternativ.
+Output — erhållen produktion, skild från använda insatsvaror.
+Partial equilibrium — partiell jämvikt : analys av en marknad som isoleras från resten.
+Price taker — pristagare : anser att det egna valet inte påverkar p.
+Scarcity — knapphet : begränsade resurser tvingar fram val/avvägningar.
+Shift — förskjutning av en kurva; movement along — rörelse längs en kurva.
+Substitute goods — substitut : priset på den ena ökar efterfrågan på den andra.
+Supply curve/function — utbud : önskad kvantitet vid varje pris.
+Zero economic profit — noll ekonomisk vinst : alternativkostnaderna är täckta.
+
+19.2 Konsument och beteende
+Affordable/feasible bundle — möjlig korg : respekterar budget/begränsningar.
+Altruism — altruism : nyttan ökar med andras välbefinnande/vinst.
+Behavioral economics — beteendeekonomi : berikar det enkla rationella valet.
+Budget constraint/line — budgetrestriktion/-linje : möjliga utgifter.
+Bundle/basket — korg : kombination av kvantiteter av varor.
+Cardinal utility — kardinal nytta : tolkningsbara nivåer/intensiteter;
+  motsvarar inte den vanliga ordinala användningen av kursens funktioner.
+Cognitive limitations — kognitiva begränsningar : ofullständig optimering/information.
+Complete preferences — fullständiga preferenser : varje par kan jämföras.
+Compensation — överföring som återställer möjligheten till en korg eller en nytta,
+  beroende på vald definition.
+Convex preferences — konvexa preferenser : förkärlek för blandningar, i vanlig form.
+Corner solution — hörnlösning : en av varorna väljs i kvantiteten 0.
+Diminishing marginal utility — marginalnytta som avtar med kvantiteten.
+Engel curve — Engelkurva : kvantitet som funktion av inkomst, givna priser.
+Envy / spite — avund / illvilja : någon annans vinst kan sänka den egna nyttan.
+Framing — inramningseffekt : presentationen påverkar beslutet.
+Heuristic — heuristik : enkel regel som används för att besluta.
+Homo economicus — stiliserad rationell aktör; dess preferenser är inte
+  nödvändigtvis enbart materialistiska.
+Income effect — inkomsteffekt : förändring på grund av reell köpkraft.
+Indifference curve — indifferenskurva : samma nytta för alla dess korgar.
+Inferior good — inferiör vara : efterfrågan sjunker när inkomsten ökar.
+Interior solution — inre lösning : strikt positiva varor/insatser.
+Loss aversion — förlustaversion : förlusters vikt i förhållande till vinster.
+Lump-sum payment — klumpsummeöverföring : belopp oberoende av det marginella köpet.
+Luxury good — lyxvara : efterfrågan ökar mer än proportionellt mot inkomsten.
+Marginal utility — marginalnytta : bidraget från den extra enheten.
+More-is-better / non-satiation — omättlighet : mer av önskade varor föredras.
+Normal good — normal vara : efterfrågan ökar med inkomsten.
+Ordinal utility — ordinal nytta : används för att rangordna, inte mäta absolut lycka.
+Overconfidence — överdriven självsäkerhet : överskatta precision/förmågor.
+Perfect complements — perfekta komplement : konsumtion i fasta proportioner.
+Perfect substitutes — perfekta substitut : byte i konstant takt.
+Preference — preferens : rangordning av alternativ.
+Self-control — självkontroll : avvägning mellan omedelbar belöning/framtida mål.
+Social preferences — sociala preferenser : nyttan beror också på andra/normer.
+Substitution effect — substitutionseffekt : reaktion på relativpriset.
+Transitivity — transitivitet : förenlig rangordning över flera korgar.
+Ultimatum game — ultimatumspel : föreslagen delning, accepterad eller avvisad.
+Utility maximization — nyttomaximering : bästa möjliga korg.
+
+19.3 Produktion och kostnader
+Average product — genomsnittsprodukt : produktion per insatsenhet.
+Capital-labor ratio — kapital/arbetskvot : K/L.
+Constant economies of scale — konstant LR-genomsnittskostnad i det relevanta intervallet.
+Cost function — funktion för minimal kostnad givet output och insatspriser.
+Cost minimization — kostnadsminimering för en föreskriven produktion.
+Decreasing returns to scale — alla insatser gånger t, output mindre än gånger t.
+Diminishing marginal product — avtagande marginalprodukt för en enda insats.
+Diseconomies of scale — stordriftsnackdelar : stigande genomsnittskostnad.
+Economies of scale — stordriftsfördelar : fallande genomsnittskostnad.
+Factor of production — produktionsfaktor : arbete, kapital, mark, andra insatser.
+Fixed cost — fast kostnad oberoende av Q under horisonten.
+Increasing returns to scale — alla insatser gånger t, output mer än gånger t.
+Intermediate input — insatsvara : producerad vara som används för att producera.
+Isocost — isokostnad : insatskombinationer med samma kostnad.
+Isoquant — isokvant : insatskombinationer med samma output.
+Labor — arbete, mätt i personer/timmar beroende på uppgiften.
+Learning-by-doing — lärande genom att göra, kan sänka kostnaderna.
+Long run — alla faktorer kan anpassas.
+Marginal cost — kostnaden för ytterligare produktion.
+Marginal product — extra output från en extra insats.
+Production function — sambandet teknik/insatser/output.
+Productivity — produktion i förhållande till använda resurser.
+Raw material — råvara som används i produktionen.
+Returns to scale — Q:s reaktion på en proportionell förändring av alla insatser.
+Short run — minst en faktor är fast.
+Shutdown — produktionsstopp på kort sikt; skiljer sig från slutgiltigt utträde/LR.
+Sunk cost — sjunken kostnad; får inte snedvrida en framåtblickande jämförelse.
+Variable cost — kostnad som varierar med output.
+
+19.4 Marknadsmakt och prisstrategi
+Arbitrage / resale — köpa/sälja vidare för att utnyttja en prisskillnad.
+Best response / reaction function — optimalt val villkorat av rivalen.
+Bertrand competition — priskonkurrens.
+Bundling — paketförsäljning; pure=bara paket, mixed=paket och separat.
+Capacity constraint — gräns för möjlig produktion/platser/försäljning.
+Collusion — samordning mellan konkurrenter; skiljer sig från icke-kooperativ Nash.
+Cournot competition — konkurrens i samtidiga kvantiteter.
+Duopoly — oligopol med två företag.
+Excess capacity — överkapacitet i betydelsen produktion under minsta ATC.
+First-degree price discrimination — prissättning vid varje individuell marginell WTP.
+First-mover advantage — fördel för den som drar först, beror på spelet.
+Freemium — gratisversion och betalda alternativ, självselektion/nätverk.
+Horizontal differentiation — olika smak, ingen universell kvalitetsrangordning.
+Incumbent — företag som redan finns före inträdet.
+Integrated market — icke segmenterad marknad, arbitrage eller gemensamt pris.
+Lerner index — marginalen pris/marginalkostnad dividerad med priset.
+Market power — förmåga att sätta ett pris över marginalkostnaden.
+Market share — marknadsandel, q_i/Q ; inte synonymt med vinst.
+Markup — pris-kostnadsmarginal; ange absolut, relativt priset eller kostnaden.
+Monopolistic competition — många differentierade företag med lätt inträde.
+Monopoly — ensam säljare utan nära substitut på den relevanta marknaden.
+Natural monopoly — kostnadsteknik som gynnar en enda producent.
+Nash equilibrium — ingen lönsam ensidig avvikelse.
+Oligopoly — ett litet antal företag med strategisk interaktion.
+Parallel imports — parallellimport som hindrar prissegmentering.
+Patent — tillfällig ensamrätt, innovationsincitament i modellen.
+Perfect competition — pristagare, homogenitet, många aktörer, fritt inträde.
+Price discrimination — olika priser för enheter/kunder utöver enbart kostnader.
+Profit maximization — bästa möjliga vinst, inte största kvantitet.
+Reservation price — reservationspris, maximal WTP för en enhet/transaktion.
+Second-degree discrimination — självselektion i en meny.
+Segmented markets — grupper mellan vilka vidareförsäljning/överföring är begränsad.
+Self-selection — kunden avslöjar sin typ genom det valda erbjudandet.
+Single-price monopoly — monopol med samma pris för varje enhet.
+Stackelberg leadership — sekventiell ordning, följarens reaktion observeras.
+Strategic complements — bästa svaret ökar med rivalens val, t.ex. priser.
+Strategic substitutes — bästa svaret minskar med rivalens val, t.ex. Cournot-Q.
+Third-degree discrimination — observerbara grupper med olika priser.
+Two-part tariff — tillträdesavgift plus användningspris.
+Vertical differentiation — rangordningsbar kvalitet, konsumenternas WTP skiljer sig.
+
+19.5 Välfärd, miljö och information
+Adverse selection — negativt urval kopplat till en privat typ.
+Asymmetric information — olika information hos parterna.
+Bargaining cost / transaction cost — kostnad för att förhandla fram/genomdriva en överenskommelse.
+Certification — kvalitet intygad av tredje part eller en standard.
+Club good — exkluderbar, icke rivaliserande utan trängsel.
+Coase theorem — effektivitet genom kostnadsfri förhandling med väldefinierade rättigheter.
+Common resource — rivaliserande, icke exkluderbar resurs enligt de aktuella reglerna.
+Consumer/producer surplus — köpares/säljares monetära vinster utöver
+  betalning/rörlig kostnad.
+Deadweight loss — icke realiserat/förlorat samhälleligt nettoöverskott.
+Deductible — självrisk som bärs av den försäkrade.
+Emission cap/quota — kvantitativ gräns för utsläpp.
+Emission fee — pris/skatt per utsläppsenhet.
+External benefit/cost — nytta/skada för tredje part som inte beaktas.
+Externality — externalitet, positiv eller negativ.
+Franchise contract — kontrakt som ger rätt att använda en verksamhet/ett varumärke mot betalning,
+  potentiellt med starka resultatincitament.
+Free rider — fripassagerare, får nytta utan att bidra.
+Incentive compatibility — det önskade valet är bättre än alternativen.
+Individual rationality / participation — kontraktet är acceptabelt jämfört med det yttre alternativet.
+Internalization — att ta in extern kostnad/nytta i det privata beslutet.
+Limited liability — begränsat ansvar, förluster/återbetalningar har ett tak.
+Lemons market — marknad där dold kvalitet kan tränga undan god kvalitet.
+Moral hazard — moralisk risk, privat val/handling ändrat av kontrakt/incitament.
+Open access — fritt tillträde till en resurs, utan verksam begränsning.
+Pareto improvement/efficiency — vinst utan förlorare/ingen möjlig vinst utan förlorare.
+Pigouvian tax/subsidy — korrigerande avgift/stöd för en externalitet.
+Pooling equilibrium — typer som inte skiljs åt av observerbart beteende.
+Principal-agent problem — kontrakt med en icke observerbar handling hos agenten.
+Private benefit — fördel för beslutsfattaren, ibland på principalens bekostnad.
+Private good — rivaliserande och exkluderbar.
+Procurement — köp av en tjänst/vara av en beställare, ofta via omvänd auktion.
+Property rights — rättigheter som avgör vem som får använda/förbjuda/byta.
+Public good — icke rivaliserande och icke exkluderbar, i den rena modellen.
+Reputation — ackumulerad information om kvalitet/beteende.
+Risk sharing — fördelning av exponeringen för chocker mellan parterna.
+Screening — insamling/strukturering av information av den mindre informerade parten.
+Separating equilibrium — typer avslöjade genom olika val/signaler.
+Sharecropping — delning av skörd/intäkt mellan brukare och ägare.
+Signalling — observerbar signal från den bättre informerade parten.
+Social cost/benefit — total effekt, privat plus extern.
+Subsidy — stöd som sänker köparpriset eller höjer säljarens intäkt.
+Tax incidence — skattebördans faktiska fördelning.
+Tradable permits — handelbara utsläppsrätter under ett totalt tak.
+Tragedy of the commons — överutnyttjande på grund av en knapphetsexternalitet.
+Trust — förtroende, minskar vissa informations-/avtalsfriktioner.
+
+19.6 Spel, handel, plattformar och auktioner
+Backward induction — bakåtinduktion : börja med de sista besluten.
+Cheap talk — kommunikation som inte är direkt bindande i spelet.
+Commitment — åtagande som trovärdigt ändrar framtida val.
+Credible threat — hot som är optimalt att verkställa i den nod där det åberopas.
+Dominant strategy — optimal oavsett de andras strategier.
+Edgeworth box — bytesruta för två varor mellan två aktörer.
+Free trade — frihandel utan det aktuella hindret.
+Gains from trade — bytesvinster, överskott från ömsesidigt nyttiga byten.
+Multihoming — deltagande på flera plattformar.
+Network effect — tjänstens värde beror på deltagare på samma/andra sidan.
+Payoff — utbetalning/nytta av ett utfall, skild från pengar vid sociala preferenser.
+Platform — mellanhand som organiserar interaktioner mellan grupper.
+Pooling/separating — se information; inte att förväxla med paketering av produkter.
+Production possibility frontier — gränsen för genomförbara kombinationer.
+Pure/mixed strategy — säkert val/slumpmässig dragning mellan handlingar.
+Reverse auction — inköpsauktion, det låga budet kan vinna.
+Sealed-bid auction — bud som lämnas utan att se de andras.
+Sequential/simultaneous moves — beslut i en ordning/utan att observera rivalen.
+Single-homing — användning av en enda plattform.
+Specific factors — faktorer bundna till en sektor i handelsmodellen.
+Subgame perfect equilibrium — Nash i varje delspel, utesluter otrovärdiga hot.
+Switching costs — kostnader för att byta leverantör/plattform.
+Tariff — tull på import; skiljer sig från en tvådelad tariff.
+Terms of trade — exportpriser i förhållande till importpriser.
+Vickrey auction — förseglad andraprisauktion i modellen med privata värden.
+Winner's curse — vinnarens förbannelse på grund av urval av en optimistisk skattning.
+
+19.7 Uppgiftsverb och ord att känna igen direkt
+Assume — anta : använd det givna antagandet, även om det är stiliserat.
+Calculate / find / determine — beräkna/hitta : ekvationer, steg, resultat/enhet.
+Compare — jämför : samma riktmärke, samma antaganden, relevanta variabler.
+Define — definiera : ge en enkel innebörd, inte bara en formel.
+Derive / show how derived — härled/visa : utgå från målet och få fram sambandet.
+Discuss — diskutera : mekanism, antaganden och eventuell tvetydighet.
+Explain why / intuition — förklara varför : koppla incitament, marginal och resultat.
+Illustrate / use a figure — rita med märkta axlar, kurvor, kvantiteter och ytor.
+Holding constant / given — håll givet : härled inte denna variabel som ett val.
+In the long run — lång sikt : kontrollera inträde, utträde och möjligheten att anpassa insatser.
+Maximize / minimize — optimera målet, inte bara likställa kurvor.
+Motivate / justify — motivera : ekonomiskt argument och koppling till beräkningen.
+No calculations needed — förklara mekanismen; ersätt inte intuition med siffror.
+Per unit — per enhet, belopp att multiplicera med relevant volym.
+Resale impossible — vidareförsäljning omöjlig : nyckelvillkor för segmentering.
+Subject to — under bivillkoret : skriv uttryckligen vad som begränsar valet.
+Unilaterally — ensidigt : bara beslutsfattaren ändrar sin strategi.
+Welfare maximizing — maximera SAMHÄLLELIG välfärd, skild från privat vinst.

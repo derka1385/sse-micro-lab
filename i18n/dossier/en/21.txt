@@ -1,0 +1,257 @@
+======================================================================
+19. GLOSSARY OF NOTIONS AND EXAM INSTRUCTIONS
+======================================================================
+
+Fuller definitions, assumptions and calculations are in the chapters.
+This glossary lets you find an English word without knowing its chapter.
+
+19.1 Foundations and markets
+Absolute advantage — absolute advantage : producing with fewer resources.
+Accounting cost/profit — accounting cost/profit : explicit spending/balance.
+Allocation — allocation : who receives which goods/resources.
+Barrier to entry — barrier to entry : an obstacle to a new competitor.
+Binding constraint — binding constraint : actually limits the choice.
+Ceteris paribus — all else equal : isolate one change.
+Commodity — a standardised basic product, useful for the competitive model.
+Competitive reallocation — reallocation towards more productive firms.
+Comparative advantage — comparative advantage : lower relative opportunity cost.
+Complementary goods — complements : the price of one lowers demand for the other.
+Consumer — consumer : chooses a bundle under constraints.
+Demand curve/function — demand curve/function : desired purchases by price.
+Differentiated products — differentiated products : distinct characteristics.
+Distribution — distribution of income/gains; to be distinguished from efficiency.
+Economic cost/profit — economic cost/profit : includes forgone opportunities.
+Economic rent — economic rent : income linked to a scarce resource.
+Efficiency — efficiency : an explicit gains/resources objective, not mere equality.
+Equilibrium — equilibrium : consistent decisions/quantities, not necessarily a social optimum.
+Excess demand / shortage — excess demand/shortage : QD>QS at the current price.
+Excess supply / surplus — excess supply : QS>QD; "surplus" does not
+  always mean welfare surplus.
+Exit / entry — firms leaving/entering a market.
+Free entry — free entry : access with no barrier preventing LR adjustment.
+Homogeneous product — homogeneous product : buyers treat it as identical.
+Input — input/factor : a resource used to produce.
+Inverse demand/supply — inverse demand/supply : price written as a function of Q.
+Market clearing price — equilibrium price : equalises QD and QS.
+Market definition — market definition : products, geography, period.
+Model — a simplified representation with consistent assumptions and implications.
+Opportunity cost — opportunity cost : the best alternative given up.
+Output — the production obtained, distinct from the inputs used.
+Partial equilibrium — partial equilibrium : analysing one market, isolating the rest.
+Price taker — price taker : believes its individual choice does not affect p.
+Scarcity — scarcity : limited resources force choices/trade-offs.
+Shift — a shift of a curve; movement along — a movement along a curve.
+Substitute goods — substitutes : the price of one raises demand for the other.
+Supply curve/function — supply : quantity desired at each price.
+Zero economic profit — zero economic profit : opportunity costs are covered.
+
+19.2 Consumer and behaviour
+Affordable/feasible bundle — affordable bundle : respects the budget/constraints.
+Altruism — altruism : utility rises with others' well-being/gain.
+Behavioral economics — behavioural economics : enriches simple rational choice.
+Budget constraint/line — budget constraint/line : possible spending.
+Bundle/basket — bundle : a combination of quantities of goods.
+Cardinal utility — cardinal utility : interpretable levels/intensities;
+  does not match the standard ordinal use of the course's functions.
+Cognitive limitations — cognitive limits : imperfect optimisation/information.
+Complete preferences — complete preferences : any pair can be compared.
+Compensation — a transfer restoring the possibility of a bundle or a utility level,
+  depending on the definition used.
+Convex preferences — convex preferences : a taste for mixtures, in the usual form.
+Corner solution — corner solution : one of the goods chosen at quantity 0.
+Diminishing marginal utility — marginal utility falling with quantity.
+Engel curve — Engel curve : quantity as a function of income, prices fixed.
+Envy / spite — envy / spite : another's gain can lower one's own utility.
+Framing — framing effect : presentation affecting the decision.
+Heuristic — heuristic : a simple rule used to decide.
+Homo economicus — a stylised rational agent; its preferences are not
+  necessarily exclusively materialistic.
+Income effect — income effect : change due to real purchasing power.
+Indifference curve — indifference curve : the same utility for all its bundles.
+Inferior good — inferior good : demand falls when income rises.
+Interior solution — interior solution : strictly positive goods/inputs.
+Loss aversion — loss aversion : weight of losses relative to gains.
+Lump-sum payment — lump-sum transfer : an amount independent of the marginal purchase.
+Luxury good — luxury good : demand rises more than proportionally with income.
+Marginal utility — marginal utility : contribution of the extra unit.
+More-is-better / non-satiation — non-satiation : more of desired goods is preferred.
+Normal good — normal good : demand rises with income.
+Ordinal utility — ordinal utility : used to rank, not to measure absolute happiness.
+Overconfidence — overconfidence : overestimating precision/abilities.
+Perfect complements — perfect complements : consumption in fixed proportions.
+Perfect substitutes — perfect substitutes : exchange at a constant rate.
+Preference — preference : a ranking of alternatives.
+Self-control — self-control : trade-off between immediate gratification/future goal.
+Social preferences — social preferences : utility also depends on others/norms.
+Substitution effect — substitution effect : response to the relative price.
+Transitivity — transitivity : consistent ranking across several bundles.
+Ultimatum game — ultimatum game : a proposed split, accepted or rejected.
+Utility maximization — utility maximisation : the best affordable bundle.
+
+19.3 Production and costs
+Average product — average product : output per unit of input.
+Capital-labor ratio — capital/labour ratio : K/L.
+Constant economies of scale — constant LR average cost over the relevant range.
+Cost function — minimum cost function given output and input prices.
+Cost minimization — cost minimisation for an imposed output.
+Decreasing returns to scale — all inputs multiplied by t, output by less than t.
+Diminishing marginal product — falling marginal product of a single input.
+Diseconomies of scale — diseconomies : rising average cost.
+Economies of scale — economies : falling average cost.
+Factor of production — factor of production : labour, capital, land, other inputs.
+Fixed cost — a cost independent of Q over the horizon.
+Increasing returns to scale — all inputs multiplied by t, output by more than t.
+Intermediate input — intermediate input : a produced good used to produce.
+Isocost — isocost : input combinations with the same cost.
+Isoquant — isoquant : input combinations with the same output.
+Labor — labour, measured in people/hours depending on the question.
+Learning-by-doing — learning by doing, which can lower costs.
+Long run — all factors can be adjusted.
+Marginal cost — the cost of additional output.
+Marginal product — extra output from an extra input.
+Production function — the technology/inputs/output relation.
+Productivity — output obtained for the resources used.
+Raw material — raw material used in production.
+Returns to scale — response of Q to a proportional change in all inputs.
+Short run — at least one factor is fixed.
+Shutdown — short-run halt of production; different from definitive/LR exit.
+Sunk cost — unrecoverable cost; must not distort a forward-looking comparison.
+Variable cost — a cost varying with output.
+
+19.4 Market power and pricing strategy
+Arbitrage / resale — buying/reselling to profit from a price gap.
+Best response / reaction function — the optimal choice conditional on the rival.
+Bertrand competition — competition in prices.
+Bundling — selling in bundles; pure=bundle only, mixed=bundle and separate items.
+Capacity constraint — a limit on possible output/seats/sales.
+Collusion — coordination between competitors; different from non-cooperative Nash.
+Cournot competition — competition in simultaneous quantities.
+Duopoly — oligopoly with two firms.
+Excess capacity — excess capacity in the sense of output below minimum ATC.
+First-degree price discrimination — pricing at each individual marginal WTP.
+First-mover advantage — the first player's advantage, depends on the game.
+Freemium — a free version plus paid options, self-selection/network.
+Horizontal differentiation — diverse tastes, no universal quality ranking.
+Incumbent — a firm already present before entry.
+Integrated market — an unsegmented market, arbitrage or a common price.
+Lerner index — the price/marginal-cost markup divided by price.
+Market power — the ability to set a price above marginal cost.
+Market share — share of the market, q_i/Q; not a synonym for profit.
+Markup — the price-cost margin; specify absolute, relative to price or to cost.
+Monopolistic competition — many differentiated firms with easy entry.
+Monopoly — a single seller with no close substitutes in the relevant market.
+Natural monopoly — a cost technology favouring a single producer.
+Nash equilibrium — no profitable unilateral deviation.
+Oligopoly — a small number of firms with strategic interaction.
+Parallel imports — parallel imports preventing price segmentation.
+Patent — a temporary right of exclusion, an incentive to innovate in the model.
+Perfect competition — price takers, homogeneity, many agents, free entry.
+Price discrimination — different prices across units/customers beyond cost alone.
+Profit maximization — the best feasible profit, not the largest quantity.
+Reservation price — reservation price, maximum WTP for a unit/transaction.
+Second-degree discrimination — self-selection within a menu.
+Segmented markets — groups between which resale/transfer is limited.
+Self-selection — the customer reveals their type through the offer chosen.
+Single-price monopoly — a monopoly charging the same price for every unit.
+Stackelberg leadership — sequential order, the follower's reaction is observed.
+Strategic complements — best response rises with the rival's choice, e.g. prices.
+Strategic substitutes — best response falls with the rival's choice, e.g. Cournot Q.
+Third-degree discrimination — observable groups with different prices.
+Two-part tariff — an access fee plus a usage price.
+Vertical differentiation — rankable quality, consumers differ in WTP.
+
+19.5 Welfare, environment and information
+Adverse selection — adverse selection linked to a private type.
+Asymmetric information — information that differs between parties.
+Bargaining cost / transaction cost — the cost of negotiating/enforcing an agreement.
+Certification — quality attested by a third party or a standard.
+Club good — excludable, non-rival absent congestion.
+Coase theorem — efficiency through costless bargaining with well-defined rights.
+Common resource — rival, non-excludable under the rules considered.
+Consumer/producer surplus — monetary gains of buyers/sellers beyond
+  payment/variable cost.
+Deadweight loss — net social surplus not realised/lost.
+Deductible — the part of an insured loss borne by the insured.
+Emission cap/quota — a quantitative limit on emissions.
+Emission fee — a price/tax per unit of emission.
+External benefit/cost — a benefit/damage to third parties not taken into account.
+Externality — externality, positive or negative.
+Franchise contract — a contract granting use of a business/brand for a payment,
+  potentially with strong incentives on outcomes.
+Free rider — free rider, benefits without contributing.
+Incentive compatibility — the desired choice is preferable to the alternatives.
+Individual rationality / participation — the contract is acceptable given the outside option.
+Internalization — bringing the external cost/benefit into the private decision.
+Limited liability — limited liability, losses/repayments capped.
+Lemons market — a market where hidden quality can drive out good quality.
+Moral hazard — moral hazard, a private choice/action altered by the contract/incentives.
+Open access — open access to a resource, without effective restriction.
+Pareto improvement/efficiency — a gain with no loser/no feasible gain without a loser.
+Pigouvian tax/subsidy — a levy/aid correcting an externality.
+Pooling equilibrium — types not separated by observable behaviour.
+Principal-agent problem — a contract with an unobservable action by the agent.
+Private benefit — an advantage for the decision-maker, sometimes at the principal's expense.
+Private good — rival and excludable.
+Procurement — purchase of a service/good by a buyer, often via a reverse auction.
+Property rights — rights determining who may use/forbid/trade.
+Public good — non-rival and non-excludable, in the pure model.
+Reputation — accumulated information on quality/behaviour.
+Risk sharing — allocation of exposure to shocks between parties.
+Screening — collection/structuring of information by the less informed party.
+Separating equilibrium — types revealed by different choices/signals.
+Sharecropping — sharing a harvest/revenue between farmer and owner.
+Signalling — an observable signal sent by the better-informed party.
+Social cost/benefit — total effect, private plus external.
+Subsidy — aid lowering the buyer price or raising the seller's revenue.
+Tax incidence — the actual distribution of a tax burden.
+Tradable permits — permits traded under a total cap.
+Tragedy of the commons — overuse due to a scarcity externality.
+Trust — trust, reduces some information/contract frictions.
+
+19.6 Games, trade, platforms and auctions
+Backward induction — backward induction : start from the last decisions.
+Cheap talk — communication that is not directly binding in the game.
+Commitment — a commitment credibly altering future choices.
+Credible threat — a threat that is optimal to carry out at the node where it is invoked.
+Dominant strategy — optimal whatever the others' strategies.
+Edgeworth box — a box for the exchange of two goods between two agents.
+Free trade — free trade without the barrier considered.
+Gains from trade — gains from trade, surplus from mutually useful exchanges.
+Multihoming — participation in several platforms.
+Network effect — service value depending on participants on the same/other side.
+Payoff — the gain/utility of an outcome, distinct from money if preferences are social.
+Platform — an intermediary organising interactions between groups.
+Pooling/separating — see information; not to be confused with product bundling.
+Production possibility frontier — the frontier of feasible combinations.
+Pure/mixed strategy — a certain choice/a probabilistic draw between actions.
+Reverse auction — a purchasing auction, the low bid can win.
+Sealed-bid auction — bids submitted without observing the others.
+Sequential/simultaneous moves — decisions taken in order/without observing the rival.
+Single-homing — use of a single platform.
+Specific factors — factors locked into one sector in the trade model.
+Subgame perfect equilibrium — Nash in every subgame, rules out non-credible threats.
+Switching costs — costs of changing supplier/platform.
+Tariff — a customs duty on imports; different from a two-part tariff.
+Terms of trade — export prices relative to import prices.
+Vickrey auction — a sealed-bid second-price auction in the private-values model.
+Winner's curse — winner's curse due to selecting an optimistic estimate.
+
+19.7 Instruction verbs and words to recognise immediately
+Assume — assume : use the given assumption, even if stylised.
+Calculate / find / determine — calculate/find : equations, steps, result/unit.
+Compare — compare : same benchmark, same assumptions, relevant variables.
+Define — define : give a simple meaning, not just a formula.
+Derive / show how derived — derive/show : start from the objective and obtain the relation.
+Discuss — discuss : mechanism, assumptions and any ambiguity.
+Explain why / intuition — explain why : link incentives, the margin and the result.
+Illustrate / use a figure — draw with labelled axes, curves, quantities and areas.
+Holding constant / given — held given : do not treat this variable as a choice.
+In the long run — long run : check entry, exit and the possibility of adjusting inputs.
+Maximize / minimize — optimise the objective, not just equalise curves.
+Motivate / justify — justify : an economic argument linked to the calculation.
+No calculations needed — explain the mechanism; do not replace intuition with numbers.
+Per unit — per unit, an amount to multiply by the relevant volume.
+Resale impossible — resale impossible : a key condition for segmentation.
+Subject to — subject to : write explicitly what limits the choice.
+Unilaterally — unilaterally : only the decision-maker changes their strategy.
+Welfare maximizing — maximise SOCIAL welfare, distinct from private profit.
