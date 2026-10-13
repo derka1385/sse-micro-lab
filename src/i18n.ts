@@ -80,9 +80,9 @@ export async function loadEnglish() {
 }
 export const inEnglish = (s: string) => (lang === 'en' ? t(s) : enDict[textId(s)] ?? s);
 
-export function setMode(next: Mode) {
+export function setMode(next: Mode, reload = true) {
   try { localStorage.setItem(MODE_KEY, next); } catch { /* storage blocked */ }
-  window.location.reload();
+  if (reload) window.location.reload();
 }
 
 /** A term or question shown in English in English mode (graph terms, check questions); otherwise like t(). */

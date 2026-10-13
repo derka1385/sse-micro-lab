@@ -1,7 +1,8 @@
 // Sign-in is required to use the app: a full-page welcome with Google sign-in and the language picker.
-import { useEffect, useState } from 'react';
+import { useEffect, useState, type CSSProperties } from 'react';
 import { LANGS, inEnglish, lang, loadEnglish, mode, setLang, setMode, t, type Lang, type Mode } from '../i18n';
 import { initSync, signIn, useSync } from '../sync';
+import { EXAM_DATE } from '../content/catalog';
 
 const MODES: { id: Mode; title: string; text: string }[] = [
   { id: 'native', title: t('Compréhension en langue natale'), text: t('Tout dans ta langue : explications, questions et graphiques.') },
@@ -104,17 +105,52 @@ function ModeDemo({ english }: { english: boolean }) {
   );
 }
 
+const TOUR = [
+  { name: 'Accueil', text: 'Ton compte à rebours, ta progression et la prochaine étape.' },
+  { name: 'Leçons', text: 'Les leçons guidées, du cas concret à la formule.' },
+  { name: 'Apprendre', text: 'Le Graph Lab et les « pourquoi » pour comprendre chaque courbe.' },
+  { name: 'S’entraîner', text: 'Exercices, rappel espacé, reconnaissance des modèles et examens.' },
+  { name: 'Piloter', text: 'Ta carte de maîtrise, tes erreurs et la préparation finale.' },
+];
+
+/** Last setup step: the five sections of the site appear one by one, then the student enters the lab. */
+function Welcome({ onEnter }: { onEnter: () => void }) {
+  const first = useSync().user?.name.split(' ')[0];
+  const days = Math.max(0, Math.floor((EXAM_DATE.getTime() - Date.now()) / 86_400_000)); // same count as the home countdown
+  return (
+    <div className="welcome">
+      <header className="welcome-head">
+        <h2>{first ? t('Bienvenue dans tes révisions, {name}.', { name: first }) : t('Bienvenue dans tes révisions.')}</h2>
+        <p className="welcome-days"><b>{days}</b> {t('jours avant le final')}</p>
+        <p className="login-sub">{t('Voici comment le labo est organisé.')}</p>
+      </header>
+      <ol className="welcome-tour">
+        {TOUR.map((s, i) => (
+          <li key={s.name} style={{ '--i': i } as CSSProperties}>
+            <b>{t(s.name)}</b>
+            <span>{t(s.text)}</span>
+          </li>
+        ))}
+      </ol>
+      <button type="button" className="google-btn google-btn-lg lang-go welcome-go" onClick={onEnter}>{t('Entrer dans le labo')}</button>
+    </div>
+  );
+}
+
 const SETUP = 'micro-lab-setup-v3'; // v3: language and study mode are now two steps
 export const langAsked = () => { try { return localStorage.getItem(SETUP) === '1'; } catch { return true; } };
 const finishSetup = () => { try { localStorage.setItem(SETUP, '1'); } catch { /* blocked */ } };
 
 /** After the first sign-in on a device: language (choosing reloads the page), then study mode with its demo. */
 export function LangPrompt({ onDone }: { onDone: () => void }) {
-  const [step, setStep] = useState<'lang' | 'mode'>('lang');
+  const [step, setStep] = useState<'lang' | 'mode' | 'welcome'>('lang');
   const [pick, setPick] = useState<Mode>(mode);
   const [ready, setReady] = useState(false);
   useEffect(() => { if (step === 'mode') void loadEnglish().then(() => setReady(true)); }, [step]);
-  const done = () => { finishSetup(); if (pick !== mode) setMode(pick); else onDone(); };
+  // The mode is applied by a reload once the welcome page is left (localize() runs at start-up).
+  const enter = () => { finishSetup(); if (pick !== mode) setMode(pick); else onDone(); };
+
+  if (step === 'welcome') return <Welcome onEnter={enter} />;
 
   if (step === 'lang') return (
     <div className="lang-prompt">
@@ -130,7 +166,7 @@ export function LangPrompt({ onDone }: { onDone: () => void }) {
             </button>
           ))}
         </div>
-        <button type="button" className="google-btn google-btn-lg lang-go" onClick={() => { if (lang === 'en') { finishSetup(); onDone(); } else setStep('mode'); }}>
+        <button type="button" className="google-btn google-btn-lg lang-go" onClick={() => setStep(lang === 'en' ? 'welcome' : 'mode')}>
           {t('Continuer')}
         </button>
       </section>
@@ -155,7 +191,7 @@ export function LangPrompt({ onDone }: { onDone: () => void }) {
       </div>
       <div className="mode-actions">
         <button type="button" className="ghost" onClick={() => setStep('lang')}>{t('Retour')}</button>
-        <button type="button" className="google-btn google-btn-lg lang-go" onClick={done}>{t('Commencer')}</button>
+        <button type="button" className="google-btn google-btn-lg lang-go" onClick={() => setStep('welcome')}>{t('Commencer')}</button>
       </div>
     </div>
   );
