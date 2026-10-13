@@ -820,6 +820,26 @@ input.axis:focus-visible::-moz-range-thumb { box-shadow: 0 0 0 3px var(--paper),
 .feedback.revealed::before { display: none; }
 
 /* ——— account (Google sign-in + sync) */
+.account-nav { margin-top: auto; padding: 14px 0 0; border-top: 1px solid var(--rule); display: grid; gap: 2px; }
+a.account-user { padding: 8px; border-radius: 3px; color: var(--ink); text-decoration: none; margin-bottom: 4px; }
+a.account-user:hover { background: var(--surface); }
+a.account-user.on { background: var(--accent); }
+.account-page { max-width: 760px; }
+.settings-block { padding: 22px 0; border-top: 1px solid var(--rule); display: grid; gap: 12px; justify-items: start; }
+.settings-block h2 { margin: 0; font-size: 20px; font-weight: 760; }
+.settings-block p { margin: 0; }
+.settings-block .lang-head { display: none; }
+.settings-block .lang-pick, .settings-block .mode-pick { width: 100%; max-width: 520px; padding: 0; margin: 0; }
+.profile-id { display: flex; align-items: center; gap: 14px; }
+.profile-id img, .profile-id .account-initial { width: 56px; height: 56px; border-radius: 50%; font-size: 24px; }
+.profile-id > div { display: grid; gap: 2px; }
+.profile-id b { font-size: 22px; font-weight: 760; }
+.profile-facts { display: grid; gap: 8px; margin: 0; }
+.profile-facts div { display: grid; grid-template-columns: 9rem minmax(0, 1fr); gap: 12px; }
+.profile-facts dt { color: var(--ink-3); }
+.profile-facts dd { margin: 0; overflow-wrap: anywhere; }
+.settings-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.ghost.danger { color: var(--dwl); }
 .account { margin-top: auto; padding: 16px 8px 14px; border-top: 1px solid var(--rule); }
 .account + .backup { margin-top: 0; }
 .google-btn {
