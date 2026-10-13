@@ -1,0 +1,245 @@
+======================================================================
+16. EXAMS: FULL MAP AND REFERENCE RESULTS
+======================================================================
+
+Each entry links the context to the method to recognise. The figures
+are recalculations, not official marking notes. Values are
+continuous unless stated; do not round quantities before the end.
+
+E2020 — S18, questions p.2–6
+Q1a Amazon/Klarna: adverse selection, reputation and information on
+quality/returns; a known intermediary can reduce the reputational advantage
+of a large platform entering the market.
+Q1b a single world price for a game: compare segmentation and a common price;
+the more sensitive group could pay less under segmentation, the other more;
+W ambiguous, a low-WTP market may not be served at the common price.
+Q1c free game with ads/purchases: self-selection, time/ads versus
+payment, different WTPs; no observable type needed.
+Q1d music, p20-Q,MC2,FC0: MR20-2Q=2 ->Q9,p11,pi81.
+Q1e fixed subscription only: p_usage0 ->Q20,F200,cost40,pi160.
+Compare with a two-part tariff, not asked: p_usage2,Q18,F162,pi162.
+The flat fee increases extraction; p_usage0 leads to consumption beyond
+the efficient 18. Do not answer 162 if the question imposes only a fixed fee.
+
+Q2a Esther data 1h/writing 2h, Abhijeet data 2h/writing 6h: Esther absolute in
+both; cost of writing 2 analyses for Esther, 3 for Abhijeet ->
+Esther writing, Abhijeet data by comparative advantage.
+Q2b public peace MB200-x and 100-x,MC150 ->300-2x=150 ->x75,
+in the segment where both MBs are positive. Draw the vertical sum.
+Q2c free rider: a country's benefit is not conditional on its contribution.
+Q2d UK exports clothing/imports food, specific factors: the food
+price falls ->land loses, capital can gain, production shifts
+towards clothing, possible higher consumption via better terms
+of trade. PPF, new price line and indifference curve; section 14.3.
+
+Q3a vaccines: pD100-Q,pS10+Q ->Q45,p55.
+Q3b definition/example: vaccination reduces the risk passed on to others.
+The paper repeats the letter b for the following numerical sub-question.
+Q3b numerical: MEB20 ->MSB120-Q, social 120-Q=10+Q ->Q55.
+Uncorrected DWL 0.5*10*20=100.
+Q3c subsidy 30: 10+Q=100-Q+30 ->Q60,p_b40,p_s70.
+Subsidy above the optimum 20; excess relative to Q55 ->
+DWL0.5*5*10=25. Use MSB and MSC, not just the old Q45.
+
+Q4a homogeneous Cournot/Bertrand: Nash in quantities ->positive markup;
+Nash in prices with the same MC/capacity ->pMC,Lerner0; explain undercutting.
+Q4b cement Opet MC0,Siren MC2,p10-qO-qS: qO4,qS2,p4,
+piO16,piS4. Reactions qO5-qS/2; qS4-qO/2.
+Q4c market shares: more at the zero-cost firm saves
+resources; equal shares are not an efficiency objective.
+Q4d bonus: results 95/260, bonus 0.95/3, aligned choice with the
+numbers given; section 12.7.
+
+Q5 optional: inferior good, decreasing returns, MP_K, isoquant,
+perfect complements; beer Q990-40p+20pd+30ps at price 10 ->Q1090.
+epsilon_own=-400/1090≈-0.367; epsilon_cross_ps=300/1090≈0.275.
+Yerba Mate C40+4q+q^2,p20 ->q8,pi24. Show p=MC4+2q.
+
+E2021 — S19, questions p.2–5
+Q1a electricity interconnection: initial Swedish price lower ->wider
+trade tends to raise the Swedish price, lower the German one; Swedish CS falls,
+German CS rises, Swedish producers' PS rises, under the usual assumptions.
+Q1b green research: non-rivalry and non-excludability, depending on actual diffusion.
+Q1c coal: a cost imposed on third parties not included in the private cost.
+Q1d quota or tax under uncertainty and steep damages: the quantity
+protection argument, section 11.5; justify with slopes and a graph.
+
+Q2a bread pD10-Q,pS2+Q ->Q4,p6.
+Q2b bread free at the point of use: p_b0 ->QD10,p_s12, subsidy 12/unit.
+CS50,PS50, public spending 120,W=-20; Winitial16,DWL36.
+The negative W includes the production cost actually paid by society.
+Q2c elasticity: a strong response of Q creates more inefficient units,
+for a comparable policy; state what is held constant.
+Q2d Colosseum: skip-the-line=self-selection by value of time; retirees=
+observable groups; combined ticket=bundling, compare bundle WTPs.
+
+Q3a machine p56-2Q,C100+8Q ->MR56-4Q=8 ->Q12,p32,pi188.
+Q3b Cournot c8 for both, FC100 for Lynn, 50 for Voytek:
+BR_i=12-qj/2; q_i8,Q16,p24; profits 28 and 78.
+Q3c Lynn leads: qL12,qV6,Q18,p20; profits 44 and 22.
+Draw the reactions: outcome on the follower's BR; compare Q/price with Cournot.
+
+Q4a credit: hidden action and limited liability, moral hazard.
+Q4b private equity: information, monitoring, decision power.
+Q4c repayment 30: effort H 0.75*10=7.5; L 0.25*10+4=6.5,
+so H; bank 0.75*30-20=2.5, a profitable contract in the model.
+Q4d repayment 34: H4.5; L1.5+4=5.5 ->L; bank 8.5-20=-11.5.
+IC requires repayment<=32; financing at H requires>=80/3≈26.667.
+Q4e drinks/snacks: Edgeworth, gains and efficient edges in section 14.6.
+Q4f corn/wheat, A 2h/4h, B 4h/6h: A absolute in corn and comparative in corn
+(cost 0.5 wheat versus 2/3). Specialisation and trade at an intermediate price.
+
+Q5: increasing returns, perfect substitutes, unit elasticity, luxury good,
+MRTS; harness isoquant/isocost then a wage rise, quantity 1000
+imposed ->substitution towards machines and a higher minimum cost.
+
+E2022 — S20, questions p.2–5
+Q1a freemium game without interaction: discrimination by self-selection.
+Q1b adding interactions: network effects can justify a free tier.
+Q1c minimum price 99 cents: limits undercutting in the homogeneous Bertrand
+model, potentially markups above MC; watch out for the discrete price.
+Q1d sports-equipment platform: two sides, trust, matching,
+cross effects, getting started; section 14.4.
+Q1e derive Lerner from pi=p(Q)Q-C(Q), not just recite the formula.
+
+Q2a/b/c public wifi: non-rival/non-excludable in the model; 300(10-Q)
+=1500 ->Q5; voluntary contributions insufficient because of free riding.
+Q2d Indonesian wheat: pw30,QD50,QS10, imports 40.
+Q2e tariff 10: p40,QD40,QS20, imports 20; Delta CS=-450,
+Delta PS=+150, revenue 200,DWL100. Two triangles, not the whole CS loss.
+
+Q3a monopoly: transfers plus lost gains from trade.
+Q3b pumps p26-2Q,C2Q, tax 4: MR26-4Q=6 ->Q5,p_b16,
+p_s12, profit 50, revenue 20. Social optimum WITHOUT distortions: Q12,MC2.
+TOTAL SOCIAL DWL =0.5*(12-5)*(16-2)=49.
+Do not treat the tax of 4 as a real production cost in welfare.
+Without tax, monopoly Q6,p14,DWL36; with the tax, an extra loss of 13.
+The triangle 25 between demand and MC+tax does not measure the whole
+social loss, because tax revenue is a transfer.
+Q3c legal incidence on buyer/seller: same wedge and same quantity.
+Q3d Cournot without tax: q1=q2=4,Q8,p10,pi_i32.
+Q3e tax 4 on both: both reactions shift towards the origin;
+numerical complement not asked: q_i10/3,Q20/3,p38/3.
+
+Q4a/b carpenter: fixed fee/hourly, quality, duration, opportunity cost,
+section 12.6; no contract solves every problem at once.
+Q4c no supply curve of its own for a monopoly, since demand enters MR.
+Q4d Gourmets/Snoozers: with zero costs, separate 260 versus bundle 300
+per pair of customers; caveat on missing costs in section 9.4.
+Q5: cross-price elasticity, increasing returns, MRS, indifference curve,
+perfect substitutes; replacing a food subsidy with cash that allows
+the old bundle ->not worse off, usually better if the old optimum was
+interior and the tangencies differ; section 4.6.
+
+E2023 — S21, questions p.2–6
+Q1a cheap yeast: the absolute price does not measure market power;
+Lerner, MC, elasticity. Q1b vets: free entry under monopolistic
+competition vs barriers/strategic interaction in oligopoly;
+cost shock, LR profits 0 only under the symmetric model's free entry.
+Q1c pasta p25-Q,C5Q ->Q10,p15,pi100.
+Q1d Cournot T MC5,G MC9 ->BR_T10-qG/2,BR_G8-qT/2;
+qT8,qG4,Q12,p13; profits 64 and 16.
+
+Q2a network licences: spectrum with interference can be rival and
+non-excludable before allocation; open access can cause overexploitation.
+Do not confuse the commercial network with the spectrum it uses.
+Q2b Vickrey 80/100/92: player 2 wins, pays 92 million.
+Q2c fixed subscription pD10-2Q,C10+2Q: usage 0,Q5,F25,
+cost 20,pi5. With a two-part tariff, p2,Q4,F16,pi6, for comparison.
+Q2d unemployment: discount profitable if customers are more sensitive and resale limited;
+slow version: self-selection, can protect premium revenue;
+expensive smartphones: customers potentially with higher WTP, the discount does not
+automatically follow this logic. Argue it, do not apply every discount.
+
+Q3a tips: encourage quality observable by the customer, hidden from the boss.
+Q3b hotel reviews: reduce adverse selection and the chains' reputational advantage.
+Q3c hidden action H/L: moral hazard. Q3d b2 ->H, bank+4; b6 ->L, bank-8.
+Q3e own funds 10/repayment 15 ->H with b2 and b6, bank+2.
+
+Q4a oil price cap 60 versus 90, Russian QS fixed at 8 million ->Russian PS
+-240 million USD/day. Q4b same Russian quantity under these assumptions;
+no global shortage mechanically deduced; section 7.4.
+Q4c petrol MPB100-Q,MPC10+Q,MECQ ->Qpriv45,Qeff30.
+Q4d tax 20 ->Q35,p_b65,p_s45; DWL37.5, because the tax is insufficient.
+Q5: income elasticity, decreasing returns, MRTS, indifference curve,
+perfect complements; operations with doctors'/nurses' hours,
+doctors' wage rises ->substitution towards nurses, same output 100.
+
+E2024 — S22, questions p.1–5
+Q1a/b/c tunnel: public under assumptions; sum MB25-4Q,MC9 ->Q4;
+free rider. Discuss tolls/congestion if the question is about real classification.
+Q1d wine QD11-p_b/2,QS=-1.5+p_s, tax 1:
+11-(p_s+1)/2=-1.5+p_s ->p_s8,p_b9,Q6.5, revenue 6.5.
+Without tax: p25/3,Q41/6; check the slightly lower quantity with the tax.
+Q1e regional wine standards: collective certification reduces lemons,
+allows credible quality without a large individual brand.
+
+Q2a Novo: barriers sustain markups, size raises volume,
+less elastic demand raises the relative markup. Q2b patent: trade-off
+static efficiency/dynamic incentive to innovate.
+Q2c US p8-Q, Mexico p6-Q/2,MC0: USQ4,p4, profit 16;
+MexQ6,p3, profit 18; total 34. CS US 8, Mex 9.
+Q2d common: Q0 for p>=8; Q8-p for 6<=p<8; Q20-3p for p<6.
+Optimum p10/3,Q10, profit 100/3≈33.333; QUS14/3,QM16/3.
+Check the boundaries and the zone where only the US buys.
+Q2e segmentation: US price rises 10/3->4, CS falls 98/9->8;
+Mexican price falls 10/3->3, CS rises 64/9->9. Profit rises by 2/3,
+total CS falls by 1; total W falls by 1/3 with these numbers.
+
+Q3a/b textiles: Qpriv60,p140; Qeff40,MSB160,MPC120; DWL600.
+Q3c permits: equalise MACs to minimise the cost of a total cap.
+Q3d common owner of textile/spa: internalises the damage in joint
+profit, but may also have market power; distinguish this effect from the
+social benchmark of price-taking firms.
+
+Q4a Athens bread 4h/olives 2h, Sparta 5h/5h: absolute in bread Athens,
+comparative in bread Sparta (1 olive/bread versus 2).
+Q4b homogeneous Bertrand MC5/7/8: around 7, undercutting by the efficient rival,
+nuance on ties/continuous prices in section 10.6.
+Q4c/d differentiated Bertrand simultaneous then firm 2 leading: costs missing
+from the question; results under the zero-cost assumption in section 10.8.
+Q5: perfect complements, Engel curve, isoquant, diminishing MP_K,
+increasing returns; MC supply, SR shutdown below AVC and LR exit below ATC.
+
+E2025 — S23, questions p.1–6
+Q1a/b LN concerts: network effects, barriers, multihoming.
+Q1c noise: Coase, ill-defined rights and bargaining costs.
+Q1d capacity 2000 already filled by fans at 1200 ->a student discount at 500
+yields no additional profit; opportunity cost of seats.
+Q1e tickets/T-shirts: joint profit and results pc3040/7,pT1060/7,
+profit 1 961 600/7≈280 228.571, section 9.6.
+
+Q2a competitive tax cut, inelastic D/elastic S: p_b falls,
+p_s rises, Q rises; buyers receive a large share of the cut.
+Revenue: lower rate per unit versus higher volume; sign to be justified,
+not guaranteed just by the words "inelastic" and "elastic".
+Q2b tax 2, q_i10-2p_i+p_j,MC2: BR_i=(14+p_j)/4,
+p_i14/3,q_i16/3,pi_i128/9; total revenue 64/3.
+Q2c tax 1: BR_i=(12+p_j)/4,p_i4,q_i6,pi_i18; total revenue 12.
+Price falls by 2/3, less than the tax cut of 1; individual markup rises 8/3->3.
+Q2d homogeneous models: Bertrand/unlimited capacity pMC; Cournot positive
+markup; the same firm names are not enough to choose the model.
+
+Q3a North/South: PPF and advantages in section 14.1.
+Q3b steel pD1100-Q,pS100+Q,pw400, Q in THOUSANDS of tonnes:
+free trade QD700,QS300,M400; tariff 100 ->p500,QD600,QS400,M200.
+CS245 000->180 000; PS45 000->80 000; revenue 20 000;
+DWL10 000, all these areas in THOUSANDS of USD. So DWL=10 million USD.
+Two triangles of 5 million each; Delta CS=-65 million,
+Delta PS=+35 million, revenue 20 million ->net -10 million.
+Q3c agricultural exporting country, price received falls: landowners'
+income falls; mechanism of mobile labour and value of the marginal product.
+Q3d bicycles under monopolistic competition: differentiated products, downward-sloping
+firm demand, easy entry, individual strategic interaction ignored;
+negative shock ->losses/exits ->zero economic profit for the survivors
+in the symmetric model; Q per survivor depends on the model's form.
+
+Q4a/b/c public cleaning: Qeff3, non-excludability/non-rivalry, free rider.
+Q4d reverse Vickrey costs 20 000/24 000/28 000: A wins, paid 24 000.
+Q4e weather, uncertain common cost: discuss the winner's curse AND the information
+available, do not invent missing private signals; section 14.5.
+Q4f imperfect monitoring: F>=60 for weak IC, F>60 for quality strictly
+preferred; payment 110, costs 100/70, detection 0.5.
+Q5: normal good, constant returns, isocost, marginal utility,
+increasing economies of scale; isocost K10-0.5L, isoquant Q100,
+tangent optimum MP_L/MP_K=50/100, no numerical calculation of inputs possible.

@@ -1,0 +1,245 @@
+======================================================================
+16. TENTOR: FULLSTÄNDIG KARTA OCH REFERENSRESULTAT
+======================================================================
+
+Varje post kopplar sammanhanget till den metod som ska kännas igen. Siffrorna
+är omräkningar, inte anteckningar ur en officiell lösning. Värdena är
+kontinuerliga om inget annat anges; avrunda inte kvantiteter före slutet.
+
+E2020 — S18, frågor s.2–6
+Q1a Amazon/Klarna : adverse selection, rykte och information om
+kvalitet/returer; en känd mellanhand kan minska ryktesfördelen
+för en stor plattform som träder in på marknaden.
+Q1b ett enda världspris för ett spel: jämför segmentering och gemensamt pris;
+den känsligare gruppen kunde betala mindre vid segmentering, den andra mer;
+W tvetydigt, en marknad med låg WTP betjänas kanske inte vid gemensamt pris.
+Q1c gratisspel med reklam/köp: self-selection, tid/reklam mot
+betalning, olika WTP ; ingen observerbar typ behövs.
+Q1d musik, p20-Q,MC2,FC0 : MR20-2Q=2 ->Q9,p11,pi81.
+Q1e endast fast abonnemang: p_användning0 ->Q20,F200,kostnad40,pi160.
+Jämför med two-part tariff, efterfrågas inte: p_användning2,Q18,F162,pi162.
+Den fasta avgiften ökar extraktionen; p_användning0 leder till konsumtion utöver
+den effektiva 18. Svara inte 162 om uppgiften bara föreskriver en fast avgift.
+
+Q2a Esther data 1h/skrivande 2h, Abhijeet data 2h/skrivande 6h : Esther absolut i
+båda; kostnaden för skrivande är 2 analyser för Esther, 3 för Abhijeet ->
+Esther skriver, Abhijeet tar data enligt komparativ fördel.
+Q2b kollektiv fred MB200-x och 100-x,MC150 ->300-2x=150 ->x75,
+i segmentet där båda MB är positiva. Rita den vertikala summeringen.
+Q2c free rider : ett lands nytta beror inte på dess bidrag.
+Q2d UK exporterar kläder/importerar mat, specifika faktorer: matpriset
+sjunker ->marken förlorar, kapitalet kan vinna, produktionen flyttas
+mot kläder, möjlig högre konsumtion tack vare bättre bytes-
+förhållande. PPF, ny prislinje och indifferenskurva; avsnitt 14.3.
+
+Q3a vacciner: pD100-Q,pS10+Q ->Q45,p55.
+Q3b definition/exempel: vaccination minskar risken som förs vidare till andra.
+Uppgiften upprepar bokstaven b för nästa numeriska delfråga.
+Q3b numerisk: MEB20 ->MSB120-Q, samhälleligt 120-Q=10+Q ->Q55.
+Okorrigerad DWL 0.5*10*20=100.
+Q3c subvention 30 : 10+Q=100-Q+30 ->Q60,p_b40,p_s70.
+Subvention över optimum 20 ; överskott jämfört med Q55 ->
+DWL0.5*5*10=25. Använd MSB och MSC, inte bara det gamla Q45.
+
+Q4a homogen Cournot/Bertrand: Nash i kvantiteter ->positiv marginal;
+Nash i priser med samma MC/kapacitet ->pMC,Lerner0 ; förklara underprissättning.
+Q4b cement Opet MC0,Siren MC2,p10-qO-qS : qO4,qS2,p4,
+piO16,piS4. Reaktioner qO5-qS/2 ; qS4-qO/2.
+Q4c marknadsandelar: mer hos företaget med kostnad 0 sparar
+resurser; lika andelar är inget effektivitetsmål.
+Q4d bonus: resultat 95/260, bonus 0.95/3, samstämmigt val med de
+givna siffrorna; avsnitt 12.7.
+
+Q5 frivillig: inferior good, decreasing returns, MP_K, isoquant,
+perfect complements ; öl Q990-40p+20pd+30ps vid pris 10 ->Q1090.
+epsilon_own=-400/1090≈-0.367 ; epsilon_cross_ps=300/1090≈0.275.
+Yerba Mate C40+4q+q^2,p20 ->q8,pi24. Visa p=MC4+2q.
+
+E2021 — S19, frågor s.2–5
+Q1a elsammankoppling: initialt lägre svenskt pris ->utvidgad
+handel tenderar att höja det svenska priset, sänka det tyska; svensk CS sjunker,
+tysk CS ökar, svenska producenters PS ökar, under vanliga antaganden.
+Q1b grön forskning: icke-rivalitet och icke-exkluderbarhet, beroende på faktisk spridning.
+Q1c kol: kostnad som läggs på tredje part utan att ingå i den privata kostnaden.
+Q1d kvot eller skatt vid osäkerhet och branta skador: argumentet om
+skydd av kvantiteten, avsnitt 11.5 ; motivera med lutningar och diagram.
+
+Q2a bröd pD10-Q,pS2+Q ->Q4,p6.
+Q2b bröd gratis vid användning: p_b0 ->QD10,p_s12, subvention 12/enhet.
+CS50,PS50, offentliga utgifter 120,W=-20 ; Winitial16,DWL36.
+Det negativa W inkluderar produktionskostnaden som samhället faktiskt betalar.
+Q2c elasticitet: en stark reaktion i Q skapar fler ineffektiva enheter,
+vid jämförbar politik; ange vad som hålls konstant.
+Q2d Colosseum: skip-the-line=self-selection efter tidens värde; pensionärer=
+observerbara grupper; kombibiljett=bundling, jämför paketens WTP.
+
+Q3a maskin p56-2Q,C100+8Q ->MR56-4Q=8 ->Q12,p32,pi188.
+Q3b Cournot c8 för båda, FC100 för Lynn, 50 för Voytek :
+BR_i=12-qj/2 ; q_i8,Q16,p24 ; vinster 28 och 78.
+Q3c Lynn ledare: qL12,qV6,Q18,p20 ; vinster 44 och 22.
+Rita reaktionerna: utfallet på följarens BR ; jämför Q/pris med Cournot.
+
+Q4a kredit: dold handling och begränsat ansvar, moral hazard.
+Q4b private equity : information, övervakning, beslutsmakt.
+Q4c återbetalning 30 : ansträngning H 0.75*10=7.5 ; L 0.25*10+4=6.5,
+alltså H ; bank 0.75*30-20=2.5, lönsamt kontrakt i modellen.
+Q4d återbetalning 34 : H4.5 ; L1.5+4=5.5 ->L ; bank 8.5-20=-11.5.
+IC kräver återbetalning<=32 ; finansiering vid H kräver>=80/3≈26.667.
+Q4e drycker/snacks: Edgeworth, vinster och effektiva kanter i avsnitt 14.6.
+Q4f majs/vete, A 2h/4h, B 4h/6h : A absolut och komparativ fördel i majs
+(kostnad 0.5 vete mot 2/3). Specialisering och byte till ett mellanliggande pris.
+
+Q5 : increasing returns, perfect substitutes, unit elasticity, luxury good,
+MRTS ; isokvant/isokostnad för selar, sedan lönehöjning, kvantitet 1000
+given ->substitution mot maskiner och högre minimikostnad.
+
+E2022 — S20, frågor s.2–5
+Q1a freemiumspel utan interaktion: diskriminering genom self-selection.
+Q1b tillagd interaktion: nätverkseffekter kan motivera gratisnivå.
+Q1c minimipris 99 cent: begränsar underprissättningen i den homogena Bertrand-
+modellen, potentiellt marginaler över MC ; se upp med diskret pris.
+Q1d plattform för sportutrustning: två sidor, förtroende, matchning,
+korsvisa effekter, uppstart; avsnitt 14.4.
+Q1e härled Lerner från pi=p(Q)Q-C(Q), rabbla inte bara formeln.
+
+Q2a/b/c offentligt wifi: icke-rivaliserande/icke-exkluderbart i modellen; 300(10-Q)
+=1500 ->Q5 ; frivilliga bidrag otillräckliga på grund av free riding.
+Q2d vete Indonesien: pw30,QD50,QS10, import 40.
+Q2e tull 10 : p40,QD40,QS20, import 20 ; Delta CS=-450,
+Delta PS=+150, intäkter 200,DWL100. Två trianglar, inte hela CS-förlusten.
+
+Q3a monopol: överföringar plus förlorade bytesvinster.
+Q3b pumpar p26-2Q,C2Q, skatt 4 : MR26-4Q=6 ->Q5,p_b16,
+p_s12, vinst 50, intäkter 20. Samhälleligt optimum UTAN snedvridningar: Q12,MC2.
+TOTAL SAMHÄLLELIG DWL =0.5*(12-5)*(16-2)=49.
+Behandla inte skatten 4 som en verklig produktionskostnad i välfärden.
+Utan skatt monopol Q6,p14,DWL36 ; med skatt ytterligare förlust 13.
+Triangeln 25 mellan efterfrågan och MC+skatt mäter inte hela den
+samhälleliga förlusten, eftersom skatteintäkten är en överföring.
+Q3c skattskyldighet hos köpare/säljare: samma kil och samma kvantitet.
+Q3d utan skatt Cournot : q1=q2=4,Q8,p10,pi_i32.
+Q3e skatt 4 på båda: båda reaktionerna förskjuts mot origo;
+numeriskt komplement som inte efterfrågas: q_i10/3,Q20/3,p38/3.
+
+Q4a/b snickare: fast pris/timpris, kvalitet, tidsåtgång, alternativkostnad,
+avsnitt 12.6 ; inget kontrakt löser alla problem samtidigt.
+Q4c monopolet har ingen egen utbudskurva, eftersom efterfrågan ingår i MR.
+Q4d Gourmets/Snoozers : med nollkostnader separat 260 mot paket 300
+per kundpar; förbehåll om saknade kostnader i avsnitt 9.4.
+Q5 : cross-price elasticity, increasing returns, MRS, indifference curve,
+perfect substitutes ; att ersätta en matsubvention med kontanter som tillåter
+den gamla korgen ->inte sämre, oftast bättre om det gamla optimumet var
+inre och tangeringarna skiljer sig; avsnitt 4.6.
+
+E2023 — S21, frågor s.2–6
+Q1a billig jäst: det absoluta priset mäter inte marknadsmakt;
+Lerner, MC, elasticitet. Q1b veterinärer: fritt inträde vid monopolistisk
+konkurrens vs hinder/strategisk interaktion i oligopol;
+kostnadschock, LR-vinster 0 endast vid den symmetriska modellens fria inträde.
+Q1c pasta p25-Q,C5Q ->Q10,p15,pi100.
+Q1d Cournot T MC5,G MC9 ->BR_T10-qG/2,BR_G8-qT/2 ;
+qT8,qG4,Q12,p13 ; vinster 64 och 16.
+
+Q2a nätlicenser: spektrum med störningar kan vara rivaliserande och
+icke-exkluderbart före tilldelning; fritt tillträde kan orsaka överutnyttjande.
+Blanda inte ihop det kommersiella nätet med det spektrum det använder.
+Q2b Vickrey 80/100/92 : spelare 2 vinner, betalar 92 miljoner.
+Q2c fast abonnemang pD10-2Q,C10+2Q : användning 0,Q5,F25,
+kostnad 20,pi5. Med two-part tariff p2,Q4,F16,pi6, som jämförelse.
+Q2d arbetslöshet: rabatt lönsam om kunderna är känsligare och vidareförsäljning begränsad;
+långsam version: självselektion, kan skydda premiumintäkterna;
+dyra smartphones: kunder med potentiellt högre WTP, rabatten följer inte
+automatiskt denna logik. Argumentera, tillämpa inte vilken rabatt som helst.
+
+Q3a dricks: uppmuntra kvalitet som kunden ser men chefen inte ser.
+Q3b hotellomdömen: minskar negativt urval och kedjornas ryktesfördel.
+Q3c dold handling H/L : moral hazard. Q3d b2 ->H, bank+4 ; b6 ->L, bank-8.
+Q3e insats 10/återbetalning 15 ->H med b2 och b6, bank+2.
+
+Q4a pristak på olja 60 i stället för 90, ryskt QS fast på 8 miljoner ->ryskt PS
+-240 miljoner USD/dag. Q4b samma ryska kvantitet under dessa antaganden;
+ingen global brist kan härledas mekaniskt; avsnitt 7.4.
+Q4c bensin MPB100-Q,MPC10+Q,MECQ ->Qpriv45,Qeff30.
+Q4d skatt 20 ->Q35,p_b65,p_s45 ; DWL37.5, eftersom skatten är otillräcklig.
+Q5 : income elasticity, decreasing returns, MRTS, indifference curve,
+perfect complements ; operationer med läkar-/sjukskötersktimmar,
+läkarlönen stiger ->substitution mot sjuksköterskor, samma produktion 100.
+
+E2024 — S22, frågor s.1–5
+Q1a/b/c tunnel: kollektiv under antaganden; summa MB25-4Q,MC9 ->Q4 ;
+free rider. Diskutera vägtull/trängsel om frågan gäller den verkliga klassificeringen.
+Q1d vin QD11-p_b/2,QS=-1.5+p_s, skatt 1 :
+11-(p_s+1)/2=-1.5+p_s ->p_s8,p_b9,Q6.5, intäkt 6.5.
+Utan skatt: p25/3,Q41/6 ; kontrollera den något lägre kvantiteten med skatt.
+Q1e regionala vinstandarder: kollektiv certifiering minskar lemons,
+möjliggör trovärdig kvalitet utan ett stort enskilt varumärke.
+
+Q2a Novo : hinder upprätthåller marginaler, storlek ökar volymen,
+mindre elastisk efterfrågan höjer den relativa marginalen. Q2b patent: avvägning
+statisk effektivitet/dynamiskt innovationsincitament.
+Q2c USA p8-Q, Mexiko p6-Q/2,MC0 : USQ4,p4, vinst 16 ;
+MexQ6,p3, vinst 18 ; totalt 34. CS USA 8, Mexiko 9.
+Q2d gemensamt pris: Q0 för p>=8 ; Q8-p för 6<=p<8 ; Q20-3p för p<6.
+Optimum p10/3,Q10, vinst 100/3≈33.333 ; QUS14/3,QM16/3.
+Kontrollera gränserna och zonen där bara USA köper.
+Q2e segmentering: priset i USA stiger 10/3->4, CS sjunker 98/9->8 ;
+priset i Mexiko sjunker 10/3->3, CS stiger 64/9->9. Vinsten ökar med 2/3,
+total CS sjunker med 1 ; total W sjunker med 1/3 med dessa siffror.
+
+Q3a/b textil: Qpriv60,p140 ; Qeff40,MSB160,MPC120 ; DWL600.
+Q3c utsläppsrätter: utjämna MAC för att minimera kostnaden för ett totalt tak.
+Q3d gemensam ägare av textil/spa: internaliserar skadan i den gemensamma
+vinsten, men kan också ha marknadsmakt; skilj denna effekt från det
+samhälleliga riktmärket med pristagande företag.
+
+Q4a Aten bröd 4h/oliver 2h, Sparta 5h/5h : absolut i bröd Aten,
+komparativ i bröd Sparta (1 oliv/bröd mot 2).
+Q4b homogen Bertrand MC5/7/8 : kring 7, underprissättning från den effektiva rivalen,
+nyans om lika pris/kontinuerliga priser i avsnitt 10.6.
+Q4c/d differentierad Bertrand samtidigt, sedan företag 2 som ledare: kostnader saknas
+i uppgiften; resultat under antagandet om nollkostnader i avsnitt 10.8.
+Q5 : perfect complements, Engel curve, isoquant, diminishing MP_K,
+increasing returns ; utbud MC, nedstängning SR under AVC och utträde LR under ATC.
+
+E2025 — S23, frågor s.1–6
+Q1a/b LN konserter: nätverkseffekter, hinder, multihoming.
+Q1c buller: Coase, oklara rättigheter och förhandlingskostnader.
+Q1d kapacitet 2000 redan fylld av fans à 1200 ->en studentrabatt à 500
+ger ingen ytterligare vinst; platsernas alternativkostnad.
+Q1e biljetter/t-shirts: gemensam vinst och resultat pc3040/7,pT1060/7,
+vinst 1 961 600/7≈280 228.571, avsnitt 9.6.
+
+Q2a skattesänkning vid konkurrens, D oelastisk/S elastiskt: p_b sjunker,
+p_s stiger, Q ökar; köparna får en stor del av sänkningen.
+Intäkter: lägre sats per enhet mot högre volym; tecknet måste motiveras,
+det garanteras inte bara av orden « oelastisk » och « elastiskt ».
+Q2b skatt 2, q_i10-2p_i+p_j,MC2 : BR_i=(14+p_j)/4,
+p_i14/3,q_i16/3,pi_i128/9 ; total intäkt 64/3.
+Q2c skatt 1 : BR_i=(12+p_j)/4,p_i4,q_i6,pi_i18 ; total intäkt 12.
+Priset sjunker med 2/3, mindre än skattesänkningen 1 ; individuell marginal stiger 8/3->3.
+Q2d homogena modeller: Bertrand/obegränsad kapacitet pMC ; Cournot positiv
+marginal; samma företagsnamn räcker inte för att välja modell.
+
+Q3a North/South : PPF och fördelar i avsnitt 14.1.
+Q3b stål pD1100-Q,pS100+Q,pw400, Q i TUSENTALS ton:
+frihandel QD700,QS300,M400 ; tull 100 ->p500,QD600,QS400,M200.
+CS245 000->180 000 ; PS45 000->80 000 ; intäkter 20 000 ;
+DWL10 000, alla dessa ytor i TUSENTALS USD. Alltså DWL=10 miljoner USD.
+Två trianglar på 5 miljoner vardera; Delta CS=-65 miljoner,
+Delta PS=+35 miljoner, intäkter 20 miljoner ->netto -10 miljoner.
+Q3c jordbruksexporterande land, erhållet pris sjunker: markägarnas
+inkomst sjunker; mekanism med rörlig arbetskraft och marginalproduktens värde.
+Q3d cyklar vid monopolistisk konkurrens: differentierade produkter, fallande
+efterfrågan per företag, lätt inträde, individuell strategisk interaktion försummas;
+negativ chock ->förluster/utträden ->noll ekonomisk vinst för de överlevande
+i den symmetriska modellen; Q per överlevande beror på modellens form.
+
+Q4a/b/c offentlig städning: Qeff3, icke-exkluderbarhet/icke-rivalitet, free rider.
+Q4d omvänd Vickrey kostnader 20 000/24 000/28 000 : A vinner, får 24 000.
+Q4e väder, osäker gemensam kostnad: diskutera winner's curse OCH tillgänglig
+information, hitta inte på saknade privata signaler; avsnitt 14.5.
+Q4f ofullständig kontroll: F>=60 för svagt IC, F>60 för strikt
+föredragen kvalitet; betalning 110, kostnader 100/70, upptäckt 0.5.
+Q5 : normal good, constant returns, isocost, marginal utility,
+increasing economies of scale ; isokostnad K10-0.5L, isokvant Q100,
+tangeringsoptimum MP_L/MP_K=50/100, ingen numerisk beräkning av insatser möjlig.

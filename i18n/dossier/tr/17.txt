@@ -86,7 +86,7 @@ p>=30 ise Q(p)=0 ; 20<=p<30 ise Q=(30-p)/2 ;
 Ortak segmentte: pi=(p-5)(35-1.5p), FOC 42.5-3p=0.
 p=85/6≈14.1667 ; QA35/6≈5.8333 ; QB95/12≈7.9167 ;
 Qtotal13.75 ; kâr 3025/24≈126.0417.
-17.5 fiyatındaki « yalnızca B » tekel adayı p>=20 segmentine
+Fiyat 17.5'teki « yalnızca B » tekel adayı p>=20 segmentine
 ait değildir; sınırlarını kontrol et, bu ortak adayı geçemez.
 Ortak fiyatta: CSA≈17.0139,CSB≈62.6736,PSA≈53.4722,PSB≈72.5694.
 Segmentasyon eksi ortak fiyat:

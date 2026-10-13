@@ -1,0 +1,245 @@
+======================================================================
+16. ESAMI: MAPPA COMPLETA E RISULTATI DI RIFERIMENTO
+======================================================================
+
+Ogni voce collega il contesto al metodo da riconoscere. Le cifre
+sono ricalcoli, non note di una correzione ufficiale. I valori sono
+continui salvo indicazione; non arrotondare le quantità prima della fine.
+
+E2020 — S18, domande p.2–6
+Q1a Amazon/Klarna : adverse selection, reputazione e informazione su
+qualità/resi; un intermediario noto può ridurre il vantaggio reputazionale
+di una grande piattaforma che entra nel mercato.
+Q1b prezzo mondiale unico di un gioco: confrontare segmentazione e prezzo comune;
+il gruppo più sensibile potrebbe pagare meno con la segmentazione, l'altro di più;
+W ambiguo, possibilità che un mercato a bassa WTP non sia servito al prezzo comune.
+Q1c gioco gratuito con pubblicità/acquisti: self-selection, tempo/pubblicità contro
+pagamento, WTP diverse; non serve un tipo osservabile.
+Q1d musica, p20-Q,MC2,FC0 : MR20-2Q=2 ->Q9,p11,pi81.
+Q1e solo abbonamento fisso: p_uso0 ->Q20,F200,costo40,pi160.
+Confrontare con two-part tariff, non richiesto: p_uso2,Q18,F162,pi162.
+Il forfait aumenta l'estrazione; p_uso0 porta a un consumo oltre
+l'efficiente 18. Non rispondere 162 se il testo impone solo un canone fisso.
+
+Q2a Esther dati 1h/scrittura 2h, Abhijeet dati 2h/scrittura 6h : Esther assoluto in
+entrambi; costo della scrittura 2 analisi per Esther, 3 per Abhijeet ->
+Esther scrittura, Abhijeet dati secondo il vantaggio comparato.
+Q2b pace pubblica MB200-x e 100-x,MC150 ->300-2x=150 ->x75,
+nel segmento in cui entrambe le MB sono positive. Disegnare la somma verticale.
+Q2c free rider : il beneficio di un paese non dipende dal suo contributo.
+Q2d UK esporta vestiti/importa cibo, fattori specifici: il prezzo
+del cibo cala ->la terra perde, il capitale può guadagnare, la produzione si sposta
+verso i vestiti, possibile consumo maggiore grazie a migliori ragioni
+di scambio. PPF, nuova retta dei prezzi e indifferenza; sezione 14.3.
+
+Q3a vaccini: pD100-Q,pS10+Q ->Q45,p55.
+Q3b definizione/esempio: la vaccinazione riduce il rischio trasmesso agli altri.
+Il testo ripete la lettera b per la successiva sotto-domanda numerica.
+Q3b numerica: MEB20 ->MSB120-Q, sociale 120-Q=10+Q ->Q55.
+DWL non corretta 0.5*10*20=100.
+Q3c sussidio 30 : 10+Q=100-Q+30 ->Q60,p_b40,p_s70.
+Sussidio superiore all'ottimo 20 ; eccesso rispetto a Q55 ->
+DWL0.5*5*10=25. Usare MSB e MSC, non solo il vecchio Q45.
+
+Q4a Cournot/Bertrand omogenei: Nash in quantità ->margine positivo;
+Nash in prezzi con stessi MC/capacità ->pMC,Lerner0 ; spiegare il ribasso.
+Q4b cemento Opet MC0,Siren MC2,p10-qO-qS : qO4,qS2,p4,
+piO16,piS4. Reazioni qO5-qS/2 ; qS4-qO/2.
+Q4c quote di mercato: di più presso l'impresa a costo 0 fa risparmiare
+risorse; quote uguali non sono un obiettivo di efficienza.
+Q4d bonus: risultati 95/260, bonus 0.95/3, scelta allineata con i
+numeri dati; sezione 12.7.
+
+Q5 facoltativa: inferior good, decreasing returns, MP_K, isoquant,
+perfect complements ; birra Q990-40p+20pd+30ps a prezzo 10 ->Q1090.
+epsilon_own=-400/1090≈-0.367 ; epsilon_cross_ps=300/1090≈0.275.
+Yerba Mate C40+4q+q^2,p20 ->q8,pi24. Mostrare p=MC4+2q.
+
+E2021 — S19, domande p.2–5
+Q1a interconnessione elettrica: prezzo svedese iniziale inferiore ->commercio
+allargato tende ad alzare il prezzo svedese, abbassare quello tedesco; CS Svezia cala,
+CS Germania aumenta, PS dei produttori svedesi aumenta, ipotesi usuali.
+Q1b ricerca verde: non rivalità e non escludibilità, secondo la diffusione reale.
+Q1c carbone: costo imposto a terzi non incorporato nel costo privato.
+Q1d quota o imposta con incertezza e danni ripidi: argomento della
+protezione della quantità, sezione 11.5 ; motivare con pendenze e grafico.
+
+Q2a pane pD10-Q,pS2+Q ->Q4,p6.
+Q2b pane gratuito all'uso: p_b0 ->QD10,p_s12, sussidio 12/unità.
+CS50,PS50, spesa pubblica 120,W=-20 ; Winitial16,DWL36.
+Il W negativo include il costo di produzione realmente pagato dalla collettività.
+Q2c elasticità: una forte risposta di Q crea più unità inefficienti,
+a parità di politica; precisare cosa resta costante.
+Q2d Colosseo: skip-the-line=self-selection per valore del tempo; pensionati=
+gruppi osservabili; biglietto combinato=bundling, confrontare le WTP dei pacchetti.
+
+Q3a macchina p56-2Q,C100+8Q ->MR56-4Q=8 ->Q12,p32,pi188.
+Q3b Cournot c8 per entrambi, FC100 per Lynn, 50 per Voytek :
+BR_i=12-qj/2 ; q_i8,Q16,p24 ; profitti 28 e 78.
+Q3c Lynn leader: qL12,qV6,Q18,p20 ; profitti 44 e 22.
+Disegnare le reazioni: esito sulla BR del follower; confrontare Q/prezzo con Cournot.
+
+Q4a credito: azione nascosta e responsabilità limitata, moral hazard.
+Q4b private equity : informazione, sorveglianza, potere decisionale.
+Q4c rimborso 30 : sforzo H 0.75*10=7.5 ; L 0.25*10+4=6.5,
+quindi H ; banca 0.75*30-20=2.5, contratto redditizio nel modello.
+Q4d rimborso 34 : H4.5 ; L1.5+4=5.5 ->L ; banca 8.5-20=-11.5.
+IC impone rimborso<=32 ; il finanziamento con H richiede>=80/3≈26.667.
+Q4e bevande/snack: Edgeworth, guadagni e bordi efficienti nella sezione 14.6.
+Q4f mais/grano, A 2h/4h, B 4h/6h : A assoluto nel mais e comparato nel mais
+(costo 0.5 grano contro 2/3). Specializzazione e scambio a prezzo intermedio.
+
+Q5 : increasing returns, perfect substitutes, unit elasticity, luxury good,
+MRTS ; isoquanto/isocosto imbracature poi aumento dei salari, quantità 1000
+imposta ->sostituzione verso macchine e costo minimo più alto.
+
+E2022 — S20, domande p.2–5
+Q1a gioco freemium senza interazione: discriminazione per self-selection.
+Q1b aggiunta di interazioni: gli effetti di rete possono motivare la gratuità.
+Q1c prezzo minimo 99 centesimi: limita il ribasso del modello di Bertrand
+omogeneo, potenzialmente margini sopra MC ; attenzione al prezzo discreto.
+Q1d piattaforma attrezzatura sportiva: due lati, fiducia, abbinamento,
+effetti incrociati, avvio; sezione 14.4.
+Q1e derivare Lerner da pi=p(Q)Q-C(Q), non solo recitare la formula.
+
+Q2a/b/c wifi pubblico: non rivale/non escludibile nel modello; 300(10-Q)
+=1500 ->Q5 ; contributi volontari insufficienti per free riding.
+Q2d grano Indonesia: pw30,QD50,QS10, importazioni 40.
+Q2e dazio 10 : p40,QD40,QS20, importazioni 20 ; Delta CS=-450,
+Delta PS=+150, gettito 200,DWL100. Due triangoli, non tutta la perdita di CS.
+
+Q3a monopolio: trasferimenti più guadagni dallo scambio perduti.
+Q3b pompe p26-2Q,C2Q, imposta 4 : MR26-4Q=6 ->Q5,p_b16,
+p_s12, profitto 50, gettito 20. Ottimo sociale SENZA distorsioni: Q12,MC2.
+DWL SOCIALE TOTALE =0.5*(12-5)*(16-2)=49.
+Non trattare l'imposta di 4 come costo reale di produzione nel welfare.
+Senza imposta, monopolio Q6,p14,DWL36 ; con imposta, perdita aggiuntiva 13.
+Il triangolo 25 tra domanda e MC+imposta non misura tutta la
+perdita sociale, perché il gettito è un trasferimento.
+Q3c imposta a carico di acquirente/venditore: stesso cuneo e stessa quantità.
+Q3d senza imposta Cournot : q1=q2=4,Q8,p10,pi_i32.
+Q3e imposta 4 su entrambe: entrambe le reazioni si spostano verso l'origine;
+complemento numerico non richiesto: q_i10/3,Q20/3,p38/3.
+
+Q4a/b falegname: forfait/ora, qualità, durata, costo opportunità,
+sezione 12.6 ; nessun contratto risolve tutti i problemi contemporaneamente.
+Q4c nessuna curva d'offerta propria del monopolio, perché la domanda entra in MR.
+Q4d Gourmets/Snoozers : con costi nulli, separato 260 contro pacchetto 300
+per coppia di clienti; riserva sui costi assenti nella sezione 9.4.
+Q5 : cross-price elasticity, increasing returns, MRS, indifference curve,
+perfect substitutes ; sostituire un sussidio alimentare con denaro che permette
+il vecchio paniere ->non peggio, in genere meglio se il vecchio ottimo era
+interno e le tangenze differiscono; sezione 4.6.
+
+E2023 — S21, domande p.2–6
+Q1a lievito economico: il prezzo assoluto non misura il potere di mercato;
+Lerner, MC, elasticità. Q1b veterinari: libera entrata in concorrenza
+monopolistica vs barriere/interazione strategica in oligopolio;
+shock di costo, profitti LR0 solo con la libera entrata del modello simmetrico.
+Q1c pasta p25-Q,C5Q ->Q10,p15,pi100.
+Q1d Cournot T MC5,G MC9 ->BR_T10-qG/2,BR_G8-qT/2 ;
+qT8,qG4,Q12,p13 ; profitti 64 e 16.
+
+Q2a licenze di rete: lo spettro con interferenze può essere rivale e
+non escludibile prima dell'assegnazione; l'accesso libero può causare sovrasfruttamento.
+Non confondere la rete commerciale con lo spettro che essa usa.
+Q2b Vickrey 80/100/92 : il giocatore 2 vince, paga 92 milioni.
+Q2c abbonamento fisso pD10-2Q,C10+2Q : uso 0,Q5,F25,
+costo 20,pi5. Con two-part tariff, p2,Q4,F16,pi6, a titolo di confronto.
+Q2d disoccupazione: sconto redditizio se la clientela è più sensibile e la rivendita limitata;
+versione lenta: autoselezione, può proteggere i ricavi del premium;
+smartphone costosi: clienti con WTP potenzialmente più alta, lo sconto non segue
+automaticamente questa logica. Argomentare, non applicare qualunque sconto.
+
+Q3a mance: incentivare la qualità osservabile dal cliente, nascosta al capo.
+Q3b recensioni degli hotel: riducono la selezione avversa e il vantaggio reputazionale delle catene.
+Q3c azione H/L nascosta: moral hazard. Q3d b2 ->H, banca+4 ; b6 ->L, banca-8.
+Q3e apporto 10/rimborso 15 ->H con b2 e b6, banca+2.
+
+Q4a tetto al prezzo del petrolio 60 contro 90, QS russo fisso a 8 milioni ->PS russo
+-240 milioni USD/giorno. Q4b stessa quantità russa sotto queste ipotesi;
+nessuna penuria mondiale dedotta meccanicamente; sezione 7.4.
+Q4c benzina MPB100-Q,MPC10+Q,MECQ ->Qpriv45,Qeff30.
+Q4d imposta 20 ->Q35,p_b65,p_s45 ; DWL37.5, perché l'imposta è insufficiente.
+Q5 : income elasticity, decreasing returns, MRTS, indifference curve,
+perfect complements ; operazioni con ore di medici/infermieri,
+aumento del salario dei medici ->sostituzione verso infermieri, stessa produzione 100.
+
+E2024 — S22, domande p.1–5
+Q1a/b/c tunnel: pubblico sotto ipotesi; somma MB25-4Q,MC9 ->Q4 ;
+free rider. Discutere pedaggio/congestione se la domanda riguarda la classificazione reale.
+Q1d vino QD11-p_b/2,QS=-1.5+p_s, imposta 1 :
+11-(p_s+1)/2=-1.5+p_s ->p_s8,p_b9,Q6.5, gettito 6.5.
+Senza imposta: p25/3,Q41/6 ; verificare la quantità leggermente più bassa con l'imposta.
+Q1e norme regionali del vino: la certificazione collettiva riduce i lemons,
+permette una qualità credibile senza un grande marchio individuale.
+
+Q2a Novo : le barriere mantengono i margini, la dimensione aumenta il volume,
+una domanda meno elastica accresce il margine relativo. Q2b brevetto: arbitraggio
+efficienza statica/incentivo dinamico all'innovazione.
+Q2c USA p8-Q, Messico p6-Q/2,MC0 : USQ4,p4, profitto 16 ;
+MexQ6,p3, profitto 18 ; totale 34. CS USA 8, Mex 9.
+Q2d comune: Q0 per p>=8 ; Q8-p per 6<=p<8 ; Q20-3p per p<6.
+Ottimo p10/3,Q10, profitto 100/3≈33.333 ; QUS14/3,QM16/3.
+Verificare le frontiere e la zona in cui comprano solo gli USA.
+Q2e segmentazione: il prezzo USA sale 10/3->4, CS scende 98/9->8 ;
+il prezzo in Messico scende 10/3->3, CS sale 64/9->9. Il profitto aumenta di 2/3,
+CS totale cala di 1 ; W totale cala di 1/3 con questi numeri.
+
+Q3a/b tessile: Qpriv60,p140 ; Qeff40,MSB160,MPC120 ; DWL600.
+Q3c permessi: eguagliare i MAC per minimizzare il costo di un tetto totale.
+Q3d proprietario comune tessile/spa: internalizza il danno nel profitto
+congiunto, ma può anche avere potere di mercato; effetto da distinguere dal
+benchmark sociale di imprese price taker.
+
+Q4a Atene pane 4h/olive 2h, Sparta 5h/5h : assoluto nel pane Atene,
+comparato nel pane Sparta (1 oliva/pane contro 2).
+Q4b Bertrand omogeneo MC5/7/8 : intorno a 7, ribasso del rivale efficiente,
+sfumatura su parità/prezzi continui nella sezione 10.6.
+Q4c/d Bertrand differenziato simultaneo poi impresa 2 leader: costi assenti
+dal testo; risultati con l'ipotesi di costi nulli nella sezione 10.8.
+Q5 : perfect complements, Engel curve, isoquant, diminishing MP_K,
+increasing returns ; offerta MC, chiusura SR sotto AVC e uscita LR sotto ATC.
+
+E2025 — S23, domande p.1–6
+Q1a/b LN concerti: effetti di rete, barriere, multihoming.
+Q1c rumore: Coase, diritti mal definiti e costi di negoziazione.
+Q1d capacità 2000 già riempita da fan a 1200 ->lo sconto studenti a 500
+non permette profitto aggiuntivo; costo opportunità dei posti.
+Q1e biglietti/T-shirt: profitto congiunto e risultati pc3040/7,pT1060/7,
+profitto 1 961 600/7≈280 228.571, sezione 9.6.
+
+Q2a riduzione d'imposta in concorrenza, D anelastica/S elastica: p_b cala,
+p_s sale, Q aumenta; gli acquirenti ricevono gran parte della riduzione.
+Gettito: aliquota per unità più bassa contro volume più alto; segno da motivare,
+non garantito solo dalle parole « anelastica » ed « elastica ».
+Q2b imposta 2, q_i10-2p_i+p_j,MC2 : BR_i=(14+p_j)/4,
+p_i14/3,q_i16/3,pi_i128/9 ; gettito totale 64/3.
+Q2c imposta 1 : BR_i=(12+p_j)/4,p_i4,q_i6,pi_i18 ; gettito totale 12.
+Il prezzo cala di 2/3, meno della riduzione d'imposta di 1 ; il margine individuale sale 8/3->3.
+Q2d modelli omogenei: Bertrand/capacità illimitata pMC ; Cournot margine
+positivo; gli stessi nomi di imprese non bastano a scegliere il modello.
+
+Q3a North/South : PPF e vantaggi nella sezione 14.1.
+Q3b acciaio pD1100-Q,pS100+Q,pw400, Q in MIGLIAIA di tonnellate:
+libero scambio QD700,QS300,M400 ; dazio 100 ->p500,QD600,QS400,M200.
+CS245 000->180 000 ; PS45 000->80 000 ; gettito 20 000 ;
+DWL10 000, tutte queste aree in MIGLIAIA di USD. Quindi DWL=10 milioni USD.
+Due triangoli da 5 milioni ciascuno; Delta CS=-65 milioni,
+Delta PS=+35 milioni, gettito 20 milioni ->netto -10 milioni.
+Q3c paese esportatore agricolo, il prezzo ricevuto cala: il reddito dei proprietari
+terrieri cala; meccanismo del lavoro mobile e valore del prodotto marginale.
+Q3d biciclette in concorrenza monopolistica: prodotti differenziati, domanda
+dell'impresa decrescente, entrata facile, interazione strategica individuale trascurata;
+shock negativo ->perdite/uscite ->profitto economico nullo per le superstiti
+nel modello simmetrico; Q per superstite dipende dalla forma del modello.
+
+Q4a/b/c pulizia pubblica: Qeff3, non escludibilità/non rivalità, free rider.
+Q4d Vickrey inverso costi 20 000/24 000/28 000 : A vince, pagato 24 000.
+Q4e meteo, costo comune incerto: discutere la winner's curse E le informazioni
+disponibili, non inventare segnali privati assenti; sezione 14.5.
+Q4f controllo imperfetto: F>=60 per IC debole, F>60 per qualità strettamente
+preferita; pagamento 110, costi 100/70, scoperta 0.5.
+Q5 : normal good, constant returns, isocost, marginal utility,
+increasing economies of scale ; isocosto K10-0.5L, isoquanto Q100,
+ottimo tangente MP_L/MP_K=50/100, nessun calcolo numerico degli input possibile.

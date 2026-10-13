@@ -1,0 +1,245 @@
+======================================================================
+16. SINAVLAR: EKSİKSİZ HARİTA VE REFERANS SONUÇLAR
+======================================================================
+
+Her kayıt bağlamı tanınması gereken yönteme bağlar. Rakamlar
+yeniden hesaplamadır, resmi çözüm notları değildir. Aksi belirtilmedikçe
+değerler süreklidir; miktarları sondan önce yuvarlama.
+
+E2020 — S18, sorular s.2–6
+Q1a Amazon/Klarna : adverse selection, itibar ve kalite/iadeler hakkında
+bilgi; bilinen bir aracı, piyasaya giren büyük bir platformun itibar
+üstünlüğünü azaltabilir.
+Q1b bir oyun için tek dünya fiyatı: segmentasyon ile ortak fiyatı karşılaştır;
+daha duyarlı grup segmentasyonda daha az ödeyebilir, diğeri daha fazla;
+W belirsiz, düşük WTP'li bir piyasaya ortak fiyatta hizmet verilmeyebilir.
+Q1c reklamlı/satın alımlı ücretsiz oyun: self-selection, zaman/reklam karşısında
+ödeme, farklı WTP'ler ; gözlemlenebilir tip gerekmez.
+Q1d müzik, p20-Q,MC2,FC0 : MR20-2Q=2 ->Q9,p11,pi81.
+Q1e yalnızca sabit abonelik: p_kullanım0 ->Q20,F200,maliyet40,pi160.
+two-part tariff ile karşılaştır, sorulmadı: p_kullanım2,Q18,F162,pi162.
+Götürü ücret rant çekmeyi artırır; p_kullanım0 etkin 18'in ötesinde
+tüketime yol açar. Soru yalnızca sabit ücret dayatıyorsa 162 yanıtını verme.
+
+Q2a Esther veri 1h/yazım 2h, Abhijeet veri 2h/yazım 6h : Esther ikisinde de
+mutlak üstün; yazımın maliyeti Esther için 2 analiz, Abhijeet için 3 ->
+karşılaştırmalı üstünlüğe göre Esther yazar, Abhijeet veriyle çalışır.
+Q2b kamusal barış MB200-x ve 100-x,MC150 ->300-2x=150 ->x75,
+iki MB'nin de pozitif olduğu segmentte. Dikey toplamayı çiz.
+Q2c free rider : bir ülkenin faydası katkısına bağlı değildir.
+Q2d UK giysi ihraç eder/gıda ithal eder, özgül faktörler: gıda
+fiyatı düşer ->toprak kaybeder, sermaye kazanabilir, üretim
+giyime kayar, daha iyi dış ticaret hadleri sayesinde tüketim
+artabilir. PPF, yeni fiyat doğrusu ve kayıtsızlık eğrisi; bölüm 14.3.
+
+Q3a aşılar: pD100-Q,pS10+Q ->Q45,p55.
+Q3b tanım/örnek: aşılama başkalarına geçen riski azaltır.
+Soru metni sonraki sayısal alt soru için b harfini tekrarlar.
+Q3b sayısal: MEB20 ->MSB120-Q, sosyal 120-Q=10+Q ->Q55.
+Düzeltilmemiş DWL 0.5*10*20=100.
+Q3c sübvansiyon 30 : 10+Q=100-Q+30 ->Q60,p_b40,p_s70.
+Sübvansiyon optimum 20'nin üstünde; Q55'e göre fazlalık ->
+DWL0.5*5*10=25. Yalnızca eski Q45'i değil, MSB ve MSC'yi kullan.
+
+Q4a homojen Cournot/Bertrand: miktarlarda Nash ->pozitif marj;
+aynı MC/kapasiteyle fiyatlarda Nash ->pMC,Lerner0 ; fiyat kırmayı açıkla.
+Q4b çimento Opet MC0,Siren MC2,p10-qO-qS : qO4,qS2,p4,
+piO16,piS4. Tepkiler qO5-qS/2 ; qS4-qO/2.
+Q4c pazar payları: maliyeti 0 olan firmada daha fazla üretim kaynak
+tasarrufu sağlar; payların eşitliği bir etkinlik hedefi değildir.
+Q4d prim: sonuçlar 95/260, prim 0.95/3, verilen sayılarla seçim
+uyumlu; bölüm 12.7.
+
+Q5 isteğe bağlı: inferior good, decreasing returns, MP_K, isoquant,
+perfect complements ; bira Q990-40p+20pd+30ps fiyat 10'da ->Q1090.
+epsilon_own=-400/1090≈-0.367 ; epsilon_cross_ps=300/1090≈0.275.
+Yerba Mate C40+4q+q^2,p20 ->q8,pi24. p=MC4+2q olduğunu göster.
+
+E2021 — S19, sorular s.2–5
+Q1a elektrik ara bağlantısı: başlangıçtaki İsveç fiyatı daha düşük ->genişleyen
+ticaret İsveç fiyatını artırma, Almanya fiyatını düşürme eğilimindedir; İsveç CS'si düşer,
+Almanya CS'si artar, İsveçli üreticilerin PS'si artar, olağan varsayımlar.
+Q1b yeşil araştırma: gerçek yayılıma göre rakip olmama ve dışlanamazlık.
+Q1c kömür: üçüncü taraflara yüklenen, özel maliyete dahil edilmeyen maliyet.
+Q1d belirsizlik ve dik zararlar altında kota veya vergi: miktarı
+koruma argümanı, bölüm 11.5 ; eğimler ve grafikle gerekçelendir.
+
+Q2a ekmek pD10-Q,pS2+Q ->Q4,p6.
+Q2b kullanımda ücretsiz ekmek: p_b0 ->QD10,p_s12, birim başına sübvansiyon 12.
+CS50,PS50, kamu harcaması 120,W=-20 ; Winitial16,DWL36.
+Negatif W, toplumun gerçekten ödediği üretim maliyetini içerir.
+Q2c esneklik: Q'nun güçlü tepkisi, karşılaştırılabilir politikada daha fazla
+etkinsiz birim yaratır; neyin sabit tutulduğunu belirt.
+Q2d Kolezyum: skip-the-line=zamanın değerine göre self-selection; emekliler=
+gözlemlenebilir gruplar; birleşik bilet=bundling, paketlerin WTP'lerini karşılaştır.
+
+Q3a makine p56-2Q,C100+8Q ->MR56-4Q=8 ->Q12,p32,pi188.
+Q3b ikisi için Cournot c8, Lynn için FC100, Voytek için 50 :
+BR_i=12-qj/2 ; q_i8,Q16,p24 ; kârlar 28 ve 78.
+Q3c Lynn lider: qL12,qV6,Q18,p20 ; kârlar 44 ve 22.
+Tepkileri çiz: sonuç takipçinin BR'si üzerinde; Q/fiyatı Cournot ile karşılaştır.
+
+Q4a kredi: gizli eylem ve sınırlı sorumluluk, moral hazard.
+Q4b private equity : bilgi, gözetim, karar yetkisi.
+Q4c geri ödeme 30 : çaba H 0.75*10=7.5 ; L 0.25*10+4=6.5,
+dolayısıyla H ; banka 0.75*30-20=2.5, modelde kârlı sözleşme.
+Q4d geri ödeme 34 : H4.5 ; L1.5+4=5.5 ->L ; banka 8.5-20=-11.5.
+IC geri ödeme<=32 gerektirir; H'de finansman>=80/3≈26.667 gerektirir.
+Q4e içecekler/atıştırmalıklar: Edgeworth, kazançlar ve etkin kenarlar bölüm 14.6'da.
+Q4f mısır/buğday, A 2h/4h, B 4h/6h : A mısırda mutlak ve karşılaştırmalı üstün
+(maliyet 0.5 buğday'a karşı 2/3). Uzmanlaşma ve ara bir fiyattan değişim.
+
+Q5 : increasing returns, perfect substitutes, unit elasticity, luxury good,
+MRTS ; koşum takımı için eş ürün/eş maliyet, sonra ücret artışı, 1000 miktarı
+dayatılmış ->makinelere ikame ve daha yüksek minimum maliyet.
+
+E2022 — S20, sorular s.2–5
+Q1a etkileşimsiz freemium oyun: self-selection ile ayrımcılık.
+Q1b etkileşim eklemek: ağ etkileri ücretsizliği gerekçelendirebilir.
+Q1c 99 sentlik asgari fiyat: homojen Bertrand modelindeki fiyat kırmayı
+sınırlar, potansiyel olarak MC üstünde marjlar; kesikli fiyata dikkat.
+Q1d spor ekipmanı platformu: iki taraf, güven, eşleştirme,
+çapraz etkiler, başlangıç; bölüm 14.4.
+Q1e Lerner'i pi=p(Q)Q-C(Q)'den türet, yalnızca formülü ezberden söyleme.
+
+Q2a/b/c kamusal wifi: modelde rakip olmayan/dışlanamaz; 300(10-Q)
+=1500 ->Q5 ; free riding nedeniyle gönüllü katkılar yetersiz.
+Q2d Endonezya buğdayı: pw30,QD50,QS10, ithalat 40.
+Q2e gümrük vergisi 10 : p40,QD40,QS20, ithalat 20 ; Delta CS=-450,
+Delta PS=+150, gelir 200,DWL100. İki üçgen; CS kaybının tamamı değil.
+
+Q3a tekel: transferler artı kaybedilen değişim kazançları.
+Q3b pompalar p26-2Q,C2Q, vergi 4 : MR26-4Q=6 ->Q5,p_b16,
+p_s12, kâr 50, gelir 20. Bozulmasız sosyal optimum: Q12,MC2.
+TOPLAM SOSYAL DWL =0.5*(12-5)*(16-2)=49.
+4'lük vergiyi welfare'de gerçek bir üretim maliyeti olarak ele alma.
+Vergisiz tekel Q6,p14,DWL36 ; vergiyle ek kayıp 13.
+Talep ile MC+vergi arasındaki 25'lik üçgen sosyal kaybın tamamını
+ölçmez, çünkü vergi geliri bir transferdir.
+Q3c verginin alıcıdan/satıcıdan alınması: aynı kama ve aynı miktar.
+Q3d vergisiz Cournot : q1=q2=4,Q8,p10,pi_i32.
+Q3e ikisine de vergi 4 : iki tepki de orijine doğru kayar;
+sorulmayan sayısal tamamlayıcı: q_i10/3,Q20/3,p38/3.
+
+Q4a/b marangoz: götürü/saatlik, kalite, süre, fırsat maliyeti,
+bölüm 12.6 ; hiçbir sözleşme tüm sorunları aynı anda çözmez.
+Q4c tekelin kendine ait bir arz eğrisi yoktur, çünkü talep MR'ye girer.
+Q4d Gourmets/Snoozers : sıfır maliyette ayrı 260'a karşı paket 300,
+müşteri çifti başına; eksik maliyetlere dair çekince bölüm 9.4'te.
+Q5 : cross-price elasticity, increasing returns, MRS, indifference curve,
+perfect substitutes ; gıda sübvansiyonunu eski sepete izin veren nakitle
+değiştirmek ->daha kötü değil, eski optimum içteyse ve teğetlikler
+farklıysa genellikle daha iyi; bölüm 4.6.
+
+E2023 — S21, sorular s.2–6
+Q1a ucuz maya: mutlak fiyat piyasa gücünü ölçmez;
+Lerner, MC, esneklik. Q1b veterinerler: tekelci rekabette serbest
+giriş vs oligopolde engeller/stratejik etkileşim;
+maliyet şoku, LR kârları 0 yalnızca simetrik modelin serbest girişinde.
+Q1c makarna p25-Q,C5Q ->Q10,p15,pi100.
+Q1d Cournot T MC5,G MC9 ->BR_T10-qG/2,BR_G8-qT/2 ;
+qT8,qG4,Q12,p13 ; kârlar 64 ve 16.
+
+Q2a şebeke lisansları: girişimli spektrum tahsisten önce rakip ve
+dışlanamaz olabilir; serbest erişim aşırı kullanıma yol açabilir.
+Ticari şebekeyi kullandığı spektrumla karıştırma.
+Q2b Vickrey 80/100/92 : oyuncu 2 kazanır, 92 milyon öder.
+Q2c sabit abonelik pD10-2Q,C10+2Q : kullanım 0,Q5,F25,
+maliyet 20,pi5. two-part tariff ile p2,Q4,F16,pi6, karşılaştırma için.
+Q2d işsizlik: müşteriler daha duyarlıysa ve yeniden satış sınırlıysa indirim kârlıdır;
+yavaş sürüm: öz seçim, premium gelirlerini koruyabilir;
+pahalı akıllı telefonlar: potansiyel olarak WTP'si yüksek müşteriler, indirim
+bu mantığı otomatik olarak izlemez. Gerekçelendir, her indirimi uygulama.
+
+Q3a bahşiş: müşterinin gözlemlediği, patrondan gizli kaliteyi teşvik etmek.
+Q3b otel yorumları: ters seçimi ve zincirlerin itibar üstünlüğünü azaltır.
+Q3c gizli H/L eylemi: moral hazard. Q3d b2 ->H, banka+4 ; b6 ->L, banka-8.
+Q3e katkı 10/geri ödeme 15 ->b2 ve b6 ile H, banka+2.
+
+Q4a petrol fiyat tavanı 90 yerine 60, Rus QS'si 8 milyonda sabit ->Rus PS'si
+-240 milyon USD/gün. Q4b bu varsayımlar altında aynı Rus miktarı;
+mekanik olarak dünya çapında kıtlık çıkarılamaz; bölüm 7.4.
+Q4c benzin MPB100-Q,MPC10+Q,MECQ ->Qpriv45,Qeff30.
+Q4d vergi 20 ->Q35,p_b65,p_s45 ; DWL37.5, çünkü vergi yetersiz.
+Q5 : income elasticity, decreasing returns, MRTS, indifference curve,
+perfect complements ; doktor/hemşire saatleriyle ameliyatlar,
+doktor ücreti artar ->hemşirelere ikame, aynı üretim 100.
+
+E2024 — S22, sorular s.1–5
+Q1a/b/c tünel: varsayımlar altında kamusal; toplam MB25-4Q,MC9 ->Q4 ;
+free rider. Soru gerçek sınıflandırmayla ilgiliyse geçiş ücreti/tıkanıklığı tartış.
+Q1d şarap QD11-p_b/2,QS=-1.5+p_s, vergi 1 :
+11-(p_s+1)/2=-1.5+p_s ->p_s8,p_b9,Q6.5, gelir 6.5.
+Vergisiz: p25/3,Q41/6 ; vergiyle biraz daha düşük miktarı kontrol et.
+Q1e bölgesel şarap standartları: kolektif sertifikasyon lemons'ı azaltır,
+büyük bir bireysel marka olmadan inandırıcı kalite sağlar.
+
+Q2a Novo : engeller marjları korur, büyüklük hacmi artırır,
+daha az esnek talep göreli marjı artırır. Q2b patent: statik
+etkinlik/dinamik yenilik teşviki arasında denge.
+Q2c ABD p8-Q, Meksika p6-Q/2,MC0 : USQ4,p4, kâr 16 ;
+MexQ6,p3, kâr 18 ; toplam 34. CS ABD 8, Meksika 9.
+Q2d ortak fiyat: p>=8 için Q0 ; 6<=p<8 için Q8-p ; p<6 için Q20-3p.
+Optimum p10/3,Q10, kâr 100/3≈33.333 ; QUS14/3,QM16/3.
+Sınırları ve yalnızca ABD'nin aldığı bölgeyi kontrol et.
+Q2e segmentasyon: ABD fiyatı 10/3->4 çıkar, CS 98/9->8 düşer ;
+Meksika fiyatı 10/3->3 düşer, CS 64/9->9 çıkar. Kâr 2/3 artar,
+toplam CS 1 düşer; bu sayılarla toplam W 1/3 düşer.
+
+Q3a/b tekstil: Qpriv60,p140 ; Qeff40,MSB160,MPC120 ; DWL600.
+Q3c izinler: toplam bir tavanın maliyetini minimize etmek için MAC'leri eşitle.
+Q3d tekstil/spa ortak sahibi: zararı ortak kârda içselleştirir,
+ama piyasa gücü de olabilir; bu etkiyi fiyat alan firmaların
+sosyal referansından ayır.
+
+Q4a Atina ekmek 4h/zeytin 2h, Sparta 5h/5h : ekmekte mutlak üstün Atina,
+ekmekte karşılaştırmalı üstün Sparta (1 zeytin/ekmek'e karşı 2).
+Q4b homojen Bertrand MC5/7/8 : 7 civarında, etkin rakibin fiyat kırması,
+eşitlikler/sürekli fiyatlar nüansı bölüm 10.6'da.
+Q4c/d farklılaştırılmış Bertrand önce eşzamanlı, sonra firma 2 lider: maliyetler
+soruda yok; sıfır maliyet varsayımıyla sonuçlar bölüm 10.8'de.
+Q5 : perfect complements, Engel curve, isoquant, diminishing MP_K,
+increasing returns ; MC arzı, AVC altında SR kapanma ve ATC altında LR çıkış.
+
+E2025 — S23, sorular s.1–6
+Q1a/b LN konserleri: ağ etkileri, engeller, multihoming.
+Q1c gürültü: Coase, kötü tanımlanmış haklar ve pazarlık maliyetleri.
+Q1d kapasite 2000 zaten 1200'den hayranlarla dolu ->500'lük öğrenci indirimi
+ek kâr sağlamaz; koltukların fırsat maliyeti.
+Q1e biletler/tişörtler: ortak kâr ve sonuçlar pc3040/7,pT1060/7,
+kâr 1 961 600/7≈280 228.571, bölüm 9.6.
+
+Q2a rekabette vergi indirimi, D inelastik/S esnek: p_b düşer,
+p_s artar, Q artar; alıcılar indirimin büyük kısmını alır.
+Gelir: birim başına daha düşük oran karşısında daha yüksek hacim; işaret gerekçelendirilmeli,
+yalnızca « inelastik » ve « esnek » sözcükleriyle garanti edilmez.
+Q2b vergi 2, q_i10-2p_i+p_j,MC2 : BR_i=(14+p_j)/4,
+p_i14/3,q_i16/3,pi_i128/9 ; toplam gelir 64/3.
+Q2c vergi 1 : BR_i=(12+p_j)/4,p_i4,q_i6,pi_i18 ; toplam gelir 12.
+Fiyat 2/3 düşer, 1'lik vergi indiriminden az; bireysel marj 8/3->3 artar.
+Q2d homojen modeller: Bertrand/sınırsız kapasite pMC ; Cournot pozitif
+marj; aynı firma adları modeli seçmeye yetmez.
+
+Q3a North/South : PPF ve üstünlükler bölüm 14.1'de.
+Q3b çelik pD1100-Q,pS100+Q,pw400, Q BİN ton cinsinden:
+serbest ticaret QD700,QS300,M400 ; gümrük vergisi 100 ->p500,QD600,QS400,M200.
+CS245 000->180 000 ; PS45 000->80 000 ; gelir 20 000 ;
+DWL10 000, tüm bu alanlar BİN USD cinsinden. Dolayısıyla DWL=10 milyon USD.
+Her biri 5 milyonluk iki üçgen; Delta CS=-65 milyon,
+Delta PS=+35 milyon, gelir 20 milyon ->net -10 milyon.
+Q3c tarım ihraç eden ülke, alınan fiyat düşer: toprak sahiplerinin
+geliri düşer; hareketli emek ve marjinal ürünün değeri mekanizması.
+Q3d tekelci rekabette bisikletler: farklılaştırılmış ürünler, azalan
+firma talebi, kolay giriş, bireysel stratejik etkileşim ihmal edilir;
+negatif şok ->zararlar/çıkışlar ->kalanlar için sıfır ekonomik kâr
+simetrik modelde; kalan firma başına Q modelin biçimine bağlıdır.
+
+Q4a/b/c kamusal temizlik: Qeff3, dışlanamazlık/rakip olmama, free rider.
+Q4d ters Vickrey maliyetler 20 000/24 000/28 000 : A kazanır, 24 000 alır.
+Q4e hava, belirsiz ortak maliyet: winner's curse'ü VE mevcut bilgiyi
+tartış, olmayan özel sinyaller uydurma; bölüm 14.5.
+Q4f kusurlu denetim: zayıf IC için F>=60, kalitenin kesin tercih
+edilmesi için F>60 ; ödeme 110, maliyetler 100/70, yakalanma 0.5.
+Q5 : normal good, constant returns, isocost, marginal utility,
+increasing economies of scale ; eş maliyet K10-0.5L, eş ürün Q100,
+teğet optimum MP_L/MP_K=50/100, girdilerin sayısal hesabı mümkün değil.
