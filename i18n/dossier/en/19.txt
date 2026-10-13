@@ -1,0 +1,81 @@
+======================================================================
+17. CROSS-CUTTING FORMULA SHEET: WHAT, WHEN AND WHY
+======================================================================
+
+Parameter names change from one exercise to another. Each line assumes
+the domains and conditions described in the previous chapters.
+
+F01 Competitive equilibrium: QD(p*)=QS(p*).
+    Equalises the quantities wanted on both sides at the same price.
+F02 Inverse of a demand Q=a-bp: p=a/b-Q/b, b>0.
+    Used to draw and to differentiate revenue when choosing Q.
+F03 Budget: p_x*x+p_y*y<=I; slope with x horizontal=-p_x/p_y.
+    A spending constraint, distinct from the objective U.
+F04 MU_x=partial U/partial x; MRS_xy=MU_x/MU_y.
+    Slope of the indifference curve=-MRS_xy when y is vertical.
+F05 Interior consumer optimum: MRS_xy=p_x/p_y and budget exhausted.
+    Equalises marginal utility per euro.
+F06 Cobb-Douglas U=x^alpha*y^beta: budget shares alpha/(alpha+beta)
+    and beta/(alpha+beta). Do not use for perfect substitutes/complements.
+F07 Price elasticity: epsilon=(partial Q/partial p)*(p/Q).
+    The derivative turns a price change into a quantity change; p/Q
+    converts these changes into unit-free percentages.
+F08 Approximation %Delta Q≈epsilon*%Delta p; target %Delta p≈%Delta Q/epsilon.
+    Exact constant-elasticity: Q1/Q0=(p1/p0)^epsilon.
+F09 Cross-price: epsilon_ij=(partial Q_i/partial p_j)*p_j/Q_i.
+    Positive sign for substitutes, negative for complements.
+F10 Income: eta=(partial Q/partial I)*I/Q.
+    Sign and magnitude classify inferior, normal, necessity and luxury.
+F11 MP_L=partial f/partial L; AP_L=Q/L.
+    Marginal and average answer two different questions.
+F12 Isoquant: dK/dL=-MP_L/MP_K; isocost K=C/r-(w/r)L.
+F13 Interior minimum cost: MP_L/MP_K=w/r and f(K,L)=Qbar.
+    The same marginal output per euro of input.
+F14 Returns: compare f(tK,tL) with t*f(K,L).
+    Cobb-Douglas: compare the sum of the exponents with 1.
+F15 TC=FC+VC; ATC=TC/Q; AVC=VC/Q; AFC=FC/Q; MC=TC'.
+    MC comes from the cost of the marginal unit, not from average cost.
+F16 pi=R-C; MR=R'; interior optimum MR=MC.
+    Equalises extra gain and extra cost, after checking the optimum.
+F17 Price taker: MR=p ->p=MC; shut down if best R<VC in the short run.
+F18 pi=(p-ATC)Q; PS=pQ-VC=pi+FC.
+    Do not automatically equate PS and pi.
+F19 CS=integral_0^Q p_D(q)dq-p_bQ.
+F20 PS=p_sQ-integral_0^Q MC(q)dq.
+F21 W=CS+PS+taxes-subsidies+external benefits-external damages,
+    with consistent treatment of fixed costs when they change.
+F22 Tax: p_b-p_s=t; subsidy: p_s-p_b=s; same Q on both sides.
+F23 Linear p_D=a-bQ,p_S=c+dQ: Q0=(a-c)/(b+d),
+    Qt=(a-c-t)/(b+d), Qs=(a-c+s)/(b+d), in the interior domain.
+F24 Tax DWL with no other distortion=0.5*t*(Q0-Qt).
+    Subsidy DWL without externality=0.5*s*(Qs-Q0).
+F25 Monopoly: MR=p+Qp'; if p=a-bQ, MR=a-2bQ.
+    The term Qp' is the revenue lost on the units already sold.
+F26 Monopoly with constant MCc: Qm=(a-c)/(2b),pm=(a+c)/2.
+    Price read on demand, quantity found with MR=MC.
+F27 Lerner=(p-MC)/p=-1/epsilon_firm.
+    The firm's demand and an interior single-price optimum.
+F28 Segmentation: MR_i=MC; common aggregation Q(p)=sum max(0,q_i(p)).
+F29 Known two-part tariff: p_usage=MC,F=CS(p_usage), in the simple case.
+F30 Cournot: BR_i=(a-c_i-bq_j)/(2b), truncated at 0.
+    Both active: q_i=(a-2c_i+c_j)/(3b).
+F31 Cournot with n symmetric firms: q_i=(a-c)/[b(n+1)],p=(a+nc)/(n+1).
+F32 Symmetric quantity Stackelberg: qL=(a-c)/(2b),qF=(a-c)/(4b).
+    Recover it by substituting the follower's reaction.
+F33 Differentiated Bertrand q_i=A-Bp_i+Dp_j:
+    BR_i=(A+B*c_i+D*p_j)/(2B); symmetric p=(A+B*c)/(2B-D).
+F34 MSC=MPC+MEC; MSB=MPB+MEB; social optimum MSB=MSC.
+F35 Pigou: t*=MEC(Qeff) or s*=MEB(Qeff), simple competitive cases.
+F36 Pollution: MAC(e)=t; optimum MAC(e)=MEC(e).
+F37 Public good: sum_i MB_i(Q)=MC(Q), vertical sum and segments.
+F38 Expectation: E[X]=sum p_s*X_s, net outcomes by state.
+F39 Credit IC: (pH-pL)*(R-repayment)>=private benefit of L.
+    Bank: p_action*repayment-loan>=0, in a model with no alternative interest.
+F40 Inspection: penalty >= private saving/probability of detection.
+F41 Opportunity cost of X in Y=a_X/a_Y if a is hours per unit.
+F42 Import tariff: p_dom=pw+tau, imports=QD-QS, revenue=tau*imports.
+    DWL=0.5*tau*(rise in QS+fall in QD), small country remaining an importer.
+F43 Vickrey sale: the highest bid wins, pays the second highest.
+    Procurement: the lowest bid wins, receives the second lowest.
+F44 Public and private goods: the same individual functions can call for
+    OPPOSITE sums depending on rivalry; do not choose by reflex.

@@ -1,0 +1,81 @@
+======================================================================
+17. ÖVERGRIPANDE FORMELSAMLING: VAD, NÄR OCH VARFÖR
+======================================================================
+
+Parameternamnen ändras från övning till övning. Varje rad förutsätter
+de definitionsområden och villkor som beskrivs i de tidigare kapitlen.
+
+F01 Konkurrensjämvikt: QD(p*)=QS(p*).
+    Utjämnar de önskade kvantiteterna på båda sidor till samma pris.
+F02 Invers av en efterfrågan Q=a-bp : p=a/b-Q/b, b>0.
+    Används för att rita och derivera intäkten när Q väljs.
+F03 Budget: p_x*x+p_y*y<=I ; lutning med x horisontell=-p_x/p_y.
+    En utgiftsbegränsning, skild från målet U.
+F04 MU_x=partial U/partial x ; MRS_xy=MU_x/MU_y.
+    Indifferenskurvans lutning=-MRS_xy när y är vertikal.
+F05 Inre konsumentoptimum: MRS_xy=p_x/p_y och budgeten förbrukad.
+    Utjämning av marginalnyttan per euro.
+F06 Cobb-Douglas U=x^alpha*y^beta : budgetandelar alpha/(alpha+beta)
+    och beta/(alpha+beta). Använd inte för perfekta substitut/komplement.
+F07 Priselasticitet: epsilon=(partial Q/partial p)*(p/Q).
+    Derivatan omvandlar en prisändring till en kvantitetsändring; p/Q
+    gör om dessa ändringar till enhetslösa procentsatser.
+F08 Approximation %Delta Q≈epsilon*%Delta p ; mål %Delta p≈%Delta Q/epsilon.
+    Exakt vid konstant elasticitet: Q1/Q0=(p1/p0)^epsilon.
+F09 Cross-price : epsilon_ij=(partial Q_i/partial p_j)*p_j/Q_i.
+    Positivt tecken för substitut, negativt för komplement.
+F10 Income : eta=(partial Q/partial I)*I/Q.
+    Tecken och storlek klassar inferiör, normal, nödvändighet och lyx.
+F11 MP_L=partial f/partial L ; AP_L=Q/L.
+    Marginal och genomsnitt besvarar två olika frågor.
+F12 Isokvant: dK/dL=-MP_L/MP_K ; isokostnad K=C/r-(w/r)L.
+F13 Inre kostnadsminimum: MP_L/MP_K=w/r och f(K,L)=Qbar.
+    Samma marginella output per euro insats.
+F14 Skalavkastning: jämför f(tK,tL) med t*f(K,L).
+    Cobb-Douglas : jämför exponenternas summa med 1.
+F15 TC=FC+VC ; ATC=TC/Q ; AVC=VC/Q ; AFC=FC/Q ; MC=TC'.
+    MC kommer från marginalenhetens kostnad, inte från genomsnittskostnaden.
+F16 pi=R-C ; MR=R' ; inre optimum MR=MC.
+    Utjämnar extra vinst och extra kostnad, efter kontroll av optimum.
+F17 Price taker : MR=p ->p=MC ; lägg ner om bästa R<VC på kort sikt.
+F18 pi=(p-ATC)Q ; PS=pQ-VC=pi+FC.
+    Likställ inte automatiskt PS och pi.
+F19 CS=integral_0^Q p_D(q)dq-p_bQ.
+F20 PS=p_sQ-integral_0^Q MC(q)dq.
+F21 W=CS+PS+skatter-subventioner+externa nyttor-externa skador,
+    med konsekvent behandling av fasta kostnader när de ändras.
+F22 Skatt: p_b-p_s=t ; subvention: p_s-p_b=s ; samma Q på båda sidor.
+F23 Linjärt p_D=a-bQ,p_S=c+dQ : Q0=(a-c)/(b+d),
+    Qt=(a-c-t)/(b+d), Qs=(a-c+s)/(b+d), i det inre området.
+F24 DWL för en skatt utan annan snedvridning=0.5*t*(Q0-Qt).
+    DWL för en subvention utan externalitet=0.5*s*(Qs-Q0).
+F25 Monopol: MR=p+Qp' ; om p=a-bQ, MR=a-2bQ.
+    Termen Qp' är intäktsbortfallet på redan sålda enheter.
+F26 Monopol med konstant MCc : Qm=(a-c)/(2b),pm=(a+c)/2.
+    Priset avläses på efterfrågan, kvantiteten fås med MR=MC.
+F27 Lerner=(p-MC)/p=-1/epsilon_företag.
+    Företagets efterfrågan och ett inre optimum med ett enda pris.
+F28 Segmentering: MR_i=MC ; gemensam aggregering Q(p)=summa max(0,q_i(p)).
+F29 Känd tvådelad tariff: p_användning=MC,F=CS(p_användning), i det enkla fallet.
+F30 Cournot : BR_i=(a-c_i-bq_j)/(2b), kapad vid 0.
+    Båda aktiva: q_i=(a-2c_i+c_j)/(3b).
+F31 Cournot med n symmetriska företag: q_i=(a-c)/[b(n+1)],p=(a+nc)/(n+1).
+F32 Symmetrisk Stackelberg i kvantiteter: qL=(a-c)/(2b),qF=(a-c)/(4b).
+    Härled genom att sätta in följarens reaktion.
+F33 Differentierad Bertrand q_i=A-Bp_i+Dp_j :
+    BR_i=(A+B*c_i+D*p_j)/(2B) ; symmetriskt p=(A+B*c)/(2B-D).
+F34 MSC=MPC+MEC ; MSB=MPB+MEB ; samhälleligt optimum MSB=MSC.
+F35 Pigou : t*=MEC(Qeff) eller s*=MEB(Qeff), enkla konkurrensfall.
+F36 Förorening: MAC(e)=t ; optimum MAC(e)=MEC(e).
+F37 Kollektiv nyttighet: summa_i MB_i(Q)=MC(Q), vertikal summa och segment.
+F38 Väntevärde: E[X]=summa p_s*X_s, nettoutfall per tillstånd.
+F39 Kredit IC : (pH-pL)*(R-återbetalning)>=privat nytta av L.
+    Bank: p_handling*återbetalning-lån>=0, i en modell utan alternativ ränta.
+F40 Kontroll: straff >= privat besparing/sannolikhet för upptäckt.
+F41 Alternativkostnad för X i Y=a_X/a_Y om a är timmar per enhet.
+F42 Importtull: p_dom=pw+tau, import=QD-QS, intäkt=tau*import.
+    DWL=0.5*tau*(ökning QS+minskning QD), litet land som förblir importör.
+F43 Vickreyförsäljning: högsta budet vinner, betalar det näst högsta.
+    Upphandling: lägsta budet vinner, får det näst lägsta.
+F44 Kollektiv och privat nyttighet: samma individuella funktioner kan kräva
+    MOTSATTA summeringar beroende på rivalitet; välj inte per automatik.

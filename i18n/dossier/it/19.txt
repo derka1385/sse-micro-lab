@@ -1,0 +1,81 @@
+======================================================================
+17. FORMULARIO TRASVERSALE: COSA, QUANDO E PERCHÉ
+======================================================================
+
+I nomi dei parametri cambiano a seconda dell'esercizio. Ogni riga presuppone
+i domini e le condizioni descritti nei capitoli precedenti.
+
+F01 Equilibrio concorrenziale: QD(p*)=QS(p*).
+    Eguaglia le quantità desiderate dai due lati allo stesso prezzo.
+F02 Inversa di una domanda Q=a-bp : p=a/b-Q/b, b>0.
+    Serve a tracciare e a derivare il ricavo scegliendo Q.
+F03 Vincolo di bilancio: p_x*x+p_y*y<=I ; pendenza con x orizzontale=-p_x/p_y.
+    Vincolo di spesa, distinto dall'obiettivo U.
+F04 MU_x=partial U/partial x ; MRS_xy=MU_x/MU_y.
+    Pendenza dell'indifferenza=-MRS_xy quando y è verticale.
+F05 Ottimo interno del consumatore: MRS_xy=p_x/p_y e bilancio saturato.
+    Eguaglianza dell'utilità marginale per euro.
+F06 Cobb-Douglas U=x^alpha*y^beta : quote di bilancio alpha/(alpha+beta)
+    e beta/(alpha+beta). Non usare per sostituti/complementi perfetti.
+F07 Elasticità al prezzo: epsilon=(partial Q/partial p)*(p/Q).
+    La derivata trasforma una variazione di prezzo in variazione di quantità; p/Q
+    converte queste variazioni in percentuali senza unità.
+F08 Approssimazione %Delta Q≈epsilon*%Delta p ; obiettivo %Delta p≈%Delta Q/epsilon.
+    Esatto a elasticità costante: Q1/Q0=(p1/p0)^epsilon.
+F09 Cross-price : epsilon_ij=(partial Q_i/partial p_j)*p_j/Q_i.
+    Segno positivo per sostituti, negativo per complementi.
+F10 Income : eta=(partial Q/partial I)*I/Q.
+    Segno e grandezza classificano inferiore, normale, necessità e lusso.
+F11 MP_L=partial f/partial L ; AP_L=Q/L.
+    Marginale e medio rispondono a due domande diverse.
+F12 Isoquanto: dK/dL=-MP_L/MP_K ; isocosto K=C/r-(w/r)L.
+F13 Costo minimo interno: MP_L/MP_K=w/r e f(K,L)=Qbar.
+    Stesso output marginale per euro di input.
+F14 Rendimenti: confrontare f(tK,tL) con t*f(K,L).
+    Cobb-Douglas : confrontare la somma degli esponenti con 1.
+F15 TC=FC+VC ; ATC=TC/Q ; AVC=VC/Q ; AFC=FC/Q ; MC=TC'.
+    MC deriva dal costo dell'unità marginale, non dal costo medio.
+F16 pi=R-C ; MR=R' ; ottimo interno MR=MC.
+    Eguaglia guadagno e costo aggiuntivi, dopo aver verificato l'ottimo.
+F17 Price taker : MR=p ->p=MC ; chiusura se il miglior R<VC nel breve periodo.
+F18 pi=(p-ATC)Q ; PS=pQ-VC=pi+FC.
+    Non assimilare automaticamente PS e pi.
+F19 CS=integrale_0^Q p_D(q)dq-p_bQ.
+F20 PS=p_sQ-integrale_0^Q MC(q)dq.
+F21 W=CS+PS+imposte-sussidi+benefici esterni-danni esterni,
+    con un trattamento coerente dei costi fissi quando cambiano.
+F22 Imposta: p_b-p_s=t ; sussidio: p_s-p_b=s ; stessa Q dai due lati.
+F23 Lineare p_D=a-bQ,p_S=c+dQ : Q0=(a-c)/(b+d),
+    Qt=(a-c-t)/(b+d), Qs=(a-c+s)/(b+d), nel dominio interno.
+F24 DWL di un'imposta senza altra distorsione=0.5*t*(Q0-Qt).
+    DWL di un sussidio senza esternalità=0.5*s*(Qs-Q0).
+F25 Monopolio: MR=p+Qp' ; se p=a-bQ, MR=a-2bQ.
+    Il termine Qp' rappresenta la perdita di ricavo sulle unità già vendute.
+F26 Monopolio con MCc costante: Qm=(a-c)/(2b),pm=(a+c)/2.
+    Prezzo letto sulla domanda, quantità trovata con MR=MC.
+F27 Lerner=(p-MC)/p=-1/epsilon_impresa.
+    Domanda dell'impresa e ottimo interno a prezzo unico.
+F28 Segmentazione: MR_i=MC ; aggregazione comune Q(p)=somma max(0,q_i(p)).
+F29 Tariffa a due parti nota: p_uso=MC,F=CS(p_uso), nel caso semplice.
+F30 Cournot : BR_i=(a-c_i-bq_j)/(2b), troncata a 0.
+    Due attive: q_i=(a-2c_i+c_j)/(3b).
+F31 Cournot con n imprese simmetriche: q_i=(a-c)/[b(n+1)],p=(a+nc)/(n+1).
+F32 Stackelberg in quantità simmetrico: qL=(a-c)/(2b),qF=(a-c)/(4b).
+    Ritrovare sostituendo la reazione del follower.
+F33 Bertrand differenziato q_i=A-Bp_i+Dp_j :
+    BR_i=(A+B*c_i+D*p_j)/(2B) ; simmetrico p=(A+B*c)/(2B-D).
+F34 MSC=MPC+MEC ; MSB=MPB+MEB ; ottimo sociale MSB=MSC.
+F35 Pigou : t*=MEC(Qeff) o s*=MEB(Qeff), casi concorrenziali semplici.
+F36 Inquinamento: MAC(e)=t ; ottimo MAC(e)=MEC(e).
+F37 Bene pubblico: somma_i MB_i(Q)=MC(Q), somma verticale e segmenti.
+F38 Valore atteso: E[X]=somma p_s*X_s, risultati netti per stato.
+F39 Credito IC : (pH-pL)*(R-rimborso)>=beneficio privato di L.
+    Banca: p_azione*rimborso-prestito>=0, nel modello senza interesse alternativo.
+F40 Ispezione: penalità >= risparmio privato/probabilità di scoperta.
+F41 Costo opportunità di X in Y=a_X/a_Y se a è in ore per unità.
+F42 Dazio all'importazione: p_dom=pw+tau, importazioni=QD-QS, gettito=tau*importazioni.
+    DWL=0.5*tau*(aumento QS+calo QD), piccolo paese che resta importatore.
+F43 Vendita Vickrey: l'offerta più alta vince, paga la seconda più alta.
+    Appalto: l'offerta più bassa vince, riceve la seconda più bassa.
+F44 Bene pubblico e privato: le stesse funzioni individuali possono richiedere
+    somme OPPOSTE a seconda della rivalità; non scegliere per automatismo.

@@ -1,0 +1,81 @@
+======================================================================
+17. GENEL FORMÜL LİSTESİ: NE, NE ZAMAN VE NEDEN
+======================================================================
+
+Parametre adları alıştırmadan alıştırmaya değişir. Her satır önceki
+bölümlerde açıklanan tanım kümelerini ve koşulları varsayar.
+
+F01 Rekabetçi denge: QD(p*)=QS(p*).
+    İki tarafın istediği miktarları aynı fiyatta eşitler.
+F02 Q=a-bp talebinin tersi : p=a/b-Q/b, b>0.
+    Q seçilirken çizmek ve hasılatın türevini almak için kullanılır.
+F03 Bütçe: p_x*x+p_y*y<=I ; x yatayken eğim=-p_x/p_y.
+    Amaç U'dan ayrı bir harcama kısıtı.
+F04 MU_x=partial U/partial x ; MRS_xy=MU_x/MU_y.
+    y dikeyken kayıtsızlık eğrisinin eğimi=-MRS_xy.
+F05 Tüketicinin iç optimumu: MRS_xy=p_x/p_y ve bütçe tamamen harcanmış.
+    Avro başına marjinal faydanın eşitlenmesi.
+F06 Cobb-Douglas U=x^alpha*y^beta : bütçe payları alpha/(alpha+beta)
+    ve beta/(alpha+beta). Tam ikameler/tamamlayıcılar için kullanma.
+F07 Fiyat esnekliği: epsilon=(partial Q/partial p)*(p/Q).
+    Türev fiyat değişimini miktar değişimine çevirir; p/Q
+    bu değişimleri birimsiz yüzdelere dönüştürür.
+F08 Yaklaşım %Delta Q≈epsilon*%Delta p ; hedef %Delta p≈%Delta Q/epsilon.
+    Sabit esneklikte kesin: Q1/Q0=(p1/p0)^epsilon.
+F09 Cross-price : epsilon_ij=(partial Q_i/partial p_j)*p_j/Q_i.
+    İkamelerde pozitif işaret, tamamlayıcılarda negatif.
+F10 Income : eta=(partial Q/partial I)*I/Q.
+    İşaret ve büyüklük düşük, normal, zorunlu ve lüks malı sınıflandırır.
+F11 MP_L=partial f/partial L ; AP_L=Q/L.
+    Marjinal ve ortalama iki farklı soruyu yanıtlar.
+F12 Eş ürün eğrisi: dK/dL=-MP_L/MP_K ; eş maliyet K=C/r-(w/r)L.
+F13 İç minimum maliyet: MP_L/MP_K=w/r ve f(K,L)=Qbar.
+    Girdinin avrosu başına aynı marjinal çıktı.
+F14 Ölçeğe göre getiri: f(tK,tL)'yi t*f(K,L) ile karşılaştır.
+    Cobb-Douglas : üslerin toplamını 1 ile karşılaştır.
+F15 TC=FC+VC ; ATC=TC/Q ; AVC=VC/Q ; AFC=FC/Q ; MC=TC'.
+    MC ortalama maliyetten değil, marjinal birimin maliyetinden gelir.
+F16 pi=R-C ; MR=R' ; iç optimum MR=MC.
+    Optimum kontrol edildikten sonra ek kazanç ile ek maliyeti eşitler.
+F17 Price taker : MR=p ->p=MC ; kısa dönemde en iyi R<VC ise kapan.
+F18 pi=(p-ATC)Q ; PS=pQ-VC=pi+FC.
+    PS ile pi'yi otomatik olarak eşitleme.
+F19 CS=integral_0^Q p_D(q)dq-p_bQ.
+F20 PS=p_sQ-integral_0^Q MC(q)dq.
+F21 W=CS+PS+vergiler-sübvansiyonlar+dışsal faydalar-dışsal zararlar,
+    sabit maliyetler değiştiğinde onların tutarlı biçimde ele alınmasıyla.
+F22 Vergi: p_b-p_s=t ; sübvansiyon: p_s-p_b=s ; iki tarafta aynı Q.
+F23 Doğrusal p_D=a-bQ,p_S=c+dQ : Q0=(a-c)/(b+d),
+    Qt=(a-c-t)/(b+d), Qs=(a-c+s)/(b+d), iç tanım bölgesinde.
+F24 Başka bozulma yokken verginin DWL'si=0.5*t*(Q0-Qt).
+    Dışsallık yokken sübvansiyonun DWL'si=0.5*s*(Qs-Q0).
+F25 Tekel: MR=p+Qp' ; p=a-bQ ise MR=a-2bQ.
+    Qp' terimi zaten satılan birimlerdeki hasılat kaybını gösterir.
+F26 Sabit MCc ile tekel: Qm=(a-c)/(2b),pm=(a+c)/2.
+    Fiyat talepten okunur, miktar MR=MC ile bulunur.
+F27 Lerner=(p-MC)/p=-1/epsilon_firma.
+    Firmanın talebi ve tek fiyatlı iç optimum.
+F28 Segmentasyon: MR_i=MC ; ortak toplama Q(p)=toplam max(0,q_i(p)).
+F29 Bilinen iki parçalı tarife: p_kullanım=MC,F=CS(p_kullanım), basit durumda.
+F30 Cournot : BR_i=(a-c_i-bq_j)/(2b), 0'da kesilmiş.
+    İkisi aktif: q_i=(a-2c_i+c_j)/(3b).
+F31 n simetrik firmalı Cournot: q_i=(a-c)/[b(n+1)],p=(a+nc)/(n+1).
+F32 Simetrik miktar Stackelberg: qL=(a-c)/(2b),qF=(a-c)/(4b).
+    Takipçinin tepkisini yerine koyarak yeniden bul.
+F33 Farklılaştırılmış Bertrand q_i=A-Bp_i+Dp_j :
+    BR_i=(A+B*c_i+D*p_j)/(2B) ; simetrik p=(A+B*c)/(2B-D).
+F34 MSC=MPC+MEC ; MSB=MPB+MEB ; sosyal optimum MSB=MSC.
+F35 Pigou : t*=MEC(Qeff) veya s*=MEB(Qeff), basit rekabetçi durumlar.
+F36 Kirlilik: MAC(e)=t ; optimum MAC(e)=MEC(e).
+F37 Kamu malı: toplam_i MB_i(Q)=MC(Q), dikey toplam ve segmentler.
+F38 Beklenti: E[X]=toplam p_s*X_s, duruma göre net sonuçlar.
+F39 Kredi IC : (pH-pL)*(R-geri ödeme)>=L'nin özel faydası.
+    Banka: p_eylem*geri ödeme-kredi>=0, alternatif faizin olmadığı modelde.
+F40 Denetim: ceza >= özel tasarruf/yakalanma olasılığı.
+F41 X'in Y cinsinden fırsat maliyeti=a_X/a_Y, a birim başına saat ise.
+F42 İthalat vergisi: p_dom=pw+tau, ithalat=QD-QS, gelir=tau*ithalat.
+    DWL=0.5*tau*(QS artışı+QD düşüşü), ithalatçı kalan küçük ülke.
+F43 Vickrey satışı: en yüksek teklif kazanır, ikinci en yükseği öder.
+    Kamu alımı: en düşük teklif kazanır, ikinci en düşüğü alır.
+F44 Kamu malı ve özel mal: aynı bireysel fonksiyonlar rakipliğe göre
+    ZIT toplamlar gerektirebilir; otomatik olarak seçme.
