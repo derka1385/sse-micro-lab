@@ -4,7 +4,7 @@ import { useState } from 'react';
 import { t } from '../i18n';
 import { useSync } from '../sync';
 
-const WEB3FORMS_KEY = ''; // ponytail: set once the author has created the key on web3forms.com
+const WEB3FORMS_KEY = 'cf333160-b5b4-431a-860c-32f55651094b';
 
 const KINDS = [
   { id: 'request', label: 'Une demande' },
