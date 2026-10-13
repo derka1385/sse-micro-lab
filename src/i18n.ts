@@ -72,6 +72,14 @@ export async function loadLang() {
   dossier = s ?? null;
 }
 
+/** English versions of content texts, loaded on demand (the study-mode demo needs them in any mode). */
+export async function loadEnglish() {
+  if (lang === 'en' || Object.keys(enDict).length) return;
+  const dicts = import.meta.glob<Record<string, string>>('./i18n/*.json', { import: 'default' });
+  enDict = (await dicts['./i18n/en.json']?.()) ?? {};
+}
+export const inEnglish = (s: string) => (lang === 'en' ? t(s) : enDict[textId(s)] ?? s);
+
 export function setMode(next: Mode) {
   try { localStorage.setItem(MODE_KEY, next); } catch { /* storage blocked */ }
   window.location.reload();

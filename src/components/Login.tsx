@@ -1,6 +1,6 @@
 // Sign-in is required to use the app: a full-page welcome with Google sign-in and the language picker.
-import { useState } from 'react';
-import { LANGS, lang, mode, setLang, setMode, t, type Lang, type Mode } from '../i18n';
+import { useEffect, useState } from 'react';
+import { LANGS, inEnglish, lang, loadEnglish, mode, setLang, setMode, t, type Lang, type Mode } from '../i18n';
 import { initSync, signIn, useSync } from '../sync';
 
 const MODES: { id: Mode; title: string; text: string }[] = [
@@ -73,14 +73,53 @@ export function Splash() {
   return <div className="splash" role="status" aria-label={t('Chargement…')}><span className="splash-brand">Micro Lab</span><span className="spinner" aria-hidden="true" /></div>;
 }
 
-const ASKED = 'micro-lab-setup-v2'; // v2: the learning mode was added, ask again once
-export const langAsked = () => { try { return localStorage.getItem(ASKED) === '1'; } catch { return true; } };
 
-/** Shown once after the first sign-in on a device: picking a language reloads the page, Continue enters the app. */
-export function LangPrompt({ onDone }: { onDone: () => void }) {
+// The demo replays the first check of the solar lesson, French source texts translated at run time.
+const DEMO = {
+  scene: 'Tu veux installer des panneaux solaires sur ton toit. Un fabricant les vend. Tes voisins, eux, n’achètent rien — mais ils respirent l’air de la ville. Et l’État observe.',
+  q: 'Qui est affecté par ton achat sans participer à la transaction ?',
+  options: ['Le fabricant', 'Tes voisins', 'L’État', 'Personne'],
+  feedback: 'Oui. Ils ne paient rien, ne signent rien, mais l’électricité solaire remplace une électricité plus polluante dans l’air qu’ils respirent.',
+};
+
+/** A looping, video-like replay of one exercise: question, a click on the right answer, then the explanation. */
+function ModeDemo({ english }: { english: boolean }) {
+  const ask = (s: string) => (english ? inEnglish(s) : t(s));
+  const code = lang.toUpperCase();
   return (
+    <div className="demo" aria-hidden="true">
+      <div className="demo-bar"><span /><span /><span /><i className="demo-time" /></div>
+      <div className="demo-body">
+        <p className="demo-tag">{t('Explication')} · {code}</p>
+        <p className="demo-scene">{t(DEMO.scene)}</p>
+        <p className="demo-tag">{t('Question')} · {english ? 'EN' : code}</p>
+        <p className="demo-q">{ask(DEMO.q)}</p>
+        <ul className="demo-options">
+          {DEMO.options.map((o, i) => <li key={o} className={i === 1 ? 'right' : ''}>{ask(o)}</li>)}
+        </ul>
+        <p className="demo-feedback"><b>{t('Correction')} · {code}</b> {t(DEMO.feedback)}</p>
+        <span className="demo-cursor" />
+      </div>
+    </div>
+  );
+}
+
+const SETUP = 'micro-lab-setup-v3'; // v3: language and study mode are now two steps
+export const langAsked = () => { try { return localStorage.getItem(SETUP) === '1'; } catch { return true; } };
+const finishSetup = () => { try { localStorage.setItem(SETUP, '1'); } catch { /* blocked */ } };
+
+/** After the first sign-in on a device: language (choosing reloads the page), then study mode with its demo. */
+export function LangPrompt({ onDone }: { onDone: () => void }) {
+  const [step, setStep] = useState<'lang' | 'mode'>('lang');
+  const [pick, setPick] = useState<Mode>(mode);
+  const [ready, setReady] = useState(false);
+  useEffect(() => { if (step === 'mode') void loadEnglish().then(() => setReady(true)); }, [step]);
+  const done = () => { finishSetup(); if (pick !== mode) setMode(pick); else onDone(); };
+
+  if (step === 'lang') return (
     <div className="lang-prompt">
       <section className="login-card" aria-labelledby="lang-title">
+        <p className="setup-step">1 / {lang === 'en' ? 1 : 2}</p>
         <h2 id="lang-title">{t('Ta langue préférée')}</h2>
         <p className="login-sub">{t('Tu pourras la changer plus tard dans le menu.')}</p>
         <div className="lang-list" role="radiogroup" aria-label={t('Langue')}>
@@ -91,12 +130,33 @@ export function LangPrompt({ onDone }: { onDone: () => void }) {
             </button>
           ))}
         </div>
-        {lang !== 'en' && <h3 className="mode-title">{t('Comment veux-tu apprendre ?')}</h3>}
-        <ModePicker />
-        <button type="button" className="google-btn google-btn-lg lang-go" onClick={() => { try { localStorage.setItem(ASKED, '1'); } catch { /* blocked */ } onDone(); }}>
+        <button type="button" className="google-btn google-btn-lg lang-go" onClick={() => { if (lang === 'en') { finishSetup(); onDone(); } else setStep('mode'); }}>
           {t('Continuer')}
         </button>
       </section>
+    </div>
+  );
+
+  return (
+    <div className="mode-prompt">
+      <header>
+        <p className="setup-step">2 / 2</p>
+        <h2>{t('Comment veux-tu apprendre ?')}</h2>
+        <p className="login-sub">{t('Regarde la différence sur le même exercice, puis choisis. Tu pourras changer dans le menu.')}</p>
+      </header>
+      <div className="mode-cards" role="radiogroup" aria-label={t('Mode')}>
+        {MODES.map((m) => (
+          <button key={m.id} type="button" role="radio" aria-checked={pick === m.id} className={`mode-card ${pick === m.id ? 'on' : ''}`} onClick={() => setPick(m.id)}>
+            {ready ? <ModeDemo english={m.id === 'english'} /> : <div className="demo demo-loading" />}
+            <b>{m.title}</b>
+            <span>{m.text}</span>
+          </button>
+        ))}
+      </div>
+      <div className="mode-actions">
+        <button type="button" className="ghost" onClick={() => setStep('lang')}>{t('Retour')}</button>
+        <button type="button" className="google-btn google-btn-lg lang-go" onClick={done}>{t('Commencer')}</button>
+      </div>
     </div>
   );
 }
