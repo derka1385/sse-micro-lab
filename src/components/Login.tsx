@@ -1,7 +1,27 @@
 // Sign-in is required to use the app: a full-page welcome with Google sign-in and the language picker.
 import { useState } from 'react';
-import { LANGS, lang, setLang, t, type Lang } from '../i18n';
+import { LANGS, lang, mode, setLang, setMode, t, type Lang, type Mode } from '../i18n';
 import { initSync, signIn, useSync } from '../sync';
+
+const MODES: { id: Mode; title: string; text: string }[] = [
+  { id: 'native', title: t('Compréhension en langue natale'), text: t('Tout dans ta langue : explications, questions et graphiques.') },
+  { id: 'english', title: t('Compréhension anglais'), text: t('Explications dans ta langue ; questions, réponses et termes des graphiques en anglais, comme le jour de l’examen.') },
+];
+
+/** Hidden when the interface is in English: both modes are then identical. */
+export function ModePicker({ className = '' }: { className?: string }) {
+  if (lang === 'en') return null;
+  return (
+    <div className={`mode-pick ${className}`} role="radiogroup" aria-label={t('Mode')}>
+      {MODES.map((m) => (
+        <button key={m.id} type="button" role="radio" aria-checked={m.id === mode} className={`mode-row ${m.id === mode ? 'on' : ''}`}
+          onClick={() => { if (m.id !== mode) setMode(m.id); }}>
+          <b>{m.title}</b><span>{m.text}</span>
+        </button>
+      ))}
+    </div>
+  );
+}
 
 export function LangPicker({ className = '' }: { className?: string }) {
   return (
@@ -53,7 +73,7 @@ export function Splash() {
   return <div className="splash" role="status" aria-label={t('Chargement…')}><span className="splash-brand">Micro Lab</span><span className="spinner" aria-hidden="true" /></div>;
 }
 
-const ASKED = 'micro-lab-lang-asked';
+const ASKED = 'micro-lab-setup-v2'; // v2: the learning mode was added, ask again once
 export const langAsked = () => { try { return localStorage.getItem(ASKED) === '1'; } catch { return true; } };
 
 /** Shown once after the first sign-in on a device: picking a language reloads the page, Continue enters the app. */
@@ -71,6 +91,8 @@ export function LangPrompt({ onDone }: { onDone: () => void }) {
             </button>
           ))}
         </div>
+        {lang !== 'en' && <h3 className="mode-title">{t('Comment veux-tu apprendre ?')}</h3>}
+        <ModePicker />
         <button type="button" className="google-btn google-btn-lg lang-go" onClick={() => { try { localStorage.setItem(ASKED, '1'); } catch { /* blocked */ } onDone(); }}>
           {t('Continuer')}
         </button>

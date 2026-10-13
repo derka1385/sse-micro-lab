@@ -155,6 +155,17 @@ input[type='range'] { accent-color: var(--ink); }
 .lang-row.on { background: var(--accent); border-color: var(--ink); font-weight: 700; }
 .lang-code { font-family: var(--mono); font-size: 11.5px; color: var(--ink-3); }
 .lang-row.on .lang-code { color: var(--ink); }
+.mode-title { margin: 4px 0 10px; font-size: 16px; font-weight: 700; }
+.mode-pick { display: grid; gap: 6px; margin-bottom: 20px; }
+.mode-row { display: grid; gap: 3px; text-align: left; padding: 12px 14px; border: 1px solid var(--rule); border-radius: 3px; background: var(--paper); font: inherit; cursor: pointer; color: var(--ink); }
+.mode-row:hover { border-color: var(--ink-3); }
+.mode-row b { font-size: 15.5px; }
+.mode-row span { font-size: 13.5px; line-height: 1.35; color: var(--ink-2); }
+.mode-row.on { background: var(--accent); border-color: var(--ink); }
+.mode-side { margin: 14px 0 0; }
+.mode-side .mode-row { padding: 8px 10px; }
+.mode-side .mode-row span { display: none; }
+.mode-side .mode-row b { font-size: 13px; font-weight: 600; }
 .lang-go { background: var(--ink); color: var(--paper); border-color: var(--ink); }
 .nav-title { font-family: var(--mono); font-size: 10.5px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--ink-3); margin: 14px 8px 6px; }
 .nav-item {

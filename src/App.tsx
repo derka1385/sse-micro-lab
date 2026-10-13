@@ -18,7 +18,7 @@ import { Claude } from './views/Claude';
 import { QuickQuestion } from './components/QuickQuestion';
 import { getClaudeStatus } from './claude';
 import { signOutSync, useSync } from './sync';
-import { LangPicker, LangPrompt, LoginPage, Splash, langAsked } from './components/Login';
+import { LangPicker, LangPrompt, ModePicker, LoginPage, Splash, langAsked } from './components/Login';
 import { t } from './i18n';
 
 function useRoute() {
@@ -177,6 +177,7 @@ export default function App() {
         <Account />
         <Backup />
         <LangPicker />
+        <ModePicker className="mode-side" />
       </nav>
       <main className="main">{page}</main>
       {claudeServer && <QuickQuestion />}
