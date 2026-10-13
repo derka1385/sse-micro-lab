@@ -96,6 +96,11 @@ export function FormulaReveal({ q, options, formula, after, onDone, done, seed, 
   const [picked, setPicked] = useState<number | null>(null);
   const [tries, setTries] = useState(0);
   const opts = useMemo(() => shuffled(options, seed), [options, seed]);
+  const reveal = () => {
+    record({ tags, dim: 'formula', ok: false, src, item: seed });
+    setPicked(opts.findIndex((o) => o.correct));
+    onDone();
+  };
   const choose = (i: number) => {
     if (done) return;
     const o = opts[i];
@@ -117,6 +122,7 @@ export function FormulaReveal({ q, options, formula, after, onDone, done, seed, 
         </div>
       )}
       {picked !== null && !opts[picked].correct && !done && <p className="feedback bad" role="status"><Rich text={opts[picked].feedback} /></p>}
+      {!done && <ShowAnswer onClick={reveal} />}
       {done && (
         <div className="reveal-reward">
           <Formula f={formula} block />
@@ -131,7 +137,7 @@ export function FormulaReveal({ q, options, formula, after, onDone, done, seed, 
 
 export function Checkpoint({ check, onPass, onResult, src, cursor, passed }: { check: Check; onPass: () => void; onResult?: (ok: boolean) => void; src: Src; cursor?: number; passed?: boolean }) {
   const [tries, setTries] = useState(0);
-  const [msg, setMsg] = useState<{ ok: boolean; text: string } | null>(passed ? { ok: true, text: t('Déjà réussi.') } : null);
+  const [msg, setMsg] = useState<{ ok: boolean; text: string; revealed?: boolean } | null>(passed ? { ok: true, text: t('Déjà réussi.') } : null);
   const [val, setVal] = useState('');
   const [seq, setSeq] = useState<string[]>([]);
   const done = msg?.ok === true;
@@ -147,6 +153,21 @@ export function Checkpoint({ check, onPass, onResult, src, cursor, passed }: { c
   };
 
   const explain = (base: string) => (check.explain ? `${base} ${check.explain}` : base);
+
+  // Stuck: show the answer, count it as a miss (so it comes back in review) and let the student move on.
+  const reveal = () => {
+    let answer = '';
+    if (check.kind === 'choice') { const o = check.options.find((x) => x.correct); answer = o ? `${o.text}. ${o.feedback}` : ''; }
+    if (check.kind === 'numeric') { setVal(String(check.answer)); answer = `${check.answer}${check.unit ? ` ${check.unit}` : ''}. ${check.explain ?? ''}`; }
+    if (check.kind === 'pick') answer = `Q = ${check.target}. ${check.explain ?? ''}`;
+    if (check.kind === 'order') { setSeq(check.items); answer = check.explain ?? ''; }
+    if (check.kind === 'build') { setSeq(check.accept[0]); answer = check.explain ?? ''; }
+    if (check.kind === 'text') answer = check.model;
+    record({ tags: check.tags, dim: check.dim, ok: false, src, item: check.id });
+    setMsg({ ok: true, revealed: true, text: `${t('Réponse :')} ${answer}`.trim() });
+    onResult?.(false);
+    onPass();
+  };
 
   return (
     <div className={`check ${done ? 'check-done' : ''}`}>
@@ -175,7 +196,6 @@ export function Checkpoint({ check, onPass, onResult, src, cursor, passed }: { c
           <input inputMode="decimal" value={val} disabled={done} onChange={(e) => setVal(e.target.value)} aria-label={t('Ta réponse')} placeholder={t('ta réponse')} />
           {check.unit && <span className="muted">{check.unit}</span>}
           <button type="submit" className="primary" disabled={done || !val.trim()}>{t('Vérifier')}</button>
-          {!done && tries >= 2 && <button type="button" className="ghost" onClick={() => { setMsg({ ok: true, text: `${t('Réponse :')} ${check.answer}. ${check.explain ?? ''}` }); record({ tags: check.tags, dim: check.dim, ok: false, src, item: check.id }); onPass(); }}>Voir la réponse</button>}
         </form>
       )}
 
@@ -234,9 +254,16 @@ export function Checkpoint({ check, onPass, onResult, src, cursor, passed }: { c
         <TextAnswer rubric={check.rubric} model={check.model} lang={check.lang} onGraded={(ok) => grade(ok, ok ? t('Les éléments clés sont là.') : t('Compare avec la réponse modèle et retiens ce qui manquait.'))} />
       )}
 
-      {msg && <p className={`feedback ${msg.ok ? 'good' : 'bad'}`} role="status"><Rich text={msg.text} /></p>}
+      {!done && <ShowAnswer onClick={reveal} />}
+      {msg && <p className={`feedback ${msg.revealed ? 'revealed' : msg.ok ? 'good' : 'bad'}`} role="status"><Rich text={msg.text} /></p>}
+      {msg?.revealed && <p className="small muted">{t('Réponse affichée : la notion reviendra dans tes révisions.')}</p>}
     </div>
   );
+}
+
+/** "Voir la réponse": never leave a student stuck on a question. */
+export function ShowAnswer({ onClick }: { onClick: () => void }) {
+  return <button type="button" className="link small show-answer" onClick={onClick}>{t('Voir la réponse')}</button>;
 }
 
 // ——— MisconceptionCard: targeted micro-lesson after the same mistake twice
@@ -269,6 +296,7 @@ export function MisconceptionCard({ id, onResolved }: { id: string; onResolved?:
         ))}
       </div>
       {picked !== null && <p className={`feedback ${right ? 'good' : 'bad'}`}><Rich text={opts[picked].feedback} /></p>}
+      {!right && <ShowAnswer onClick={() => { record({ tags: [m.topic], dim: 'intuition', ok: false, src: 'micro', item: m.id, mis: m.id }); setPicked(opts.findIndex((o) => o.correct)); }} />}
       <p className="small muted">{t('Source :')} {m.refs.map((r) => <Rich key={r} text={`§${r} `} />)}</p>
     </div>
   );

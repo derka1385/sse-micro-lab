@@ -1,7 +1,7 @@
 import { useMemo, useState, type ReactNode } from 'react';
 import { TOPICS } from '../content/catalog';
 import { SCENARIOS, type Scenario } from '../content/training';
-import { shuffled } from '../components/learning';
+import { ShowAnswer, shuffled } from '../components/learning';
 import { Rich, SourceRef } from '../components/text';
 import { record, useProgress } from '../store';
 import { ArrowLeft, ArrowRight, Caution, Check } from '../components/icons';
@@ -87,6 +87,11 @@ function ScenarioRunner({ s }: { s: Scenario }) {
             </div>
             {picked !== null && <p className={`feedback ${right ? 'good' : 'bad'}`}><Rich text={opts[picked].feedback} /></p>}
             {right && !isModel && <button type="button" className="primary" onClick={() => { setStep(step + 1); setPicked(null); }}>{t('Suivant')}</button>}
+            {!right && <ShowAnswer onClick={() => {
+              const i = opts.findIndex((o) => o.correct);
+              setPicked(i);
+              if (isModel) { record({ tags: [s.node], dim: 'recognition', ok: false, src: 'recognition', item: s.id }); setDone(true); }
+            }} />}
           </>
         )}
         {done && (
