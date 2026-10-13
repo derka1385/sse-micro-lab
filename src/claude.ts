@@ -1,3 +1,5 @@
+import { lang } from './i18n';
+
 // The browser only talks to Micro Lab's same-origin server. It never handles an API key.
 export type ChatMessage = { role: 'user' | 'assistant'; content: string };
 export type ClaudeReply = { text: string; truncated: boolean };
@@ -34,5 +36,5 @@ export function askClaude(messages: ChatMessage[], context: string, quick: boole
   if (messages.some((m) => /sk-ant-[a-zA-Z0-9_-]{10,}/.test(m.content))) throw new ClaudeError('Ne colle pas de clé API dans la conversation. Elle est déjà lue sur le serveur.');
   const recent = messages.slice(-11);
   if (recent[0]?.role === 'assistant') recent.shift();
-  return request<ClaudeReply>('messages', { messages: recent, context: context.slice(0, 20_000), quick }, signal);
+  return request<ClaudeReply>('messages', { messages: recent, context: context.slice(0, 20_000), quick, lang }, signal);
 }
