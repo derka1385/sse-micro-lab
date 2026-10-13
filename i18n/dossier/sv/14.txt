@@ -1,0 +1,121 @@
+======================================================================
+12. ASYMMETRISK INFORMATION, KONTRAKT OCH INCITAMENT — L12
+======================================================================
+
+12.1 Identifiera vad som är dolt
+Asymmetric information : en part vet något som den andra inte vet.
+Adverse selection : privat TYP/kvalitet/risk, ofta före kontraktet.
+Moral hazard : privat HANDLING/ansträngning, ofta efter kontraktet.
+Enbart förekomsten av risk är ingen informationsasymmetri.
+Den centrala diagnosen: vem vet vad, vid vilken tidpunkt, och vilket val påverkas?
+
+12.2 Lemons / negativt urval
+L12 bilar: köparen värderar hög kvalitet till 150, låg till 50; säljaren
+hög till 130, låg till 30; initialt är sannolikheten för hög kvalitet 0.5.
+Observerbar kvalitet: affärer möjliga i [130,150] och [30,50].
+Kvalitet okänd för ALLA: genomsnittlig WTP 100, säljarens genomsnittliga reservationspris 80;
+affärer mellan 80 och 100 möjliga under modellens riskneutralitet.
+Bara säljaren informerad: ett genomsnittspris på 100 får inte de bra bilarna sålda
+(reservationspris 130). De lämnar; medelkvaliteten sjunker; köparna reviderar
+sin WTP; toppsegmentet kan försvinna trots möjliga vinster.
+Förväntningen måste vara FÖRENLIG med de säljare som stannar kvar vid det erbjudna priset.
+
+Körkortsförsäkring L12 : de som tror att de oftare blir underkända
+köper kanske mer, så de försäkrades risk överstiger genomsnittet 52%
+vid negativt urval; kontraktet kan också ändra ansträngningen (moral hazard).
+Rykte, garantier, certifiering, kvalitetsregler, returrätt,
+delad information, gruppavtal och obligatorisk försäkring kan
+minska negativt urval; effekten beror på mekanismen.
+E2020 Klarna, E2023 kundomdömen, E2024 vinstandarder: en certifiering
+eller ett kollektivt rykte kan låta små märken garantera
+sin kvalitet och minska de stora märkenas informationsfördel.
+
+12.3 Screening och signalling
+Screening: den MINDRE informerade parten samlar in/testar/utformar en meny för
+att lära sig typen. Signalling: den INFORMERADE parten vidtar en observerbar
+handling för att avslöja sin typ.
+En trovärdig signal måste vara tillräckligt kostsam att imitera för den dåliga
+typen, i förhållande till nyttan; « kostsam » räcker inte i sig.
+L12 utbildning: lön 100 med examen, 60 utan; kostnad C_A<C_S.
+Separation om 100-C_A>60 och 100-C_S<60, alltså C_A<40<C_S.
+Vid likheter kan typerna vara indifferenta; precisera urvalet.
+Pooling: typerna väljer samma signal; separating: olika signaler.
+En examens signalvärde bevisar inte att den inte skapar någon kompetens.
+
+12.4 Principal-agent och riskdelning
+Principalen erbjuder kontraktet; agenten väljer en ansträngning som inte är fullt
+observerbar. Utfallet beror på ansträngningen OCH på chocker.
+Att belöna utfallet ger incitament men utsätter agenten för risk.
+Fast lön: svagt monetärt incitament till ansträngning om den är kostsam.
+Intäktsdelning: agenten behåller en del av ansträngningens vinst och av risken.
+Agenten betalar en fast avgift och behåller intäkten: starka incitament
+på marginalen, men agenten bär risken. Franchise/arrende av verksamhet.
+Risk, begränsat ansvar och förmögenhet kan försvåra ett sådant kontrakt.
+
+L12 s.13–15, kontrollerad tabell: sannolikhet 0.5 dåligt/gott läge.
+Ansträngning H, privat kostnad 10 : intäkter 40 eller 100 ->förväntad intäkt 70,
+totalt nettoöverskott 60. Ansträngning L, kostnad 0 : intäkter 20 eller 40 ->förväntan 30.
+Fast lön w oberoende av intäkten: agenten föredrar L ; får w,
+ägaren får 30-w ; ägaren bär intäktsrisken.
+Delning 50/50 : H ger agenten 0.5*70-10=25, ägaren 35 ;
+L ger agenten 15 ->H väljs. Risken delas.
+Fast avgift F till ägaren, agenten behåller intäkten: H ger agenten 60-F,
+ägaren F ; L 30-F ->H. Agenten bär intäktsrisken.
+Deltagande kräver också att agenten föredrar kontraktet framför sitt
+yttre alternativ; ett bra incitament räcker inte för att kontraktet ska accepteras.
+
+12.5 Kredit med dold handling: allmän metod
+Projektet kostar I0, intäkt R vid framgång, annars 0. Lån D, återbetalning Bk
+endast vid framgång, begränsat ansvar. Framgång p_H med ansträngning
+H och p_L med L, p_H>p_L. L ger en privat nytta b.
+Entreprenörens nytta/förväntan vid H=p_H*(R-Bk).
+Entreprenörens nytta vid L=p_L*(R-Bk)+b.
+Om egen insats A investeras i förväg, dra av A i BÅDA fallen
+när nettovinsten mäts från före investeringen; den tar ut sig
+i jämförelsen av ansträngningar vid givet kontrakt.
+IC_H : (p_H-p_L)*(R-Bk)>=b.
+Bankens förväntade vinst=p_vald*Bk-D, med bankräntor/-kostnader normerade till 0.
+Finansiering kräver bankvinst>=0 OCH incitament för H om beräkningen bygger på H,
+samt entreprenörens deltagande givet det yttre alternativet.
+En för hög återbetalning kan förstöra ansträngningen, sänka p och minska den
+FÖRVÄNTADE återbetalningen trots en högre nominell återbetalning.
+
+A6/E2023 : R40,pH0.8,pL0.4,D20,Bk30.
+H8 ; L4+b. b2 ->H8>L6, bank 24-20=4.
+b6 ->L10>H8, bank 12-20=-8.
+Insats 10, D10,Bk15 : H20 ; L10+b=12 eller 16 ->H för b2 OCH b6 ;
+bank 12-10=2 i båda fallen. Efter avdrag för insatsen är entreprenörens
+vinst vid H 10 ; dra inte av insatsen för bara en ansträngning.
+Villkor utan insats: Bk<=40-b/0.4. För b6 gäller Bk<=25 ; banken
+kräver vid ansträngning H Bk>=20/0.8=25. Vid likhet är ansträngningen indifferent.
+
+12.6 Kontrakt, kontroll och straff
+E2025 städning: betalning 110 ; kostnad hög kvalitet 100 ; låg 70.
+Vinst H 10 ; vinst L 40-0.5*F. H minst lika bra om F>=60.
+F=60 ger indifferens; F>60 gör H strikt föredragen.
+Formel: minsta straff=(privat kostnadsbesparing)/(sannolikhet för upptäckt),
+om straffet kan betalas, agenten är riskneutral och kontraktet saknar andra effekter.
+Betalningen 110 tar ut sig i jämförelsen; den har betydelse för deltagandet.
+
+Carpenter E2022 : fast pris uppmuntrar att spara tid/kostnad, men riskerar att
+offra dold kvalitet; timlön skyddar mot risken för lång
+tidsåtgång men kan uppmuntra att dra ut på timmarna. Många andra kunder
+höjer tidens alternativkostnad och kan begränsa detta incitament.
+Tipping E2023 : kunden observerar servicekvaliteten bättre än chefen;
+dricks kan ge servitören en koppling mellan kvalitet och ersättning.
+Självrisk i försäkring: den försäkrade bär en del av kostnaden och
+behåller ett incitament att undvika skadan; avvägning försäkring/incitament.
+Private equity : kontroll, information och engagemang kan minska
+vissa problem med dold handling; blanda inte automatiskt ihop
+bankfinansiering och finansiering med eget kapital.
+
+12.7 Asymmetrisk bonus: anta inte diagnosen före beräkningen
+E2020 Q4d : A ger 100 med 0.75 och 80 med 0.25 ->E vinst 95.
+B ger 400 med 0.75 och -160 med 0.25 ->E vinst 260.
+Bonus 1% av positiva vinster, 0 vid förlust: förväntan 0.95 för A, 3 för B.
+Chefen föredrar B, och B maximerar här också den förväntade bruttovinsten;
+efter bonus 94.05 mot 257. Med enbart dessa data och vid risk-
+neutralitet skapar bonusen ingen konflikt om valet A/B. En konvex
+betalning kan gynna överdriven risk med ANDRA siffror, men
+denna uppgift visar inte det. Var försiktig om konkursvillkor
+eller riskpreferenser läggs till: de är inte kvantifierade här.

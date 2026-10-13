@@ -1,0 +1,121 @@
+======================================================================
+12. ASİMETRİK BİLGİ, SÖZLEŞMELER VE TEŞVİKLER — L12
+======================================================================
+
+12.1 Gizli olanı belirlemek
+Asymmetric information : bir taraf diğerinin bilmediği bir şeyi bilir.
+Adverse selection : özel TİP/kalite/risk, çoğu zaman sözleşmeden önce.
+Moral hazard : özel EYLEM/çaba, çoğu zaman sözleşmeden sonra.
+Yalnızca riskin varlığı bir bilgi asimetrisi değildir.
+Temel teşhis: kim neyi, hangi anda biliyor ve bu hangi seçimi etkiliyor?
+
+12.2 Lemons / ters seçim
+L12 arabalar: alıcı yüksek kaliteye 150, düşüğe 50 değer verir; satıcı
+yükseğe 130, düşüğe 30; başlangıçta yüksek kalite olasılığı 0.5.
+Gözlemlenebilir kalite: [130,150] ve [30,50] aralıklarında işlem mümkün.
+Kalite HERKES için bilinmiyor: ortalama WTP 100, satıcının ortalama rezervasyon fiyatı 80;
+modelin risk nötrlüğü altında 80 ile 100 arasında işlem mümkün.
+Yalnızca satıcı bilgili: 100'lük ortalama fiyat iyi arabaları sattırmaz
+(rezervasyon 130). Piyasadan çıkarlar; ortalama kalite düşer; alıcılar
+WTP'lerini gözden geçirir; potansiyel kazançlara rağmen üst segment kaybolabilir.
+Teklif edilen fiyatta kalan satıcılarla TUTARLI bir inanç gerekir.
+
+L12 ehliyet sigortası: kalacağını daha çok düşünenler
+daha çok satın alabilir; bu yüzden ters seçimde sigortalıların riski
+ortalama %52'nin üstündedir; sözleşme çabayı da değiştirebilir (moral hazard).
+İtibar, garantiler, sertifikasyon, kalite kuralları, iade hakkı,
+paylaşılan bilgi, grup sözleşmeleri ve zorunlu sigorta ters seçimi
+azaltabilir; etkinlikleri mekanizmaya bağlıdır.
+E2020 Klarna, E2023 müşteri yorumları, E2024 şarap standartları: bir sertifikasyon
+veya kolektif itibar, küçük markaların kalitelerini garanti etmesini
+ve büyük markaların bilgi üstünlüğünü azaltmasını sağlayabilir.
+
+12.3 Screening ve signalling
+Screening: DAHA AZ bilgili taraf, tipi öğrenmek için bilgi toplar/test eder/
+bir menü kurar. Signalling: BİLGİLİ taraf tipini göstermek için gözlemlenebilir
+bir eylemde bulunur.
+İnandırıcı bir sinyalin kötü tip için taklidi, elde edilen faydaya
+göre yeterince maliyetli olmalıdır; tek başına « maliyetli » yetmez.
+L12 eğitim: diplomayla ücret 100, diplomasız 60 ; maliyet C_A<C_S.
+100-C_A>60 ve 100-C_S<60 ise ayrışma, yani C_A<40<C_S.
+Eşitliklerde tipler kayıtsız kalabilir; seçimi belirt.
+Pooling: tipler aynı sinyali seçer; separating: farklı sinyaller.
+Bir diplomanın sinyal değeri, hiçbir yetkinlik yaratmadığını kanıtlamaz.
+
+12.4 Asil-vekil ve risk paylaşımı
+Asil sözleşmeyi önerir; vekil tam gözlemlenemeyen bir çaba seçer.
+Sonuç çabaya VE şoklara bağlıdır.
+Sonucu ödüllendirmek teşvik verir ama vekili riske maruz bırakır.
+Sabit ücret: çaba maliyetliyse çabaya zayıf parasal teşvik.
+Hasılat paylaşımı: vekil çabanın kazancının ve riskin bir kısmını tutar.
+Vekil sabit bir ücret öder ve hasılatı tutar: marjinal kazanca güçlü
+teşvikler, ama riski vekil taşır. Franchise/işletme kiralama.
+Risk, sınırlı sorumluluk ve servet bu sözleşmeyi zorlaştırabilir.
+
+L12 s.13–15, doğrulanmış tablo: kötü/iyi durum olasılığı 0.5.
+Çaba H, özel maliyet 10 : hasılat 40 veya 100 ->beklenen hasılat 70,
+toplam net rant 60. Çaba L, maliyet 0 : hasılat 20 veya 40 ->beklenti 30.
+Hasılattan bağımsız sabit ücret w : vekil L'yi tercih eder; w alır,
+mal sahibi 30-w alır; hasılat riskini mal sahibi taşır.
+50/50 paylaşım : H vekile 0.5*70-10=25, mal sahibine 35 verir;
+L vekile 15 verir ->H seçilir. Risk paylaşılır.
+Mal sahibine sabit ücret F, vekil hasılatı tutar: H vekile 60-F,
+mal sahibine F verir; L 30-F ->H. Hasılat riskini vekil taşır.
+Katılım ayrıca vekilin sözleşmeyi dış seçeneğine tercih etmesini
+gerektirir; iyi bir teşvik sözleşmenin kabul edilmesine yetmez.
+
+12.5 Gizli eylemli kredi: genel yöntem
+Proje I0'a mal olur, başarıda hasılat R, aksi halde 0. Kredi D, geri ödeme Bk
+yalnızca başarıda, sınırlı sorumluluk. Çaba H ile başarı p_H,
+L ile p_L, p_H>p_L. L özel bir fayda b sağlar.
+H altında girişimcinin faydası/beklentisi=p_H*(R-Bk).
+L altında girişimcinin faydası=p_L*(R-Bk)+b.
+Kişisel katkı A önceden yatırılmışsa, net kazanç yatırım öncesinden
+ölçülürken A'yı HER İKİ durumda da çıkar; verili bir sözleşmede
+çaba karşılaştırmasında birbirini götürür.
+IC_H : (p_H-p_L)*(R-Bk)>=b.
+Bankanın beklenen kârı=p_seçilen*Bk-D, banka faizi/maliyetleri 0'a normalize edilmiş.
+Finansman, banka kârı>=0 VE hesap H'ye dayanıyorsa H teşviki,
+ayrıca girişimcinin dış seçeneğine göre katılımını gerektirir.
+Çok yüksek bir geri ödeme çabayı yok edebilir, p'yi düşürebilir ve daha yüksek
+nominal geri ödemeye rağmen BEKLENEN geri ödemeyi azaltabilir.
+
+A6/E2023 : R40,pH0.8,pL0.4,D20,Bk30.
+H8 ; L4+b. b2 ->H8>L6, banka 24-20=4.
+b6 ->L10>H8, banka 12-20=-8.
+Katkı 10, D10,Bk15 : H20 ; L10+b=12 veya 16 ->b2 VE b6 için H ;
+banka her iki durumda 12-10=2. Katkı düşüldükten sonra girişimcinin
+H altındaki kazancı 10 ; katkıyı yalnızca bir çaba için düşme.
+Katkısız koşul: Bk<=40-b/0.4. b6 için Bk<=25 ; H çabasında
+banka Bk>=20/0.8=25 ister. Eşitlikte çaba kayıtsızdır.
+
+12.6 Sözleşmeler, denetim ve ceza
+E2025 temizlik: ödeme 110 ; yüksek kalite maliyeti 100 ; düşük 70.
+Kâr H 10 ; kâr L 40-0.5*F. F>=60 ise H en az onun kadar iyi.
+F=60 kayıtsızlık verir; F>60 H'yi kesin tercih edilir kılar.
+Formül: minimum ceza=(özel maliyet tasarrufu)/(yakalanma olasılığı),
+ceza ödenebilirse, vekil risk nötrse ve sözleşmenin başka etkisi yoksa.
+110'luk ödeme karşılaştırmada birbirini götürür; katılım için önemlidir.
+
+Carpenter E2022 : götürü ücret zamandan/maliyetten tasarrufu teşvik eder ama
+gizli kaliteyi feda etme riski taşır; saatlik ücret süre riskine karşı
+korur ama saatleri uzatmayı teşvik edebilir. Çok sayıda başka müşteri
+zamanın fırsat maliyetini artırır ve bu teşviki sınırlayabilir.
+Tipping E2023 : müşteri hizmet kalitesini patrondan daha iyi gözlemler;
+bahşiş garson için kalite ile ücret arasında bir bağ kurabilir.
+Sigorta muafiyeti: sigortalı maliyetin bir kısmını taşır ve
+hasardan kaçınma teşvikini korur; sigorta/teşvik dengesi.
+Private equity : denetim, bilgi ve katılım bazı gizli eylem
+sorunlarını azaltabilir; banka finansmanı ile özsermaye
+finansmanını otomatik olarak karıştırma.
+
+12.7 Asimetrik prim: hesaplamadan önce teşhisi varsayma
+E2020 Q4d : A 0.75 olasılıkla 100, 0.25 ile 80 getirir ->E kâr 95.
+B 0.75 ile 400, 0.25 ile -160 getirir ->E kâr 260.
+Pozitif kârların %1'i prim, zararda 0 : beklenti A için 0.95, B için 3.
+Yönetici B'yi tercih eder ve B burada brüt beklenen kârı da maksimize eder;
+prim düşülünce 94.05'e karşı 257. Yalnızca bu verilerle ve risk
+nötrlüğünde prim, A/B seçiminde çatışma yaratmaz. Dışbükey bir
+ödeme BAŞKA sayılarla aşırı riski teşvik edebilir, ama
+bu soru bunu göstermez. İflas kısıtları veya risk tercihleri
+eklenirse dikkat: burada sayısallaştırılmamışlardır.

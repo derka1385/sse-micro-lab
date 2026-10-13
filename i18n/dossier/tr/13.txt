@@ -1,0 +1,149 @@
+======================================================================
+11. DIŞSALLIKLAR, KİRLİLİK, KAMU MALLARI VE ORTAK KAYNAKLAR — L11
+======================================================================
+
+11.1 Özel, dışsal, sosyal
+Dışsallık: üçüncü bir tarafa etki; işlemde hesaba katılmaz.
+Negatif: kirlilik, gürültü; pozitif: aşılama, araştırma, ağ.
+MPC / PMC = marginal private cost, özel marjinal maliyet.
+MEC = marginal external cost, dışsal marjinal maliyet, ek ZARAR.
+MSC / SMC = marginal social cost = MPC+MEC.
+MPB / PMB = marginal private benefit, özel marjinal fayda.
+MEB = marginal external benefit, ek dışsal fayda.
+MSB / SMB = marginal social benefit = MPB+MEB.
+E2024'teki MC_p ve MC_e gösterimi sırasıyla MPC ve MEC anlamına gelir.
+MEC(Q) MARJİNAL bir maliyettir; TOPLAM dışsal maliyet onun integralidir,
+MEC(Q)'nun kendisi değil. MEC sabit e ise toplam zarar=eQ.
+MEC(Q)=Q ise toplam zarar=Q^2/2, Q^2 değil.
+
+Özel rekabetçi denge: MPB=MPC.
+Sosyal optimum: MSB=MSC.
+Yalnızca negatif üretim dışsallığı: talep=MPB=MSB ve arz=MPC ;
+piyasa çok fazla üretir. Yalnızca pozitif tüketim dışsallığı:
+talep=MPB, MSB onun üstünde; piyasa çok az üretir.
+Evrensel kural MSB=MSC'dir; üretim/tüketim ayrımı
+grafiğin hangi tarafının düzeltileceğini belirler.
+
+11.2 W ve DWL'yi ölçmek
+W(Q)=integral_0^Q [MSB(q)-MSC(q)]dq, eksi ilgili gerçek sabit maliyetler.
+DWL=W(Qeff)-W(Qgözlenen) : sapma aralığında MSB ile MSC arasındaki alan.
+Negatif dışsallıkta: W=CS+PS+vergi geliri-toplam dışsal zarar.
+Pozitifte: W=CS+PS-sübvansiyon harcaması+toplam dışsal fayda.
+Vergi/sübvansiyon bir transferdir; zararlar/faydalar üçüncü taraflar
+üzerindeki gerçek etkilerdir. L11'deki « societal producer surplus » üçüncü
+tarafların zararlarını içerir; yalnızca firmaların özel PS'sinden farklıdır.
+
+L11 s.5–8 ve E2023 : MPB=100-Q,MPC=10+Q,MEC=Q,MSC=10+2Q.
+Özel: Q45,p55. Sosyal: Q30,MPB70,MPC40,MEC30.
+Düzenlenmemiş DWL=0.5*(45-30)*45=337.5.
+Q45'te : MSC100,MSB55 ; yükseklik 45. Sosyal optimumda 70 alıcı fiyatı ile
+40 satıcı fiyatı 30'luk optimal vergiyle bağlanabilir.
+
+11.3 Pigou ve kusurlu müdahale
+Düzeltici vergi t*=MEC(Qeff); henüz içselleştirilmemiş negatif bir
+dışsallık ve aksi halde rekabetçi bir piyasa durumunda.
+Düzeltici sübvansiyon s*=MEB(Qeff), benzer pozitif durum.
+Marjinal değeri otomatik olarak başlangıç miktarında değil,
+ETKİN MİKTARDA değerlendir. Dışsallık Q'ya bağlıysa t* keyfi değildir.
+Bir vergi önceden var olan bir DWL'yi azaltabilir. Aşırı bir sübvansiyon
+Qeff'i aşıp yeniden DWL yaratabilir. Her zaman özel değil, sosyal optimumla karşılaştır.
+
+Yukarıdaki negatif örnek, vergi 20 : 100-Q=10+Q+20 ->Q35,
+p_b65,p_s45. Q 30'un üstünde kalır : DWL=0.5*5*15=37.5.
+Optimal vergi 30 ->Q30,DWL0 bu modelde.
+E2024 tekstil: talep200-Q,MPC80+Q,MECQ ->Qpriv60,Qeff40,
+DWL0.5*20*60=600 ; optimal vergi 40.
+A6 güneş enerjisi: MPB100-3Q,MPC10+2Q,MEB20 ->Qpriv18,p46,
+MSB120-3Q ->Qeff22, sübvansiyon 20 ; düzeltilmemiş DWL40.
+Q22'de alıcı fiyatı=34 ; satıcı 54 ; fark 20.
+
+11.4 Kirlilik ve azaltım: yatay eksene bak
+MAC=marginal abatement cost, kirliliği azaltmanın marjinal maliyeti.
+Eksen AZALTIM a ise : MAC çoğu zaman a arttıkça artar.
+Eksen kalan KİRLİLİK e ise : bir sonraki azaltımın MAC'i
+çoğu zaman e'de azalandır. İki grafik birbiriyle uyumludur.
+Optimum: bir birimi azaltmanın maliyeti = o birimin zararı, MAC=MEC.
+Emisyon vergisi: firma MAC=t'yi seçer; optimal vergi=optimumdaki MEC.
+L11 s.13 : kirlilik ekseni Q'da, MAC=10-Q, MEC=Q/2.
+Vergisiz Q10 ; vergi 2 ->MAC2 ->Q8, MEC4. Bu optimum değildir:
+optimum Q=20/3≈6.667, vergi 10/3≈3.333.
+OUTPUT başına vergi, ancak birim başına emisyon sabitse EMİSYON başına
+vergiye denktir; aksi halde emisyonu doğrudan vergilendirmek
+daha temiz teknolojiyi de teşvik edebilir.
+
+11.5 Kotalar, izinler ve belirsizlik
+Kota: bir emisyon miktarı belirler. Vergi: kirletmenin fiyatını belirler.
+Ticarete konu izinler: toplam tavan ve devredilebilir haklar.
+Başlangıç dağılımında MAC_L<MAC_H ise L daha çok azaltır ve izin
+satar; H satın alır ve daha az azaltır. MAC'ler farklı olduğu sürece kazanç vardır.
+İç çözümde MAC_L=MAC_H=izin fiyatı: aynı tavana minimum maliyetle
+ulaşılır. Başlangıç dağılımı rantları etkiler; sürtünmesiz ticarette
+etkin nihai dağılımı zorunlu olarak etkilemez.
+Firma başına eşit kota genellikle toplam maliyeti minimize etmez.
+
+E2021 Q1d, « prices versus quantities » tamamlayıcısı : belirsiz azaltım
+maliyetleri ve çok dik marjinal zararlar ->kota/tavan emisyon miktarında
+büyük bir hataya karşı daha iyi korur. Görece düz marjinal
+zararlar ve dik MAC ->vergi, kotaya uymanın aşırı maliyetinden
+daha iyi kaçınabilir. Optimum çevresindeki GÖRELİ eğimlere dair bir argüman,
+« kotalar her zaman daha iyidir » kuralı değil. İki olası MAC çiz.
+
+11.6 Coase ve mülkiyet hakları
+İyi tanımlanmış haklar ve maliyetsiz pazarlık ->taraflar, teoremin
+varsayımları altında, hakların başlangıç dağılımı ne olursa olsun
+etkin bir miktarda anlaşabilir. Dağılım kimin ödediğini ve gelirleri değiştirir.
+Sezgi: zararı azaltmak kaybettirdiği kârdan daha değerliyse anlaşmadan
+kazanç vardır; kazanç ortadan kalkana kadar pazarlık et.
+İşlem maliyetleri: zaman, sözleşmeler, denetim, çok sayıda taraf,
+bedavacılar, koordinasyon ve sosyal normlar. Anlaşmaları
+engelleyebilirler. Belirsiz hak ->teoremin koşulu sağlanmaz.
+Kirleteni ve mağduru tek bir sahip altında toplamak etkiyi
+içselleştirebilir, ama tekelci hale gelen bir sahip başka bir
+bozulma getirebilir; otomatik olarak sosyal açıdan optimal
+rekabetçi miktar sonucuna varma. E2024 Q3d ve E2025 Q1c.
+
+11.7 Dört mal kategorisi
+Dışlanabilir: erişim engellenebilir. Rakip: bir kişinin kullanımı
+diğerlerinin olanaklarını azaltır.
+                       Dışlanabilir               Dışlanamaz
+Rakip                  Özel mal                   Ortak kaynak
+Rakip olmayan          Kulüp malı                 Saf kamu malı
+Özel: sandviç. Kulüp: tıkanık olmayan abonelik/hizmet.
+Ortak: serbest erişimli balıkçılık; girişimli frekans spektrumu (E2023).
+Kamu: savunma, yaygınlaştırılmış temel araştırma, alıştırmanın
+modelinde sokak temizliği. Tıkanıklık ve erişim kuralları
+sınıflandırmayı değiştirebilir. Bir yol/tünel her zaman saf kamu
+malı değildir: geçiş ücreti mümkündür ve tıkanıklıkta rakiplik vardır.
+
+11.8 Kamu malı: DİKEY toplama
+Herkes aynı Q'dan yararlanır. MB_sosyal(Q)=toplam_i max(0,MB_i(Q)).
+İç optimum: toplam MB_i=MC, Samuelson koşulu (standart ad,
+slaytlarda kullanılması şart değil).
+Mal belirli bir miktarın ötesinde yalnızca istenmiyorsa her negatif WTP'yi
+0'da kes; mal gerçekten zarar veriyorsa model değişir.
+Her MB'nin sıfırlandığı eşikleri belirle, sonra segmenti kontrol et.
+Free rider: ödemeden de yararlanmak ->az katkı yapma ve
+WTP'sini az beyan etme teşviki. Gönüllü sağlama genellikle yetersizdir,
+ama sıfır olmak zorunda değildir. Zorunlu vergi/normlar yardımcı olabilir.
+
+L11 s.25 : MB_L=10-h, MB_H=20-h.
+h<=10 için : toplam 30-2h. MC26 ->h2 ; MC14 ->h8.
+MC14'te H tek başına h6'yı finanse eder, kolektif optimum 8'in altında.
+MC26'da h2 kolektif olarak yararlı olsa da hiç kimse tek başına finanse etmez.
+E2024 tünel: MB1=10-Q,MB2=5-Q,MB3=10-2Q,MC9.
+Q<=5 üzerinde toplam 25-4Q ; Qeff4, 4'te tüm WTP'ler pozitif.
+E2025/A6 temizlik: MB15-Q,12-Q,9-Q ; toplam 36-3Q ; MC27 ->Qeff3.
+E2022 wifi: 300 kişi MB10-Q ; 300(10-Q)=1500 ->Qeff5.
+Bu kamu malı için Q=300(10-p) yazma: her kişi hızın bireysel
+bir payını değil, AYNI hızı tüketir.
+
+11.9 Ortak kaynak ve serbest erişim
+Her kullanıcı diğerlerine göz ardı ettiği bir kıtlık/tıkanıklık yükler.
+Tragedy of the commons : aşırı kullanım; kaynağın değersizliği değil.
+L11 balıkçılık örneği: tekne başına ortalama hasılat vs bireysel maliyet; giriş
+ortalama hasılat=maliyet olana kadar sürer, oysa optimum ek bir teknenin
+SOSYAL marjinal ürününü kullanır. Çok fazla tekneyle toplam av
+kötüleşebilir. MP ve AP'yi eş anlamlı kullanma.
+Çözümler: mülkiyet hakları, miktar kısıtları, izinler,
+harçlar, tekrarlanan etkileşimlerde yerel kurallar ve normlar.
+Kamu malında free rider = az katkı; ortak kaynakta = aşırı kullanım.

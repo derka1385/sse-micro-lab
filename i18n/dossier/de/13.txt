@@ -1,0 +1,149 @@
+======================================================================
+11. EXTERNALITÄTEN, UMWELTVERSCHMUTZUNG, ÖFFENTLICHE GÜTER UND ALLMENDE — L11
+======================================================================
+
+11.1 Privat, extern, sozial
+Externalität: Wirkung auf Dritte, die in der Transaktion nicht berücksichtigt wird.
+Negativ: Verschmutzung, Lärm; positiv: Impfung, Forschung, Netzwerk.
+MPC / PMC = marginal private cost, private Grenzkosten.
+MEC = marginal external cost, externe Grenzkosten, zusätzlicher SCHADEN.
+MSC / SMC = marginal social cost = MPC+MEC.
+MPB / PMB = marginal private benefit, privater Grenznutzen.
+MEB = marginal external benefit, zusätzlicher externer Nutzen.
+MSB / SMB = marginal social benefit = MPB+MEB.
+Die Notation MC_p und MC_e in E2024 bezeichnet MPC bzw. MEC.
+MEC(Q) ist ein GRENZ-Kostenbegriff; die GESAMTEN externen Kosten sind sein Integral,
+nicht MEC(Q) selbst. Bei konstantem MEC e ist der Gesamtschaden=eQ.
+Bei MEC(Q)=Q ist der Gesamtschaden=Q^2/2, nicht Q^2.
+
+Privates Wettbewerbsgleichgewicht: MPB=MPC.
+Soziales Optimum: MSB=MSC.
+Nur negative Produktionsexternalität: Nachfrage=MPB=MSB und Angebot=MPC ;
+der Markt produziert zu viel. Nur positive Konsumexternalität:
+Nachfrage=MPB, MSB darüber; der Markt produziert zu wenig.
+Die allgemeine Regel ist MSB=MSC ; die Unterscheidung Produktion/Konsum
+bestimmt, welche Seite der Grafik anzupassen ist.
+
+11.2 W und DWL messen
+W(Q)=Integral_0^Q [MSB(q)-MSC(q)]dq, minus relevante reale Fixkosten.
+DWL=W(Qeff)-W(Qbeobachtet) : Fläche zwischen MSB und MSC über dem Abweichungsintervall.
+Bei negativer Externalität: W=CS+PS+Steuereinnahmen-gesamter externer Schaden.
+Bei positiver: W=CS+PS-Subventionsausgaben+gesamter externer Nutzen.
+Steuer/Subvention ist ein Transfer; Schäden/Nutzen sind reale Wirkungen
+auf Dritte. Der „societal producer surplus“ in L11 enthält die
+Schäden Dritter; er unterscheidet sich vom privaten PS der Firmen allein.
+
+L11 S.5–8 und E2023 : MPB=100-Q,MPC=10+Q,MEC=Q,MSC=10+2Q.
+Privat: Q45,p55. Sozial: Q30,MPB70,MPC40,MEC30.
+Unregulierter DWL=0.5*(45-30)*45=337.5.
+Bei Q45 : MSC100,MSB55 ; Höhe 45. Im sozialen Optimum können ein Käuferpreis 70 und ein
+Verkäuferpreis 40 durch die optimale Steuer 30 verbunden werden.
+
+11.3 Pigou und unvollkommene Eingriffe
+Korrektivsteuer t*=MEC(Qeff), bei einer negativen Externalität,
+die noch nicht internalisiert ist, und einem sonst wettbewerblichen Markt.
+Korrektivsubvention s*=MEB(Qeff), analoger positiver Fall.
+Den Grenzwert bei der EFFIZIENTEN MENGE bewerten, nicht automatisch
+bei der Anfangsmenge. Hängt die Externalität von Q ab, ist t* nicht beliebig.
+Eine Steuer kann einen bestehenden DWL verringern. Eine zu hohe Subvention kann
+über Qeff hinausschießen und erneut einen DWL erzeugen. Immer mit dem sozialen Optimum vergleichen, nicht mit dem privaten.
+
+Negatives Beispiel oben, Steuer 20 : 100-Q=10+Q+20 ->Q35,
+p_b65,p_s45. Q bleibt über 30 : DWL=0.5*5*15=37.5.
+Optimale Steuer 30 ->Q30,DWL0 in diesem Modell.
+E2024 Textilien: Nachfrage200-Q,MPC80+Q,MECQ ->Qpriv60,Qeff40,
+DWL0.5*20*60=600 ; optimale Steuer 40.
+A6 Solar: MPB100-3Q,MPC10+2Q,MEB20 ->Qpriv18,p46,
+MSB120-3Q ->Qeff22, Subvention 20 ; unkorrigierter DWL40.
+Käuferpreis bei Q22=34 ; Verkäufer 54 ; Differenz 20.
+
+11.4 Verschmutzung und Vermeidung: auf die horizontale Achse schauen
+MAC=marginal abatement cost, Grenzkosten der Verschmutzungsvermeidung.
+Ist die Achse die VERMEIDUNG a : MAC steigt oft mit a.
+Ist die Achse die verbleibende VERSCHMUTZUNG e : die MAC der nächsten Reduktion
+fällt oft in e. Beide Grafiken sind vereinbar.
+Optimum: Kosten der Vermeidung einer Einheit = Schaden dieser Einheit, MAC=MEC.
+Emissionssteuer: die Firma wählt MAC=t ; optimale Steuer=MEC im Optimum.
+L11 S.13 : auf der Verschmutzungsachse Q, MAC=10-Q, MEC=Q/2.
+Ohne Steuer Q10 ; Steuer 2 ->MAC2 ->Q8, MEC4. Das ist nicht das Optimum:
+Optimum Q=20/3≈6.667, Steuer 10/3≈3.333.
+Eine Steuer pro OUTPUT-Einheit entspricht einer Steuer pro EMISSION nur, wenn
+die Emission pro Einheit fest ist; sonst kann eine direkte Emissionssteuer
+auch sauberere Technologie fördern.
+
+11.5 Quoten, Zertifikate und Unsicherheit
+Quote: legt eine Emissionsmenge fest. Steuer: legt den Preis des Verschmutzens fest.
+Handelbare Zertifikate: Gesamtobergrenze und übertragbare Rechte.
+Ist MAC_L<MAC_H bei der Anfangsverteilung, vermeidet L mehr und verkauft
+Zertifikate; H kauft und vermeidet weniger. Gewinn, solange die MAC sich unterscheiden.
+Im Inneren gilt MAC_L=MAC_H=Zertifikatspreis: dieselbe Obergrenze zu
+minimalen Kosten. Die Anfangsverteilung beeinflusst die Renten, nicht unbedingt
+die effiziente Endverteilung bei reibungslosem Handel.
+Eine gleiche Quote pro Firma minimiert die Gesamtkosten im Allgemeinen nicht.
+
+E2021 Q1d, Ergänzung „prices versus quantities“ : unsichere Vermeidungs-
+kosten und sehr steile Grenzschäden ->Quote/Obergrenze schützt besser
+vor einem großen Fehler bei der Emissionsmenge. Relativ flache Grenz-
+schäden und steile MAC ->eine Steuer kann übermäßige Kosten der
+Quoteneinhaltung besser vermeiden. Argument über RELATIVE Steigungen um das Optimum,
+keine Regel „Quoten sind immer besser“. Zeichne zwei mögliche MAC.
+
+11.6 Coase und Eigentumsrechte
+Klar definierte Rechte und kostenlose Verhandlung ->die Parteien können
+eine effiziente Menge aushandeln, unabhängig von der anfänglichen Rechtezuteilung,
+unter den Annahmen des Theorems. Die Zuteilung ändert, wer zahlt, und die Einkommen.
+Intuition: eine Einigung lohnt sich, wenn eine Schadensminderung mehr wert ist
+als der Gewinn, den sie kostet; verhandeln, bis der Gewinn verschwindet.
+Transaktionskosten: Zeit, Verträge, Kontrolle, viele Parteien,
+Trittbrettfahrer, Koordination und soziale Normen. Sie können
+Einigungen verhindern. Unsicheres Recht ->Bedingung des Theorems nicht erfüllt.
+Verursacher und Geschädigte unter einen Eigentümer zu bringen, kann
+die Wirkung internalisieren, aber ein Eigentümer, der Monopolist wird, kann eine andere
+Verzerrung einführen; nicht automatisch auf die sozial optimale
+Wettbewerbsmenge schließen. E2024 Q3d und E2025 Q1c.
+
+11.7 Vier Kategorien von Gütern
+Ausschließbar: der Zugang kann verhindert werden. Rivalisierend: die Nutzung einer Person
+verringert die Möglichkeiten der anderen.
+                       Ausschließbar              Nicht ausschließbar
+Rivalisierend          Privates Gut               Allmendegut
+Nicht rivalisierend    Clubgut                    Reines öffentliches Gut
+Privat: Sandwich. Club: nicht überfülltes Abo/Dienstleistung.
+Allmende: Fischerei mit freiem Zugang; Frequenzspektrum mit Interferenzen (E2023).
+Öffentlich: Verteidigung, verbreitete Grundlagenforschung, Straßenreinigung
+im Modell der Übung. Überfüllung und Zugangsregeln können
+die Einordnung ändern. Eine Straße/ein Tunnel ist nicht immer ein reines öffentliches
+Gut: Maut ist möglich, und bei Überfüllung herrscht Rivalität.
+
+11.8 Öffentliches Gut: VERTIKALE Aggregation
+Alle profitieren von demselben Q. MB_sozial(Q)=Summe_i max(0,MB_i(Q)).
+Inneres Optimum: Summe MB_i=MC, Samuelson-Bedingung (Standardname,
+nicht unbedingt in den Folien verwendet).
+Jede negative WTP bei 0 abschneiden, wenn das Gut über eine Menge hinaus
+einfach nicht gewünscht ist; schadet das Gut tatsächlich, ändert sich das Modell.
+Die Schwellen bestimmen, an denen jede MB null wird, dann das Segment prüfen.
+Free rider: profitieren, auch ohne zu zahlen ->Anreiz, zu wenig beizutragen und
+die eigene WTP zu niedrig anzugeben. Freiwillige Bereitstellung ist meist unzureichend,
+nicht unbedingt null. Pflichtsteuern/Normen können helfen.
+
+L11 S.25 : MB_L=10-h, MB_H=20-h.
+Für h<=10 : Summe 30-2h. MC26 ->h2 ; MC14 ->h8.
+Bei MC14 würde H allein h6 finanzieren, unter dem kollektiven Optimum 8.
+Bei MC26 finanziert niemand allein etwas, obwohl h2 kollektiv nützlich ist.
+E2024 Tunnel: MB1=10-Q,MB2=5-Q,MB3=10-2Q,MC9.
+Auf Q<=5 Summe 25-4Q ; Qeff4, alle WTP bei 4 positiv.
+E2025/A6 Reinigung: MB15-Q,12-Q,9-Q ; Summe 36-3Q ; MC27 ->Qeff3.
+E2022 WLAN: 300 Personen MB10-Q ; 300(10-Q)=1500 ->Qeff5.
+Nicht Q=300(10-p) für dieses öffentliche Gut schreiben: jede Person nutzt
+DIESELBE Geschwindigkeit, keinen individuellen Bruchteil davon.
+
+11.9 Allmenderessource und freier Zugang
+Jede Nutzerin und jeder Nutzer verursacht für andere eine Knappheit/Überfüllung, die ignoriert wird.
+Tragedy of the commons : Übernutzung, nicht fehlender Wert der Ressource.
+Fischereibeispiel L11 : Durchschnittserlös pro Boot vs. individuelle Kosten; Eintritt
+bis Durchschnittserlös=Kosten, während das Optimum das SOZIALE Grenz-
+produkt eines zusätzlichen Boots verwendet. Der Gesamtfang kann sich
+bei zu vielen Booten verschlechtern. MP und AP nicht als Synonyme verwenden.
+Lösungen: Eigentumsrechte, Mengenbeschränkungen, Zertifikate,
+Gebühren, lokale Regeln und Normen bei wiederholten Interaktionen.
+Free rider beim öffentlichen Gut = zu geringer Beitrag; Allmende = Übernutzung.

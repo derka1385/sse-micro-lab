@@ -1,0 +1,149 @@
+======================================================================
+11. EXTERNALITIES, POLLUTION, PUBLIC GOODS AND COMMONS — L11
+======================================================================
+
+11.1 Private, external, social
+Externality: an effect on a third party, not taken into account in the transaction.
+Negative: pollution, noise; positive: vaccination, research, network.
+MPC / PMC = marginal private cost.
+MEC = marginal external cost, the additional DAMAGE.
+MSC / SMC = marginal social cost = MPC+MEC.
+MPB / PMB = marginal private benefit.
+MEB = marginal external benefit, the additional external benefit.
+MSB / SMB = marginal social benefit = MPB+MEB.
+The notation MC_p and MC_e in E2024 means MPC and MEC respectively.
+MEC(Q) is a MARGINAL cost; TOTAL external cost is its integral,
+not MEC(Q) itself. If MEC is constant e, total damage=eQ.
+If MEC(Q)=Q, total damage=Q^2/2, not Q^2.
+
+Private competitive equilibrium: MPB=MPC.
+Social optimum: MSB=MSC.
+Negative production externality alone: demand=MPB=MSB and supply=MPC;
+the market produces too much. Positive consumption externality alone:
+demand=MPB, MSB above it; the market produces too little.
+The universal rule is MSB=MSC; the production/consumption distinction
+determines which side of the graph to adjust.
+
+11.2 Measuring W and DWL
+W(Q)=integral_0^Q [MSB(q)-MSC(q)]dq, minus relevant real fixed costs.
+DWL=W(Qeff)-W(Qobserved): area between MSB and MSC over the gap interval.
+With a negative externality: W=CS+PS+tax revenue-total external damage.
+With a positive one: W=CS+PS-subsidy spending+total external benefit.
+The tax/subsidy is a transfer; damages/benefits are real effects
+on third parties. The "societal producer surplus" of L11 includes
+third-party damages; it differs from the private PS of the firms alone.
+
+L11 p.5–8 and E2023: MPB=100-Q,MPC=10+Q,MEC=Q,MSC=10+2Q.
+Private: Q45,p55. Social: Q30,MPB70,MPC40,MEC30.
+Unregulated DWL=0.5*(45-30)*45=337.5.
+At Q45: MSC100,MSB55; height 45. At the social optimum, a buyer price 70 and a
+seller price 40 can be linked by the optimal tax 30.
+
+11.3 Pigou and imperfect intervention
+Corrective tax t*=MEC(Qeff), for a negative externality
+not already internalised and an otherwise competitive market.
+Corrective subsidy s*=MEB(Qeff), the analogous positive case.
+Evaluate the marginal value at the EFFICIENT QUANTITY, not automatically
+at the initial quantity. If the externality depends on Q, t* is not arbitrary.
+A tax can reduce a pre-existing DWL. An excessive subsidy can
+overshoot Qeff and recreate a DWL. Always compare with the social optimum, not the private one.
+
+Negative example above, tax 20: 100-Q=10+Q+20 ->Q35,
+p_b65,p_s45. Q stays above 30: DWL=0.5*5*15=37.5.
+Optimal tax 30 ->Q30,DWL0 in this model.
+E2024 textiles: demand200-Q,MPC80+Q,MECQ ->Qpriv60,Qeff40,
+DWL0.5*20*60=600; optimal tax 40.
+A6 solar: MPB100-3Q,MPC10+2Q,MEB20 ->Qpriv18,p46,
+MSB120-3Q ->Qeff22, subsidy 20; uncorrected DWL40.
+Buyer price at Q22=34; seller 54; gap 20.
+
+11.4 Pollution and abatement: look at the horizontal axis
+MAC=marginal abatement cost, the marginal cost of reducing pollution.
+If the axis is ABATEMENT a: MAC often rises as a rises.
+If the axis is remaining POLLUTION e: the MAC of the next reduction is
+often decreasing in e. The two graphs are compatible.
+Optimum: cost of reducing one unit = damage of that unit, MAC=MEC.
+Emissions tax: the firm chooses MAC=t; optimal tax=MEC at the optimum.
+L11 p.13: on the pollution axis Q, MAC=10-Q, MEC=Q/2.
+Without tax Q10; tax 2 ->MAC2 ->Q8, MEC4. This is not the optimum:
+optimum Q=20/3≈6.667, tax 10/3≈3.333.
+A tax per unit of OUTPUT is equivalent to a tax per unit of EMISSION only if
+emission per unit is fixed; otherwise taxing emissions directly can
+also encourage cleaner technology.
+
+11.5 Quotas, permits and uncertainty
+Quota: fixes a quantity of emissions. Tax: fixes the price of polluting.
+Tradable permits: a total cap and transferable rights.
+If MAC_L<MAC_H at the initial allocation, L abates more and sells
+permits; H buys and abates less. There is a gain as long as MACs differ.
+At an interior solution, MAC_L=MAC_H=permit price: the same cap reached at
+minimum cost. The initial allocation affects rents, not necessarily
+the efficient final allocation under frictionless trading.
+An identical quota per firm does not generally minimise total cost.
+
+E2021 Q1d, "prices versus quantities" complement: uncertain abatement
+costs and very steep marginal damages ->a quota/cap protects better
+against a large error in the quantity of emissions. Relatively flat marginal
+damages and steep MAC ->a tax can better avoid an excessive cost
+of complying with the quota. An argument about RELATIVE slopes around the optimum,
+not a rule "quotas are always better". Draw two possible MACs.
+
+11.6 Coase and property rights
+Well-defined rights and costless bargaining ->the parties can negotiate
+an efficient quantity, whatever the initial allocation of rights,
+under the theorem's assumptions. The allocation changes who pays and incomes.
+Intuition: gains from an agreement when reducing the damage is worth more
+than the profit it costs; bargain until the gain disappears.
+Transaction costs: time, contracts, monitoring, a large number of parties,
+free riders, coordination and social norms. They can block
+agreements. Uncertain rights ->the theorem's condition is not met.
+Bringing polluter and victim under one owner can internalise
+the effect, but an owner who becomes a monopolist can introduce another
+distortion; do not automatically conclude the socially optimal
+competitive quantity. E2024 Q3d and E2025 Q1c.
+
+11.7 Four categories of goods
+Excludable: access can be prevented. Rival: one person's use
+reduces the possibilities of others.
+                       Excludable                 Non-excludable
+Rival                  Private good               Common resource
+Non-rival              Club good                  Pure public good
+Private: sandwich. Club: uncongested subscription/service.
+Common: open-access fishery; spectrum with interference (E2023).
+Public: defence, disseminated basic research, street cleaning
+in the exercise's model. Congestion and access rules can
+change the classification. A road/tunnel is not always a pure public
+good: tolls are possible and there is rivalry when congested.
+
+11.8 Public good: VERTICAL summation
+Everyone benefits from the same Q. MB_social(Q)=sum_i max(0,MB_i(Q)).
+Interior optimum: sum MB_i=MC, the Samuelson condition (standard name,
+not necessarily used in the slides).
+Truncate each negative WTP at 0 if the good is simply not wanted beyond
+a quantity; if the good really does harm, the model changes.
+Identify the thresholds where each MB reaches zero, then check the segment.
+Free rider: benefiting even without paying ->incentive to under-contribute and
+to under-reveal one's WTP. Voluntary provision is usually insufficient,
+not necessarily zero. Compulsory taxes/norms can help.
+
+L11 p.25: MB_L=10-h, MB_H=20-h.
+For h<=10: sum 30-2h. MC26 ->h2; MC14 ->h8.
+At MC14, H alone would fund h6, below the collective optimum 8.
+At MC26, no individual alone funds anything even though h2 is collectively useful.
+E2024 tunnel: MB1=10-Q,MB2=5-Q,MB3=10-2Q,MC9.
+On Q<=5, sum 25-4Q; Qeff4, all WTPs positive at 4.
+E2025/A6 cleaning: MB15-Q,12-Q,9-Q; sum 36-3Q; MC27 ->Qeff3.
+E2022 wifi: 300 people MB10-Q; 300(10-Q)=1500 ->Qeff5.
+Do not write Q=300(10-p) for this public good: each person consumes
+the SAME speed, not an individual fraction of the speed.
+
+11.9 Common resource and open access
+Each user imposes on others a scarcity/congestion they ignore.
+Tragedy of the commons: overuse, not a lack of value of the resource.
+L11 fishery example: average revenue per boat vs individual cost; entry
+until average revenue=cost, whereas the optimum uses the SOCIAL marginal
+product of an extra boat. The total catch can deteriorate
+with too many boats. Do not use MP and AP as synonyms.
+Solutions: property rights, quantity restrictions, permits,
+fees, local rules and norms in repeated interactions.
+Free rider of the public good = under-contribution; commons = overexploitation.

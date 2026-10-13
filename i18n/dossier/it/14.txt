@@ -1,0 +1,121 @@
+======================================================================
+12. INFORMAZIONE ASIMMETRICA, CONTRATTI E INCENTIVI — L12
+======================================================================
+
+12.1 Identificare ciò che è nascosto
+Asymmetric information : una parte sa qualcosa che l'altra ignora.
+Adverse selection : TIPO/qualità/rischio privato, spesso prima del contratto.
+Moral hazard : AZIONE/sforzo privato, spesso dopo il contratto.
+La sola presenza di rischio non è un'asimmetria informativa.
+La diagnosi centrale: chi sa cosa, in quale momento, e quale scelta ne è influenzata?
+
+12.2 Lemons / selezione avversa
+L12 auto: chi compra valuta l'alta qualità 150, la bassa 50; chi vende
+alta 130, bassa 30; inizialmente probabilità di alta qualità 0.5.
+Qualità osservabile: transazioni possibili in [130,150] e [30,50].
+Qualità ignota a TUTTI: WTP media 100, prezzo di riserva medio del venditore 80;
+transazioni tra 80 e 100 possibili con la neutralità al rischio del modello.
+Solo chi vende è informato: un prezzo medio di 100 non fa vendere le auto buone
+(riserva 130). Escono; la qualità media cala; chi compra rivede
+la propria WTP; il mercato di fascia alta può sparire nonostante guadagni potenziali.
+Serve una credenza COERENTE con i venditori che restano al prezzo offerto.
+
+Assicurazione patente L12 : chi pensa di essere bocciato più spesso
+può comprarne di più, quindi il rischio degli assicurati supera la media del 52%
+con selezione avversa; il contratto può anche cambiare lo sforzo (moral hazard).
+Reputazione, garanzie, certificazione, regole di qualità, diritto di reso,
+informazione condivisa, contratti di gruppo e assicurazione obbligatoria possono
+ridurre la selezione avversa; la loro efficacia dipende dal meccanismo.
+E2020 Klarna, E2023 recensioni dei clienti, E2024 norme del vino: una certificazione
+o reputazione collettiva può permettere ai piccoli marchi di garantire
+la propria qualità e ridurre il vantaggio informativo dei grandi marchi.
+
+12.3 Screening e signalling
+Screening: la parte MENO informata raccoglie/testa/struttura un menu per
+conoscere il tipo. Signalling: la parte INFORMATA compie un'azione
+osservabile per rivelare il proprio tipo.
+Un segnale credibile deve essere abbastanza costoso da imitare per il tipo
+cattivo, rispetto al beneficio ottenuto; « costoso » da solo non basta.
+L12 istruzione: salario 100 con diploma, 60 senza; costo C_A<C_S.
+Separazione se 100-C_A>60 e 100-C_S<60, quindi C_A<40<C_S.
+Nei casi di uguaglianza i tipi possono essere indifferenti; precisare la selezione.
+Pooling: i tipi scelgono lo stesso segnale; separating: segnali diversi.
+Il valore di segnale di un diploma non prova che non crei alcuna competenza.
+
+12.4 Principale-agente e condivisione del rischio
+Il principale propone il contratto; l'agente sceglie uno sforzo non perfettamente
+osservabile. Il risultato dipende dallo sforzo E da shock.
+Premiare il risultato dà incentivi ma espone l'agente al rischio.
+Salario fisso: debole incentivo monetario allo sforzo se questo è costoso.
+Divisione del ricavo: l'agente conserva una parte del guadagno dello sforzo e del rischio.
+L'agente paga un canone fisso e conserva il ricavo: forti incentivi
+al guadagno marginale, ma sopporta il rischio. Franchising/affitto d'azienda.
+Rischio, responsabilità limitata e ricchezza possono rendere difficile questo contratto.
+
+L12 p.13–15, tabella verificata: probabilità 0.5 stato cattivo/buono.
+Sforzo H, costo privato 10 : ricavi 40 o 100 ->ricavo atteso 70,
+surplus netto totale 60. Sforzo L, costo 0 : ricavi 20 o 40 ->attesa 30.
+Salario fisso w indipendente dal ricavo: l'agente preferisce L ; riceve w,
+la proprietà riceve 30-w ; la proprietà sopporta il rischio di ricavo.
+Divisione 50/50 : H dà all'agente 0.5*70-10=25, alla proprietà 35 ;
+L dà all'agente 15 ->H scelto. Rischio condiviso.
+Canone fisso F alla proprietà, l'agente tiene il ricavo: H dà all'agente 60-F,
+alla proprietà F ; L 30-F ->H. L'agente sopporta il rischio di ricavo.
+La partecipazione richiede anche che l'agente preferisca il contratto alla sua opzione
+esterna; un buon incentivo non basta a far accettare il contratto.
+
+12.5 Credito con azione nascosta: metodo generale
+Il progetto costa I0, ricavo R in caso di successo, 0 altrimenti. Prestito D, rimborso Bk
+solo in caso di successo, responsabilità limitata. Successo p_H con sforzo
+H e p_L con L, p_H>p_L. L procura un beneficio privato b.
+Utilità/attesa dell'imprenditore con H=p_H*(R-Bk).
+Utilità dell'imprenditore con L=p_L*(R-Bk)+b.
+Se un apporto personale A è investito in anticipo, sottrarre A in ENTRAMBI i casi
+quando si misura il guadagno netto da prima dell'investimento; si annulla
+nel confronto tra sforzi a contratto dato.
+IC_H : (p_H-p_L)*(R-Bk)>=b.
+Profitto atteso della banca=p_scelto*Bk-D, con tassi/costi bancari normalizzati a 0.
+Il finanziamento richiede profitto della banca>=0 E incentivo H se il calcolo si basa su H,
+nonché la partecipazione dell'imprenditore secondo la sua opzione esterna.
+Un rimborso troppo alto può distruggere lo sforzo, ridurre p e diminuire il
+rimborso ATTESO nonostante un rimborso nominale più alto.
+
+A6/E2023 : R40,pH0.8,pL0.4,D20,Bk30.
+H8 ; L4+b. b2 ->H8>L6, banca 24-20=4.
+b6 ->L10>H8, banca 12-20=-8.
+Apporto 10, D10,Bk15 : H20 ; L10+b=12 o 16 ->H per b2 E b6 ;
+banca 12-10=2 in entrambi i casi. Dedotto l'apporto, il guadagno
+dell'imprenditore con H è 10 ; non dedurre l'apporto per un solo sforzo.
+Condizione senza apporto: Bk<=40-b/0.4. Per b6, Bk<=25 ; la banca
+con sforzo H richiede Bk>=20/0.8=25. All'uguaglianza, sforzo indifferente.
+
+12.6 Contratti, controllo e penalità
+E2025 pulizia: pagamento 110 ; costo alta qualità 100 ; bassa 70.
+Profitto H 10 ; profitto L 40-0.5*F. H almeno altrettanto buono se F>=60.
+F=60 dà indifferenza; F>60 rende H strettamente preferito.
+Formula: penalità minima=(risparmio di costo privato)/(probabilità di scoperta),
+se la penalità è pagabile, l'agente è neutrale al rischio e il contratto non ha altri effetti.
+Il pagamento di 110 si annulla nel confronto; conta per la partecipazione.
+
+Carpenter E2022 : un forfait incentiva a risparmiare tempo/costi, ma rischia di
+sacrificare qualità nascosta; il pagamento orario protegge dal rischio di
+durata ma può incentivare ad allungare le ore. Molti altri clienti
+aumentano il costo opportunità del tempo e possono limitare questo incentivo.
+Tipping E2023 : il cliente osserva la qualità del servizio meglio del capo;
+la mancia può dare a chi serve un legame tra qualità e retribuzione.
+Franchigia assicurativa: l'assicurato sopporta una parte del costo e
+conserva un incentivo a evitare il sinistro; compromesso assicurazione/incentivo.
+Private equity : controllo, informazione e coinvolgimento possono ridurre
+alcuni problemi di azione nascosta; non confondere automaticamente
+finanziamento bancario e finanziamento con capitale proprio.
+
+12.7 Bonus asimmetrico: non presupporre la diagnosi prima del calcolo
+E2020 Q4d : A rende 100 con 0.75 e 80 con 0.25 ->E profitto 95.
+B rende 400 con 0.75 e -160 con 0.25 ->E profitto 260.
+Bonus 1% dei profitti positivi, 0 in caso di perdita: attesa 0.95 per A, 3 per B.
+Il dirigente preferisce B, e qui B massimizza anche il profitto atteso lordo;
+al netto del bonus, 94.05 contro 257. Con questi soli dati e in neutralità al
+rischio, il bonus non crea conflitto sulla scelta A/B. Un pagamento
+convesso può favorire un rischio eccessivo con ALTRI numeri, ma
+questo testo non lo dimostra. Prudenza se si aggiungono vincoli di fallimento
+o preferenze per il rischio: qui non sono quantificati.

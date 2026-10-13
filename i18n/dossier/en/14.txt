@@ -1,0 +1,121 @@
+======================================================================
+12. ASYMMETRIC INFORMATION, CONTRACTS AND INCENTIVES — L12
+======================================================================
+
+12.1 Identifying what is hidden
+Asymmetric information: one party knows something the other does not.
+Adverse selection: private TYPE/quality/risk, often before the contract.
+Moral hazard: private ACTION/effort, often after the contract.
+The presence of risk alone is not an information asymmetry.
+The central diagnosis: who knows what, at what moment, and which choice does it affect?
+
+12.2 Lemons / adverse selection
+L12 cars: the buyer values high quality at 150, low at 50; the seller
+high 130, low 30; initially the probability of high is 0.5.
+Observable quality: trades possible in [130,150] and [30,50].
+Quality unknown to EVERYONE: average WTP 100, average seller reservation 80;
+trades between 80 and 100 possible under the model's risk neutrality.
+Only the seller informed: an average price of 100 does not make good cars sell
+(reservation 130). They leave; average quality falls; buyers revise
+their WTP; the high-end market can disappear despite potential gains.
+Beliefs must be CONSISTENT with the sellers who remain at the offered price.
+
+L12 driving-licence insurance: those who expect to fail more
+may buy more, so the insured's risk exceeds the 52% average
+under adverse selection; the contract can also change effort (moral hazard).
+Reputation, warranties, certification, quality rules, the right of return,
+shared information, group contracts and compulsory insurance can
+reduce adverse selection; their effectiveness depends on the mechanism.
+E2020 Klarna, E2023 customer reviews, E2024 wine standards: a certification
+or collective reputation can allow small brands to guarantee
+their quality and reduce the informational advantage of large brands.
+
+12.3 Screening and signalling
+Screening: the LESS informed party collects/tests/structures a menu to
+learn the type. Signalling: the INFORMED party takes an observable
+action to reveal its type.
+A credible signal must be costly enough to imitate for the bad
+type, relative to the benefit obtained; "costly" alone is not enough.
+L12 education: wage 100 with a degree, 60 without; cost C_A<C_S.
+Separation if 100-C_A>60 and 100-C_S<60, so C_A<40<C_S.
+At equalities, types may be indifferent; specify the selection.
+Pooling: types choose the same signal; separating: different signals.
+A degree's signalling value does not prove that it creates no skills.
+
+12.4 Principal-agent and risk sharing
+The principal offers the contract; the agent chooses an effort that is not perfectly
+observable. The outcome depends on effort AND on shocks.
+Rewarding the outcome gives incentives but exposes the agent to risk.
+Fixed wage: weak monetary incentive to effort if effort is costly.
+Revenue sharing: the agent keeps part of the gain from effort and of the risk.
+The agent pays a fixed fee and keeps the revenue: strong incentives
+at the margin, but the agent bears the risk. Franchise/business lease.
+Risk, limited liability and wealth can make this contract difficult.
+
+L12 p.13–15, verified table: probability 0.5 bad/good state.
+Effort H, private cost 10: revenues 40 or 100 ->expected revenue 70,
+total net surplus 60. Effort L, cost 0: revenues 20 or 40 ->expectation 30.
+Fixed wage w independent of revenue: the agent prefers L; receives w,
+the owner receives 30-w; the owner bears the revenue risk.
+50/50 sharing: H gives the agent 0.5*70-10=25, the owner 35;
+L gives the agent 15 ->H chosen. Risk shared.
+Fixed fee F to the owner, the agent keeps the revenue: H gives the agent 60-F,
+the owner F; L 30-F ->H. The agent bears the revenue risk.
+Participation also requires the agent to prefer the contract to their
+outside option; a good incentive is not enough to get the contract accepted.
+
+12.5 Credit with hidden action: general method
+The project costs I0, revenue R if it succeeds, 0 otherwise. Loan D, repayment Bk
+only if it succeeds, limited liability. Success p_H with effort
+H and p_L with L, p_H>p_L. L yields a private benefit b.
+Entrepreneur's utility/expectation under H=p_H*(R-Bk).
+Entrepreneur's utility under L=p_L*(R-Bk)+b.
+If own funds A are invested up front, subtract A in BOTH cases
+when measuring the net gain from before investment; it cancels out
+in the effort comparison for a given contract.
+IC_H: (p_H-p_L)*(R-Bk)>=b.
+Bank's expected profit=p_chosen*Bk-D, with bank rates/costs normalised to 0.
+Financing requires bank profit>=0 AND the H incentive if the calculation relies on H,
+as well as the entrepreneur's participation given their outside option.
+A repayment that is too high can destroy effort, lower p and reduce the
+EXPECTED repayment despite a higher nominal repayment.
+
+A6/E2023: R40,pH0.8,pL0.4,D20,Bk30.
+H8; L4+b. b2 ->H8>L6, bank 24-20=4.
+b6 ->L10>H8, bank 12-20=-8.
+Own funds 10, D10,Bk15: H20; L10+b=12 or 16 ->H for b2 AND b6;
+bank 12-10=2 in both cases. After deducting own funds, the entrepreneur's
+gain under H is 10; do not deduct own funds for one effort only.
+Condition without own funds: Bk<=40-b/0.4. For b6, Bk<=25; the bank
+at effort H requires Bk>=20/0.8=25. At equality, effort is indifferent.
+
+12.6 Contracts, monitoring and penalty
+E2025 cleaning: payment 110; high-quality cost 100; low 70.
+Profit H 10; profit L 40-0.5*F. H at least as good if F>=60.
+F=60 gives indifference; F>60 makes H strictly preferred.
+Formula: minimum penalty=(private cost saving)/(probability of detection),
+if the penalty is payable, the agent is risk-neutral and the contract has no other effect.
+The payment of 110 cancels out in the comparison; it matters for participation.
+
+Carpenter E2022: a fixed fee encourages saving time/cost, but risks
+sacrificing hidden quality; hourly pay protects against the risk of
+duration but can encourage stretching the hours. Many other customers
+raise the opportunity cost of time and can limit this incentive.
+Tipping E2023: the customer observes service quality better than the boss;
+a tip can give the waiter a link between quality and pay.
+Insurance deductible: the insured bears part of the cost and
+keeps an incentive to avoid the loss; an insurance/incentive trade-off.
+Private equity: monitoring, information and involvement can reduce
+some hidden-action problems; do not automatically conflate
+bank financing and equity financing.
+
+12.7 Asymmetric bonus: do not assume the diagnosis before calculating
+E2020 Q4d: A yields 100 with 0.75 and 80 with 0.25 ->E profit 95.
+B yields 400 with 0.75 and -160 with 0.25 ->E profit 260.
+Bonus 1% of positive profits, 0 if a loss: expectation 0.95 for A, 3 for B.
+The manager prefers B, and B also maximises gross expected profit here;
+net of the bonus, 94.05 versus 257. On these data alone and under risk
+neutrality, the bonus creates no conflict over the A/B choice. A convex
+payment can favour excessive risk with OTHER numbers, but
+this question does not show it. Be careful if bankruptcy constraints
+or risk preferences are added: they are not quantified here.

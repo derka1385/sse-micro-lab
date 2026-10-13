@@ -1,0 +1,121 @@
+======================================================================
+12. ASYMMETRISCHE INFORMATION, VERTRÄGE UND ANREIZE — L12
+======================================================================
+
+12.1 Erkennen, was verborgen ist
+Asymmetric information : eine Partei weiß etwas, das die andere nicht weiß.
+Adverse selection : privater TYP/Qualität/Risiko, oft vor dem Vertrag.
+Moral hazard : private HANDLUNG/Anstrengung, oft nach dem Vertrag.
+Das bloße Vorliegen von Risiko ist keine Informationsasymmetrie.
+Die zentrale Diagnose: wer weiß was, zu welchem Zeitpunkt, und welche Wahl beeinflusst das?
+
+12.2 Lemons / adverse Selektion
+L12 Autos: die Käuferseite bewertet hohe Qualität mit 150, niedrige mit 50; die Verkaufsseite
+hohe mit 130, niedrige mit 30; anfangs Wahrscheinlichkeit für hohe Qualität 0.5.
+Beobachtbare Qualität: Transaktionen möglich in [130,150] und [30,50].
+Qualität ALLEN unbekannt: durchschnittliche WTP 100, durchschnittlicher Reservationspreis 80;
+Transaktionen zwischen 80 und 100 möglich bei der Risikoneutralität des Modells.
+Nur die Verkaufsseite informiert: ein Durchschnittspreis von 100 bringt die guten Autos nicht auf den Markt
+(Reservationspreis 130). Sie verschwinden; die Durchschnittsqualität sinkt; die Käuferseite passt
+ihre WTP an; das Premiumsegment kann trotz möglicher Gewinne verschwinden.
+Die Erwartung muss KONSISTENT mit den beim angebotenen Preis verbleibenden Verkäufern sein.
+
+Führerscheinversicherung L12 : wer eher mit Durchfallen rechnet,
+kauft eher, also liegt das Risiko der Versicherten über dem Durchschnitt von 52%
+bei adverser Selektion; der Vertrag kann auch die Anstrengung ändern (moral hazard).
+Reputation, Garantien, Zertifizierung, Qualitätsregeln, Rückgaberecht,
+geteilte Information, Gruppenverträge und Pflichtversicherung können
+adverse Selektion verringern; ihre Wirksamkeit hängt vom Mechanismus ab.
+E2020 Klarna, E2023 Kundenbewertungen, E2024 Weinnormen: eine Zertifizierung
+oder kollektive Reputation kann kleinen Marken erlauben, ihre Qualität
+zu garantieren und den Informationsvorteil großer Marken zu verringern.
+
+12.3 Screening und Signalling
+Screening: die WENIGER informierte Partei sammelt/testet/strukturiert ein Menü, um
+den Typ zu erfahren. Signalling: die INFORMIERTE Partei unternimmt eine beobachtbare
+Handlung, um ihren Typ zu zeigen.
+Ein glaubwürdiges Signal muss für den schlechten Typ teuer genug zu imitieren sein,
+relativ zum erzielten Nutzen; „teuer“ allein reicht nicht.
+L12 Bildung: Lohn 100 mit Abschluss, 60 ohne; Kosten C_A<C_S.
+Trennung, wenn 100-C_A>60 und 100-C_S<60, also C_A<40<C_S.
+Bei Gleichheit können die Typen indifferent sein; die Auswahl präzisieren.
+Pooling: die Typen wählen dasselbe Signal; separating: verschiedene Signale.
+Der Signalwert eines Abschlusses beweist nicht, dass er keine Kompetenzen schafft.
+
+12.4 Prinzipal-Agent und Risikoteilung
+Der Prinzipal bietet den Vertrag an; der Agent wählt eine nicht vollständig
+beobachtbare Anstrengung. Das Ergebnis hängt von der Anstrengung UND von Schocks ab.
+Das Ergebnis zu belohnen schafft Anreize, setzt den Agenten aber dem Risiko aus.
+Fixlohn: schwacher monetärer Anreiz zur Anstrengung, wenn diese kostspielig ist.
+Erlösteilung: der Agent behält einen Teil des Ertrags der Anstrengung und des Risikos.
+Der Agent zahlt eine feste Gebühr und behält den Erlös: starke Anreize
+an der Marge, aber er trägt das Risiko. Franchise/Pacht eines Geschäfts.
+Risiko, beschränkte Haftung und Vermögen können diesen Vertrag erschweren.
+
+L12 S.13–15, geprüfte Tabelle: Wahrscheinlichkeit 0.5 schlechter/guter Zustand.
+Anstrengung H, private Kosten 10 : Erlöse 40 oder 100 ->erwarteter Erlös 70,
+gesamter Nettoüberschuss 60. Anstrengung L, Kosten 0 : Erlöse 20 oder 40 ->Erwartung 30.
+Fixlohn w unabhängig vom Erlös: der Agent bevorzugt L ; erhält w,
+die Eigentümerseite erhält 30-w ; sie trägt das Erlösrisiko.
+Teilung 50/50 : H gibt dem Agenten 0.5*70-10=25, der Eigentümerseite 35 ;
+L gibt dem Agenten 15 ->H wird gewählt. Risiko geteilt.
+Feste Gebühr F an die Eigentümerseite, der Agent behält den Erlös: H gibt dem Agenten 60-F,
+der Eigentümerseite F ; L 30-F ->H. Der Agent trägt das Erlösrisiko.
+Teilnahme verlangt zudem, dass der Agent den Vertrag seiner Außenoption
+vorzieht; ein guter Anreiz allein sorgt nicht dafür, dass der Vertrag angenommen wird.
+
+12.5 Kredit mit verborgener Handlung: allgemeine Methode
+Das Projekt kostet I0, Erlös R bei Erfolg, sonst 0. Kredit D, Rückzahlung Bk
+nur bei Erfolg, beschränkte Haftung. Erfolg p_H bei Anstrengung
+H und p_L bei L, p_H>p_L. L bringt einen privaten Vorteil b.
+Nutzen/Erwartung der Unternehmerseite bei H=p_H*(R-Bk).
+Nutzen der Unternehmerseite bei L=p_L*(R-Bk)+b.
+Werden Eigenmittel A im Voraus investiert, ziehe A in BEIDEN Fällen ab,
+wenn der Nettogewinn ab vor der Investition gemessen wird; A fällt
+beim Anstrengungsvergleich für einen gegebenen Vertrag heraus.
+IC_H : (p_H-p_L)*(R-Bk)>=b.
+Erwarteter Gewinn der Bank=p_gewählt*Bk-D, mit auf 0 normierten Bankzinsen/-kosten.
+Finanzierung verlangt Bankgewinn>=0 UND den Anreiz H, wenn die Rechnung auf H beruht,
+sowie die Teilnahme der Unternehmerseite gemäß ihrer Außenoption.
+Eine zu hohe Rückzahlung kann die Anstrengung zerstören, p senken und die
+ERWARTETE Rückzahlung trotz höherer nominaler Rückzahlung verringern.
+
+A6/E2023 : R40,pH0.8,pL0.4,D20,Bk30.
+H8 ; L4+b. b2 ->H8>L6, Bank 24-20=4.
+b6 ->L10>H8, Bank 12-20=-8.
+Eigenmittel 10, D10,Bk15 : H20 ; L10+b=12 oder 16 ->H für b2 UND b6 ;
+Bank 12-10=2 in beiden Fällen. Nach Abzug der Eigenmittel beträgt der Gewinn
+der Unternehmerseite bei H 10 ; die Eigenmittel nicht nur bei einer Anstrengung abziehen.
+Bedingung ohne Eigenmittel: Bk<=40-b/0.4. Für b6 gilt Bk<=25 ; die Bank
+verlangt bei Anstrengung H Bk>=20/0.8=25. Bei Gleichheit ist die Anstrengung indifferent.
+
+12.6 Verträge, Kontrolle und Strafe
+E2025 Reinigung: Zahlung 110 ; Kosten hohe Qualität 100 ; niedrige 70.
+Gewinn H 10 ; Gewinn L 40-0.5*F. H mindestens ebenso gut, wenn F>=60.
+F=60 ergibt Indifferenz; F>60 macht H strikt bevorzugt.
+Formel: Mindeststrafe=(private Kostenersparnis)/(Entdeckungswahrscheinlichkeit),
+sofern die Strafe zahlbar ist, der Agent risikoneutral ist und der Vertrag keine weitere Wirkung hat.
+Die Zahlung von 110 fällt im Vergleich heraus; sie zählt für die Teilnahme.
+
+Carpenter E2022 : ein Pauschalpreis spornt zum Sparen von Zeit/Kosten an, riskiert aber,
+verborgene Qualität zu opfern; Stundenlohn schützt vor dem Risiko der
+Dauer, kann aber zum Strecken der Stunden verleiten. Viele andere Aufträge
+erhöhen die Opportunitätskosten der Zeit und können diesen Anreiz begrenzen.
+Tipping E2023 : der Gast beobachtet die Servicequalität besser als die Chefetage;
+Trinkgeld kann für das Servicepersonal Qualität und Bezahlung verknüpfen.
+Selbstbehalt einer Versicherung: die versicherte Person trägt einen Teil der Kosten und
+behält einen Anreiz, den Schaden zu vermeiden; Kompromiss Versicherung/Anreiz.
+Private equity : Kontrolle, Information und Beteiligung können
+manche Probleme verborgener Handlung verringern; Bankfinanzierung und
+Eigenkapitalfinanzierung nicht automatisch gleichsetzen.
+
+12.7 Asymmetrischer Bonus: die Diagnose nicht vor der Rechnung annehmen
+E2020 Q4d : A bringt 100 mit 0.75 und 80 mit 0.25 ->E Gewinn 95.
+B bringt 400 mit 0.75 und -160 mit 0.25 ->E Gewinn 260.
+Bonus 1% der positiven Gewinne, 0 bei Verlust: Erwartung 0.95 für A, 3 für B.
+Die Geschäftsleitung bevorzugt B, und B maximiert hier auch den erwarteten Bruttogewinn;
+nach Bonus 94.05 gegenüber 257. Auf Basis nur dieser Daten und bei Risiko-
+neutralität erzeugt der Bonus keinen Konflikt bei der Wahl A/B. Eine konvexe
+Zahlung kann bei ANDEREN Zahlen übermäßiges Risiko begünstigen, aber
+diese Aufgabe zeigt das nicht. Vorsicht, wenn Insolvenzbeschränkungen
+oder Risikopräferenzen hinzukommen: sie sind hier nicht beziffert.
