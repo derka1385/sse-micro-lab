@@ -1,0 +1,117 @@
+======================================================================
+15. ASSIGNMENTS: NEU BERECHNETE REFERENZERGEBNISSE
+======================================================================
+
+Die folgenden Rechnungen sind aus den AUFGABENTEXTEN rekonstruiert, nicht durch ein
+offizielles Bewertungsschema bestätigt. Die handschriftlichen Seiten dienten dazu, Lösungswege
+zu erkennen und Fallen zu finden; sie ersetzen die Lösung nicht.
+
+A2 — ELASTIZITÄTEN UND KONSUM, S02 S.1–3
+2.1 Benzin, epsilon_SR=-0.25,epsilon_LR=-0.60.
+a) Preis +5% ->Menge kurzfristig etwa -1.25%, langfristig -3%.
+   Mögliche Anpassungen: Fahrten, öffentlicher Verkehr, Fahrzeug, Wohnort.
+b) Ziel -15% LR ->%Delta p=(-15)/(-0.60)=+25%, nach der gelehrten
+   proportionalen Methode. Wird „konstante Elastizität bei jedem Preis“ als
+   Q=A*p^-0.6 gelesen, exakte Rechnung p1/p0=0.85^(-1/0.6),
+   also etwa +31.11%. Die Konvention angeben; 25% ist die übliche lineare
+   Näherung der Übung, nicht die exakte Lösung dieser Funktion.
+
+2.2 I1200, p_L40,p_R120,U=L*R.
+Budget 40L+120R<=1200 ; L=30-3R bei R horizontal, L vertikal.
+Achsenabschnitte: L30,R10.
+Bündel aus der Aufgabe, einschließlich des tatsächlich gedruckten Duplikats:
+(15,5) : Ausgaben 1200,U75, erreichbar.
+(20,4) : Ausgaben 1280,U80, NICHT erreichbar.
+(24,2) : Ausgaben 1200,U48, erreichbar.
+(10,5) : Ausgaben 1000,U50, erreichbar.
+(15,5) erneut: gleiche Werte, kein fünftes eigenes Bündel erfinden.
+Ohne Beschränkung bevorzugt in der Liste: (20,4). Bestes erreichbares:
+(15,5), zugleich globales Optimum von U=LR unter diesem Budget.
+Tangentialbedingung mit R horizontal: MU_R/MU_L=L/R=p_R/p_L=3 ; Budget ->R5,L15.
+Nach Anstieg auf p_R150 und Kauf von R4 : L=(1200-600)/40=15,U60.
+Neues Budget L=30-3.75R, Rmax8 ; Einkommen I bleibt 1200.
+Hier ist (15,4) auch das neue globale Optimum: Ausgaben 600/600.
+Nutzen sinkt 75->60 ; nicht sagen, das nominale Einkommen sei gesunken.
+
+A3 — SPIELE, S01 S.1–4
+3.1 Golden Balls : korrigierte Matrizen und Nash-Gleichgewichte in Abschnitt 13.2.
+3.2 Öl/Waffen: Nettoauszahlungen und beide Zugreihenfolgen in Abschnitt 13.3.
+3.3 Frieden/Krieg: Nash PP und WW ; sequenziell ->PP ; simultan nicht eindeutig.
+3.4 Selbstbindung: glaubwürdige Drohung, Reputationskosten, Anreiz, die Sanktion
+nach erfolgter Aggression auszuführen. Die Unterschrift nicht als
+automatisch bindende Verpflichtung im Spiel behandeln.
+
+A4 — MONOPOL, STEUER/SUBVENTION, MARKTEINTRITT, S03 S.1–5
+4.1 Streichhölzer, p30-Q,C5Q.
+MR30-2Q=MC5 ->Qm12.5,pm17.5,pi156.25.
+CS=(30-17.5)*12.5/2=78.125 ; PS=(17.5-5)*12.5=156.25.
+Qeff25 ; DWL=(25-12.5)*(17.5-5)/2=78.125.
+Skizze: Nachfrage, MR, horizontale MC bei 5 ; Qm bei MR=MC, pm auf der Nachfrage;
+CS-Dreieck unter der Nachfrage/über 17.5, PS-Rechteck 17.5–5 ;
+DWL zwischen Q12.5 und 25, Nachfrage über MC.
+
+4.2 Wein, pD20-Q,pS5+Q.
+Ohne Politik: Q7.5,p12.5 ; CS=PS=28.125,W56.25.
+Steuer 3 : 20-Q=5+Q+3 ->Q6,p_b14,p_s11,T18.
+CS18,PS18,W54,DWL2.25.
+Stattdessen Subvention 3 : 5+Q=20-Q+3 ->Q9,p_b11,p_s14,
+Ausgaben 27 ; CS40.5,PS40.5,W54,DWL2.25.
+Den vertikalen Keil 3 bei der gehandelten Menge einzeichnen; bei Subvention liegt
+der Verkäuferpreis ÜBER dem Käuferpreis.
+
+4.3 Caffeinia, p70-Q-2n,C30Q+100.
+Bei festem n : pi=(40-2n)Q-Q^2-100 ; MR70-2n-2Q=30,
+Q*=20-n, p*=50-n, pi=(20-n)^2-100 für eine positive Lösung.
+n1 : Q19,p49,pi261. Der Term -2n gilt auch bei nur einem Café.
+n10 : Q10,p40,pi0.
+FC sinkt 100->25 : Menge/Preis ändern sich bei gegebenem n nicht SOFORT;
+die Gewinne steigen um 75. Eintritt ->n steigt, Nachfrage pro Café sinkt,
+Q und p sinken bis pi0. In der genauen Form dieser Übung:
+Q_LR=sqrt(25)=5,n15,p35. Diese Rechnung ergänzt die qualitative Frage.
+
+A5 — DISKRIMINIERUNG UND COURNOT, S04 S.1–6
+5.1 Identifizierbar: Studierendentarif von Apple Music im Beispiel der Aufgabe.
+Self-selection : Fahrtvarianten bei Uber, Komfort/Qualität. Um eine
+Diskriminierung festzustellen, prüfen, dass die Unterschiede nicht nur
+unterschiedliche Kosten widerspiegeln. Das sind die Beispiele der Aufgabe, keine Erhebung
+der aktuellen Preise der Unternehmen.
+
+5.2 pA20-QA,pB30-2QB,MC5, FC nicht gegeben, als 0 angenommen.
+Segmentiert: MRA20-2QA=5 ->QA7.5,pA12.5,piA56.25,CSA28.125.
+MRB30-4QB=5 ->QB6.25,pB17.5,piB78.125,CSB39.0625.
+Gesamtgewinn 134.375 ; Gesamtmenge 13.75.
+Einheitspreis:
+Q(p)=0 falls p>=30 ; Q=(30-p)/2 falls 20<=p<30 ;
+Q=(20-p)+(30-p)/2=35-1.5p falls 0<=p<20.
+Auf dem gemeinsamen Segment: pi=(p-5)(35-1.5p), FOC 42.5-3p=0.
+p=85/6≈14.1667 ; QA35/6≈5.8333 ; QB95/12≈7.9167 ;
+Qtotal13.75 ; Gewinn 3025/24≈126.0417.
+Der Monopolkandidat „nur B“ zum Preis 17.5 gehört nicht zum
+Segment p>=20 ; seine Ränder prüfen, er schlägt diesen gemeinsamen Kandidaten nicht.
+Beim Einheitspreis: CSA≈17.0139,CSB≈62.6736,PSA≈53.4722,PSB≈72.5694.
+Segmentierung minus Einheitspreis:
+A : CS+11.1111,PS+2.7778,W+13.8889.
+B : CS-23.6111,PS+5.5556,W-18.0556.
+Gesamt: Gewinn+8.3333,CS-12.5,W-4.1667.
+Die Gesamtmenge ist identisch, aber die Verteilung ist weniger effizient:
+an der Marge unterscheiden sich die WTP zwischen den Märkten. Also ist „gleiches Q ->gleiches W“ falsch.
+
+5.3 Kupfer, p90-Q,MC30,FC0, Q=q1+q2.
+pi1=(60-q1-q2)q1 ; BR1=30-q2/2, BR2=30-q1/2.
+Schnittpunkt q1=q2=20 ; Q40,p50,pi_i(50-30)*20=400.
+Nicht Qtotal40 in die Kostenfunktion einer einzelnen Firma einsetzen.
+
+A6 — ÖFFENTLICHES GUT, KREDIT, POSITIVE EXTERNALITÄT, S05 S.1–5
+6.1 Reinigung: im Modell öffentlich, MB15-Q,12-Q,9-Q,MC27.
+Summe 36-3Q=27 ->Q3. Individuelle WTP bei 3 : 12,9,6, Summe 27.
+Die drei Kurven werden nicht horizontal addiert.
+6.2 Kredit: Ergebnisse H/L, b2/b6 und Eigenmittel 10 in Abschnitt 12.5.
+Zuerst die Auszahlungen der UNTERNEHMERSEITE aufschreiben, dann das Risiko
+der Bank ableiten. Nur die Bankrückzahlungen zu berechnen, bestimmt
+nicht, welche Handlung tatsächlich gewählt wird.
+6.3 Solar: MPB100-3Q,MPC10+2Q,MEB20.
+Qpriv18,p46 ; MSB120-3Q ; Qeff22 ; s*=20.
+DWL0.5*(22-18)*20=40.
+Ohne Korrektur: CS486,PS324, externer Nutzen 360,W1170.
+Mit Korrektur: p_b34,p_s54,CS726,PS484, Subvention 440,
+externer Nutzen 440,W1210. Probe: sozialer Gewinn 40.

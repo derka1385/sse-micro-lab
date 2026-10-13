@@ -1,0 +1,117 @@
+======================================================================
+15. ASSIGNMENTS: RISULTATI DI RIFERIMENTO RICALCOLATI
+======================================================================
+
+I calcoli seguenti sono ricostruiti dai TESTI, non convalidati da una
+griglia di correzione ufficiale. Le pagine manoscritte sono servite a individuare i procedimenti
+e a scovare le trappole; non sostituiscono la risoluzione.
+
+A2 — ELASTICITÀ E CONSUMATORE, S02 p.1–3
+2.1 Benzina, epsilon_SR=-0.25,epsilon_LR=-0.60.
+a) Prezzo +5% ->quantità circa -1.25% nel breve periodo, -3% nel lungo.
+   Aggiustamenti possibili: tragitti, trasporto pubblico, veicolo, luogo di residenza.
+b) Obiettivo -15% LR ->%Delta p=(-15)/(-0.60)=+25%, secondo il metodo
+   proporzionale insegnato. Se « elasticità costante a ogni prezzo » è
+   interpretata come Q=A*p^-0.6, calcolo esatto p1/p0=0.85^(-1/0.6),
+   cioè circa +31.11%. Precisare la convenzione; 25% è l'approssimazione
+   lineare usuale dell'esercizio, non la soluzione esatta di questa funzione.
+
+2.2 I1200, p_L40,p_R120,U=L*R.
+Vincolo 40L+120R<=1200 ; L=30-3R con R orizzontale, L verticale.
+Intercette: L30,R10.
+Panieri del testo, compreso il doppione effettivamente stampato:
+(15,5) : spesa 1200,U75, accessibile.
+(20,4) : spesa 1280,U80, NON accessibile.
+(24,2) : spesa 1200,U48, accessibile.
+(10,5) : spesa 1000,U50, accessibile.
+(15,5) di nuovo: stessi valori, non inventare un quinto paniere distinto.
+Preferito senza vincolo nella lista: (20,4). Migliore accessibile:
+(15,5), anche ottimo globale di U=LR con questo vincolo.
+Tangenza con R orizzontale: MU_R/MU_L=L/R=p_R/p_L=3 ; vincolo ->R5,L15.
+Dopo l'aumento a p_R150 e l'acquisto di R4 : L=(1200-600)/40=15,U60.
+Nuovo vincolo L=30-3.75R, Rmax8 ; il reddito I resta 1200.
+Qui (15,4) è anche il nuovo ottimo globale: spese 600/600.
+L'utilità scende 75->60 ; non dire che il reddito nominale è diminuito.
+
+A3 — GIOCHI, S01 p.1–4
+3.1 Golden Balls : matrici e Nash corretti nella sezione 13.2.
+3.2 Petrolio/armi: payoff netti e i due ordini di gioco nella sezione 13.3.
+3.3 Pace/guerra: Nash PP e WW ; sequenziale ->PP ; simultaneo non unico.
+3.4 Impegno: minaccia credibile, costo reputazionale, incentivo a eseguire
+la sanzione una volta avvenuta l'aggressione. Non trattare la firma
+come un impegno automaticamente vincolante nel gioco.
+
+A4 — MONOPOLIO, IMPOSTA/SUSSIDIO, ENTRATA, S03 p.1–5
+4.1 Fiammiferi, p30-Q,C5Q.
+MR30-2Q=MC5 ->Qm12.5,pm17.5,pi156.25.
+CS=(30-17.5)*12.5/2=78.125 ; PS=(17.5-5)*12.5=156.25.
+Qeff25 ; DWL=(25-12.5)*(17.5-5)/2=78.125.
+Schema: domanda, MR, MC orizzontale a 5 ; Qm dove MR=MC, pm sulla domanda;
+CS triangolo sotto la domanda/sopra 17.5, PS rettangolo 17.5–5 ;
+DWL tra Q12.5 e 25, domanda sopra MC.
+
+4.2 Vino, pD20-Q,pS5+Q.
+Senza politica: Q7.5,p12.5 ; CS=PS=28.125,W56.25.
+Imposta 3 : 20-Q=5+Q+3 ->Q6,p_b14,p_s11,T18.
+CS18,PS18,W54,DWL2.25.
+Sussidio 3 al suo posto: 5+Q=20-Q+3 ->Q9,p_b11,p_s14,
+spesa 27 ; CS40.5,PS40.5,W54,DWL2.25.
+Rappresentare il cuneo verticale 3 alla quantità scambiata; con sussidio,
+prezzo del venditore AL DI SOPRA del prezzo dell'acquirente.
+
+4.3 Caffeinia, p70-Q-2n,C30Q+100.
+A n fissato: pi=(40-2n)Q-Q^2-100 ; MR70-2n-2Q=30,
+Q*=20-n, p*=50-n, pi=(20-n)^2-100 per una soluzione positiva.
+n1 : Q19,p49,pi261. Il termine -2n vale anche con un solo caffè.
+n10 : Q10,p40,pi0.
+FC scende 100->25 : quantità/prezzo non cambiano IMMEDIATAMENTE a n dato;
+i profitti aumentano di 75. Entrata ->n aumenta, la domanda per caffè cala,
+Q e p calano fino a pi0. Nella forma precisa di questo esercizio:
+Q_LR=sqrt(25)=5,n15,p35. Questo calcolo completa la domanda qualitativa.
+
+A5 — DISCRIMINAZIONE E COURNOT, S04 p.1–6
+5.1 Identificabili: tariffa studenti di Apple Music nell'esempio del compito.
+Self-selection : versioni di corsa Uber, comfort/qualità. Per stabilire
+una discriminazione, verificare che gli scarti non riflettano solo
+costi diversi. Questi esempi sono quelli del compito, non un'indagine
+sulle tariffe attuali delle imprese.
+
+5.2 pA20-QA,pB30-2QB,MC5, FC non dati, presi pari a 0.
+Segmentato: MRA20-2QA=5 ->QA7.5,pA12.5,piA56.25,CSA28.125.
+MRB30-4QB=5 ->QB6.25,pB17.5,piB78.125,CSB39.0625.
+Profitto totale 134.375 ; quantità totale 13.75.
+Prezzo comune:
+Q(p)=0 se p>=30 ; Q=(30-p)/2 se 20<=p<30 ;
+Q=(20-p)+(30-p)/2=35-1.5p se 0<=p<20.
+Sul segmento comune: pi=(p-5)(35-1.5p), FOC 42.5-3p=0.
+p=85/6≈14.1667 ; QA35/6≈5.8333 ; QB95/12≈7.9167 ;
+Qtotal13.75 ; profitto 3025/24≈126.0417.
+Il candidato monopolio « solo B » al prezzo 17.5 non appartiene al
+segmento p>=20 ; verificarne le frontiere, non batte questo candidato comune.
+Al prezzo comune: CSA≈17.0139,CSB≈62.6736,PSA≈53.4722,PSB≈72.5694.
+Segmentazione meno comune:
+A : CS+11.1111,PS+2.7778,W+13.8889.
+B : CS-23.6111,PS+5.5556,W-18.0556.
+Totale: profitto+8.3333,CS-12.5,W-4.1667.
+La quantità totale è identica, ma la ripartizione è meno efficiente:
+al margine, le WTP differiscono tra i mercati. Quindi « stessa Q ->stesso W » è falso.
+
+5.3 Rame, p90-Q,MC30,FC0, Q=q1+q2.
+pi1=(60-q1-q2)q1 ; BR1=30-q2/2, BR2=30-q1/2.
+Intersezione q1=q2=20 ; Q40,p50,pi_i(50-30)*20=400.
+Non inserire Qtotal40 nella funzione di costo di una sola impresa.
+
+A6 — BENE PUBBLICO, CREDITO, ESTERNALITÀ POSITIVA, S05 p.1–5
+6.1 Pulizia: pubblico nel modello, MB15-Q,12-Q,9-Q,MC27.
+Somma 36-3Q=27 ->Q3. WTP individuali a 3 : 12,9,6, somma 27.
+Le tre curve non si sommano orizzontalmente.
+6.2 Credito: risultati H/L, b2/b6 e apporto 10 nella sezione 12.5.
+Scrivere prima i payoff dell'IMPRENDITORE, poi dedurne il rischio
+della banca. Calcolare solo i rimborsi bancari non determina
+quale azione sarà davvero scelta.
+6.3 Solare: MPB100-3Q,MPC10+2Q,MEB20.
+Qpriv18,p46 ; MSB120-3Q ; Qeff22 ; s*=20.
+DWL0.5*(22-18)*20=40.
+Senza correzione: CS486,PS324, beneficio esterno 360,W1170.
+Con correzione: p_b34,p_s54,CS726,PS484, sussidio 440,
+beneficio esterno 440,W1210. Verifica: guadagno sociale 40.

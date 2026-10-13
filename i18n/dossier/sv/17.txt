@@ -1,0 +1,117 @@
+======================================================================
+15. ASSIGNMENTS: OMRÄKNADE REFERENSRESULTAT
+======================================================================
+
+Beräkningarna nedan är rekonstruerade ur UPPGIFTSTEXTERNA, inte bekräftade av en
+officiell rättningsmall. De handskrivna sidorna användes för att identifiera tillvägagångssätten
+och hitta fallgroparna; de ersätter inte lösningen.
+
+A2 — ELASTICITETER OCH KONSUMENTEN, S02 s.1–3
+2.1 Bensin, epsilon_SR=-0.25,epsilon_LR=-0.60.
+a) Pris +5% ->kvantitet cirka -1.25% på kort sikt, -3% på lång sikt.
+   Möjliga anpassningar: resor, kollektivtrafik, fordon, bostadsort.
+b) Mål -15% LR ->%Delta p=(-15)/(-0.60)=+25%, enligt den proportionella
+   metod som lärs ut. Om « konstant elasticitet vid varje pris »
+   tolkas som Q=A*p^-0.6, exakt beräkning p1/p0=0.85^(-1/0.6),
+   alltså cirka +31.11%. Ange konventionen; 25% är övningens vanliga linjära
+   approximation, inte den exakta lösningen för denna funktion.
+
+2.2 I1200, p_L40,p_R120,U=L*R.
+Budget 40L+120R<=1200 ; L=30-3R med R horisontell, L vertikal.
+Skärningspunkter: L30,R10.
+Korgar från uppgiften, inklusive den dubblett som faktiskt trycktes:
+(15,5) : utgift 1200,U75, möjlig.
+(20,4) : utgift 1280,U80, INTE möjlig.
+(24,2) : utgift 1200,U48, möjlig.
+(10,5) : utgift 1000,U50, möjlig.
+(15,5) igen: samma värden, hitta inte på en femte separat korg.
+Föredragen utan begränsning i listan: (20,4). Bästa möjliga:
+(15,5), också det globala optimumet för U=LR under denna budget.
+Tangering med R horisontell: MU_R/MU_L=L/R=p_R/p_L=3 ; budget ->R5,L15.
+Efter höjning till p_R150 och köp av R4 : L=(1200-600)/40=15,U60.
+Ny budget L=30-3.75R, Rmax8 ; inkomsten I förblir 1200.
+Här är (15,4) också det nya globala optimumet: utgifter 600/600.
+Nyttan sjunker 75->60 ; säg inte att den nominella inkomsten har sjunkit.
+
+A3 — SPEL, S01 s.1–4
+3.1 Golden Balls : korrigerade matriser och Nashjämvikter i avsnitt 13.2.
+3.2 Olja/vapen: nettoutbetalningar och båda dragordningarna i avsnitt 13.3.
+3.3 Fred/krig: Nash PP och WW ; sekventiellt ->PP ; samtidigt inte unikt.
+3.4 Åtagande: trovärdigt hot, rykteskostnad, incitament att verkställa
+sanktionen när aggressionen väl skett. Behandla inte underskriften
+som ett automatiskt bindande åtagande i spelet.
+
+A4 — MONOPOL, SKATT/SUBVENTION, INTRÄDE, S03 s.1–5
+4.1 Tändstickor, p30-Q,C5Q.
+MR30-2Q=MC5 ->Qm12.5,pm17.5,pi156.25.
+CS=(30-17.5)*12.5/2=78.125 ; PS=(17.5-5)*12.5=156.25.
+Qeff25 ; DWL=(25-12.5)*(17.5-5)/2=78.125.
+Skiss: efterfrågan, MR, horisontell MC vid 5 ; Qm där MR=MC, pm på efterfrågan;
+CS-triangel under efterfrågan/över 17.5, PS-rektangel 17.5–5 ;
+DWL mellan Q12.5 och 25, efterfrågan över MC.
+
+4.2 Vin, pD20-Q,pS5+Q.
+Utan politik: Q7.5,p12.5 ; CS=PS=28.125,W56.25.
+Skatt 3 : 20-Q=5+Q+3 ->Q6,p_b14,p_s11,T18.
+CS18,PS18,W54,DWL2.25.
+Subvention 3 i stället: 5+Q=20-Q+3 ->Q9,p_b11,p_s14,
+utgift 27 ; CS40.5,PS40.5,W54,DWL2.25.
+Rita den vertikala kilen 3 vid den handlade kvantiteten; med subvention
+ligger säljarpriset ÖVER köparpriset.
+
+4.3 Caffeinia, p70-Q-2n,C30Q+100.
+Vid fast n : pi=(40-2n)Q-Q^2-100 ; MR70-2n-2Q=30,
+Q*=20-n, p*=50-n, pi=(20-n)^2-100 för en positiv lösning.
+n1 : Q19,p49,pi261. Termen -2n gäller även med ett enda kafé.
+n10 : Q10,p40,pi0.
+FC sjunker 100->25 : kvantitet/pris ändras inte OMEDELBART vid givet n ;
+vinsterna ökar med 75. Inträde ->n ökar, efterfrågan per kafé sjunker,
+Q och p sjunker tills pi0. I övningens exakta form:
+Q_LR=sqrt(25)=5,n15,p35. Denna beräkning kompletterar den kvalitativa frågan.
+
+A5 — DISKRIMINERING OCH COURNOT, S04 s.1–6
+5.1 Identifierbara: Apple Musics studentpris i uppgiftens exempel.
+Self-selection : Ubers resvarianter, komfort/kvalitet. För att fastställa
+diskriminering, kontrollera att skillnaderna inte bara speglar
+olika kostnader. Detta är uppgiftens exempel, inte en undersökning
+av företagens nuvarande priser.
+
+5.2 pA20-QA,pB30-2QB,MC5, FC ej angivna, satta till 0.
+Segmenterat: MRA20-2QA=5 ->QA7.5,pA12.5,piA56.25,CSA28.125.
+MRB30-4QB=5 ->QB6.25,pB17.5,piB78.125,CSB39.0625.
+Total vinst 134.375 ; total kvantitet 13.75.
+Gemensamt pris:
+Q(p)=0 om p>=30 ; Q=(30-p)/2 om 20<=p<30 ;
+Q=(20-p)+(30-p)/2=35-1.5p om 0<=p<20.
+På det gemensamma segmentet: pi=(p-5)(35-1.5p), FOC 42.5-3p=0.
+p=85/6≈14.1667 ; QA35/6≈5.8333 ; QB95/12≈7.9167 ;
+Qtotal13.75 ; vinst 3025/24≈126.0417.
+Monopolkandidaten « bara B » till priset 17.5 hör inte till
+segmentet p>=20 ; kontrollera dess gränser, den slår inte denna gemensamma kandidat.
+Vid gemensamt pris: CSA≈17.0139,CSB≈62.6736,PSA≈53.4722,PSB≈72.5694.
+Segmentering minus gemensamt pris:
+A : CS+11.1111,PS+2.7778,W+13.8889.
+B : CS-23.6111,PS+5.5556,W-18.0556.
+Totalt: vinst+8.3333,CS-12.5,W-4.1667.
+Den totala kvantiteten är densamma, men fördelningen är mindre effektiv:
+på marginalen skiljer sig WTP mellan marknaderna. Alltså är « samma Q ->samma W » fel.
+
+5.3 Koppar, p90-Q,MC30,FC0, Q=q1+q2.
+pi1=(60-q1-q2)q1 ; BR1=30-q2/2, BR2=30-q1/2.
+Skärning q1=q2=20 ; Q40,p50,pi_i(50-30)*20=400.
+Sätt inte in Qtotal40 i ett enskilt företags kostnadsfunktion.
+
+A6 — KOLLEKTIV NYTTIGHET, KREDIT, POSITIV EXTERNALITET, S05 s.1–5
+6.1 Städning: kollektiv i modellen, MB15-Q,12-Q,9-Q,MC27.
+Summa 36-3Q=27 ->Q3. Individuella WTP vid 3 : 12,9,6, summa 27.
+De tre kurvorna adderas inte horisontellt.
+6.2 Kredit: resultat H/L, b2/b6 och insats 10 i avsnitt 12.5.
+Skriv först ENTREPRENÖRENS utbetalningar, härled sedan bankens
+risk. Att bara beräkna bankens återbetalningar avgör inte
+vilken handling som faktiskt väljs.
+6.3 Solenergi: MPB100-3Q,MPC10+2Q,MEB20.
+Qpriv18,p46 ; MSB120-3Q ; Qeff22 ; s*=20.
+DWL0.5*(22-18)*20=40.
+Utan korrigering: CS486,PS324, extern nytta 360,W1170.
+Med korrigering: p_b34,p_s54,CS726,PS484, subvention 440,
+extern nytta 440,W1210. Kontroll: samhällelig vinst 40.

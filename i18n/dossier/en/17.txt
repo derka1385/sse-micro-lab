@@ -1,0 +1,117 @@
+======================================================================
+15. ASSIGNMENTS: RECOMPUTED REFERENCE RESULTS
+======================================================================
+
+The calculations below are reconstructed from the QUESTIONS, not validated by an
+official marking scheme. The handwritten pages were used to identify the approaches
+and to spot the pitfalls; they do not replace the solution.
+
+A2 — ELASTICITIES AND THE CONSUMER, S02 p.1–3
+2.1 Petrol, epsilon_SR=-0.25,epsilon_LR=-0.60.
+a) Price +5% ->quantity about -1.25% in the short run, -3% in the long run.
+   Possible adjustments: trips, public transport, vehicle, place of residence.
+b) Target -15% LR ->%Delta p=(-15)/(-0.60)=+25%, using the proportional
+   method taught. If "constant elasticity at every price" is
+   read as Q=A*p^-0.6, exact calculation p1/p0=0.85^(-1/0.6),
+   i.e. about +31.11%. State the convention; 25% is the exercise's usual
+   linear approximation, not the exact solution for this function.
+
+2.2 I1200, p_L40,p_R120,U=L*R.
+Budget 40L+120R<=1200; L=30-3R with R horizontal, L vertical.
+Intercepts: L30,R10.
+Bundles from the question, including the duplicate actually printed:
+(15,5): spending 1200,U75, affordable.
+(20,4): spending 1280,U80, NOT affordable.
+(24,2): spending 1200,U48, affordable.
+(10,5): spending 1000,U50, affordable.
+(15,5) again: same values, do not invent a distinct fifth bundle.
+Preferred without constraint among the list: (20,4). Best affordable:
+(15,5), also the global optimum of U=LR under this budget.
+Tangency with R horizontal: MU_R/MU_L=L/R=p_R/p_L=3; budget ->R5,L15.
+After p_R rises to 150 and R4 is bought: L=(1200-600)/40=15,U60.
+New budget L=30-3.75R, Rmax8; income I remains 1200.
+Here (15,4) is also the new global optimum: spending 600/600.
+Utility falls 75->60; do not say nominal income has fallen.
+
+A3 — GAMES, S01 p.1–4
+3.1 Golden Balls: corrected matrices and Nash equilibria in section 13.2.
+3.2 Oil/arms: net payoffs and both move orders in section 13.3.
+3.3 Peace/war: Nash PP and WW; sequential ->PP; simultaneous not unique.
+3.4 Commitment: credible threat, reputational cost, incentive to carry out
+the sanction once the aggression has happened. Do not treat the signature
+as an automatically binding commitment in the game.
+
+A4 — MONOPOLY, TAX/SUBSIDY, ENTRY, S03 p.1–5
+4.1 Matches, p30-Q,C5Q.
+MR30-2Q=MC5 ->Qm12.5,pm17.5,pi156.25.
+CS=(30-17.5)*12.5/2=78.125; PS=(17.5-5)*12.5=156.25.
+Qeff25; DWL=(25-12.5)*(17.5-5)/2=78.125.
+Sketch: demand, MR, horizontal MC at 5; Qm where MR=MC, pm on demand;
+CS triangle under demand/above 17.5, PS rectangle 17.5–5;
+DWL between Q12.5 and 25, demand above MC.
+
+4.2 Wine, pD20-Q,pS5+Q.
+No policy: Q7.5,p12.5; CS=PS=28.125,W56.25.
+Tax 3: 20-Q=5+Q+3 ->Q6,p_b14,p_s11,T18.
+CS18,PS18,W54,DWL2.25.
+Subsidy 3 instead: 5+Q=20-Q+3 ->Q9,p_b11,p_s14,
+spending 27; CS40.5,PS40.5,W54,DWL2.25.
+Draw the vertical wedge 3 at the traded quantity; with a subsidy,
+the seller price is ABOVE the buyer price.
+
+4.3 Caffeinia, p70-Q-2n,C30Q+100.
+For fixed n: pi=(40-2n)Q-Q^2-100; MR70-2n-2Q=30,
+Q*=20-n, p*=50-n, pi=(20-n)^2-100 for a positive solution.
+n1: Q19,p49,pi261. The -2n term also applies with a single café.
+n10: Q10,p40,pi0.
+FC falls 100->25: quantity/price do not change IMMEDIATELY for given n;
+profits rise by 75. Entry ->n rises, demand per café falls,
+Q and p fall until pi0. In this exercise's exact form:
+Q_LR=sqrt(25)=5,n15,p35. This calculation completes the qualitative question.
+
+A5 — DISCRIMINATION AND COURNOT, S04 p.1–6
+5.1 Identifiable: the Apple Music student price in the assignment's example.
+Self-selection: Uber ride versions, comfort/quality. To establish
+discrimination, check that the gaps do not merely reflect
+different costs. These are the assignment's examples, not a survey
+of the companies' current prices.
+
+5.2 pA20-QA,pB30-2QB,MC5, FC not given, taken as 0.
+Segmented: MRA20-2QA=5 ->QA7.5,pA12.5,piA56.25,CSA28.125.
+MRB30-4QB=5 ->QB6.25,pB17.5,piB78.125,CSB39.0625.
+Total profit 134.375; total quantity 13.75.
+Common price:
+Q(p)=0 if p>=30; Q=(30-p)/2 if 20<=p<30;
+Q=(20-p)+(30-p)/2=35-1.5p if 0<=p<20.
+On the common segment: pi=(p-5)(35-1.5p), FOC 42.5-3p=0.
+p=85/6≈14.1667; QA35/6≈5.8333; QB95/12≈7.9167;
+Qtotal13.75; profit 3025/24≈126.0417.
+The monopoly candidate "B only" at price 17.5 does not belong to the
+segment p>=20; check its boundaries, it does not beat this common candidate.
+Under the common price: CSA≈17.0139,CSB≈62.6736,PSA≈53.4722,PSB≈72.5694.
+Segmentation minus common price:
+A: CS+11.1111,PS+2.7778,W+13.8889.
+B: CS-23.6111,PS+5.5556,W-18.0556.
+Total: profit+8.3333,CS-12.5,W-4.1667.
+Total quantity is identical, but the allocation is less efficient:
+at the margin, WTPs differ across markets. So "same Q ->same W" is false.
+
+5.3 Copper, p90-Q,MC30,FC0, Q=q1+q2.
+pi1=(60-q1-q2)q1; BR1=30-q2/2, BR2=30-q1/2.
+Intersection q1=q2=20; Q40,p50,pi_i(50-30)*20=400.
+Do not put Qtotal40 into a single firm's cost function.
+
+A6 — PUBLIC GOOD, CREDIT, POSITIVE EXTERNALITY, S05 p.1–5
+6.1 Cleaning: public in the model, MB15-Q,12-Q,9-Q,MC27.
+Sum 36-3Q=27 ->Q3. Individual WTPs at 3: 12,9,6, sum 27.
+The three curves are not added horizontally.
+6.2 Credit: H/L results, b2/b6 and own funds 10 in section 12.5.
+First write the ENTREPRENEUR's payoffs, then deduce the bank's
+risk. Computing only the bank repayments does not determine
+which action will actually be chosen.
+6.3 Solar: MPB100-3Q,MPC10+2Q,MEB20.
+Qpriv18,p46; MSB120-3Q; Qeff22; s*=20.
+DWL0.5*(22-18)*20=40.
+Without correction: CS486,PS324, external benefit 360,W1170.
+With correction: p_b34,p_s54,CS726,PS484, subsidy 440,
+external benefit 440,W1210. Check: social gain 40.

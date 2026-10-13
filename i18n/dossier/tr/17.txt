@@ -1,0 +1,117 @@
+======================================================================
+15. ASSIGNMENTS: YENİDEN HESAPLANMIŞ REFERANS SONUÇLAR
+======================================================================
+
+Aşağıdaki hesaplar SORU METİNLERİNDEN yeniden kurulmuştur, resmi bir
+puanlama anahtarıyla doğrulanmamıştır. El yazısı sayfalar yaklaşımları belirlemek
+ve tuzakları fark etmek için kullanıldı; çözümün yerini tutmazlar.
+
+A2 — ESNEKLİKLER VE TÜKETİCİ, S02 s.1–3
+2.1 Benzin, epsilon_SR=-0.25,epsilon_LR=-0.60.
+a) Fiyat +%5 ->miktar kısa dönemde yaklaşık -%1.25, uzun dönemde -%3.
+   Olası uyarlamalar: yolculuklar, toplu taşıma, araç, yaşanan yer.
+b) Hedef LR'de -%15 ->%Delta p=(-15)/(-0.60)=+%25, öğretilen orantısal
+   yönteme göre. « Her fiyatta sabit esneklik » ifadesi
+   Q=A*p^-0.6 olarak yorumlanırsa, kesin hesap p1/p0=0.85^(-1/0.6),
+   yani yaklaşık +%31.11. Kuralı belirt; %25 alıştırmanın olağan doğrusal
+   yaklaşımıdır, bu fonksiyonun kesin çözümü değildir.
+
+2.2 I1200, p_L40,p_R120,U=L*R.
+Bütçe 40L+120R<=1200 ; R yatay, L dikeyse L=30-3R.
+Kesişimler: L30,R10.
+Sorudaki sepetler, gerçekten basılmış tekrar dahil:
+(15,5) : harcama 1200,U75, ulaşılabilir.
+(20,4) : harcama 1280,U80, ulaşılabilir DEĞİL.
+(24,2) : harcama 1200,U48, ulaşılabilir.
+(10,5) : harcama 1000,U50, ulaşılabilir.
+(15,5) yine: aynı değerler, ayrı bir beşinci sepet uydurma.
+Listede kısıtsız tercih edilen: (20,4). Ulaşılabilir en iyi:
+(15,5), bu bütçe altında U=LR'nin küresel optimumu da.
+R yatayken teğetlik: MU_R/MU_L=L/R=p_R/p_L=3 ; bütçe ->R5,L15.
+p_R150'ye yükselip R4 alındıktan sonra : L=(1200-600)/40=15,U60.
+Yeni bütçe L=30-3.75R, Rmax8 ; gelir I 1200'de kalır.
+Burada (15,4) yeni küresel optimumdur da: harcamalar 600/600.
+Fayda 75->60 düşer; nominal gelirin düştüğünü söyleme.
+
+A3 — OYUNLAR, S01 s.1–4
+3.1 Golden Balls : düzeltilmiş matrisler ve Nash dengeleri bölüm 13.2'de.
+3.2 Petrol/silah: net getiriler ve iki hamle sırası bölüm 13.3'te.
+3.3 Barış/savaş: Nash PP ve WW ; sıralı ->PP ; eşzamanlıda tek değil.
+3.4 Taahhüt: inandırıcı tehdit, itibar maliyeti, saldırı gerçekleştikten
+sonra yaptırımı uygulama teşviki. İmzayı oyunda otomatik olarak
+bağlayıcı bir taahhüt gibi ele alma.
+
+A4 — TEKEL, VERGİ/SÜBVANSİYON, GİRİŞ, S03 s.1–5
+4.1 Kibritler, p30-Q,C5Q.
+MR30-2Q=MC5 ->Qm12.5,pm17.5,pi156.25.
+CS=(30-17.5)*12.5/2=78.125 ; PS=(17.5-5)*12.5=156.25.
+Qeff25 ; DWL=(25-12.5)*(17.5-5)/2=78.125.
+Şema: talep, MR, 5'te yatay MC ; Qm MR=MC'de, pm talep üzerinde;
+CS talebin altında/17.5'in üstünde üçgen, PS 17.5–5 dikdörtgeni ;
+DWL Q12.5 ile 25 arasında, talep MC'nin üstünde.
+
+4.2 Şarap, pD20-Q,pS5+Q.
+Politikasız: Q7.5,p12.5 ; CS=PS=28.125,W56.25.
+Vergi 3 : 20-Q=5+Q+3 ->Q6,p_b14,p_s11,T18.
+CS18,PS18,W54,DWL2.25.
+Bunun yerine sübvansiyon 3 : 5+Q=20-Q+3 ->Q9,p_b11,p_s14,
+harcama 27 ; CS40.5,PS40.5,W54,DWL2.25.
+Dikey 3'lük kamayı işlem gören miktarda göster; sübvansiyonda
+satıcı fiyatı alıcı fiyatının ÜSTÜNDEDİR.
+
+4.3 Caffeinia, p70-Q-2n,C30Q+100.
+Sabit n'de : pi=(40-2n)Q-Q^2-100 ; MR70-2n-2Q=30,
+Q*=20-n, p*=50-n, pozitif çözüm için pi=(20-n)^2-100.
+n1 : Q19,p49,pi261. -2n terimi tek bir kafeyle de geçerlidir.
+n10 : Q10,p40,pi0.
+FC 100->25 düşer: verili n'de miktar/fiyat HEMEN değişmez;
+kârlar 75 artar. Giriş ->n artar, kafe başına talep düşer,
+Q ve p pi0'a kadar düşer. Bu alıştırmanın kesin biçiminde:
+Q_LR=sqrt(25)=5,n15,p35. Bu hesap nitel soruyu tamamlar.
+
+A5 — AYRIMCILIK VE COURNOT, S04 s.1–6
+5.1 Tanımlanabilir: ödev örneğindeki Apple Music öğrenci tarifesi.
+Self-selection : Uber yolculuk seçenekleri, konfor/kalite. Ayrımcılığı
+tespit etmek için farkların yalnızca farklı maliyetleri yansıtmadığını
+kontrol et. Bunlar ödevin örnekleridir, şirketlerin güncel
+tarifeleri hakkında bir araştırma değildir.
+
+5.2 pA20-QA,pB30-2QB,MC5, FC verilmemiş, 0 alınır.
+Segmentli: MRA20-2QA=5 ->QA7.5,pA12.5,piA56.25,CSA28.125.
+MRB30-4QB=5 ->QB6.25,pB17.5,piB78.125,CSB39.0625.
+Toplam kâr 134.375 ; toplam miktar 13.75.
+Ortak fiyat:
+p>=30 ise Q(p)=0 ; 20<=p<30 ise Q=(30-p)/2 ;
+0<=p<20 ise Q=(20-p)+(30-p)/2=35-1.5p.
+Ortak segmentte: pi=(p-5)(35-1.5p), FOC 42.5-3p=0.
+p=85/6≈14.1667 ; QA35/6≈5.8333 ; QB95/12≈7.9167 ;
+Qtotal13.75 ; kâr 3025/24≈126.0417.
+17.5 fiyatındaki « yalnızca B » tekel adayı p>=20 segmentine
+ait değildir; sınırlarını kontrol et, bu ortak adayı geçemez.
+Ortak fiyatta: CSA≈17.0139,CSB≈62.6736,PSA≈53.4722,PSB≈72.5694.
+Segmentasyon eksi ortak fiyat:
+A : CS+11.1111,PS+2.7778,W+13.8889.
+B : CS-23.6111,PS+5.5556,W-18.0556.
+Toplam: kâr+8.3333,CS-12.5,W-4.1667.
+Toplam miktar aynıdır ama dağılım daha az etkindir:
+marjda WTP'ler piyasalar arasında farklıdır. Yani « aynı Q ->aynı W » yanlıştır.
+
+5.3 Bakır, p90-Q,MC30,FC0, Q=q1+q2.
+pi1=(60-q1-q2)q1 ; BR1=30-q2/2, BR2=30-q1/2.
+Kesişim q1=q2=20 ; Q40,p50,pi_i(50-30)*20=400.
+Qtotal40'ı tek bir firmanın maliyet fonksiyonuna koyma.
+
+A6 — KAMU MALI, KREDİ, POZİTİF DIŞSALLIK, S05 s.1–5
+6.1 Temizlik: modelde kamu malı, MB15-Q,12-Q,9-Q,MC27.
+Toplam 36-3Q=27 ->Q3. 3'te bireysel WTP'ler : 12,9,6, toplam 27.
+Üç eğri yatay olarak toplanmaz.
+6.2 Kredi: H/L sonuçları, b2/b6 ve katkı 10 bölüm 12.5'te.
+Önce GİRİŞİMCİNİN getirilerini yaz, sonra bankanın riskini
+çıkar. Yalnızca banka geri ödemelerini hesaplamak, hangi eylemin
+gerçekten seçileceğini belirlemez.
+6.3 Güneş enerjisi: MPB100-3Q,MPC10+2Q,MEB20.
+Qpriv18,p46 ; MSB120-3Q ; Qeff22 ; s*=20.
+DWL0.5*(22-18)*20=40.
+Düzeltmesiz: CS486,PS324, dışsal fayda 360,W1170.
+Düzeltmeyle: p_b34,p_s54,CS726,PS484, sübvansiyon 440,
+dışsal fayda 440,W1210. Kontrol: sosyal kazanç 40.
