@@ -18,7 +18,7 @@ const MAX_DOC_CHARS = 900_000; // Firestore documents are capped at 1 MiB.
 const WRITE_DELAY = 2500;
 
 export type SyncUser = { name: string; email: string; photo: string | null };
-export type SyncState = { ready: boolean; user: SyncUser | null; status: 'off' | 'syncing' | 'synced' | 'error'; error?: string };
+export type SyncState = { ready: boolean; user: SyncUser | null; status: 'off' | 'syncing' | 'synced' | 'error'; error?: string; offline?: boolean };
 
 let sync: SyncState = { ready: false, user: null, status: 'off' };
 const listeners = new Set<() => void>();
@@ -105,13 +105,16 @@ async function startSync(uid: string) {
   stop = () => { unsubDoc(); unsubLocal(); document.removeEventListener('visibilitychange', flush); if (timer) void write(); };
 }
 
-/** Restores a previous session on load; Firebase lives in its own lazily loaded chunk. */
+/** Restores a previous session on load; Firebase lives in its own lazily loaded chunk. Call again to retry after a failure. */
 export async function initSync() {
-  const { auth, authMod } = await firebase();
+  let loadedFb: Fb;
+  try { loadedFb = await firebase(); }
+  catch (e) { fb = null; update({ ready: true, user: null, status: 'error', offline: true, error: (e as Error).message }); return; }
+  const { auth, authMod } = loadedFb;
   authMod.getRedirectResult(auth).catch(() => undefined);
   authMod.onAuthStateChanged(auth, (u) => {
     stop?.(); stop = null;
-    if (!u) { update({ ready: true, user: null, status: 'off', error: undefined }); return; }
+    if (!u) { update({ ready: true, user: null, status: 'off', offline: false, error: undefined }); return; }
     update({ ready: true, user: { name: u.displayName ?? u.email ?? '', email: u.email ?? '', photo: u.photoURL } });
     void startSync(u.uid);
   });
