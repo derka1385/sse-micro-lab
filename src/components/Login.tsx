@@ -53,6 +53,32 @@ export function Splash() {
   return <div className="splash" role="status" aria-label={t('Chargement…')}><span className="splash-brand">Micro Lab</span><span className="spinner" aria-hidden="true" /></div>;
 }
 
+const ASKED = 'micro-lab-lang-asked';
+export const langAsked = () => { try { return localStorage.getItem(ASKED) === '1'; } catch { return true; } };
+
+/** Shown once after the first sign-in on a device: picking a language reloads the page, Continue enters the app. */
+export function LangPrompt({ onDone }: { onDone: () => void }) {
+  return (
+    <div className="lang-prompt">
+      <section className="login-card" aria-labelledby="lang-title">
+        <h2 id="lang-title">{t('Ta langue préférée')}</h2>
+        <p className="login-sub">{t('Tu pourras la changer plus tard dans le menu.')}</p>
+        <div className="lang-list" role="radiogroup" aria-label={t('Langue')}>
+          {LANGS.map((l) => (
+            <button key={l.id} type="button" role="radio" aria-checked={l.id === lang} lang={l.id}
+              className={`lang-row ${l.id === lang ? 'on' : ''}`} onClick={() => { if (l.id !== lang) setLang(l.id as Lang); }}>
+              <span>{l.name}</span><span className="lang-code">{l.id.toUpperCase()}</span>
+            </button>
+          ))}
+        </div>
+        <button type="button" className="google-btn google-btn-lg lang-go" onClick={() => { try { localStorage.setItem(ASKED, '1'); } catch { /* blocked */ } onDone(); }}>
+          {t('Continuer')}
+        </button>
+      </section>
+    </div>
+  );
+}
+
 export function LoginPage() {
   const s = useSync();
   const [busy, setBusy] = useState(false);

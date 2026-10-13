@@ -18,7 +18,7 @@ import { Claude } from './views/Claude';
 import { QuickQuestion } from './components/QuickQuestion';
 import { getClaudeStatus } from './claude';
 import { signOutSync, useSync } from './sync';
-import { LangPicker, LoginPage, Splash } from './components/Login';
+import { LangPicker, LangPrompt, LoginPage, Splash, langAsked } from './components/Login';
 import { t } from './i18n';
 
 function useRoute() {
@@ -32,23 +32,24 @@ function useRoute() {
   return route;
 }
 
-const NAV: { group: string; items: { href: string; label: string; key: string }[] }[] = [
-  { group: '', items: [{ href: '#/', label: t('Accueil'), key: '' }] },
-  { group: t('Apprendre'), items: [
-    { href: '#/learn', label: t('Leçons'), key: 'learn' },
+// Five main sections; a section's sub-pages show only while it is open.
+const NAV: { label: string; href: string; items: { href: string; label: string; key: string }[] }[] = [
+  { label: t('Accueil'), href: '#/', items: [{ href: '#/', label: t('Accueil'), key: '' }] },
+  { label: t('Leçons'), href: '#/learn', items: [{ href: '#/learn', label: t('Leçons'), key: 'learn' }] },
+  { label: t('Apprendre'), href: '#/lab', items: [
     { href: '#/lab', label: t('Graph Lab'), key: 'lab' },
     { href: '#/why', label: t('Pourquoi ?'), key: 'why' },
     // The Claude tutor needs the local dev server (it holds the API key): hidden on the static GitHub Pages build.
     ...(import.meta.env.DEV ? [{ href: '#/claude', label: t('Ask Claude directly'), key: 'claude' }] : []),
   ] },
-  { group: t('S’entraîner'), items: [
+  { label: t('S’entraîner'), href: '#/practice', items: [
     { href: '#/practice', label: t('Pratique'), key: 'practice' },
     { href: '#/recall', label: t('Rappel'), key: 'recall' },
     { href: '#/recognize', label: t('Reconnaître le modèle'), key: 'recognize' },
     { href: '#/confusions', label: t('Confusions'), key: 'confusions' },
     { href: '#/exam', label: t('Examen'), key: 'exam' },
   ] },
-  { group: t('Piloter'), items: [
+  { label: t('Piloter'), href: '#/map', items: [
     { href: '#/map', label: t('Carte de maîtrise'), key: 'map' },
     { href: '#/final', label: t('Préparation finale'), key: 'final' },
     { href: '#/mistakes', label: t('Mes erreurs'), key: 'mistakes' },
@@ -116,6 +117,7 @@ export default function App() {
   const route = useRoute();
   const p = useProgress();
   const [menu, setMenu] = useState(false);
+  const [asked, setAsked] = useState(langAsked);
   const due = dueReviews(p).length;
   const active = activeMisconceptions(p).length;
   const [head, a, b] = route;
@@ -124,6 +126,7 @@ export default function App() {
   let page;
   if (!sync.ready) return <Splash />;
   if (!sync.user) return <LoginPage />;
+  if (!asked) return <LangPrompt onDone={() => setAsked(true)} />;
   switch (head) {
     case undefined: page = <Home />; break;
     case 'learn': page = <Learn />; break;
@@ -151,18 +154,26 @@ export default function App() {
       </header>
       <nav className={`sidebar ${menu ? 'open' : ''}`} aria-label={t('Navigation principale')}>
         <a href="#/" className="brand brand-side">Micro Lab <span>{t('BE501 · laboratoire')}</span></a>
-        {NAV.map((g) => (
-          <div key={g.group || 'home'} className="nav-group">
-            {g.group && <p className="nav-title">{g.group}</p>}
-            {g.items.map((it) => (
-              <a key={it.key} href={it.href} className={`nav-item ${(head ?? '') === it.key || (it.key === 'learn' && head === 'lesson') ? 'on' : ''}`}>
-                {it.label}
-                {it.key === 'recall' && due > 0 && <span className="badge">{due}</span>}
-                {it.key === 'mistakes' && active > 0 && <span className="badge warn">{active}</span>}
+        {NAV.map((g) => {
+          const key = head === 'lesson' ? 'learn' : (head ?? '');
+          const open = g.items.some((it) => it.key === key);
+          return (
+            <div key={g.href} className={`nav-group ${open ? 'open' : ''}`}>
+              <a href={g.href} className={`nav-main ${open ? 'on' : ''}`} aria-current={open && g.items.length === 1 ? 'page' : undefined}>
+                {g.label}
+                {!open && g.href === '#/practice' && due > 0 && <span className="badge">{due}</span>}
+                {!open && g.href === '#/map' && active > 0 && <span className="badge warn">{active}</span>}
               </a>
-            ))}
-          </div>
-        ))}
+              {open && g.items.length > 1 && g.items.map((it) => (
+                <a key={it.key} href={it.href} className={`nav-item nav-sub ${key === it.key ? 'on' : ''}`} aria-current={key === it.key ? 'page' : undefined}>
+                  {it.label}
+                  {it.key === 'recall' && due > 0 && <span className="badge">{due}</span>}
+                  {it.key === 'mistakes' && active > 0 && <span className="badge warn">{active}</span>}
+                </a>
+              ))}
+            </div>
+          );
+        })}
         <Account />
         <Backup />
         <LangPicker />
