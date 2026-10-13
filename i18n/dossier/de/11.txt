@@ -1,0 +1,111 @@
+======================================================================
+9. DISKRIMINIERUNG, SEGMENTIERUNG, BUNDLING UND TARIFE — L9
+======================================================================
+
+9.1 Bedingungen und drei Grade
+Diskriminierung: verschiedene Einheiten desselben Guts werden zu verschiedenen
+Preisen verkauft, aus WTP-Gründen jenseits bloßer Kostenunterschiede.
+Nötig sind Marktmacht und Begrenzung von Wiederverkauf/Arbitrage; man muss
+die Kundschaft einordnen oder ihr ein Menü anbieten, mit dem sie sich selbst einordnet.
+Ein Preisunterschied, der ausschließlich auf Kosten beruht, belegt für sich
+allein keine Diskriminierung.
+
+Ersten Grades / perfect price discrimination: jede Einheit wird
+zu ihrer maximalen WTP verkauft. Produziere bis p_D=MC, falls keine andere Verzerrung vorliegt.
+CS0 ; PS schöpft die gesamte variable Rente ab; DWL0 in diesem Idealmodell.
+Gewinn=PS-FC. Hohe Effizienz und eine für den Verkäufer sehr günstige Verteilung.
+Erfordert sehr viel Information und Abschöpfung, meist unrealistisch.
+
+Dritten Grades: BEOBACHTBARE Gruppen, zum Beispiel Studierende, Pensionierte,
+Länder. Löse MR_i=MC für jede Gruppe (oder MC der Gesamtmenge bei nicht konstanten Kosten).
+Bei gemeinsamem MC : (p_i-MC)/p_i=-1/epsilon_i.
+Im Optimum: betragsmäßig weniger sensible Gruppe ->höherer Preis.
+Ein beobachtbarer Status reicht nicht als Beweis, dass der Rabatt den
+Gewinn erhöht: Nachfrage, Kapazität und Opportunitätskosten sind zu prüfen.
+
+Zweiten Grades: nicht beobachtbarer Typ, SELF-SELECTION über Menge, Qualität,
+Uhrzeit, Wartezeit, Coupons, Freemium, Premiumversion oder Komfort.
+Der Verkäufer will, dass Typ H das Angebot H wählt und Typ L das Angebot L.
+Beispiele L9: Züge 1./2. Klasse, Bücher, Buchungen, Freemium-Spiele.
+Die Sparversion zu verschlechtern kann H-Typen davon abhalten, die
+teure Version aufzugeben, selbst wenn diese Verschlechterung keine Kosten spart.
+
+9.2 IC- und IR-Bedingungen
+Nettonutzen von Typ i bei Wahl des Menüs j : V_i(B_j)-T_j.
+IC_H : V_H(B_H)-T_H >= V_H(B_L)-T_L.
+IC_L : V_L(B_L)-T_L >= V_L(B_H)-T_H.
+IR_i : V_i(B_i)-T_i >= Außenoptionsnutzen (oft auf 0 normiert).
+L9 S.20 zeigt vor allem IC_H und IR_L, im üblichen Modell oft bindend;
+die anderen dürfen nicht ohne Begründung vergessen werden.
+IC verhindert die Wahl des „falschen“ Vertrags; IR verhindert die Ablehnung
+aller Verträge. Preise und Qualitäten sind gleichzeitig unter diesen Bedingungen zu wählen.
+Den H-Typen muss eventuell eine Informationsrente bleiben.
+
+9.3 Segmentierung gegenüber Einheitspreis
+Segmentiert, p_i=a_i-b_i Q_i und konstantes MC=c :
+Q_i=(a_i-c)/(2b_i) ; p_i=(a_i+c)/2 ; mit 0 vergleichen, falls a_i<=c.
+Einheitspreis: Q(p)=Summe_i max(0,(a_i-p)/b_i).
+Methode: alle Ausschlusspreise finden, jedes Segment aufschreiben,
+(p-c)*Q(p) auf jedem Segment maximieren, Ränder prüfen,
+Gewinne vergleichen. Es kann optimal sein, nur eine Gruppe zu bedienen.
+Inverse Nachfragen nicht addieren, um eine gemeinsame private Nachfrage zu erhalten.
+
+L9 Lowies p=1-Q_L/2, Highies p=2-Q_H, MC0 :
+segmentiert QL1,pL0.5,piL0.5 ; QH1,pH1,piH1 ; pi_gesamt1.5.
+Einheitspreis im Bereich, in dem beide kaufen: Q=4-3p,
+p=2/3,Q2,pi4/3. Prüfe auch p>=1, wo nur Highies kaufen.
+Diskriminierung erhöht den erreichbaren Gewinn, da der Einheitspreis eine
+Option bleibt. Welfare und CS jeder Gruppe haben ein MEHRDEUTIGES Vorzeichen.
+Eine Öffnung für eine ausgeschlossene Gruppe kann W verbessern; eine bloße Umverteilung
+bei unveränderter Menge zwischen verschiedenen WTP kann es senken.
+Das ärmere Land ist nicht automatisch das elastischere: prüfe
+die Nachfrage, statt die Preise allein aus dem Volkseinkommen abzuleiten.
+Parallel imports/trade: auf dem billigen Markt kaufen und auf dem teuren
+weiterverkaufen; das untergräbt die Segmentierung.
+
+9.4 Bundling
+Pure bundling: nur das Bündel; mixed bundling: Bündel UND Einzelkäufe.
+Die WTP derselben Person addieren, um ihre Bündel-WTP zu finden,
+dann die Käufe zu jedem Kandidatenpreis zählen. GEWINNE vergleichen,
+also Kosten und verkaufte Mengen einbeziehen, nicht nur Erlöse.
+L9 S.22 und E2022 Q4d: zwei repräsentative Kundentypen, Kosten nicht angegeben.
+Gourmet: dinner100, room50, bundle150 ; Snoozer: dinner80, room70,
+bundle150. Bei Kosten null und je einer Person pro Typ:
+Dinner Preis80 verkauft2 ->160 ; Zimmer Preis50 verkauft2 ->100 ; gesamt260.
+Bündel Preis150 verkauft2 ->300. Das Bündel schöpft mehr aus negativ
+korrelierten WTP ab. Ohne gegebene Kosten setzt dieses Zahlenergebnis Kosten null oder
+Kosten pro Typ/Leistung voraus, die den Vergleich nicht umkehren.
+Beispiel: sehr hohe reale Kosten einer Leistung können die Wahl ändern.
+
+9.5 Pauschalabo und two-part tariff: eine wesentliche Unterscheidung
+Zweistufiger Tarif: Zahlung T(q)=F+p*q.
+Mit einem einzigen bekannten Kundentyp, konstanten Grenzkosten c und ohne weitere
+Bedingung: Nutzungspreis p=c, effiziente Menge, F=CS(p=c).
+Der Verkäufer schöpft die Rente ab und setzt zugleich einen effizienten Grenzanreiz.
+Bei heterogenen Typen oder einem gemeinsamen F ist p=c nicht immer optimal.
+Nur FIXPREIS: p=0 ; Konsum bis zur marginalen WTP 0,
+F=Integral_0^q(0) p_D(x)dx ; Gewinn=F-C(q(0)). Das ist nicht die zweistufige
+Lösung, wenn MC>0 : übermäßige Nutzung kostet tatsächlich etwas.
+
+L9 S.23–25 : p_D=10-Q, C=2Q.
+Einfaches Monopol Q4,p6,pi16.
+Zweistufig p2,Q8,F32,pi32.
+Nur Abo p0,Q10,F50,Kosten20,pi30.
+F ist ein Erlös der Firma und eine Ausgabe der Kundschaft; nicht mit den
+fixen Produktionskosten verwechseln, die oft ebenfalls F heißen.
+
+9.6 Kapazität und Komplementärprodukte — E2025 Q1
+Kapazität2000, 3000 Fans WTP1200, 2000 Studierende WTP500, MC0 :
+mit 2000 Fans zu 1200 füllen ergibt 2 400 000 kr. Kein Platz ist frei,
+um Studierende hinzuzufügen, ohne einen Fan zu ersetzen, der mehr zahlt.
+Diskriminierung kann den Gewinn in diesem Fall also nicht erhöhen.
+Die physischen Grenzkosten sind 0, aber der Platz hat Opportunitätskosten.
+
+Konzert und T-Shirts: den GEMEINSAMEN Gewinn maximieren. Ein günstigeres Ticket
+kann Kaufende anziehen, deren T-Shirt-Käufe Marge bringen.
+Qc=1000-pc, QT=Qc-2pT, MCc0,MCT20 :
+pi=pc*(1000-pc)+(pT-20)*(1000-pc-2pT).
+FOC : 1020-2pc-pT=0 ; 1040-pc-4pT=0.
+pc=3040/7≈434.286 ; pT=1060/7≈151.429 ; Qc=3960/7≈565.714 ;
+QT=1840/7≈262.857. Nur Ticket: pc500 ; Komplementärprodukt ->niedrigeres pc.
+QT>=0 und die Gültigkeit der Nachfragen prüfen; hier ist das Optimum innen.

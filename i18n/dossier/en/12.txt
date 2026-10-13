@@ -1,0 +1,105 @@
+======================================================================
+10. OLIGOPOLY, COURNOT, BERTRAND AND STACKELBERG — L10
+======================================================================
+
+10.1 Choosing the right game
+Oligopoly: a small number of firms whose decisions directly affect each other.
+Cournot: quantities chosen simultaneously; homogeneous product in the base case.
+Bertrand: prices chosen simultaneously; state whether homogeneous or differentiated.
+Stackelberg: a leader chooses first, a follower observes and reacts.
+Nash: no firm gains by deviating UNILATERALLY, the other strategies
+being fixed. The intersection of best responses is a Nash equilibrium.
+A best response is a choice conditional on the rival, not a promise
+to hold that rival constant after every change to the model.
+
+10.2 Linear Cournot with two firms
+p=a-b(q1+q2), costs C_i=F_i+c_i*q_i.
+pi1=[a-b(q1+q2)-c1]*q1-F1.
+partial pi1/partial q1=a-2bq1-bq2-c1=0.
+BR1(q2)=max(0,(a-c1-bq2)/(2b)), BR2 likewise.
+If both are active:
+q1=(a-2c1+c2)/(3b), q2=(a-2c2+c1)/(3b),
+Q=(2a-c1-c2)/(3b), p=(a+c1+c2)/3.
+If a quantity is negative, solve the corner where that firm does not produce.
+Then compute pi_i=(p-c_i)q_i-F_i.
+Inside this linear model, p-c_i=bq_i ->variable profit=bq_i^2.
+Differences in unavoidable FC do not change these quantities; they change
+profits and can change entry/exit decisions.
+
+L10 example a70,b1,c1=c2=10: BR_i=30-q_j/2;
+q1=q2=20,Q40,p30,pi_i400 without FC.
+Joint monopoly Q30,p40; perfect competition Q60,p10.
+With MC Blue0, Red10: qBlue80/3≈26.667, qRed50/3≈16.667,
+p80/3≈26.667. The efficient firm takes more of the market; imposing equal
+shares can make production more expensive. Large shares do not on their own
+prove inefficiency.
+
+10.3 Cournot with n identical firms
+p=a-bQ, MCc: q_i=(a-c)/[b(n+1)],
+Q=n(a-c)/[b(n+1)], p=(a+n*c)/(n+1).
+Lerner=(p-c)/p=-(market share_i)/epsilon_market for this model,
+so under symmetry -1/(n*epsilon_market).
+As n grows: p tends to c, Q to the competitive quantity.
+A merger reducing n, without cost synergy: p rises; the non-merged firms
+often benefit from this reduced competition in this model.
+Do not generalise this result to every merger with changing costs/products.
+
+10.4 Drawing Cournot reactions
+Axes q1 horizontal/q2 vertical OR the reverse, but keep the same convention.
+If q1 is horizontal: BR2 is drawn directly as q2=f(q1), and BR1 must be
+rewritten q2=(a-c1)/b-2q1 in the interior zone.
+Both slope downward; intersection = Nash quantities.
+Cost c1 rises: BR1 changes, BR2 as a function of q1 does not change;
+the rival responds to the new equilibrium. A tax on both firms: shifts
+BOTH reactions towards lower output. This is E2022 Q3e.
+
+10.5 Stackelberg in quantities
+First solve BR_follower(qL), substitute it into the leader's profit,
+then differentiate with respect to qL. Do not treat qF as constant here.
+Symmetric case p=a-bQ, MCc, no capacity constraints:
+qL=(a-c)/(2b), qF=(a-c)/(4b), Q=3(a-c)/(4b), p=(a+3c)/4.
+The leader produces more and earns more than under Cournot; the follower produces less.
+Total Q rises, p falls. The result depends on the model's assumptions.
+L10 a70,c10: qL30,qF15,Q45,p25; profits 450 and 225.
+The Stackelberg equilibrium lies on the follower's reaction, usually not
+on the leader's Cournot reaction, which holds the rival's quantity fixed.
+
+10.6 Homogeneous Bertrand
+Perfectly substitutable products, same constant MC, sufficient capacity,
+customers buying from the cheapest: with two or more firms, p=MC.
+If p>MC, undercutting slightly can capture the market; p<MC loses
+money on each unit. Lerner0 for p=MC>0.
+Limited capacity, differentiation, search or repetition can change
+the result; the number of firms alone does not determine the markup.
+Different costs: the lowest-cost firm can keep a markup by
+limiting its price by the cost of the most efficient competitor.
+E2024 MC5,7,8 and p_D10-Q: limit price around 7, often written 7-epsilon.
+The monopoly price without a competitor would be 7.5, so the rival's constraint
+is relevant. With continuous prices, existence/tie-breaking need precision:
+price exactly 7 if there is a suitable rule allocating to the efficient producer;
+with equal sharing at a tie, the approximation of slight undercutting is
+more accurate than claiming a pure equilibrium at 7.
+
+10.7 Differentiated Bertrand
+Demand q_i=A-B*p_i+D*p_j, B>0,D>=0, MCc_i.
+pi_i=(p_i-c_i)*(A-Bp_i+Dp_j)-F_i.
+FOC: A-2Bp_i+Dp_j+B*c_i=0.
+BR_i(p_j)=(A+B*c_i+D*p_j)/(2B).
+Upward-sloping reactions for substitutes: prices are strategic complements.
+Under symmetry: p=(A+B*c)/(2B-D), if domain/concavity are admissible.
+Quantity via the DEMAND; profit=(p-c)q-F.
+L10 A85,B1,D0.5,c11 ->p64,q53,pi2809 without FC.
+E2025 A10,B2,D1: p=(10+2c)/3.
+c2 ->p14/3; c1 ->p4. Cost falls by 1 ->price falls by 2/3.
+Do not apply competitive pass-through to this market structure.
+
+10.8 Price leadership
+Substitute the follower's PRICE reaction into the leader's demand,
+before maximising its profit. Not the Stackelberg quantity formula.
+E2024 Q4c/d: q1=6-2p1+p2, q2=6-2p2+p1; no cost is specified.
+Under the explicit assumption MC=FC=0: simultaneous p1=p2=2, q1=q2=4, pi_i8.
+If firm2 leads: p1=(6+p2)/4; demand2=7.5-1.75p2;
+p2=15/7≈2.143, p1=57/28≈2.036; pi2=225/28≈8.036,
+pi1=3249/392≈8.288. BOTH gain here; the follower gains more.
+The "first-mover advantage" in quantities is not a universal law
+for all games, especially when prices are complements.

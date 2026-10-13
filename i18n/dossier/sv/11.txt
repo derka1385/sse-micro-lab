@@ -1,0 +1,111 @@
+======================================================================
+9. DISKRIMINERING, SEGMENTERING, BUNDLING OCH TARIFFER — L9
+======================================================================
+
+9.1 Villkor och tre grader
+Diskriminering: olika enheter av samma vara säljs till olika
+priser, av WTP-skäl utöver rena kostnadsskillnader.
+Det kräver marknadsmakt och begränsad vidareförsäljning/arbitrage; att kunna sortera
+kunderna, eller erbjuda dem en meny som får dem att sortera sig själva.
+En prisskillnad som enbart beror på kostnader räcker inte i sig
+för att belägga diskriminering.
+
+Första graden / perfect price discrimination: varje enhet säljs
+till sin maximala WTP. Producera upp till p_D=MC om ingen annan snedvridning finns.
+CS0 ; PS tar hela det rörliga överskottet; DWL0 i denna idealmodell.
+Vinst=PS-FC. Hög effektivitet och en fördelning mycket gynnsam för säljaren.
+Kräver mycket stark information och extraktion, oftast orealistiskt.
+
+Tredje graden: OBSERVERBARA grupper, till exempel studenter, pensionärer,
+länder. Lös MR_i=MC för varje grupp (eller MC för totalen om kostnaden inte är konstant).
+Med gemensam MC : (p_i-MC)/p_i=-1/epsilon_i.
+I optimum: gruppen som är mindre känslig i absolutbelopp ->högre pris.
+En observerbar status räcker inte för att bevisa att rabatten höjer
+vinsten: efterfrågan, kapacitet och alternativkostnad måste beaktas.
+
+Andra graden: icke observerbar typ, SELF-SELECTION via kvantitet, kvalitet,
+tidpunkt, väntan, kuponger, freemium, premiumversion eller komfort.
+Säljaren vill att typ H väljer erbjudande H och typ L erbjudande L.
+Exempel L9: tåg i 1:a/2:a klass, böcker, bokningar, freemiumspel.
+Att försämra budgetversionen kan hindra H-kunder från att lämna
+den dyra versionen, även om försämringen inte sparar några kostnader.
+
+9.2 IC- och IR-villkor
+Nettonytta för typ i som väljer meny j : V_i(B_j)-T_j.
+IC_H : V_H(B_H)-T_H >= V_H(B_L)-T_L.
+IC_L : V_L(B_L)-T_L >= V_L(B_H)-T_H.
+IR_i : V_i(B_i)-T_i >= utomstående nytta (ofta normerad till 0).
+L9 s.20 visar främst IC_H och IR_L, ofta bindande i den vanliga
+modellen; de andra får inte glömmas bort utan motivering.
+IC hindrar valet av « fel » kontrakt; IR hindrar att alla kontrakt
+avvisas. Priser och kvaliteter måste väljas samtidigt under dessa villkor.
+En informationsränta kan behöva lämnas åt H-kunderna.
+
+9.3 Segmentering mot gemensamt pris
+Segmenterat, p_i=a_i-b_i Q_i och konstant MC=c :
+Q_i=(a_i-c)/(2b_i) ; p_i=(a_i+c)/2 ; jämför med 0 om a_i<=c.
+Gemensamt pris: Q(p)=summa_i max(0,(a_i-p)/b_i).
+Metod: hitta alla uteslutningspriser, skriv upp varje segment,
+maximera (p-c)*Q(p) på varje segment, kontrollera gränserna,
+jämför vinsterna. Det kan vara optimalt att bara betjäna en grupp.
+Addera inte inversa efterfrågekurvor för att få en gemensam privat efterfrågan.
+
+L9 Lowies p=1-Q_L/2, Highies p=2-Q_H, MC0 :
+segmenterat QL1,pL0.5,piL0.5 ; QH1,pH1,piH1 ; pi_totalt1.5.
+Gemensamt i zonen där båda köper: Q=4-3p,
+p=2/3,Q2,pi4/3. Kontrollera även p>=1 där bara Highies köper.
+Diskriminering höjer den möjliga vinsten, eftersom det gemensamma priset förblir
+ett alternativ. Welfare och varje grupps CS har ett TVETYDIGT tecken.
+Att öppna för en utesluten grupp kan förbättra W; en ren omfördelning
+vid oförändrad kvantitet mellan olika WTP kan sänka det.
+Det fattigare landet är inte automatiskt det mer elastiska: kontrollera
+efterfrågan, i stället för att härleda priser enbart från nationalinkomsten.
+Parallel imports/trade: köpa på den billiga marknaden och sälja vidare på den dyra;
+det undergräver segmenteringen.
+
+9.4 Bundling
+Pure bundling: bara paketet; mixed bundling: paket OCH separata köp.
+Addera samma persons WTP för att få hennes eller hans paket-WTP,
+räkna sedan köpen vid varje kandidatpris. Jämför VINSTER,
+alltså med kostnader och sålda kvantiteter, inte bara intäkter.
+L9 s.22 och E2022 Q4d: två representativa kunder, kostnader ej angivna.
+Gourmet: dinner100, room50, bundle150 ; Snoozer: dinner80, room70,
+bundle150. Med nollkostnader och en person av varje typ:
+middag pris80 sålt2 ->160 ; rum pris50 sålt2 ->100 ; totalt260.
+Paket pris150 sålt2 ->300. Paketet tar ut mer av negativt
+korrelerade WTP. Utan givna kostnader förutsätter detta numeriska resultat nollkostnader eller
+kostnader per typ/tjänst som inte vänder jämförelsen.
+Exempel: mycket höga verkliga kostnader för en tjänst kan ändra valet.
+
+9.5 Fast abonnemang och two-part tariff: en väsentlig skillnad
+Tvådelad tariff: betalning T(q)=F+p*q.
+Med en enda känd kund, konstant marginalkostnad c och inget ytterligare
+villkor: användningspris p=c, effektiv kvantitet, F=CS(p=c).
+Säljaren tar ut överskottet och ger samtidigt ett effektivt marginalincitament.
+Med heterogena typer eller ett gemensamt F är p=c inte alltid optimalt.
+Endast FAST pris: p=0 ; konsumtion upp till marginell WTP 0,
+F=integral_0^q(0) p_D(x)dx ; vinst=F-C(q(0)). Det är inte den tvådelade
+lösningen när MC>0 : överdriven användning kostar på riktigt.
+
+L9 s.23–25 : p_D=10-Q, C=2Q.
+Enkelt monopol Q4,p6,pi16.
+Tvådelad p2,Q8,F32,pi32.
+Endast abonnemang p0,Q10,F50,kostnad20,pi30.
+F är en intäkt för företaget och en utgift för kunden; blanda inte
+ihop det med den fasta produktionskostnaden, som också ofta betecknas F.
+
+9.6 Kapacitet och kompletterande produkter — E2025 Q1
+Kapacitet2000, 3000 fans WTP1200, 2000 studenter WTP500, MC0 :
+att fylla med 2000 fans à 1200 ger 2 400 000 kr. Ingen plats är ledig
+för att lägga till studenter utan att ersätta ett fan som betalar mer.
+Diskriminering kan alltså inte höja vinsten i detta fall.
+Den fysiska marginalkostnaden är 0, men platsen har en alternativkostnad.
+
+Konsert och t-shirts: maximera den GEMENSAMMA vinsten. En billigare biljett
+kan locka en köpare vars t-shirtköp tillför marginal.
+Qc=1000-pc, QT=Qc-2pT, MCc0,MCT20 :
+pi=pc*(1000-pc)+(pT-20)*(1000-pc-2pT).
+FOC : 1020-2pc-pT=0 ; 1040-pc-4pT=0.
+pc=3040/7≈434.286 ; pT=1060/7≈151.429 ; Qc=3960/7≈565.714 ;
+QT=1840/7≈262.857. Endast biljett: pc500 ; kompletterande produkt ->lägre pc.
+Kontrollera QT>=0 och att efterfrågefunktionerna gäller; här är optimum inre.

@@ -1,0 +1,81 @@
+======================================================================
+8. MONOPOL OCH MONOPOLISTISK KONKURRENS — L8
+======================================================================
+
+8.1 Monopol med ett enda pris
+Ett företag möter den fallande marknadsefterfrågan.
+R(Q)=p(Q)*Q ; MR=p(Q)+Q*p'(Q).
+pi(Q)=p(Q)*Q-C(Q) ; inre optimum MR=MC.
+Hitta Q med MR=MC, hitta sedan PRISET på EFTERFRÅGAN, inte på MR.
+När mer försäljning kräver lägre pris på alla enheter blir
+MR<p för en strikt fallande efterfrågan.
+Invers efterfrågan p=a-bQ : R=aQ-bQ^2 ; MR=a-2bQ, dubbelt så brant.
+Konstant MC c, FC F : Qm=(a-c)/(2b), pm=(a+c)/2,
+pi=(a-c)^2/(4b)-F, om det är lönsamt att producera under den aktuella horisonten.
+Effektivitet utan externalitet kräver p_D=MC ->Qeff=(a-c)/b.
+DWL=b*(Qeff-Qm)^2/2=(pm-c)*(Qeff-Qm)/2.
+
+L8 s.8–11 : p=12-Q, C=3+Q^2 ->MR12-2Q, MC2Q,
+Qm3,pm9,ATC4,vinst15 ; Qeff4,p_eff8 ; DWL1.5.
+Det höga priset överför överskott på de sålda enheterna; de enheter
+som inte säljs trots WTP>MC skapar dödviktsförlusten.
+Ett lågt absolut pris är förenligt med monopol om MC är låg och/eller
+efterfrågan är elastisk. Exemplet med jäst E2023 Q1a.
+Monopolet har ingen utbudskurva oberoende av efterfrågan: MR
+beror på dess form, och samma pris kan motsvara olika optimala
+kvantiteter under olika efterfrågekurvor. Referens E2022 Q4c.
+
+8.2 Lerner: härledning du ska kunna förklara
+epsilon_D=(dQ/dp)*(p/Q), alltså (dp/dQ)*(Q/p)=1/epsilon_D.
+MR=p+Q*p'=p*(1+1/epsilon_D).
+Vid MR=MC : (p-MC)/p=-1/epsilon_D.
+Lerner L=(p-MC)/p : marginal RELATIVT priset, inte total vinst eller (p-MC)/MC.
+Stort |epsilon| ->låg relativ marginal; okänslig efterfrågan ->hög marginal.
+Med MC>0 ligger ett inre optimum med ett pris på den elastiska delen,
+epsilon<-1 ; MC=0 kan ge epsilon=-1.
+En figur kallad « inelastic demand » i kursmaterialet kan jämföra
+relativa känsligheter; ett monopol med positiv MC optimerar inte i
+en strikt oelastisk punkt. Att sänka Q där skulle höja R och
+spara kostnader.
+Sambandet gäller FÖRETAGETS efterfrågan. I oligopol ska du inte
+blint ersätta den elasticitet företaget uppfattar med marknadens.
+
+8.3 Hinder och naturligt monopol
+Hinder: reglering/licens, patent, kontroll över en nödvändig insatsvara,
+skalfördelar/naturligt monopol, strategiskt beteende.
+Naturligt monopol: ett företag kan förse marknaden billigare än
+flera, över det relevanta intervallet. Pris=MC täcker kanske inte FC.
+Patent: statisk överskottsförlust mot incitament att investera/innovera,
+att jämföra över tid. E2024 Q2b ber dig inte förneka den statiska DWL.
+Den exakta lagstadgade tid som nämns i en övning är en uppgift i
+frågan, inte en juridisk kontroll gjord av detta dossier.
+
+8.4 Monopolistisk konkurrens
+Många företag, differentierade produkter, lätt inträde/utträde; ett företag
+har en fallande efterfrågan men bortser oftast från en enskild
+konkurrents reaktion. Det väljer MR=MC.
+Kort sikt: positiv eller negativ vinst möjlig.
+Positiv vinst ->inträde ->efterfrågan per företag minskar och blir ofta
+mer elastisk ->noll ekonomisk vinst i den symmetriska LR-modellen.
+Lång sikt: p=ATC MEN p>MC ; nollvinst betyder inte perfekt konkurrens.
+Typiskt produktion under den kvantitet som minimerar ATC, « excess capacity ».
+Antalet företag och variationen är en del av jämvikten.
+
+Negativ efterfrågechock ->initiala förluster ->utträden ->de överlevandes efterfrågan
+återhämtar sig ->nollvinst återställd. Antalet företag minskar; kvantiteten
+per överlevande har inget universellt tecken utan efterfråge-/kostnadsfunktioner.
+Om chocken bara ändrar marknadens storlek i en standardmodell med
+konstant optimal storlek kan den återgå till sin tidigare nivå.
+Kostnadschock ->omoptimering och inträde/utträde; i oligopol med hinder
+gäller fritt inträdes nollvinstdisciplin inte på samma sätt.
+
+8.5 Heterogena företag
+Mer produktiva ->lägre MC, ofta lägre pris, högre volym/marknads-
+andel. « Competitive reallocation » : de effektiva växer,
+de mindre effektiva krymper/lämnar.
+Fritt inträde kan innebära E[pi]=0 INNAN företaget upptäcker sin produktivitet,
+utan att kräva pi=0 för varje företag när dess typ är känd.
+L8 s.24, inträdeskostnad 20 och en rättvis tärning: realiserade vinster
+28,16,4,-8,-20,-20 ; medelvärde 0. Vid det sämsta utfallet är den potentiella rörliga vinsten
+-12 : företaget lägger ner och begränsar förlusten till 20. Tabellen skiljer
+förväntad vinst, realiserad vinst och nedläggning efter en sjunken inträdeskostnad.

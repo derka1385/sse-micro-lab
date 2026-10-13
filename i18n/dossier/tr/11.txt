@@ -1,0 +1,111 @@
+======================================================================
+9. AYRIMCILIK, SEGMENTASYON, BUNDLING VE TARİFELER — L9
+======================================================================
+
+9.1 Koşullar ve üç derece
+Ayrımcılık: aynı malın farklı birimleri, yalnızca maliyet farklarının
+ötesinde WTP nedenleriyle farklı fiyatlardan satılır.
+Piyasa gücü ve yeniden satışı/arbitrajı sınırlamak gerekir; müşterileri
+sınıflandırabilmek ya da onlara kendilerini sınıflandıracakları bir menü sunmak gerekir.
+Yalnızca maliyetten kaynaklanan bir fiyat farkı tek başına
+ayrımcılık olduğunu kanıtlamaz.
+
+Birinci derece / perfect price discrimination: her birim
+maksimum WTP'sinden satılır. Başka bir bozulma yoksa p_D=MC'ye kadar üret.
+CS0 ; PS tüm değişken rantı alır; bu ideal modelde DWL0.
+Kâr=PS-FC. Yüksek etkinlik ve satıcı için çok elverişli bir paylaşım.
+Çok güçlü bilgi ve rant çekme gerektirir, genellikle gerçekçi değildir.
+
+Üçüncü derece: GÖZLEMLENEBİLİR gruplar, örneğin öğrenciler, emekliler,
+ülkeler. Her grup için MR_i=MC'yi çöz (maliyet sabit değilse toplamın MC'si).
+Ortak MC ile : (p_i-MC)/p_i=-1/epsilon_i.
+Optimumda mutlak değerce daha az duyarlı grup ->daha yüksek fiyat.
+Gözlemlenebilir bir statü, indirimin kârı artırdığını kanıtlamaya yetmez:
+talep, kapasite ve fırsat maliyeti dikkate alınmalıdır.
+
+İkinci derece: gözlemlenemeyen tip; miktar, kalite, saat, bekleme,
+kupon, freemium, premium sürüm veya konfor yoluyla SELF-SELECTION.
+Satıcı H tipinin H teklifini, L tipinin L teklifini seçmesini ister.
+L9 örnekleri: 1./2. sınıf trenler, kitaplar, rezervasyonlar, freemium oyunlar.
+Ekonomik sürümü kötüleştirmek, maliyet tasarrufu sağlamasa bile,
+H müşterilerinin pahalı sürümü bırakmasını engelleyebilir.
+
+9.2 IC ve IR kısıtları
+j menüsünü seçen i tipinin net faydası : V_i(B_j)-T_j.
+IC_H : V_H(B_H)-T_H >= V_H(B_L)-T_L.
+IC_L : V_L(B_L)-T_L >= V_L(B_H)-T_H.
+IR_i : V_i(B_i)-T_i >= dış seçenek faydası (çoğu zaman 0'a normalize edilir).
+L9 s.20 özellikle IC_H ve IR_L'yi gösterir; bunlar olağan modelde çoğu zaman
+bağlayıcıdır; diğerleri gerekçesiz unutulmamalıdır.
+IC « yanlış » sözleşmenin seçilmesini önler; IR tüm sözleşmelerin reddedilmesini
+önler. Fiyatlar ve kaliteler bu kısıtlar altında eşzamanlı seçilmelidir.
+H müşterilerine bir bilgi rantı bırakmak gerekebilir.
+
+9.3 Segmentasyon ve ortak fiyat
+Segmentli, p_i=a_i-b_i Q_i ve sabit MC=c :
+Q_i=(a_i-c)/(2b_i) ; p_i=(a_i+c)/2 ; a_i<=c ise 0 ile karşılaştır.
+Ortak fiyat: Q(p)=toplam_i max(0,(a_i-p)/b_i).
+Yöntem: tüm dışlama fiyatlarını bul, her segmenti yaz,
+her segmentte (p-c)*Q(p)'yi maksimize et, sınırları kontrol et,
+kârları karşılaştır. Yalnızca bir gruba hizmet etmek optimal olabilir.
+Ortak bir özel talep elde etmek için ters talepleri toplama.
+
+L9 Lowies p=1-Q_L/2, Highies p=2-Q_H, MC0 :
+segmentli QL1,pL0.5,piL0.5 ; QH1,pH1,piH1 ; pi_toplam1.5.
+İki grubun da aldığı bölgede ortak fiyat: Q=4-3p,
+p=2/3,Q2,pi4/3. Yalnızca Highies'in aldığı p>=1'i de kontrol et.
+Ayrımcılık ulaşılabilir kârı artırır, çünkü ortak fiyat bir seçenek
+olarak kalır. Welfare ve her grubun CS'si BELİRSİZ işaretlidir.
+Dışlanmış bir gruba açılmak W'yi iyileştirebilir; farklı WTP'ler arasında
+miktar değişmeden yapılan basit bir yeniden dağıtım onu düşürebilir.
+Daha yoksul ülke otomatik olarak daha esnek değildir: fiyatları
+yalnızca milli gelirden çıkarmak yerine talebi kontrol et.
+Parallel imports/trade: ucuz piyasadan alıp pahalı piyasada
+yeniden satmak; bu segmentasyonu zayıflatır.
+
+9.4 Bundling
+Pure bundling: yalnızca paket; mixed bundling: paket VE ayrı alımlar.
+Paket WTP'sini bulmak için aynı kişinin WTP'lerini topla,
+sonra her aday fiyatta alımları say. KÂRLARI karşılaştır,
+yani yalnızca hasılatı değil, maliyetleri ve satılan miktarları da dahil et.
+L9 s.22 ve E2022 Q4d: iki temsili müşteri, maliyetler belirtilmemiş.
+Gourmet: dinner100, room50, bundle150 ; Snoozer: dinner80, room70,
+bundle150. Sıfır maliyet ve her tipten bir kişiyle:
+akşam yemeği fiyat80 satış2 ->160 ; oda fiyat50 satış2 ->100 ; toplam260.
+Paket fiyat150 satış2 ->300. Paket, negatif korelasyonlu WTP'lerden
+daha fazlasını çeker. Maliyetler verilmeden bu sayısal sonuç sıfır maliyeti ya da
+karşılaştırmayı tersine çevirmeyen tip/hizmet başı maliyetleri varsayar.
+Örnek: bir hizmetin çok yüksek gerçek maliyetleri seçimi değiştirebilir.
+
+9.5 Sabit abonelik ve two-part tariff: temel bir ayrım
+İki parçalı tarife: ödeme T(q)=F+p*q.
+Bilinen tek bir müşteri, sabit marjinal maliyet c ve ek kısıt
+yoksa: kullanım fiyatı p=c, etkin miktar, F=CS(p=c).
+Satıcı rantı çekerken etkin bir marjinal teşvik de verir.
+Heterojen tipler veya ortak bir F varsa p=c her zaman optimal değildir.
+Yalnızca SABİT fiyat: p=0 ; tüketim marjinal WTP 0'a kadar,
+F=integral_0^q(0) p_D(x)dx ; kâr=F-C(q(0)). MC>0 iken bu iki parçalı
+çözüm değildir: aşırı kullanım gerçekten maliyetlidir.
+
+L9 s.23–25 : p_D=10-Q, C=2Q.
+Basit tekel Q4,p6,pi16.
+İki parçalı p2,Q8,F32,pi32.
+Yalnızca abonelik p0,Q10,F50,maliyet20,pi30.
+F firmanın bir geliri ve müşterinin bir harcamasıdır; onu
+yine çoğu zaman F ile gösterilen sabit üretim maliyetiyle karıştırma.
+
+9.6 Kapasite ve tamamlayıcı ürünler — E2025 Q1
+Kapasite2000, 3000 hayran WTP1200, 2000 öğrenci WTP500, MC0 :
+2000 hayranla 1200'den doldurmak 2 400 000 kr verir. Daha fazla ödeyen bir
+hayranın yerine geçmeden öğrenci eklemek için boş koltuk yoktur.
+Dolayısıyla bu durumda ayrımcılık kârı artıramaz.
+Fiziksel marjinal maliyet 0'dır ama koltuğun bir fırsat maliyeti vardır.
+
+Konser ve tişörtler: ORTAK kârı maksimize et. Daha ucuz bir bilet,
+tişört alımları marj ekleyen bir alıcıyı çekebilir.
+Qc=1000-pc, QT=Qc-2pT, MCc0,MCT20 :
+pi=pc*(1000-pc)+(pT-20)*(1000-pc-2pT).
+FOC : 1020-2pc-pT=0 ; 1040-pc-4pT=0.
+pc=3040/7≈434.286 ; pT=1060/7≈151.429 ; Qc=3960/7≈565.714 ;
+QT=1840/7≈262.857. Yalnızca bilet: pc500 ; tamamlayıcı ürün ->daha düşük pc.
+QT>=0'ı ve taleplerin geçerliliğini kontrol et; burada optimum içtedir.

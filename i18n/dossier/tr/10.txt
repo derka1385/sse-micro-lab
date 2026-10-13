@@ -1,0 +1,81 @@
+======================================================================
+8. TEKEL VE TEKELCİ REKABET — L8
+======================================================================
+
+8.1 Tek fiyatlı tekel
+Bir firma azalan piyasa talebiyle karşı karşıyadır.
+R(Q)=p(Q)*Q ; MR=p(Q)+Q*p'(Q).
+pi(Q)=p(Q)*Q-C(Q) ; iç optimum MR=MC.
+MR=MC ile Q'yu bul, sonra FİYATI MR üzerinde değil TALEP eğrisinde bul.
+Daha fazla satmak tüm birimlerin fiyatını düşürmeyi gerektirdiğinde,
+kesin azalan bir talep için MR<p olur.
+Ters talep p=a-bQ : R=aQ-bQ^2 ; MR=a-2bQ, eğimi iki kat diktir.
+Sabit MC c, FC F : Qm=(a-c)/(2b), pm=(a+c)/2,
+pi=(a-c)^2/(4b)-F, eğer ele alınan dönemde üretmek kârlıysa.
+Dışsallık yoksa etkinlik p_D=MC gerektirir ->Qeff=(a-c)/b.
+DWL=b*(Qeff-Qm)^2/2=(pm-c)*(Qeff-Qm)/2.
+
+L8 s.8–11 : p=12-Q, C=3+Q^2 ->MR12-2Q, MC2Q,
+Qm3,pm9,ATC4,kâr15 ; Qeff4,p_eff8 ; DWL1.5.
+Yüksek fiyat satılan birimlerde rantı aktarır; WTP>MC olmasına
+rağmen satılmayan birimler ölü ağırlık kaybını yaratır.
+Mutlak olarak düşük bir fiyat, MC düşükse ve/veya talep esnekse
+tekelle bağdaşabilir. Maya örneği E2023 Q1a.
+Tekelin talepten bağımsız bir arz eğrisi yoktur: MR talebin
+biçimine bağlıdır ve aynı fiyat farklı taleplerde farklı optimal
+miktarlara karşılık gelebilir. Kaynak E2022 Q4c.
+
+8.2 Lerner: açıklayabilmen gereken türetme
+epsilon_D=(dQ/dp)*(p/Q), dolayısıyla (dp/dQ)*(Q/p)=1/epsilon_D.
+MR=p+Q*p'=p*(1+1/epsilon_D).
+MR=MC'de : (p-MC)/p=-1/epsilon_D.
+Lerner L=(p-MC)/p : fiyata GÖRE marj; toplam kâr ya da (p-MC)/MC değil.
+|epsilon| büyük ->düşük göreli marj; duyarsız talep ->yüksek marj.
+MC>0 iken tek fiyatlı iç optimum talebin esnek kısmındadır,
+epsilon<-1 ; MC=0 epsilon=-1 verebilir.
+Bir materyalde « inelastic demand » diye adlandırılan bir şekil
+göreli duyarlılıkları karşılaştırıyor olabilir; MC'si pozitif bir tekel
+kesin inelastik bir noktada optimize etmez. Orada Q'yu düşürmek R'yi artırır
+ve maliyet tasarrufu sağlar.
+Bu ilişki FİRMANIN talebiyle ilgilidir. Oligopolde piyasa esnekliğini
+firmanın algıladığı esnekliğin yerine körü körüne koyma.
+
+8.3 Engeller ve doğal tekel
+Engeller: düzenleme/lisans, patent, temel bir girdinin kontrolü,
+ölçek ekonomileri/doğal tekel, stratejik davranışlar.
+Doğal tekel: ilgili aralıkta tek bir firma piyasaya birkaç firmadan
+daha düşük maliyetle hizmet verebilir. Fiyat=MC, FC'yi karşılamayabilir.
+Patent: statik rant kaybına karşı yatırım/yenilik teşvikleri,
+zaman içinde karşılaştırılmalı. E2024 Q2b statik DWL'yi inkâr etmeni istemez.
+Bir alıştırmada belirtilen kesin yasal süre sorunun bir verisidir,
+bu dosya tarafından yapılmış bir hukuki doğrulama değildir.
+
+8.4 Tekelci rekabet
+Çok sayıda firma, farklılaştırılmış ürünler, kolay giriş/çıkış; bir firma
+azalan bir talebe sahiptir ama genellikle belirli bir rakibin tepkisini
+göz ardı eder. MR=MC'yi seçer.
+Kısa dönem: pozitif ya da negatif kâr mümkündür.
+Pozitif kâr ->giriş ->firma başına talep azalır ve çoğu zaman
+daha esnek hale gelir ->simetrik LR modelinde sıfır ekonomik kâr.
+Uzun dönem: p=ATC AMA p>MC ; sıfır kâr tam rekabet demek değildir.
+Tipik olarak üretim ATC'yi minimize eden miktarın altındadır, « excess capacity ».
+Firma sayısı ve çeşitlilik dengenin parçasıdır.
+
+Negatif talep şoku ->ilk zararlar ->çıkışlar ->kalanların talebi
+toparlanır ->sıfır kâr yeniden sağlanır. Firma sayısı düşer; kalan firma
+başına miktarın talep/maliyet fonksiyonları olmadan evrensel bir işareti yoktur.
+Şok standart bir modelde, sabit optimal ölçekle yalnızca piyasa
+büyüklüğünü değiştiriyorsa, miktar önceki düzeyine dönebilir.
+Maliyet şoku ->yeniden optimizasyon ve giriş/çıkış; engelli oligopolde
+serbest girişin sıfır kâr disiplini aynı şekilde işlemez.
+
+8.5 Heterojen firmalar
+Daha verimli ->daha düşük MC, çoğu zaman daha düşük fiyat, daha yüksek
+hacim/pazar payı. « Competitive reallocation » : verimliler büyür,
+daha az verimliler küçülür/çıkar.
+Serbest giriş, firma verimliliğini öğrenmeden ÖNCE E[pi]=0 anlamına gelebilir;
+tipi bilindikten sonra her firma için pi=0 dayatmaz.
+L8 s.24, giriş maliyeti 20 ve adil bir zar: gerçekleşen kârlar
+28,16,4,-8,-20,-20 ; ortalama 0. En kötü atışta potansiyel değişken kâr
+-12 : firma üretimi durdurur, zararını 20 ile sınırlar. Bu tablo
+beklenen kârı, gerçekleşen kârı ve batık giriş maliyetinden sonra kapanmayı ayırır.

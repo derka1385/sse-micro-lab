@@ -1,0 +1,105 @@
+======================================================================
+10. OLIGOPOL, COURNOT, BERTRAND OCH STACKELBERG — L10
+======================================================================
+
+10.1 Välja rätt spel
+Oligopol: ett litet antal företag vars beslut direkt påverkar varandra.
+Cournot: kvantiteter väljs samtidigt; homogen produkt i grundfallet.
+Bertrand: priser väljs samtidigt; ange om homogen eller differentierad.
+Stackelberg: en ledare väljer först, en följare observerar och reagerar.
+Nash: inget företag vinner på att avvika ENSIDIGT när de andra strategierna
+är givna. Skärningen mellan bästa svaren är en Nashjämvikt.
+Ett bästa svar är ett val villkorat av rivalen, inte ett löfte
+att hålla rivalen konstant efter varje ändring av modellen.
+
+10.2 Linjär Cournot med två företag
+p=a-b(q1+q2), kostnader C_i=F_i+c_i*q_i.
+pi1=[a-b(q1+q2)-c1]*q1-F1.
+partial pi1/partial q1=a-2bq1-bq2-c1=0.
+BR1(q2)=max(0,(a-c1-bq2)/(2b)), BR2 analogt.
+Om båda är aktiva:
+q1=(a-2c1+c2)/(3b), q2=(a-2c2+c1)/(3b),
+Q=(2a-c1-c2)/(3b), p=(a+c1+c2)/3.
+Om en kvantitet är negativ, lös hörnfallet där det företaget inte producerar.
+Beräkna sedan pi_i=(p-c_i)q_i-F_i.
+Inom denna linjära modell gäller p-c_i=bq_i ->rörlig vinst=bq_i^2.
+Skillnader i oundvikliga FC ändrar inte dessa kvantiteter; de ändrar
+vinsterna och kan ändra besluten om inträde/utträde.
+
+L10 exempel a70,b1,c1=c2=10 : BR_i=30-q_j/2 ;
+q1=q2=20,Q40,p30,pi_i400 utan FC.
+Gemensamt monopol Q30,p40 ; perfekt konkurrens Q60,p10.
+Med MC Blue0, Red10 : qBlue80/3≈26.667, qRed50/3≈16.667,
+p80/3≈26.667. Det effektiva företaget tar mer av marknaden; att tvinga fram lika
+andelar kan fördyra produktionen. Stora andelar bevisar inte
+i sig ineffektivitet.
+
+10.3 Cournot med n identiska företag
+p=a-bQ, MCc : q_i=(a-c)/[b(n+1)],
+Q=n(a-c)/[b(n+1)], p=(a+n*c)/(n+1).
+Lerner=(p-c)/p=-(marknadsandel_i)/epsilon_marknad för denna modell,
+alltså vid symmetri -1/(n*epsilon_marknad).
+När n växer : p går mot c, Q mot den konkurrensmässiga kvantiteten.
+Fusion som minskar n, utan kostnadssynergi: p stiger; de icke fusionerade företagen
+gynnas ofta av den minskade konkurrensen i denna modell.
+Generalisera inte resultatet till varje fusion med ändrade kostnader/produkter.
+
+10.4 Rita Cournotreaktioner
+Axlar q1 horisontell/q2 vertikal ELLER tvärtom, men behåll samma konvention.
+Om q1 är horisontell: BR2 ritas direkt som q2=f(q1), och BR1 måste
+skrivas om som q2=(a-c1)/b-2q1 i det inre området.
+Båda är fallande; skärningen = Nashkvantiteterna.
+Kostnaden c1 stiger: BR1 ändras, BR2 som funktion av q1 ändras inte;
+rivalen svarar på den nya jämvikten. Skatt på båda företagen: förskjuter
+BÅDA reaktionerna mot lägre produktion. Det är E2022 Q3e.
+
+10.5 Stackelberg i kvantiteter
+Lös först BR_följare(qL), sätt in den i ledarens vinst,
+derivera sedan med avseende på qL. Behandla inte qF som konstant här.
+Symmetriskt fall p=a-bQ, MCc, utan kapacitetsbegränsningar:
+qL=(a-c)/(2b), qF=(a-c)/(4b), Q=3(a-c)/(4b), p=(a+3c)/4.
+Ledaren producerar mer och tjänar mer än under Cournot; följaren producerar mindre.
+Total Q ökar, p sjunker. Resultatet beror på modellens antaganden.
+L10 a70,c10 : qL30,qF15,Q45,p25 ; vinster 450 och 225.
+Stackelbergjämvikten ligger på följarens reaktion, oftast inte
+på ledarens Cournotreaktion, som håller rivalens kvantitet fast.
+
+10.6 Homogen Bertrand
+Perfekt utbytbara produkter, samma konstanta MC, tillräcklig kapacitet,
+kunder som köper av den billigaste: med två eller fler företag p=MC.
+Om p>MC kan en liten underprissättning ta marknaden; p<MC förlorar
+pengar på varje enhet. Lerner0 för p=MC>0.
+Begränsad kapacitet, differentiering, sökande eller upprepning kan ändra
+resultatet; antalet företag ensamt bestämmer inte marginalen.
+Olika kostnader: företaget med lägst kostnad kan behålla en marginal genom
+att begränsa sitt pris till kostnaden hos den effektivaste konkurrenten.
+E2024 MC5,7,8 och p_D10-Q : limitpris kring 7, ofta skrivet 7-epsilon.
+Monopolpriset utan konkurrent vore 7.5, så rivalens begränsning
+är relevant. Med kontinuerliga priser kräver existens/tie-breaking precision:
+pris exakt 7 om en lämplig regel tilldelar den effektiva producenten;
+med lika delning vid lika pris är approximationen med en liten underprissättning
+riktigare än att påstå en ren jämvikt vid 7.
+
+10.7 Differentierad Bertrand
+Efterfrågan q_i=A-B*p_i+D*p_j, B>0,D>=0, MCc_i.
+pi_i=(p_i-c_i)*(A-Bp_i+Dp_j)-F_i.
+FOC : A-2Bp_i+Dp_j+B*c_i=0.
+BR_i(p_j)=(A+B*c_i+D*p_j)/(2B).
+Stigande reaktioner för substitut: priserna är strategiska komplement.
+Vid symmetri: p=(A+B*c)/(2B-D), om definitionsmängd/konkavitet är tillåtna.
+Kvantitet via EFTERFRÅGAN; vinst=(p-c)q-F.
+L10 A85,B1,D0.5,c11 ->p64,q53,pi2809 utan FC.
+E2025 A10,B2,D1 : p=(10+2c)/3.
+c2 ->p14/3 ; c1 ->p4. Kostnaden sjunker med 1 ->priset sjunker med 2/3.
+Tillämpa inte konkurrensmässig pass-through på denna marknadsstruktur.
+
+10.8 Prisledarskap
+Sätt in följarens PRISreaktion i ledarens efterfrågan
+innan ledarens vinst maximeras. Inte Stackelbergs kvantitetsformel.
+E2024 Q4c/d : q1=6-2p1+p2, q2=6-2p2+p1 ; ingen kostnad anges.
+Under det uttryckliga antagandet MC=FC=0 : samtidigt p1=p2=2, q1=q2=4, pi_i8.
+Om företag2 leder: p1=(6+p2)/4 ; efterfrågan2=7.5-1.75p2 ;
+p2=15/7≈2.143, p1=57/28≈2.036 ; pi2=225/28≈8.036,
+pi1=3249/392≈8.288. BÅDA vinner här; följaren vinner mer.
+« First-mover advantage » i kvantiteter är ingen universell lag
+för alla spel, särskilt inte när priserna är komplement.

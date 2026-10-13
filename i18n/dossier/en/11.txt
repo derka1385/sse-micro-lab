@@ -1,0 +1,111 @@
+======================================================================
+9. DISCRIMINATION, SEGMENTATION, BUNDLING AND TARIFFS — L9
+======================================================================
+
+9.1 Conditions and three degrees
+Discrimination: different units of the same good sold at different
+prices, for WTP reasons beyond mere cost differences.
+It requires market power and limiting resale/arbitrage; knowing how to sort
+customers, or offering them a menu that makes them sort themselves.
+A price difference due exclusively to cost does not on its own
+establish discrimination.
+
+First degree / perfect price discrimination: each unit is sold
+at its maximum WTP. Produce up to p_D=MC if there is no other distortion.
+CS0; PS captures all the variable surplus; DWL0 in this ideal model.
+Profit=PS-FC. High efficiency and a split very favourable to the seller.
+Requires very strong information and extraction, usually unrealistic.
+
+Third degree: OBSERVABLE groups, for example students, retirees,
+countries. Solve MR_i=MC for each group (or MC of the total if cost is not constant).
+With a common MC: (p_i-MC)/p_i=-1/epsilon_i.
+At the optimum, the group less sensitive in absolute value ->higher price.
+An observable status is not enough to prove that the discount raises
+profit: demand, capacity and opportunity cost must be considered.
+
+Second degree: unobservable type, SELF-SELECTION by quantity, quality,
+schedule, waiting, coupons, freemium, premium version or comfort.
+The seller wants type H to choose offer H and type L offer L.
+L9 examples: 1st/2nd class trains, books, bookings, freemium games.
+Degrading the economy version can stop H customers from abandoning
+the expensive version, even if this degradation saves no costs.
+
+9.2 IC and IR constraints
+Net utility of type i choosing menu j: V_i(B_j)-T_j.
+IC_H: V_H(B_H)-T_H >= V_H(B_L)-T_L.
+IC_L: V_L(B_L)-T_L >= V_L(B_H)-T_H.
+IR_i: V_i(B_i)-T_i >= outside utility (often normalised to 0).
+L9 p.20 mainly shows IC_H and IR_L, often binding in the usual
+model; the others must not be forgotten without justification.
+IC prevents choosing the "wrong" contract; IR prevents refusing every
+contract. Prices and qualities must be chosen simultaneously under these constraints.
+An information rent may have to be left to H customers.
+
+9.3 Segmentation versus a common price
+Segmented, p_i=a_i-b_i Q_i and constant MC=c:
+Q_i=(a_i-c)/(2b_i); p_i=(a_i+c)/2; compare with 0 if a_i<=c.
+Common price: Q(p)=sum_i max(0,(a_i-p)/b_i).
+Method: find all exclusion prices, write each segment,
+maximise (p-c)*Q(p) on each segment, check the boundaries,
+compare the profits. It may be optimal to serve only one group.
+Do not add inverse demands to obtain a common private demand.
+
+L9 Lowies p=1-Q_L/2, Highies p=2-Q_H, MC0:
+segmented QL1,pL0.5,piL0.5; QH1,pH1,piH1; pi_total1.5.
+Common, in the zone where both buy: Q=4-3p,
+p=2/3,Q2,pi4/3. Also check p>=1 where only Highies buy.
+Discrimination raises feasible profit, because the common price remains
+an option. Welfare and each group's CS have an AMBIGUOUS sign.
+Opening to an excluded group can improve W; a mere reallocation
+at unchanged quantity between different WTPs can lower it.
+The poorer country is not automatically the more elastic: check
+demand, instead of deducing prices from national income alone.
+Parallel imports/trade: buy in the cheap market and resell in the expensive
+market; this undermines segmentation.
+
+9.4 Bundling
+Pure bundling: only the bundle; mixed bundling: bundle AND separate purchases.
+Add up the same person's WTPs to find their bundle WTP,
+then count purchases at each candidate price. Compare PROFITS,
+so include costs and quantities sold, not just revenues.
+L9 p.22 and E2022 Q4d: two representative customers, costs not specified.
+Gourmet: dinner100, room50, bundle150; Snoozer: dinner80, room70,
+bundle150. With zero costs and one person of each type:
+dinner price80 sold2 ->160; room price50 sold2 ->100; total260.
+Bundle price150 sold2 ->300. The bundle extracts more from negatively
+correlated WTPs. Without given costs, this numerical result assumes zero costs or
+per-type/per-service costs that do not reverse the comparison.
+Example: very high real costs of one service can change the choice.
+
+9.5 Flat subscription and two-part tariff: an essential distinction
+Two-part tariff: payment T(q)=F+p*q.
+With a single known customer, constant marginal cost c and no extra
+constraint: usage price p=c, efficient quantity, F=CS(p=c).
+The seller extracts the surplus while giving an efficient marginal incentive.
+With heterogeneous types or a common F, p=c is not always optimal.
+FIXED price only: p=0; consumption up to marginal WTP 0,
+F=integral_0^q(0) p_D(x)dx; profit=F-C(q(0)). This is not the two-part
+solution when MC>0: excessive usage really costs.
+
+L9 p.23–25: p_D=10-Q, C=2Q.
+Simple monopoly Q4,p6,pi16.
+Two-part p2,Q8,F32,pi32.
+Subscription only p0,Q10,F50,cost20,pi30.
+F is revenue for the firm and an expense for the customer; do not
+confuse it with the fixed production cost, also often written F.
+
+9.6 Capacity and complementary products — E2025 Q1
+Capacity2000, 3000 fans WTP1200, 2000 students WTP500, MC0:
+filling with 2000 fans at 1200 gives 2 400 000 kr. No seat is available
+to add students without replacing a fan who pays more.
+Discrimination therefore cannot raise profit in this case.
+The physical marginal cost is 0, but the seat has an opportunity cost.
+
+Concert and T-shirts: maximise JOINT profit. A cheaper ticket
+can attract a buyer whose T-shirt purchases add margin.
+Qc=1000-pc, QT=Qc-2pT, MCc0,MCT20:
+pi=pc*(1000-pc)+(pT-20)*(1000-pc-2pT).
+FOC: 1020-2pc-pT=0; 1040-pc-4pT=0.
+pc=3040/7≈434.286; pT=1060/7≈151.429; Qc=3960/7≈565.714;
+QT=1840/7≈262.857. Ticket alone: pc500; complementary product ->lower pc.
+Check QT>=0 and the validity of the demands; here the optimum is interior.

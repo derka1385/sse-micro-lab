@@ -1,0 +1,105 @@
+======================================================================
+10. OLIGOPOL, COURNOT, BERTRAND UND STACKELBERG — L10
+======================================================================
+
+10.1 Das richtige Spiel wählen
+Oligopol: wenige Firmen, deren Entscheidungen sich direkt beeinflussen.
+Cournot: Mengen werden simultan gewählt; im Grundfall homogenes Produkt.
+Bertrand: Preise werden simultan gewählt; angeben, ob homogen oder differenziert.
+Stackelberg: ein Leader wählt zuerst, ein Follower beobachtet und reagiert.
+Nash: keine Firma gewinnt durch EINSEITIGES Abweichen, wenn die anderen Strategien
+fest sind. Der Schnittpunkt der besten Antworten ist ein Nash-Gleichgewicht.
+Eine beste Antwort ist eine Wahl in Abhängigkeit vom Rivalen, kein Versprechen,
+diesen Rivalen nach allen Modelländerungen konstant zu halten.
+
+10.2 Lineares Cournot mit zwei Firmen
+p=a-b(q1+q2), Kosten C_i=F_i+c_i*q_i.
+pi1=[a-b(q1+q2)-c1]*q1-F1.
+partial pi1/partial q1=a-2bq1-bq2-c1=0.
+BR1(q2)=max(0,(a-c1-bq2)/(2b)), BR2 analog.
+Wenn beide aktiv sind:
+q1=(a-2c1+c2)/(3b), q2=(a-2c2+c1)/(3b),
+Q=(2a-c1-c2)/(3b), p=(a+c1+c2)/3.
+Ist eine Menge negativ, löse die Randlösung, in der diese Firma nicht produziert.
+Berechne dann pi_i=(p-c_i)q_i-F_i.
+Innerhalb dieses linearen Modells gilt p-c_i=bq_i ->variabler Gewinn=bq_i^2.
+Unterschiede bei unvermeidbaren FC ändern diese Mengen nicht; sie ändern
+die Gewinne und können Ein-/Austrittsentscheidungen ändern.
+
+L10 Beispiel a70,b1,c1=c2=10 : BR_i=30-q_j/2 ;
+q1=q2=20,Q40,p30,pi_i400 ohne FC.
+Gemeinsames Monopol Q30,p40 ; vollkommener Wettbewerb Q60,p10.
+Mit MC Blue0, Red10 : qBlue80/3≈26.667, qRed50/3≈16.667,
+p80/3≈26.667. Die effiziente Firma erhält mehr Markt; gleiche
+Anteile zu erzwingen kann die Produktion verteuern. Große Anteile beweisen
+für sich allein keine Ineffizienz.
+
+10.3 Cournot mit n identischen Firmen
+p=a-bQ, MCc : q_i=(a-c)/[b(n+1)],
+Q=n(a-c)/[b(n+1)], p=(a+n*c)/(n+1).
+Lerner=(p-c)/p=-(Marktanteil_i)/epsilon_Markt für dieses Modell,
+also bei Symmetrie -1/(n*epsilon_Markt).
+Mit wachsendem n : p strebt gegen c, Q gegen die Wettbewerbsmenge.
+Fusion, die n senkt, ohne Kostensynergie: p steigt; die nicht fusionierten Firmen
+profitieren in diesem Modell oft vom geringeren Wettbewerb.
+Dieses Ergebnis nicht auf jede Fusion mit veränderten Kosten/Produkten verallgemeinern.
+
+10.4 Cournot-Reaktionen zeichnen
+Achsen q1 horizontal/q2 vertikal ODER umgekehrt, aber dieselbe Konvention beibehalten.
+Wenn q1 horizontal: BR2 wird direkt als q2=f(q1) gezeichnet, und BR1 muss
+im inneren Bereich als q2=(a-c1)/b-2q1 umgeschrieben werden.
+Beide fallen; Schnittpunkt = Nash-Mengen.
+Kosten c1 steigen: BR1 ändert sich, BR2 als Funktion von q1 ändert sich nicht;
+der Rivale reagiert auf das neue Gleichgewicht. Steuer auf beide Firmen: verschiebt
+BEIDE Reaktionen in Richtung geringerer Produktion. Das ist E2022 Q3e.
+
+10.5 Stackelberg in Mengen
+Zuerst BR_Follower(qL) lösen, in den Gewinn des Leaders einsetzen,
+dann nach qL ableiten. qF hier nicht als konstant behandeln.
+Symmetrischer Fall p=a-bQ, MCc, ohne Kapazitätsgrenzen:
+qL=(a-c)/(2b), qF=(a-c)/(4b), Q=3(a-c)/(4b), p=(a+3c)/4.
+Der Leader produziert und verdient mehr als unter Cournot; der Follower produziert weniger.
+Gesamt-Q steigt, p sinkt. Das Ergebnis hängt von den Modellannahmen ab.
+L10 a70,c10 : qL30,qF15,Q45,p25 ; Gewinne 450 und 225.
+Das Stackelberg-Gleichgewicht liegt auf der Reaktion des Followers, meist nicht
+auf der Cournot-Reaktion des Leaders, die die Rivalenmenge fest hält.
+
+10.6 Homogenes Bertrand
+Vollkommen substituierbare Produkte, gleiche konstante MC, ausreichende Kapazität,
+Kundschaft kauft beim Günstigsten: bei zwei oder mehr Firmen p=MC.
+Bei p>MC kann leichtes Unterbieten den Markt erobern; bei p<MC verliert man
+an jeder Einheit Geld. Lerner0 für p=MC>0.
+Begrenzte Kapazität, Differenzierung, Suche oder Wiederholung können
+das Ergebnis ändern; die Zahl der Firmen allein bestimmt die Marge nicht.
+Unterschiedliche Kosten: die kostengünstigste Firma kann eine Marge behalten, indem sie
+ihren Preis an den Kosten des effizientesten Konkurrenten ausrichtet.
+E2024 MC5,7,8 und p_D10-Q : Limitpreis um 7, oft als 7-epsilon geschrieben.
+Der Monopolpreis ohne Konkurrenz wäre 7.5, also ist die Beschränkung durch den Rivalen
+relevant. Bei stetigen Preisen erfordern Existenz/Tie-breaking Genauigkeit:
+Preis genau 7 bei geeigneter Zuteilungsregel zugunsten der effizienten Firma;
+bei gleicher Aufteilung im Gleichstand ist die Näherung leichten Unterbietens
+genauer als die Behauptung eines reinen Gleichgewichts bei 7.
+
+10.7 Differenziertes Bertrand
+Nachfrage q_i=A-B*p_i+D*p_j, B>0,D>=0, MCc_i.
+pi_i=(p_i-c_i)*(A-Bp_i+Dp_j)-F_i.
+FOC : A-2Bp_i+Dp_j+B*c_i=0.
+BR_i(p_j)=(A+B*c_i+D*p_j)/(2B).
+Steigende Reaktionen bei Substituten: Preise sind strategische Komplemente.
+Bei Symmetrie: p=(A+B*c)/(2B-D), sofern Definitionsbereich/Konkavität zulässig.
+Menge über die NACHFRAGE; Gewinn=(p-c)q-F.
+L10 A85,B1,D0.5,c11 ->p64,q53,pi2809 ohne FC.
+E2025 A10,B2,D1 : p=(10+2c)/3.
+c2 ->p14/3 ; c1 ->p4. Kosten sinken um 1 ->Preis sinkt um 2/3.
+Den Wettbewerbs-Pass-through nicht auf diese Marktstruktur anwenden.
+
+10.8 Preisführerschaft
+Die PREIS-Reaktion des Followers in die Nachfrage des Leaders einsetzen,
+bevor dessen Gewinn maximiert wird. Nicht die Stackelberg-Mengenformel.
+E2024 Q4c/d : q1=6-2p1+p2, q2=6-2p2+p1 ; keine Kosten angegeben.
+Unter der expliziten Annahme MC=FC=0 : simultan p1=p2=2, q1=q2=4, pi_i8.
+Wenn Firma2 führt: p1=(6+p2)/4 ; Nachfrage2=7.5-1.75p2 ;
+p2=15/7≈2.143, p1=57/28≈2.036 ; pi2=225/28≈8.036,
+pi1=3249/392≈8.288. BEIDE gewinnen hier; der Follower gewinnt mehr.
+Der „first-mover advantage“ bei Mengen ist kein allgemeines Gesetz
+für alle Spiele, insbesondere wenn die Preise Komplemente sind.
