@@ -28,6 +28,27 @@ const GoogleMark = () => (
   </svg>
 );
 
+// L7 example from the dossier: p_D=23−Q, p_S=2+2Q, then a per-unit tax t=3 (Q 7→6, DWL 1.5). x=40+35Q, y=260−10p.
+const LoginGraph = () => (
+  <svg className="login-graph" viewBox="0 0 500 290" aria-hidden="true">
+    <path className="lg-axis" d="M40 14V260H486" />
+    <text className="lg-ax" x="46" y="20">p</text>
+    <text className="lg-ax" x="478" y="280">Q</text>
+    <path className="lg-dwl" d="M250 90L250 120L285 100Z" />
+    <path className="lg-guide" d="M40 100H285V260M40 90H250V260" />
+    <path className="lg-d" pathLength="1" d="M40 30L460 150" />
+    <path className="lg-s" pathLength="1" d="M40 240L425 20" />
+    <path className="lg-st" d="M40 210L372 20" />
+    <circle className="lg-eq" cx="285" cy="100" r="5" />
+    <circle className="lg-eq2" cx="250" cy="90" r="5" />
+    <text className="lg-lab lg-lab-d" x="464" y="154">D</text>
+    <text className="lg-lab lg-lab-s" x="430" y="24">S</text>
+    <text className="lg-lab lg-lab-st" x="342" y="24">S+t</text>
+    <text className="lg-read" x="320" y="208">Q*=7 · p*=16</text>
+    <text className="lg-read lg-read2" x="320" y="230">t=3 · DWL=1.5</text>
+  </svg>
+);
+
 export function Splash() {
   return <div className="splash" role="status" aria-label={t('Chargement…')}><span className="splash-brand">Micro Lab</span><span className="spinner" aria-hidden="true" /></div>;
 }
@@ -39,16 +60,17 @@ export function LoginPage() {
   return (
     <div className="login">
       <section className="login-intro">
-        <p className="login-kicker">BE501 · Microeconomics</p>
-        <h1 className="login-brand">Micro Lab</h1>
+        <h1 className="login-brand">Micro <mark>Lab</mark></h1>
         <p className="login-lead">{t('Un mécanisme à la fois : leçons guidées, exercices d’examen et révisions espacées.')}</p>
+        <LoginGraph />
         <ul className="login-points">
-          <li><span>01</span>{t('Leçons guidées, du cas concret à la formule')}</li>
-          <li><span>02</span>{t('Six examens corrigés et des exercices ciblés')}</li>
-          <li><span>03</span>{t('Ta progression sauvegardée sur tous tes appareils')}</li>
+          <li>{t('Leçons guidées, du cas concret à la formule')}</li>
+          <li>{t('Six examens corrigés et des exercices ciblés')}</li>
+          <li>{t('Ta progression sauvegardée sur tous tes appareils')}</li>
         </ul>
       </section>
       <section className="login-card" aria-labelledby="login-title">
+        <p className="login-course">BE501 · Microeconomics · SSE</p>
         <h2 id="login-title">{t('Connexion')}</h2>
         <p className="login-sub">{t('Connecte-toi pour accéder au laboratoire et garder ta progression.')}</p>
         <button type="button" className="google-btn google-btn-lg" disabled={busy} onClick={async () => {
