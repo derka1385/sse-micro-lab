@@ -1,0 +1,1 @@
+export{n as initSync}from"./sync-yTLlOhJf.js";
