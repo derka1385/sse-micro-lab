@@ -1,4 +1,5 @@
 import { lang, t } from './i18n';
+import { idToken } from './sync';
 
 // The browser only talks to Micro Lab's same-origin server. It never handles an API key.
 export type ChatMessage = { role: 'user' | 'assistant'; content: string };
@@ -10,11 +11,15 @@ export class ClaudeError extends Error {
   constructor(message: string) { super(message); this.name = 'ClaudeError'; }
 }
 
+// Dev: the Vite middleware on localhost. Published site: the Render server, which checks the Firebase sign-in.
+export const CLAUDE_API = import.meta.env.DEV ? `${import.meta.env.BASE_URL}api/claude/` : 'https://micro-lab-api.onrender.com/api/claude/';
+
 async function request<T>(path: string, body?: unknown, signal?: AbortSignal): Promise<T> {
   try {
-    const response = await fetch(`${import.meta.env.BASE_URL}api/claude/${path}`, {
-      method: body ? 'POST' : 'GET', credentials: 'same-origin', cache: 'no-store', redirect: 'error',
-      headers: { 'x-micro-lab': '1', ...(body ? { 'content-type': 'application/json' } : {}) },
+    const token = import.meta.env.DEV || !body ? null : await idToken();
+    const response = await fetch(`${CLAUDE_API}${path}`, {
+      method: body ? 'POST' : 'GET', credentials: 'omit', cache: 'no-store', redirect: 'error',
+      headers: { 'x-micro-lab': '1', ...(token ? { authorization: `Bearer ${token}` } : {}), ...(body ? { 'content-type': 'application/json' } : {}) },
       ...(body ? { body: JSON.stringify(body) } : {}), signal,
     });
     if (!response.headers.get('content-type')?.includes('application/json')) throw new ClaudeError(t('L’assistant a besoin du serveur local : lance npm run dev et ouvre son lien localhost.'));

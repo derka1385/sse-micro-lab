@@ -143,6 +143,12 @@ export async function signIn() {
   }
 }
 
+/** Firebase ID token of the signed-in student, sent to the public Claude server; null when signed out. */
+export async function idToken() {
+  const { auth } = loaded ?? await firebase();
+  return auth.currentUser ? auth.currentUser.getIdToken() : null;
+}
+
 export async function signOutSync() {
   const { auth, authMod } = await firebase();
   await stop?.(); stop = null; // flushes pending progress to this account before leaving

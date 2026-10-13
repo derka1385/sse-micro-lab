@@ -20,7 +20,7 @@ export default defineConfig({
         { tag: 'meta', attrs: {
           'http-equiv': 'Content-Security-Policy',
           // Firebase: Auth/Firestore APIs, Google sign-in popup/redirect frame, Google profile photos.
-          content: "default-src 'self'; script-src 'self' https://apis.google.com; connect-src 'self' https://*.googleapis.com https://api.web3forms.com; frame-src https://sse-micro-lab.firebaseapp.com https://accounts.google.com https://apis.google.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://*.googleusercontent.com; font-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'",
+          content: "default-src 'self'; script-src 'self' https://apis.google.com; connect-src 'self' https://*.googleapis.com https://api.web3forms.com https://micro-lab-api.onrender.com; frame-src https://sse-micro-lab.firebaseapp.com https://accounts.google.com https://apis.google.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://*.googleusercontent.com; font-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'",
         }, injectTo: 'head-prepend' },
         { tag: 'meta', attrs: { name: 'referrer', content: 'no-referrer' }, injectTo: 'head-prepend' },
       ];
