@@ -12,7 +12,7 @@ export class ClaudeError extends Error {
 }
 
 // Dev: the Vite middleware on localhost. Published site: the Render server, which checks the Firebase sign-in.
-export const CLAUDE_API = import.meta.env.DEV ? `${import.meta.env.BASE_URL}api/claude/` : 'https://micro-lab-api.onrender.com/api/claude/';
+export const CLAUDE_API = import.meta.env.DEV ? `${import.meta.env.BASE_URL}api/claude/` : 'https://sse-micro-lab-1.onrender.com/api/claude/';
 
 async function request<T>(path: string, body?: unknown, signal?: AbortSignal): Promise<T> {
   try {
