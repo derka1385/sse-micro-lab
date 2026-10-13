@@ -1,0 +1,214 @@
+======================================================================
+20. TUZAKLAR, DÜZELTMELER, GRAFİKLER VE TEKRAR PLANI
+======================================================================
+
+20.1 Tekrarlanmaması gereken düzeltmeler ve belirsizlikler
+1) A3.1c, eşit özgeci tercihler: saf Nash SS,SN,NS ; NN yanlıştır.
+2) A3.2c : yalnızca Y silahlıysa X 1 alır, Y 5-3=2 alır. Y'nin net
+   getirisi 2'yi X'e verme. Yanlış bir getiriye rağmen belirtilen sonuç doğru olabilir.
+3) A2.2c : p_R artar, nominal I 1200'de kalır; daralan şey miktarlar/satın
+   alma gücü cinsinden kısıttır. « Gelir düşer » demek yanlış olur.
+4) A2.2b : (20,4)'ün faydası 80 ama maliyeti 1280 ; ULAŞILABİLİR sepetleri
+   sıralamadan önce bütçe gelir. Son sepet (15,5)'i tekrarlar.
+5) A2 esneklikleri: orantısal % hesabı ile sabit esneklikli bir fonksiyonun
+   kesin çözümü büyük değişimlerde birbirinden ayrılır.
+6) E2024 Q4c/d : maliyet belirtilmemiş; rakamlardan önce varsayımı açıkla.
+7) E2022 Q4d : bundling maliyetleri belirtilmemiş; 300/260 hasılatları ancak
+   sıfır maliyette kârdır; varsayımı açıkla.
+8) E2025 Q4e : ortak şok tek başına ne özel sinyalleri ne de bir
+   winner's curse'ü kanıtlar; bilgiyi ve koşullu seçimi belirt.
+9) E2020 Q4d : iki beklentiyi hesaplamadan önce bir teşvik çatışması
+   uydurma. Verilen sayılar A/B seçimini uyumlu kılar.
+10) E2022 vergilendirilmiş tekel: 4'lük vergi 4'lük gerçek sosyal maliyet değildir; toplam DWL 49
+    vergisiz etkin referansa göre, kesik 25'lik üçgenden farklı.
+11) E2025 çelik: Q bin ton cinsinden; diyagramdaki DWL 10 000
+    10 milyon dolar demektir, 10 000 dolar değil.
+12) E2025 ceza: zayıf IC için 60 yeterli, kayıtsızlık kuralı olmadan
+    yüksek kalitenin kesin seçimi için 60'tan kesinlikle fazlası.
+
+20.2 Her alıştırmada fark edilmesi gereken genel hatalar
+- Doğrudan talep Q(p) ile ters talep p(Q)'yu veya türevlerini karıştırmak.
+- Tekel fiyatını talep yerine MR üzerinden okumak.
+- MR'deki Q*p'(Q) terimini unutmak veya tekelde MR yerine p koymak.
+- Maksimumu, negatif olmamayı, kapasiteyi ve kapanmayı kontrol etmeden MR=MC kullanmak.
+- Sabit MC, MC'nin üstünde verili fiyat ve sınırsız kapasiteyle,
+  başka bir sınır olmadan sonlu optimal q yoktur; p=MC sabit pozitif
+  marjlı bir maksimizasyonu çözmez.
+- MU,MP,MR,MC,MB veya MRS,MRTS,MRT'yi karıştırmak.
+- Eğim ile esnekliği karıştırmak; p/Q çarpanını ve işareti unutmak.
+- Özel taleplerin miktarları yerine fiyatlarını toplamak.
+- Kamu malı taleplerini yatay toplamak.
+- Bir piyasa toplamında negatif talepler/miktarlar bırakmak.
+- i firmasının kârını q_i yerine piyasa Q'suyla hesaplamak.
+- Sabit olduğu marjinal bir türevde sabit maliyeti değiştirmek.
+- R, VC'yi karşılıyor ve FC kaçınılmazsa bile pi<0 olan her firmayı kapatmak.
+- « Sıfır ekonomik kâr ->hiç gelir yok » demek.
+- Azalan marjinal ürünü ölçeğe göre azalan getiriyle eşitlemek.
+- FC sıfır değilken PS'yi kârla karıştırmak.
+- Vergi gelirini sosyal kayıp saymak veya bir sübvansiyonun bütçe maliyetini
+  unutmak; dışsal zararları/faydaları atlamak.
+- Bir dışsallık zaten varken DWL'yi özel Q'ya göre ölçmek.
+- MEC Q'ya bağlıyken Pigou vergisi=MEC(Qbaşlangıç) seçmek.
+- Kapasiteyi veya arbitrajı dikkate almadan her indirimi kârlı saymak.
+- Heterojen müşterili her aboneliğe p_kullanım=MC uygulamak.
+- Yalnızca aboneliği iki parçalı tarifeyle karıştırmak.
+- Liderin türevinde takipçinin tepkisini unutmak.
+- Homojen ve farklılaştırılmış ürünlerde fiyat rekabetini karıştırmak.
+- Bir giriş engelinin yalnızca kısa dönemi etkilediğini öne sürmek.
+- Adverse selection(tip) ile moral hazard(eylem)'i karıştırmak.
+- Vekilin H'yi seçtiğini kontrol etmeden bankanın kârlılığını pH ile kontrol etmek.
+- IC sağlansa bile dış seçeneği/katılımı unutmak.
+- Karşılaştırmalı üstünlüğü yalnızca mutlak verimliliğe bakarak hesaplamak.
+- Toplam bir welfare sonucunu herkes için bir sonuca dönüştürmek.
+- « Explain »ın istediği mekanizmayı açıklamadan sayı vermek.
+
+20.3 Şablonsuz yeniden çizilmesi gereken grafikler defteri
+G1 Arz/talep: Q yatay,p dikey; kesişimler, denge ve şok okları.
+G2 Bütçe/kayıtsızlık: iki malın adı, I/p kesişimleri, göreli eğim,
+   ulaşılabilir en yüksek eğri, teğetlik veya köşe/kırılma.
+G3 Bireysel talep: birkaç fiyatta optimum, (p,q) çiftlerinin aktarılması.
+G4 Eş ürün/eş maliyet: L yatay,K dikey, Q sabit, teğet minimum maliyet;
+   w artışından sonra hedef eş ürünü kaydırmadan yeni teğetlik.
+G5 Firmanın MC/ATC/AVC'si: yatay p, optimal q, kâr/zarar dikdörtgeni,
+   kapanma ve çıkış eşikleri. Giriş/çıkış için piyasa grafiği ekle.
+G6 Rekabetçi rant: CS talebin altında/fiyatın üstünde, PS arzın
+   üstünde/fiyatın altında; her alanın para birimi.
+G7 Vergi/sübvansiyon: BAŞLANGIÇ talebi ve arzı, yeni Q, iki fiyat,
+   kama, devlet dikdörtgeni, DWL üçgenleri; bütçe işaretini belirt.
+G8 Tavan/taban fiyat: düzenlenmiş düzey, farklı QS ve QD,
+   fiilen işlem gören hacim ve karneleme varsayımı.
+G9 Tekel: D,MR,MC, gerekirse ATC ; Qm,pm,Qeff, kâr,CS,DWL.
+G10 Ayrımcılık: iki ayrı piyasa, sonra kırılmalı toplam talep;
+    ortak fiyata göre giren/çıkan grupları ayır.
+G11 İki parçalı tarife: kullanım fiyatı, miktar, F ile alınan CS üçgeni;
+    soru yalnızca abonelik dayatıyorsa ücretsiz kullanımla karşılaştır.
+G12 Cournot : iki tepki AYNI eksenlerde, kesişim ve maliyet şoku.
+G13 Stackelberg : takipçinin tepkisi, liderin konumu, Nash ile karşılaştırma.
+G14 Farklılaştırılmış Bertrand: p1,p2 eksenleri, artan tepkiler, vergi/maliyetle kayma.
+G15 Dışsallık: ilgili MPB,MPC,MSB/MSC, Qpriv,Qeff, vergi/sübvansiyon,DWL.
+G16 Kirlilik: x ekseninde kirliliği YA DA azaltımı belirt, MAC ve MEC, yatay
+    vergi veya dikey kota; yalnızca bir çıktı diyagramı değil.
+G17 İki firmalı izinler: farklı MAC'ler, başlangıç kotası, alımlar/satışlar,
+    ortak nihai marjinal maliyet ve değişmeyen toplam tavan.
+G18 Kamu malı: bireysel MB'ler ve DİKEY toplam, kırılmalar, MC, Qeff.
+G19 PPF ve ticaret: iki mal, kesişimler, fırsat maliyeti, fiyat
+    doğrusu, ayrı üretim ve tüketim, ilgili kayıtsızlık eğrisi.
+G20 İthalat vergisi: yurtiçi arz/talep, pw,pw+tau,Qs/Qd/ithalat,
+    kaybedilen CS, kazanılan PS, gelir, iki üçgen.
+G21 Edgeworth : iki karşıt orijin, başlangıç stoku, ikisinin kayıtsızlık eğrileri,
+    iyileşme bölgesi ve kenarlar dahil etkin dağılımlar.
+G22 Sıralı oyun: düğümler ve sıra, eylemler, NET getiriler, önce son
+    oyuncunun sonra ilkinin seçimi; takipçinin eksiksiz stratejisini yaz.
+Eksensiz veya referanssız bir grafik açıklamanın yerini tutmaz.
+
+20.4 Q5 için kısa İngilizce tanımlar
+Normal good: A good people buy more of when their income rises, other
+  things equal.
+Inferior good: A good people buy less of when their income rises, other
+  things equal.
+Luxury good: A good for which demand rises more than proportionally with income.
+Perfect substitutes: Goods a person is willing to exchange at a constant rate.
+Perfect complements: Goods that are useful together in fixed proportions.
+Indifference curve: Combinations of goods that give a consumer the same satisfaction.
+Engel curve: The quantity a consumer chooses at different incomes, holding prices fixed.
+Marginal utility: The extra satisfaction from consuming an additional unit of a good.
+Marginal rate of substitution: The amount of one good a consumer is willing
+  to give up for a little more of another while remaining equally well off.
+Marginal product of capital: The extra output from additional capital,
+  holding other inputs fixed.
+Decreasing marginal product of capital: Additional capital adds less and
+  less output as capital increases while other inputs stay fixed.
+Isoquant: Combinations of inputs that produce the same amount of output.
+Isocost: Combinations of inputs that have the same total cost.
+Marginal rate of technical substitution: The amount of one input that can
+  be saved by using more of another while keeping output unchanged.
+Increasing returns to scale: Increasing all inputs by a given proportion
+  increases output by a greater proportion.
+Constant returns to scale: Increasing all inputs by a given proportion
+  increases output by the same proportion.
+Decreasing returns to scale: Increasing all inputs by a given proportion
+  increases output by a smaller proportion.
+Economies of scale: Average production cost falls as output increases.
+Unit elastic demand: A one-percent price increase reduces quantity demanded
+  by one percent, locally and holding other determinants fixed.
+Income elasticity: The percentage change in demand associated with a
+  one-percent income increase, holding other determinants fixed.
+Cross-price elasticity: The percentage change in demand for one good
+  associated with a one-percent change in another good's price.
+Burada hazırlanmış öğretici ifadelerdir; bunları resmi bir puanlama
+anahtarından alınmış cümleler gibi sunma.
+
+20.5 Hesaplamalı bir soruya yanıt şablonu
+« The firm chooses [variable] to maximize [objective], taking [given]
+as given. Its profit is [function]. The first-order condition is [equation],
+which gives [quantity/price]. Substituting into [demand/cost] gives [rest].
+The result is valid because [domain/maximum/participation]. Intuitively,
+[marginal trade-off]. Compared with [benchmark], [change and reason]. »
+Welfare için: referansı belirt, W'yi devlet/dışsallıkla yaz, bileşenleri
+hesapla, çiz ve hangi işlemin kaybolduğunu/aşırı olduğunu açıkla.
+Teori için: basit tanım ->teşvikin kaynağı ->sonuç
+->soruya bağlı koşul/sınır.
+
+20.6 Korpusa dayalı önerilen tekrar planı
+Adım 1 Temeller: L2–L6, A2 ; bütçe, türevler, maliyetler, esneklikler,
+MRS/MRTS, kapanma/giriş. Temelleri teşhis etmek için Q5'i yardımsız yap.
+Adım 2 Welfare: L7 ve A4.2, sonra vergiler/sübvansiyonlar E2021/E2022 ; CS,PS,
+devlet,DWL ve her grafiği ayrı alıcı/satıcı fiyatlarıyla yeniden yap.
+Adım 3 Piyasa gücü: L8–L10, A4.1/A4.3/A5 ; tekel, Lerner,
+segmentasyon, abonelik, Cournot, Bertrand, Stackelberg ve maliyet varyantları.
+Adım 4 Başarısızlıklar: L11–L12 ve A6 ; sosyal vs özel, kamu vs ortak,
+Coase, kirlilik, lemons, IC/IR, kredi ve cezalar.
+Adım 5 Sınav tamamlayıcıları: bölüm 14 ve A3 ; ticaret, PPF, gümrük vergileri,
+platformlar, ihaleler, Edgeworth ve sıralı oyunlar.
+Adım 6 Süreli sınavlar: tam bir final sınavını İngilizce ve
+grafiklerle çöz, sonra aritmetik hatalardan önce model hatalarını düzelt.
+Modelleri çeşitlendirmek için yakın tarihli ve en eski sınavları da tekrar et.
+Midterm sayılıyorsa, yalnızca Q5'e hazırlanmak için ana soruları
+feda etme; temeller dört büyük soru için vazgeçilmez kalır.
+
+L1'de gösterilen final tarihi 23 Ekim 2026'dır. 9 Ekim itibarıyla
+14 gün kalmıştır: bu plan, birkaç aktif çözüm oturumu ve aralıklı
+tekrarlarla bu döneme yayılabilir. Tarih materyaldeki bir bilgidir
+ve kişisel sınav çağrınla karşılaştırılmalıdır.
+
+20.7 ChatGPT'den istenebilecek alıştırma üreteçleri
+- Arz ve talebin kesişimlerini/eğimlerini değiştir, sonra vergi/sübvansiyon ekle;
+  iki fiyatın, kamu bütçesinin ve welfare'in okunmasını iste.
+- U'yu, fiyatları, geliri değiştir; önce bir iç durum, sonra bir köşe,
+  sonra tam tamamlayıcılar öner; ulaşılabilir/tercih edileni karşılaştır.
+- Çok fiyatlı bir talep ver ve kendi/çapraz/gelir esnekliklerini iste.
+- Bir üretim fonksiyonu ver; MP, MRTS, ölçeğe göre getiri,
+  sonra dayatılmış bir miktar için minimum maliyeti iste.
+- TC ve fiyat ver; q, kâr, PS, SR kapanma/LR çıkış iste.
+- Tekel->Cournot->Stackelberg->Bertrand sırasıyla geç; aynı
+  temel verileri koru ve stratejik değişkende neyin değiştiğini sor.
+- Farklı dışlama fiyatlı iki piyasa ver; ortak fiyatta TÜM segmentlerin
+  ve sınırların karşılaştırılmasını şart koş.
+- Yalnızca aboneliği, tek fiyatı ve iki parçalı tarifeyi karşılaştır.
+- Değişken bir dışsallık ve kötü ayarlanmış bir vergi ekle; yalnızca miktar
+  değişiminin yönünü değil, sosyal referansı iste.
+- Bir WTP'nin aday optimumdan önce 0 olduğu bir kamu malı ver;
+  parçalı dikey toplamayı zorunlu kıl.
+- Bir kredi sözleşmesinde pH,pL, geri ödeme, özel fayda ve katkıyı değiştir.
+- Parasal matrisler ve sosyal faydalar ver; en iyi tepkileri yeniden hesapla.
+- PPF ve dünya fiyatı, sonra bir gümrük vergisi ver; yasaklayıcı eşiği ve birimleri kontrol et.
+- Önce bir satış ihalesi, sonra bir kamu alımı ver; ikinci fiyatın
+  iki durumda neden aynı yönde olmadığını açıkla.
+- Önce formülsüz İngilizce bir açıklama, sonra eksiksiz bir türetme iste.
+
+20.8 Bir sınav yanıtının son kontrolü
+Model « price/quantity », « public/private », « fixed fee »,
+« observable », « chooses first » sözcükleriyle uyumlu mu?
+Türevi alınan değişken gerçekten seçilen değişken mi?
+Her miktar negatif olmayan ve doğru segmentte mi?
+FOC geçerli bir maksimum/minimumu tanımlıyor mu ve köşeler kontrol edildi mi?
+Doğru aktöre ait maliyet ve olasılıkları kullandım mı?
+Yalnızca bir formül yazmak yerine mekanizmayı açıkladım mı?
+Transferler gerçek maliyetlerden ve dışsal zarardan ayrıldı mı?
+DWL referansı açıkça SOSYAL ve soruyla tutarlı mı?
+Grafiğin eksenleri, alanları ve birimleri hesaplarla uyuşuyor mu?
+Ek bir varsayım gerekli mi ve belirtildi mi?
+
+Dosyanın sonu. S01–S23 referansları özgün belgelere
+dönmeyi sağlar; gösterimler her alıştırmaya özgü kalır. Öncelik,
+yalnızca bir kısaltmayı tanımak değil, mantığı yeniden kurabilmektir.

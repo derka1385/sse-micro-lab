@@ -1,0 +1,2507 @@
+MICROECONOMICS SSE — REVISION DOSSIER AND CONTEXT FOR CHATGPT
+Course BE 501 — Richard Friberg — 2026 materials and 2020–2025 exams
+Prepared on 9 October 2026. UTF-8 text file, self-contained.
+
+======================================================================
+0. HOW TO USE THIS FILE AND WHAT IT COVERS
+======================================================================
+
+Goal: understand the mechanisms, recognise which model to apply,
+know how to rebuild the formulas, calculate, draw and explain in English.
+This dossier is a teaching summary, not an official SSE answer key.
+Numerical results presented as "recalculated" were derived from the
+exam/assignment texts. Personal answers in the assignments are not treated
+as an authority. The main errors or ambiguities are flagged.
+
+Full corpus of the Microeconomics folder: 23 PDFs, 373 pages.
+12 lectures, 5 assignments numbered 2 to 6, 6 final exams 2020 to 2025.
+Text extracted from every page; visual review of the lectures and
+assignments, checking tables embedded as images and the
+relevant calculations. The last page of the 2020 exam is blank.
+Page counts include covers, instructions and blank pages.
+
+Limits of the corpus, to keep in any sheet produced from it:
+- No assignment 1 or 7 is present.
+- Only lectures 1 to 12 are present. The Lecture 1 schedule
+  still announces platforms and international trade in week 7.
+- Auctions and some game-theory elements appear in the
+  exams or assignments without a matching full lecture here.
+- The six past-exam PDFs are FINAL exams, not midterms,
+  and contain no official solutions.
+- A frequency over six past exams describes this sample; it is
+  not a probability of appearing in the next exam.
+- Dates, rules and current-affairs examples are those of the materials.
+  This dossier does not check the current administrative rules on Canvas.
+
+Provenance markers: L1 to L12 = lectures; A2 to A6 = assignments;
+E2020 to E2025 = exams. "p." means the PDF page, counted from 1.
+"Complement" = a standard explanation rebuilt to handle an exercise,
+not a claim that an extra lecture was found.
+
+PROMPT TO GIVE CHATGPT WITH THIS FILE
+"You are my microeconomics tutor for the SSE BE 501 exam. Use this
+dossier as the main context. Explain in English, keeping the English
+terms and abbreviations I will meet in the exam. For each
+new symbol, spell out its English name, explain it, give its units
+and its role. For each formula, explain where it comes from, why it
+holds, its assumptions, how to recognise when to use it and when it
+does not apply. First make me identify the objective, the constraints,
+the choice variable and the model. Suggest progressive exercises,
+let me try, then correct my reasoning and my graphs.
+Also train me to give short, justified answers in English.
+Distinguish documented elements, recalculated results and
+complements. Do not invent an official answer key, a frequency or missing
+syllabus content. If I ask for sheets, a website or exercises, also cover
+the edge cases and pitfalls listed here."
+
+OUTLINE
+1. Inventory and mapping between lectures, assignments and exams
+2. Common logic and mathematical tools
+3. Supply, demand, equilibrium and shocks
+4. Consumer, preferences, budget and demand
+5. Elasticities
+6. Production, costs and competitive supply
+7. Surplus, taxes, subsidies and regulated prices
+8. Monopoly and monopolistic competition
+9. Discrimination, segmentation, bundling and tariffs
+10. Oligopoly, Cournot, Bertrand and Stackelberg
+11. Externalities, pollution, public goods and common resources
+12. Asymmetric information, contracts and incentives
+13. Game theory in Assignment 3
+14. Exam complements: trade, platforms, auctions and exchange
+15. Assignments: recalculated results and methods
+16. Exams: map of questions and reference results
+17. Cross-cutting formula sheet and choice of method
+18. Directory of abbreviations and symbols
+19. Bilingual lexicon of concepts and exam verbs
+20. Pitfalls, corrections, graphs and revision path
+
+======================================================================
+1. INVENTORY AND MAP OF THE SYLLABUS
+======================================================================
+
+All names below are relative to the Microeconomics folder.
+
+S01 = assignments/Assignment3.pdf — 4 pages.
+S02 = assignments/Assignment2.pdf — 3 pages.
+S03 = assignments/Assignment4.pdf — 5 pages.
+S04 = assignments/Assignment5.pdf — 6 pages.
+S05 = assignments/Assignment6.pdf — 5 pages.
+S06 = lectures/Lecture 01 Micro 2026 15.16.11.pdf — 21 pages.
+S07 = lectures/Lecture 02 Micro 2026 15.16.11.pdf — 33 pages.
+S08 = lectures/Lecture 03 Micro 2026 15.16.11.pdf — 24 pages.
+S09 = lectures/Lecture 04 Micro 2026 15.16.11.pdf — 29 pages.
+S10 = lectures/Lecture 05 Micro 2026 15.16.11.pdf — 33 pages.
+S11 = lectures/Lecture 06 Micro 2026 15.16.11.pdf — 34 pages.
+S12 = lectures/Lecture 07 Micro 2026.pdf — 23 pages.
+S13 = lectures/Lecture 08 Micro 2026.pdf — 24 pages.
+S14 = lectures/Lecture 09 Micro 2026.pdf — 25 pages.
+S15 = lectures/Lecture 10 Micro 2026.pdf — 25 pages.
+S16 = lectures/Lecture 11 Micro 2026.pdf — 25 pages.
+S17 = lectures/Lecture 12 Mikro 2026.pdf — 20 pages.
+S18 = past exams/2020.pdf — 7 pages.
+S19 = past exams/2021.pdf — 5 pages.
+S20 = past exams/2022.pdf — 5 pages.
+S21 = past exams/2023.pdf — 6 pages.
+S22 = past exams/2024.pdf — 5 pages.
+S23 = past exams/2025.pdf — 6 pages.
+
+LECTURES -> SKILLS -> APPLICATIONS
+L1, Introduction, Friberg 1.1–2.1 and 19: scarcity, choice, allocation,
+  efficiency and distribution, model assumptions, derivatives.
+L2, Supply and demand, Friberg 2.2–2.5: direct/inverse functions,
+  curve shifts, equilibrium and effects of shocks.
+  Basis for A4.2, A6.3 and for policies in every exam.
+L3, Consumer choice, Friberg 5.1–5.6: preferences, ordinal utility,
+  indifference, MRS, budget, interior or corner choice, behavioural biases.
+  A2.2; E2022 Q5; E2021 Q4e; Q5 definitions.
+L4, Demand curves and elasticities, Friberg 6.1–6.4: individual demand,
+  aggregation, compensation and elasticities. A2.1; E2020 Q5; Lerner.
+L5, From technology to costs, Friberg 3.1–3.7: production, MP, isoquants,
+  productivity, cost minimisation, cost categories, returns to scale.
+  Q5 of E2021, E2023, E2025; very recurrent definitions.
+L6, Supply by price taking firms, Friberg 4.1–4.8: MR=MC, p=MC,
+  short-run shutdown, long-run exit, aggregation, entry and zero profit.
+  E2020 Q5, E2024 Q5; mechanisms of monopolistic competition.
+L7, Efficiency, Friberg 7.1–7.5: CS, PS, welfare, DWL, ceiling/floor,
+  tax and subsidy. A4.2; policies and graphs in every exam.
+L8, Monopoly and monopolistic competition, Friberg 9.1–9.3: MR,
+  market power, Lerner, barriers, entry, heterogeneous firms.
+  A4.1/A4.3; E2021 Q3; E2022 Q3; E2023 Q1; E2025 Q3d.
+L9, Price discrimination, Friberg 12.1: first/third/second degree,
+  IC/IR, bundling, subscription and two-part tariff.
+  A5.1/A5.2; present in all six past exams.
+L10, Oligopoly, Friberg 10.1–10.3: Cournot, Nash, reaction, Stackelberg,
+  homogeneous and differentiated Bertrand, number of firms, asymmetric costs.
+  A5.3; E2020/21/22/23 Cournot calculations; E2024/25 Bertrand calculations.
+L11, Externalities, Friberg 13.1–13.2: private and social costs/benefits,
+  Pigou, emissions, permits, Coase, public goods and common resources.
+  A6.1/A6.3; big exercises E2020/23/24 and public goods E2025.
+L12, Asymmetric information, Friberg 14.1–14.4: adverse selection,
+  lemons, signal/screening, moral hazard, principal-agent, risk sharing.
+  A6.2; theory or numerical questions in all six exams.
+A3: simultaneous/sequential games, social preferences, commitments.
+  Extension of the Nash idea mentioned in L10; its cover does not say which
+  course it comes from. Do not dismiss it because it is atypical.
+
+FORMAT AND OBSERVED TRENDS
+The 2020–2025 exams last 4 hours, have four main questions
+totalling 83 points and a Q5 that replaces the midterm, worth 10 points.
+The instructions require answers in English, structured and justified.
+The 2020–2023 exams state the allowed aids/calculator explicitly; do not
+extrapolate a current permission from an old exam.
+L1 p.17–18 announces for 2026: exam on 23 October, midterm on 28 September,
+midterm covering L1–L6, hand-ins 7 points, midterm 10, final 83, total 100.
+Thresholds shown: Pass 50, Good 60, Very good 70, Excellent 80.
+
+Counted by YEAR, not by number of sub-questions:
+- Market power and pricing/discrimination: 6/6, 2020–2025.
+- Taxes, subsidies or other regulation with surplus reasoning:
+  6/6, 2020–2025; includes tariffs and a price ceiling in 2023.
+- Asymmetric information: 6/6, 2020–2025.
+- Public goods in the strict sense: 5/6, 2020, 2021, 2022, 2024, 2025.
+  2023 deals with a common resource/spectrum; public OR common = 6/6.
+- Externalities explicitly treated beyond a simple public-good definition:
+  5/6, 2020, 2021, 2023, 2024, 2025.
+- International trade or comparative advantage: 5/6,
+  2020, 2021, 2022, 2024, 2025.
+- Cournot equilibrium calculation: 4/6, 2020, 2021, 2022, 2023.
+  Qualitative Cournot/Bertrand comparison also in 2025.
+- Differentiated Bertrand calculation: 2/6, 2024, 2025.
+- Numerical sequential leadership: 2/6, 2021 in quantities, 2024 in prices.
+- Explicit auctions: 2/6, 2023 and 2025.
+- Platforms/network effects/multihoming as explicit models:
+  2/6, 2022 and 2025; other exams use platforms as context.
+- Five basic definitions in the optional Q5: 6/6.
+
+HOW A BIG QUESTION IS BUILT
+Define a mechanism -> solve a base case -> change one assumption
+(tax, entry, costs, discrimination, information or order of moves)
+-> compare the equilibria -> draw -> explain the intuition.
+Topics combine: monopoly + tax, Cournot + asymmetric costs,
+subsidy + externality, platform + discrimination, credit + IC.
+
+======================================================================
+2. COMMON LOGIC AND MATHEMATICAL TOOLS
+======================================================================
+
+2.1 The skeleton of almost every problem
+1) Who decides? Consumer, firm, bank, authority, bidder.
+2) What objective? Utility, profit, minimum cost or SOCIAL surplus.
+3) Which variable do they choose? Quantity, price, effort, inputs, contract.
+4) What is given? Prices, income, rival, technology, information.
+5) Which constraints? Budget, production, capacity, non-negativity,
+   participation, incentive, no resale, follower's reaction.
+6) Write the objective function and the consistency relations.
+7) Solve; check domain, corners, optimum and participation.
+8) Go back to the prices, quantities, profits and surplus asked for.
+9) Explain why a small deviation does not improve the objective.
+
+"Marginal" means the effect of one extra unit, or the derivative
+in a continuous model. "Average" means total divided by quantity.
+A marginal decision compares extra benefit and extra
+cost. An unavoidable fixed cost does not enter this comparison,
+but it counts in total profit and in the decision to stay in the long run.
+
+2.2 Derivatives and optimality conditions
+y=f(x): f'(x)=dy/dx, local slope. For several variables, use
+a partial derivative holding the others constant.
+d(k)/dx=0; d(ax)/dx=a; d(x^n)/dx=n*x^(n-1).
+d[f(x)g(x)]/dx=f'(x)g(x)+f(x)g'(x), product rule.
+For p(Q)Q, MR=p(Q)+Q*p'(Q), not just p'(Q)Q.
+For a concave function, the FOC f'(x)=0 gives an interior maximum.
+Check f''(x)<0 or compare values at the boundaries if needed.
+A FOC alone guarantees neither a maximum, nor a feasible quantity, nor production.
+
+For an expected sum: E[X]=sum(probability of the state * outcome).
+Compute the NET outcome in each state before weighting.
+A penalty applied with probability d has an expected cost d*F.
+
+2.3 Areas and units
+Rectangle = base*height; triangle = base*height/2.
+Surplus = area between marginal willingness to pay and the relevant cost/price.
+General form: area = integral of the vertical difference as a function of Q.
+Triangles assume linear curves over the interval considered.
+Price in money/unit * quantity in units = money.
+If Q is in THOUSANDS of tonnes and p in dollars/tonne, the area is in
+THOUSANDS of dollars. This point changes the result by a factor of 1000.
+An elasticity has no unit; a slope usually has one.
+
+2.4 Rewrite before calculating
+Direct demand Q=a-bp -> inverse demand p=a/b-Q/b.
+Direct supply Q=-c+dp -> inverse supply p=c/d+Q/d.
+On a market graph: Q horizontal, p vertical; draw the inverse
+forms. To add up private demands: add the quantities
+at the same price, not the prices. For a public good: add the marginal
+benefits at the same Q, i.e. vertically.
+
+======================================================================
+3. SUPPLY, DEMAND, EQUILIBRIUM AND SHOCKS — L2
+======================================================================
+
+Demand: the quantity buyers want to buy at each price.
+Supply: the quantity sellers want to sell at each price.
+Assumptions of the simple competitive model: many agents, homogeneous
+products, price takers; no significant strategic interaction.
+Define the market by product, geographic area and period.
+
+Example L2 p.7/16/20: QD=10-p, QS=-2+p.
+Equilibrium: QD=QS ->10-p=-2+p ->p*=6, Q*=4.
+At p=4: QD=6, QS=2, excess demand of 4, upward pressure.
+At p=8: QD=2, QS=6, excess supply of 4, downward pressure.
+A negative quantity predicted outside the domain usually means quantity 0.
+
+CHANGE IN THE GOOD'S OWN PRICE -> movement ALONG its curve.
+CHANGE IN A DETERMINANT OTHER THAN THAT PRICE -> shift of the curve.
+Demand QD=f(p,T,p_r,I): tastes/temperature T, other price p_r, income I.
+Normal good: income rises -> demand shifts right.
+Inferior good: income rises -> demand shifts left.
+Substitutes: price of the other good rises -> demand shifts right.
+Complements: price of the other good rises -> demand shifts left.
+Input cost rises -> supply shifts left/up.
+Better technology/entry of producers -> supply shifts right/down.
+
+Other things equal, for usual curves:
+D right: p rises, Q rises. D left: p falls, Q falls.
+S right: p falls, Q rises. S left: p rises, Q falls.
+D right AND S left: p rises, effect on Q ambiguous.
+D right AND S right: Q rises, effect on p ambiguous.
+D left AND S left: Q falls, effect on p ambiguous.
+D left AND S right: p falls, effect on Q ambiguous.
+Do not conclude on an ambiguous variable without the relative size of the shocks.
+
+Sensitivity: for a given demand shock, a steep supply implies
+a large price change and a small quantity change.
+A flatter supply absorbs more of the shock through quantity.
+L2 applications: wheat harvests, tea/coffee, rice, palladium.
+Explain with "at a given price, more/less would be supplied/demanded",
+and only then look for the new equilibrium.
+
+======================================================================
+4. CONSUMER, PREFERENCES, BUDGET AND DEMAND — L3–L4
+======================================================================
+
+4.1 Preferences and utility
+Completeness: any two bundles can be ranked, indifference included.
+Transitivity: if A is preferred to B and B to C, A is preferred to C.
+Non-satiation / more-is-better: more of desirable goods is preferred.
+Ordinal utility: U ranks bundles; a utility of 100 does not mean
+twice as much happiness as a utility of 50. A strictly increasing
+transformation represents the same preferences.
+Example L3: U(E,F)=sqrt(EF), with E entertainment, F food.
+U=EF gives the same ranking for positive E,F; the numerical levels
+and the derivatives change, not the optimal choices.
+
+MU_x = partial derivative of U with respect to x: marginal utility of good x.
+Diminishing marginal utility: one more unit adds less and less
+utility, for a given quantity of the other good. Do not confuse this
+property with the ordinal nature of utility.
+
+Indifference curve: bundles giving the same U. Under usual preferences,
+it is downward sloping, convex to the origin, does not cross another curve
+of the same consumer; curves further north-east are preferred.
+Two desirable goods: a positive slope is incompatible with more-is-better.
+If tea is horizontal and coffee vertical, horizontal indifference curves: only
+coffee matters; tea gives no marginal utility (L3 p.10).
+
+4.2 MRS and budget: never swap the axes without adapting the ratios
+With x horizontal and y vertical, along an indifference curve:
+0=MU_x*dx+MU_y*dy ->dy/dx=-MU_x/MU_y.
+MRS_xy=MU_x/MU_y, absolute value of that slope: amount of y the
+consumer is willing to give up for one extra unit of x.
+In L3, F horizontal and E vertical: slope=-MU_F/MU_E.
+
+Budget p_x*x+p_y*y <= I; equality at the optimum if non-satiation and positive prices.
+y=I/p_y-(p_x/p_y)*x; intercepts x=I/p_x and y=I/p_y.
+Income rises: parallel outward shift, prices unchanged.
+Price of x rises: y-intercept unchanged, x-intercept falls, budget steeper.
+A price change reduces purchasing power; it does not necessarily change
+nominal income I.
+
+4.3 Interior optimum
+Max U(x,y) subject to the budget. At an interior tangency:
+MU_x/MU_y=p_x/p_y, i.e. MU_x/p_x=MU_y/p_y.
+Intuition: the last euro brings the same marginal utility in both
+uses. Otherwise moving a small amount of spending to the better use raises U.
+Use this condition TOGETHER WITH the budget, not instead of it.
+It assumes an interior solution and sufficiently
+regular preferences; compare corners and kinks when needed.
+
+Computational complement, Cobb-Douglas U=x^alpha*y^beta, alpha,beta>0:
+x*=alpha/(alpha+beta)*I/p_x; y*=beta/(alpha+beta)*I/p_y.
+Justification: MRS=(alpha/beta)*(y/x)=p_x/p_y, then the budget.
+For U=xy: half of income on each good, not half of the number of units.
+
+4.4 Perfect substitutes and complements
+Perfect substitutes U=ax+by: MRS=a/b constant; compare a/p_x with b/p_y.
+All on x if a/p_x>b/p_y; all on y if the reverse; any mix on the
+budget is optimal if equal. A unique tangency is not required.
+Example L4 p.10: 2 macchiatos equivalent to 1 cappuccino, same prices:
+buy only cappuccinos, more utility per euro.
+Perfect complements U=min(x/a,y/b): choose at the kink x/a=y/b,
+because unmatched units add nothing. Example left/right shoes.
+For a 1:1 pair: x=y=I/(p_x+p_y).
+
+4.5 Demand and income
+Recompute the optimum for each price of x, keeping I and the other prices
+constant; the pairs (p_x,x*) trace the individual demand.
+Engel curve: optimal quantity as a function of INCOME, prices constant.
+Normal good: quantity rises with I; inferior: falls with I.
+The same good can be normal at low income and inferior at high income
+(L4 example of hostel nights).
+Luxury good: income elasticity >1; normal necessity: between 0 and 1.
+These labels do not rank the intrinsic quality of the good.
+
+4.6 Substitution, income and compensation
+A price rise makes x relatively more expensive: substitution towards y.
+It also reduces purchasing power: income effect.
+L4 p.11–13: tax on petrol, then a lump-sum transfer just enough to
+reach the OLD indifference curve at the NEW prices. Utility can be
+maintained while petrol consumption falls through substitution.
+This transfer does not remove the new relative price.
+E2022 Q5: transfer allowing the OLD BUNDLE to be bought after removing
+a food subsidy. The old bundle remains affordable; with an
+old interior solution and a strictly convex indifference curve,
+re-choosing on the new budget usually gives higher utility.
+Old bundle affordable and old utility just reached are two
+distinct compensation criteria. The general guarantee is "no worse
+off"; strict improvement needs tangency/corner conditions.
+
+4.7 Market demand
+QD(p)=sum_i max(0,q_i(p)). HORIZONTAL summation at a given price.
+L4 p.19: q_H=10-p, q_L=5-p.
+QD=0 for p>=10; QD=10-p for 5<p<10; QD=15-2p for 0<=p<=5.
+The aggregate inverse demand has a kink; check the segment of any optimum.
+
+4.8 Behaviour, social preferences and limits
+L3: utility can include altruism, status, respect, pride and spite.
+Maximising utility is therefore not the same as maximising one's own consumption.
+Ultimatum game: a positive money offer may be rejected for fairness.
+Lack of self-control: immediate gratification against future interest.
+Heuristics: simple rules when optimisation is hard.
+Loss aversion: losses can weigh more than comparable gains.
+Framing: how a choice is presented affects the decision.
+Overconfidence: excessive confidence in one's abilities/information.
+Social preferences in A3: convert money payoffs into UTILITIES
+before looking for best responses.
+
+======================================================================
+5. ELASTICITIES — L4 AND A2
+======================================================================
+
+Elasticity of Q with respect to z: % change in Q for a 1% change
+in z, locally. Discrete form in L4: (Delta Q/Q0)/(Delta z/z0).
+Point form: epsilon_Q,z=(dQ/dz)*(z/Q); partial derivative if needed.
+
+Own price: epsilon_D=(dQD/dp)*(p/QD), usually negative.
+Supply: epsilon_S=(dQS/dp)*(p/QS), usually positive.
+Cross price: epsilon_ij=(partial Q_i/partial p_j)*(p_j/Q_i).
+Income: eta=(partial Q/partial I)*(I/Q).
+Positive cross price -> substitutes; negative -> complements.
+Negative income -> inferior; positive -> normal; >1 -> luxury.
+Inelastic demand: -1<epsilon_D<0; unit elastic: -1; elastic: <-1.
+Perfectly inelastic: 0, vertical curve. Perfectly elastic:
+infinite absolute value, horizontal curve in the limiting case.
+
+Approximate change: %Delta Q ≈ epsilon * %Delta z.
+Quantity target: %Delta z ≈ %Delta Q / epsilon.
+Keep the sign: a price fall and a negative epsilon give a rise in Q.
+For a large change, state the convention; the linear approximation
+is not an identity of a constant-elasticity function.
+If Q=A*p^epsilon, exactly: Q1/Q0=(p1/p0)^epsilon.
+Arc elasticity (complement): use the averages (Q0+Q1)/2 and
+(p0+p1)/2 in both percentages. Do not mix conventions.
+
+L4 examples: Q goes 6->4, p 1->2: epsilon on the initial base=-1/3.
+epsilon=-1.5, price falls by 10% ->Q rises by approximately 15%.
+epsilon=-0.5, target Q +5% ->price about -10%.
+eta=-2, income +10% ->Q about -20%.
+
+Linear demand Q=a-bp: derivative=-b constant, epsilon=-b*p/(a-bp)
+VARIABLE. The higher p, the larger |epsilon|, for fixed parameters.
+Inverse demand p=A-BQ: epsilon=-p/(B*Q).
+Do not use dp/dQ instead of dQ/dp without taking the inverse.
+Revenue R=pQ: dR/dp=Q*(1+epsilon_D).
+Elastic demand: a price rise lowers R; inelastic: a price rise
+raises R; unit elastic: revenue locally stationary.
+Profit also depends on costs: maximum revenue and maximum profit
+are not always at the same price.
+
+Longer horizon -> often more substitution possibilities.
+Narrow product definition -> often more substitutes.
+L4 alcohol study, values from the MATERIALS, not universal rules:
+Own-price spirits -1.3, beer -0.9, wine -0.2; cross-price Denmark
+0.3/0.5/0.2; income 1.4/1.0/0.6; stores and Fridays 0.1/0.2/0.2.
+These numbers illustrate empirical estimation, not a formula to memorise.
+
+======================================================================
+6. PRODUCTION, COSTS AND COMPETITIVE SUPPLY — L5–L6
+======================================================================
+
+6.1 Technology and marginal products
+Function Q=f(K,L): quantity obtained with capital K and labour L.
+MP_L=partial Q/partial L; MP_K=partial Q/partial K.
+AP_L=Q/L, average product; discrete MP=Delta Q/Delta L, K fixed.
+L5 p.11: Q=50 at L=9, 54 at L=10, 56 at L=11.
+Product of the 10th worker=4; average product at 10=54/10=5.4.
+Diminishing marginal returns: one input rises, the other stays fixed.
+Example L5: Q=sqrt(KL), MP_L=0.5*sqrt(K/L), MP_K=0.5*sqrt(L/K).
+Cobb-Douglas complement Q=A*K^alpha*L^beta:
+MP_L=beta*Q/L; MP_K=alpha*Q/K.
+A captures total factor productivity, TFP: more output with
+the same inputs, or fewer inputs for the same output.
+
+Hiring, output sold at a given price p: keep going while p*MP_L>w.
+At a competitive interior optimum: p*MP_L=w.
+With market power over output, replace p by MR (complement).
+L5 Black Death: less labour relative to land can raise
+the marginal product of labour and the wage, for a given technology.
+
+6.2 Isoquants, isocosts and minimum cost
+Isoquant: K,L combinations producing the same Qbar.
+With L horizontal, K vertical: slope=-MP_L/MP_K.
+MRTS_LK=MP_L/MP_K: capital that can be saved per unit of L added.
+Isocost: C=wL+rK ->K=C/r-(w/r)L, slope=-w/r.
+Minimise wL+rK subject to f(K,L)>=Qbar; equality for usual technology.
+Interior optimum: MP_L/MP_K=w/r, i.e. MP_L/w=MP_K/r.
+The last euro must create the same marginal output in both inputs.
+Rise in w: labour relatively more expensive -> more capital-intensive
+combination on the same isoquant, if substitution is possible. Minimum cost
+cannot fall when the price of an input rises, other things equal.
+Do not just rotate the old isocost: also find the new
+tangent isocost, usually more costly, for the required Q.
+
+Complement example for Q=sqrt(KL): K/L=w/r; KL=Qbar^2.
+L*=Qbar*sqrt(r/w), K*=Qbar*sqrt(w/r), C*=2*Qbar*sqrt(wr).
+For Q=K*L, isoquant K=Qbar/L, different from sqrt(KL).
+E2025 Q5: isocost 1000=50L+100K ->K=10-0.5L; intercepts 20 and 10.
+"Well-behaved" production does not give numerical values
+of L*,K* without a more precise production function; the optimum is drawn.
+
+6.3 Returns to scale and economies of scale
+Multiply ALL inputs by t>1 and compare f(tK,tL) with t*f(K,L).
+Greater -> increasing returns to scale; equal -> constant; smaller
+-> decreasing. Cobb-Douglas: compare alpha+beta with 1.
+Returns concern TECHNOLOGY. Economies of scale concern
+long-run AVERAGE COST: ATC falls with Q. Diseconomies: ATC rises.
+Diminishing marginal product of one factor does not imply decreasing
+returns to scale: sqrt(KL) has diminishing MPs and constant returns.
+
+6.4 Cost table
+TC=C(Q)=FC+VC(Q).
+ATC=AC=TC/Q; AFC=FC/Q; AVC=VC/Q; ATC=AFC+AVC.
+MC=dTC/dQ=dVC/dQ, because the derivative of a constant FC=0.
+Discrete MC of the next unit: C(Q+1)-C(Q).
+MC<ATC ->ATC falls; MC>ATC ->ATC rises.
+At the interior minimum of ATC: MC=ATC. Same logic for AVC.
+Fixed cost does not automatically mean sunk: check whether it is
+recoverable/avoidable within the decision horizon.
+Short run: at least one input fixed. Long run: all adjustable,
+with no universal calendar length. Long-run cost <= short-run cost
+at a given Q, because it offers more choice of inputs.
+
+Example L5 C=30+Q^2 at Q=2: TC34, FC30, VC4, ATC17, AVC2, AFC15,
+continuous MC4; discrete cost of going from 2 to 3=5.
+Do not confuse these two meanings of marginal cost.
+
+6.5 Profit and supply of a price-taking firm
+pi(q)=p*q-C(q). MR=p because one firm does not change the market price.
+Profit maximisation is the model's assumption. L6 p.3 also invites
+discussion of time horizon, other objectives and corporate social
+responsibility. This does not change
+a given FOC as long as no other objective is specified in the question.
+FOC p=MC(q). Supply is the relevant rising part of MC above
+the shutdown threshold, compared with q=0.
+Example L6 C=10+q^2, p12: MC2q ->q6; R72, C46, pi26.
+For any admissible p: q=p/2; at p0, q0.
+Minimum ATC for this example: q=sqrt(10), price=2sqrt(10)≈6.325.
+pi=(p-ATC)*q. PS=pq-VC=pi+FC; PS is not necessarily profit.
+
+6.6 Produce or shut down?
+Short run, unavoidable FC: produce if the best quantity gives
+R>=VC, i.e. p>=AVC(q*); otherwise q=0 and loss=-FC.
+The standard threshold is min AVC, under usual assumptions.
+If AVC<p<ATC, producing at a loss can minimise the loss: part of FC
+is covered. When R=VC exactly, indifferent between producing and shutting down.
+Long run: stay/enter only if economic profit is >=0,
+so p>=ATC at the optimal level. Otherwise exit when possible.
+L6 T-shirts: MC5 up to q10, then MC15, p10 ->q10. FC25 gives pi25;
+FC40 gives pi10. The change in FC does not change the interior quantity.
+
+6.7 Market supply, entry and opportunity cost
+Add individual supplies horizontally, excluding
+negative quantities. L6 q1=p-2, q2=p-4:
+QS=0 for p<2; p-2 for 2<=p<4; 2p-6 for p>=4.
+Rise in demand: price/profits rise in the short run -> entry -> market
+supply shifts right -> price/profit fall until economic profit is zero.
+With identical, replicable firms at constant cost, p_LR=min ATC,
+output per firm returns to the efficient level, market quantity and number of
+firms rise. This result does not describe every industry.
+Input scarce at industry level -> LR supply can slope up; learning
+or external economies -> it can slope down.
+
+Accounting cost: explicit spending. Economic cost: includes the value
+of the best alternative forgone, without double counting.
+Naomi L6: supplies 30,000 + delivery 10,000 ->accounting 40,000;
+alternative salary 50,000 ->economic 90,000.
+Zero economic profit implies neither zero salary nor no income:
+the factors already receive their opportunity pay.
+Economic rent: income from a scarce resource beyond its relevant
+alternative use; different from a simple accounting rent.
+======================================================================
+7. SURPLUS, TAXES, SUBSIDIES AND REGULATED PRICES — L7
+======================================================================
+
+7.1 Who gets what?
+CS, consumer surplus: total value to buyers minus their payments.
+CS=integral_0^Q [p_D(q)-p_b] dq, if the units go to the buyers who
+value them most. For p_D=a-bQ: CS=(a-p_b)*Q/2.
+PS, producer surplus: revenue net of tax minus variable cost.
+PS=integral_0^Q [p_s-MC(q)] dq; for p_S=c+dQ: PS=(p_s-c)*Q/2.
+Profit=PS-FC. When prices differ, integrate the actual revenue
+instead of using a single pQ rectangle.
+Welfare W=CS+PS in the model without government or externality, with fixed costs
+unchanged. With government: add tax revenue, subtract subsidy
+spending. With an externality: add external benefits, subtract damages.
+When entry or fixed costs change, also include those real costs.
+
+A sum of surpluses measures monetary efficiency, not fairness.
+A transfer from CS to PS is not by itself a DWL. A deadweight loss
+is a NET loss of surplus compared with the efficient benchmark.
+The competitive model maximises W if demand is the social marginal
+benefit, supply the social marginal cost and the other assumptions hold.
+Monopoly, an externality or asymmetric information can break this result.
+
+L7 example: p_D=23-Q, p_S=2+2Q ->Q7,p16.
+CS=(23-16)*7/2=24.5; PS=(16-2)*7/2=49; W73.5.
+If Q is limited to 5 and the price is 18: CS12.5; PS55; W67.5; DWL6.
+Here producers gain 6 while consumers lose 12:
+the social loss is 6, not 12.
+
+7.2 Per-unit tax: write THREE relations
+QD(p_b)=QS(p_s)=Q; p_b=p_s+t.
+The consumer pays p_b; the producer keeps p_s; the government receives tQ.
+Whether the law makes the buyer or the seller remit the tax does not change
+the equilibrium of this model, for the same tax and the same trading possibilities.
+
+For p_D=a-bQ and p_S=c+dQ, b,d>0, interior solution:
+Q0=(a-c)/(b+d); Qt=(a-c-t)/(b+d).
+p_b=a-bQt; p_s=c+dQt; T=tQt.
+Rise in buyer price=b*t/(b+d).
+Fall in seller price=d*t/(b+d).
+DWL=t*(Q0-Qt)/2=t^2/[2(b+d)], WITHOUT externality/market power.
+Beyond the prohibitive tax, Q=0; do not extend the formulas to Q<0.
+
+Economic incidence: the less elastic side bears more.
+Local competitive form: buyer share=epsilon_S/(epsilon_S+|epsilon_D|),
+seller share=|epsilon_D|/(epsilon_S+|epsilon_D|).
+These shares are not a general rule for oligopoly or monopoly.
+A less elastic base causes less change in Q, so usually
+less DWL for the same levy, under the comparison assumptions.
+
+L7 tax t3: Q6,p_b17,p_s14,T18; CS18,PS36,W72,DWL1.5.
+The rectangles transferred to the government are not destroyed.
+A tax can nevertheless fund a public good or correct an externality:
+its DWL is not enough to judge the whole policy.
+
+7.3 Per-unit subsidy
+QD(p_b)=QS(p_s)=Q; p_s=p_b+s.
+The buyer pays less, the seller receives more, the government pays sQ.
+Qs=(a-c+s)/(b+d); W=CS+PS-sQ.
+Without externality: DWL=s*(Qs-Q0)/2. The additional units have a real
+cost above their benefit. With a positive externality, this formula
+without external correction can give the wrong diagnosis.
+L7 s3: Q8,p_b15,p_s18; CS32,PS64,spending24,W72,DWL1.5.
+
+7.4 Price ceiling and floor
+Price ceiling / cap: maximum price. Binding if the ceiling is below p* in the
+usual case. Quantity traded often limited by QS; shortage QD-QS.
+Draw the ceiling as a horizontal line; read QS and QD separately.
+CS also depends on rationing: the standard formula assumes the
+available units go to the buyers with the highest WTP.
+Random rationing, queues and search can add losses.
+PS falls; CS can rise OR fall; W falls without another failure.
+L7 ceiling 12: QS5,QD11; trades 5; CS42.5,PS25,W67.5,DWL6.
+A ceiling >=p* is non-binding in the simple competitive model.
+
+Price floor: minimum price, binding above p*. Excess supply.
+Without public purchases, quantity sold limited by QD; do not count QS
+as quantity consumed. With public purchases, include their cost and
+what happens to unsold output. The welfare result depends on this set-up.
+
+E2023 Russian oil: do not mechanically apply "ceiling ->shortage".
+Russian supply vertical beyond 50, ceiling 60 instead of 90: same volume
+8 million barrels/day; rent transfer 30*8 million=240 million
+USD/day. No fall in this supply under the assumptions; the ceiling
+targets one supplier, not necessarily the price of the whole world market.
+
+7.5 Taxes and revenue: a conclusion to check
+Revenue=t*Q(t). Lowering t reduces the levy per unit but can raise
+volume. The sign of Delta revenue is not universal without numbers.
+With inelastic demand and a small tax cut, volume changes little and
+revenue usually falls. Show both effects if the question
+does not allow numbers. A % VAT and a per-unit tax are not
+identical; E2025 explicitly allows treating VAT as per-unit.
+
+======================================================================
+8. MONOPOLY AND MONOPOLISTIC COMPETITION — L8
+======================================================================
+
+8.1 Single-price monopoly
+One firm faces the downward-sloping market demand.
+R(Q)=p(Q)*Q; MR=p(Q)+Q*p'(Q).
+pi(Q)=p(Q)*Q-C(Q); interior optimum MR=MC.
+Find Q with MR=MC, then find the PRICE on the DEMAND curve, not on MR.
+When selling more requires lowering the price of all units,
+MR<p for a strictly downward-sloping demand.
+Inverse demand p=a-bQ: R=aQ-bQ^2; MR=a-2bQ, twice as steep.
+Constant MC c, FC F: Qm=(a-c)/(2b), pm=(a+c)/2,
+pi=(a-c)^2/(4b)-F, if producing is profitable over the horizon considered.
+Efficiency without externality requires p_D=MC ->Qeff=(a-c)/b.
+DWL=b*(Qeff-Qm)^2/2=(pm-c)*(Qeff-Qm)/2.
+
+L8 p.8–11: p=12-Q, C=3+Q^2 ->MR12-2Q, MC2Q,
+Qm3,pm9,ATC4,profit15; Qeff4,p_eff8; DWL1.5.
+The high price transfers surplus on the units sold; the units
+not sold despite WTP>MC create the deadweight loss.
+A low absolute price is compatible with monopoly if MC is low and/or
+demand is elastic. Example of yeast E2023 Q1a.
+A monopoly has no supply curve independent of demand: MR
+depends on its shape, and the same price can correspond to various optimal
+quantities under various demands. Reference E2022 Q4c.
+
+8.2 Lerner: a derivation you must be able to explain
+epsilon_D=(dQ/dp)*(p/Q), so (dp/dQ)*(Q/p)=1/epsilon_D.
+MR=p+Q*p'=p*(1+1/epsilon_D).
+At MR=MC: (p-MC)/p=-1/epsilon_D.
+Lerner L=(p-MC)/p: markup RELATIVE to price, not total profit nor (p-MC)/MC.
+Large |epsilon| ->small relative markup; insensitive demand ->high markup.
+With MC>0, a single-price interior optimum lies on the elastic part,
+epsilon<-1; MC=0 can give epsilon=-1.
+A figure labelled "inelastic demand" in the materials may compare
+relative sensitivities; a monopoly with positive MC does not optimise at
+a strictly inelastic point. Lowering Q there would raise R and
+save costs.
+This relation concerns the FIRM's demand. In oligopoly, do not
+blindly substitute the market elasticity for the one the firm perceives.
+
+8.3 Barriers and natural monopoly
+Barriers: regulation/licence, patent, control of an essential input,
+economies of scale/natural monopoly, strategic behaviour.
+Natural monopoly: one firm can serve the market at lower cost than
+several, over the relevant range. Price=MC may not cover FC.
+Patent: static surplus loss versus incentives to invest/innovate,
+to be compared over time. E2024 Q2b does not ask you to deny the static DWL.
+The precise legal duration mentioned in an exercise is a given of
+the question, not a legal check by this dossier.
+
+8.4 Monopolistic competition
+Many firms, differentiated products, easy entry/exit; a firm
+faces a downward-sloping demand but usually ignores the reaction of any
+specific competitor. It chooses MR=MC.
+Short run: positive or negative profit possible.
+Positive profit ->entry ->demand per firm falls and often becomes
+more elastic ->zero economic profit in the symmetric LR model.
+Long run: p=ATC BUT p>MC; zero profit does not mean perfect competition.
+Typically output below the ATC-minimising quantity, "excess capacity".
+The number of firms and variety are part of the equilibrium.
+
+Negative demand shock ->initial losses ->exits ->demand of the survivors
+recovers ->zero profit restored. The number of firms falls; output
+per survivor has no universal sign without demand/cost functions.
+If the shock only changes market size in a standard model with
+constant optimal size, it can return to its previous level.
+Cost shock ->re-optimisation and entry/exit; in oligopoly with barriers,
+the zero-profit discipline of free entry does not apply in the same way.
+
+8.5 Heterogeneous firms
+More productive ->lower MC, often lower price, higher volume/market
+share. "Competitive reallocation": the efficient grow,
+the less efficient shrink/exit.
+Free entry can imply E[pi]=0 BEFORE a firm discovers its productivity,
+without imposing pi=0 for each firm once its type is known.
+L8 p.24, entry cost 20 and a fair die: realised profits
+28,16,4,-8,-20,-20; mean 0. For the worst draw, potential variable profit
+-12: the firm shuts down, limiting its loss to 20. This table distinguishes
+expected profit, realised profit and shutdown after a sunk entry cost.
+
+======================================================================
+9. DISCRIMINATION, SEGMENTATION, BUNDLING AND TARIFFS — L9
+======================================================================
+
+9.1 Conditions and three degrees
+Discrimination: different units of the same good sold at different
+prices, for WTP reasons beyond mere cost differences.
+It requires market power and limiting resale/arbitrage; knowing how to sort
+customers, or offering them a menu that makes them sort themselves.
+A price difference due exclusively to cost does not on its own
+establish discrimination.
+
+First degree / perfect price discrimination: each unit is sold
+at its maximum WTP. Produce up to p_D=MC if there is no other distortion.
+CS0; PS captures all the variable surplus; DWL0 in this ideal model.
+Profit=PS-FC. High efficiency and a split very favourable to the seller.
+Requires very strong information and extraction, usually unrealistic.
+
+Third degree: OBSERVABLE groups, for example students, retirees,
+countries. Solve MR_i=MC for each group (or MC of the total if cost is not constant).
+With a common MC: (p_i-MC)/p_i=-1/epsilon_i.
+At the optimum, the group less sensitive in absolute value ->higher price.
+An observable status is not enough to prove that the discount raises
+profit: demand, capacity and opportunity cost must be considered.
+
+Second degree: unobservable type, SELF-SELECTION by quantity, quality,
+schedule, waiting, coupons, freemium, premium version or comfort.
+The seller wants type H to choose offer H and type L offer L.
+L9 examples: 1st/2nd class trains, books, bookings, freemium games.
+Degrading the economy version can stop H customers from abandoning
+the expensive version, even if this degradation saves no costs.
+
+9.2 IC and IR constraints
+Net utility of type i choosing menu j: V_i(B_j)-T_j.
+IC_H: V_H(B_H)-T_H >= V_H(B_L)-T_L.
+IC_L: V_L(B_L)-T_L >= V_L(B_H)-T_H.
+IR_i: V_i(B_i)-T_i >= outside utility (often normalised to 0).
+L9 p.20 mainly shows IC_H and IR_L, often binding in the usual
+model; the others must not be forgotten without justification.
+IC prevents choosing the "wrong" contract; IR prevents refusing every
+contract. Prices and qualities must be chosen simultaneously under these constraints.
+An information rent may have to be left to H customers.
+
+9.3 Segmentation versus a common price
+Segmented, p_i=a_i-b_i Q_i and constant MC=c:
+Q_i=(a_i-c)/(2b_i); p_i=(a_i+c)/2; compare with 0 if a_i<=c.
+Common price: Q(p)=sum_i max(0,(a_i-p)/b_i).
+Method: find all exclusion prices, write each segment,
+maximise (p-c)*Q(p) on each segment, check the boundaries,
+compare the profits. It may be optimal to serve only one group.
+Do not add inverse demands to obtain a common private demand.
+
+L9 Lowies p=1-Q_L/2, Highies p=2-Q_H, MC0:
+segmented QL1,pL0.5,piL0.5; QH1,pH1,piH1; pi_total1.5.
+Common, in the zone where both buy: Q=4-3p,
+p=2/3,Q2,pi4/3. Also check p>=1 where only Highies buy.
+Discrimination raises feasible profit, because the common price remains
+an option. Welfare and each group's CS have an AMBIGUOUS sign.
+Opening to an excluded group can improve W; a mere reallocation
+at unchanged quantity between different WTPs can lower it.
+The poorer country is not automatically the more elastic: check
+demand, instead of deducing prices from national income alone.
+Parallel imports/trade: buy in the cheap market and resell in the expensive
+market; this undermines segmentation.
+
+9.4 Bundling
+Pure bundling: only the bundle; mixed bundling: bundle AND separate purchases.
+Add up the same person's WTPs to find their bundle WTP,
+then count purchases at each candidate price. Compare PROFITS,
+so include costs and quantities sold, not just revenues.
+L9 p.22 and E2022 Q4d: two representative customers, costs not specified.
+Gourmet: dinner100, room50, bundle150; Snoozer: dinner80, room70,
+bundle150. With zero costs and one person of each type:
+dinner price80 sold2 ->160; room price50 sold2 ->100; total260.
+Bundle price150 sold2 ->300. The bundle extracts more from negatively
+correlated WTPs. Without given costs, this numerical result assumes zero costs or
+per-type/per-service costs that do not reverse the comparison.
+Example: very high real costs of one service can change the choice.
+
+9.5 Flat subscription and two-part tariff: an essential distinction
+Two-part tariff: payment T(q)=F+p*q.
+With a single known customer, constant marginal cost c and no extra
+constraint: usage price p=c, efficient quantity, F=CS(p=c).
+The seller extracts the surplus while giving an efficient marginal incentive.
+With heterogeneous types or a common F, p=c is not always optimal.
+FIXED price only: p=0; consumption up to marginal WTP 0,
+F=integral_0^q(0) p_D(x)dx; profit=F-C(q(0)). This is not the two-part
+solution when MC>0: excessive usage really costs.
+
+L9 p.23–25: p_D=10-Q, C=2Q.
+Simple monopoly Q4,p6,pi16.
+Two-part p2,Q8,F32,pi32.
+Subscription only p0,Q10,F50,cost20,pi30.
+F is revenue for the firm and an expense for the customer; do not
+confuse it with the fixed production cost, also often written F.
+
+9.6 Capacity and complementary products — E2025 Q1
+Capacity2000, 3000 fans WTP1200, 2000 students WTP500, MC0:
+filling with 2000 fans at 1200 gives 2 400 000 kr. No seat is available
+to add students without replacing a fan who pays more.
+Discrimination therefore cannot raise profit in this case.
+The physical marginal cost is 0, but the seat has an opportunity cost.
+
+Concert and T-shirts: maximise JOINT profit. A cheaper ticket
+can attract a buyer whose T-shirt purchases add margin.
+Qc=1000-pc, QT=Qc-2pT, MCc0,MCT20:
+pi=pc*(1000-pc)+(pT-20)*(1000-pc-2pT).
+FOC: 1020-2pc-pT=0; 1040-pc-4pT=0.
+pc=3040/7≈434.286; pT=1060/7≈151.429; Qc=3960/7≈565.714;
+QT=1840/7≈262.857. Ticket alone: pc500; complementary product ->lower pc.
+Check QT>=0 and the validity of the demands; here the optimum is interior.
+
+======================================================================
+10. OLIGOPOLY, COURNOT, BERTRAND AND STACKELBERG — L10
+======================================================================
+
+10.1 Choosing the right game
+Oligopoly: a small number of firms whose decisions directly affect each other.
+Cournot: quantities chosen simultaneously; homogeneous product in the base case.
+Bertrand: prices chosen simultaneously; state whether homogeneous or differentiated.
+Stackelberg: a leader chooses first, a follower observes and reacts.
+Nash: no firm gains by deviating UNILATERALLY, the other strategies
+being fixed. The intersection of best responses is a Nash equilibrium.
+A best response is a choice conditional on the rival, not a promise
+to hold that rival constant after every change to the model.
+
+10.2 Linear Cournot with two firms
+p=a-b(q1+q2), costs C_i=F_i+c_i*q_i.
+pi1=[a-b(q1+q2)-c1]*q1-F1.
+partial pi1/partial q1=a-2bq1-bq2-c1=0.
+BR1(q2)=max(0,(a-c1-bq2)/(2b)), BR2 likewise.
+If both are active:
+q1=(a-2c1+c2)/(3b), q2=(a-2c2+c1)/(3b),
+Q=(2a-c1-c2)/(3b), p=(a+c1+c2)/3.
+If a quantity is negative, solve the corner where that firm does not produce.
+Then compute pi_i=(p-c_i)q_i-F_i.
+Inside this linear model, p-c_i=bq_i ->variable profit=bq_i^2.
+Differences in unavoidable FC do not change these quantities; they change
+profits and can change entry/exit decisions.
+
+L10 example a70,b1,c1=c2=10: BR_i=30-q_j/2;
+q1=q2=20,Q40,p30,pi_i400 without FC.
+Joint monopoly Q30,p40; perfect competition Q60,p10.
+With MC Blue0, Red10: qBlue80/3≈26.667, qRed50/3≈16.667,
+p80/3≈26.667. The efficient firm takes more of the market; imposing equal
+shares can make production more expensive. Large shares do not on their own
+prove inefficiency.
+
+10.3 Cournot with n identical firms
+p=a-bQ, MCc: q_i=(a-c)/[b(n+1)],
+Q=n(a-c)/[b(n+1)], p=(a+n*c)/(n+1).
+Lerner=(p-c)/p=-(market share_i)/epsilon_market for this model,
+so under symmetry -1/(n*epsilon_market).
+As n grows: p tends to c, Q to the competitive quantity.
+A merger reducing n, without cost synergy: p rises; the non-merged firms
+often benefit from this reduced competition in this model.
+Do not generalise this result to every merger with changing costs/products.
+
+10.4 Drawing Cournot reactions
+Axes q1 horizontal/q2 vertical OR the reverse, but keep the same convention.
+If q1 is horizontal: BR2 is drawn directly as q2=f(q1), and BR1 must be
+rewritten q2=(a-c1)/b-2q1 in the interior zone.
+Both slope downward; intersection = Nash quantities.
+Cost c1 rises: BR1 changes, BR2 as a function of q1 does not change;
+the rival responds to the new equilibrium. A tax on both firms: shifts
+BOTH reactions towards lower output. This is E2022 Q3e.
+
+10.5 Stackelberg in quantities
+First solve BR_follower(qL), substitute it into the leader's profit,
+then differentiate with respect to qL. Do not treat qF as constant here.
+Symmetric case p=a-bQ, MCc, no capacity constraints:
+qL=(a-c)/(2b), qF=(a-c)/(4b), Q=3(a-c)/(4b), p=(a+3c)/4.
+The leader produces more and earns more than under Cournot; the follower produces less.
+Total Q rises, p falls. The result depends on the model's assumptions.
+L10 a70,c10: qL30,qF15,Q45,p25; profits 450 and 225.
+The Stackelberg equilibrium lies on the follower's reaction, usually not
+on the leader's Cournot reaction, which holds the rival's quantity fixed.
+
+10.6 Homogeneous Bertrand
+Perfectly substitutable products, same constant MC, sufficient capacity,
+customers buying from the cheapest: with two or more firms, p=MC.
+If p>MC, undercutting slightly can capture the market; p<MC loses
+money on each unit. Lerner0 for p=MC>0.
+Limited capacity, differentiation, search or repetition can change
+the result; the number of firms alone does not determine the markup.
+Different costs: the lowest-cost firm can keep a markup by
+limiting its price by the cost of the most efficient competitor.
+E2024 MC5,7,8 and p_D10-Q: limit price around 7, often written 7-epsilon.
+The monopoly price without a competitor would be 7.5, so the rival's constraint
+is relevant. With continuous prices, existence/tie-breaking need precision:
+price exactly 7 if there is a suitable rule allocating to the efficient producer;
+with equal sharing at a tie, the approximation of slight undercutting is
+more accurate than claiming a pure equilibrium at 7.
+
+10.7 Differentiated Bertrand
+Demand q_i=A-B*p_i+D*p_j, B>0,D>=0, MCc_i.
+pi_i=(p_i-c_i)*(A-Bp_i+Dp_j)-F_i.
+FOC: A-2Bp_i+Dp_j+B*c_i=0.
+BR_i(p_j)=(A+B*c_i+D*p_j)/(2B).
+Upward-sloping reactions for substitutes: prices are strategic complements.
+Under symmetry: p=(A+B*c)/(2B-D), if domain/concavity are admissible.
+Quantity via the DEMAND; profit=(p-c)q-F.
+L10 A85,B1,D0.5,c11 ->p64,q53,pi2809 without FC.
+E2025 A10,B2,D1: p=(10+2c)/3.
+c2 ->p14/3; c1 ->p4. Cost falls by 1 ->price falls by 2/3.
+Do not apply competitive pass-through to this market structure.
+
+10.8 Price leadership
+Substitute the follower's PRICE reaction into the leader's demand,
+before maximising its profit. Not the Stackelberg quantity formula.
+E2024 Q4c/d: q1=6-2p1+p2, q2=6-2p2+p1; no cost is specified.
+Under the explicit assumption MC=FC=0: simultaneous p1=p2=2, q1=q2=4, pi_i8.
+If firm2 leads: p1=(6+p2)/4; demand2=7.5-1.75p2;
+p2=15/7≈2.143, p1=57/28≈2.036; pi2=225/28≈8.036,
+pi1=3249/392≈8.288. BOTH gain here; the follower gains more.
+The "first-mover advantage" in quantities is not a universal law
+for all games, especially when prices are complements.
+======================================================================
+11. EXTERNALITIES, POLLUTION, PUBLIC GOODS AND COMMONS — L11
+======================================================================
+
+11.1 Private, external, social
+Externality: an effect on a third party, not taken into account in the transaction.
+Negative: pollution, noise; positive: vaccination, research, network.
+MPC / PMC = marginal private cost.
+MEC = marginal external cost, the additional DAMAGE.
+MSC / SMC = marginal social cost = MPC+MEC.
+MPB / PMB = marginal private benefit.
+MEB = marginal external benefit, the additional external benefit.
+MSB / SMB = marginal social benefit = MPB+MEB.
+The notation MC_p and MC_e in E2024 means MPC and MEC respectively.
+MEC(Q) is a MARGINAL cost; TOTAL external cost is its integral,
+not MEC(Q) itself. If MEC is constant e, total damage=eQ.
+If MEC(Q)=Q, total damage=Q^2/2, not Q^2.
+
+Private competitive equilibrium: MPB=MPC.
+Social optimum: MSB=MSC.
+Negative production externality alone: demand=MPB=MSB and supply=MPC;
+the market produces too much. Positive consumption externality alone:
+demand=MPB, MSB above it; the market produces too little.
+The universal rule is MSB=MSC; the production/consumption distinction
+determines which side of the graph to adjust.
+
+11.2 Measuring W and DWL
+W(Q)=integral_0^Q [MSB(q)-MSC(q)]dq, minus relevant real fixed costs.
+DWL=W(Qeff)-W(Qobserved): area between MSB and MSC over the gap interval.
+With a negative externality: W=CS+PS+tax revenue-total external damage.
+With a positive one: W=CS+PS-subsidy spending+total external benefit.
+The tax/subsidy is a transfer; damages/benefits are real effects
+on third parties. The "societal producer surplus" of L11 includes
+third-party damages; it differs from the private PS of the firms alone.
+
+L11 p.5–8 and E2023: MPB=100-Q,MPC=10+Q,MEC=Q,MSC=10+2Q.
+Private: Q45,p55. Social: Q30,MPB70,MPC40,MEC30.
+Unregulated DWL=0.5*(45-30)*45=337.5.
+At Q45: MSC100,MSB55; height 45. At the social optimum, a buyer price 70 and a
+seller price 40 can be linked by the optimal tax 30.
+
+11.3 Pigou and imperfect intervention
+Corrective tax t*=MEC(Qeff), for a negative externality
+not already internalised and an otherwise competitive market.
+Corrective subsidy s*=MEB(Qeff), the analogous positive case.
+Evaluate the marginal value at the EFFICIENT QUANTITY, not automatically
+at the initial quantity. If the externality depends on Q, t* is not arbitrary.
+A tax can reduce a pre-existing DWL. An excessive subsidy can
+overshoot Qeff and recreate a DWL. Always compare with the social optimum, not the private one.
+
+Negative example above, tax 20: 100-Q=10+Q+20 ->Q35,
+p_b65,p_s45. Q stays above 30: DWL=0.5*5*15=37.5.
+Optimal tax 30 ->Q30,DWL0 in this model.
+E2024 textiles: demand200-Q,MPC80+Q,MECQ ->Qpriv60,Qeff40,
+DWL0.5*20*60=600; optimal tax 40.
+A6 solar: MPB100-3Q,MPC10+2Q,MEB20 ->Qpriv18,p46,
+MSB120-3Q ->Qeff22, subsidy 20; uncorrected DWL40.
+Buyer price at Q22=34; seller 54; gap 20.
+
+11.4 Pollution and abatement: look at the horizontal axis
+MAC=marginal abatement cost, the marginal cost of reducing pollution.
+If the axis is ABATEMENT a: MAC often rises as a rises.
+If the axis is remaining POLLUTION e: the MAC of the next reduction is
+often decreasing in e. The two graphs are compatible.
+Optimum: cost of reducing one unit = damage of that unit, MAC=MEC.
+Emissions tax: the firm chooses MAC=t; optimal tax=MEC at the optimum.
+L11 p.13: on the pollution axis Q, MAC=10-Q, MEC=Q/2.
+Without tax Q10; tax 2 ->MAC2 ->Q8, MEC4. This is not the optimum:
+optimum Q=20/3≈6.667, tax 10/3≈3.333.
+A tax per unit of OUTPUT is equivalent to a tax per unit of EMISSION only if
+emission per unit is fixed; otherwise taxing emissions directly can
+also encourage cleaner technology.
+
+11.5 Quotas, permits and uncertainty
+Quota: fixes a quantity of emissions. Tax: fixes the price of polluting.
+Tradable permits: a total cap and transferable rights.
+If MAC_L<MAC_H at the initial allocation, L abates more and sells
+permits; H buys and abates less. There is a gain as long as MACs differ.
+At an interior solution, MAC_L=MAC_H=permit price: the same cap reached at
+minimum cost. The initial allocation affects rents, not necessarily
+the efficient final allocation under frictionless trading.
+An identical quota per firm does not generally minimise total cost.
+
+E2021 Q1d, "prices versus quantities" complement: uncertain abatement
+costs and very steep marginal damages ->a quota/cap protects better
+against a large error in the quantity of emissions. Relatively flat marginal
+damages and steep MAC ->a tax can better avoid an excessive cost
+of complying with the quota. An argument about RELATIVE slopes around the optimum,
+not a rule "quotas are always better". Draw two possible MACs.
+
+11.6 Coase and property rights
+Well-defined rights and costless bargaining ->the parties can negotiate
+an efficient quantity, whatever the initial allocation of rights,
+under the theorem's assumptions. The allocation changes who pays and incomes.
+Intuition: gains from an agreement when reducing the damage is worth more
+than the profit it costs; bargain until the gain disappears.
+Transaction costs: time, contracts, monitoring, a large number of parties,
+free riders, coordination and social norms. They can block
+agreements. Uncertain rights ->the theorem's condition is not met.
+Bringing polluter and victim under one owner can internalise
+the effect, but an owner who becomes a monopolist can introduce another
+distortion; do not automatically conclude the socially optimal
+competitive quantity. E2024 Q3d and E2025 Q1c.
+
+11.7 Four categories of goods
+Excludable: access can be prevented. Rival: one person's use
+reduces the possibilities of others.
+                       Excludable                 Non-excludable
+Rival                  Private good               Common resource
+Non-rival              Club good                  Pure public good
+Private: sandwich. Club: uncongested subscription/service.
+Common: open-access fishery; spectrum with interference (E2023).
+Public: defence, disseminated basic research, street cleaning
+in the exercise's model. Congestion and access rules can
+change the classification. A road/tunnel is not always a pure public
+good: tolls are possible and there is rivalry when congested.
+
+11.8 Public good: VERTICAL summation
+Everyone benefits from the same Q. MB_social(Q)=sum_i max(0,MB_i(Q)).
+Interior optimum: sum MB_i=MC, the Samuelson condition (standard name,
+not necessarily used in the slides).
+Truncate each negative WTP at 0 if the good is simply not wanted beyond
+a quantity; if the good really does harm, the model changes.
+Identify the thresholds where each MB reaches zero, then check the segment.
+Free rider: benefiting even without paying ->incentive to under-contribute and
+to under-reveal one's WTP. Voluntary provision is usually insufficient,
+not necessarily zero. Compulsory taxes/norms can help.
+
+L11 p.25: MB_L=10-h, MB_H=20-h.
+For h<=10: sum 30-2h. MC26 ->h2; MC14 ->h8.
+At MC14, H alone would fund h6, below the collective optimum 8.
+At MC26, no individual alone funds anything even though h2 is collectively useful.
+E2024 tunnel: MB1=10-Q,MB2=5-Q,MB3=10-2Q,MC9.
+On Q<=5, sum 25-4Q; Qeff4, all WTPs positive at 4.
+E2025/A6 cleaning: MB15-Q,12-Q,9-Q; sum 36-3Q; MC27 ->Qeff3.
+E2022 wifi: 300 people MB10-Q; 300(10-Q)=1500 ->Qeff5.
+Do not write Q=300(10-p) for this public good: each person consumes
+the SAME speed, not an individual fraction of the speed.
+
+11.9 Common resource and open access
+Each user imposes on others a scarcity/congestion they ignore.
+Tragedy of the commons: overuse, not a lack of value of the resource.
+L11 fishery example: average revenue per boat vs individual cost; entry
+until average revenue=cost, whereas the optimum uses the SOCIAL marginal
+product of an extra boat. The total catch can deteriorate
+with too many boats. Do not use MP and AP as synonyms.
+Solutions: property rights, quantity restrictions, permits,
+fees, local rules and norms in repeated interactions.
+Free rider of the public good = under-contribution; commons = overexploitation.
+
+======================================================================
+12. ASYMMETRIC INFORMATION, CONTRACTS AND INCENTIVES — L12
+======================================================================
+
+12.1 Identifying what is hidden
+Asymmetric information: one party knows something the other does not.
+Adverse selection: private TYPE/quality/risk, often before the contract.
+Moral hazard: private ACTION/effort, often after the contract.
+The presence of risk alone is not an information asymmetry.
+The central diagnosis: who knows what, at what moment, and which choice does it affect?
+
+12.2 Lemons / adverse selection
+L12 cars: the buyer values high quality at 150, low at 50; the seller
+high 130, low 30; initially the probability of high is 0.5.
+Observable quality: trades possible in [130,150] and [30,50].
+Quality unknown to EVERYONE: average WTP 100, average seller reservation 80;
+trades between 80 and 100 possible under the model's risk neutrality.
+Only the seller informed: an average price of 100 does not make good cars sell
+(reservation 130). They leave; average quality falls; buyers revise
+their WTP; the high-end market can disappear despite potential gains.
+Beliefs must be CONSISTENT with the sellers who remain at the offered price.
+
+L12 driving-licence insurance: those who expect to fail more
+may buy more, so the insured's risk exceeds the 52% average
+under adverse selection; the contract can also change effort (moral hazard).
+Reputation, warranties, certification, quality rules, the right of return,
+shared information, group contracts and compulsory insurance can
+reduce adverse selection; their effectiveness depends on the mechanism.
+E2020 Klarna, E2023 customer reviews, E2024 wine standards: a certification
+or collective reputation can allow small brands to guarantee
+their quality and reduce the informational advantage of large brands.
+
+12.3 Screening and signalling
+Screening: the LESS informed party collects/tests/structures a menu to
+learn the type. Signalling: the INFORMED party takes an observable
+action to reveal its type.
+A credible signal must be costly enough to imitate for the bad
+type, relative to the benefit obtained; "costly" alone is not enough.
+L12 education: wage 100 with a degree, 60 without; cost C_A<C_S.
+Separation if 100-C_A>60 and 100-C_S<60, so C_A<40<C_S.
+At equalities, types may be indifferent; specify the selection.
+Pooling: types choose the same signal; separating: different signals.
+A degree's signalling value does not prove that it creates no skills.
+
+12.4 Principal-agent and risk sharing
+The principal offers the contract; the agent chooses an effort that is not perfectly
+observable. The outcome depends on effort AND on shocks.
+Rewarding the outcome gives incentives but exposes the agent to risk.
+Fixed wage: weak monetary incentive to effort if effort is costly.
+Revenue sharing: the agent keeps part of the gain from effort and of the risk.
+The agent pays a fixed fee and keeps the revenue: strong incentives
+at the margin, but the agent bears the risk. Franchise/business lease.
+Risk, limited liability and wealth can make this contract difficult.
+
+L12 p.13–15, verified table: probability 0.5 bad/good state.
+Effort H, private cost 10: revenues 40 or 100 ->expected revenue 70,
+total net surplus 60. Effort L, cost 0: revenues 20 or 40 ->expectation 30.
+Fixed wage w independent of revenue: the agent prefers L; receives w,
+the owner receives 30-w; the owner bears the revenue risk.
+50/50 sharing: H gives the agent 0.5*70-10=25, the owner 35;
+L gives the agent 15 ->H chosen. Risk shared.
+Fixed fee F to the owner, the agent keeps the revenue: H gives the agent 60-F,
+the owner F; L 30-F ->H. The agent bears the revenue risk.
+Participation also requires the agent to prefer the contract to their
+outside option; a good incentive is not enough to get the contract accepted.
+
+12.5 Credit with hidden action: general method
+The project costs I0, revenue R if it succeeds, 0 otherwise. Loan D, repayment Bk
+only if it succeeds, limited liability. Success p_H with effort
+H and p_L with L, p_H>p_L. L yields a private benefit b.
+Entrepreneur's utility/expectation under H=p_H*(R-Bk).
+Entrepreneur's utility under L=p_L*(R-Bk)+b.
+If own funds A are invested up front, subtract A in BOTH cases
+when measuring the net gain from before investment; it cancels out
+in the effort comparison for a given contract.
+IC_H: (p_H-p_L)*(R-Bk)>=b.
+Bank's expected profit=p_chosen*Bk-D, with bank rates/costs normalised to 0.
+Financing requires bank profit>=0 AND the H incentive if the calculation relies on H,
+as well as the entrepreneur's participation given their outside option.
+A repayment that is too high can destroy effort, lower p and reduce the
+EXPECTED repayment despite a higher nominal repayment.
+
+A6/E2023: R40,pH0.8,pL0.4,D20,Bk30.
+H8; L4+b. b2 ->H8>L6, bank 24-20=4.
+b6 ->L10>H8, bank 12-20=-8.
+Own funds 10, D10,Bk15: H20; L10+b=12 or 16 ->H for b2 AND b6;
+bank 12-10=2 in both cases. After deducting own funds, the entrepreneur's
+gain under H is 10; do not deduct own funds for one effort only.
+Condition without own funds: Bk<=40-b/0.4. For b6, Bk<=25; the bank
+at effort H requires Bk>=20/0.8=25. At equality, effort is indifferent.
+
+12.6 Contracts, monitoring and penalty
+E2025 cleaning: payment 110; high-quality cost 100; low 70.
+Profit H 10; profit L 40-0.5*F. H at least as good if F>=60.
+F=60 gives indifference; F>60 makes H strictly preferred.
+Formula: minimum penalty=(private cost saving)/(probability of detection),
+if the penalty is payable, the agent is risk-neutral and the contract has no other effect.
+The payment of 110 cancels out in the comparison; it matters for participation.
+
+Carpenter E2022: a fixed fee encourages saving time/cost, but risks
+sacrificing hidden quality; hourly pay protects against the risk of
+duration but can encourage stretching the hours. Many other customers
+raise the opportunity cost of time and can limit this incentive.
+Tipping E2023: the customer observes service quality better than the boss;
+a tip can give the waiter a link between quality and pay.
+Insurance deductible: the insured bears part of the cost and
+keeps an incentive to avoid the loss; an insurance/incentive trade-off.
+Private equity: monitoring, information and involvement can reduce
+some hidden-action problems; do not automatically conflate
+bank financing and equity financing.
+
+12.7 Asymmetric bonus: do not assume the diagnosis before calculating
+E2020 Q4d: A yields 100 with 0.75 and 80 with 0.25 ->E profit 95.
+B yields 400 with 0.75 and -160 with 0.25 ->E profit 260.
+Bonus 1% of positive profits, 0 if a loss: expectation 0.95 for A, 3 for B.
+The manager prefers B, and B also maximises gross expected profit here;
+net of the bonus, 94.05 versus 257. On these data alone and under risk
+neutrality, the bonus creates no conflict over the A/B choice. A convex
+payment can favour excessive risk with OTHER numbers, but
+this question does not show it. Be careful if bankruptcy constraints
+or risk preferences are added: they are not quantified here.
+
+======================================================================
+13. GAME THEORY IN ASSIGNMENT 3
+======================================================================
+
+13.1 Solving a matrix
+A pure strategy is a determined choice. A strategy in a sequential
+game describes the action at EVERY possible node, even off the path played.
+In a matrix: first payoff for the row player, second for the column player.
+For each column, mark the row player's best responses; for each
+row, the column player's. A doubly marked cell is a pure Nash equilibrium.
+There can be several, including with indifferences.
+Dominant: optimal whatever the rivals' actions; strictly
+dominant if always strictly better. An equilibrium can be
+inefficient: no unilateral gain does not imply maximal collective gain.
+
+13.2 Golden Balls — data A3 p.1, matrix checked visually
+              Colin S          Colin N
+Rowena S      (10,10)           (0,20)
+Rowena N      (20,0)            (0,0)
+S=Split, N=Steal in the file; the symbol N is not universal.
+Selfish: N is weakly dominant; pure Nash (S,N),(N,S),(N,N).
+Envy: subtract 1 from one's utility if the other receives more.
+SS(10,10), SN(-1,20), NS(20,-1), NN(0,0) ->only Nash NN.
+Equal altruism: u_i=money_i+money_j.
+SS gives utilities (20,20), SN(20,20), NS(20,20), NN(0,0).
+Pure Nash SS,SN,NS. NN is NOT one: deviating to S against N gives 20
+instead of 0. The personal answer "SS and NN" in A3.1c is wrong.
+Double altruism: u_i=money_i+2*money_j.
+SS(30,30), SN(40,20), NS(20,40), NN(0,0) ->S strictly dominant,
+only Nash SS. Different preferences ->a different game in utilities.
+These lists concern PURE strategies; do not present them as
+a complete classification of all mixed equilibria.
+Complement for classifying all Nash equilibria of this matrix:
+let x be the probability that Rowena chooses S, y that Colin chooses S.
+Selfish: equilibria if x=0 OR y=0; the other can mix arbitrarily.
+Envy: x=y=0 only. Equal altruism: x=1 OR y=1; the other can
+mix arbitrarily. Double altruism: x=y=1 only.
+At the values 0/1 we recover exactly the pure Nash equilibria above.
+
+13.3 Arms and oil: backward induction
+Oil pool 6; arms cost X1,Y3. If only one is armed, split 5/1; if neither,
+3/3; if both are armed, no oil but the costs are paid.
+Net payoffs (X,Y): neither armed (3,3), X alone (4,1), Y alone (1,2), both (-1,-3).
+X moves first: Y chooses not to arm after X arms (1>-3).
+If X does not arm, Y compares Y armed 2 with Y unarmed 3 ->also does not arm.
+So Y's complete strategy: do not arm after each of X's actions.
+X compares arming 4 and not arming 3 ->arms; outcome (4,1).
+Y moves first: X chooses not to arm after Y arms (1>-1), and
+to arm after Y does not arm (4>3). Y compares arming 2 and not arming 1 ->arms;
+outcome (1,2). The follower X would stay unarmed against an armed Y, unlike
+an answer that confuses its payoff 1 with its arming cost.
+A SPNE also specifies off-path reactions, not just the outcome.
+
+13.4 Peace/war coordination — A3 p.3
+                 Y peace      Y war
+X peace          (9,9)        (0,8)
+X war            (8,0)        (7,7)
+Pure Nash peace/peace and war/war. Peace/peace Pareto-dominates.
+Fear of the other and beliefs can make war/war plausible,
+but payoffs alone do not select a unique simultaneous outcome.
+If X moves first: Y answers peace to peace (9>8), war to war (7>0).
+X anticipates 9 versus 7 ->peace; outcome peace/peace, SPNE by induction.
+Communication can coordinate beliefs; non-binding cheap talk
+does not necessarily change incentives.
+
+13.5 Commitments and credible threats — A3.4
+To analyse a promised sanction: at the moment it should be
+carried out, does the one who promised still have an interest in honouring it?
+A public written text can impose reputational/political costs, without guaranteeing
+an irrevocable commitment. A military clause deters only if it
+changes incentives and/or makes intervention credible after the attack.
+The assignment's historical question serves as a theoretical application;
+this dossier does not claim to verify the document's diplomatic history.
+
+======================================================================
+14. TOPICS IN THE EXAMS WHOSE FULL LECTURES ARE MISSING
+======================================================================
+
+These topics must be revised because they appear in the
+exam questions. Their treatment here reconstructs the tools needed. The
+corresponding slides beyond L12 are not available in the dossier.
+
+14.1 Absolute and comparative advantage
+Absolute: fewer inputs needed per unit. Comparative: lower
+opportunity cost relative to the other good.
+If a_X hours/unit of X and a_Y hours/unit of Y: opportunity cost of X
+in Y =a_X/a_Y. Do not invert this ratio when switching from hours to quantities.
+Two countries can gain from trade even if one is more productive in
+EVERYTHING. A relative trading price lying between their opportunity costs ->
+possible gains. Demand/capacity constraints limit specialisation.
+Linear PPF: a_X*X+a_Y*Y=Lbar; intercepts Lbar/a_X and Lbar/a_Y,
+slope dY/dX=-a_X/a_Y. Curved PPF under other technologies.
+
+E2025: Northland wheat 3h, electronics 6h; Southland wheat 4h, electronics 2h.
+Southland has the absolute advantage in electronics; Northland the comparative advantage in wheat
+(0.5 electronics/wheat versus 2). With 120h:
+North PPF: 3W+6E=120, intercepts W40,E20; South: 4W+2E=120, W30,E60.
+Trading 1 electronics for a quantity of wheat between 0.5 and 2, or equivalently
+1 wheat for electronics between 0.5 and 2 here, allows potential gains.
+Careful: the numerical symmetry of these intervals is specific to these numbers.
+
+14.2 Small country, free trade and tariff
+World price pw given; domestic price=pw under free trade and with no
+other relevant cost. Imports M=QD(pw)-QS(pw)>0.
+Unit tariff tau, the country remaining an importer: p_dom=pw+tau.
+QD falls, QS rises, M falls. CS falls, domestic PS rises,
+the state receives tau*M. NATIONAL welfare=CS+PS+revenue; spending on
+foreign exporters does not become domestic national surplus.
+DWL=triangle of inefficient production+triangle of lost consumption.
+Linear: DWL=0.5*tau*[(QS1-QS0)+(QD0-QD1)].
+If the tariff exceeds the gap between the autarky price and pw, it is prohibitive:
+the domestic price reaches autarky, M0, do not apply pw+tau blindly.
+The large-country case/effect on the world price is not the benchmark above.
+
+E2022: pD80-Q,pS20+Q,pw30 ->QD50,QS10,M40.
+Tariff 10 ->p40,QD40,QS20,M20; CS1250->800,PS50->200,
+revenue 200,DWL100. Check -450+150+200=-100.
+E2025 steel: see figures and unit conversion in section 16.
+
+14.3 Specific factors and distribution
+Capital specific to manufacturing, land specific to agriculture,
+mobile labour. Each sector hires according to p_j*MP_Lj=w; mobility
+equalises wages, under the model's competitive assumptions.
+The agricultural price falls ->the value of the agricultural marginal product falls ->
+labour leaves agriculture ->land income falls; capital in
+the other sector can gain from the inflow of labour. The effect on labour's real wage
+depends on the basket consumed and on both prices.
+Food-importing country (E2020): a lower import price improves
+its terms of trade and can raise aggregate welfare, despite losses
+for landowners. Agricultural exporting country (E2025): a lower price
+received worsens the terms of trade and hurts landowners.
+PPF graph: production where relative price=MRT in absolute value; trade
+budget line tangent to the PPF; consumption on an indifference curve reachable
+with this budget. Production and consumption can differ thanks to trade.
+Do not take the aggregate gain as proof that every group gains.
+
+14.4 Platforms and network effects
+Platform: facilitates interaction between groups (renters/owners,
+audience/artists, buyers/sellers). Its value depends on the participants and
+on the matching rules, not just on a digital catalogue.
+Direct network effect: more users on the same side raise the
+value for a user, e.g. a multiplayer game.
+Indirect/cross effect: more of one side attracts the other, e.g. artists/audience.
+Chicken-and-egg: without owners few renters, without renters few
+owners. Subsidising one side or freemium can help get started.
+Freemium can simultaneously sort WTPs AND build a user base.
+Other ingredients: trust, reviews, payment, guarantee, transaction
+security, matching liquidity, low friction, rules and quality.
+Multi-homing: using several platforms. Single-homing: only one.
+Easy multi-homing lowers an entrant's cost of reaching customers
+already present elsewhere; exclusivity and switching costs can strengthen
+barriers. Network effects can favour concentration/tipping;
+they do not prove that every digital market is a natural monopoly.
+E2022 Q1d sports rental, E2025 Q1a/b concerts.
+
+14.5 Auctions and public procurement
+Vickrey: sealed-bid second-price auction, sale of one object, independent private
+values in the base model. Everyone has a weakly dominant incentive
+to bid their value: the bid determines whether they win, the price is set by the
+others. The highest value wins and pays the second-highest bid.
+E2023 values 80,100,92 million ->player 2 wins, pays 92 million.
+Overbidding can mean winning at a price above one's value; underbidding
+can mean losing a profitable trade.
+Reverse second-price procurement: the lowest cost/bid wins, receives
+the second-lowest bid, assuming the same quality and private data.
+E2025 costs 20 000,24 000,28 000 ->A wins and receives 24 000.
+
+Common value / uncertain common cost: bids can reveal
+information about the same value or the same cost. Winner's curse: winning
+may mean having been the most optimistic; a rational bidder takes
+this selection into account. In procurement, there is a risk of underestimating
+the cost and winning a loss-making contract ->revise the bid upwards
+relative to a naive estimate, if private signals are correlated.
+E2025 specifies a common weather shock without specifying private information.
+If everyone has exactly the same public distribution and no private
+signal, the common shock alone does NOT prove an informational winner's curse.
+The rule "bid your certain cost" does not carry over mechanically;
+signals, risk aversion and contractual exposure must be specified.
+
+14.6 Edgeworth and Pareto efficiency — E2021 Q4e
+Edgeworth box: dimensions = total endowments of the two goods;
+opposite origins for the two consumers. An allocation determines
+each person's consumption, the totals being fixed.
+Pareto improvement: at least one better off, nobody worse off.
+Pareto efficient: no such improvement is feasible.
+Gains from trade if their MRS differ, with goods available.
+Under smooth preferences and an interior optimum: MRS_A=MRS_B; but with
+perfect substitutes, efficient allocations are often on the edges.
+
+E2021: totals 20 drinks D and 20 snacks S; each endowed with (10,10).
+Christina U_C=D_C+S_C; Sebastian U_S=D_S+2S_S, as he gives up 2 drinks
+for 1 snack. Sebastian values snacks relatively more.
+Beneficial trade: Sebastian gives drinks for snacks, at a price
+between 1 and 2 drinks/snack. In Sebastian's coordinates (D,S), initial utility 30,
+Christina's initial 20; weak gains for both if D+2S>=30 and D+S<=20,
+inside the box, with at least one strict inequality for a real gain.
+Efficient allocations: Sebastian has no drinks left (D=0), OR he owns
+all the snacks (S=20); otherwise a marginal trade improves both.
+Among the allocations reachable without loss from the endowment,
+the efficient segment D=0,15<=S<=20 satisfies both constraints.
+======================================================================
+15. ASSIGNMENTS: RECOMPUTED REFERENCE RESULTS
+======================================================================
+
+The calculations below are reconstructed from the QUESTIONS, not validated by an
+official marking scheme. The handwritten pages were used to identify the approaches
+and to spot the pitfalls; they do not replace the solution.
+
+A2 — ELASTICITIES AND THE CONSUMER, S02 p.1–3
+2.1 Petrol, epsilon_SR=-0.25,epsilon_LR=-0.60.
+a) Price +5% ->quantity about -1.25% in the short run, -3% in the long run.
+   Possible adjustments: trips, public transport, vehicle, place of residence.
+b) Target -15% LR ->%Delta p=(-15)/(-0.60)=+25%, using the proportional
+   method taught. If "constant elasticity at every price" is
+   read as Q=A*p^-0.6, exact calculation p1/p0=0.85^(-1/0.6),
+   i.e. about +31.11%. State the convention; 25% is the exercise's usual
+   linear approximation, not the exact solution for this function.
+
+2.2 I1200, p_L40,p_R120,U=L*R.
+Budget 40L+120R<=1200; L=30-3R with R horizontal, L vertical.
+Intercepts: L30,R10.
+Bundles from the question, including the duplicate actually printed:
+(15,5): spending 1200,U75, affordable.
+(20,4): spending 1280,U80, NOT affordable.
+(24,2): spending 1200,U48, affordable.
+(10,5): spending 1000,U50, affordable.
+(15,5) again: same values, do not invent a distinct fifth bundle.
+Preferred without constraint among the list: (20,4). Best affordable:
+(15,5), also the global optimum of U=LR under this budget.
+Tangency with R horizontal: MU_R/MU_L=L/R=p_R/p_L=3; budget ->R5,L15.
+After p_R rises to 150 and R4 is bought: L=(1200-600)/40=15,U60.
+New budget L=30-3.75R, Rmax8; income I remains 1200.
+Here (15,4) is also the new global optimum: spending 600/600.
+Utility falls 75->60; do not say nominal income has fallen.
+
+A3 — GAMES, S01 p.1–4
+3.1 Golden Balls: corrected matrices and Nash equilibria in section 13.2.
+3.2 Oil/arms: net payoffs and both move orders in section 13.3.
+3.3 Peace/war: Nash PP and WW; sequential ->PP; simultaneous not unique.
+3.4 Commitment: credible threat, reputational cost, incentive to carry out
+the sanction once the aggression has happened. Do not treat the signature
+as an automatically binding commitment in the game.
+
+A4 — MONOPOLY, TAX/SUBSIDY, ENTRY, S03 p.1–5
+4.1 Matches, p30-Q,C5Q.
+MR30-2Q=MC5 ->Qm12.5,pm17.5,pi156.25.
+CS=(30-17.5)*12.5/2=78.125; PS=(17.5-5)*12.5=156.25.
+Qeff25; DWL=(25-12.5)*(17.5-5)/2=78.125.
+Sketch: demand, MR, horizontal MC at 5; Qm where MR=MC, pm on demand;
+CS triangle under demand/above 17.5, PS rectangle 17.5–5;
+DWL between Q12.5 and 25, demand above MC.
+
+4.2 Wine, pD20-Q,pS5+Q.
+No policy: Q7.5,p12.5; CS=PS=28.125,W56.25.
+Tax 3: 20-Q=5+Q+3 ->Q6,p_b14,p_s11,T18.
+CS18,PS18,W54,DWL2.25.
+Subsidy 3 instead: 5+Q=20-Q+3 ->Q9,p_b11,p_s14,
+spending 27; CS40.5,PS40.5,W54,DWL2.25.
+Draw the vertical wedge 3 at the traded quantity; with a subsidy,
+the seller price is ABOVE the buyer price.
+
+4.3 Caffeinia, p70-Q-2n,C30Q+100.
+For fixed n: pi=(40-2n)Q-Q^2-100; MR70-2n-2Q=30,
+Q*=20-n, p*=50-n, pi=(20-n)^2-100 for a positive solution.
+n1: Q19,p49,pi261. The -2n term also applies with a single café.
+n10: Q10,p40,pi0.
+FC falls 100->25: quantity/price do not change IMMEDIATELY for given n;
+profits rise by 75. Entry ->n rises, demand per café falls,
+Q and p fall until pi0. In this exercise's exact form:
+Q_LR=sqrt(25)=5,n15,p35. This calculation completes the qualitative question.
+
+A5 — DISCRIMINATION AND COURNOT, S04 p.1–6
+5.1 Identifiable: the Apple Music student price in the assignment's example.
+Self-selection: Uber ride versions, comfort/quality. To establish
+discrimination, check that the gaps do not merely reflect
+different costs. These are the assignment's examples, not a survey
+of the companies' current prices.
+
+5.2 pA20-QA,pB30-2QB,MC5, FC not given, taken as 0.
+Segmented: MRA20-2QA=5 ->QA7.5,pA12.5,piA56.25,CSA28.125.
+MRB30-4QB=5 ->QB6.25,pB17.5,piB78.125,CSB39.0625.
+Total profit 134.375; total quantity 13.75.
+Common price:
+Q(p)=0 if p>=30; Q=(30-p)/2 if 20<=p<30;
+Q=(20-p)+(30-p)/2=35-1.5p if 0<=p<20.
+On the common segment: pi=(p-5)(35-1.5p), FOC 42.5-3p=0.
+p=85/6≈14.1667; QA35/6≈5.8333; QB95/12≈7.9167;
+Qtotal13.75; profit 3025/24≈126.0417.
+The monopoly candidate "B only" at price 17.5 does not belong to the
+segment p>=20; check its boundaries, it does not beat this common candidate.
+Under the common price: CSA≈17.0139,CSB≈62.6736,PSA≈53.4722,PSB≈72.5694.
+Segmentation minus common price:
+A: CS+11.1111,PS+2.7778,W+13.8889.
+B: CS-23.6111,PS+5.5556,W-18.0556.
+Total: profit+8.3333,CS-12.5,W-4.1667.
+Total quantity is identical, but the allocation is less efficient:
+at the margin, WTPs differ across markets. So "same Q ->same W" is false.
+
+5.3 Copper, p90-Q,MC30,FC0, Q=q1+q2.
+pi1=(60-q1-q2)q1; BR1=30-q2/2, BR2=30-q1/2.
+Intersection q1=q2=20; Q40,p50,pi_i(50-30)*20=400.
+Do not put Qtotal40 into a single firm's cost function.
+
+A6 — PUBLIC GOOD, CREDIT, POSITIVE EXTERNALITY, S05 p.1–5
+6.1 Cleaning: public in the model, MB15-Q,12-Q,9-Q,MC27.
+Sum 36-3Q=27 ->Q3. Individual WTPs at 3: 12,9,6, sum 27.
+The three curves are not added horizontally.
+6.2 Credit: H/L results, b2/b6 and own funds 10 in section 12.5.
+First write the ENTREPRENEUR's payoffs, then deduce the bank's
+risk. Computing only the bank repayments does not determine
+which action will actually be chosen.
+6.3 Solar: MPB100-3Q,MPC10+2Q,MEB20.
+Qpriv18,p46; MSB120-3Q; Qeff22; s*=20.
+DWL0.5*(22-18)*20=40.
+Without correction: CS486,PS324, external benefit 360,W1170.
+With correction: p_b34,p_s54,CS726,PS484, subsidy 440,
+external benefit 440,W1210. Check: social gain 40.
+
+======================================================================
+16. EXAMS: FULL MAP AND REFERENCE RESULTS
+======================================================================
+
+Each entry links the context to the method to recognise. The figures
+are recalculations, not official marking notes. Values are
+continuous unless stated; do not round quantities before the end.
+
+E2020 — S18, questions p.2–6
+Q1a Amazon/Klarna: adverse selection, reputation and information on
+quality/returns; a known intermediary can reduce the reputational advantage
+of a large platform entering the market.
+Q1b a single world price for a game: compare segmentation and a common price;
+the more sensitive group could pay less under segmentation, the other more;
+W ambiguous, a low-WTP market may not be served at the common price.
+Q1c free game with ads/purchases: self-selection, time/ads versus
+payment, different WTPs; no observable type needed.
+Q1d music, p20-Q,MC2,FC0: MR20-2Q=2 ->Q9,p11,pi81.
+Q1e fixed subscription only: p_usage0 ->Q20,F200,cost40,pi160.
+Compare with a two-part tariff, not asked: p_usage2,Q18,F162,pi162.
+The flat fee increases extraction; p_usage0 leads to consumption beyond
+the efficient 18. Do not answer 162 if the question imposes only a fixed fee.
+
+Q2a Esther data 1h/writing 2h, Abhijeet data 2h/writing 6h: Esther absolute in
+both; cost of writing 2 analyses for Esther, 3 for Abhijeet ->
+Esther writing, Abhijeet data by comparative advantage.
+Q2b public peace MB200-x and 100-x,MC150 ->300-2x=150 ->x75,
+in the segment where both MBs are positive. Draw the vertical sum.
+Q2c free rider: a country's benefit is not conditional on its contribution.
+Q2d UK exports clothing/imports food, specific factors: the food
+price falls ->land loses, capital can gain, production shifts
+towards clothing, possible higher consumption via better terms
+of trade. PPF, new price line and indifference curve; section 14.3.
+
+Q3a vaccines: pD100-Q,pS10+Q ->Q45,p55.
+Q3b definition/example: vaccination reduces the risk passed on to others.
+The paper repeats the letter b for the following numerical sub-question.
+Q3b numerical: MEB20 ->MSB120-Q, social 120-Q=10+Q ->Q55.
+Uncorrected DWL 0.5*10*20=100.
+Q3c subsidy 30: 10+Q=100-Q+30 ->Q60,p_b40,p_s70.
+Subsidy above the optimum 20; excess relative to Q55 ->
+DWL0.5*5*10=25. Use MSB and MSC, not just the old Q45.
+
+Q4a homogeneous Cournot/Bertrand: Nash in quantities ->positive markup;
+Nash in prices with the same MC/capacity ->pMC,Lerner0; explain undercutting.
+Q4b cement Opet MC0,Siren MC2,p10-qO-qS: qO4,qS2,p4,
+piO16,piS4. Reactions qO5-qS/2; qS4-qO/2.
+Q4c market shares: more at the zero-cost firm saves
+resources; equal shares are not an efficiency objective.
+Q4d bonus: results 95/260, bonus 0.95/3, aligned choice with the
+numbers given; section 12.7.
+
+Q5 optional: inferior good, decreasing returns, MP_K, isoquant,
+perfect complements; beer Q990-40p+20pd+30ps at price 10 ->Q1090.
+epsilon_own=-400/1090≈-0.367; epsilon_cross_ps=300/1090≈0.275.
+Yerba Mate C40+4q+q^2,p20 ->q8,pi24. Show p=MC4+2q.
+
+E2021 — S19, questions p.2–5
+Q1a electricity interconnection: initial Swedish price lower ->wider
+trade tends to raise the Swedish price, lower the German one; Swedish CS falls,
+German CS rises, Swedish producers' PS rises, under the usual assumptions.
+Q1b green research: non-rivalry and non-excludability, depending on actual diffusion.
+Q1c coal: a cost imposed on third parties not included in the private cost.
+Q1d quota or tax under uncertainty and steep damages: the quantity
+protection argument, section 11.5; justify with slopes and a graph.
+
+Q2a bread pD10-Q,pS2+Q ->Q4,p6.
+Q2b bread free at the point of use: p_b0 ->QD10,p_s12, subsidy 12/unit.
+CS50,PS50, public spending 120,W=-20; Winitial16,DWL36.
+The negative W includes the production cost actually paid by society.
+Q2c elasticity: a strong response of Q creates more inefficient units,
+for a comparable policy; state what is held constant.
+Q2d Colosseum: skip-the-line=self-selection by value of time; retirees=
+observable groups; combined ticket=bundling, compare bundle WTPs.
+
+Q3a machine p56-2Q,C100+8Q ->MR56-4Q=8 ->Q12,p32,pi188.
+Q3b Cournot c8 for both, FC100 for Lynn, 50 for Voytek:
+BR_i=12-qj/2; q_i8,Q16,p24; profits 28 and 78.
+Q3c Lynn leads: qL12,qV6,Q18,p20; profits 44 and 22.
+Draw the reactions: outcome on the follower's BR; compare Q/price with Cournot.
+
+Q4a credit: hidden action and limited liability, moral hazard.
+Q4b private equity: information, monitoring, decision power.
+Q4c repayment 30: effort H 0.75*10=7.5; L 0.25*10+4=6.5,
+so H; bank 0.75*30-20=2.5, a profitable contract in the model.
+Q4d repayment 34: H4.5; L1.5+4=5.5 ->L; bank 8.5-20=-11.5.
+IC requires repayment<=32; financing at H requires>=80/3≈26.667.
+Q4e drinks/snacks: Edgeworth, gains and efficient edges in section 14.6.
+Q4f corn/wheat, A 2h/4h, B 4h/6h: A absolute in corn and comparative in corn
+(cost 0.5 wheat versus 2/3). Specialisation and trade at an intermediate price.
+
+Q5: increasing returns, perfect substitutes, unit elasticity, luxury good,
+MRTS; harness isoquant/isocost then a wage rise, quantity 1000
+imposed ->substitution towards machines and a higher minimum cost.
+
+E2022 — S20, questions p.2–5
+Q1a freemium game without interaction: discrimination by self-selection.
+Q1b adding interactions: network effects can justify a free tier.
+Q1c minimum price 99 cents: limits undercutting in the homogeneous Bertrand
+model, potentially markups above MC; watch out for the discrete price.
+Q1d sports-equipment platform: two sides, trust, matching,
+cross effects, getting started; section 14.4.
+Q1e derive Lerner from pi=p(Q)Q-C(Q), not just recite the formula.
+
+Q2a/b/c public wifi: non-rival/non-excludable in the model; 300(10-Q)
+=1500 ->Q5; voluntary contributions insufficient because of free riding.
+Q2d Indonesian wheat: pw30,QD50,QS10, imports 40.
+Q2e tariff 10: p40,QD40,QS20, imports 20; Delta CS=-450,
+Delta PS=+150, revenue 200,DWL100. Two triangles, not the whole CS loss.
+
+Q3a monopoly: transfers plus lost gains from trade.
+Q3b pumps p26-2Q,C2Q, tax 4: MR26-4Q=6 ->Q5,p_b16,
+p_s12, profit 50, revenue 20. Social optimum WITHOUT distortions: Q12,MC2.
+TOTAL SOCIAL DWL =0.5*(12-5)*(16-2)=49.
+Do not treat the tax of 4 as a real production cost in welfare.
+Without tax, monopoly Q6,p14,DWL36; with the tax, an extra loss of 13.
+The triangle 25 between demand and MC+tax does not measure the whole
+social loss, because tax revenue is a transfer.
+Q3c legal incidence on buyer/seller: same wedge and same quantity.
+Q3d Cournot without tax: q1=q2=4,Q8,p10,pi_i32.
+Q3e tax 4 on both: both reactions shift towards the origin;
+numerical complement not asked: q_i10/3,Q20/3,p38/3.
+
+Q4a/b carpenter: fixed fee/hourly, quality, duration, opportunity cost,
+section 12.6; no contract solves every problem at once.
+Q4c no supply curve of its own for a monopoly, since demand enters MR.
+Q4d Gourmets/Snoozers: with zero costs, separate 260 versus bundle 300
+per pair of customers; caveat on missing costs in section 9.4.
+Q5: cross-price elasticity, increasing returns, MRS, indifference curve,
+perfect substitutes; replacing a food subsidy with cash that allows
+the old bundle ->not worse off, usually better if the old optimum was
+interior and the tangencies differ; section 4.6.
+
+E2023 — S21, questions p.2–6
+Q1a cheap yeast: the absolute price does not measure market power;
+Lerner, MC, elasticity. Q1b vets: free entry under monopolistic
+competition vs barriers/strategic interaction in oligopoly;
+cost shock, LR profits 0 only under the symmetric model's free entry.
+Q1c pasta p25-Q,C5Q ->Q10,p15,pi100.
+Q1d Cournot T MC5,G MC9 ->BR_T10-qG/2,BR_G8-qT/2;
+qT8,qG4,Q12,p13; profits 64 and 16.
+
+Q2a network licences: spectrum with interference can be rival and
+non-excludable before allocation; open access can cause overexploitation.
+Do not confuse the commercial network with the spectrum it uses.
+Q2b Vickrey 80/100/92: player 2 wins, pays 92 million.
+Q2c fixed subscription pD10-2Q,C10+2Q: usage 0,Q5,F25,
+cost 20,pi5. With a two-part tariff, p2,Q4,F16,pi6, for comparison.
+Q2d unemployment: discount profitable if customers are more sensitive and resale limited;
+slow version: self-selection, can protect premium revenue;
+expensive smartphones: customers potentially with higher WTP, the discount does not
+automatically follow this logic. Argue it, do not apply every discount.
+
+Q3a tips: encourage quality observable by the customer, hidden from the boss.
+Q3b hotel reviews: reduce adverse selection and the chains' reputational advantage.
+Q3c hidden action H/L: moral hazard. Q3d b2 ->H, bank+4; b6 ->L, bank-8.
+Q3e own funds 10/repayment 15 ->H with b2 and b6, bank+2.
+
+Q4a oil price cap 60 versus 90, Russian QS fixed at 8 million ->Russian PS
+-240 million USD/day. Q4b same Russian quantity under these assumptions;
+no global shortage mechanically deduced; section 7.4.
+Q4c petrol MPB100-Q,MPC10+Q,MECQ ->Qpriv45,Qeff30.
+Q4d tax 20 ->Q35,p_b65,p_s45; DWL37.5, because the tax is insufficient.
+Q5: income elasticity, decreasing returns, MRTS, indifference curve,
+perfect complements; operations with doctors'/nurses' hours,
+doctors' wage rises ->substitution towards nurses, same output 100.
+
+E2024 — S22, questions p.1–5
+Q1a/b/c tunnel: public under assumptions; sum MB25-4Q,MC9 ->Q4;
+free rider. Discuss tolls/congestion if the question is about real classification.
+Q1d wine QD11-p_b/2,QS=-1.5+p_s, tax 1:
+11-(p_s+1)/2=-1.5+p_s ->p_s8,p_b9,Q6.5, revenue 6.5.
+Without tax: p25/3,Q41/6; check the slightly lower quantity with the tax.
+Q1e regional wine standards: collective certification reduces lemons,
+allows credible quality without a large individual brand.
+
+Q2a Novo: barriers sustain markups, size raises volume,
+less elastic demand raises the relative markup. Q2b patent: trade-off
+static efficiency/dynamic incentive to innovate.
+Q2c US p8-Q, Mexico p6-Q/2,MC0: USQ4,p4, profit 16;
+MexQ6,p3, profit 18; total 34. CS US 8, Mex 9.
+Q2d common: Q0 for p>=8; Q8-p for 6<=p<8; Q20-3p for p<6.
+Optimum p10/3,Q10, profit 100/3≈33.333; QUS14/3,QM16/3.
+Check the boundaries and the zone where only the US buys.
+Q2e segmentation: US price rises 10/3->4, CS falls 98/9->8;
+Mexican price falls 10/3->3, CS rises 64/9->9. Profit rises by 2/3,
+total CS falls by 1; total W falls by 1/3 with these numbers.
+
+Q3a/b textiles: Qpriv60,p140; Qeff40,MSB160,MPC120; DWL600.
+Q3c permits: equalise MACs to minimise the cost of a total cap.
+Q3d common owner of textile/spa: internalises the damage in joint
+profit, but may also have market power; distinguish this effect from the
+social benchmark of price-taking firms.
+
+Q4a Athens bread 4h/olives 2h, Sparta 5h/5h: absolute in bread Athens,
+comparative in bread Sparta (1 olive/bread versus 2).
+Q4b homogeneous Bertrand MC5/7/8: around 7, undercutting by the efficient rival,
+nuance on ties/continuous prices in section 10.6.
+Q4c/d differentiated Bertrand simultaneous then firm 2 leading: costs missing
+from the question; results under the zero-cost assumption in section 10.8.
+Q5: perfect complements, Engel curve, isoquant, diminishing MP_K,
+increasing returns; MC supply, SR shutdown below AVC and LR exit below ATC.
+
+E2025 — S23, questions p.1–6
+Q1a/b LN concerts: network effects, barriers, multihoming.
+Q1c noise: Coase, ill-defined rights and bargaining costs.
+Q1d capacity 2000 already filled by fans at 1200 ->a student discount at 500
+yields no additional profit; opportunity cost of seats.
+Q1e tickets/T-shirts: joint profit and results pc3040/7,pT1060/7,
+profit 1 961 600/7≈280 228.571, section 9.6.
+
+Q2a competitive tax cut, inelastic D/elastic S: p_b falls,
+p_s rises, Q rises; buyers receive a large share of the cut.
+Revenue: lower rate per unit versus higher volume; sign to be justified,
+not guaranteed just by the words "inelastic" and "elastic".
+Q2b tax 2, q_i10-2p_i+p_j,MC2: BR_i=(14+p_j)/4,
+p_i14/3,q_i16/3,pi_i128/9; total revenue 64/3.
+Q2c tax 1: BR_i=(12+p_j)/4,p_i4,q_i6,pi_i18; total revenue 12.
+Price falls by 2/3, less than the tax cut of 1; individual markup rises 8/3->3.
+Q2d homogeneous models: Bertrand/unlimited capacity pMC; Cournot positive
+markup; the same firm names are not enough to choose the model.
+
+Q3a North/South: PPF and advantages in section 14.1.
+Q3b steel pD1100-Q,pS100+Q,pw400, Q in THOUSANDS of tonnes:
+free trade QD700,QS300,M400; tariff 100 ->p500,QD600,QS400,M200.
+CS245 000->180 000; PS45 000->80 000; revenue 20 000;
+DWL10 000, all these areas in THOUSANDS of USD. So DWL=10 million USD.
+Two triangles of 5 million each; Delta CS=-65 million,
+Delta PS=+35 million, revenue 20 million ->net -10 million.
+Q3c agricultural exporting country, price received falls: landowners'
+income falls; mechanism of mobile labour and value of the marginal product.
+Q3d bicycles under monopolistic competition: differentiated products, downward-sloping
+firm demand, easy entry, individual strategic interaction ignored;
+negative shock ->losses/exits ->zero economic profit for the survivors
+in the symmetric model; Q per survivor depends on the model's form.
+
+Q4a/b/c public cleaning: Qeff3, non-excludability/non-rivalry, free rider.
+Q4d reverse Vickrey costs 20 000/24 000/28 000: A wins, paid 24 000.
+Q4e weather, uncertain common cost: discuss the winner's curse AND the information
+available, do not invent missing private signals; section 14.5.
+Q4f imperfect monitoring: F>=60 for weak IC, F>60 for quality strictly
+preferred; payment 110, costs 100/70, detection 0.5.
+Q5: normal good, constant returns, isocost, marginal utility,
+increasing economies of scale; isocost K10-0.5L, isoquant Q100,
+tangent optimum MP_L/MP_K=50/100, no numerical calculation of inputs possible.
+======================================================================
+17. CROSS-CUTTING FORMULA SHEET: WHAT, WHEN AND WHY
+======================================================================
+
+Parameter names change from one exercise to another. Each line assumes
+the domains and conditions described in the previous chapters.
+
+F01 Competitive equilibrium: QD(p*)=QS(p*).
+    Equalises the quantities wanted on both sides at the same price.
+F02 Inverse of a demand Q=a-bp: p=a/b-Q/b, b>0.
+    Used to draw and to differentiate revenue when choosing Q.
+F03 Budget: p_x*x+p_y*y<=I; slope with x horizontal=-p_x/p_y.
+    A spending constraint, distinct from the objective U.
+F04 MU_x=partial U/partial x; MRS_xy=MU_x/MU_y.
+    Slope of the indifference curve=-MRS_xy when y is vertical.
+F05 Interior consumer optimum: MRS_xy=p_x/p_y and budget exhausted.
+    Equalises marginal utility per euro.
+F06 Cobb-Douglas U=x^alpha*y^beta: budget shares alpha/(alpha+beta)
+    and beta/(alpha+beta). Do not use for perfect substitutes/complements.
+F07 Price elasticity: epsilon=(partial Q/partial p)*(p/Q).
+    The derivative turns a price change into a quantity change; p/Q
+    converts these changes into unit-free percentages.
+F08 Approximation %Delta Q≈epsilon*%Delta p; target %Delta p≈%Delta Q/epsilon.
+    Exact constant-elasticity: Q1/Q0=(p1/p0)^epsilon.
+F09 Cross-price: epsilon_ij=(partial Q_i/partial p_j)*p_j/Q_i.
+    Positive sign for substitutes, negative for complements.
+F10 Income: eta=(partial Q/partial I)*I/Q.
+    Sign and magnitude classify inferior, normal, necessity and luxury.
+F11 MP_L=partial f/partial L; AP_L=Q/L.
+    Marginal and average answer two different questions.
+F12 Isoquant: dK/dL=-MP_L/MP_K; isocost K=C/r-(w/r)L.
+F13 Interior minimum cost: MP_L/MP_K=w/r and f(K,L)=Qbar.
+    The same marginal output per euro of input.
+F14 Returns: compare f(tK,tL) with t*f(K,L).
+    Cobb-Douglas: compare the sum of the exponents with 1.
+F15 TC=FC+VC; ATC=TC/Q; AVC=VC/Q; AFC=FC/Q; MC=TC'.
+    MC comes from the cost of the marginal unit, not from average cost.
+F16 pi=R-C; MR=R'; interior optimum MR=MC.
+    Equalises extra gain and extra cost, after checking the optimum.
+F17 Price taker: MR=p ->p=MC; shut down if best R<VC in the short run.
+F18 pi=(p-ATC)Q; PS=pQ-VC=pi+FC.
+    Do not automatically equate PS and pi.
+F19 CS=integral_0^Q p_D(q)dq-p_bQ.
+F20 PS=p_sQ-integral_0^Q MC(q)dq.
+F21 W=CS+PS+taxes-subsidies+external benefits-external damages,
+    with consistent treatment of fixed costs when they change.
+F22 Tax: p_b-p_s=t; subsidy: p_s-p_b=s; same Q on both sides.
+F23 Linear p_D=a-bQ,p_S=c+dQ: Q0=(a-c)/(b+d),
+    Qt=(a-c-t)/(b+d), Qs=(a-c+s)/(b+d), in the interior domain.
+F24 Tax DWL with no other distortion=0.5*t*(Q0-Qt).
+    Subsidy DWL without externality=0.5*s*(Qs-Q0).
+F25 Monopoly: MR=p+Qp'; if p=a-bQ, MR=a-2bQ.
+    The term Qp' is the revenue lost on the units already sold.
+F26 Monopoly with constant MCc: Qm=(a-c)/(2b),pm=(a+c)/2.
+    Price read on demand, quantity found with MR=MC.
+F27 Lerner=(p-MC)/p=-1/epsilon_firm.
+    The firm's demand and an interior single-price optimum.
+F28 Segmentation: MR_i=MC; common aggregation Q(p)=sum max(0,q_i(p)).
+F29 Known two-part tariff: p_usage=MC,F=CS(p_usage), in the simple case.
+F30 Cournot: BR_i=(a-c_i-bq_j)/(2b), truncated at 0.
+    Both active: q_i=(a-2c_i+c_j)/(3b).
+F31 Cournot with n symmetric firms: q_i=(a-c)/[b(n+1)],p=(a+nc)/(n+1).
+F32 Symmetric quantity Stackelberg: qL=(a-c)/(2b),qF=(a-c)/(4b).
+    Recover it by substituting the follower's reaction.
+F33 Differentiated Bertrand q_i=A-Bp_i+Dp_j:
+    BR_i=(A+B*c_i+D*p_j)/(2B); symmetric p=(A+B*c)/(2B-D).
+F34 MSC=MPC+MEC; MSB=MPB+MEB; social optimum MSB=MSC.
+F35 Pigou: t*=MEC(Qeff) or s*=MEB(Qeff), simple competitive cases.
+F36 Pollution: MAC(e)=t; optimum MAC(e)=MEC(e).
+F37 Public good: sum_i MB_i(Q)=MC(Q), vertical sum and segments.
+F38 Expectation: E[X]=sum p_s*X_s, net outcomes by state.
+F39 Credit IC: (pH-pL)*(R-repayment)>=private benefit of L.
+    Bank: p_action*repayment-loan>=0, in a model with no alternative interest.
+F40 Inspection: penalty >= private saving/probability of detection.
+F41 Opportunity cost of X in Y=a_X/a_Y if a is hours per unit.
+F42 Import tariff: p_dom=pw+tau, imports=QD-QS, revenue=tau*imports.
+    DWL=0.5*tau*(rise in QS+fall in QD), small country remaining an importer.
+F43 Vickrey sale: the highest bid wins, pays the second highest.
+    Procurement: the lowest bid wins, receives the second lowest.
+F44 Public and private goods: the same individual functions can call for
+    OPPOSITE sums depending on rivalry; do not choose by reflex.
+
+======================================================================
+18. DIRECTORY OF ABBREVIATIONS AND SYMBOLS
+======================================================================
+
+Marking: [O] abbreviation/symbol observed in the PDFs; [A] standard alias
+of a notion explicitly present but not necessarily written as such;
+[C] standard complement added to make the methods understandable.
+Variants are grouped. This directory covers the corpus and its useful
+variants, not every abbreviation in every microeconomics textbook.
+
+18.1 Costs, revenue, production and profit
+AC [O] — Average Cost — average cost; generally equivalent to ATC here,
+  C(Q)/Q. Check whether an author uses it for another average cost.
+AFC [O] — Average Fixed Cost — average fixed cost; FC/Q.
+AP, APL, AP_L [A] — Average Product (of Labor) — average product (of labour); Q/L.
+ATC [O] — Average Total Cost — average total cost; TC/Q.
+AVC [O] — Average Variable Cost — average variable cost; VC/Q.
+C(Q), TC [O] — (Total) Cost — total cost function, FC+VC(Q).
+FC [O] — Fixed Cost — fixed cost; independent of Q over the horizon studied.
+F [O] — Fixed cost OU Fixed fee — fixed production cost OR fee
+  collected. Identify the role; the two have opposite signs in pi.
+MC [O] — Marginal Cost — marginal cost; dC/dQ, money/unit of output.
+MP [O] — Marginal Product — marginal product of a factor, output/input.
+MPL, MP_L [O] — Marginal Product of Labor — marginal product of labour.
+MPK, MP_K [A] — Marginal Product of Capital — marginal product of capital.
+MR [O] — Marginal Revenue — marginal revenue; dR/dQ.
+MRP_L [C] — Marginal Revenue Product of Labor — marginal revenue brought
+  by an extra unit of labour input, MR*MP_L.
+VMP_L [A] — Value of Marginal Product of Labor — value of the marginal
+  product of labour, p*MP_L; competitive hiring condition.
+CSR [A] — Corporate Social Responsibility — the firm's social
+  responsibility, raised in the discussion of the profit objective in L6.
+R(Q), Revenue [O] ; TR [A] — Total Revenue — total revenue, p(Q)*Q.
+AR [C] — Average Revenue — average revenue, R/Q; equal to the price under a single price.
+VC [O] — Variable Cost — variable cost, depends on Q.
+pi, Π, π [O] — Profit — profit/economic profit depending on the costs included.
+A, TFP [A] — Total Factor Productivity — total factor productivity,
+  efficiency in Q=A*f(K,L). A is not always a technology parameter.
+K [O] — Capital — productive capital; does not automatically mean money.
+L [O] — Labor — labour; BUT L can also be the Low type or Lunches.
+J [O] — Land dans L5 — land; letter chosen for this example.
+w [O] — Wage — wage/cost per unit of labour.
+r [O] — Rental rate of capital — rental price of one unit of capital.
+q_i [O] — Firm i's quantity — quantity produced by firm i.
+Q [O] — Total quantity/output — market quantity or output; read the context.
+Qbar, Q avec barre [O] — imposed target output, not a freely chosen variable.
+HP [O] — Highly Productive — highly productive firm, L8.
+LP [O] — Less Productive — less productive firm, L8.
+SR, LR [A] — Short Run, Long Run — short run/long run.
+SRAC, LRAC [A] — Short-/Long-Run Average Cost — average cost by horizon.
+RTS [A] — Returns To Scale — returns to scale.
+IRS, CRS, DRS [A] — Increasing/Constant/Decreasing Returns to Scale —
+  increasing/constant/decreasing returns; distinguish from cost economies.
+
+18.2 Demand, consumer and elasticities
+p, P [O] — Price — price per unit. Upper/lower case has no universal
+  meaning: the same material may vary its notation.
+QD, Q^D, Q_D [O] — Quantity Demanded — quantity demanded at a price.
+QS, Q^S, Q_S [O] — Quantity Supplied — quantity supplied at a price.
+D, S [O] — Demand, Supply — demand/supply curves on graphs.
+  D and S can also denote a loan, a player or a group elsewhere.
+p_b, pBuyer [O] — Buyer price — price paid by the buyer.
+p_s, pSeller [O] — Seller price — net price received by the seller.
+U(x,y) [O] — Utility — utility, an ordinal representation of preferences.
+MU, MU_x [O] — Marginal Utility — marginal utility of good x.
+MRS [O] — Marginal Rate of Substitution — marginal rate of substitution,
+  ratio of marginal utilities and absolute value of the indifference slope.
+MRT [O] — Marginal Rate of Transformation — marginal rate of transformation,
+  absolute slope of the PPF in the production model; in a consumption budget,
+  the relative price is sometimes called the available rate of transformation/exchange.
+MRTS [A] — Marginal Rate of Technical Substitution — marginal rate of
+  technical substitution; ratio of MPs, absolute slope of the isoquant.
+I [O] — Income — consumer's income/budget; sometimes investment elsewhere.
+E [O] — Entertainment dans L3 — entertainment; not always elasticity.
+F [O] — Food dans L3 — food; elsewhere F=fixed cost/access fee.
+G, O [O] — Gasoline, Other goods — petrol/other goods in L4.
+PL, PR, p_L, p_R [O] — lunch/record prices in A2; elsewhere the subscripts
+  L/R can denote the low type or Red. Always read the local definition.
+ED, E^D, E_D, epsilon_D, epsilon_d [O/A] — (Own-)Price Elasticity of Demand
+  — price elasticity of demand, usually negatively signed.
+epsilon_S, ES [A] — Price Elasticity of Supply — price elasticity of supply.
+epsilon_ij, E_cross [A] — Cross-Price Elasticity — cross-price elasticity.
+eta, epsilon_I, E_I [A] — Income Elasticity — income elasticity.
+WTP [A] — Willingness To Pay — willingness to pay; per unit if marginal,
+  sum/area if total. A total WTP is not automatically the marginal price.
+Delta I [O] — compensation/change in income; lump-sum transfer in L4.
+p_r [O] — price of another good, e.g. raspberries; not the r of capital.
+T [O] — temperature/demand determinant in L2; elsewhere transfer/tax.
+
+18.3 Welfare, policies and externalities
+CS, C.S. [O] — Consumer Surplus — consumer surplus.
+PS [O] — Producer Surplus — producer surplus; revenue minus VC.
+W, TS [A] — Welfare, Total Surplus — welfare/total monetary surplus.
+DWL [O] — Deadweight Loss — deadweight loss, net surplus lost.
+MB [O/A] — Marginal Benefit — marginal benefit; WTP for the next unit.
+MPC, PMC, MC_p [A/O] — Marginal Private Cost — marginal private cost.
+MEC, MC_e [O] — Marginal External Cost — marginal external cost.
+MSC, SMC [A] — Marginal Social Cost — marginal social cost, MPC+MEC.
+MPB, PMB [A] — Marginal Private Benefit — marginal private benefit.
+MEB [O] — Marginal External Benefit — marginal external benefit.
+MSB [O], SMB [A] — Marginal Social Benefit — marginal social benefit, MPB+MEB.
+MAC [O] — Marginal Abatement Cost — marginal cost of abating/reducing
+  emissions, not "marginal average cost".
+EC, EB [A] — External Cost, External Benefit — TOTAL external cost/benefit,
+  when so defined; distinguish from marginal MEC/MEB.
+CPR [O] — Common-Pool Resource / Common Property Resource — common resource,
+  Q_CPR in the L11 open-access graph.
+t, tau [O/A] — Unit Tax / Tariff — unit tax or customs duty.
+s [O] — Unit Subsidy — unit subsidy; elsewhere a probability or a state.
+T, Tax revenue [A/O] — tax revenue, t*Q; a monetary amount.
+Qpriv, Qopt, Qeff, Q* [O/A] — private, optimal, efficient and
+  equilibrium quantities. A star alone does NOT say "social optimum".
+QPoll [O] — Quantity of Pollution — quantity of pollution in L11.
+VAT [O] — Value Added Tax — value added tax; an ad valorem tax in general, simplified
+  to a unit tax in the E2025 exercise.
+
+18.4 Markets, contracts and games
+Lerner, L_index [A] — Lerner Index — (p-MC)/p; avoid L if L=labour.
+Pm, p_M, QM, Q_M [O] — monopoly price/quantity on graphs.
+PC, p_C [O] — in L10, the COURNOT price; elsewhere PC can mean
+  Perfect Competition. The subscript must be read within its figure.
+PPT, p_PT [O] — price-taking price on the L10 p.10 figure.
+QC, Q_C [O] — competitive quantity in monopoly graphs;
+  in E2025 Qc means the quantity of CONCERT tickets, not competition.
+MC_i, c_i [O] — marginal cost of firm i, constant when written c_i.
+n [O] — number of firms, cafés or agents depending on context.
+BR, BR_i [A] — Best Response — best response/reaction function.
+NE [A] — Nash Equilibrium — Nash equilibrium.
+SPNE [A] — Subgame Perfect Nash Equilibrium — subgame perfect equilibrium.
+IC [O] — Incentive Compatibility — incentive compatibility; the agent
+  chooses the contract/action the designer wants to induce.
+IR [O] — Individual Rationality — participation; the contract is at least as
+  attractive as the outside option.
+H, L [O] — High/Low — types, quality or effort; do not assume the same meaning everywhere.
+B [O] — private benefit of low effort in E2023/A6; in L9 B_H
+  denotes a bundle, and in L10 B=Blue.
+R [O] — revenue in credit; R=Red in oligopoly; R=Records in A2.
+F, T_j [O/A] — fixed fee, payment for menu j; their role depends on the contract.
+S, N [O] — Split/Steal in A3, choices in this assignment; SN/NS/NN are
+  strategy profiles, not new economic notions.
+E[X] [A] — Expected Value — expectation of X, weighted average over states.
+pH, pL [A] — probabilities of success under action H/L in the contract;
+  elsewhere p_H,p_L are PRICES for the high/low groups.
+d [A] — probability of detection in the inspection example; another
+  exercise may use d as a supply slope.
+
+18.5 Trade and mathematics
+PPF, PPC [A] — Production Possibility Frontier/Curve — production
+  possibility frontier, given by technology and resources.
+OC [A] — Opportunity Cost — opportunity cost, the best alternative forgone.
+M [A] — Imports — imports, QD-QS in an importing country.
+pw, p_W [A] — World Price — world price, given in the small-country model.
+ToT [A] — Terms of Trade — terms of trade, export prices/import prices.
+FOC [C] — First-Order Condition — first-order condition, zero derivative
+  at an interior optimum; standard term for the conditions used in the course.
+SOC [C] — Second-Order Condition — second-order condition, checks the curvature.
+Delta, Δ [O] — finite change, final value minus initial value.
+d/dx [O] — derivative with respect to a variable.
+partial, ∂ [O] — partial derivative, other variables held constant.
+prime, ' [O] — another notation for a derivative, e.g. C'(Q).
+max/min [O] — maximise/minimise an objective.
+s.t. [C] — Subject To — subject to the constraint.
+sqrt(x), racine(x) [O/A] — square root; x^(1/2).
+barre [O] — fixed/target variable; star [O] — optimisation/equilibrium solution.
+
+18.6 Contextual non-conceptual abbreviations
+SSE=Stockholm School of Economics; BE501=course code; ID=student
+identifier; AI=Artificial Intelligence; GPT=name of a family of AI models;
+US=United States; UK=United Kingdom; EU=European Union; kr=kronor;
+USD=US dollars; GB/LN are names of actors/places in exercises;
+HIV=virus cited as a medicine example; MTB=mountain bike;
+CSCE=Conference on Security and Co-operation in Europe in A3;
+SFA-Oxford=source of a graph; I/II/III may be part numbers.
+These acronyms are not microeconomics formulas.
+
+======================================================================
+19. GLOSSARY OF NOTIONS AND EXAM INSTRUCTIONS
+======================================================================
+
+Fuller definitions, assumptions and calculations are in the chapters.
+This glossary lets you find an English word without knowing its chapter.
+
+19.1 Foundations and markets
+Absolute advantage — absolute advantage : producing with fewer resources.
+Accounting cost/profit — accounting cost/profit : explicit spending/balance.
+Allocation — allocation : who receives which goods/resources.
+Barrier to entry — barrier to entry : an obstacle to a new competitor.
+Binding constraint — binding constraint : actually limits the choice.
+Ceteris paribus — all else equal : isolate one change.
+Commodity — a standardised basic product, useful for the competitive model.
+Competitive reallocation — reallocation towards more productive firms.
+Comparative advantage — comparative advantage : lower relative opportunity cost.
+Complementary goods — complements : the price of one lowers demand for the other.
+Consumer — consumer : chooses a bundle under constraints.
+Demand curve/function — demand curve/function : desired purchases by price.
+Differentiated products — differentiated products : distinct characteristics.
+Distribution — distribution of income/gains; to be distinguished from efficiency.
+Economic cost/profit — economic cost/profit : includes forgone opportunities.
+Economic rent — economic rent : income linked to a scarce resource.
+Efficiency — efficiency : an explicit gains/resources objective, not mere equality.
+Equilibrium — equilibrium : consistent decisions/quantities, not necessarily a social optimum.
+Excess demand / shortage — excess demand/shortage : QD>QS at the current price.
+Excess supply / surplus — excess supply : QS>QD; "surplus" does not
+  always mean welfare surplus.
+Exit / entry — firms leaving/entering a market.
+Free entry — free entry : access with no barrier preventing LR adjustment.
+Homogeneous product — homogeneous product : buyers treat it as identical.
+Input — input/factor : a resource used to produce.
+Inverse demand/supply — inverse demand/supply : price written as a function of Q.
+Market clearing price — equilibrium price : equalises QD and QS.
+Market definition — market definition : products, geography, period.
+Model — a simplified representation with consistent assumptions and implications.
+Opportunity cost — opportunity cost : the best alternative given up.
+Output — the production obtained, distinct from the inputs used.
+Partial equilibrium — partial equilibrium : analysing one market, isolating the rest.
+Price taker — price taker : believes its individual choice does not affect p.
+Scarcity — scarcity : limited resources force choices/trade-offs.
+Shift — a shift of a curve; movement along — a movement along a curve.
+Substitute goods — substitutes : the price of one raises demand for the other.
+Supply curve/function — supply : quantity desired at each price.
+Zero economic profit — zero economic profit : opportunity costs are covered.
+
+19.2 Consumer and behaviour
+Affordable/feasible bundle — affordable bundle : respects the budget/constraints.
+Altruism — altruism : utility rises with others' well-being/gain.
+Behavioral economics — behavioural economics : enriches simple rational choice.
+Budget constraint/line — budget constraint/line : possible spending.
+Bundle/basket — bundle : a combination of quantities of goods.
+Cardinal utility — cardinal utility : interpretable levels/intensities;
+  does not match the standard ordinal use of the course's functions.
+Cognitive limitations — cognitive limits : imperfect optimisation/information.
+Complete preferences — complete preferences : any pair can be compared.
+Compensation — a transfer restoring the possibility of a bundle or a utility level,
+  depending on the definition used.
+Convex preferences — convex preferences : a taste for mixtures, in the usual form.
+Corner solution — corner solution : one of the goods chosen at quantity 0.
+Diminishing marginal utility — marginal utility falling with quantity.
+Engel curve — Engel curve : quantity as a function of income, prices fixed.
+Envy / spite — envy / spite : another's gain can lower one's own utility.
+Framing — framing effect : presentation affecting the decision.
+Heuristic — heuristic : a simple rule used to decide.
+Homo economicus — a stylised rational agent; its preferences are not
+  necessarily exclusively materialistic.
+Income effect — income effect : change due to real purchasing power.
+Indifference curve — indifference curve : the same utility for all its bundles.
+Inferior good — inferior good : demand falls when income rises.
+Interior solution — interior solution : strictly positive goods/inputs.
+Loss aversion — loss aversion : weight of losses relative to gains.
+Lump-sum payment — lump-sum transfer : an amount independent of the marginal purchase.
+Luxury good — luxury good : demand rises more than proportionally with income.
+Marginal utility — marginal utility : contribution of the extra unit.
+More-is-better / non-satiation — non-satiation : more of desired goods is preferred.
+Normal good — normal good : demand rises with income.
+Ordinal utility — ordinal utility : used to rank, not to measure absolute happiness.
+Overconfidence — overconfidence : overestimating precision/abilities.
+Perfect complements — perfect complements : consumption in fixed proportions.
+Perfect substitutes — perfect substitutes : exchange at a constant rate.
+Preference — preference : a ranking of alternatives.
+Self-control — self-control : trade-off between immediate gratification/future goal.
+Social preferences — social preferences : utility also depends on others/norms.
+Substitution effect — substitution effect : response to the relative price.
+Transitivity — transitivity : consistent ranking across several bundles.
+Ultimatum game — ultimatum game : a proposed split, accepted or rejected.
+Utility maximization — utility maximisation : the best affordable bundle.
+
+19.3 Production and costs
+Average product — average product : output per unit of input.
+Capital-labor ratio — capital/labour ratio : K/L.
+Constant economies of scale — constant LR average cost over the relevant range.
+Cost function — minimum cost function given output and input prices.
+Cost minimization — cost minimisation for an imposed output.
+Decreasing returns to scale — all inputs multiplied by t, output by less than t.
+Diminishing marginal product — falling marginal product of a single input.
+Diseconomies of scale — diseconomies : rising average cost.
+Economies of scale — economies : falling average cost.
+Factor of production — factor of production : labour, capital, land, other inputs.
+Fixed cost — a cost independent of Q over the horizon.
+Increasing returns to scale — all inputs multiplied by t, output by more than t.
+Intermediate input — intermediate input : a produced good used to produce.
+Isocost — isocost : input combinations with the same cost.
+Isoquant — isoquant : input combinations with the same output.
+Labor — labour, measured in people/hours depending on the question.
+Learning-by-doing — learning by doing, which can lower costs.
+Long run — all factors can be adjusted.
+Marginal cost — the cost of additional output.
+Marginal product — extra output from an extra input.
+Production function — the technology/inputs/output relation.
+Productivity — output obtained for the resources used.
+Raw material — raw material used in production.
+Returns to scale — response of Q to a proportional change in all inputs.
+Short run — at least one factor is fixed.
+Shutdown — short-run halt of production; different from definitive/LR exit.
+Sunk cost — unrecoverable cost; must not distort a forward-looking comparison.
+Variable cost — a cost varying with output.
+
+19.4 Market power and pricing strategy
+Arbitrage / resale — buying/reselling to profit from a price gap.
+Best response / reaction function — the optimal choice conditional on the rival.
+Bertrand competition — competition in prices.
+Bundling — selling in bundles; pure=bundle only, mixed=bundle and separate items.
+Capacity constraint — a limit on possible output/seats/sales.
+Collusion — coordination between competitors; different from non-cooperative Nash.
+Cournot competition — competition in simultaneous quantities.
+Duopoly — oligopoly with two firms.
+Excess capacity — excess capacity in the sense of output below minimum ATC.
+First-degree price discrimination — pricing at each individual marginal WTP.
+First-mover advantage — the first player's advantage, depends on the game.
+Freemium — a free version plus paid options, self-selection/network.
+Horizontal differentiation — diverse tastes, no universal quality ranking.
+Incumbent — a firm already present before entry.
+Integrated market — an unsegmented market, arbitrage or a common price.
+Lerner index — the price/marginal-cost markup divided by price.
+Market power — the ability to set a price above marginal cost.
+Market share — share of the market, q_i/Q; not a synonym for profit.
+Markup — the price-cost margin; specify absolute, relative to price or to cost.
+Monopolistic competition — many differentiated firms with easy entry.
+Monopoly — a single seller with no close substitutes in the relevant market.
+Natural monopoly — a cost technology favouring a single producer.
+Nash equilibrium — no profitable unilateral deviation.
+Oligopoly — a small number of firms with strategic interaction.
+Parallel imports — parallel imports preventing price segmentation.
+Patent — a temporary right of exclusion, an incentive to innovate in the model.
+Perfect competition — price takers, homogeneity, many agents, free entry.
+Price discrimination — different prices across units/customers beyond cost alone.
+Profit maximization — the best feasible profit, not the largest quantity.
+Reservation price — reservation price, maximum WTP for a unit/transaction.
+Second-degree discrimination — self-selection within a menu.
+Segmented markets — groups between which resale/transfer is limited.
+Self-selection — the customer reveals their type through the offer chosen.
+Single-price monopoly — a monopoly charging the same price for every unit.
+Stackelberg leadership — sequential order, the follower's reaction is observed.
+Strategic complements — best response rises with the rival's choice, e.g. prices.
+Strategic substitutes — best response falls with the rival's choice, e.g. Cournot Q.
+Third-degree discrimination — observable groups with different prices.
+Two-part tariff — an access fee plus a usage price.
+Vertical differentiation — rankable quality, consumers differ in WTP.
+
+19.5 Welfare, environment and information
+Adverse selection — adverse selection linked to a private type.
+Asymmetric information — information that differs between parties.
+Bargaining cost / transaction cost — the cost of negotiating/enforcing an agreement.
+Certification — quality attested by a third party or a standard.
+Club good — excludable, non-rival absent congestion.
+Coase theorem — efficiency through costless bargaining with well-defined rights.
+Common resource — rival, non-excludable under the rules considered.
+Consumer/producer surplus — monetary gains of buyers/sellers beyond
+  payment/variable cost.
+Deadweight loss — net social surplus not realised/lost.
+Deductible — the part of an insured loss borne by the insured.
+Emission cap/quota — a quantitative limit on emissions.
+Emission fee — a price/tax per unit of emission.
+External benefit/cost — a benefit/damage to third parties not taken into account.
+Externality — externality, positive or negative.
+Franchise contract — a contract granting use of a business/brand for a payment,
+  potentially with strong incentives on outcomes.
+Free rider — free rider, benefits without contributing.
+Incentive compatibility — the desired choice is preferable to the alternatives.
+Individual rationality / participation — the contract is acceptable given the outside option.
+Internalization — bringing the external cost/benefit into the private decision.
+Limited liability — limited liability, losses/repayments capped.
+Lemons market — a market where hidden quality can drive out good quality.
+Moral hazard — moral hazard, a private choice/action altered by the contract/incentives.
+Open access — open access to a resource, without effective restriction.
+Pareto improvement/efficiency — a gain with no loser/no feasible gain without a loser.
+Pigouvian tax/subsidy — a levy/aid correcting an externality.
+Pooling equilibrium — types not separated by observable behaviour.
+Principal-agent problem — a contract with an unobservable action by the agent.
+Private benefit — an advantage for the decision-maker, sometimes at the principal's expense.
+Private good — rival and excludable.
+Procurement — purchase of a service/good by a buyer, often via a reverse auction.
+Property rights — rights determining who may use/forbid/trade.
+Public good — non-rival and non-excludable, in the pure model.
+Reputation — accumulated information on quality/behaviour.
+Risk sharing — allocation of exposure to shocks between parties.
+Screening — collection/structuring of information by the less informed party.
+Separating equilibrium — types revealed by different choices/signals.
+Sharecropping — sharing a harvest/revenue between farmer and owner.
+Signalling — an observable signal sent by the better-informed party.
+Social cost/benefit — total effect, private plus external.
+Subsidy — aid lowering the buyer price or raising the seller's revenue.
+Tax incidence — the actual distribution of a tax burden.
+Tradable permits — permits traded under a total cap.
+Tragedy of the commons — overuse due to a scarcity externality.
+Trust — trust, reduces some information/contract frictions.
+
+19.6 Games, trade, platforms and auctions
+Backward induction — backward induction : start from the last decisions.
+Cheap talk — communication that is not directly binding in the game.
+Commitment — a commitment credibly altering future choices.
+Credible threat — a threat that is optimal to carry out at the node where it is invoked.
+Dominant strategy — optimal whatever the others' strategies.
+Edgeworth box — a box for the exchange of two goods between two agents.
+Free trade — free trade without the barrier considered.
+Gains from trade — gains from trade, surplus from mutually useful exchanges.
+Multihoming — participation in several platforms.
+Network effect — service value depending on participants on the same/other side.
+Payoff — the gain/utility of an outcome, distinct from money if preferences are social.
+Platform — an intermediary organising interactions between groups.
+Pooling/separating — see information; not to be confused with product bundling.
+Production possibility frontier — the frontier of feasible combinations.
+Pure/mixed strategy — a certain choice/a probabilistic draw between actions.
+Reverse auction — a purchasing auction, the low bid can win.
+Sealed-bid auction — bids submitted without observing the others.
+Sequential/simultaneous moves — decisions taken in order/without observing the rival.
+Single-homing — use of a single platform.
+Specific factors — factors locked into one sector in the trade model.
+Subgame perfect equilibrium — Nash in every subgame, rules out non-credible threats.
+Switching costs — costs of changing supplier/platform.
+Tariff — a customs duty on imports; different from a two-part tariff.
+Terms of trade — export prices relative to import prices.
+Vickrey auction — a sealed-bid second-price auction in the private-values model.
+Winner's curse — winner's curse due to selecting an optimistic estimate.
+
+19.7 Instruction verbs and words to recognise immediately
+Assume — assume : use the given assumption, even if stylised.
+Calculate / find / determine — calculate/find : equations, steps, result/unit.
+Compare — compare : same benchmark, same assumptions, relevant variables.
+Define — define : give a simple meaning, not just a formula.
+Derive / show how derived — derive/show : start from the objective and obtain the relation.
+Discuss — discuss : mechanism, assumptions and any ambiguity.
+Explain why / intuition — explain why : link incentives, the margin and the result.
+Illustrate / use a figure — draw with labelled axes, curves, quantities and areas.
+Holding constant / given — held given : do not treat this variable as a choice.
+In the long run — long run : check entry, exit and the possibility of adjusting inputs.
+Maximize / minimize — optimise the objective, not just equalise curves.
+Motivate / justify — justify : an economic argument linked to the calculation.
+No calculations needed — explain the mechanism; do not replace intuition with numbers.
+Per unit — per unit, an amount to multiply by the relevant volume.
+Resale impossible — resale impossible : a key condition for segmentation.
+Subject to — subject to : write explicitly what limits the choice.
+Unilaterally — unilaterally : only the decision-maker changes their strategy.
+Welfare maximizing — maximise SOCIAL welfare, distinct from private profit.
+======================================================================
+20. PITFALLS, CORRECTIONS, GRAPHS AND REVISION PATH
+======================================================================
+
+20.1 Corrections and ambiguities not to reproduce
+1) A3.1c, equal altruistic preferences: pure Nash SS,SN,NS; NN is wrong.
+2) A3.2c: if Y alone is armed, X receives 1, Y receives 5-3=2. Do not give
+   X the net payoff 2 of Y. The stated outcome can be right despite a wrong payoff.
+3) A2.2c: p_R rises, nominal I remains 1200; it is the constraint in
+   quantities/purchasing power that tightens. Saying "income falls" would be wrong.
+4) A2.2b: (20,4) has utility 80 but costs 1280; the budget comes first, before
+   ranking the AFFORDABLE bundles. The last bundle repeats (15,5).
+5) A2 elasticities: the proportional % calculation and the exact solution of a
+   constant-elasticity function diverge for large changes.
+6) E2024 Q4c/d: cost not specified; state the assumption before the figures.
+7) E2022 Q4d: bundling costs not specified; the revenues 300/260 are only
+   profits at zero cost; explain the assumption.
+8) E2025 Q4e: a common shock alone does not demonstrate private signals or
+   a winner's curse; specify information and conditional selection.
+9) E2020 Q4d: do not invent an incentive conflict before computing
+   both expectations. The numbers given align the A/B choice.
+10) E2022 taxed monopoly: the tax of 4 is not a real social cost of 4; total DWL 49
+    against the efficient no-tax benchmark, unlike the truncated triangle 25.
+11) E2025 steel: Q in thousands of tonnes; DWL 10 000 in the diagram
+    means 10 million dollars, not 10 000 dollars.
+12) E2025 penalty: 60 is enough for weak IC, strictly more than 60 for
+    a strict choice of high quality without a tie-breaking rule.
+
+20.2 General errors to spot in every exercise
+- Confusing direct demand Q(p) and inverse demand p(Q), or their derivatives.
+- Reading the monopoly price on MR instead of on demand.
+- Forgetting the term Q*p'(Q) in MR, or replacing MR with p under monopoly.
+- Using MR=MC without checking for a maximum, non-negativity, capacity and shutdown.
+- With constant MC, a given price above MC and unlimited capacity,
+  no finite optimum q exists without another limit; p=MC does not solve
+  a maximisation with a constant positive margin.
+- Confusing MU,MP,MR,MC,MB or MRS,MRTS,MRT.
+- Confusing slope and elasticity; forgetting the factor p/Q and the sign.
+- Adding the prices of private demands instead of the quantities.
+- Adding public-good demands horizontally.
+- Leaving negative demands/quantities in a market sum.
+- Deriving firm i's profits with market Q instead of q_i.
+- Varying the fixed cost in a marginal derivative where it is constant.
+- Shutting down every firm with pi<0 even if R covers VC and FC is unavoidable.
+- Claiming "zero economic profit ->no income".
+- Equating diminishing marginal product with decreasing returns to scale.
+- Confusing PS with profit when FC is non-zero.
+- Counting tax revenue as a social loss, or forgetting the budget cost
+  of a subsidy; omitting external damages/benefits.
+- Measuring DWL against the private Q when an externality already exists.
+- Choosing a Pigouvian tax=MEC(Qinitial) when MEC depends on Q.
+- Concluding any discount is profitable without considering capacity or arbitrage.
+- Applying p_usage=MC to every subscription with heterogeneous customers.
+- Confusing a subscription alone with a two-part tariff.
+- Forgetting the follower's reaction in the leader's derivative.
+- Confusing price competition with homogeneous and with differentiated products.
+- Claiming a barrier to entry only affects the short run.
+- Confusing adverse selection(type) and moral hazard(action).
+- Checking the bank's profitability with pH without checking that the agent chooses H.
+- Forgetting the outside option/participation even if IC is satisfied.
+- Computing comparative advantage by looking only at absolute productivity.
+- Turning an aggregate welfare conclusion into a conclusion for everyone.
+- Giving numbers without explaining the mechanism asked for by "explain".
+
+20.3 Graph workbook to redraw without a template
+G1 Supply/demand: Q horizontal,p vertical; intercepts, equilibrium and shock arrows.
+G2 Budget/indifference: names of both goods, intercepts I/p, relative slope,
+   highest reachable curve, tangency or corner/kink.
+G3 Individual demand: optimum at several prices, plotting the pairs (p,q).
+G4 Isoquant/isocost: L horizontal,K vertical, Q fixed, tangent minimum cost;
+   new tangency after w rises, without moving the target isoquant.
+G5 Firm MC/ATC/AVC: horizontal p, optimal q, profit/loss rectangle,
+   shutdown and exit thresholds. Add a market graph for entry/exit.
+G6 Competitive surplus: CS under demand/above price, PS above
+   supply/below price; monetary units of each area.
+G7 Tax/subsidy: INITIAL demand and supply, new Q, two prices,
+   wedge, government rectangle, DWL triangles; state the budget sign.
+G8 Price ceiling/floor: regulated level, distinct QS and QD,
+   volume actually traded and rationing assumption.
+G9 Monopoly: D,MR,MC, possibly ATC; Qm,pm,Qeff, profit,CS,DWL.
+G10 Discrimination: two separate markets then aggregate demand with a kink;
+    distinguish groups that enter/leave depending on the common price.
+G11 Two-part tariff: usage price, quantity, CS triangle captured by F;
+    compare free usage if the question imposes a subscription only.
+G12 Cournot: both reactions on the SAME axes, intersection and cost shock.
+G13 Stackelberg: follower's reaction, leader's position, comparison with Nash.
+G14 Differentiated Bertrand: axes p1,p2, upward reactions, shift by tax/cost.
+G15 Externality: relevant MPB,MPC,MSB/MSC, Qpriv,Qeff, tax/subsidy,DWL.
+G16 Pollution: label pollution OR abatement on x, MAC and MEC, horizontal
+    tax or vertical quota; not just an output diagram.
+G17 Permits with two firms: different MACs, initial quota, purchases/sales,
+    common final marginal cost and unchanged total cap.
+G18 Public good: individual MBs and VERTICAL sum, kinks, MC, Qeff.
+G19 PPF and trade: two goods, intercepts, opportunity cost, price
+    line, separate production and consumption, relevant indifference curve.
+G20 Import tariff: domestic supply/demand, pw,pw+tau,Qs/Qd/imports,
+    CS lost,PS gained, revenue, two triangles.
+G21 Edgeworth: two opposite origins, endowment, both indifference curves,
+    zone of improvement and efficient allocations, including edges.
+G22 Sequential game: nodes and order, actions, NET payoffs, the last
+    player's choice then the first's; write the follower's complete strategy.
+A graph without axes or without a benchmark does not replace an explanation.
+
+20.4 Short definitions in English for the Q5
+Normal good: A good people buy more of when their income rises, other
+  things equal.
+Inferior good: A good people buy less of when their income rises, other
+  things equal.
+Luxury good: A good for which demand rises more than proportionally with income.
+Perfect substitutes: Goods a person is willing to exchange at a constant rate.
+Perfect complements: Goods that are useful together in fixed proportions.
+Indifference curve: Combinations of goods that give a consumer the same satisfaction.
+Engel curve: The quantity a consumer chooses at different incomes, holding prices fixed.
+Marginal utility: The extra satisfaction from consuming an additional unit of a good.
+Marginal rate of substitution: The amount of one good a consumer is willing
+  to give up for a little more of another while remaining equally well off.
+Marginal product of capital: The extra output from additional capital,
+  holding other inputs fixed.
+Decreasing marginal product of capital: Additional capital adds less and
+  less output as capital increases while other inputs stay fixed.
+Isoquant: Combinations of inputs that produce the same amount of output.
+Isocost: Combinations of inputs that have the same total cost.
+Marginal rate of technical substitution: The amount of one input that can
+  be saved by using more of another while keeping output unchanged.
+Increasing returns to scale: Increasing all inputs by a given proportion
+  increases output by a greater proportion.
+Constant returns to scale: Increasing all inputs by a given proportion
+  increases output by the same proportion.
+Decreasing returns to scale: Increasing all inputs by a given proportion
+  increases output by a smaller proportion.
+Economies of scale: Average production cost falls as output increases.
+Unit elastic demand: A one-percent price increase reduces quantity demanded
+  by one percent, locally and holding other determinants fixed.
+Income elasticity: The percentage change in demand associated with a
+  one-percent income increase, holding other determinants fixed.
+Cross-price elasticity: The percentage change in demand for one good
+  associated with a one-percent change in another good's price.
+Teaching formulations prepared here; do not present them as
+sentences taken from an official marking scheme.
+
+20.5 Answer template for a calculation question
+"The firm chooses [variable] to maximize [objective], taking [given]
+as given. Its profit is [function]. The first-order condition is [equation],
+which gives [quantity/price]. Substituting into [demand/cost] gives [rest].
+The result is valid because [domain/maximum/participation]. Intuitively,
+[marginal trade-off]. Compared with [benchmark], [change and reason]."
+For welfare: state the benchmark, write W with government/externality, compute
+the components, draw and explain which transaction is lost/excessive.
+For theory: simple definition ->source of the incentive ->consequence
+->condition/limit linked to the question.
+
+20.6 Suggested revision path, based on the corpus
+Step 1 Foundations: L2–L6, A2; budget, derivatives, costs, elasticities,
+MRS/MRTS, shutdown/entry. Do Q5 unaided to diagnose the basics.
+Step 2 Welfare: L7 and A4.2, then taxes/subsidies E2021/E2022; redo
+CS,PS, government,DWL and each graph with distinct buyer/seller prices.
+Step 3 Market power: L8–L10, A4.1/A4.3/A5; monopoly, Lerner,
+segmentation, subscription, Cournot, Bertrand, Stackelberg and cost variants.
+Step 4 Failures: L11–L12 and A6; social vs private, public vs common,
+Coase, pollution, lemons, IC/IR, credit and penalties.
+Step 5 Exam extras: section 14 and A3; trade, PPF, tariffs,
+platforms, auctions, Edgeworth and sequential games.
+Step 6 Timed papers: solve a whole final, in English and with
+graphs, then correct model errors before arithmetic errors.
+Revise the recent papers and also the oldest ones to vary the models.
+If the midterm is kept, do not sacrifice the main questions to
+prepare only Q5; the basics remain essential for the four big ones.
+
+The date of the final shown in L1 is 23 October 2026. As of 9 October,
+14 days remain: this path can be spread over that period, with
+several active problem-solving sessions and spaced reviews. The date
+remains information from the material, to be checked against your personal notice.
+
+20.7 Exercise generators to ask ChatGPT for
+- Change supply and demand intercepts/slopes then add a tax/subsidy;
+  require reading both prices, the public budget and welfare.
+- Change U, prices, income; first offer an interior case, then a corner,
+  then perfect complements; compare affordable/preferred.
+- Give a multi-price demand and ask for own/cross/income elasticities.
+- Give a production function; ask for MP, MRTS, returns,
+  then minimum cost for an imposed quantity.
+- Give TC and a price; ask for q, profit, PS, SR shutdown/LR exit.
+- Go monopoly->Cournot->Stackelberg->Bertrand; keep the same
+  primitives and ask what changes in the strategic variable.
+- Give two markets with different exclusion prices; require comparing
+  ALL segments and boundaries under a common price.
+- Compare subscription alone, a single price and a two-part tariff.
+- Add a variable externality and a badly calibrated tax; ask for the social
+  benchmark, not just the direction of the change in quantity.
+- Give a public good where one WTP reaches 0 before the candidate optimum;
+  force a piecewise vertical summation.
+- Change pH,pL, repayment, private benefit and own funds in a credit contract.
+- Give monetary matrices and social utilities; recompute best responses.
+- Give a PPF and a world price then a tariff; check the prohibitive threshold and units.
+- Give a sale auction then a procurement one; explain why the second price
+  does not point the same way in both cases.
+- Ask for an English explanation without formulas, then a full derivation.
+
+20.8 Final check of an exam answer
+Does the model match the words "price/quantity", "public/private",
+"fixed fee", "observable", "chooses first"?
+Is the variable differentiated the one actually chosen?
+Is each quantity non-negative and in the right segment?
+Does the FOC describe a valid maximum/minimum, and were corners checked?
+Did I use the costs and probabilities belonging to the right agent?
+Did I explain the mechanism and not just write down a formula?
+Were transfers distinguished from real costs and external damage?
+Is the DWL benchmark explicitly SOCIAL and consistent with the question?
+Do the graph's axes, areas and units match the calculations?
+Is an extra assumption needed, and has it been stated?
+
+End of the dossier. The references S01–S23 lead back to the original
+documents; notation stays local to each exercise. The priority
+is being able to rebuild the logic, not just recognising an acronym.

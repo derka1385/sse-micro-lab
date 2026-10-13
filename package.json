@@ -5,10 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "prebuild": "node scripts/i18n.mjs build && node scripts/i18n.mjs dossier",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "check": "node scripts/check.ts",
-    "check:lessons": "node scripts/check-lessons.mjs"
+    "check:lessons": "node scripts/check-lessons.mjs",
+    "i18n:dossier": "node scripts/i18n.mjs dossier"
   },
   "dependencies": {
     "react": "^19.3.0",

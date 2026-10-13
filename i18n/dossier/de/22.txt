@@ -1,0 +1,214 @@
+======================================================================
+20. FALLEN, KORREKTUREN, GRAFIKEN UND LERNPFAD
+======================================================================
+
+20.1 Korrekturen und Mehrdeutigkeiten, die nicht zu übernehmen sind
+1) A3.1c, gleiche altruistische Präferenzen: reine Nash SS,SN,NS ; NN ist falsch.
+2) A3.2c : ist nur Y bewaffnet, erhält X 1, Y erhält 5-3=2. X nicht die
+   Nettoauszahlung 2 von Y zuschreiben. Das angegebene Ergebnis kann trotz falscher Auszahlung stimmen.
+3) A2.2c : p_R steigt, nominales I bleibt 1200 ; es ist die Beschränkung in
+   Mengen/Kaufkraft, die sich verschärft. „Einkommen sinkt“ zu sagen wäre falsch.
+4) A2.2b : (20,4) hat Nutzen 80, kostet aber 1280 ; das Budget kommt vor der
+   Rangordnung der ERREICHBAREN Bündel. Das letzte Bündel wiederholt (15,5).
+5) Elastizitäten A2 : prozentuale proportionale Rechnung und exakte Lösung einer
+   Funktion mit konstanter Elastizität weichen bei großen Änderungen voneinander ab.
+6) E2024 Q4c/d : Kosten nicht angegeben; die Annahme vor den Zahlen nennen.
+7) E2022 Q4d : Kosten des Bundlings nicht angegeben; die Erlöse 300/260 sind nur
+   bei Kosten null Gewinne; die Annahme erklären.
+8) E2025 Q4e : ein gemeinsamer Schock allein belegt weder private Signale noch
+   einen winner's curse ; Information und bedingte Selektion präzisieren.
+9) E2020 Q4d : keinen Anreizkonflikt erfinden, bevor beide Erwartungswerte
+   berechnet sind. Die gegebenen Zahlen machen die Wahl A/B gleichgerichtet.
+10) E2022 besteuertes Monopol: die Steuer 4 sind keine realen sozialen Kosten 4 ; gesamter DWL 49
+    gegenüber dem effizienten Benchmark ohne Steuer, anders als das abgeschnittene Dreieck 25.
+11) E2025 Stahl: Q in Tausend Tonnen; DWL 10 000 in der Grafik
+    bedeutet 10 Millionen Dollar, nicht 10 000 Dollar.
+12) E2025 Strafe: 60 genügt für schwache IC, strikt mehr als 60 für
+    eine strikte Wahl hoher Qualität ohne Regel für Indifferenz.
+
+20.2 Allgemeine Fehler, die in jeder Übung zu erkennen sind
+- Direkte Nachfrage Q(p) und inverse p(Q) oder ihre Ableitungen verwechseln.
+- Den Monopolpreis auf MR statt auf der Nachfrage ablesen.
+- Den Term Q*p'(Q) in MR vergessen oder MR im Monopol durch p ersetzen.
+- MR=MC verwenden, ohne Maximum, Nichtnegativität, Kapazität und Stilllegung zu prüfen.
+- Bei konstanten MC, gegebenem Preis über MC und unbegrenzter Kapazität
+  existiert ohne weitere Grenze kein endliches optimales q ; p=MC löst
+  keine Maximierung mit konstanter positiver Marge.
+- MU,MP,MR,MC,MB oder MRS,MRTS,MRT verwechseln.
+- Steigung und Elastizität verwechseln; den Faktor p/Q und das Vorzeichen vergessen.
+- Preise privater Nachfragen addieren statt der Mengen.
+- Nachfragen nach einem öffentlichen Gut horizontal addieren.
+- Negative Nachfragen/Mengen in einer Marktsumme lassen.
+- Gewinne von Firma i mit dem Markt-Q statt mit q_i berechnen.
+- Die Fixkosten in einer Grenzableitung variieren, in der sie konstant sind.
+- Jede Firma mit pi<0 stilllegen, obwohl R die VC deckt und FC unvermeidbar ist.
+- Behaupten „ökonomischer Gewinn null ->kein Einkommen“.
+- Abnehmendes Grenzprodukt mit fallenden Skalenerträgen gleichsetzen.
+- PS mit Gewinn verwechseln, wenn FC ungleich null ist.
+- Steuereinnahmen als sozialen Verlust zählen oder die Haushaltskosten
+  einer Subvention vergessen; externe Schäden/Nutzen weglassen.
+- DWL am privaten Q messen, obwohl bereits eine Externalität besteht.
+- Pigou-Steuer=MEC(QAnfang) wählen, obwohl MEC von Q abhängt.
+- Jeden Rabatt für profitabel halten, ohne Kapazität oder Arbitrage zu beachten.
+- p_Nutzung=MC auf jedes Abo mit heterogener Kundschaft anwenden.
+- Ein reines Abo mit dem zweistufigen Tarif verwechseln.
+- Die Reaktion des Followers in der Ableitung des Leaders vergessen.
+- Preiswettbewerb bei homogenen und bei differenzierten Produkten verwechseln.
+- Behaupten, eine Markteintrittsbarriere wirke nur kurzfristig.
+- Adverse selection(Typ) und moral hazard(Handlung) verwechseln.
+- Die Rentabilität der Bank mit pH prüfen, ohne zu prüfen, dass der Agent H wählt.
+- Außenoption/Teilnahme vergessen, auch wenn IC erfüllt ist.
+- Den komparativen Vorteil nur anhand der absoluten Produktivität berechnen.
+- Aus einer aggregierten Wohlfahrtsaussage eine Aussage für alle machen.
+- Zahlen nennen, ohne den mit „explain“ verlangten Mechanismus zu erklären.
+
+20.3 Grafikheft: ohne Vorlage nachzeichnen können
+G1 Angebot/Nachfrage: Q horizontal,p vertikal; Achsenabschnitte, Gleichgewicht und Schockpfeile.
+G2 Budget/Indifferenz: Namen beider Güter, Achsenabschnitte I/p, relative Steigung,
+   höchste erreichbare Kurve, Tangentialpunkt oder Ecke/Knick.
+G3 Individuelle Nachfrage: Optimum bei mehreren Preisen, Übertragen der Paare (p,q).
+G4 Isoquante/Isokosten: L horizontal,K vertikal, Q fest, tangentiale Minimalkosten;
+   neuer Tangentialpunkt nach Anstieg von w, ohne die Zielisoquante zu verschieben.
+G5 MC/ATC/AVC der Firma: horizontales p, optimales q, Gewinn-/Verlustrechteck,
+   Stilllegungs- und Austrittsschwellen. Marktgrafik für Ein-/Austritt hinzufügen.
+G6 Wettbewerbsrente: CS unter der Nachfrage/über dem Preis, PS über dem
+   Angebot/unter dem Preis; Geldeinheiten jeder Fläche.
+G7 Steuer/Subvention: ANFÄNGLICHE Nachfrage und Angebot, neues Q, zwei Preise,
+   Keil, Rechteck des Staates, DWL-Dreiecke; Haushaltsvorzeichen angeben.
+G8 Höchst-/Mindestpreis: regulierte Höhe, verschiedene QS und QD,
+   tatsächlich gehandelte Menge und Rationierungsannahme.
+G9 Monopol: D,MR,MC, eventuell ATC ; Qm,pm,Qeff, Gewinn,CS,DWL.
+G10 Diskriminierung: zwei getrennte Märkte, dann aggregierte Nachfrage mit Knick;
+    Gruppen unterscheiden, die je nach Einheitspreis ein-/austreten.
+G11 Zweistufiger Tarif: Nutzungspreis, Menge, durch F abgeschöpftes CS-Dreieck;
+    kostenlose Nutzung vergleichen, wenn die Aufgabe nur ein Abo vorgibt.
+G12 Cournot : beide Reaktionen in DENSELBEN Achsen, Schnittpunkt und Kostenschock.
+G13 Stackelberg : Reaktion des Followers, Position des Leaders, Vergleich mit Nash.
+G14 Differenziertes Bertrand: Achsen p1,p2, steigende Reaktionen, Verschiebung durch Steuer/Kosten.
+G15 Externalität: relevante MPB,MPC,MSB/MSC, Qpriv,Qeff, Steuer/Subvention,DWL.
+G16 Verschmutzung: Verschmutzung ODER Vermeidung auf x angeben, MAC und MEC, horizontale
+    Steuer oder vertikale Quote; nicht nur ein Outputdiagramm.
+G17 Zertifikate mit zwei Firmen: verschiedene MAC, Anfangsquote, Käufe/Verkäufe,
+    gemeinsame finale Grenzkosten und unveränderte Gesamtobergrenze.
+G18 Öffentliches Gut: individuelle MB und VERTIKALE Summe, Knicke, MC, Qeff.
+G19 PPF und Handel: zwei Güter, Achsenabschnitte, Opportunitätskosten, Preis-
+    gerade, getrennte Produktion und Konsum, relevante Indifferenzkurve.
+G20 Importzoll: inländisches Angebot/Nachfrage, pw,pw+tau,Qs/Qd/Importe,
+    verlorene CS, gewonnene PS, Einnahmen, zwei Dreiecke.
+G21 Edgeworth : zwei gegenüberliegende Ursprünge, Ausstattung, Indifferenzkurven beider,
+    Verbesserungszone und effiziente Allokationen, einschließlich der Ränder.
+G22 Sequenzielles Spiel: Knoten und Reihenfolge, Aktionen, NETTO-Auszahlungen, Wahl der
+    letzten, dann der ersten Seite; vollständige Strategie des Followers aufschreiben.
+Eine Grafik ohne Achsen oder ohne Benchmark ersetzt keine Erklärung.
+
+20.4 Kurze englische Definitionen für die Q5
+Normal good: A good people buy more of when their income rises, other
+  things equal.
+Inferior good: A good people buy less of when their income rises, other
+  things equal.
+Luxury good: A good for which demand rises more than proportionally with income.
+Perfect substitutes: Goods a person is willing to exchange at a constant rate.
+Perfect complements: Goods that are useful together in fixed proportions.
+Indifference curve: Combinations of goods that give a consumer the same satisfaction.
+Engel curve: The quantity a consumer chooses at different incomes, holding prices fixed.
+Marginal utility: The extra satisfaction from consuming an additional unit of a good.
+Marginal rate of substitution: The amount of one good a consumer is willing
+  to give up for a little more of another while remaining equally well off.
+Marginal product of capital: The extra output from additional capital,
+  holding other inputs fixed.
+Decreasing marginal product of capital: Additional capital adds less and
+  less output as capital increases while other inputs stay fixed.
+Isoquant: Combinations of inputs that produce the same amount of output.
+Isocost: Combinations of inputs that have the same total cost.
+Marginal rate of technical substitution: The amount of one input that can
+  be saved by using more of another while keeping output unchanged.
+Increasing returns to scale: Increasing all inputs by a given proportion
+  increases output by a greater proportion.
+Constant returns to scale: Increasing all inputs by a given proportion
+  increases output by the same proportion.
+Decreasing returns to scale: Increasing all inputs by a given proportion
+  increases output by a smaller proportion.
+Economies of scale: Average production cost falls as output increases.
+Unit elastic demand: A one-percent price increase reduces quantity demanded
+  by one percent, locally and holding other determinants fixed.
+Income elasticity: The percentage change in demand associated with a
+  one-percent income increase, holding other determinants fixed.
+Cross-price elasticity: The percentage change in demand for one good
+  associated with a one-percent change in another good's price.
+Hier vorbereitete didaktische Formulierungen; nicht als Sätze aus
+einem offiziellen Bewertungsschema ausgeben.
+
+20.5 Antwortschema für eine Rechenaufgabe
+„The firm chooses [variable] to maximize [objective], taking [given]
+as given. Its profit is [function]. The first-order condition is [equation],
+which gives [quantity/price]. Substituting into [demand/cost] gives [rest].
+The result is valid because [domain/maximum/participation]. Intuitively,
+[marginal trade-off]. Compared with [benchmark], [change and reason].“
+Für Wohlfahrt: Benchmark nennen, W mit Staat/Externalität aufschreiben, die
+Komponenten berechnen, zeichnen und erklären, welche Transaktion verloren/übermäßig ist.
+Für Theorie: einfache Definition ->Quelle des Anreizes ->Folge
+->Bedingung/Grenze mit Bezug zur Aufgabe.
+
+20.6 Vorgeschlagener Lernpfad, gestützt auf den Korpus
+Schritt 1 Grundlagen: L2–L6, A2 ; Budget, Ableitungen, Kosten, Elastizitäten,
+MRS/MRTS, Stilllegung/Eintritt. Q5 ohne Hilfe lösen, um die Grundlagen zu prüfen.
+Schritt 2 Wohlfahrt: L7 und A4.2, dann Steuern/Subventionen E2021/E2022 ; CS,
+PS, Staat,DWL und jede Grafik mit getrennten Käufer-/Verkäuferpreisen wiederholen.
+Schritt 3 Marktmacht: L8–L10, A4.1/A4.3/A5 ; Monopol, Lerner,
+Segmentierung, Abo, Cournot, Bertrand, Stackelberg und Kostenvarianten.
+Schritt 4 Marktversagen: L11–L12 und A6 ; sozial vs. privat, öffentlich vs. Allmende,
+Coase, Verschmutzung, lemons, IC/IR, Kredit und Strafen.
+Schritt 5 Prüfungsergänzungen: Abschnitt 14 und A3 ; Handel, PPF, Zölle,
+Plattformen, Auktionen, Edgeworth und sequenzielle Spiele.
+Schritt 6 Prüfungen auf Zeit: eine ganze Abschlussprüfung lösen, auf Englisch und mit
+Grafiken, dann Modellfehler vor Rechenfehlern korrigieren.
+Die jüngsten und auch die ältesten Prüfungen wiederholen, um die Modelle zu variieren.
+Wenn das Midterm angerechnet wird, nicht die Hauptfragen opfern, um
+nur Q5 vorzubereiten; die Grundlagen bleiben für die vier großen unverzichtbar.
+
+Das in L1 angegebene Datum der Abschlussprüfung ist der 23. Oktober 2026. Am 9. Oktober
+bleiben 14 Tage: dieser Pfad lässt sich über diesen Zeitraum verteilen, mit
+mehreren aktiven Lösungssitzungen und verteilten Wiederholungen. Das Datum
+bleibt eine Angabe aus dem Material und ist mit der persönlichen Einladung abzugleichen.
+
+20.7 Übungsgeneratoren, um die man ChatGPT bitten kann
+- Achsenabschnitte/Steigungen von Angebot und Nachfrage ändern, dann Steuer/Subvention hinzufügen;
+  das Ablesen beider Preise, des Staatshaushalts und der Wohlfahrt verlangen.
+- U, Preise, Einkommen ändern; zuerst einen inneren Fall, dann eine Ecke,
+  dann perfekte Komplemente vorgeben; erreichbar/bevorzugt vergleichen.
+- Eine Nachfrage mit mehreren Preisen geben und Eigen-/Kreuz-/Einkommenselastizitäten verlangen.
+- Eine Produktionsfunktion geben; MP, MRTS, Skalenerträge verlangen,
+  dann minimale Kosten für eine vorgegebene Menge.
+- TC und Preis geben; q, Gewinn, PS, kurzfristige Stilllegung/langfristigen Austritt verlangen.
+- Monopol->Cournot->Stackelberg->Bertrand durchgehen; dieselben
+  Grundannahmen behalten und fragen, was sich an der strategischen Variable ändert.
+- Zwei Märkte mit verschiedenen Ausschlusspreisen geben; den Vergleich
+  ALLER Segmente und Ränder beim Einheitspreis verlangen.
+- Reines Abo, Einheitspreis und zweistufigen Tarif vergleichen.
+- Eine variable Externalität und eine schlecht kalibrierte Steuer hinzufügen; den sozialen
+  Benchmark verlangen, nicht nur die Richtung der Mengenänderung.
+- Ein öffentliches Gut geben, bei dem eine WTP vor dem Kandidatenoptimum 0 wird;
+  eine stückweise vertikale Summierung erzwingen.
+- pH,pL, Rückzahlung, privaten Vorteil und Eigenmittel in einem Kreditvertrag ändern.
+- Geldmatrizen und soziale Nutzen geben; beste Antworten neu berechnen.
+- PPF und Weltmarktpreis, dann einen Zoll geben; prohibitive Schwelle und Einheiten prüfen.
+- Eine Verkaufsauktion, dann eine Beschaffung geben; erklären, warum der zweite Preis
+  nicht in beiden Fällen in dieselbe Richtung weist.
+- Eine englische Erklärung ohne Formel verlangen, dann eine vollständige Herleitung.
+
+20.8 Abschlusskontrolle einer Prüfungsantwort
+Passt das Modell zu den Wörtern „price/quantity“, „public/private“,
+„fixed fee“, „observable“, „chooses first“?
+Ist die abgeleitete Variable die tatsächlich gewählte?
+Ist jede Menge nichtnegativ und im richtigen Segment?
+Beschreibt die FOC ein gültiges Maximum/Minimum, und wurden Ecken geprüft?
+Habe ich die Kosten und Wahrscheinlichkeiten der richtigen Akteure verwendet?
+Habe ich den Mechanismus erklärt und nicht nur eine Formel hingeschrieben?
+Wurden Transfers von realen Kosten und externem Schaden unterschieden?
+Ist der DWL-Benchmark ausdrücklich SOZIAL und mit der Aufgabe konsistent?
+Passen Achsen, Flächen und Einheiten der Grafik zu den Rechnungen?
+Ist eine zusätzliche Annahme nötig, und wurde sie genannt?
+
+Ende des Dossiers. Die Verweise S01–S23 führen zu den
+Originaldokumenten zurück; die Notation gilt jeweils nur in der Übung. Vorrang
+hat, die Logik rekonstruieren zu können, nicht nur ein Kürzel zu erkennen.

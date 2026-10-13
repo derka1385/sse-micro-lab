@@ -1,0 +1,214 @@
+======================================================================
+20. PITFALLS, CORRECTIONS, GRAPHS AND REVISION PATH
+======================================================================
+
+20.1 Corrections and ambiguities not to reproduce
+1) A3.1c, equal altruistic preferences: pure Nash SS,SN,NS; NN is wrong.
+2) A3.2c: if Y alone is armed, X receives 1, Y receives 5-3=2. Do not give
+   X the net payoff 2 of Y. The stated outcome can be right despite a wrong payoff.
+3) A2.2c: p_R rises, nominal I remains 1200; it is the constraint in
+   quantities/purchasing power that tightens. Saying "income falls" would be wrong.
+4) A2.2b: (20,4) has utility 80 but costs 1280; the budget comes first, before
+   ranking the AFFORDABLE bundles. The last bundle repeats (15,5).
+5) A2 elasticities: the proportional % calculation and the exact solution of a
+   constant-elasticity function diverge for large changes.
+6) E2024 Q4c/d: cost not specified; state the assumption before the figures.
+7) E2022 Q4d: bundling costs not specified; the revenues 300/260 are only
+   profits at zero cost; explain the assumption.
+8) E2025 Q4e: a common shock alone does not demonstrate private signals or
+   a winner's curse; specify information and conditional selection.
+9) E2020 Q4d: do not invent an incentive conflict before computing
+   both expectations. The numbers given align the A/B choice.
+10) E2022 taxed monopoly: the tax of 4 is not a real social cost of 4; total DWL 49
+    against the efficient no-tax benchmark, unlike the truncated triangle 25.
+11) E2025 steel: Q in thousands of tonnes; DWL 10 000 in the diagram
+    means 10 million dollars, not 10 000 dollars.
+12) E2025 penalty: 60 is enough for weak IC, strictly more than 60 for
+    a strict choice of high quality without a tie-breaking rule.
+
+20.2 General errors to spot in every exercise
+- Confusing direct demand Q(p) and inverse demand p(Q), or their derivatives.
+- Reading the monopoly price on MR instead of on demand.
+- Forgetting the term Q*p'(Q) in MR, or replacing MR with p under monopoly.
+- Using MR=MC without checking for a maximum, non-negativity, capacity and shutdown.
+- With constant MC, a given price above MC and unlimited capacity,
+  no finite optimum q exists without another limit; p=MC does not solve
+  a maximisation with a constant positive margin.
+- Confusing MU,MP,MR,MC,MB or MRS,MRTS,MRT.
+- Confusing slope and elasticity; forgetting the factor p/Q and the sign.
+- Adding the prices of private demands instead of the quantities.
+- Adding public-good demands horizontally.
+- Leaving negative demands/quantities in a market sum.
+- Deriving firm i's profits with market Q instead of q_i.
+- Varying the fixed cost in a marginal derivative where it is constant.
+- Shutting down every firm with pi<0 even if R covers VC and FC is unavoidable.
+- Claiming "zero economic profit ->no income".
+- Equating diminishing marginal product with decreasing returns to scale.
+- Confusing PS with profit when FC is non-zero.
+- Counting tax revenue as a social loss, or forgetting the budget cost
+  of a subsidy; omitting external damages/benefits.
+- Measuring DWL against the private Q when an externality already exists.
+- Choosing a Pigouvian tax=MEC(Qinitial) when MEC depends on Q.
+- Concluding any discount is profitable without considering capacity or arbitrage.
+- Applying p_usage=MC to every subscription with heterogeneous customers.
+- Confusing a subscription alone with a two-part tariff.
+- Forgetting the follower's reaction in the leader's derivative.
+- Confusing price competition with homogeneous and with differentiated products.
+- Claiming a barrier to entry only affects the short run.
+- Confusing adverse selection(type) and moral hazard(action).
+- Checking the bank's profitability with pH without checking that the agent chooses H.
+- Forgetting the outside option/participation even if IC is satisfied.
+- Computing comparative advantage by looking only at absolute productivity.
+- Turning an aggregate welfare conclusion into a conclusion for everyone.
+- Giving numbers without explaining the mechanism asked for by "explain".
+
+20.3 Graph workbook to redraw without a template
+G1 Supply/demand: Q horizontal,p vertical; intercepts, equilibrium and shock arrows.
+G2 Budget/indifference: names of both goods, intercepts I/p, relative slope,
+   highest reachable curve, tangency or corner/kink.
+G3 Individual demand: optimum at several prices, plotting the pairs (p,q).
+G4 Isoquant/isocost: L horizontal,K vertical, Q fixed, tangent minimum cost;
+   new tangency after w rises, without moving the target isoquant.
+G5 Firm MC/ATC/AVC: horizontal p, optimal q, profit/loss rectangle,
+   shutdown and exit thresholds. Add a market graph for entry/exit.
+G6 Competitive surplus: CS under demand/above price, PS above
+   supply/below price; monetary units of each area.
+G7 Tax/subsidy: INITIAL demand and supply, new Q, two prices,
+   wedge, government rectangle, DWL triangles; state the budget sign.
+G8 Price ceiling/floor: regulated level, distinct QS and QD,
+   volume actually traded and rationing assumption.
+G9 Monopoly: D,MR,MC, possibly ATC; Qm,pm,Qeff, profit,CS,DWL.
+G10 Discrimination: two separate markets then aggregate demand with a kink;
+    distinguish groups that enter/leave depending on the common price.
+G11 Two-part tariff: usage price, quantity, CS triangle captured by F;
+    compare free usage if the question imposes a subscription only.
+G12 Cournot: both reactions on the SAME axes, intersection and cost shock.
+G13 Stackelberg: follower's reaction, leader's position, comparison with Nash.
+G14 Differentiated Bertrand: axes p1,p2, upward reactions, shift by tax/cost.
+G15 Externality: relevant MPB,MPC,MSB/MSC, Qpriv,Qeff, tax/subsidy,DWL.
+G16 Pollution: label pollution OR abatement on x, MAC and MEC, horizontal
+    tax or vertical quota; not just an output diagram.
+G17 Permits with two firms: different MACs, initial quota, purchases/sales,
+    common final marginal cost and unchanged total cap.
+G18 Public good: individual MBs and VERTICAL sum, kinks, MC, Qeff.
+G19 PPF and trade: two goods, intercepts, opportunity cost, price
+    line, separate production and consumption, relevant indifference curve.
+G20 Import tariff: domestic supply/demand, pw,pw+tau,Qs/Qd/imports,
+    CS lost,PS gained, revenue, two triangles.
+G21 Edgeworth: two opposite origins, endowment, both indifference curves,
+    zone of improvement and efficient allocations, including edges.
+G22 Sequential game: nodes and order, actions, NET payoffs, the last
+    player's choice then the first's; write the follower's complete strategy.
+A graph without axes or without a benchmark does not replace an explanation.
+
+20.4 Short definitions in English for the Q5
+Normal good: A good people buy more of when their income rises, other
+  things equal.
+Inferior good: A good people buy less of when their income rises, other
+  things equal.
+Luxury good: A good for which demand rises more than proportionally with income.
+Perfect substitutes: Goods a person is willing to exchange at a constant rate.
+Perfect complements: Goods that are useful together in fixed proportions.
+Indifference curve: Combinations of goods that give a consumer the same satisfaction.
+Engel curve: The quantity a consumer chooses at different incomes, holding prices fixed.
+Marginal utility: The extra satisfaction from consuming an additional unit of a good.
+Marginal rate of substitution: The amount of one good a consumer is willing
+  to give up for a little more of another while remaining equally well off.
+Marginal product of capital: The extra output from additional capital,
+  holding other inputs fixed.
+Decreasing marginal product of capital: Additional capital adds less and
+  less output as capital increases while other inputs stay fixed.
+Isoquant: Combinations of inputs that produce the same amount of output.
+Isocost: Combinations of inputs that have the same total cost.
+Marginal rate of technical substitution: The amount of one input that can
+  be saved by using more of another while keeping output unchanged.
+Increasing returns to scale: Increasing all inputs by a given proportion
+  increases output by a greater proportion.
+Constant returns to scale: Increasing all inputs by a given proportion
+  increases output by the same proportion.
+Decreasing returns to scale: Increasing all inputs by a given proportion
+  increases output by a smaller proportion.
+Economies of scale: Average production cost falls as output increases.
+Unit elastic demand: A one-percent price increase reduces quantity demanded
+  by one percent, locally and holding other determinants fixed.
+Income elasticity: The percentage change in demand associated with a
+  one-percent income increase, holding other determinants fixed.
+Cross-price elasticity: The percentage change in demand for one good
+  associated with a one-percent change in another good's price.
+Teaching formulations prepared here; do not present them as
+sentences taken from an official marking scheme.
+
+20.5 Answer template for a calculation question
+"The firm chooses [variable] to maximize [objective], taking [given]
+as given. Its profit is [function]. The first-order condition is [equation],
+which gives [quantity/price]. Substituting into [demand/cost] gives [rest].
+The result is valid because [domain/maximum/participation]. Intuitively,
+[marginal trade-off]. Compared with [benchmark], [change and reason]."
+For welfare: state the benchmark, write W with government/externality, compute
+the components, draw and explain which transaction is lost/excessive.
+For theory: simple definition ->source of the incentive ->consequence
+->condition/limit linked to the question.
+
+20.6 Suggested revision path, based on the corpus
+Step 1 Foundations: L2–L6, A2; budget, derivatives, costs, elasticities,
+MRS/MRTS, shutdown/entry. Do Q5 unaided to diagnose the basics.
+Step 2 Welfare: L7 and A4.2, then taxes/subsidies E2021/E2022; redo
+CS,PS, government,DWL and each graph with distinct buyer/seller prices.
+Step 3 Market power: L8–L10, A4.1/A4.3/A5; monopoly, Lerner,
+segmentation, subscription, Cournot, Bertrand, Stackelberg and cost variants.
+Step 4 Failures: L11–L12 and A6; social vs private, public vs common,
+Coase, pollution, lemons, IC/IR, credit and penalties.
+Step 5 Exam extras: section 14 and A3; trade, PPF, tariffs,
+platforms, auctions, Edgeworth and sequential games.
+Step 6 Timed papers: solve a whole final, in English and with
+graphs, then correct model errors before arithmetic errors.
+Revise the recent papers and also the oldest ones to vary the models.
+If the midterm is kept, do not sacrifice the main questions to
+prepare only Q5; the basics remain essential for the four big ones.
+
+The date of the final shown in L1 is 23 October 2026. As of 9 October,
+14 days remain: this path can be spread over that period, with
+several active problem-solving sessions and spaced reviews. The date
+remains information from the material, to be checked against your personal notice.
+
+20.7 Exercise generators to ask ChatGPT for
+- Change supply and demand intercepts/slopes then add a tax/subsidy;
+  require reading both prices, the public budget and welfare.
+- Change U, prices, income; first offer an interior case, then a corner,
+  then perfect complements; compare affordable/preferred.
+- Give a multi-price demand and ask for own/cross/income elasticities.
+- Give a production function; ask for MP, MRTS, returns,
+  then minimum cost for an imposed quantity.
+- Give TC and a price; ask for q, profit, PS, SR shutdown/LR exit.
+- Go monopoly->Cournot->Stackelberg->Bertrand; keep the same
+  primitives and ask what changes in the strategic variable.
+- Give two markets with different exclusion prices; require comparing
+  ALL segments and boundaries under a common price.
+- Compare subscription alone, a single price and a two-part tariff.
+- Add a variable externality and a badly calibrated tax; ask for the social
+  benchmark, not just the direction of the change in quantity.
+- Give a public good where one WTP reaches 0 before the candidate optimum;
+  force a piecewise vertical summation.
+- Change pH,pL, repayment, private benefit and own funds in a credit contract.
+- Give monetary matrices and social utilities; recompute best responses.
+- Give a PPF and a world price then a tariff; check the prohibitive threshold and units.
+- Give a sale auction then a procurement one; explain why the second price
+  does not point the same way in both cases.
+- Ask for an English explanation without formulas, then a full derivation.
+
+20.8 Final check of an exam answer
+Does the model match the words "price/quantity", "public/private",
+"fixed fee", "observable", "chooses first"?
+Is the variable differentiated the one actually chosen?
+Is each quantity non-negative and in the right segment?
+Does the FOC describe a valid maximum/minimum, and were corners checked?
+Did I use the costs and probabilities belonging to the right agent?
+Did I explain the mechanism and not just write down a formula?
+Were transfers distinguished from real costs and external damage?
+Is the DWL benchmark explicitly SOCIAL and consistent with the question?
+Do the graph's axes, areas and units match the calculations?
+Is an extra assumption needed, and has it been stated?
+
+End of the dossier. The references S01–S23 lead back to the original
+documents; notation stays local to each exercise. The priority
+is being able to rebuild the logic, not just recognising an acronym.

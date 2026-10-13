@@ -1,0 +1,214 @@
+======================================================================
+20. FALLGROPAR, RÄTTELSER, DIAGRAM OCH REPETITIONSPLAN
+======================================================================
+
+20.1 Rättelser och tvetydigheter som inte ska upprepas
+1) A3.1c, lika altruistiska preferenser: rena Nash SS,SN,NS ; NN är fel.
+2) A3.2c : om bara Y är beväpnad får X 1, Y får 5-3=2. Ge inte
+   X Y:s nettoutbetalning 2. Det angivna utfallet kan stämma trots en felaktig utbetalning.
+3) A2.2c : p_R stiger, nominellt I förblir 1200 ; det är begränsningen i
+   kvantiteter/köpkraft som stramas åt. Att säga « inkomsten sjunker » vore fel.
+4) A2.2b : (20,4) har nyttan 80 men kostar 1280 ; budgeten kommer före
+   rangordningen av MÖJLIGA korgar. Den sista korgen upprepar (15,5).
+5) Elasticiteter A2 : proportionell %-beräkning och den exakta lösningen för en
+   funktion med konstant elasticitet skiljer sig vid stora förändringar.
+6) E2024 Q4c/d : kostnad ej angiven; ange antagandet före siffrorna.
+7) E2022 Q4d : paketeringens kostnader ej angivna; intäkterna 300/260 är
+   vinster bara vid nollkostnader; förklara antagandet.
+8) E2025 Q4e : en gemensam chock visar inte i sig privata signaler eller
+   en winner's curse ; precisera information och villkorat urval.
+9) E2020 Q4d : hitta inte på en incitamentskonflikt innan båda
+   väntevärdena beräknats. De givna siffrorna gör valet A/B samstämmigt.
+10) E2022 beskattat monopol: skatten 4 är ingen verklig samhällskostnad på 4 ; total DWL 49
+    mot det effektiva riktmärket utan skatt, till skillnad från den kapade triangeln 25.
+11) E2025 stål: Q i tusentals ton; DWL 10 000 i diagrammet
+    betyder 10 miljoner dollar, inte 10 000 dollar.
+12) E2025 straff: 60 räcker för svagt IC, strikt mer än 60 för
+    ett strikt val av hög kvalitet utan regel för indifferens.
+
+20.2 Allmänna fel att upptäcka i varje övning
+- Blanda ihop direkt efterfrågan Q(p) och invers p(Q), eller deras derivator.
+- Läsa av monopolpriset på MR i stället för på efterfrågan.
+- Glömma termen Q*p'(Q) i MR, eller ersätta MR med p i monopol.
+- Använda MR=MC utan att kontrollera maximum, icke-negativitet, kapacitet och nedstängning.
+- Med konstant MC, ett givet pris över MC och obegränsad kapacitet
+  finns inget ändligt optimalt q utan en annan gräns; p=MC löser inte
+  en maximering med konstant positiv marginal.
+- Blanda ihop MU,MP,MR,MC,MB eller MRS,MRTS,MRT.
+- Blanda ihop lutning och elasticitet; glömma faktorn p/Q och tecknet.
+- Addera priserna i privata efterfrågekurvor i stället för kvantiteterna.
+- Addera efterfrågan på en kollektiv nyttighet horisontellt.
+- Lämna negativa efterfrågekurvor/kvantiteter i en marknadssumma.
+- Härleda företag i:s vinst med marknadens Q i stället för q_i.
+- Låta den fasta kostnaden variera i en marginalderivata där den är konstant.
+- Lägga ner varje företag med pi<0 även om R täcker VC och FC är oundviklig.
+- Påstå « noll ekonomisk vinst ->ingen inkomst ».
+- Likställa avtagande marginalprodukt med avtagande skalavkastning.
+- Blanda ihop PS med vinst när FC inte är noll.
+- Räkna skatteintäkter som en samhällsförlust, eller glömma budgetkostnaden
+  för en subvention; utelämna externa skador/nyttor.
+- Mäta DWL mot det privata Q när en externalitet redan finns.
+- Välja Pigouskatt=MEC(Qinitial) när MEC beror på Q.
+- Dra slutsatsen att varje rabatt är lönsam utan hänsyn till kapacitet eller arbitrage.
+- Tillämpa p_användning=MC på varje abonnemang med heterogena kunder.
+- Blanda ihop enbart abonnemang och tvådelad tariff.
+- Glömma följarens reaktion i ledarens derivata.
+- Blanda ihop priskonkurrens med homogena och med differentierade produkter.
+- Påstå att ett inträdeshinder bara påverkar kort sikt.
+- Blanda ihop adverse selection(typ) och moral hazard(handling).
+- Kontrollera bankens lönsamhet med pH utan att kontrollera att agenten väljer H.
+- Glömma det yttre alternativet/deltagandet även om IC är uppfyllt.
+- Beräkna komparativ fördel genom att bara se på absolut produktivitet.
+- Göra en aggregerad välfärdsslutsats till en slutsats för alla.
+- Ge siffror utan att förklara den mekanism som « explain » efterfrågar.
+
+20.3 Diagramhäfte att kunna rita om utan förlaga
+G1 Utbud/efterfrågan: Q horisontell,p vertikal; skärningspunkter, jämvikt och chockpilar.
+G2 Budget/indifferens: båda varornas namn, skärningspunkter I/p, relativ lutning,
+   högsta nåbara kurva, tangering eller hörn/knyck.
+G3 Individuell efterfrågan: optimum vid flera priser, överföring av paren (p,q).
+G4 Isokvant/isokostnad: L horisontell,K vertikal, Q fast, tangerande minimikostnad;
+   ny tangering efter höjt w, utan att flytta målisokvanten.
+G5 Företagets MC/ATC/AVC: horisontellt p, optimalt q, vinst-/förlustrektangel,
+   trösklar för nedstängning och utträde. Lägg till ett marknadsdiagram för inträde/utträde.
+G6 Konkurrensöverskott: CS under efterfrågan/över priset, PS över
+   utbudet/under priset; varje ytas penningenheter.
+G7 Skatt/subvention: URSPRUNGLIG efterfrågan och utbud, nytt Q, två priser,
+   kil, statens rektangel, DWL-trianglar; ange budgettecknet.
+G8 Pristak/prisgolv: reglerad nivå, olika QS och QD,
+   faktiskt handlad volym och antagande om ransonering.
+G9 Monopol: D,MR,MC, eventuellt ATC ; Qm,pm,Qeff, vinst,CS,DWL.
+G10 Diskriminering: två separata marknader, sedan aggregerad efterfrågan med knyck;
+    skilj grupper som går in/ut beroende på det gemensamma priset.
+G11 Tvådelad tariff: användningspris, kvantitet, CS-triangel som tas ut via F ;
+    jämför fri användning om uppgiften föreskriver bara abonnemang.
+G12 Cournot : båda reaktionerna i SAMMA axlar, skärning och kostnadschock.
+G13 Stackelberg : följarens reaktion, ledarens position, jämförelse med Nash.
+G14 Differentierad Bertrand: axlar p1,p2, stigande reaktioner, förskjutning genom skatt/kostnad.
+G15 Externalitet: relevanta MPB,MPC,MSB/MSC, Qpriv,Qeff, skatt/subvention,DWL.
+G16 Förorening: ange förorening ELLER rening på x, MAC och MEC, horisontell
+    skatt eller vertikal kvot; inte bara ett outputdiagram.
+G17 Utsläppsrätter med två företag: olika MAC, initial kvot, köp/försäljning,
+    gemensam slutlig marginalkostnad och oförändrat totalt tak.
+G18 Kollektiv nyttighet: individuella MB och VERTIKAL summa, knyckar, MC, Qeff.
+G19 PPF och handel: två varor, skärningspunkter, alternativkostnad, pris-
+    linje, separat produktion och konsumtion, relevant indifferenskurva.
+G20 Importtull: inhemskt utbud/efterfrågan, pw,pw+tau,Qs/Qd/import,
+    förlorat CS, vunnet PS, intäkter, två trianglar.
+G21 Edgeworth : två motsatta origon, begåvning, bådas indifferenskurvor,
+    förbättringszon och effektiva allokeringar, inklusive kanterna.
+G22 Sekventiellt spel: noder och ordning, handlingar, NETTOutbetalningar, den sista
+    spelarens val och sedan den förstas; skriv följarens fullständiga strategi.
+Ett diagram utan axlar eller utan riktmärke ersätter inte en förklaring.
+
+20.4 Korta engelska definitioner för Q5
+Normal good: A good people buy more of when their income rises, other
+  things equal.
+Inferior good: A good people buy less of when their income rises, other
+  things equal.
+Luxury good: A good for which demand rises more than proportionally with income.
+Perfect substitutes: Goods a person is willing to exchange at a constant rate.
+Perfect complements: Goods that are useful together in fixed proportions.
+Indifference curve: Combinations of goods that give a consumer the same satisfaction.
+Engel curve: The quantity a consumer chooses at different incomes, holding prices fixed.
+Marginal utility: The extra satisfaction from consuming an additional unit of a good.
+Marginal rate of substitution: The amount of one good a consumer is willing
+  to give up for a little more of another while remaining equally well off.
+Marginal product of capital: The extra output from additional capital,
+  holding other inputs fixed.
+Decreasing marginal product of capital: Additional capital adds less and
+  less output as capital increases while other inputs stay fixed.
+Isoquant: Combinations of inputs that produce the same amount of output.
+Isocost: Combinations of inputs that have the same total cost.
+Marginal rate of technical substitution: The amount of one input that can
+  be saved by using more of another while keeping output unchanged.
+Increasing returns to scale: Increasing all inputs by a given proportion
+  increases output by a greater proportion.
+Constant returns to scale: Increasing all inputs by a given proportion
+  increases output by the same proportion.
+Decreasing returns to scale: Increasing all inputs by a given proportion
+  increases output by a smaller proportion.
+Economies of scale: Average production cost falls as output increases.
+Unit elastic demand: A one-percent price increase reduces quantity demanded
+  by one percent, locally and holding other determinants fixed.
+Income elasticity: The percentage change in demand associated with a
+  one-percent income increase, holding other determinants fixed.
+Cross-price elasticity: The percentage change in demand for one good
+  associated with a one-percent change in another good's price.
+Pedagogiska formuleringar förberedda här; presentera dem inte som
+meningar hämtade ur en officiell rättningsmall.
+
+20.5 Svarsmall för en beräkningsfråga
+« The firm chooses [variable] to maximize [objective], taking [given]
+as given. Its profit is [function]. The first-order condition is [equation],
+which gives [quantity/price]. Substituting into [demand/cost] gives [rest].
+The result is valid because [domain/maximum/participation]. Intuitively,
+[marginal trade-off]. Compared with [benchmark], [change and reason]. »
+För välfärd: ange riktmärket, skriv W med stat/externalitet, beräkna
+komponenterna, rita och förklara vilken transaktion som går förlorad/är överdriven.
+För teori: enkel definition ->incitamentets källa ->konsekvens
+->villkor/begränsning kopplad till uppgiften.
+
+20.6 Föreslagen repetitionsplan, byggd på korpusen
+Steg 1 Grunder: L2–L6, A2 ; budget, derivator, kostnader, elasticiteter,
+MRS/MRTS, nedstängning/inträde. Gör Q5 utan hjälp för att diagnostisera grunderna.
+Steg 2 Välfärd: L7 och A4.2, sedan skatter/subventioner E2021/E2022 ; gör om
+CS,PS, staten,DWL och varje diagram med separata köpar-/säljarpriser.
+Steg 3 Marknadsmakt: L8–L10, A4.1/A4.3/A5 ; monopol, Lerner,
+segmentering, abonnemang, Cournot, Bertrand, Stackelberg och kostnadsvarianter.
+Steg 4 Marknadsmisslyckanden: L11–L12 och A6 ; samhälleligt vs privat, kollektiv vs allmänning,
+Coase, förorening, lemons, IC/IR, kredit och straff.
+Steg 5 Tentakompletteringar: avsnitt 14 och A3 ; handel, PPF, tullar,
+plattformar, auktioner, Edgeworth och sekventiella spel.
+Steg 6 Tidsbegränsade tentor: lös en hel sluttenta, på engelska och med
+diagram, och rätta sedan modellfel före räknefel.
+Repetera de senaste tentorna och även de äldsta för att variera modellerna.
+Om midtermen räknas, offra inte huvudfrågorna för att
+bara förbereda Q5 ; grunderna förblir oumbärliga för de fyra stora.
+
+Datumet för sluttentan som anges i L1 är den 23 oktober 2026. Den 9 oktober
+återstår 14 dagar: planen kan fördelas över denna period, med
+flera aktiva problemlösningspass och utspridda repetitioner. Datumet
+är en uppgift ur materialet och ska stämmas av mot din personliga kallelse.
+
+20.7 Övningsgeneratorer att be ChatGPT om
+- Ändra skärningspunkter/lutningar för utbud och efterfrågan och lägg sedan till skatt/subvention;
+  kräv avläsning av båda priserna, den offentliga budgeten och välfärden.
+- Ändra U, priser, inkomst; ge först ett inre fall, sedan ett hörn,
+  sedan perfekta komplement; jämför möjligt/föredraget.
+- Ge en efterfrågan med flera priser och be om egen-/kors-/inkomstelasticiteter.
+- Ge en produktionsfunktion; be om MP, MRTS, skalavkastning,
+  sedan minimikostnad för en föreskriven kvantitet.
+- Ge TC och ett pris; be om q, vinst, PS, nedstängning SR/utträde LR.
+- Gå monopol->Cournot->Stackelberg->Bertrand ; behåll samma
+  grunddata och fråga vad som ändras i den strategiska variabeln.
+- Ge två marknader med olika uteslutningspriser; kräv jämförelse av
+  ALLA segment och gränser vid gemensamt pris.
+- Jämför enbart abonnemang, ett enda pris och tvådelad tariff.
+- Lägg till en variabel externalitet och en felkalibrerad skatt; be om det samhälleliga
+  riktmärket, inte bara riktningen på kvantitetsförändringen.
+- Ge en kollektiv nyttighet där en WTP blir 0 före kandidatoptimumet;
+  tvinga fram en styckvis vertikal summering.
+- Ändra pH,pL, återbetalning, privat nytta och insats i ett kreditkontrakt.
+- Ge penningmatriser och sociala nyttor; räkna om bästa svaren.
+- Ge PPF och världsmarknadspris, sedan en tull; kontrollera den prohibitiva tröskeln och enheterna.
+- Ge en försäljningsauktion och sedan en upphandling; förklara varför andrapriset
+  inte går åt samma håll i de två fallen.
+- Be om en engelsk förklaring utan formler, sedan en fullständig härledning.
+
+20.8 Slutkontroll av ett tentasvar
+Stämmer modellen med orden « price/quantity », « public/private »,
+« fixed fee », « observable », « chooses first » ?
+Är den deriverade variabeln den som faktiskt väljs?
+Är varje kvantitet icke-negativ och i rätt segment?
+Beskriver FOC ett giltigt maximum/minimum, och har hörnen kontrollerats?
+Har jag använt kostnaderna och sannolikheterna för rätt aktör?
+Har jag förklarat mekanismen och inte bara skrivit en formel?
+Har överföringar skilts från verkliga kostnader och extern skada?
+Är DWL-riktmärket uttryckligen SAMHÄLLELIGT och förenligt med uppgiften?
+Stämmer diagrammets axlar, ytor och enheter med beräkningarna?
+Behövs ett extra antagande, och har det angetts?
+
+Slut på dossiern. Referenserna S01–S23 leder tillbaka till
+originaldokumenten; beteckningarna gäller lokalt i varje övning. Prioriteten
+är att kunna rekonstruera logiken, inte bara känna igen en förkortning.
