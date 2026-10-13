@@ -1,1 +1,0 @@
-export{t as initSync}from"./sync-Bss4zBJr.js";

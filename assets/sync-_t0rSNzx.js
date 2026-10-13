@@ -1,0 +1,1 @@
+export{t as initSync}from"./sync-Fpr4RVyi.js";
