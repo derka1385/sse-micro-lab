@@ -1,0 +1,126 @@
+======================================================================
+14. TOPICS IN THE EXAMS WHOSE FULL LECTURES ARE MISSING
+======================================================================
+
+These topics must be revised because they appear in the
+exam questions. Their treatment here reconstructs the tools needed. The
+corresponding slides beyond L12 are not available in the dossier.
+
+14.1 Absolute and comparative advantage
+Absolute: fewer inputs needed per unit. Comparative: lower
+opportunity cost relative to the other good.
+If a_X hours/unit of X and a_Y hours/unit of Y: opportunity cost of X
+in Y =a_X/a_Y. Do not invert this ratio when switching from hours to quantities.
+Two countries can gain from trade even if one is more productive in
+EVERYTHING. A relative trading price lying between their opportunity costs ->
+possible gains. Demand/capacity constraints limit specialisation.
+Linear PPF: a_X*X+a_Y*Y=Lbar; intercepts Lbar/a_X and Lbar/a_Y,
+slope dY/dX=-a_X/a_Y. Curved PPF under other technologies.
+
+E2025: Northland wheat 3h, electronics 6h; Southland wheat 4h, electronics 2h.
+Southland has the absolute advantage in electronics; Northland the comparative advantage in wheat
+(0.5 electronics/wheat versus 2). With 120h:
+North PPF: 3W+6E=120, intercepts W40,E20; South: 4W+2E=120, W30,E60.
+Trading 1 electronics for a quantity of wheat between 0.5 and 2, or equivalently
+1 wheat for electronics between 0.5 and 2 here, allows potential gains.
+Careful: the numerical symmetry of these intervals is specific to these numbers.
+
+14.2 Small country, free trade and tariff
+World price pw given; domestic price=pw under free trade and with no
+other relevant cost. Imports M=QD(pw)-QS(pw)>0.
+Unit tariff tau, the country remaining an importer: p_dom=pw+tau.
+QD falls, QS rises, M falls. CS falls, domestic PS rises,
+the state receives tau*M. NATIONAL welfare=CS+PS+revenue; spending on
+foreign exporters does not become domestic national surplus.
+DWL=triangle of inefficient production+triangle of lost consumption.
+Linear: DWL=0.5*tau*[(QS1-QS0)+(QD0-QD1)].
+If the tariff exceeds the gap between the autarky price and pw, it is prohibitive:
+the domestic price reaches autarky, M0, do not apply pw+tau blindly.
+The large-country case/effect on the world price is not the benchmark above.
+
+E2022: pD80-Q,pS20+Q,pw30 ->QD50,QS10,M40.
+Tariff 10 ->p40,QD40,QS20,M20; CS1250->800,PS50->200,
+revenue 200,DWL100. Check -450+150+200=-100.
+E2025 steel: see figures and unit conversion in section 16.
+
+14.3 Specific factors and distribution
+Capital specific to manufacturing, land specific to agriculture,
+mobile labour. Each sector hires according to p_j*MP_Lj=w; mobility
+equalises wages, under the model's competitive assumptions.
+The agricultural price falls ->the value of the agricultural marginal product falls ->
+labour leaves agriculture ->land income falls; capital in
+the other sector can gain from the inflow of labour. The effect on labour's real wage
+depends on the basket consumed and on both prices.
+Food-importing country (E2020): a lower import price improves
+its terms of trade and can raise aggregate welfare, despite losses
+for landowners. Agricultural exporting country (E2025): a lower price
+received worsens the terms of trade and hurts landowners.
+PPF graph: production where relative price=MRT in absolute value; trade
+budget line tangent to the PPF; consumption on an indifference curve reachable
+with this budget. Production and consumption can differ thanks to trade.
+Do not take the aggregate gain as proof that every group gains.
+
+14.4 Platforms and network effects
+Platform: facilitates interaction between groups (renters/owners,
+audience/artists, buyers/sellers). Its value depends on the participants and
+on the matching rules, not just on a digital catalogue.
+Direct network effect: more users on the same side raise the
+value for a user, e.g. a multiplayer game.
+Indirect/cross effect: more of one side attracts the other, e.g. artists/audience.
+Chicken-and-egg: without owners few renters, without renters few
+owners. Subsidising one side or freemium can help get started.
+Freemium can simultaneously sort WTPs AND build a user base.
+Other ingredients: trust, reviews, payment, guarantee, transaction
+security, matching liquidity, low friction, rules and quality.
+Multi-homing: using several platforms. Single-homing: only one.
+Easy multi-homing lowers an entrant's cost of reaching customers
+already present elsewhere; exclusivity and switching costs can strengthen
+barriers. Network effects can favour concentration/tipping;
+they do not prove that every digital market is a natural monopoly.
+E2022 Q1d sports rental, E2025 Q1a/b concerts.
+
+14.5 Auctions and public procurement
+Vickrey: sealed-bid second-price auction, sale of one object, independent private
+values in the base model. Everyone has a weakly dominant incentive
+to bid their value: the bid determines whether they win, the price is set by the
+others. The highest value wins and pays the second-highest bid.
+E2023 values 80,100,92 million ->player 2 wins, pays 92 million.
+Overbidding can mean winning at a price above one's value; underbidding
+can mean losing a profitable trade.
+Reverse second-price procurement: the lowest cost/bid wins, receives
+the second-lowest bid, assuming the same quality and private data.
+E2025 costs 20 000,24 000,28 000 ->A wins and receives 24 000.
+
+Common value / uncertain common cost: bids can reveal
+information about the same value or the same cost. Winner's curse: winning
+may mean having been the most optimistic; a rational bidder takes
+this selection into account. In procurement, there is a risk of underestimating
+the cost and winning a loss-making contract ->revise the bid upwards
+relative to a naive estimate, if private signals are correlated.
+E2025 specifies a common weather shock without specifying private information.
+If everyone has exactly the same public distribution and no private
+signal, the common shock alone does NOT prove an informational winner's curse.
+The rule "bid your certain cost" does not carry over mechanically;
+signals, risk aversion and contractual exposure must be specified.
+
+14.6 Edgeworth and Pareto efficiency — E2021 Q4e
+Edgeworth box: dimensions = total endowments of the two goods;
+opposite origins for the two consumers. An allocation determines
+each person's consumption, the totals being fixed.
+Pareto improvement: at least one better off, nobody worse off.
+Pareto efficient: no such improvement is feasible.
+Gains from trade if their MRS differ, with goods available.
+Under smooth preferences and an interior optimum: MRS_A=MRS_B; but with
+perfect substitutes, efficient allocations are often on the edges.
+
+E2021: totals 20 drinks D and 20 snacks S; each endowed with (10,10).
+Christina U_C=D_C+S_C; Sebastian U_S=D_S+2S_S, as he gives up 2 drinks
+for 1 snack. Sebastian values snacks relatively more.
+Beneficial trade: Sebastian gives drinks for snacks, at a price
+between 1 and 2 drinks/snack. In Sebastian's coordinates (D,S), initial utility 30,
+Christina's initial 20; weak gains for both if D+2S>=30 and D+S<=20,
+inside the box, with at least one strict inequality for a real gain.
+Efficient allocations: Sebastian has no drinks left (D=0), OR he owns
+all the snacks (S=20); otherwise a marginal trade improves both.
+Among the allocations reachable without loss from the endowment,
+the efficient segment D=0,15<=S<=20 satisfies both constraints.

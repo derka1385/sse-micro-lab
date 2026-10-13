@@ -1,0 +1,126 @@
+======================================================================
+14. SINAVLARDA BULUNAN, TAM DERSLERİ OLMAYAN TAMAMLAYICI KONULAR
+======================================================================
+
+Bu konular sınav sorularında yer aldıkları için tekrar
+edilmelidir. Buradaki işleyiş gerekli araçları yeniden kurar.
+L12'den sonraki ilgili slaytlar dosyada mevcut değildir.
+
+14.1 Mutlak ve karşılaştırmalı üstünlük
+Mutlak: birim başına daha az girdi gerekir. Karşılaştırmalı: diğer mala
+göre daha düşük fırsat maliyeti.
+X birimi başına a_X saat ve Y birimi başına a_Y saat ise : X'in Y cinsinden
+fırsat maliyeti =a_X/a_Y. Saatlerden miktarlara geçerken bu oranı ters çevirme.
+İki ülke, biri HER ŞEYDE daha verimli olsa bile ticaretten
+kazanabilir. Fırsat maliyetleri arasında yer alan göreli bir değişim fiyatı ->
+olası kazançlar. Talep/kapasite kısıtları uzmanlaşmayı sınırlar.
+Doğrusal PPF : a_X*X+a_Y*Y=Lbar ; kesişimler Lbar/a_X ve Lbar/a_Y,
+eğim dY/dX=-a_X/a_Y. Başka teknolojilerde eğri PPF.
+
+E2025 : Northland buğday 3h, elektronik 6h ; Southland buğday 4h, elektronik 2h.
+Southland elektronikte mutlak üstün; Northland buğdayda karşılaştırmalı üstün
+(0.5 elektronik/buğday'a karşı 2). 120h ile :
+Kuzey PPF : 3W+6E=120, kesişimler W40,E20 ; Güney : 4W+2E=120, W30,E60.
+1 elektroniği 0.5 ile 2 arasında bir miktar buğdayla, ya da eşdeğer olarak
+burada 1 buğdayı 0.5 ile 2 arasında elektronikle değişmek potansiyel kazanç sağlar.
+Dikkat: bu aralıkların sayısal simetrisi bu sayılara özgüdür.
+
+14.2 Küçük ülke, serbest ticaret ve gümrük vergisi
+Dünya fiyatı pw verili; serbest ticarette ve başka ilgili maliyet
+yokken yurtiçi fiyat=pw. İthalat M=QD(pw)-QS(pw)>0.
+Birim gümrük vergisi tau, ülke ithalatçı kalıyor: p_dom=pw+tau.
+QD düşer, QS artar, M düşer. CS düşer, yurtiçi PS artar,
+devlet tau*M alır. ULUSAL welfare=CS+PS+gelir; yabancı ihracatçılara
+yapılan harcama yurtiçi ulusal rant haline gelmez.
+DWL=etkinsiz üretim üçgeni+kaybedilen tüketim üçgeni.
+Doğrusal: DWL=0.5*tau*[(QS1-QS0)+(QD0-QD1)].
+Vergi otarşi fiyatı ile pw arasındaki farkı aşarsa yasaklayıcıdır:
+yurtiçi fiyat otarşiye ulaşır, M0, pw+tau'yu körü körüne uygulama.
+Büyük ülke/dünya fiyatına etki durumu yukarıdaki referans değildir.
+
+E2022 : pD80-Q,pS20+Q,pw30 ->QD50,QS10,M40.
+Vergi 10 ->p40,QD40,QS20,M20 ; CS1250->800,PS50->200,
+gelir 200,DWL100. Kontrol -450+150+200=-100.
+E2025 çelik: rakamlar ve birim dönüşümü için 16. bölüme bak.
+
+14.3 Özgül faktörler ve bölüşüm
+İmalata özgü sermaye, tarıma özgü toprak,
+hareketli emek. Her sektör p_j*MP_Lj=w'ye göre işe alır; hareketlilik
+modelin rekabet varsayımları altında ücretleri eşitler.
+Tarım fiyatı düşer ->tarımsal marjinal ürünün değeri düşer ->
+emek tarımdan ayrılır ->toprak geliri azalır; diğer sektörün
+sermayesi emek akınıyla kazanabilir. Emeğin reel ücretine etkisi
+tüketilen sepete ve iki fiyata bağlıdır.
+Gıda ithal eden ülke (E2020) : daha düşük ithalat fiyatı dış ticaret
+hadlerini iyileştirir ve toprak sahiplerinin kayıplarına rağmen toplam
+refahı artırabilir. Tarım ihraç eden ülke (E2025) : daha düşük alınan
+fiyat dış ticaret hadlerini kötüleştirir ve toprak sahiplerini cezalandırır.
+PPF grafiği: üretim, göreli fiyat=mutlak değerce MRT olan yerde; ticaret
+bütçesi PPF'ye teğet; tüketim bu bütçeyle ulaşılabilir bir kayıtsızlık
+eğrisinde. Ticaret sayesinde üretim ve tüketim farklılaşabilir.
+Toplam kazancı her grubun kazandığının kanıtı sayma.
+
+14.4 Platformlar ve ağ etkileri
+Platform: gruplar arasındaki etkileşimi kolaylaştırır (kiracılar/kiraya verenler,
+seyirci/sanatçılar, alıcılar/satıcılar). Değeri yalnızca dijital bir katalogdan değil,
+katılımcılardan ve eşleştirme kurallarından gelir.
+Doğrudan ağ etkisi: aynı taraftaki daha fazla kullanıcı, bir kullanıcı
+için değeri artırır, örn. çok oyunculu oyun.
+Dolaylı/çapraz etki: bir taraf büyüdükçe diğerini çeker, örn. sanatçılar/seyirci.
+Chicken-and-egg : kiraya veren yoksa az kiracı, kiracı yoksa az
+kiraya veren. Bir tarafı sübvanse etmek veya freemium başlangıca yardım edebilir.
+Freemium aynı anda WTP'leri ayıklayabilir VE bir kullanıcı tabanı oluşturabilir.
+Diğer unsurlar: güven, yorumlar, ödeme, garanti, işlem
+güvenliği, eşleşme likiditesi, düşük sürtünme, kurallar ve kalite.
+Multi-homing : birkaç platform kullanmak. Single-homing : yalnızca bir tane.
+Kolay multi-homing, yeni girenin başka yerde zaten bulunan müşterilere
+ulaşma maliyetini düşürür; münhasırlık ve switching costs engelleri
+güçlendirebilir. Ağ etkileri yoğunlaşmayı/tipping'i destekleyebilir;
+her dijital piyasanın doğal tekel olduğunu kanıtlamazlar.
+E2022 Q1d spor ekipmanı kiralama, E2025 Q1a/b konserler.
+
+14.5 İhaleler ve kamu alımları
+Vickrey : kapalı zarf ikinci fiyat ihalesi, tek bir nesnenin satışı, temel modelde
+bağımsız özel değerler. Herkesin değerini beyan etmek için zayıf baskın bir
+teşviki vardır: teklif kazanıp kazanmayacağını belirler, fiyatı
+diğerleri belirler. En yüksek değer kazanır ve ikinci en yüksek teklifi öder.
+E2023 değerler 80,100,92 milyon ->oyuncu 2 kazanır, 92 milyon öder.
+Fazla teklif, değerin üstünde bir fiyata kazanmaya yol açabilir; az teklif
+kârlı bir işlemi kaybettirebilir.
+Ters ikinci fiyat alımı: en düşük maliyet/teklif kazanır, ikinci en düşük
+teklifi alır; aynı kalite ve özel veriler varsayılır.
+E2025 maliyetler 20 000,24 000,28 000 ->A kazanır ve 24 000 alır.
+
+Common value / belirsiz ortak maliyet: teklifler aynı değer veya
+aynı maliyet hakkında bilgi açığa çıkarabilir. Winner's curse : kazanmak
+en iyimser olmak anlamına gelebilir; rasyonel teklif veren bu seçimi
+hesaba katar. Bir kamu alımında maliyeti hafife alıp zarar eden
+bir sözleşmeyi kazanma riski vardır ->özel sinyaller korelasyonluysa,
+teklifi saf bir tahmine göre yukarı revize et.
+E2025 özel bilgileri belirtmeden ortak bir hava şokunu belirtir.
+Herkes tam olarak aynı kamusal dağılıma sahipse ve hiçbir özel
+sinyal yoksa, ortak şok tek başına bilgisel bir winner's curse KANITLAMAZ.
+« Kesin maliyetini teklif et » kuralı mekanik olarak aktarılamaz;
+sinyaller, riskten kaçınma ve sözleşme riski belirtilmelidir.
+
+14.6 Edgeworth ve Pareto etkinliği — E2021 Q4e
+Edgeworth kutusu: boyutlar = iki malın toplam başlangıç stokları;
+iki tüketici için karşıt orijinler. Bir dağılım, toplamlar sabitken
+her birinin tüketimini belirler.
+Pareto iyileşmesi: en az biri daha iyi, kimse daha kötü değil.
+Pareto etkin: böyle bir iyileşme mümkün değil.
+MRS'leri farklıysa ve mallar mevcutsa değişimden kazanç vardır.
+Düzgün tercihler ve iç optimumda: MRS_A=MRS_B ; ama tam
+ikamelerde etkin dağılımlar çoğu zaman kenarlardadır.
+
+E2021 : toplam 20 drinks D ve 20 snacks S ; her birinin stoku (10,10).
+Christina U_C=D_C+S_C ; Sebastian U_S=D_S+2S_S, çünkü 1 snack için
+2 drinks verir. Sebastian snacks'e görece daha çok değer verir.
+Yararlı değişim: Sebastian 1 ile 2 drinks/snack arasındaki bir
+fiyattan drinks verip snacks alır. Sebastian koordinatlarında (D,S) başlangıç faydası 30,
+Christina'nınki 20 ; D+2S>=30 ve D+S<=20 ise ikisi için de zayıf kazanç,
+kutunun içinde, gerçek kazanç için en az bir kesin eşitsizlikle.
+Etkin dağılımlar: Sebastian'ın hiç drinks'i kalmaz (D=0), YA DA
+tüm snacks ona aittir (S=20) ; aksi halde marjinal bir değişim ikisini de iyileştirir.
+Başlangıç stokundan kayıpsız ulaşılabilen dağılımlar arasında
+etkin segment D=0,15<=S<=20 her iki kısıtı da sağlar.

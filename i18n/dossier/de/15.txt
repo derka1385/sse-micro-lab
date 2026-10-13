@@ -1,0 +1,73 @@
+======================================================================
+13. SPIELTHEORIE IN ASSIGNMENT 3
+======================================================================
+
+13.1 Eine Matrix lösen
+Eine reine Strategie ist eine festgelegte Wahl. Eine Strategie in einem sequenziellen
+Spiel beschreibt die Aktion an JEDEM möglichen Knoten, auch abseits des gespielten Pfads.
+In einer Matrix: erste Auszahlung für die Zeilenseite, zweite für die Spaltenseite.
+Für jede Spalte die besten Antworten der Zeile markieren; für jede
+Zeile die der Spalte. Eine doppelt markierte Zelle ist ein reines Nash-Gleichgewicht.
+Es kann mehrere geben, auch mit Indifferenzen.
+Dominant: optimal, was auch immer die Rivalen tun; strikt
+dominant, wenn immer strikt besser. Ein Gleichgewicht kann
+ineffizient sein: kein einseitiger Gewinn heißt nicht maximaler kollektiver Gewinn.
+
+13.2 Golden Balls — Daten A3 S.1, Matrix visuell geprüft
+              Colin S          Colin N
+Rowena S      (10,10)           (0,20)
+Rowena N      (20,0)            (0,0)
+S=Split, N=Steal in der Datei; das Symbol N ist nicht universell.
+Egoistisch: N ist schwach dominant; reine Nash (S,N),(N,S),(N,N).
+Neid: 1 vom eigenen Nutzen abziehen, wenn die andere Person mehr erhält.
+SS(10,10), SN(-1,20), NS(20,-1), NN(0,0) ->einziges Nash NN.
+Gleicher Altruismus: u_i=Geld_i+Geld_j.
+SS ergibt Nutzen (20,20), SN(20,20), NS(20,20), NN(0,0).
+Reine Nash SS,SN,NS. NN ist KEINES: Abweichen zu S gegen N ergibt 20
+statt 0. Die persönliche Antwort „SS und NN“ in A3.1c ist falsch.
+Doppelter Altruismus: u_i=Geld_i+2*Geld_j.
+SS(30,30), SN(40,20), NS(20,40), NN(0,0) ->S strikt dominant,
+einziges Nash SS. Andere Präferenzen ->anderes Spiel in Nutzen.
+Diese Listen betreffen REINE Strategien; sie nicht als
+vollständige Einordnung aller gemischten Gleichgewichte darstellen.
+Ergänzung zur Einordnung aller Nash-Gleichgewichte dieser Matrix:
+x sei die Wahrscheinlichkeit, dass Rowena S wählt, y die, dass Colin S wählt.
+Egoistisch: Gleichgewichte, wenn x=0 ODER y=0 ; die andere Seite kann beliebig mischen.
+Neid: nur x=y=0. Gleicher Altruismus: x=1 ODER y=1 ; die andere Seite kann
+beliebig mischen. Doppelter Altruismus: nur x=y=1.
+Bei den Werten 0/1 findet man genau die reinen Nash-Gleichgewichte oben wieder.
+
+13.3 Waffen und Öl: Rückwärtsinduktion
+Ölvorrat 6 ; Waffenkosten X1,Y3. Ist nur eine Seite bewaffnet, Teilung 5/1 ; ist keine bewaffnet,
+3/3 ; sind beide bewaffnet, kein Öl, aber die Kosten sind bezahlt.
+Nettoauszahlungen (X,Y) : keine bewaffnet (3,3), nur X (4,1), nur Y (1,2), beide (-1,-3).
+X zieht zuerst: Y bewaffnet sich nicht, nachdem X sich bewaffnet hat (1>-3).
+Bewaffnet X sich nicht, vergleicht Y bewaffnet 2 mit unbewaffnet 3 ->bewaffnet sich ebenfalls nicht.
+Also vollständige Strategie von Y : sich nach jeder Aktion von X nicht bewaffnen.
+X vergleicht bewaffnen 4 und nicht bewaffnen 3 ->bewaffnet sich; Ergebnis (4,1).
+Y zieht zuerst: X bewaffnet sich nicht, wenn Y bewaffnet ist (1>-1), und
+bewaffnet sich, wenn Y unbewaffnet ist (4>3). Y vergleicht bewaffnen 2 und nicht bewaffnen 1 ->bewaffnet sich;
+Ergebnis (1,2). Der Follower X bliebe gegen ein bewaffnetes Y unbewaffnet, anders
+als eine Antwort, die seine Auszahlung 1 mit seinen Rüstungskosten verwechselt.
+Ein SPNE legt auch die Reaktionen abseits des Pfads fest, nicht nur das Ergebnis.
+
+13.4 Koordination Frieden/Krieg — A3 S.3
+                 Y Frieden    Y Krieg
+X Frieden        (9,9)        (0,8)
+X Krieg          (8,0)        (7,7)
+Reine Nash Frieden/Frieden und Krieg/Krieg. Frieden/Frieden ist Pareto-dominant.
+Angst vor der anderen Seite und Erwartungen können Krieg/Krieg plausibel machen,
+aber die Auszahlungen allein wählen kein eindeutiges simultanes Ergebnis aus.
+Zieht X zuerst: Y antwortet auf Frieden mit Frieden (9>8), auf Krieg mit Krieg (7>0).
+X antizipiert 9 gegenüber 7 ->Frieden; Ergebnis Frieden/Frieden, SPNE durch Induktion.
+Kommunikation kann Erwartungen koordinieren; unverbindliches cheap talk
+ändert die Anreize nicht unbedingt.
+
+13.5 Selbstbindungen und glaubwürdige Drohungen — A3.4
+Um eine angekündigte Sanktion zu analysieren: hat, wenn sie
+ausgeführt werden müsste, die ankündigende Seite noch ein Interesse daran?
+Ein öffentlicher Text kann Reputations-/politische Kosten auferlegen, ohne eine
+unwiderrufliche Bindung zu garantieren. Eine Militärklausel schreckt nur ab, wenn sie
+die Anreize ändert und/oder ein Eingreifen nach dem Angriff glaubwürdig macht.
+Die historische Frage des Assignments dient als theoretische Anwendung;
+dieses Dossier beansprucht nicht, die diplomatische Geschichte des Dokuments zu prüfen.

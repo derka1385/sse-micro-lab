@@ -1,0 +1,126 @@
+======================================================================
+14. ERGÄNZUNGEN AUS DEN PRÜFUNGEN, VOLLSTÄNDIGE VORLESUNGEN FEHLEN
+======================================================================
+
+Diese Themen müssen wiederholt werden, weil sie in den
+Prüfungsaufgaben vorkommen. Ihre Behandlung hier rekonstruiert die nötigen Werkzeuge. Die
+entsprechenden Folien nach L12 sind im Dossier nicht verfügbar.
+
+14.1 Absoluter und komparativer Vorteil
+Absolut: weniger Inputs pro Einheit nötig. Komparativ: geringere
+Opportunitätskosten relativ zum anderen Gut.
+Bei a_X Stunden/Einheit X und a_Y Stunden/Einheit Y : Opportunitätskosten von X
+in Y =a_X/a_Y. Dieses Verhältnis beim Wechsel von Stunden zu Mengen nicht umkehren.
+Zwei Länder können vom Handel profitieren, auch wenn eines in ALLEM
+produktiver ist. Ein relativer Tauschpreis zwischen ihren Opportunitätskosten ->
+Gewinne möglich. Nachfrage-/Kapazitätsgrenzen beschränken die Spezialisierung.
+Lineare PPF : a_X*X+a_Y*Y=Lbar ; Achsenabschnitte Lbar/a_X und Lbar/a_Y,
+Steigung dY/dX=-a_X/a_Y. Gekrümmte PPF bei anderen Technologien.
+
+E2025 : Northland Weizen 3h, Elektronik 6h ; Southland Weizen 4h, Elektronik 2h.
+Southland hat den absoluten Vorteil bei Elektronik; Northland den komparativen Vorteil bei Weizen
+(0.5 Elektronik/Weizen gegenüber 2). Mit 120h :
+PPF Nord: 3W+6E=120, Achsenabschnitte W40,E20 ; Süd: 4W+2E=120, W30,E60.
+Tausch von 1 Elektronik gegen eine Weizenmenge zwischen 0.5 und 2, oder gleichwertig
+1 Weizen gegen Elektronik zwischen 0.5 und 2 hier, ermöglicht potenzielle Gewinne.
+Achtung: die numerische Symmetrie dieser Intervalle gilt nur für diese Zahlen.
+
+14.2 Kleines Land, Freihandel und Zoll
+Weltmarktpreis pw gegeben; Inlandspreis=pw bei Freihandel und ohne
+andere relevante Kosten. Importe M=QD(pw)-QS(pw)>0.
+Stückzoll tau, das Land bleibt Importeur: p_dom=pw+tau.
+QD sinkt, QS steigt, M sinkt. CS sinkt, inländische PS steigt,
+der Staat erhält tau*M. NATIONALE Wohlfahrt=CS+PS+Einnahmen; Ausgaben an
+ausländische Exporteure werden nicht zu inländischer nationaler Rente.
+DWL=Dreieck ineffizienter Produktion+Dreieck verlorenen Konsums.
+Linear: DWL=0.5*tau*[(QS1-QS0)+(QD0-QD1)].
+Übersteigt der Zoll den Abstand zwischen Autarkiepreis und pw, ist er prohibitiv:
+der Inlandspreis erreicht die Autarkie, M0, pw+tau nicht blind anwenden.
+Der Fall des großen Landes/Effekt auf den Weltmarktpreis ist nicht der obige Benchmark.
+
+E2022 : pD80-Q,pS20+Q,pw30 ->QD50,QS10,M40.
+Zoll 10 ->p40,QD40,QS20,M20 ; CS1250->800,PS50->200,
+Einnahmen 200,DWL100. Probe -450+150+200=-100.
+E2025 Stahl: siehe Zahlen und Einheitenumrechnung in Abschnitt 16.
+
+14.3 Spezifische Faktoren und Verteilung
+Kapital spezifisch für die Industrie, Boden spezifisch für die Landwirtschaft,
+Arbeit mobil. Jeder Sektor stellt gemäß p_j*MP_Lj=w ein; die Mobilität
+gleicht die Löhne an, unter den Wettbewerbsannahmen des Modells.
+Agrarpreis sinkt ->Wert des landwirtschaftlichen Grenzprodukts sinkt ->
+Arbeit verlässt die Landwirtschaft ->Bodeneinkommen sinkt; das Kapital des
+anderen Sektors kann durch den Zustrom von Arbeit gewinnen. Die Wirkung auf den Reallohn
+hängt vom konsumierten Warenkorb und von beiden Preisen ab.
+Nahrungsmittel importierendes Land (E2020) : ein niedrigerer Importpreis verbessert
+seine Terms of Trade und kann die aggregierte Wohlfahrt erhöhen, trotz Verlusten
+der Bodeneigentümer. Agrarexportland (E2025) : ein niedrigerer erzielter
+Preis verschlechtert die Terms of Trade und schadet den Bodeneigentümern.
+PPF-Grafik: Produktion, wo relativer Preis=MRT im Betrag; Handels-
+budget tangential zur PPF ; Konsum auf einer mit diesem Budget erreichbaren
+Indifferenzkurve. Produktion und Konsum können dank Handel auseinanderfallen.
+Den aggregierten Gewinn nicht als Beweis nehmen, dass jede Gruppe gewinnt.
+
+14.4 Plattformen und Netzwerkeffekte
+Plattform: erleichtert die Interaktion zwischen Gruppen (Mietende/Vermietende,
+Publikum/Kunstschaffende, Käufer/Verkäufer). Ihr Wert hängt von den Teilnehmenden und
+den Vermittlungsregeln ab, nicht nur von einem digitalen Katalog.
+Direkter Netzwerkeffekt: mehr Nutzende auf derselben Seite erhöhen den
+Wert für eine Nutzerin oder einen Nutzer, z. B. Mehrspielerspiel.
+Indirekter/Kreuzeffekt: mehr auf einer Seite zieht die andere an, z. B. Kunstschaffende/Publikum.
+Chicken-and-egg : ohne Vermietende wenige Mietende, ohne Mietende wenige
+Vermietende. Eine Seite zu subventionieren oder Freemium kann beim Start helfen.
+Freemium kann gleichzeitig WTP sortieren UND eine Nutzerbasis schaffen.
+Weitere Zutaten: Vertrauen, Bewertungen, Zahlung, Garantie, Sicherheit der
+Transaktion, Liquidität des Matchings, geringe Reibung, Regeln und Qualität.
+Multi-homing : mehrere Plattformen nutzen. Single-homing : nur eine.
+Leichtes Multi-homing senkt die Kosten eines Neueinsteigers, Kundschaft zu erreichen,
+die schon anderswo präsent ist; Exklusivität und switching costs können
+Barrieren verstärken. Netzwerkeffekte können Konzentration/tipping begünstigen;
+sie beweisen nicht, dass jeder digitale Markt ein natürliches Monopol ist.
+E2022 Q1d Sportvermietung, E2025 Q1a/b Konzerte.
+
+14.5 Auktionen und öffentliche Beschaffung
+Vickrey : verdeckte Zweitpreisauktion, Verkauf eines Objekts, unabhängige private
+Werte im Grundmodell. Alle haben einen schwach dominanten Anreiz,
+ihren Wert zu bieten: das Gebot bestimmt, ob man gewinnt, der Preis wird von den
+anderen festgelegt. Der höchste Wert gewinnt und zahlt das zweithöchste Gebot.
+E2023 Werte 80,100,92 Millionen ->Bieter 2 gewinnt, zahlt 92 Millionen.
+Überbieten kann zum Gewinn zu einem Preis über dem eigenen Wert führen; Unterbieten
+kann ein profitables Geschäft verlieren lassen.
+Umgekehrte Zweitpreis-Beschaffung: die niedrigsten Kosten/das niedrigste Gebot gewinnt, erhält
+das zweitniedrigste Gebot, bei gleicher Qualität und privaten Daten.
+E2025 Kosten 20 000,24 000,28 000 ->A gewinnt und erhält 24 000.
+
+Common value / unsichere gemeinsame Kosten: Gebote können
+Information über denselben Wert oder dieselben Kosten enthüllen. Winner's curse : Gewinnen
+kann bedeuten, am optimistischsten gewesen zu sein; rationale Bietende berücksichtigen
+diese Selektion. Bei einer Beschaffung droht, die Kosten zu unterschätzen
+und einen Verlustauftrag zu gewinnen ->das Gebot nach oben anpassen
+gegenüber einer naiven Schätzung, wenn private Signale korreliert sind.
+E2025 nennt einen gemeinsamen Wetterschock, ohne private Informationen anzugeben.
+Haben alle genau dieselbe öffentliche Verteilung und kein privates
+Signal, beweist der gemeinsame Schock allein KEINEN informationsbedingten winner's curse.
+Die Regel „biete deine sicheren Kosten“ lässt sich nicht mechanisch übertragen;
+Signale, Risikoaversion und vertragliches Risiko sind zu präzisieren.
+
+14.6 Edgeworth und Pareto-Effizienz — E2021 Q4e
+Edgeworth-Box: Abmessungen = Gesamtausstattung der beiden Güter;
+gegenüberliegende Ursprünge für die beiden Konsumierenden. Eine Allokation bestimmt
+den Konsum jeder Person, wobei die Summen fest sind.
+Pareto-Verbesserung: mindestens eine Person besser, niemand schlechter.
+Pareto-effizient: keine solche Verbesserung ist möglich.
+Tauschgewinne, wenn ihre MRS sich unterscheiden und Güter verfügbar sind.
+Bei glatten Präferenzen und innerem Optimum: MRS_A=MRS_B ; aber bei
+perfekten Substituten liegen effiziente Allokationen oft am Rand.
+
+E2021 : Summen 20 Drinks D und 20 Snacks S ; Ausstattung jeweils (10,10).
+Christina U_C=D_C+S_C ; Sebastian U_S=D_S+2S_S, da er 2 Drinks
+für 1 Snack hergibt. Sebastian schätzt Snacks relativ mehr.
+Vorteilhafter Tausch: Sebastian gibt Drinks gegen Snacks, zu einem Preis
+zwischen 1 und 2 Drinks/Snack. In Sebastians Koordinaten (D,S) Anfangsnutzen 30,
+Christinas Anfangsnutzen 20 ; schwache Gewinne für beide, wenn D+2S>=30 und D+S<=20,
+in der Box, mit mindestens einer strikten Ungleichung für einen echten Gewinn.
+Effiziente Allokationen: Sebastian hat keine Drinks mehr (D=0), ODER er besitzt
+alle Snacks (S=20) ; sonst verbessert ein marginaler Tausch beide.
+Unter den ohne Verlust von der Ausstattung aus erreichbaren Allokationen
+erfüllt das effiziente Segment D=0,15<=S<=20 beide Bedingungen.

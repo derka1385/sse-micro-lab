@@ -1,0 +1,73 @@
+======================================================================
+13. SPELTEORI I ASSIGNMENT 3
+======================================================================
+
+13.1 Lösa en matris
+En ren strategi är ett bestämt val. En strategi i ett sekventiellt
+spel beskriver handlingen i VARJE möjlig nod, även utanför den spelade vägen.
+I en matris: första utbetalningen gäller radspelaren, den andra kolumnspelaren.
+För varje kolumn, markera radens bästa svar; för varje
+rad, kolumnens. En dubbelt markerad ruta är en ren Nashjämvikt.
+Det kan finnas flera, även med indifferens.
+Dominant: optimal oavsett rivalernas handlingar; strikt
+dominant om alltid strikt bättre. En jämvikt kan vara
+ineffektiv: ingen ensidig vinst innebär inte maximal kollektiv vinst.
+
+13.2 Golden Balls — data A3 s.1, matrisen visuellt kontrollerad
+              Colin S          Colin N
+Rowena S      (10,10)           (0,20)
+Rowena N      (20,0)            (0,0)
+S=Split, N=Steal i filen; symbolen N är inte universell.
+Själviska: N är svagt dominant; rena Nash (S,N),(N,S),(N,N).
+Avund: dra 1 från den egna nyttan om den andra får mer.
+SS(10,10), SN(-1,20), NS(20,-1), NN(0,0) ->enda Nash NN.
+Lika altruism: u_i=pengar_i+pengar_j.
+SS ger nyttor (20,20), SN(20,20), NS(20,20), NN(0,0).
+Rena Nash SS,SN,NS. NN är INTE en: att avvika till S mot N ger 20
+i stället för 0. Det personliga svaret « SS och NN » i A3.1c är fel.
+Dubbel altruism: u_i=pengar_i+2*pengar_j.
+SS(30,30), SN(40,20), NS(20,40), NN(0,0) ->S strikt dominant,
+enda Nash SS. Andra preferenser ->ett annat spel i nyttor.
+Dessa listor gäller RENA strategier; presentera dem inte som
+en fullständig klassificering av alla blandade jämvikter.
+Komplement för att klassificera alla Nashjämvikter i denna matris:
+låt x vara sannolikheten att Rowena väljer S, y att Colin väljer S.
+Själviska: jämvikter om x=0 ELLER y=0 ; den andra kan blanda godtyckligt.
+Avund: endast x=y=0. Lika altruism: x=1 ELLER y=1 ; den andra kan
+blanda godtyckligt. Dubbel altruism: endast x=y=1.
+Vid värdena 0/1 återfinns exakt de rena Nashjämvikterna ovan.
+
+13.3 Vapen och olja: bakåtinduktion
+Oljepott 6 ; vapenkostnad X1,Y3. Om bara en är beväpnad, delning 5/1 ; om ingen,
+3/3 ; om båda är beväpnade, ingen olja men kostnaderna är betalda.
+Nettoutbetalningar (X,Y) : ingen beväpnad (3,3), bara X (4,1), bara Y (1,2), båda (-1,-3).
+X drar först: Y väljer att inte beväpna sig efter att X beväpnat sig (1>-3).
+Om X inte beväpnar sig jämför Y beväpnad 2 med obeväpnad 3 ->beväpnar sig inte heller.
+Alltså Y:s fullständiga strategi: inte beväpna sig efter någon av X:s handlingar.
+X jämför beväpna 4 och inte beväpna 3 ->beväpnar sig; utfall (4,1).
+Y drar först: X beväpnar sig inte efter att Y beväpnat sig (1>-1), och
+beväpnar sig om Y inte gjort det (4>3). Y jämför beväpna 2 och inte beväpna 1 ->beväpnar sig;
+utfall (1,2). Följaren X skulle förbli obeväpnad mot ett beväpnat Y, till skillnad
+från ett svar som blandar ihop dess utbetalning 1 med dess beväpningskostnad.
+En SPNE anger också reaktionerna utanför vägen, inte bara utfallet.
+
+13.4 Samordning fred/krig — A3 s.3
+                 Y fred       Y krig
+X fred           (9,9)        (0,8)
+X krig           (8,0)        (7,7)
+Rena Nash fred/fred och krig/krig. Fred/fred är Paretodominant.
+Rädsla för den andra och förväntningar kan göra krig/krig troligt,
+men utbetalningarna ensamma väljer inte ett unikt samtidigt utfall.
+Om X drar först: Y svarar fred på fred (9>8), krig på krig (7>0).
+X förutser 9 mot 7 ->fred; utfall fred/fred, SPNE genom induktion.
+Kommunikation kan samordna förväntningar; icke bindande cheap talk
+ändrar inte nödvändigtvis incitamenten.
+
+13.5 Åtaganden och trovärdiga hot — A3.4
+För att analysera en utlovad sanktion: när den skulle
+verkställas, har den som lovade fortfarande intresse av att hålla löftet?
+En offentlig text kan medföra rykteskostnader/politiska kostnader utan att garantera
+ett oåterkalleligt åtagande. En militär klausul avskräcker bara om den
+ändrar incitamenten och/eller gör ett ingripande trovärdigt efter angreppet.
+Assignmentets historiska fråga fungerar som teoretisk tillämpning;
+detta dossier gör inte anspråk på att kontrollera dokumentets diplomatiska historia.

@@ -1,0 +1,126 @@
+======================================================================
+14. KOMPLETTERINGAR SOM FINNS I TENTORNA, FULLSTÄNDIGA FÖRELÄSNINGAR SAKNAS
+======================================================================
+
+Dessa ämnen måste repeteras eftersom de förekommer i
+tentauppgifterna. Behandlingen här rekonstruerar de verktyg som behövs. Motsvarande
+bilder efter L12 finns inte i detta dossier.
+
+14.1 Absoluta och komparativa fördelar
+Absolut: färre insatser behövs per enhet. Komparativ: lägre
+alternativkostnad i förhållande till den andra varan.
+Om a_X timmar/enhet X och a_Y timmar/enhet Y : alternativkostnaden för X
+i Y =a_X/a_Y. Vänd inte på kvoten när du går från timmar till kvantiteter.
+Två länder kan vinna på handel även om det ena är mer produktivt i
+ALLT. Ett relativt bytespris mellan deras alternativkostnader ->
+möjliga vinster. Efterfråge-/kapacitetsbegränsningar begränsar specialiseringen.
+Linjär PPF : a_X*X+a_Y*Y=Lbar ; skärningspunkter Lbar/a_X och Lbar/a_Y,
+lutning dY/dX=-a_X/a_Y. Krökt PPF med andra tekniker.
+
+E2025 : Northland vete 3h, elektronik 6h ; Southland vete 4h, elektronik 2h.
+Southland har absolut fördel i elektronik; Northland komparativ fördel i vete
+(0.5 elektronik/vete mot 2). Med 120h :
+PPF Nord : 3W+6E=120, skärningspunkter W40,E20 ; Syd : 4W+2E=120, W30,E60.
+Att byta 1 elektronik mot en mängd vete mellan 0.5 och 2, eller likvärdigt
+1 vete mot elektronik mellan 0.5 och 2 här, ger möjliga vinster.
+Obs: den numeriska symmetrin i dessa intervall gäller just dessa siffror.
+
+14.2 Litet land, frihandel och tull
+Världsmarknadspris pw givet; inhemskt pris=pw vid frihandel och utan
+andra relevanta kostnader. Import M=QD(pw)-QS(pw)>0.
+Styckvis tull tau, landet förblir importör: p_dom=pw+tau.
+QD minskar, QS ökar, M minskar. CS sjunker, inhemskt PS ökar,
+staten får tau*M. NATIONELL welfare=CS+PS+intäkter; utgifter till
+utländska exportörer blir inte inhemskt nationellt överskott.
+DWL=triangel för ineffektiv produktion+triangel för förlorad konsumtion.
+Linjärt: DWL=0.5*tau*[(QS1-QS0)+(QD0-QD1)].
+Om tullen överstiger skillnaden mellan autarkipriset och pw är den prohibitiv:
+det inhemska priset når autarki, M0, tillämpa inte pw+tau blint.
+Fallet med stort land/effekt på världsmarknadspriset är inte riktmärket ovan.
+
+E2022 : pD80-Q,pS20+Q,pw30 ->QD50,QS10,M40.
+Tull 10 ->p40,QD40,QS20,M20 ; CS1250->800,PS50->200,
+intäkter 200,DWL100. Kontroll -450+150+200=-100.
+E2025 stål: se siffror och enhetsomvandling i avsnitt 16.
+
+14.3 Specifika faktorer och fördelning
+Kapital specifikt för industrin, mark specifik för jordbruket,
+rörlig arbetskraft. Varje sektor anställer enligt p_j*MP_Lj=w ; rörligheten
+utjämnar lönerna under modellens konkurrensantaganden.
+Jordbrukspriset sjunker ->värdet av jordbrukets marginalprodukt sjunker ->
+arbetskraft lämnar jordbruket ->markinkomsten minskar; kapitalet i
+den andra sektorn kan vinna på inflödet av arbetskraft. Effekten på reallönen
+beror på den konsumerade korgen och på båda priserna.
+Livsmedelsimporterande land (E2020) : ett lägre importpris förbättrar
+dess bytesförhållande och kan höja den aggregerade välfärden, trots förluster
+för markägarna. Jordbruksexporterande land (E2025) : ett lägre erhållet
+pris försämrar bytesförhållandet och missgynnar markägarna.
+PPF-diagram: produktion där relativpriset=MRT i absolutbelopp; handels-
+budgetlinje tangerar PPF ; konsumtion på en indifferenskurva som nås
+med denna budget. Produktion och konsumtion kan skilja sig tack vare handel.
+Ta inte den aggregerade vinsten som bevis för att varje grupp vinner.
+
+14.4 Plattformar och nätverkseffekter
+Plattform: underlättar interaktion mellan grupper (hyresgäster/uthyrare,
+publik/artister, köpare/säljare). Värdet beror på deltagarna och
+på reglerna för matchning, inte bara på en digital katalog.
+Direkt nätverkseffekt: fler användare på samma sida höjer
+värdet för en användare, t.ex. ett flerspelarspel.
+Indirekt/korsvis effekt: fler på ena sidan lockar den andra, t.ex. artister/publik.
+Chicken-and-egg : utan uthyrare få hyresgäster, utan hyresgäster få
+uthyrare. Att subventionera en sida eller freemium kan hjälpa till att komma igång.
+Freemium kan samtidigt sortera WTP OCH bygga en användarbas.
+Andra ingredienser: förtroende, omdömen, betalning, garanti, säkerhet i
+transaktionen, likviditet i matchningen, låg friktion, regler och kvalitet.
+Multi-homing : använda flera plattformar. Single-homing : bara en.
+Enkel multi-homing sänker en nykomlings kostnad för att nå kunder
+som redan finns på annat håll; exklusivitet och switching costs kan förstärka
+hinder. Nätverkseffekter kan gynna koncentration/tipping;
+de bevisar inte att varje digital marknad är ett naturligt monopol.
+E2022 Q1d sportuthyrning, E2025 Q1a/b konserter.
+
+14.5 Auktioner och offentlig upphandling
+Vickrey : förseglad andraprisauktion, försäljning av ett objekt, oberoende privata
+värden i grundmodellen. Alla har ett svagt dominant incitament
+att bjuda sitt värde: budet avgör om man vinner, priset sätts av de
+andra. Det högsta värdet vinner och betalar det näst högsta budet.
+E2023 värden 80,100,92 miljoner ->spelare 2 vinner, betalar 92 miljoner.
+Att överbjuda kan ge vinst till ett pris över det egna värdet; att underbjuda
+kan göra att en lönsam affär går förlorad.
+Omvänd andraprisupphandling: lägst kostnad/bud vinner, får
+det näst lägsta budet, givet samma kvalitet och privata data.
+E2025 kostnader 20 000,24 000,28 000 ->A vinner och får 24 000.
+
+Common value / osäker gemensam kostnad: buden kan avslöja
+information om samma värde eller samma kostnad. Winner's curse : att vinna
+kan betyda att man var mest optimistisk; en rationell budgivare tar hänsyn
+till detta urval. Vid upphandling finns risk att underskatta
+kostnaden och vinna ett förlustbringande kontrakt ->justera budet uppåt
+jämfört med en naiv skattning, om privata signaler är korrelerade.
+E2025 anger en gemensam väderchock utan att ange privat information.
+Om alla har exakt samma offentliga fördelning och ingen privat
+signal bevisar den gemensamma chocken ensam INTE en informationsbaserad winner's curse.
+Regeln « bjud din säkra kostnad » kan inte överföras mekaniskt;
+signaler, riskaversion och avtalsmässig exponering måste preciseras.
+
+14.6 Edgeworth och Paretoeffektivitet — E2021 Q4e
+Edgeworthlåda: dimensioner = totala begåvningar av de två varorna;
+motsatta origon för de två konsumenterna. En allokering bestämmer
+var och ens konsumtion, givet fasta totaler.
+Paretoförbättring: minst en får det bättre, ingen sämre.
+Paretoeffektiv: ingen sådan förbättring är möjlig.
+Bytesvinster om deras MRS skiljer sig åt och varor finns tillgängliga.
+Med jämna preferenser och inre optimum: MRS_A=MRS_B ; men med
+perfekta substitut ligger effektiva allokeringar ofta på kanterna.
+
+E2021 : totalt 20 drinks D och 20 snacks S ; var och en har (10,10).
+Christina U_C=D_C+S_C ; Sebastian U_S=D_S+2S_S, eftersom han ger upp 2 drinks
+för 1 snack. Sebastian värderar snacks relativt högre.
+Fördelaktigt byte: Sebastian ger drinks mot snacks, till ett pris
+mellan 1 och 2 drinks/snack. I Sebastians koordinater (D,S) är initial nytta 30,
+Christinas initiala 20 ; svaga vinster för båda om D+2S>=30 och D+S<=20,
+i lådan, med minst en strikt olikhet för en verklig vinst.
+Effektiva allokeringar: Sebastian har inga drinks kvar (D=0), ELLER han äger
+alla snacks (S=20) ; annars förbättrar ett marginellt byte för båda.
+Bland de allokeringar som nås utan förlust från begåvningen
+uppfyller det effektiva segmentet D=0,15<=S<=20 båda villkoren.

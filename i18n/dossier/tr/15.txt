@@ -1,0 +1,73 @@
+======================================================================
+13. ASSIGNMENT 3'TE OYUN TEORİSİ
+======================================================================
+
+13.1 Bir matrisi çözmek
+Saf strateji belirlenmiş bir seçimdir. Sıralı bir oyunda strateji,
+oynanan yolun dışında bile HER olası düğümdeki eylemi tanımlar.
+Bir matriste: ilk getiri satır oyuncusunun, ikincisi sütun oyuncusunun.
+Her sütun için satırın en iyi tepkilerini işaretle; her
+satır için sütununkileri. İki kez işaretli hücre saf bir Nash dengesidir.
+Kayıtsızlıklar dahil birden fazla olabilir.
+Baskın: rakiplerin eylemleri ne olursa olsun optimal; her zaman
+kesin daha iyiyse kesin baskın. Bir denge etkinsiz
+olabilir: tek taraflı kazanç olmaması maksimum kolektif kazanç demek değildir.
+
+13.2 Golden Balls — veriler A3 s.1, matris görsel olarak doğrulandı
+              Colin S          Colin N
+Rowena S      (10,10)           (0,20)
+Rowena N      (20,0)            (0,0)
+Dosyada S=Split, N=Steal ; N simgesi evrensel değildir.
+Bencil: N zayıf baskındır; saf Nash (S,N),(N,S),(N,N).
+Kıskançlık: diğeri daha fazla alırsa kendi faydasından 1 çıkar.
+SS(10,10), SN(-1,20), NS(20,-1), NN(0,0) ->tek Nash NN.
+Eşit özgecilik: u_i=para_i+para_j.
+SS faydaları (20,20), SN(20,20), NS(20,20), NN(0,0) verir.
+Saf Nash SS,SN,NS. NN Nash DEĞİLDİR: N'ye karşı S'ye sapmak 0 yerine
+20 verir. A3.1c'deki « SS ve NN » kişisel yanıtı yanlıştır.
+Çift özgecilik: u_i=para_i+2*para_j.
+SS(30,30), SN(40,20), NS(20,40), NN(0,0) ->S kesin baskın,
+tek Nash SS. Farklı tercihler ->faydalarda farklı bir oyun.
+Bu listeler SAF stratejilerle ilgilidir; onları tüm karma
+dengelerin eksiksiz bir sınıflandırması olarak sunma.
+Bu matrisin tüm Nash dengelerini sınıflandırmak için tamamlayıcı:
+x Rowena'nın S seçme olasılığı, y Colin'in S seçme olasılığı olsun.
+Bencil: x=0 VEYA y=0 ise denge; diğeri keyfi olarak karıştırabilir.
+Kıskançlık: yalnızca x=y=0. Eşit özgecilik: x=1 VEYA y=1 ; diğeri
+keyfi olarak karıştırabilir. Çift özgecilik: yalnızca x=y=1.
+0/1 değerlerinde yukarıdaki saf Nash dengeleri aynen bulunur.
+
+13.3 Silah ve petrol: geriye doğru tümevarım
+Petrol havuzu 6 ; silah maliyeti X1,Y3. Yalnızca biri silahlıysa paylaşım 5/1 ; hiçbiri değilse
+3/3 ; ikisi de silahlıysa petrol yok ama maliyetler ödenmiş.
+Net getiriler (X,Y) : hiçbiri silahlı değil (3,3), yalnız X (4,1), yalnız Y (1,2), ikisi (-1,-3).
+X önce oynar: X silahlanınca Y silahlanmamayı seçer (1>-3).
+X silahlanmazsa Y, silahlı 2 ile silahsız 3'ü karşılaştırır ->yine silahlanmaz.
+Dolayısıyla Y'nin eksiksiz stratejisi: X'in her eyleminden sonra silahlanmamak.
+X silahlanmak 4 ile silahlanmamak 3'ü karşılaştırır ->silahlanır; sonuç (4,1).
+Y önce oynar: Y silahlanınca X silahlanmaz (1>-1), ve
+Y silahlanmazsa silahlanır (4>3). Y silahlanmak 2 ile silahlanmamak 1'i karşılaştırır ->silahlanır;
+sonuç (1,2). Takipçi X silahlı Y karşısında silahsız kalırdı; bu,
+getirisi 1 ile silahlanma maliyetini karıştıran bir yanıtın aksinedir.
+Bir SPNE yalnızca sonucu değil, yol dışı tepkileri de belirtir.
+
+13.4 Barış/savaş koordinasyonu — A3 s.3
+                 Y barış      Y savaş
+X barış          (9,9)        (0,8)
+X savaş          (8,0)        (7,7)
+Saf Nash barış/barış ve savaş/savaş. Barış/barış Pareto anlamında baskındır.
+Diğerinden korku ve inançlar savaş/savaş'ı makul kılabilir,
+ama getiriler tek başına tek bir eşzamanlı sonuç seçmez.
+X önce oynarsa: Y barışa barışla (9>8), savaşa savaşla (7>0) yanıt verir.
+X 9'a karşı 7'yi öngörür ->barış; sonuç barış/barış, tümevarımla SPNE.
+İletişim inançları koordine edebilir; bağlayıcı olmayan cheap talk
+teşvikleri zorunlu olarak değiştirmez.
+
+13.5 Taahhütler ve inandırıcı tehditler — A3.4
+Vaat edilen bir yaptırımı analiz etmek için: uygulanması gereken anda,
+vaat eden tarafın ona uymakta hâlâ çıkarı var mı?
+Kamuya açık bir metin itibar/siyasi maliyetler yükleyebilir, ama geri
+alınamaz bir taahhüdü garanti etmez. Askeri bir madde ancak teşvikleri
+değiştirir ve/veya saldırıdan sonra müdahaleyi inandırıcı kılarsa caydırıcıdır.
+Assignment'ın tarihsel sorusu teorik bir uygulama işlevi görür;
+bu dosya belgenin diplomatik tarihini doğrulama iddiasında değildir.

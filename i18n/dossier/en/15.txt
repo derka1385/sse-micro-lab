@@ -1,0 +1,73 @@
+======================================================================
+13. GAME THEORY IN ASSIGNMENT 3
+======================================================================
+
+13.1 Solving a matrix
+A pure strategy is a determined choice. A strategy in a sequential
+game describes the action at EVERY possible node, even off the path played.
+In a matrix: first payoff for the row player, second for the column player.
+For each column, mark the row player's best responses; for each
+row, the column player's. A doubly marked cell is a pure Nash equilibrium.
+There can be several, including with indifferences.
+Dominant: optimal whatever the rivals' actions; strictly
+dominant if always strictly better. An equilibrium can be
+inefficient: no unilateral gain does not imply maximal collective gain.
+
+13.2 Golden Balls — data A3 p.1, matrix checked visually
+              Colin S          Colin N
+Rowena S      (10,10)           (0,20)
+Rowena N      (20,0)            (0,0)
+S=Split, N=Steal in the file; the symbol N is not universal.
+Selfish: N is weakly dominant; pure Nash (S,N),(N,S),(N,N).
+Envy: subtract 1 from one's utility if the other receives more.
+SS(10,10), SN(-1,20), NS(20,-1), NN(0,0) ->only Nash NN.
+Equal altruism: u_i=money_i+money_j.
+SS gives utilities (20,20), SN(20,20), NS(20,20), NN(0,0).
+Pure Nash SS,SN,NS. NN is NOT one: deviating to S against N gives 20
+instead of 0. The personal answer "SS and NN" in A3.1c is wrong.
+Double altruism: u_i=money_i+2*money_j.
+SS(30,30), SN(40,20), NS(20,40), NN(0,0) ->S strictly dominant,
+only Nash SS. Different preferences ->a different game in utilities.
+These lists concern PURE strategies; do not present them as
+a complete classification of all mixed equilibria.
+Complement for classifying all Nash equilibria of this matrix:
+let x be the probability that Rowena chooses S, y that Colin chooses S.
+Selfish: equilibria if x=0 OR y=0; the other can mix arbitrarily.
+Envy: x=y=0 only. Equal altruism: x=1 OR y=1; the other can
+mix arbitrarily. Double altruism: x=y=1 only.
+At the values 0/1 we recover exactly the pure Nash equilibria above.
+
+13.3 Arms and oil: backward induction
+Oil pool 6; arms cost X1,Y3. If only one is armed, split 5/1; if neither,
+3/3; if both are armed, no oil but the costs are paid.
+Net payoffs (X,Y): neither armed (3,3), X alone (4,1), Y alone (1,2), both (-1,-3).
+X moves first: Y chooses not to arm after X arms (1>-3).
+If X does not arm, Y compares Y armed 2 with Y unarmed 3 ->also does not arm.
+So Y's complete strategy: do not arm after each of X's actions.
+X compares arming 4 and not arming 3 ->arms; outcome (4,1).
+Y moves first: X chooses not to arm after Y arms (1>-1), and
+to arm after Y does not arm (4>3). Y compares arming 2 and not arming 1 ->arms;
+outcome (1,2). The follower X would stay unarmed against an armed Y, unlike
+an answer that confuses its payoff 1 with its arming cost.
+A SPNE also specifies off-path reactions, not just the outcome.
+
+13.4 Peace/war coordination — A3 p.3
+                 Y peace      Y war
+X peace          (9,9)        (0,8)
+X war            (8,0)        (7,7)
+Pure Nash peace/peace and war/war. Peace/peace Pareto-dominates.
+Fear of the other and beliefs can make war/war plausible,
+but payoffs alone do not select a unique simultaneous outcome.
+If X moves first: Y answers peace to peace (9>8), war to war (7>0).
+X anticipates 9 versus 7 ->peace; outcome peace/peace, SPNE by induction.
+Communication can coordinate beliefs; non-binding cheap talk
+does not necessarily change incentives.
+
+13.5 Commitments and credible threats — A3.4
+To analyse a promised sanction: at the moment it should be
+carried out, does the one who promised still have an interest in honouring it?
+A public written text can impose reputational/political costs, without guaranteeing
+an irrevocable commitment. A military clause deters only if it
+changes incentives and/or makes intervention credible after the attack.
+The assignment's historical question serves as a theoretical application;
+this dossier does not claim to verify the document's diplomatic history.

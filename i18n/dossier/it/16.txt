@@ -1,0 +1,126 @@
+======================================================================
+14. COMPLEMENTI PRESENTI NEGLI ESAMI, LEZIONI COMPLETE ASSENTI
+======================================================================
+
+Questi temi vanno ripassati perché compaiono nei
+testi d'esame. La loro trattazione qui ricostruisce gli strumenti necessari. Le
+slide corrispondenti oltre L12 non sono disponibili nel dossier.
+
+14.1 Vantaggio assoluto e comparato
+Assoluto: meno input necessari per unità. Comparato: costo
+opportunità più basso rispetto all'altro bene.
+Se a_X ore/unità di X e a_Y ore/unità di Y : costo opportunità di X
+in Y =a_X/a_Y. Non invertire questo rapporto passando dalle ore alle quantità.
+Due paesi possono guadagnare dallo scambio anche se uno è più produttivo in
+TUTTO. Un prezzo relativo di scambio compreso tra i loro costi opportunità ->
+guadagni possibili. Vincoli di domanda/capacità limitano la specializzazione.
+PPF lineare : a_X*X+a_Y*Y=Lbar ; intercette Lbar/a_X e Lbar/a_Y,
+pendenza dY/dX=-a_X/a_Y. PPF curva con altre tecnologie.
+
+E2025 : Northland grano 3h, elettronica 6h ; Southland grano 4h, elettronica 2h.
+Southland ha il vantaggio assoluto nell'elettronica; Northland il vantaggio comparato nel grano
+(0.5 elettronica/grano contro 2). Con 120h :
+PPF Nord : 3W+6E=120, intercette W40,E20 ; Sud : 4W+2E=120, W30,E60.
+Scambiare 1 elettronica contro una quantità di grano tra 0.5 e 2, o equivalentemente
+1 grano contro elettronica tra 0.5 e 2 qui, permette guadagni potenziali.
+Attenzione: la simmetria numerica di questi intervalli è propria di questi numeri.
+
+14.2 Piccolo paese, libero scambio e dazio
+Prezzo mondiale pw dato; prezzo interno=pw con libero scambio e in assenza
+di altri costi pertinenti. Importazioni M=QD(pw)-QS(pw)>0.
+Dazio unitario tau, il paese resta importatore: p_dom=pw+tau.
+QD diminuisce, QS aumenta, M diminuisce. CS cala, PS interno aumenta,
+lo Stato riceve tau*M. Welfare NAZIONALE=CS+PS+gettito; la spesa verso gli
+esportatori esteri non diventa surplus nazionale interno.
+DWL=triangolo di produzione inefficiente+triangolo di consumo perso.
+Lineare: DWL=0.5*tau*[(QS1-QS0)+(QD0-QD1)].
+Se il dazio supera lo scarto tra prezzo di autarchia e pw, è proibitivo:
+il prezzo interno raggiunge l'autarchia, M0, non applicare pw+tau alla cieca.
+Il caso del grande paese/effetto sul prezzo mondiale non è il benchmark sopra.
+
+E2022 : pD80-Q,pS20+Q,pw30 ->QD50,QS10,M40.
+Dazio 10 ->p40,QD40,QS20,M20 ; CS1250->800,PS50->200,
+gettito 200,DWL100. Verifica -450+150+200=-100.
+E2025 acciaio: vedere cifre e conversione di unità nella sezione 16.
+
+14.3 Fattori specifici e distribuzione
+Capitale specifico alla manifattura, terra specifica all'agricoltura,
+lavoro mobile. Ogni settore assume secondo p_j*MP_Lj=w ; la mobilità
+eguaglia i salari, sotto le ipotesi concorrenziali del modello.
+Il prezzo agricolo cala ->il valore del prodotto marginale agricolo cala ->
+il lavoro lascia l'agricoltura ->il reddito della terra diminuisce; il capitale
+dell'altro settore può guadagnare dall'afflusso di lavoro. L'effetto sul salario reale
+del lavoro dipende dal paniere consumato e dai due prezzi.
+Paese importatore di cibo (E2020) : un prezzo d'importazione più basso migliora
+le sue ragioni di scambio e può aumentare il benessere aggregato, nonostante le perdite
+dei proprietari terrieri. Paese esportatore agricolo (E2025) : un prezzo
+ricevuto più basso peggiora le ragioni di scambio e penalizza i proprietari.
+Grafico PPF: produzione dove prezzo relativo=MRT in valore assoluto; vincolo
+commerciale tangente alla PPF ; consumo su una curva d'indifferenza raggiungibile
+con questo vincolo. Produzione e consumo possono differire grazie al commercio.
+Non fare del guadagno aggregato una prova che ogni gruppo guadagni.
+
+14.4 Piattaforme ed effetti di rete
+Piattaforma: facilita l'interazione tra gruppi (affittuari/locatori,
+pubblico/artisti, acquirenti/venditori). Il valore dipende dai partecipanti e
+dalle regole di abbinamento, non solo da un catalogo digitale.
+Effetto di rete diretto: più utenti dallo stesso lato aumentano il
+valore per un utente, es. gioco multigiocatore.
+Effetto indiretto/incrociato: più utenti di un lato attirano l'altro, es. artisti/pubblico.
+Chicken-and-egg : senza locatori pochi affittuari, senza affittuari pochi
+locatori. Sussidiare un lato o il freemium può aiutare a partire.
+Il freemium può simultaneamente selezionare le WTP E creare una base di utenti.
+Altri ingredienti: fiducia, recensioni, pagamento, garanzia, sicurezza della
+transazione, liquidità dell'abbinamento, basso attrito, regole e qualità.
+Multi-homing : usare più piattaforme. Single-homing : una sola.
+Un multi-homing facile riduce i costi d'accesso di un entrante a una clientela
+già presente altrove; esclusività e switching costs possono rafforzare
+le barriere. Gli effetti di rete possono favorire concentrazione/tipping;
+non provano che ogni mercato digitale sia un monopolio naturale.
+E2022 Q1d noleggio sportivo, E2025 Q1a/b concerti.
+
+14.5 Aste e appalti pubblici
+Vickrey : asta in busta chiusa al secondo prezzo, vendita di un oggetto, valori privati
+indipendenti nel modello base. Ciascuno ha un incentivo debolmente dominante
+a offrire il proprio valore: l'offerta determina se vince, il prezzo è fissato dagli
+altri. Il valore più alto vince e paga la seconda offerta più alta.
+E2023 valori 80,100,92 milioni ->il giocatore 2 vince, paga 92 milioni.
+Offrire troppo può far vincere a un prezzo superiore al proprio valore; offrire troppo poco
+può far perdere una transazione redditizia.
+Procurement inverso al secondo prezzo: il costo/l'offerta più bassa vince, riceve
+la seconda offerta più bassa, supponendo stessa qualità e dati privati.
+E2025 costi 20 000,24 000,28 000 ->A vince e riceve 24 000.
+
+Common value / costo comune incerto: le offerte possono rivelare
+informazioni sullo stesso valore o sullo stesso costo. Winner's curse : vincere
+può significare essere stato il più ottimista; chi offre razionalmente tiene
+conto di questa selezione. In un appalto, rischio di sottostimare
+il costo e vincere un contratto in perdita ->rivedere l'offerta verso l'alto
+rispetto a una stima ingenua, se i segnali privati sono correlati.
+E2025 precisa uno shock meteo comune senza precisare le informazioni private.
+Se tutti hanno esattamente la stessa distribuzione pubblica e nessun segnale
+privato, lo shock comune da solo NON prova una winner's curse informativa.
+La regola « offri il tuo costo certo » non si trasferisce meccanicamente;
+occorre precisare segnali, avversione al rischio ed esposizione contrattuale.
+
+14.6 Edgeworth ed efficienza paretiana — E2021 Q4e
+Scatola di Edgeworth: dimensioni = dotazioni totali dei due beni;
+origini opposte per i due consumatori. Un'allocazione determina
+il consumo di ciascuno, essendo fissi i totali.
+Miglioramento paretiano: almeno uno sta meglio, nessuno peggio.
+Efficiente in senso paretiano: nessun miglioramento di questo tipo è realizzabile.
+Guadagni dallo scambio se i loro MRS differiscono, con beni disponibili.
+Con preferenze regolari e ottimo interno: MRS_A=MRS_B ; ma con
+sostituti perfetti, le allocazioni efficienti si trovano spesso ai bordi.
+
+E2021 : totali 20 drinks D e 20 snacks S ; dotazione di ciascuno (10,10).
+Christina U_C=D_C+S_C ; Sebastian U_S=D_S+2S_S, perché cede 2 drinks
+per 1 snack. Sebastian apprezza relativamente di più gli snacks.
+Scambio vantaggioso: Sebastian dà drinks in cambio di snacks, a un prezzo
+tra 1 e 2 drinks/snack. Nelle coordinate di Sebastian (D,S), utilità iniziale 30,
+Christina iniziale 20 ; guadagni deboli per entrambi se D+2S>=30 e D+S<=20,
+nella scatola, con almeno una disuguaglianza stretta per un guadagno reale.
+Allocazioni efficienti: Sebastian non ha più drinks (D=0), O possiede
+tutti gli snacks (S=20) ; altrimenti uno scambio marginale migliora entrambi.
+Tra le sole allocazioni raggiungibili senza perdita dalla dotazione,
+il segmento efficiente D=0,15<=S<=20 soddisfa entrambi i vincoli.
