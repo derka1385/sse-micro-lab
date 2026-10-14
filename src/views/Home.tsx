@@ -5,7 +5,9 @@ import { DIMS, type Dim } from '../content/types';
 import { MasteryBars } from '../components/learning';
 import { ArrowRight } from '../components/icons';
 import { Rich } from '../components/text';
-import { t } from '../i18n';
+import { useEffect, useState } from 'react';
+import { lang, t } from '../i18n';
+import { useSync } from '../sync';
 import { activeMisconceptions, dueReviews, isMastered, lessonState, mastery, useProgress, type Progress } from '../store';
 
 const DIM_MODE: Record<Dim, { href: string; text: string }> = {
@@ -47,26 +49,105 @@ function nextSteps(p: Progress) {
   return steps;
 }
 
+const DAY = 86_400_000;
+const dayKey = (d: Date) => `${d.getFullYear()}-${d.getMonth()}-${d.getDate()}`;
+
+/** Ticks once a minute so the countdown stays live without re-rendering every second. */
+function useNow() {
+  const [now, setNow] = useState(() => Date.now());
+  useEffect(() => { const id = setInterval(() => setNow(Date.now()), 60_000); return () => clearInterval(id); }, []);
+  return now;
+}
+
+function Countdown({ p, now }: { p: Progress; now: number }) {
+  const left = Math.max(0, EXAM_DATE.getTime() - now);
+  const days = Math.floor(left / DAY), hours = Math.floor((left % DAY) / 3_600_000), mins = Math.floor((left % 3_600_000) / 60_000);
+  const active = new Set(p.attempts.map((a) => dayKey(new Date(a.t))));
+  const start = new Date(now); start.setHours(0, 0, 0, 0);
+  const cells: Date[] = [];
+  for (let d = new Date(start); d <= EXAM_DATE && cells.length < 21; d = new Date(d.getTime() + DAY)) cells.push(d);
+  const wd = new Intl.DateTimeFormat(lang, { weekday: 'narrow' });
+  const full = new Intl.DateTimeFormat(lang, { weekday: 'long', day: 'numeric', month: 'long' });
+  const time = new Intl.DateTimeFormat(lang, { hour: '2-digit', minute: '2-digit' });
+  const isExam = (d: Date) => dayKey(d) === dayKey(EXAM_DATE);
+  return (
+    <section className="countdown" aria-labelledby="cd-title">
+      <h2 id="cd-title" className="sr-only">{t('Final BE501')}</h2>
+      {left > 0 ? <>
+        <p className="cd-big"><span className="cd-num">{days}</span><span className="cd-unit">{t('jours avant le final')}</span></p>
+        <p className="cd-rest">{t('{h} h {m} min', { h: hours, m: mins })}</p>
+      </> : <p className="cd-big"><span className="cd-unit">{t('Jour du final')}</span></p>}
+      <p className="cd-when">{t('Final BE501')} · {full.format(EXAM_DATE)} · {time.format(EXAM_DATE)}</p>
+      <ol className="cd-days" aria-label={t('Jours restants')}>
+        {cells.map((d, i) => (
+          <li key={i} className={`${i === 0 ? 'today' : ''} ${isExam(d) ? 'exam' : ''} ${active.has(dayKey(d)) ? 'done' : ''}`} title={full.format(d)}>
+            <span>{wd.format(d)}</span><b>{d.getDate()}</b>
+          </li>
+        ))}
+      </ol>
+    </section>
+  );
+}
+
+function ProgressPanel({ p, now }: { p: Progress; now: number }) {
+  const all = Object.values(LESSONS);
+  const done = all.filter((l) => lessonState(p, l.id).finishedAt).length;
+  const week = p.attempts.filter((a) => a.t > now - 7 * DAY && !a.assisted);
+  const rate = week.length ? Math.round((100 * week.filter((a) => a.ok).length) / week.length) : null;
+  const activeDays = new Set(p.attempts.map((a) => dayKey(new Date(a.t)))).size;
+  return (
+    <section className="progress-panel" aria-labelledby="pg-title">
+      <div className="pg-main">
+      <div className="pg-head">
+        <h2 id="pg-title">{t('Ta progression')}</h2>
+        <p><b>{done}</b> / {all.length} {t('leçons terminées')}</p>
+      </div>
+      <ol className="pg-lessons" style={{ gridTemplateColumns: `repeat(${all.length}, 1fr)` }}>
+        {all.map((l) => {
+          const s = lessonState(p, l.id);
+          const state = s.finishedAt ? 'done' : s.startedAt ? 'started' : '';
+          return <li key={l.id}><a href={`#/lesson/${l.id}`} className={state} title={l.mechanism} aria-label={l.mechanism} /></li>;
+        })}
+      </ol>
+      <dl className="pg-facts">
+        <div><dt>{t('Révisions dues')}</dt><dd>{dueReviews(p, now).length}</dd></div>
+        <div><dt>{t('Jours actifs')}</dt><dd>{activeDays}</dd></div>
+        <div><dt>{t('Réponses justes (7 jours)')}</dt><dd>{rate === null ? '—' : `${rate} %`}</dd></div>
+      </dl>
+      </div>
+      <div className="pg-mastery">
+        <h3 className="pg-sub">{t('Maîtrise moyenne, tous thèmes')}</h3>
+        <MasteryBars compact m={mastery(p, all.map((l) => l.node))} />
+      </div>
+    </section>
+  );
+}
+
 export function Home() {
   const p = useProgress();
+  const now = useNow();
+  const user = useSync().user;
+  const first = user?.name.split(' ')[0];
   const steps = nextSteps(p);
-  const days = Math.ceil((EXAM_DATE.getTime() - Date.now()) / 86_400_000);
   const lesson = COURSE.find((l) => lessonState(p, l.id).startedAt && !lessonState(p, l.id).finishedAt) ?? COURSE.find((l) => !lessonState(p, l.id).finishedAt) ?? COURSE[0];
   const started = lessonState(p, lesson.id).startedAt > 0;
   return (
     <div className="page home">
-      <header className="page-head">
-        <h1>{t('La microéconomie, un mécanisme à la fois.')}</h1>
-        <p className="meta home-meta">
-          <span>{lesson.mechanism}</span>
-          <span>{days > 0 ? t('J−{n} avant le final du 23 octobre', { n: days }) : t('Jour du final')}</span>
-          <span>{t('Date du support L1, à vérifier sur ta convocation')}</span>
-        </p>
-        <p className="lead">{lesson.teaser}</p>
-        <a className="button primary" href={`#/lesson/${lesson.id}`}>{started ? t('Continuer la leçon') : t('Commencer la leçon')} <ArrowRight /></a>
-      </header>
+      <div className="home-top">
+        <header className="home-hello">
+          <h1 className={first ? '' : 'long'}>{first ? t('Salut {name}.', { name: first }) : t('La microéconomie, un mécanisme à la fois.')}</h1>
+          <p className="home-next-label">{started ? t('Continuer la leçon') : t('Commencer la leçon')}</p>
+          <a className="home-next" href={`#/lesson/${lesson.id}`}>
+            <b>{lesson.mechanism}</b>
+            <span>{lesson.teaser}</span>
+            <ArrowRight />
+          </a>
+        </header>
+        <Countdown p={p} now={now} />
+      </div>
 
-      <p className="small"><a href="#/learn">{t('Voir les 13 thèmes et leurs leçons guidées')}</a></p>
+      <ProgressPanel p={p} now={now} />
+
       <section className="next">
         <h2>{t('Ensuite')}</h2>
         <ol className="steps">
@@ -80,15 +161,8 @@ export function Home() {
             </li>
           ))}
         </ol>
+        <p className="small"><a href="#/learn">{t('Voir les 13 thèmes et leurs leçons guidées')}</a></p>
       </section>
-
-      {started && (
-        <section className="card">
-          <h2>{t('{m} — où tu en es', { m: lesson.mechanism })}</h2>
-          <p className="muted small">{t('Une réussite compte au plus une fois par jour et par dimension : la maîtrise exige des rappels sur plusieurs jours.')}</p>
-          <MasteryBars m={mastery(p, [lesson.node])} />
-        </section>
-      )}
 
       <section className="card subtle">
         <h2>{t('Comment ce labo fonctionne')}</h2>

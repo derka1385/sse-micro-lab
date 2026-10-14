@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { OverlayHost } from './components/overlays';
-import { activeMisconceptions, dueReviews, exportProgress, importProgress, resetProgress, useProgress } from './store';
+import { activeMisconceptions, dueReviews, useProgress } from './store';
 import { Home } from './views/Home';
 import { Learn, LessonView } from './views/Lesson';
 import { GraphLab } from './views/GraphLab';
@@ -17,8 +17,9 @@ import { Sources } from './views/Sources';
 import { Claude } from './views/Claude';
 import { QuickQuestion } from './components/QuickQuestion';
 import { getClaudeStatus } from './claude';
-import { signOutSync, useSync } from './sync';
-import { LangPicker, LoginPage, Splash } from './components/Login';
+import { useSync } from './sync';
+import { LangPrompt, LoginPage, Splash, langAsked } from './components/Login';
+import { Profile, RequestPage, Settings, syncLabel } from './views/Account';
 import { t } from './i18n';
 
 function useRoute() {
@@ -32,23 +33,24 @@ function useRoute() {
   return route;
 }
 
-const NAV: { group: string; items: { href: string; label: string; key: string }[] }[] = [
-  { group: '', items: [{ href: '#/', label: t('Accueil'), key: '' }] },
-  { group: t('Apprendre'), items: [
-    { href: '#/learn', label: t('Leçons'), key: 'learn' },
+// Five main sections; a section's sub-pages show only while it is open.
+const NAV: { label: string; href: string; items: { href: string; label: string; key: string }[] }[] = [
+  { label: t('Accueil'), href: '#/', items: [{ href: '#/', label: t('Accueil'), key: '' }] },
+  { label: t('Leçons'), href: '#/learn', items: [{ href: '#/learn', label: t('Leçons'), key: 'learn' }] },
+  { label: t('Apprendre'), href: '#/lab', items: [
     { href: '#/lab', label: t('Graph Lab'), key: 'lab' },
     { href: '#/why', label: t('Pourquoi ?'), key: 'why' },
     // The Claude tutor needs the local dev server (it holds the API key): hidden on the static GitHub Pages build.
     ...(import.meta.env.DEV ? [{ href: '#/claude', label: t('Ask Claude directly'), key: 'claude' }] : []),
   ] },
-  { group: t('S’entraîner'), items: [
+  { label: t('S’entraîner'), href: '#/practice', items: [
     { href: '#/practice', label: t('Pratique'), key: 'practice' },
     { href: '#/recall', label: t('Rappel'), key: 'recall' },
     { href: '#/recognize', label: t('Reconnaître le modèle'), key: 'recognize' },
     { href: '#/confusions', label: t('Confusions'), key: 'confusions' },
     { href: '#/exam', label: t('Examen'), key: 'exam' },
   ] },
-  { group: t('Piloter'), items: [
+  { label: t('Piloter'), href: '#/map', items: [
     { href: '#/map', label: t('Carte de maîtrise'), key: 'map' },
     { href: '#/final', label: t('Préparation finale'), key: 'final' },
     { href: '#/mistakes', label: t('Mes erreurs'), key: 'mistakes' },
@@ -56,44 +58,18 @@ const NAV: { group: string; items: { href: string; label: string; key: string }[
   ] },
 ];
 
-function Account() {
+/** Bottom of the sidebar: the account chip opens the profile; settings and the request form sit below it. */
+function AccountNav({ head }: { head?: string }) {
   const s = useSync();
-  if (!s.ready) return null;
   if (!s.user) return null;
-  const label = s.status === 'syncing' ? t('Synchronisation…') : s.status === 'error' ? t('Synchronisation en échec') : t('Progression synchronisée');
   return (
-    <div className="account">
-      <div className="account-user">
+    <div className="account-nav">
+      <a href="#/profile" className={`account-user ${head === 'profile' ? 'on' : ''}`} aria-current={head === 'profile' ? 'page' : undefined}>
         {s.user.photo ? <img src={s.user.photo} alt="" referrerPolicy="no-referrer" /> : <span className="account-initial" aria-hidden="true">{(s.user.name || '?').charAt(0).toUpperCase()}</span>}
-        <div><b>{s.user.name}</b><span className={`account-status ${s.status}`} title={s.error}>{label}</span></div>
-      </div>
-      <button type="button" className="link small" onClick={() => void signOutSync()}>{t('Se déconnecter')}</button>
-    </div>
-  );
-}
-
-function Backup() {
-  const file = useRef<HTMLInputElement>(null);
-  const [msg, setMsg] = useState('');
-  return (
-    <div className="backup">
-      <button type="button" className="link small" onClick={() => {
-        const blob = new Blob([exportProgress()], { type: 'application/json' });
-        const a = document.createElement('a');
-        a.href = URL.createObjectURL(blob);
-        a.download = `micro-lab-progress-${new Date().toISOString().slice(0, 10)}.json`;
-        a.click();
-        URL.revokeObjectURL(a.href);
-      }}>{t('Sauvegarder')}</button>
-      <button type="button" className="link small" onClick={() => file.current?.click()}>{t('Restaurer')}</button>
-      <button type="button" className="link small" onClick={() => { if (window.confirm(t('Effacer toute ta progression locale ? (Pense à sauvegarder avant.)'))) resetProgress(); }}>{t('Réinitialiser')}</button>
-      <input ref={file} type="file" accept="application/json" hidden onChange={async (e) => {
-        const f = e.target.files?.[0];
-        if (!f) return;
-        try { importProgress(await f.text()); setMsg(t('Progression restaurée.')); } catch (err) { setMsg((err as Error).message); }
-        e.target.value = '';
-      }} />
-      {msg && <span className="small muted">{msg}</span>}
+        <div><b>{s.user.name}</b><span className={`account-status ${s.status}`} title={s.error}>{syncLabel(s.status)}</span></div>
+      </a>
+      <a href="#/settings" className={`nav-item ${head === 'settings' ? 'on' : ''}`} aria-current={head === 'settings' ? 'page' : undefined}>{t('Paramètres')}</a>
+      <a href="#/request" className={`nav-item ${head === 'request' ? 'on' : ''}`} aria-current={head === 'request' ? 'page' : undefined}>{t('Demander quelque chose')}</a>
     </div>
   );
 }
@@ -122,6 +98,7 @@ export default function App() {
   const route = useRoute();
   const p = useProgress();
   const [menu, setMenu] = useState(false);
+  const [asked, setAsked] = useState(langAsked);
   const due = dueReviews(p).length;
   const active = activeMisconceptions(p).length;
   const [head, a, b] = route;
@@ -130,6 +107,7 @@ export default function App() {
   let page;
   if (!sync.ready) return <Splash />;
   if (!sync.user) return <LoginPage />;
+  if (!asked) return <LangPrompt onDone={() => setAsked(true)} />;
   switch (head) {
     case undefined: page = <Home />; break;
     case 'learn': page = <Learn />; break;
@@ -145,6 +123,9 @@ export default function App() {
     case 'final': page = <FinalPrep />; break;
     case 'mistakes': page = <Mistakes />; break;
     case 'source': page = <Sources refId={[a, b].filter(Boolean).join('/')} />; break;
+    case 'profile': page = <Profile />; break;
+    case 'settings': page = <Settings />; break;
+    case 'request': page = <RequestPage />; break;
     case 'claude': page = import.meta.env.DEV ? <Claude tab={a === 'key' ? 'key' : 'chat'} /> : <Home />; break;
     default: page = <Home />;
   }
@@ -157,21 +138,27 @@ export default function App() {
       </header>
       <nav className={`sidebar ${menu ? 'open' : ''}`} aria-label={t('Navigation principale')}>
         <a href="#/" className="brand brand-side">Micro Lab <span>{t('BE501 · laboratoire')}</span></a>
-        {NAV.map((g) => (
-          <div key={g.group || 'home'} className="nav-group">
-            {g.group && <p className="nav-title">{g.group}</p>}
-            {g.items.map((it) => (
-              <a key={it.key} href={it.href} className={`nav-item ${(head ?? '') === it.key || (it.key === 'learn' && head === 'lesson') ? 'on' : ''}`}>
-                {it.label}
-                {it.key === 'recall' && due > 0 && <span className="badge">{due}</span>}
-                {it.key === 'mistakes' && active > 0 && <span className="badge warn">{active}</span>}
+        {NAV.map((g) => {
+          const key = head === 'lesson' ? 'learn' : (head ?? '');
+          const open = g.items.some((it) => it.key === key);
+          return (
+            <div key={g.href} className={`nav-group ${open ? 'open' : ''}`}>
+              <a href={g.href} className={`nav-main ${open ? 'on' : ''}`} aria-current={open && g.items.length === 1 ? 'page' : undefined}>
+                {g.label}
+                {!open && g.href === '#/practice' && due > 0 && <span className="badge">{due}</span>}
+                {!open && g.href === '#/map' && active > 0 && <span className="badge warn">{active}</span>}
               </a>
-            ))}
-          </div>
-        ))}
-        <Account />
-        <Backup />
-        <LangPicker />
+              {open && g.items.length > 1 && g.items.map((it) => (
+                <a key={it.key} href={it.href} className={`nav-item nav-sub ${key === it.key ? 'on' : ''}`} aria-current={key === it.key ? 'page' : undefined}>
+                  {it.label}
+                  {it.key === 'recall' && due > 0 && <span className="badge">{due}</span>}
+                  {it.key === 'mistakes' && active > 0 && <span className="badge warn">{active}</span>}
+                </a>
+              ))}
+            </div>
+          );
+        })}
+        <AccountNav head={head} />
       </nav>
       <main className="main">{page}</main>
       {claudeServer && <QuickQuestion />}

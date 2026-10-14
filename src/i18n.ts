@@ -30,6 +30,14 @@ function initialLang(): Lang {
 
 export let lang: Lang = 'fr';
 let dict: Record<string, string> = {};
+
+/** 'native': everything in the chosen language. 'english': explanations in the chosen language, but questions,
+ *  answer options and graph terms in English, as on exam day. Irrelevant when the language is English. */
+export type Mode = 'native' | 'english';
+const MODE_KEY = 'micro-lab-mode';
+export let mode: Mode = 'native';
+let enDict: Record<string, string> = {};
+export const englishMode = () => mode === 'english' && lang !== 'en';
 let dossier: string | null = null;
 
 /** 53-bit FNV-1a-style hash in base 36: stable id for a French source text. */
@@ -53,13 +61,35 @@ export const dossierRaw = () => dossier;
 
 export async function loadLang() {
   lang = initialLang();
+  try { if (localStorage.getItem(MODE_KEY) === 'english') mode = 'english'; } catch { /* storage blocked */ }
   document.documentElement.lang = lang;
-  if (lang === 'fr') return;
   const dicts = import.meta.glob<Record<string, string>>('./i18n/*.json', { import: 'default' });
+  if (englishMode()) enDict = (await dicts['./i18n/en.json']?.()) ?? {};
+  if (lang === 'fr') return;
   const texts = import.meta.glob<string>('../source/dossier.*.txt', { query: '?raw', import: 'default' });
   const [d, s] = await Promise.all([dicts[`./i18n/${lang}.json`]?.(), texts[`../source/dossier.${lang}.txt`]?.()]);
   dict = d ?? {};
   dossier = s ?? null;
+}
+
+/** English versions of content texts, loaded on demand (the study-mode demo needs them in any mode). */
+export async function loadEnglish() {
+  if (lang === 'en' || Object.keys(enDict).length) return;
+  const dicts = import.meta.glob<Record<string, string>>('./i18n/*.json', { import: 'default' });
+  enDict = (await dicts['./i18n/en.json']?.()) ?? {};
+}
+export const inEnglish = (s: string) => (lang === 'en' ? t(s) : enDict[textId(s)] ?? s);
+
+export function setMode(next: Mode, reload = true) {
+  try { localStorage.setItem(MODE_KEY, next); } catch { /* storage blocked */ }
+  if (reload) window.location.reload();
+}
+
+/** A term or question shown in English in English mode (graph terms, check questions); otherwise like t(). */
+export function tq(s: string, vars?: Record<string, string | number>) {
+  if (!englishMode()) return t(s, vars);
+  const out = enDict[textId(s)] ?? s;
+  return vars ? out.replace(/\{(\w+)\}/g, (m, k) => (k in vars ? String(vars[k]) : m)) : out;
 }
 
 export function setLang(next: Lang) {
@@ -92,11 +122,14 @@ export function isFrench(s: string, strict = false) {
 
 const isExam = (v: object) => 'parts' in v && 'modelAnswer' in v;
 
+export type TextCtx = { key: string; parent: object | null; diagram: boolean };
+
 /** Visits every translatable French string of a content tree; fn returns the replacement. */
-export function walkTexts(root: unknown, fn: (s: string) => string) {
+export function walkTexts(root: unknown, fn: (s: string, ctx: TextCtx) => string) {
   const seen = new Set<object>();
+  let ctx: TextCtx = { key: '', parent: null, diagram: false };
   const visit = (v: unknown, keys: Set<string> | null): unknown => {
-    if (typeof v === 'string') return isFrench(v, keys === EXAM_KEYS) ? fn(v) : v;
+    if (typeof v === 'string') return isFrench(v, keys === EXAM_KEYS) ? fn(v, ctx) : v;
     if (!v || typeof v !== 'object' || v instanceof RegExp || seen.has(v)) return v;
     seen.add(v);
     const exam = isExam(v);
@@ -106,15 +139,31 @@ export function walkTexts(root: unknown, fn: (s: string) => string) {
       if (exam ? !EXAM_KEYS.has(k) && k !== 'parts' : SKIP.has(k) && !(k === 'exam' && typeof o[k] === 'object')) continue;
       if (SKIP_IDS.has(k) && isIds(o[k])) continue;
       if (keys && !keys.has(k) && k !== 'parts') continue;
+      const saved = ctx;
+      ctx = { key: k, parent: o, diagram: saved.diagram || k === 'diagram' };
       o[k] = visit(o[k], exam ? EXAM_KEYS : k === 'parts' ? keys : null);
+      ctx = saved;
     }
     return v;
   };
   visit(root, null);
 }
 
+/** English mode: what the student must answer to (questions, options, order items, card fronts) and graph terms. */
+const DIAGRAM_TERMS = new Set(['xLabel', 'yLabel', 'label', 'rows', 'columns', 'rowPlayer', 'colPlayer', 'unit']);
+function askedInEnglish({ key, parent, diagram }: TextCtx) {
+  if (diagram) return DIAGRAM_TERMS.has(key);
+  if (key === 'q' || key === 'items' || key === 'front' || key === 'unit') return true;
+  if (key === 'text' && parent && ('feedback' in parent || 'correct' in parent)) return true; // an answer option
+  return key === 'label' && !!parent && 'options' in parent; // a recognition question
+}
+
 /** Rewrites content objects in place with the loaded dictionary. */
 export function localize(roots: unknown[]) {
-  if (lang === 'fr') return;
-  for (const r of roots) walkTexts(r, (s) => dict[textId(s)] ?? s);
+  const en = englishMode();
+  if (lang === 'fr' && !en) return;
+  for (const r of roots) walkTexts(r, (s, c) => {
+    const id = textId(s);
+    return (en && askedInEnglish(c) ? enDict[id] : undefined) ?? (lang === 'fr' ? s : dict[id] ?? s);
+  });
 }

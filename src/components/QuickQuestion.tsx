@@ -1,3 +1,4 @@
+import { t } from '../i18n';
 import { useEffect, useRef, useState } from 'react';
 import { Cross } from './icons';
 import { ClaudeConversation } from './ClaudeConversation';
@@ -27,9 +28,9 @@ function Panel({ close }: { close: () => void }) {
     return () => { observer.disconnect(); cancelAnimationFrame(frame); window.removeEventListener('hashchange', update); window.removeEventListener('scroll', update); window.removeEventListener('keydown', escape); };
   }, [close]);
 
-  return <aside ref={panel} id="quick-question-panel" className="quick-panel" aria-label="Quick question avec Claude" data-claude-ui>
-    <header className="quick-head"><h2>Quick question</h2><button type="button" className="icon-btn" aria-label="Fermer Quick question" onClick={close}><Cross /></button></header>
-    <div className="quick-context"><span className="small muted">Tu travailles sur</span><p>{page.label}</p></div>
+  return <aside ref={panel} id="quick-question-panel" className="quick-panel" aria-label={t('Quick question avec Claude')} data-claude-ui>
+    <header className="quick-head"><h2>Quick question</h2><button type="button" className="icon-btn" aria-label={t('Fermer Quick question')} onClick={close}><Cross /></button></header>
+    <div className="quick-context"><span className="small muted">{t('Tu travailles sur')}</span><p>{page.label}</p></div>
     <div className="quick-body">
       <ClaudeConversation quick chat={chat} context={() => {
         const fresh = currentPageContext(chat.draft); setPage(fresh); return fresh;

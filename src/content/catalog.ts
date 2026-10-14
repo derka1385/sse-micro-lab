@@ -115,4 +115,4 @@ export function downstream(id: string): number {
 }
 
 /** Final date stated in L1 p.17–18 — to be checked against the student's own convocation. */
-export const EXAM_DATE = new Date('2026-10-23T09:00:00');
+export const EXAM_DATE = new Date('2026-10-23T08:00:00+02:00'); // Friday 23 October, 08:00 Stockholm time

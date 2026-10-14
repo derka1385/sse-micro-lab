@@ -9,7 +9,7 @@ import { WHY } from '../content/externalities';
 import { WhyChain } from './learning';
 import { Rich } from './text';
 import { Cross } from './icons';
-import { t } from '../i18n';
+import { t, tq } from '../i18n';
 
 export type Sel = { kind: 'curve' | 'area' | 'marker'; id: El } | { kind: 'unit'; q: number } | null;
 
@@ -205,7 +205,7 @@ export function InteractiveEconGraph({ model: m, show, focus, policy: rawPolicy,
         <line x1={ml} x2={ml + pw} y1={y(0)} y2={y(0)} className="g-axis" />
         <line x1={ml} x2={ml} y1={mt} y2={y(0)} className="g-axis" />
         <text x={ml + pw + 8} y={y(0) + 4} className="g-axlabel" aria-label={t('Q, en {u}', { u: m.unit })}>Q</text>
-        <text x={ml - 40} y={mt + 4} className="g-axlabel">{t('€ / unité')}</text>
+        <text x={ml - 40} y={mt + 4} className="g-axlabel">{tq('€ / unité')}</text>
 
         {/* areas */}
         {has('CS') && <path key={k('CS')} d={band((q) => mpb(m, q), () => A.now.pBuyer, 0, qNow)} className={cls('CS', 'area area-cs')} onClick={() => onSelect({ kind: 'area', id: 'CS' })} />}
@@ -322,7 +322,7 @@ export function GraphInspector({ model: m, show, policy: rawPolicy, cursor, sele
     const inside = cursor >= lo && cursor <= hi;
     if (id === 'DWL') {
       const under = A.now.q < A.qStar;
-      title = under ? t('Perte sèche — unités manquantes') : t('Perte sèche — unités en trop');
+      title = under ? tq('Perte sèche — unités manquantes') : tq('Perte sèche — unités en trop');
       literal = under
         ? t('Ces unités ne sont pas produites alors que leur bénéfice social dépasse leur coût social.')
         : t('Ces unités sont produites alors que leur coût social dépasse leur bénéfice social.');
@@ -331,29 +331,29 @@ export function GraphInspector({ model: m, show, policy: rawPolicy, cursor, sele
       else extra = [t('Place le curseur dans la zone pour voir la tranche d’une unité.')];
       whyId = under ? 'a:dwl-under' : 'a:dwl-over';
     } else if (id === 'CS') {
-      title = t('Surplus du consommateur (CS)'); literal = t('Gain net des acheteurs : pour chaque unité achetée, sa valeur pour l’acheteur moins le prix payé.');
+      title = tq('Surplus du consommateur (CS)'); literal = t('Gain net des acheteurs : pour chaque unité achetée, sa valeur pour l’acheteur moins le prix payé.');
       value = t('Aire = {a} €.', { a: fmt(A.now.CS) }); whyId = 'a:cs';
       if (cursor <= A.now.q) extra = [t('Tranche au point {q} : MPB {b} − p_b {p} = {g}.', { q: fmt(cursor, 1), b: fmt(mpb(m, cursor)), p: fmt(A.now.pBuyer), g: fmt(mpb(m, cursor) - A.now.pBuyer) })];
     } else if (id === 'PS') {
-      title = t('Surplus du producteur (PS)'); literal = t('Gain net des vendeurs : pour chaque unité vendue, le prix reçu moins son coût marginal.');
+      title = tq('Surplus du producteur (PS)'); literal = t('Gain net des vendeurs : pour chaque unité vendue, le prix reçu moins son coût marginal.');
       value = t('Aire = {a} €.', { a: fmt(A.now.PS) }); whyId = 'a:ps';
       if (cursor <= A.now.q) extra = [t('Tranche au point {q} : p_s {p} − MPC {c} = {g}.', { q: fmt(cursor, 1), p: fmt(A.now.pSeller), c: fmt(mpc(m, cursor)), g: fmt(A.now.pSeller - mpc(m, cursor)) })];
     } else if (id === 'GOV') {
-      title = pos ? t('Dépense de subvention') : t('Recette fiscale');
+      title = pos ? tq('Dépense de subvention') : tq('Recette fiscale');
       literal = pos ? t('Ce que paient les contribuables : s par unité échangée. Un transfert, pas une destruction.') : t('Ce que reçoit l’État : t par unité échangée. Un transfert, pas une perte sèche.');
       value = `${fmt(policy)} × ${fmt(A.now.q)} = ${fmt(Math.abs(A.now.gov))} €.`; whyId = pos ? 'a:gov+' : 'a:gov-';
     } else if (id === 'EXT') {
-      title = pos ? t('Bénéfice externe total') : t('Dommage externe total');
+      title = pos ? tq('Bénéfice externe total') : tq('Dommage externe total');
       literal = pos ? t('Somme des bénéfices reçus par les tiers pour toutes les unités produites (aire sous MEB).') : t('Somme des dommages subis par les tiers pour toutes les unités produites (aire sous MEC).');
       value = t('Aire = {a} €.', { a: fmt(Math.abs(A.now.ext)) }); whyId = pos ? 'a:ext+' : 'a:ext-';
     }
   } else if (selected.kind === 'marker') {
     if (selected.id === 'QM') { title = `Qm = ${fmt(A.market.q)}`; literal = t('Ici MPB = MPC : le dernier échange vaut autant pour l’acheteur qu’il coûte au producteur. Au-delà, MPB < MPC : plus aucun prix n’arrange les deux.'); whyId = 'f:market'; }
     else if (selected.id === 'QS') { title = `Q* = ${fmt(A.qStar)}`; literal = t('Ici MSB = MSC : la dernière unité vaut pour la société exactement ce qu’elle lui coûte. Avant, ajouter augmente le bien-être ; après, le diminue.'); whyId = 'f:opt'; }
-    else if (selected.id === 'QP') { title = t('Q avec politique = {q}', { q: fmt(A.now.q) }); literal = pos ? t('Ici MPB + s = MPC : la décision privée subventionnée s’arrête.') : t('Ici MPB = MPC + t : la décision privée taxée s’arrête.'); whyId = pos ? 'c:POL+' : 'c:POL-'; }
+    else if (selected.id === 'QP') { title = tq('Q avec politique = {q}', { q: fmt(A.now.q) }); literal = pos ? t('Ici MPB + s = MPC : la décision privée subventionnée s’arrête.') : t('Ici MPB = MPC + t : la décision privée taxée s’arrête.'); whyId = pos ? 'c:POL+' : 'c:POL-'; }
     else if (selected.id === 'PRICES') { title = `p_b = ${fmt(A.now.pBuyer)} · p_s = ${fmt(A.now.pSeller)}`; literal = pos ? t('L’acheteur paie p_b ; le vendeur reçoit p_s = p_b + s ; l’État paie l’écart.') : t('L’acheteur paie p_b ; le vendeur garde p_s = p_b − t ; l’État encaisse l’écart.'); whyId = 'r:gov'; }
   } else if (selected.kind === 'unit') {
-    title = t('Unité au point Q = {q}', { q: fmt(selected.q) });
+    title = tq('Unité au point Q = {q}', { q: fmt(selected.q) });
     literal = '';
     extra = unitStory(m, selected.q, policy, true);
     whyId = A.now.q < A.qStar ? 'a:dwl-under' : 'a:dwl-over';

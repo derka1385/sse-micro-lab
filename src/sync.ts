@@ -3,7 +3,12 @@
 // signed-in user read and write their own document. The config below is public by design (it identifies
 // the project; security comes from Auth + rules), so it is safe in the static site.
 import { useSyncExternalStore } from 'react';
-import { getProgress, mergeProgress, parseProgress, replaceProgress, subscribeProgress, type Progress } from './store';
+import { getProgress, mergeProgress, parseProgress, replaceProgress, resetProgress, subscribeProgress, type Progress } from './store';
+
+// Which account the progress in localStorage belongs to: another account never inherits it.
+const OWNER = 'micro-lab-owner';
+const owner = () => { try { return localStorage.getItem(OWNER); } catch { return null; } };
+const setOwner = (uid: string | null) => { try { if (uid) localStorage.setItem(OWNER, uid); else localStorage.removeItem(OWNER); } catch { /* storage blocked */ } };
 
 const firebaseConfig = {
   apiKey: 'AIzaSyCxsYrPMUepMT5kufDYNdfFP0AnuYNqyaM',
@@ -54,7 +59,7 @@ function serialize(p: Progress) {
   return json;
 }
 
-let stop: (() => void) | null = null;
+let stop: (() => Promise<void> | void) | null = null;
 
 async function startSync(uid: string) {
   const { db, fs } = await firebase();
@@ -63,6 +68,7 @@ async function startSync(uid: string) {
   let applying = false;
   let timer: ReturnType<typeof setTimeout> | undefined;
 
+  const emptyProgress = () => { resetProgress(); return getProgress(); };
   const apply = (p: Progress) => { applying = true; try { replaceProgress(p); } finally { applying = false; } };
   const write = async () => {
     clearTimeout(timer); timer = undefined;
@@ -89,7 +95,10 @@ async function startSync(uid: string) {
   update({ status: 'syncing' });
   try {
     const first = await fs.getDoc(ref);
-    mergeRemote(first.data()?.progress as string | undefined);
+    const json = first.data()?.progress as string | undefined;
+    // Local data from another account (or from before sign-in) is dropped; the account's own data is merged.
+    if (owner() !== uid) { apply((json && parseProgress(json)) || emptyProgress()); if (json) lastRemote = json; setOwner(uid); }
+    else mergeRemote(json);
     await write();
   } catch (e) {
     update({ status: 'error', error: (e as Error).message });
@@ -102,7 +111,7 @@ async function startSync(uid: string) {
   const unsubLocal = subscribeProgress(() => { if (!applying) schedule(); });
   const flush = () => { if (document.visibilityState === 'hidden' && timer) void write(); };
   document.addEventListener('visibilitychange', flush);
-  stop = () => { unsubDoc(); unsubLocal(); document.removeEventListener('visibilitychange', flush); if (timer) void write(); };
+  stop = () => { unsubDoc(); unsubLocal(); document.removeEventListener('visibilitychange', flush); return timer ? write() : undefined; };
 }
 
 /** Restores a previous session on load; Firebase lives in its own lazily loaded chunk. Call again to retry after a failure. */
@@ -134,7 +143,16 @@ export async function signIn() {
   }
 }
 
+/** Firebase ID token of the signed-in student, sent to the public Claude server; null when signed out. */
+export async function idToken() {
+  const { auth } = loaded ?? await firebase();
+  return auth.currentUser ? auth.currentUser.getIdToken() : null;
+}
+
 export async function signOutSync() {
   const { auth, authMod } = await firebase();
+  await stop?.(); stop = null; // flushes pending progress to this account before leaving
   await authMod.signOut(auth);
+  resetProgress();
+  setOwner(null);
 }
