@@ -1,5 +1,5 @@
-import { EXAM_DATE } from '../content/catalog';
-import { LESSONS } from '../content/lessons';
+import { EXAM_DATE, TOPICS } from '../content/catalog';
+import { ALL_LESSONS, LESSONS } from '../content/lessons';
 import { misById } from '../content/training';
 import { DIMS, type Dim } from '../content/types';
 import { MasteryBars } from '../components/learning';
@@ -18,6 +18,12 @@ const DIM_MODE: Record<Dim, { href: string; text: string }> = {
   english: { href: '#/exam', text: t('Mode examen : réponse SSE en anglais.') },
 };
 
+/** Lessons in course order (topic 1, topic 2…), then any lesson not attached to a topic. */
+const COURSE = (() => {
+  const ordered = TOPICS.map((tp) => LESSONS[tp.lesson ?? '']).filter(Boolean);
+  return [...new Set([...ordered, ...ALL_LESSONS])];
+})();
+
 function nextSteps(p: Progress) {
   const steps: { title: string; text: string; href: string; tone?: string }[] = [];
   const active = activeMisconceptions(p);
@@ -27,7 +33,7 @@ function nextSteps(p: Progress) {
     const l = LESSONS[due[0]];
     if (l) steps.push({ title: t('Rappel espacé dû'), text: t('{m} — niveau {n}/5 : reconstruire, pas réciter.', { m: l.mechanism, n: p.reviews[due[0]].level }), href: '#/recall' });
   }
-  for (const l of Object.values(LESSONS)) {
+  for (const l of COURSE) {
     const s = lessonState(p, l.id);
     if (!s.startedAt) steps.push({ title: t('Commencer : {m}', { m: l.mechanism }), text: l.teaser, href: `#/lesson/${l.id}` });
     else if (!s.finishedAt) steps.push({ title: t('Continuer : {m}', { m: l.mechanism }), text: t('Bloc {i} / {n}', { i: s.block + 1, n: l.blocks.length }), href: `#/lesson/${l.id}` });
@@ -45,8 +51,7 @@ export function Home() {
   const p = useProgress();
   const steps = nextSteps(p);
   const days = Math.ceil((EXAM_DATE.getTime() - Date.now()) / 86_400_000);
-  const all = Object.values(LESSONS);
-  const lesson = all.find((l) => lessonState(p, l.id).startedAt && !lessonState(p, l.id).finishedAt) ?? all.find((l) => !lessonState(p, l.id).finishedAt) ?? LESSONS['ext-positive'];
+  const lesson = COURSE.find((l) => lessonState(p, l.id).startedAt && !lessonState(p, l.id).finishedAt) ?? COURSE.find((l) => !lessonState(p, l.id).finishedAt) ?? COURSE[0];
   const started = lessonState(p, lesson.id).startedAt > 0;
   return (
     <div className="page home">
