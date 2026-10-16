@@ -1,3 +1,47 @@
+vzcw0lirw7	Si l’usine de panneaux faisait du bruit la nuit, ses riverains subiraient un coût : ce serait un MEC. Ici, on suppose que non.
+r94tez6k95	Le fabricant paie tout ce que coûte son panneau, et personne d’autre ne paie quoi que ce soit. Donc pour la société, un panneau coûte exactement ce qu’il coûte au fabricant.
+2d518vwlgiu	Pas de nouvelle courbe : MSC se confond avec MPC (orange). Seul le côté « bénéfice » a bougé.
+dg04s4skho	compare MSB et MSC
+2frjbohkrao	Pourquoi n’y a-t-il pas de courbe MSC distincte sur le graphique ?
+16gdknsb5sr	Parce que MEC = 0 : la fabrication n’impose aucun coût aux tiers dans ce modèle
+1zlvjradxe	Exact : MSC = MPC.
+rudjx1t32d	Parce que l’État paie les coûts
+11kq22926ot	Aucune intervention n’est en place, et une dépense publique ne changerait pas le coût réel.
+29povxikgva	Parce qu’avec une externalité positive, MSC = MSB
+29lsd5xffy2	Non : MSB et MSC sont deux courbes différentes qui se croisent en Q*.
+1jofnw4a7r0	pas de MEC dans A6
+166oz7epvp8	Combien de panneaux la société voudrait-elle ?
+1a0ncy3eyio	Q*, optimum social
+5ikd5esa36	Imagine un planificateur bienveillant qui compte tout le monde. Il ajoute des panneaux tant qu’un panneau de plus vaut plus pour la société qu’il ne lui coûte. Il s’arrête quand les deux sont égaux.
+2c9x5l600h6	Optimum social : {{MSB = MSC}} ⇒ 120 − 3Q = 10 + 2Q ⇒ [[Q*]] = 22. La règle universelle est MSB = MSC (§11.1).
+19jifssrykk	Quelle égalité utilise le planificateur ?
+1s8d2y24eeo	Ça, c’est la règle du marché : elle ignore les voisins.
+qmgsezj99i	Oui : valeur sociale du dernier panneau = son coût social.
+yetyvo543e	Ces deux courbes ne se croisent jamais ici : elles sont parallèles, à 20 d’écart.
+25dakudc0pz	Tu oublies la valeur pour l’acheteur.
+1ppxhe4kijl	Avant 22, chaque panneau ajoute plus de valeur sociale qu’il ne coûte → l’ajouter augmente le bien-être. Après 22, c’est l’inverse → l’ajouter le diminue. Le maximum est au croisement.
+r5ksf8bxcv	Le marché ne le fait pas tout seul parce que personne dans la transaction ne reçoit les 20 € des voisins : la décision privée compare MPB à MPC, pas MSB à MSC.
+zhl3vmlymr	C’est la règle universelle : quelle que soit l’externalité (positive, négative, production, consommation), l’optimum social est MSB = MSC. Seul change le côté du graphique qui bouge (§11.1).
+2563zq4pbs2	E2020 Q3 vaccins : 120 − Q = 10 + Q ⇒ Q* = 55, au-dessus du marché (45).
+11xb6nzyc8g	Si tu étais à la fois l’acheteur ET tous tes voisins, tu achèterais 22 panneaux : tu compterais 46 + 20 pour le 18e, et tu continuerais jusqu’à ce que ta valeur + celle des voisins = le coût.
+wm5pbhecn3	Q* = 22 : intersection de MSB (vert) et MPC (orange, = MSC). Qm = 18 reste là où le marché s’arrête.
+1p13apgfdhb	veut Q* = 22
+6nvn750r85	Vérifie le croisement : que vaut MSB(22) ? (Ce doit être égal au coût MPC(22).)
+1407n4xpebl	MSB(22) = 120 − 66 = 54 = MPC(22) = 10 + 44 = 54 ✓ : au point Q*, valeur sociale = coût social.
+1i56bgfsnqk	34 = MPB(22) : la valeur pour l’acheteur seul. Ajoute MEB.
+rjg4lz2w3z	Sans aucune intervention, le marché atteint-il Q* = 22 ?
+19zjcpzdwzq	Oui, un marché concurrentiel trouve toujours l’optimum
+9569a75kf7	Seulement si la demande = MSB et l’offre = MSC (§7.1). Une externalité casse ce résultat.
+xyb6hln7h1	Non : il s’arrête à 18, car les acheteurs ne comptent que MPB
+1onzjyqxpu	Exact : Qm = 18 < Q* = 22.
+1dyu95ef949	Oui, parce que Q* est le point d’équilibre
+2eoxxgxbjax	Q* ici = optimum SOCIAL, pas l’équilibre du marché. L’étoile ne dit pas « équilibre » (§18.3).
+21zi18iun4f	Qeff 22
+1wcoittihpc	optimum MSB = MSC
+13skowmxhhx	Les panneaux qui manquent
+2qr82krenm	Unités manquantes entre Qm et Q*
+xwbdl7ldld	Le marché s’arrête à 18. La société en voudrait 22. Les panneaux entre 18 et 22 vaudraient chacun plus pour la société qu’ils ne coûtent — mais ils ne sont pas produits, parce que l’acheteur seul ne les juge pas rentables.
+hgggek4sfg	Sur ]Qm, Q*] : MPB < MPC (pas d’échange privé) mais MSB > MSC (échange socialement souhaitable).
 7xsyc1uc4h	Ces panneaux « manquent » au sens où ce ne sont pas des panneaux détruits : ce sont des échanges qui auraient créé de la valeur et qui n’ont jamais eu lieu.
 1s1bn7ddyvi	Pour le panneau au point 20, l’acheteur devrait payer au moins 50 (le coût) pour une valeur personnelle de 40. Les 20 € des voisins ne sont pas dans sa poche.
 29xkfw5rieb	L’écart diminue de 18 vers 22 parce que MSB baisse et MPC monte : la perte du panneau au point 19 (63 − 48 = 15) est plus grande que celle du point 22 (0).
@@ -139,79 +183,3 @@ bywrhaytbb	J’achète un panneau pour moi
 ewfjk8eer5	là où MPB = MPC ; au-delà, l’acheteur seul ne trouve plus le panneau rentable
 fn75qd8m0s	La société voudrait Q* = 22
 9e9wug0cw3	elle compte acheteur + voisins : MSB = MPB + MEB = MSC
-77b2cyat63	Les panneaux 18 → 22 manquent : DWL = 40
-1qnu1aismcy	chacun valait plus pour la société (MSB) qu’il ne coûtait (MSC)
-tvt0qpffl1	Subvention s* = MEB(Q*) = 20
-2bpx0tvuvdt	elle ajoute à l’incitation privée exactement le bénéfice externe de la dernière unité souhaitable
-1t91h4wu7xb	L’acheteur regarde sa valeur privée
-6x7y7sg338	Point de départ : l’acheteur compare ce que vaut le panneau POUR LUI (MPB) à son prix.
-17rejg4z3d	En économiste : MPB (Marginal Private Benefit) = la valeur d’un panneau de plus pour l’acheteur.
-1qw5umhlt7j	Les tiers en profitent aussi
-28o2oc4vjwn	Chaque panneau procure un bénéfice à des gens hors de la transaction (moins de pollution) : MEB.
-137b3k1j7f6	En économiste : externalité positive ; MEB (Marginal External Benefit) = bénéfice pour les autres d’un panneau de plus.
-153ni7s4wkt	Le marché ignore ce bénéfice
-3bqxqts5z6	Le maillon central : personne dans la transaction ne reçoit le bénéfice des tiers, donc personne ne le compte. C’est POURQUOI le marché s’arrête trop tôt.
-s7p0jlytq4	En économiste : les acheteurs n’« internalisent » pas le bénéfice externe.
-2chdf2ck8j2	Le marché produit trop peu
-e32iah16vf	Conséquence : la quantité de marché (18) est inférieure à l’optimum social (22).
-f3b5oh1oao	En économiste : Qm (équilibre de marché, MPB = MPC) < Q* (optimum social).
-1rj5rcaqazh	L’optimum social est plus élevé
-1nf9cm3d3ey	La société, qui compte acheteur + tiers, voudrait plus de panneaux : Q* où MSB = MSC.
-9qzcyfj5l	En économiste : Q* où MSB = MSC, avec MSB = MPB + MEB.
-1cxdo7cwvh2	Une subvention peut internaliser le bénéfice
-kfay7mgmrf	Remède : une subvention par unité égale à MEB(Q*) aligne l’incitation privée sur la valeur sociale.
-ezq4bne9rr	En économiste : subvention pigouvienne s* = MEB(Q*) = 20.
-20j9kkjbxx5	MSB n’est pas de l’argent versé : c’est la VALEUR d’un panneau de plus pour toute la société (MPB + MEB). La subvention, elle, est de l’argent.
-ycpjdzuqrh	Avec une externalité POSITIVE, le marché produit TROP PEU (18 < 22). C’est l’externalité négative qui mène à la surproduction.
-muoqq1u5m8	La dépense de subvention est un transfert (contribuables → acheteurs/vendeurs). La DWL, ce sont les panneaux utiles jamais produits.
-27uvqg5y5o8	Sans intervention, le marché s’arrête à Qm = 18. Q* = 22 n’est atteint qu’avec la subvention.
-w6z305cxkv	Quand j’achète un panneau, je compare ce qu’il vaut POUR MOI (MPB) à son prix. Mais chaque panneau réduit aussi la pollution pour mes voisins : un bénéfice externe (MEB = 20) que personne dans la transaction ne reçoit, donc que personne ne compte. Le marché s’arrête là où MPB = MPC (18 panneaux), alors que la société, qui compte aussi les voisins (MSB = MPB + MEB), voudrait aller jusqu’à MSB = MSC (22). Les panneaux 18 → 22 valaient plus pour la société qu’ils ne coûtaient : c’est la perte sèche (40). Une subvention par panneau égale à MEB(Q*) = 20 rend ces panneaux rentables pour l’acheteur et amène le marché à 22.
-a8umzo4ln7	Que signifie [[MEB]], littéralement ?
-rk4goy9wo9	Marginal External Benefit : le bénéfice pour les AUTRES d’une unité de plus
-4j31ysk60p	Marginal Economic Benefit : le profit du producteur
-1mlaaa85jnh	E = External : il s’agit des tiers.
-1xnkvv4sozv	Le bénéfice externe total de toutes les unités
-1i3phwyi5k	Marginal = UNE unité de plus. Le total est l’aire sous MEB.
-18z5rag4ux9	Que signifie [[MSB]] ?
-219es21sac1	La valeur d’une unité de plus pour toute la société : acheteur + tiers
-1dir0ou7e33	Exact : MSB = MPB + MEB.
-6e43uqngbz	Le budget que l’État consacre à chaque unité
-2b73hdpbei7	MSB est une valeur, pas une dépense publique.
-14cv5orxopa	Le bénéfice marginal du vendeur
-mj4txxqyao	Le vendeur n’a pas de « bénéfice marginal » ici : il a un coût (MPC) et un surplus (PS).
-kj0wgjdn9i	Qui reçoit le bénéfice mesuré par [[MPB]] ?
-157aavfmy6d	L’acheteur, et lui seul
-y77ub4621c	Exact : P = Private.
-1hzroufqx51	Ça, c’est MEB.
-22n9ecspyux	La société entière
-20wgs69wzlf	Ça, c’est MSB.
-g2xiaf33tp	Pourquoi MSB est-elle au-dessus de MPB ?
-y7z22c2bx0	Parce que chaque unité procure aussi un bénéfice aux tiers (MEB > 0)
-2cdrdgjnnkx	Exact : l’écart vertical = MEB.
-1ohjqc5n7qt	Parce que l’État ajoute de l’argent
-zcukmjz625	Aucune intervention n’est nécessaire pour que MSB existe.
-1fehcgk8cvx	Parce que le coût social est plus élevé
-n3in0jmk7k	Ça concernerait MSC et MEC (externalité négative).
-ovf8euutya	Pourquoi le marché s’arrête-t-il à Qm et pas à Q* ?
-dxpklaor46	Au-delà de Qm, l’acheteur ne valorise pas assez le panneau suivant (MPB < MPC) car il ne compte pas le bénéfice des voisins
-1i67mmq3r8c	Parce que Qm est l’optimum social
-28gt7wnjggl	Qm est l’équilibre privé ; l’optimum social est Q*.
-1vmakr0miof	Parce que les producteurs n’arrivent pas à produire plus
-2bmj3zjao0y	Ils le pourraient, mais aucun acheteur ne paierait le coût.
-2ff4sai0hgo	Qu’est-ce qui est perdu dans le triangle de DWL ?
-2wbga4fpxt	La valeur nette des unités jamais produites alors que leur bénéfice social dépassait leur coût social
-1vztj90ikzr	L’argent dépensé par l’État
-zzent3w3fq	Une dépense publique est un transfert.
-pwi2kvy03g	Le bénéfice total des voisins
-21u1fdde12j	Le bénéfice externe des unités produites est bien reçu ; la DWL concerne les unités manquantes.
-23pexo7h5h7	Reconstruis MSB à partir des acteurs.
-27i6w0mwiam	Le bénéfice des tiers s’ajoute, il ne se soustrait pas.
-qm2kq75m42	MEC est un coût externe : il va dans MSC, pas dans MSB.
-2fkwd71cpwf	Valeur pour la société = valeur pour l’acheteur (MPB) + valeur pour les tiers (MEB).
-1xylqcx1160	Reconstruis la condition de l’optimum social.
-14xpp3qe3du	C’est l’équilibre du MARCHÉ, pas l’optimum social.
-2dkddaojxk2	La société ajoute des unités tant que leur valeur sociale dépasse leur coût social : MSB = MSC.
-2c95bio5aut	Reconstruis la subvention optimale.
-1kpzyuykw5c	L’intercept est le bénéfice externe de la PREMIÈRE unité, pas de la dernière souhaitable.
-d2i0ox2brk	Une fois subventionné, le marché ne reste pas à Qm : évalue à Q*.
-15v3ebw8yy0	Au point Q*, il faut MPB + s = MPC = MSB, donc s = MSB − MPB = MEB(Q*).

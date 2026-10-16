@@ -1,401 +1,113 @@
-1w0dy7dfn1a	Analyser mes liens de cause
-162wo0w5vxw	Écris au moins quelques phrases.
-1lm94wqze1r	Le repérage automatique est approximatif : vérifie les liens proposés et signale ceux que tu as exprimés autrement.
-144ek6k0gpq	maillon non détecté
-1yinlvcipz0	maillon présent
-1k2mut90p1y	tu l’as exprimé autrement
-mob8gfoo2b	Vocabulaire à affiner :
-29e56v90j9h	Je l’ai dit autrement
-20fbpc7abb0	Montre-moi ce maillon
-jedf4wa65s	Erreur de concept possible
-calguv5a8z	Ce n’est pas ce que je voulais dire
-4wt353yvos	{a}/{b} maillons de cause
-gg677qjnyz	{n} erreur(s) à corriger
-okaj0ybmxc	Valider mon explication
-fl3ifyqdmi	Chaîne causale solide. Ce qui compte, c’est que chaque maillon cause le suivant — ton vocabulaire peut encore s’affiner.
-22vtd8splja	Il manque des maillons : complète ton explication, puis relance l’analyse.
-1m178ow0ggz	Masquer l’explication modèle
-1orpnfdjrn2	Voir une explication modèle
-1vmji71q5bg	Ta réponse…
-1a97w109j9a	Ta réponse écrite
-h1kv2tvojc	Comparer à la réponse modèle
-24pinnd05du	Coche ce que ta réponse contient vraiment (pré-coché quand on l’a détecté) :
-24ibfi3z0wm	Langue : ta réponse semble en français. À l’examen, réponds en anglais.
-1hkaaufi8au	Valider
-1go3e5t4hwv	(subvention comprise)
-th8g9g4lxu	(taxe comprise)
-1r25w8mxaub	Échangée : elle vaut {b} pour l’acheteur{sub} et coûte {c}{tax} au vendeur.
-27snqtpzrqn	Pas échangée : l’acheteur ne paierait que {b}{sub} pour un coût de {c}{tax}.
-1dxsc91md0d	Pour la société : valeur {v} − coût {c} = {g}.
-2cerrvquumg	⇒ Unité manquante : la société perd {g} € parce qu’elle n’est pas produite.
-5vzaj367vv	⇒ Unité en trop : elle détruit {g} € de bien-être.
-6zguls8rqm	Q, en {u}
-rzvcebd0a3	Unité au point {q}
-1eakarhh4np	Déplace le curseur · clique une courbe, une zone ou une barre
-wcpc7iawiu	Ce que vaut une unité de plus pour le portefeuille de l’acheteur une fois la subvention versée : MPB + s.
-1ysgmvajwjs	Ce que coûte une unité de plus au producteur une fois la taxe payée : MPC + t.
-mtsy9zbnhs	Au point Q = {q} : {v} € par unité.
-1lu86pozeqr	Perte sèche — unités manquantes
-1ghcoy82ygm	Perte sèche — unités en trop
-1sprgoohm19	Ces unités ne sont pas produites alors que leur bénéfice social dépasse leur coût social.
-213y6hh2bxw	Ces unités sont produites alors que leur coût social dépasse leur bénéfice social.
-1z2yk0izw7w	Aire = {a} € (entre Q = {lo} et Q* = {q}).
-1mzjuoraerf	Tranche au point Q = {q} : |MSB − MSC| = |{b} − {c}| = {g} € perdus sur cette unité.
-vi1weanoi1	Place le curseur dans la zone pour voir la tranche d’une unité.
-28wsypdqvq8	Gain net des acheteurs : pour chaque unité achetée, sa valeur pour l’acheteur moins le prix payé.
-23lmji4sqco	Aire = {a} €.
-uqv2grq0v9	Tranche au point {q} : MPB {b} − p_b {p} = {g}.
-1w50ru30hfl	Gain net des vendeurs : pour chaque unité vendue, le prix reçu moins son coût marginal.
-qdspfnpbts	Tranche au point {q} : p_s {p} − MPC {c} = {g}.
-1vc7xr4gnjz	Ce que paient les contribuables : s par unité échangée. Un transfert, pas une destruction.
-fd2pz6j4ec	Ce que reçoit l’État : t par unité échangée. Un transfert, pas une perte sèche.
-16vc5gb6qkh	Somme des bénéfices reçus par les tiers pour toutes les unités produites (aire sous MEB).
-3ihwxnjtp5	Somme des dommages subis par les tiers pour toutes les unités produites (aire sous MEC).
-23zi22dezjq	Ici MPB = MPC : le dernier échange vaut autant pour l’acheteur qu’il coûte au producteur. Au-delà, MPB < MPC : plus aucun prix n’arrange les deux.
-3hfvs3tqwp	Ici MSB = MSC : la dernière unité vaut pour la société exactement ce qu’elle lui coûte. Avant, ajouter augmente le bien-être ; après, le diminue.
-1a8fa5gcmvb	Q avec politique = {q}
-1o4hvb6j6pb	Ici MPB + s = MPC : la décision privée subventionnée s’arrête.
-e1vhlhpsaq	Ici MPB = MPC + t : la décision privée taxée s’arrête.
-2e4io5celml	L’acheteur paie p_b ; le vendeur reçoit p_s = p_b + s ; l’État paie l’écart.
-k72yc3991g	L’acheteur paie p_b ; le vendeur garde p_s = p_b − t ; l’État encaisse l’écart.
-1krf0v2fcof	Unité au point Q = {q}
-ac3gc4wh9p	Fermer l’inspecteur
-1h4l0usl1oz	Graisse = incitation privée
-ucea0t4xma	une unité sur {n}
-t8c36ven8k	Souligné : manquante · barré : en trop
-uk448eqcwm	Les unités une par une
-qw3ejpurkx	Unité {q} :
-1p59rx233dp	échangée
-2glh5cu7zub	pas échangée
-245ecwya078	manquante pour la société
-206wgklddb2	en trop pour la société
-glii9grfhi	Subvention par unité
-21yr6g9ohbv	Taxe par unité
-65esbam7w2	Animer jusqu’à
-1s8s1kun54n	Retirer la politique
-26ayrisf3hd	Sans intervention
-12nyvf3o7p8	Optimum
-pkkdzpeo0y	quantité échangée
-143fklon0lt	acheteurs
-1400m5xf47z	vendeurs
-1te2sjoc4up	État (− subvention)
-25xxpyq8pkx	État (+ recette)
-1bv2vk4dsis	transfert
-21gomb5jh34	+ bénéfice externe
-r08mavd1i4	− dommage externe
-1zl0toxqoxq	tiers
-150xp4u1ch1	bien-être total
-1cmm2mmfdnd	vs optimum
-202av860ibt	Pourquoi ? Un niveau plus profond
-29rzzq9m3bn	Fond atteint : en dessous, ce sont les hypothèses du modèle.
-n62rksngja	Replier
-tmpjvt68if	parce que
-4ctug8ufjd	Déjà réussi.
-yrlflvkby3	Entre un nombre.
-32expacln	Pas encore. Indice : {h}
-1bap79dmdo9	Pas encore — refais le raisonnement.
-me9uxwfusa	Ta réponse
-rjjv0hjhfe	ta réponse
-1myvxolc3n7	Vérifier
-2dfvciemw65	Réponse :
-2167viw13xk	Curseur :
-lgpmvplgvt	Pas là : cherche l’intersection des courbes concernées.
-1442ass3zou	Valider la position
-151bjtaej3u	Chaîne correcte : chaque maillon cause le suivant.
-1iynt8jpfrf	Le maillon n°{n} n’est pas à sa place : demande-toi ce qui doit être vrai AVANT lui.
-207p2tscol	Valider l’ordre
-ctp87u0wkj	Effacer le dernier élément
-1u9oix6w7l1	Reconstruit.
-8w7d945c4x	Pas encore : quels acteurs sont concernés ?
-bfv12bjoh9	Les éléments clés sont là.
-13b23ooqnmf	Compare avec la réponse modèle et retiens ce qui manquait.
-f2zpe0si1h	Micro-leçon · confusion repérée deux fois
-23ztvhi1tu0	Fermer
-1jhw41yi8sx	Référence introuvable dans le dossier :
-1jfep1u49at	Humain
-1ubf52o05qp	Économiste
-1dpe1v831zn	Examen (EN)
-v5qffwt9i3	Sigle inconnu du dossier.
-2eperbkalil	Dans le répertoire du dossier :
-2eut6ctvcw6	[O] observé dans les PDF · [A] alias standard · [C] complément ajouté (§18)
-9ns7ja6pof	Fiche complète du concept
-11tzuwzd7t5	Littéralement :
-1y0znx9ljug	Trois niveaux
-1z2yb48sjt0	Chaîne causale
-1ll2sxx5dal	Formule
-1wygkx1xyt5	Unités :
-1vtie3gma0w	Sur le graphique :
-ge74l85cm4	Hypothèses
-1nq4pl3lris	Quand l’utiliser
-23crdbf00ax	Quand NE PAS l’utiliser
-dqcw7i3wf2	Confusions fréquentes
-w5zp36k6es	Exemples
-o50h29xgsi	Mots déclencheurs à l’examen
-agp8kw2edx	Réponse type (EN)
-14ihli93mkb	Sources :
-12eq63n4ctm	D’où vient-elle ?
-4m3evynqcn	Chaque terme
-sokbdis0e6	Confusion fréquente
-1mafbxsej1l	Mots déclencheurs
-kjeb22a4y7	Extrait exact du dossier (fichier source).
-17nl9we27jw	Ouvrir dans Sources
-1qh9dk4vkfu	Ouvrir la fiche
-1bf3gfno7wj	Littéralement
-phrl81fjv5	Qui ?
-fykkvlwjw7	« Marginal » ici
-1uj8f701gib	Unités
-1yzab13vk8i	Sur le graphique
-22b45bbibn3	Pourquoi cette formule ?
-11gj7wbvya8	référence du dossier
-2b5db4uq0wd	Documenté
-1ydd8gnsws5	Recalculé (dossier)
-16gsa1u86qa	Complément pédagogique
-1ryts69kosf	Exercice généré
-2cm8rt3vuhl	Externalité positive — exercice généré
-14vov2fqfkg	Qm ?
-jjeo0le91d	C’est Q* : le marché utilise MPB.
-1zwocwbvosr	Q* ?
-6b74ahesh5	C’est Qm.
-fc5bfjnxnn	DWL ?
-1nvrwfflxim	Subvention optimale ?
-1vkqbzr2vgd	Prix payé par l’acheteur avec s* ?
-105vrib32x1	Externalité négative — exercice généré
-1l6v4vwb9q7	Taxe optimale ?
-41tdnf59tw	Recette fiscale avec t* ?
-27b5mexmuc3	un transfert, pas une perte.
-1rrvfevnbr3	C’est la DWL initiale, pas la recette.
-14tik6vnx0s	Deux notions proches : explique la différence
-uhhrtglpe9	Écris d’abord ta propre distinction (français ou anglais). Ensuite seulement, compare avec le contraste du dossier.
-d918qdgrls	réussi
-duk1m6l30q	à retravailler
-311dqslyi2	Explique la différence avec tes mots. Qui est concerné, qu’est-ce qui change, où cela se voit sur un graphique ?
-45i4cg9o4e	Ta distinction…
-iegsxp5pfu	Comparer
-1kiv1puf9pk	Coche les points que ta distinction contient vraiment (pré-cochés quand on les a détectés) :
-1tppedw7n1f	Enregistré.
-2cxhke9azaa	Si cette confusion revient deux fois, une micro-leçon ciblée apparaîtra.
-vu05mr60dl	Mode examen · en anglais · sans indice
-13m5zkuca7	{n} copie(s) · meilleure {p} %
-jucaxl3no3	pas encore tenté
-1944cj8zvgz	Mode examen : en anglais, corrigé après
-1rk3wgdlz4d	Rédige comme à SSE : modèle, calcul, mécanisme, en anglais. Le corrigé commence par la logique économique, puis le calcul, le graphique et une réponse modèle ; il sépare tes erreurs de **modèle**, de **logique**, de **calcul** et de **langue**.
-200vidgirkz	Les vrais sujets, année par année
-1tvnkgavqyn	Toutes les questions des finals 2020–2025. Les données et les consignes sont celles des sujets (dossier « past exams »), reformulées ; les corrigés sont les recalculs du dossier §16, pas un barème officiel. La Q5 ne compte que si tu remplaces ton midterm.
-2gjbrmeohw	Final {y}
-1mfjf1z19pg	Devoirs et entraînements des leçons
-2doptbi0pxo	Un devoir reconstruit et les épreuves de fin de leçon : des exercices construits pour s’entraîner, jamais présentés comme des sujets officiels.
-21xj2z1xnkp	Priorité combinée
-ehoxym00ut	Ordre des prérequis
-1qdvig7hf9c	Récurrence observée
-10m03kgesvy	Ta faiblesse
-i57p05k11m	Importance conceptuelle
-1xzkxeb0sgr	{n} jours avant le final
-vipkhcb1v4	Jour du final
-1c02fle9ale	Préparation finale · 23 octobre 2026, date du support L1
-gipxx8gj6f	Classe les thèmes selon ce qui compte pour toi. La récurrence est un **historique observé** sur six finals (2020–2025) : elle décrit l’échantillon, elle ne prédit pas le prochain sujet (§1).
-zfoebb79ew	Trier par
-2fhbx1duzuf	Thème
-1s22ryv5ucm	Prérequis prêts
-12grnqoufsz	Faiblesse
-1bzg6p06pv7	Importance
-12v6uhsg4hh	Confiance / mesuré
-tzfkxxdg1h	Priorité
-mjdt9xmkf3	leçon guidée
-72wy7shi29	Comment c’est calculé
-18bdvz24shm	**Prérequis prêts** : maîtrise moyenne des nœuds dont ce thème dépend sur la carte.
-1ydo8lg9lfm	**Récurrence observée** : années où le thème apparaît, d’après les comptages du dossier (§1) ou recomptées depuis sa carte des examens (§16) — survole la cellule pour le détail.
-rb21azouzt	**Faiblesse** : 1 − ta maîtrise mesurée (7 dimensions, rappels sur plusieurs jours).
-8s409yehg	**Importance** : nombre de notions qui en dépendent sur la carte (calculé, pas décrété).
-2as4q1xscia	**Priorité combinée** = 35 % faiblesse + 25 % récurrence + 25 % importance + 15 % prérequis prêts.
-1oemcipxa9e	Parcours suggéré par le dossier (§20.6) : fondations → welfare → pouvoir de marché → défaillances → compléments → sujets chronométrés.
-ufkjj4g8s3	MPB (demande)
-137q6unyp4k	MPC (offre)
-s38dqgicap	Politique
-uc0mzo4qyp	Q avec politique
-6bf1pbjoij	État
-6p6mc81vm0	Effet externe total
-29vyshjla8h	Unités manquantes / en trop
-3vbkqbuvgx	Trouve la subvention qui fait disparaître la DWL. Pourquoi exactement cette valeur ?
-1ek5youcs2s	Mets s = 35 : d’où vient la nouvelle DWL, et de quel côté de Q* est-elle ?
-24bfueey7as	Active CS, PS, État et effet externe : vérifie que W = CS + PS − dépense + bénéfice externe.
-13ec1jrw7p7	Essaie s = 30, puis s = 12, puis s = 10. Laquelle tombe pile sur Q* ? Pourquoi ?
-kb8xux2vwg	Où se lit MEB(Q*) sur le graphique ?
-10i0bfabqgz	Mets s = 30 (E2020 Q3c) : clique la DWL. Quelles doses sont « en trop » ?
-s466rmqj6z	Pourquoi la DWL de la subvention 30 se mesure-t-elle à partir de 55 et pas de 45 ?
-1so9wp421f8	Mets t = 20 (E2023 Q4d) : la DWL baisse mais ne disparaît pas. Pourquoi ?
-1pe8tiqkt0e	Pourquoi t* = 30 et pas MEC(45) = 45 ?
-2drje19basw	Clique une unité en trop : que coûte-t-elle à la société, que lui rapporte-t-elle ?
-20mnmodbm1f	Sans taxe, clique la DWL : quelles unités sont en trop ?
-1prhfi2kf1s	Quelle taxe implémente Q* = 40 ?
-1ek4swtbatf	Externalités : manipule, clique, demande pourquoi
-i07uc33gh2	Chaque courbe, point et zone est cliquable. Déplace le curseur : le panneau dit, pour l’unité visée, si elle est échangée et ce qu’elle vaut pour la société.
-vk3ud4iq53	Exemple
-22oxbp6w2mr	variante construite
-wk8f3dcabu	Curseur
-vpz52oyln	Afficher
-27nd4end2ju	Défis
-27a3gvzasb1	Comptes du bien-être
-10ejfjbuok5	La politique (subvention ou taxe) est un transfert : elle apparaît dans la ligne « État » et réapparaît dans CS et PS. Seuls les effets réels changent W.
-25c1b231385	Refais le teach-back : explique la chaîne sans regarder.
-1udg7li7pw9	Rappel rapide : décode les sigles sans aide.
-1r8539vb9sq	Révision espacée : reconstruis la relation économique à partir du mécanisme.
-159619vpdro	Graph Lab : clique les zones et explique chaque tranche.
-20a0x9g777e	Pratique : un exercice généré, chiffres nouveaux.
-mj8cu7xbiv	Reconnaître le modèle dans des énoncés variés.
-jhm1kwscvv	Mode examen : réponse SSE en anglais.
-gsp4723vo3	Micro-leçon : {x}
-26i841iceit	Même confusion deux fois : deux minutes pour la défaire.
-2aq8971hzcr	Rappel espacé dû
-apgrtkyqlh	{m} — niveau {n}/5 : reconstruire, pas réciter.
-ysmdg8gq7h	Commencer : {m}
-3kzt18880h	Continuer : {m}
-x3qneszjup	Bloc {i} / {n}
-1ofjnw0bt16	Point faible : {x}
-2fcbsr4jf9t	22 contextes tirés des finals 2020–2025 : qui décide, quoi, avec quelle information ?
-xvdrx6rqm8	La microéconomie, un mécanisme à la fois.
-y7auwdlo7s	J−{n} avant le final du 23 octobre
-g25wuyu9r8	Date du support L1, à vérifier sur ta convocation
-1omrebka6kq	Continuer la leçon
-1mtg48z8kty	Commencer la leçon
-2b97ok9svzy	Voir les 13 thèmes et leurs leçons guidées
-o4hlmhimqa	Ensuite
-11eqv8afu8y	{m} — où tu en es
-2ba7d344bsr	Une réussite compte au plus une fois par jour et par dimension : la maîtrise exige des rappels sur plusieurs jours.
-kyfaalzxft	Comment ce labo fonctionne
-fgmkaofos3	**Situation → acteurs → incitations → conséquence → nom → sigle → formule → graphique → examen.** Toujours dans cet ordre.
-tmnv5k8ep2	Chaque sigle est cliquable : nom anglais, traduction, sens littéral, qui est concerné, unités.
-kqqhdbb4un	Les formules apparaissent après que tu as trouvé leur logique — comme une récompense, pas comme un point de départ.
-2a717elgxzq	Tout chiffre renvoie au dossier : Documenté, Recalculé (dossier) ou Complément pédagogique.
-1b35wt3i07n	Leçons guidées
-19bfemy4b6g	Une leçon = un mécanisme, découpé en blocs d’une seule idée. On part d’une situation et de ses acteurs ; le nom, le sigle et la formule viennent après.
-jrbw69knp0	Commencer
-lv7gndenja	Revoir
-209234x7rdl	Continuer · bloc {i}/{n}
-2v6q5up1ta	{n} blocs
-18bttjm2ri3	{n} blocs · validation progressive · explication avec tes mots · examen en anglais · rappels espacés
-10orxpbhli1	Leçon guidée pas encore construite.
-lgbxu3uw5	Leçon introuvable.
-16k7mvbaobc	Retour
-29ak358d8zf	Leçons
-17e9i2lhbv7	Mécanisme du jour : {m}
-p8f8dhg1qt	Blocs de la leçon
-2cijb8yeqrc	[[MPB]] = la valeur, pour l’acheteur, d’une unité de plus.
-1b6a3hfovv9	[[MPC]] = le coût privé de production d’une unité de plus.
-xb5u71qibs	[[Qm]] est là où les incitations privées s’équilibrent : MPB = MPC.
-27ilrhk5qzw	[[MEB]] = la valeur, pour les tiers, de l’effet positif d’une unité de plus.
-20j6o3omt3w	{{MSB = MPB + MEB}}
-qrmvwjl9fc	[[MSB]] n’est PAS l’argent du gouvernement.
-25jdamie7s0	[[Q*]] est la quantité efficace : MSB = MSC.
-1iud4d8qnt3	Avec une externalité positive, Qm < Q*.
-1ds3fjm3gzj	Les unités manquantes créent une [[DWL]] : leur bénéfice social dépasse leur coût social.
-591r7pwhh4	Une subvention pigouvienne aligne l’incitation privée sur l’optimum social.
-3n4baokrup	MEB constant = 20 ⇒ subvention optimale = 20.
-2giv3cufonz	Si MEB dépend de Q, on l’évalue à Q*, pas à l’intercept.
-j1uezw84uw	Ce que tu dois pouvoir expliquer — et pourquoi
-1d1wtlpkah4	Les vrais sujets qui utilisent ce mécanisme
-21clblujycj	Maîtrise mesurée aujourd’hui
-1ps20h6hark	Ta confiance sur ce mécanisme :
-1m4twwykvwe	Confiance {n} sur 5
-otuayr7c04	Premier rappel espacé
-1ed8xdoe8px	Choisir la prochaine leçon
-26twlmahxjn	Refaire l’épreuve de la leçon
-1efg9iwuapg	Niveau d’explication
-qphdhz456x	Sigle déjà maîtrisé :
-1emdjigdkei	(clique pour revoir la fiche).
-ohtyifdv33	Approfondir
-46repaxz5d	Exemple concret
-9y9491q9i2	Si c’était moi ?
-1uye2xmtviw	Montre-le sur le schéma
-aajsui3v2k	Montre-le sur le graphe
-trlbqqn75h	Pourquoi
-1fm8buki6n8	Si c’était toi
-kmckrnsk7l	J’ai compris, vérifier
-dus8puw0zh	Résultat à gagner en répondant
-1a9l2i8vg2h	À gagner : réponds aux questions
-12usq4dez6p	Précédent
-6wqhzhvryj	Bloc suivant
-1ysybag4x6w	Valide ton explication pour continuer
-29yrgys49m8	Rends et enregistre ta copie pour continuer
-1j5cemx60a5	Réponds pour continuer
-203tccmklpm	Carte des prérequis
-1e1oj8zc4lv	maîtrise {p} %
-xn25mi7874	maîtrisé
-rsp21i9xh2	Ce qui cause quoi, dans le cours
-whwb84pd44	Les flèches vont d’un prérequis vers ce qu’il permet de comprendre. La teinte d’un nœud = ta maîtrise mesurée (7 dimensions, rappels sur plusieurs jours). Bordure pleine = leçon guidée disponible.
-lr8ect4cyg	Pour comprendre ceci, il te faut :
-s80m5oo39x	Aucun prérequis : c’est un point de départ.
-f30dbiccfi	Ceci ouvre :
-1eka50cdbu0	Importance conceptuelle :
-18c92dzizfh	nœud(s) en dépendent.
-26u6vuolza4	Maîtrise
-uy4oj151km	Historique observé aux finals (2020–2025)
-1ejocf9n07z	Une fréquence sur six sujets décrit l’échantillon ; ce n’est pas une probabilité pour le prochain examen (§1).
-2fkqbdhzvy7	Leçon guidée
-2fgqzt35p3w	Reconnaître
-4lg3puzupv	Mes confusions, suivies à part de la maîtrise
-y1qc2xi8wx	Une même confusion deux fois ⇒ une micro-leçon qui oppose les deux notions. Elle disparaît quand tu réponds juste à la question de contraste.
-28t4dl5n38m	Aucune confusion active. Elles apparaissent ici après la deuxième occurrence.
-9zcvk35bf0	Historique
-18oapt2jotl	Confusion
-sr06ialltd	Depuis la dernière correction
-11yth1nia6j	Dernière fois
-3vi5gjeyv6	corrigée le {d}
-iqsp8yvizj	Rien pour l’instant.
-j7fdo7k033	Toutes les confusions suivies ({n})
-1jcoamy7fu8	Pièges listés par le dossier (§20.2) — {n}
-162fswsnjkc	Corrections et ambiguïtés à ne pas reproduire (§20.1) — {n}
-1ru8qk584md	Petits problèmes, un concept à la fois
-d89p8e0fi0	Chaque étape débloque un élément du graphique. Les erreurs typiques (oublier le ½, évaluer la taxe au mauvais point…) sont reconnues et expliquées.
-ptchqp0y39	{n} étapes
-1y5776b99kh	résolu
-ede8e8cjav	Nouveaux chiffres, même mécanisme
-bmsuph4adr	Générateur
-258tgotg663	Exercices construits (non tirés du cours), réponses entières.
-bqohhfoi82	Problème terminé. Refais-le demain sans regarder : c’est la deuxième réussite qui compte.
-p73hkjp7fv	Un autre (nouveaux chiffres)
-kiuoj35263	Version examen
-2arqaja1p6f	Retrouver l’intuition et les sigles
-1c8a2b6srly	Expliquer pourquoi
-o9l2a6pdbi	Reconstruire la formule à partir des acteurs
-l5qacqgh85	Transférer à un nouveau contexte
-kcnor6nfap	Écrire la réponse SSE en anglais
-1pi5iar927f	Que signifie {x} ?
-226r749yw66	Reconstruire plutôt que réciter
-on76yakyiq	Les révisions espacées montent en difficulté : décoder → expliquer → reconstruire → transférer → rédiger en anglais. Le rappel rapide entraîne le vocabulaire de tout le cours.
-k13w6sucog	Révisions espacées
-20s51wqp23y	Rappel rapide
-1b35w100rur	Aucune révision programmée pour l’instant : termine une leçon guidée et le premier rappel apparaîtra ici.
-17k1ha4z7w7	Voir les leçons
-2fsj45kuqoh	niveau {n}/5
-1e4sopq8mql	Prochain rappel dans {d}.
-222lavbpnl	moins d’une heure
-1bgwg695c3j	{n} jour(s)
-oe3txmpaor	Réviser en avance (sans compter pour l’agenda)
-fu42wmlaki	Réussi du premier coup : niveau suivant programmé.
-f68sf5zp0r	Réussi (révision en avance, l’agenda ne bouge pas).
-vyo4f7hg2e	Raté du premier coup : on y revient dans 10 minutes.
-3hpkud0gyc	À retravailler.
-1plcqmwuubc	Continuer
-229cm0e8n0t	Thème :
-1ragftajdg6	Tous
-1pd1h5ts8h5	{n} cartes
-1p3rpgn3yzp	Réponds de tête, puis montre la réponse
-1wj7ayqi99q	À revoir
-7f28etyf9v	Hésitant
-2b1dvodniqb	Je savais
-6vepw7tid3	Boîte {n}/5 · les cartes ratées reviennent en premier.
-62kixcyp2v	Plus de carte dans ce thème pour l’instant.
-1lkmyumussr	Recommencer
-4mlvyut69t	reconnu
-1snislk10em	à revoir
-1b1lsawruii	D’abord le modèle, ensuite le calcul
-quyf5vjd5x	Contextes tirés de la carte des finals 2020–2025 (paraphrasés, en anglais). Avant de nommer le modèle : qui décide, que choisit-il, avec quelle information, y a-t-il un effet sur des tiers, un rival stratégique, un prix ou une quantité ?
-tjcxrrkgho	Scénario au hasard
-29b6vn2n4b1	Alors, quel modèle ?
-27m1nwngnxx	Question {i} / {n}
-1j0mrasyu81	Suivant
-hij4gvk28m	(surlignés) :
-5u9fje5ell	Passer au calcul
-1q1zijbrilb	Scénario suivant
-2cxdx6xt9wm	Le dossier, source de vérité
-1luf5s5p3r8	Tout ce que l’app affiche renvoie ici. Les références « §11.3 », « §15 A6 » ou « §16 E2020 » ouvrent l’extrait exact.
+12ugdivud7	Sujet 2021, Q5 — données et consignes du PDF « past exams/2021.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+gyal09qklb	Définitions : décris ce que vit le consommateur ou l’entreprise (« si tu doubles tout, la production fait plus que doubler »).
+oyztnk9xgv	II. Situation : produire 1 000 harnais au moindre coût. L’isoquante dit ce qui est possible, l’isocoût ce que ça coûte ; on cherche l’isocoût le plus bas qui touche l’isoquante. Le salaire monte ⇒ le travail devient relativement cher ⇒ on substitue des machines, et le coût minimal monte quand même.
+1vugcyyogff	Condition de coût minimal : MRTS = MP_L/MP_K = w/r.
+sfhpem1vo4	L horizontal, K vertical ; isoquante convexe Q = 1 000 ; isocoût tangent ; après hausse de w : isocoût plus pentu, nouveau point de tangence plus haut à gauche (moins de L, plus de K), sur une isocoût de coût plus élevé.
+iruv6mv2xz	Sujet 2022, Q1 — données et consignes du PDF « past exams/2022.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+20ebz944j9v	(a)–(b) Le vendeur ne sait pas qui est prêt à payer : il laisse chacun choisir (gratuit ou achats) ⇒ 2e degré. Avec interaction, les joueurs gratuits rendent le jeu plus précieux pour les payeurs.
+oa3kf095cu	(c) Produits identiques + concurrence en prix ⇒ chacun sous-enchérit jusqu’au coût marginal (≈ 0 pour une appli). Un prix plancher arrête la descente au-dessus du coût ⇒ marge.
+oagb8au5an	(d) Une plateforme vit des deux côtés à la fois : chaque côté vient parce que l’autre est là ⇒ problème de l’œuf et de la poule, confiance, appariement.
+hbw16232i2	(e) Le monopole compare ce que rapporte l’unité suivante (MR = p + Qp′) à son coût ; réécrire MR = MC en pourcentages donne Lerner = 1/|ε|.
+11dhtdluxop	(c) Si besoin : demande commune, MC ≈ 0, ligne horizontale à 0,99 ; sans plancher, le prix tombe à MC.
+23gndsionto	Sujet 2022, Q2 — données et consignes du PDF « past exams/2022.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+11xjsjj4ch8	Somme verticale : 300 × (10 − Q) = 1 500 ⇒ 10 − Q = 5 ⇒ Q = 5.
+ilfdvidmb9	Au prix mondial 30 : QD = 80 − 30 = 50, QS = 30 − 20 = 10, importations 40.
+17x9rcq6o08	Prix 40 : QD = 40, QS = 20, importations 20. ΔCS = −10 × (50 + 40)/2 = −450 ; ΔPS = +10 × (10 + 20)/2 = 150 ; recette 10 × 20 = 200 ; DWL = 450 − 150 − 200 = 100 (deux triangles de 50).
+2exmqus64ud	(a)–(c) Le wifi ouvert profite à tous sans exclusion possible et sans s’user ⇒ bien public ⇒ on additionne verticalement ce que vaut chaque unité de vitesse pour les 300 habitants ; chacun préfère laisser payer les autres.
+26jwtqvj7hi	(d)–(e) Situation : petit pays importateur, il prend le prix mondial. Le tarif fait monter le prix intérieur de 10 ⇒ les consommateurs achètent moins, les producteurs locaux produisent plus ⇒ les importations fondent.
+prbnjj8r03	Ce que perdent les consommateurs va en partie aux producteurs et à l’État (transferts) ; seuls les deux triangles sont perdus : production trop coûteuse et consommation sacrifiée.
+1za93e8is0z	(e) Demande p = 80 − Q, offre p = 20 + Q, droites horizontales à 30 et 40. Trapèze ΔPS à gauche, rectangle de recette au centre (largeur 20 = importations), deux triangles de perte de part et d’autre.
+237nzf795ph	Sujet 2022, Q3 — données et consignes du PDF « past exams/2022.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+smast1aken	MR = 26 − 4Q = 2 + 4 ⇒ Q = 5 ; p = 16 ; Tuttle garde 12 ; profit 50 ; recette fiscale 20. Optimum : 26 − 2Q = 2 ⇒ Q = 12. DWL = ½ × (12 − 5) × (16 − 2) = 49.
+1q0hk6mk30w	π_i = (26 − 2qi − 2qj − 2)qi ⇒ 24 − 4qi − 2qj = 0 ⇒ qi = 6 − qj/2 ⇒ q = 4 ; Q = 8 ; p = 10 ; profit 32 chacune.
+2adu04sc7xx	(a) Le monopole vend moins pour vendre plus cher : une partie du surplus passe des clients à la firme (transfert) et les pompes non vendues sont une vraie perte.
+1qi1pd1f3m0	(b) Pour Tuttle, chaque pompe coûte 2 + 4 = 6 ⇒ elle égalise MR à 6. Pour la société, la pompe coûte toujours 2 : la taxe va à l’État ⇒ la perte se mesure par rapport à Q = 12 (D = MC réel), pas par rapport à D = MC + t (piège E2022, §20.1).
+20z3pt33p3u	(c) Que la taxe soit versée par le client ou par la firme, le même écart de 4 sépare le prix payé du prix reçu ⇒ même quantité.
+gtoio9gtfc	(d)–(e) Deux firmes, chacune répond à la quantité de l’autre ; la taxe augmente le coût de chaque unité pour les deux ⇒ les deux réactions reculent vers l’origine.
+1t3rcagssbo	Optimum : 26 − 2Q = 2 ⇒ Q = 12. DWL = ½ × 7 × 14 = 49 (sans taxe : Q = 6, p = 14, DWL = ½ × 6 × 12 = 36).
+yi2mktqw1a	Faux : le triangle entre la demande et MC + t (Q de 5 à 10) vaut 25 ; il traite la taxe comme un coût réel.
+byjlqhnnaq	(d) qi = 6 − qj/2 ⇒ q = 4 ; p = 10. (e) qi = 5 − qj/2 ⇒ q = 10/3 ; p = 38/3 (non demandé).
+22xc9itcca5	(b) Demande p = 26 − 2Q, MR = 26 − 4Q, MC = 2 et MC + t = 6 ; Q = 5 sur MR = 6, p = 16 lu sur la demande ; triangle de perte entre la demande et MC = 2, de 5 à 12 ; rectangle de recette fiscale 4 × 5.
+1tnarxarv7k	(e) q1 horizontal, q2 vertical : réactions qi = 6 − qj/2 puis qi = 5 − qj/2, décalées vers l’origine ; équilibre de (4, 4) vers (10/3, 10/3).
+2a1fsy5k40q	Sujet 2022, Q4 — données et consignes du PDF « past exams/2022.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+1fq82e357gn	Séparé : dîner à 80 (les deux) = 160 contre 100 ; chambre à 50 (les deux) = 100 contre 70 ⇒ 260. Forfait à 150 acheté par les deux ⇒ 300.
+10aubqcgm8e	(a)–(b) Situation : après le contrat, tu ne vois pas comment la charpentière travaille ⇒ aléa moral. Un forfait l’incite à bâcler, un tarif horaire à traîner. Son coût d’opportunité du temps décide lequel des deux risques est le plus fort.
+1qxysu0n0y1	(c) Le preneur de prix compare le prix au coût ⇒ un prix, une quantité. Le monopole compare MR au coût, et MR dépend de la forme de la demande ⇒ pas de correspondance unique prix–quantité.
+2f6k3jmg4tw	(d) Tu ne vois pas qui est Gourmet ou Snoozer. Leurs valeurs sont croisées (l’un préfère le dîner, l’autre la chambre) mais égales pour le forfait ⇒ un seul prix capte tout.
+1f7bvxcu8mg	(d) Dîner : 80 × 2 = 160 > 100. Chambre : 50 × 2 = 100 > 70. Séparé : 260. Forfait : 150 × 2 = 300.
+1ovaorj8geb	(c) Deux demandes qui se croisent au même prix : leurs MR coupent MC à des quantités différentes (ou deux demandes donnant la même quantité à des prix différents).
+10rnypzp54j	Sujet 2022, Q5 — données et consignes du PDF « past exams/2022.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+134sygq7vb5	Définitions : décris ce que vit le consommateur ou l’entreprise sans le mot technique.
+tbikv6x85q	II. Situation : on lui reprend la subvention mais on lui rend assez d’argent pour racheter son ancien panier. Elle peut donc refaire exactement la même chose ; mais les prix relatifs ont changé ⇒ un panier encore meilleur devient accessible ⇒ elle ne peut que gagner.
+v15dec95c6	Aucun calcul : raisonnement graphique (droite de budget pivotant autour de l’ancien panier).
+1e32tcdwb0i	Nourriture horizontal, autres biens vertical : ancienne droite de budget tangente à la courbe d’indifférence au point A ; nouvelle droite plus pentue passant par A ; nouveau point B sur une courbe d’indifférence plus haute, avec moins de nourriture.
+1m8c63awmwf	Sujet 2023, Q1 — données et consignes du PDF « past exams/2023.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+cpys0w8xar	BR_T = 10 − qG/2 ; BR_G = 8 − qT/2 ⇒ qT = 8, qG = 4 ; Q = 12 ; p = 13. Profits : 64 et 16.
+1fcasseheib	(a) Un prix faible ne prouve rien : ce qui mesure le pouvoir de marché, c’est l’écart entre prix et coût marginal rapporté au prix (Lerner = 1/|ε|). La levure coûte presque rien à fabriquer.
+xwr1fj4dox	(b) Concurrence monopolistique : entrée et sortie libres ⇒ les pertes font sortir des cliniques jusqu’à profit nul. Oligopole avec barrières : pas de retour automatique à profit nul ; réactions stratégiques.
+qsjeduxumr	(c)–(d) Seul, Tarantino égalise MR et MC. Avec Gerwig, chacun répond à la quantité de l’autre ; le coût plus bas de Tarantino rend sa réaction plus « ambitieuse ».
+13kklp5d959	qT = 10 − (8 − qT/2)/2 ⇒ 0,75qT = 6 ⇒ qT = 8 ; qG = 4 ; p = 25 − 12 = 13 ; profits (13 − 5) × 8 = 64 et (13 − 9) × 4 = 16.
+15pkz42mk8y	(d) qT horizontal, qG vertical : réaction de T : qG = 20 − 2qT ; de G : qG = 8 − qT/2 ; intersection (8, 4).
+vm436cr7bo	Sujet 2023, Q2 — données et consignes du PDF « past exams/2023.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+1gefjq2z1de	Enchérir sa vraie valeur est dominant au second prix : le joueur 2 (100) gagne et paie la deuxième offre, 92.
+11jrhtfqadj	Usage gratuit ⇒ 10 − 2Q = 0 ⇒ Q = 5. Forfait = surplus ½ × 5 × 10 = 25. Coût 10 + 2 × 5 = 20 ⇒ profit 5. (Comparaison : tarif en deux parties p = 2, Q = 4, F = 16, profit 6.)
+133prcofhg8	(a) Le spectre est utilisé par tous ; le signal d’un opérateur gêne les autres (rival) et sans règle on ne peut exclure personne ⇒ ressource commune ⇒ surexploitation. D’où des licences exclusives.
+olrq7r4riz	(b) Au second prix, ton offre décide seulement si tu gagnes ⇒ annoncer ta vraie valeur est dominant.
+25tf9z5ipn9	(c) Avec un forfait, chaque Mo supplémentaire est gratuit pour l’usager ⇒ il consomme jusqu’à valeur nulle ; le forfait capte son surplus, mais l’opérateur paie les Mo au-delà de l’efficacité.
+1eqvpa2tp56	(d) Chaque offre est une façon de trier les clients : groupe observable (3e degré), version dégradée (2e degré)… à condition de cibler ceux qui sont VRAIMENT plus sensibles au prix.
+1qpg92jhitk	(c) 10 − 2Q = 0 ⇒ Q = 5 ; F = ½ × 5 × 10 = 25 ; coût = 10 + 10 = 20 ; π = 5.
+2e7ds9lk4jd	(c) Demande p = 10 − 2Q, triangle sous la demande de 0 à 5 = forfait 25 ; MC = 2 : le petit triangle entre Q = 4 et 5 sous MC est consommé alors qu’il vaut moins que son coût.
+1v35k9i4nf1	Sujet 2023, Q3 — données et consignes du PDF « past exams/2023.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+2go4wffm9rb	H rapporte à l’entrepreneur 0,8 × (40 − 30) = 8. L rapporte 0,4 × 10 + B. B = 2 : L = 6 < 8 ⇒ H ⇒ banque 0,8 × 30 − 20 = 4. B = 6 : L = 10 > 8 ⇒ L ⇒ banque 0,4 × 30 − 20 = −8.
+1v071elhldu	H : 0,8 × (40 − 15) = 20. L : 0,4 × 25 + B = 12 (B = 2) ou 16 (B = 6) < 20 ⇒ H dans les deux cas. Banque : 0,8 × 15 − 10 = 2.
+20sswvksluv	(a)–(b) Pourboire : le client voit l’effort que le patron ne voit pas ⇒ il le récompense directement. Avis : le client ne connaît pas la qualité d’un hôtel inconnu ⇒ il se rabattait sur les marques ; les avis révèlent la qualité ⇒ l’avantage des chaînes fond.
+12ubmvzohyr	(c)–(d) La banque prête, l’entrepreneure choisit ensuite H ou L sans être vue ⇒ aléa moral. Écris d’abord ses gains à elle (8 contre 4 + B), puis seulement ceux de la banque : B décide de l’action, donc du risque.
+1xj4d7yn11f	(e) Avec son propre argent dans le projet, elle garde plus en cas de succès ⇒ H gagne dans les deux cas ⇒ B ne compte plus.
+293lb4vyajp	(e) H : 0,8 × 25 = 20 ; L : 10 + B = 12 ou 16 ⇒ H ⇒ banque 0,8 × 15 − 10 = 2.
+7jg70xw9yc	Pas de graphique demandé.
+ibzusxso6h	E2023 Q4a–b — A price ceiling on Russian oil
+1eokmimcrtq	Sujet 2023, Q4a–b — données et consignes du PDF « past exams/2023.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+2640e8cx98k	Même quantité 8 millions ; prix 90 → 60 ⇒ ΔPS = −30 × 8 = −240 millions de dollars par jour.
+t0v84oo3r0	Situation : on plafonne le prix payé aux producteurs russes. Ce qui compte : comment réagit leur offre. Au-dessus de 50, elle est verticale ⇒ à 60, ils vendent toujours 8 millions de barils.
+tpk4efosxm	Même quantité, prix plus bas ⇒ le plafond ne détruit rien : il transfère 30 dollars par baril des producteurs russes aux importateurs.
+1ai95i979b5	Pas de baisse de l’offre mondiale ⇒ pas de pénurie ; le prix mondial reste vers 90 (§7.4).
+1p5atrvjucb	ΔPS = −(90 − 60) × 8 = −240 millions de dollars par jour.
+16cay8y1qkc	Offre russe : départ à 30, montée jusqu’à 50, puis verticale à 8 millions. Rectangle entre 60 et 90 sur 8 millions = perte de surplus des producteurs russes.
+2ct65lhoyjy	Marché mondial : offre et demande mondiales inchangées, prix ≈ 90 ; le plafond ne concerne que le prix des barils russes.
+1ij50g06nt7	Sujet 2023, Q5 — données et consignes du PDF « past exams/2023.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+jimv6zjxzx	II. Même logique que E2021 Q5 : isoquante = ce qui est possible, isocoût = ce que ça coûte. Le médecin devient plus cher ⇒ on glisse le long de l’isoquante vers plus d’infirmiers ; le coût minimal augmente quand même.
+vwlascwo5t	Condition : MP_médecin/MP_infirmier = w_médecin/w_infirmier.
+ny67k1jsvy	Heures de médecins horizontal, d’infirmiers vertical ; isoquante 100 opérations ; isocoût tangent ; après hausse du salaire des médecins, isocoût plus pentu et nouveau point de tangence avec moins de médecins.
+1vhcr0llj5j	Sujet 2024, Q1 — données et consignes du PDF « past exams/2024.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+21dd7f6dc40	Pour Q ≤ 5, les trois WTP sont positives : (10 − Q) + (5 − Q) + (10 − 2Q) = 25 − 4Q = 9 ⇒ Q = 4 (segment valide).
+23vzn9tsdqx	11 − (p_s + 1)/2 = −1,5 + p_s ⇒ 12 = 1,5 p_s ⇒ p_s = 8 ; p_b = 9 ; Q = 6,5 ; recette 1 × 6,5 = 6,5. (Sans taxe : p = 25/3, Q = 41/6 ≈ 6,83.)
+1jdj6oaycoa	(a)–(c) Le tunnel sert à tous à la fois et personne ne peut en être exclu ⇒ on additionne verticalement ce que vaut 1 km de plus pour chaque habitant ; chacun préfère que les autres paient.
+1z3izio2ieu	(b) Vérifie le segment : la somme 25 − 4Q n’est valable que tant que les trois WTP sont positives (Q ≤ 5).
+djs4dja4ox	(d) La taxe crée un écart d’une couronne entre ce que paie l’acheteur et ce que garde le vendeur ; résous avec les deux prix, puis multiplie la nouvelle quantité par la taxe.
+1l9il8bp46s	(e) Le buveur ne connaît pas la qualité avant d’acheter ⇒ risque de « lemons ». Une appellation garantit la qualité pour toute une région ⇒ pas besoin d’être une grande marque.
+cnv1sun6y9	(b) 25 − 4Q = 9 ⇒ Q = 4 ; à Q = 4, P1 = 6, P2 = 1, P3 = 2 : somme 9.
+aw7ublxy7u	(b) Trois WTP, leur somme verticale (coudes à Q = 5 et 10), MC = 9 horizontal : intersection à Q = 4.
+28oh9zvlih7	(d) Coin vertical de 1 entre demande et offre à Q = 6,5 : p_b = 9 sur la demande, p_s = 8 sur l’offre ; rectangle de recette 1 × 6,5.
+7tz524hyak	Sujet 2024, Q2 — données et consignes du PDF « past exams/2024.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+1ydle49k5q5	US : MR = 8 − 2Q = 0 ⇒ Q = 4, P = 4, π = 16. Mexique : MR = 6 − Q = 0 ⇒ Q = 6, P = 3, π = 18. Total 34.
+29sw6tz0pug	Segment bas : π = P(20 − 3P) ⇒ 20 − 6P = 0 ⇒ P = 10/3 ; Q = 10 ; π = 100/3 ≈ 33,33. Segment haut (US seul, 6 ≤ P < 8) : le meilleur point est la borne P = 6, π = 12 < 33,33.
+tligg1zda2	(a)–(b) Un brevet empêche l’entrée ; la demande peu sensible au prix permet une grosse marge ; le grand marché la multiplie. Coût statique (perte sèche) contre bénéfice dynamique (innovation).
+1oxugrlizlk	(c) Marchés séparés : Novo fait un choix de monopole dans chaque pays (MR = MC = 0). Le prix est plus élevé là où la demande est la moins sensible au prix.
+44awr3d9me	(d) Un seul prix : on additionne les QUANTITÉS demandées à chaque prix, en tronquant à zéro (coude à P = 6). Vérifie que l’optimum trouvé appartient bien au segment utilisé.
+9d7tav9s2x	(e) Passer au prix commun redistribue : les Américains paient moins, les Mexicains plus. Comparer les surplus des deux côtés.
+1kwuvri8ks0	(d) Q(P) = 0 si P ≥ 8 ; 8 − P si 6 ≤ P < 8 ; 20 − 3P si P < 6. π = P(20 − 3P) ⇒ P = 10/3, Q = 10 (US 14/3, Mexique 16/3), π = 100/3.
+mdef8yuy2m	(d) Demande agrégée : segment US seul de P = 8 à 6, coude à P = 6 (Q = 2), puis segment plus plat Q = 20 − 3P jusqu’à P = 0.
+1bh3jnvk3yi	Sujet 2024, Q4 — données et consignes du PDF « past exams/2024.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+11orpaqsjzs	Athènes : 4/2 = 2 kg d’olives ; Sparte : 5/5 = 1. Athènes a l’avantage absolu en pain (4 h < 5 h), Sparte l’avantage comparatif.
+2ajvpyratw7	La firme 1 (mc = 5) sous-cote la firme 2 juste sous 7 et sert tout le marché ; son prix de monopole (7,5) dépasse 7, donc c’est bien 7 qui la limite.
+1d0lg56fvq1	π1 = p1(6 − 2p1 + p2) ⇒ 6 − 4p1 + p2 = 0 ⇒ BR1 = (6 + p2)/4 ; symétrique p = 2 ; q = 4 ; π = 8 chacune.
+184jky1zang	Firme 1 répond p1 = (6 + p2)/4. Firme 2 maximise p2(6 − 2p2 + (6 + p2)/4) = p2(7,5 − 1,75p2) ⇒ p2 = 15/7 ≈ 2,143 ; p1 = 57/28 ≈ 2,036 ; q1 = 57/14, q2 = 15/4 ; π1 ≈ 8,29, π2 ≈ 8,04.
+8l2ic161jd	(a) Avantage absolu = moins d’heures. Avantage comparatif = moins d’olives sacrifiées par kg de pain.
+1mff5wz1p28	(b) Bertrand homogène : le client va au moins cher. La firme 2 ne descendra jamais sous 7 (son coût) ⇒ la firme 1 sert tout le marché juste sous 7, puisque son prix de monopole (7,5) serait sous-coté.
+1mckvwci3dy	(c) Produits différenciés : baisser son prix n’attire qu’une partie des clients de l’autre ⇒ chacun garde une marge ; réactions croissantes (si l’autre monte, je monte aussi).
+86a553ess9	(d) Le leader monte son prix en sachant que l’autre suivra en partie. Le suiveur profite de rester un peu moins cher ⇒ avantage au second en concurrence en prix. Coûts non donnés : hypothèse de coûts nuls à annoncer (§20.1).
+1d8e4bw20or	(a) Athènes 4/2 = 2 ; Sparte 5/5 = 1.
+ihdoilp1ws	(b) Prix de monopole de la firme 1 : 10 − 2Q = 5 ⇒ Q = 2,5, p = 7,5 > 7 ⇒ p ≈ 7, Q ≈ 3, π1 ≈ 6.
+1l0qes30c0k	(c)–(d) p1 horizontal, p2 vertical. BR1 : p1 = (6 + p2)/4 ; BR2 : p2 = (6 + p1)/4, toutes deux croissantes ; Nash (2, 2) ; leader 2 : point sur BR1 en haut à droite de Nash, (57/28, 15/7).
+21dj1v3n2tv	Sujet 2024, Q5 — données et consignes du PDF « past exams/2024.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
+zienz3cpie	II. Situation : la firme ne choisit pas le prix, seulement combien vendre ⇒ elle produit chaque unité qui coûte moins que le prix ⇒ p = MC. À court terme, le fixe est payé de toute façon ⇒ on compare la recette au variable (AVC) ; à long terme, plus rien n’est fixe ⇒ on compare au coût total (ATC).

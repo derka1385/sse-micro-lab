@@ -1,0 +1,76 @@
+1igi49ng15c	Lectures L13 (international trade) and L14 (platforms, auctions), linked to the past exams 2020–2025. Rebuild the decisions, relative prices and rules before calculating.
+22rj79nwyvs	You may get trade, a platform, an auction or a snack exchange. These topics appear in the past exams and are covered in lectures L13 (international trade) and L14 (platforms and auctions). Each tool from the lectures is linked to the exam questions where it appeared.
+a6o3v74jld	L13 (Friberg 17.1–17.3): comparative advantage, specific factors, trade policy. L14 (Friberg 18.1–18.3): platforms and auctions. Edgeworth comes from dossier §14.6. Exam links: trade E2020, E2021, E2022, E2024, E2025; auctions E2023, E2025; platforms E2022, E2025.
+12r9b5rcx7d	According to lecture L14, which part of the course does the exam emphasise?
+2adhteqk7jm	The second part, after L6
+10gys4zfzcg	L14: 4 questions (+ one question that replaces the midterm), emphasis on the end of the course.
+o5jmmupvqh	Only chapters 1 to 3
+2ev9ac2uj7o	The lecture says the opposite: the emphasis is on the second half.
+29591704qpd	Only definitions, without figures
+892i8x4bdh	The lecture asks for clear and precise figures and discussion.
+2g8xn4v4laq	A tariff is just one of several tools for curbing imports
+koggnwm4s7	A government can tax imports, limit their quantity, subsidise its exporters or simply make the paperwork harder. Standards or patents can also hold back trade without being called a “tariff”. Each tool protects a specific group; the question is who pays.
+1f5ufdclv12	Lecture L13: tariffs, quotas, export subsidies, “red tape”, plus domestic policies with a trade dimension (standards, intellectual property, support for national firms, competition). Frameworks: WTO, free trade areas, customs unions, EU.
+1d36pafqhwf	A concentrated group (protected producers) gains a lot per head and organises; the loss is spread thinly over all consumers.
+24dtvh7cxf2	Supporting a sector's employees is usually better done through transfers than through a tariff, which adds the two deadweight losses.
+b6834pz9bc	L13 sorts the reasons into three groups: special interests (harmful to national welfare), reasons useful for one country but not the world (Airbus versus Boeing, infant industries), reasons potentially useful globally (national security, avoiding a race to the bottom in standards).
+194w09bijj9	In the exam, if asked “why do tariffs exist?”, structure your answer: who gains, at the level of the country or the world, and is there a better tool?
+8emfeid3c6	Which of these arguments can improve world welfare, not only national welfare?
+ejqhwej046	Avoiding a race to the bottom in environmental standards
+1aj1u5kpq51	L13 lists it among the reasons potentially favourable to the whole world.
+28eew172psn	Helping Airbus against Boeing
+10z90il0qa5	A possible gain for one country at the expense of foreign firms: not a global gain.
+1zs4kqrosmr	Protecting the profits of a well-organised sector
+1hrwibwwjuv	A special interest: usually harmful to national welfare.
+egkmdmfgyz	The side that attracts the other pays less, sometimes nothing
+21y8z34totg	A rental platform earns money on every renter and every owner. But one more renter makes the platform more valuable to all owners. Charging that renter a lot also means losing what they bring to the other side.
+1xxejgjq2wm	Lecture L14: v_b = f_b n_s − p_b, π_s = f_s n_b − p_s; profit n_s(p_s − c_s) + n_b(p_b − c_b). Optimal prices: p_b = (c_b − f_s n_s)·ε_b/(ε_b − 1) and p_s = (c_s − f_b n_b)·ε_s/(ε_s − 1).
+vvxbfyn6vk	The relevant “cost” of a buyer is c_b minus the value f_s n_s they create for sellers: if they create a lot, this effective cost turns negative and the price can too.
+96rltyk8x1	As for a monopoly, the factor ε/(ε − 1) sets the mark-up: the more elastic the demand, the smaller the mark-up.
+1ugx89yg65k	L14 progress check: very elastic buyers and a strong network effect for sellers ⇒ low price or subsidy for buyers, higher price for sellers (answer B). Deriving the formula goes beyond the course; the intuition is enough for the exam.
+21i3pemwmwu	If you ask “who pays on this platform?”, look for the side the other absolutely wants to find: it is often the one being subsidised.
+665qifq4dg	Buyers have very elastic demand and strongly attract sellers. Which price structure?
+5umtoe80jv	Low price or subsidy for buyers, higher price for sellers
+1usm5tk4tqs	Both forces point the same way: high elasticity and a large benefit created for the other side.
+1bdy58jb12v	High prices on both sides
+24lkjq4om01	That would drive away the elastic side and, with it, the value for sellers.
+1kadtvn9t2l	Equal prices on both sides
+2g4paor9rl2	Nothing requires symmetry: each side has its own elasticity and its own effect on the other.
+1pggl2qkh9k	Concentration or coexistence: count the forces on each side
+1jwl7atf5kg	If everyone uses only one app and each new member attracts the other side, the market tips towards a single platform. But if people can keep several apps, if crowding slows the service or if network effects are weak, several platforms survive.
+1bqxi8aw6iv	Lecture L14: towards concentration — positive between-group and within-group network effects, economies of scale, single-homing. Towards coexistence — multi-homing, congestion, weak network effects. On the platform, the owner is often “umpire and player”.
+29shqh92i9a	A network effect leads to monopoly only if users must choose: with multi-homing, the entrant does not have to win over the whole network.
+1ss4b2x0nbo	The “umpire and player” sets the rules its competitors face: how information is displayed, higher fees for rivals.
+18of4i8zdfy	L14 progress check: frequent congestion and negative within-group effects are what LEAST leads to concentration (answer C).
+m39ejz27l0	Faced with a digital market, tick both columns before concluding “winner takes all”.
+2cf322gx8wm	Which LEAST leads to a market dominated by a single platform?
+zru93l50a9	Frequent congestion and negative within-group effects
+7pt4hde60c	More users degrade the service: joining a competing platform becomes attractive.
+164g6pl78q0	Strong positive between-group network effects
+13p05c9urzc	They push towards concentration.
+s6k0l05zeu	Single-homing by users
+1mih9f29otf	It pushes towards concentration: everyone must choose a single network.
+9et8ckk59e	High fixed costs and economies of scale
+90ltms2d7p	They favour the largest platform.
+2dbgs1kbgw3	Four auctions: who pays what, in one round or several
+1cbdxtduzps	In an auction room, the price rises until only one buyer is left. At the Dutch flower market, it falls until someone shouts “stop”. With a sealed envelope, you bid only once without seeing the others.
+vq588swyj9	Lecture L14: dynamic and second price = English (ascending); dynamic and first price = Dutch (descending); static and second price = Vickrey; static and first price = first-price sealed bid. Private values (a non-resellable concert ticket) versus common value (drilling rights, risk of the winner’s curse).
+1nq1m3x0uu0	English auction with reserve price r < v2 < v1: bidder 2 drops out at v2, bidder 1 wins and pays about v2, as in Vickrey.
+15gnc1kqlxd	In a first-price sealed-bid auction, bidder 1 maximises P(b1 > b2) × (v1 − b1): bidding more raises the chance of winning but cuts the gain, so they bid below their value and the object may go to the wrong buyer.
+15ck0icqklu	For the seller, more bidders and a good reserve price raise revenue. Google and Facebook use second-price variants for their ad slots.
+pw5wezfcm2	First read two things in the question: does the winner pay their own bid or the second one? Are values private or common?
+17m7ipy3jmd	A descending auction where the first to accept pays the displayed price is:
+1ttqlcgnaqh	A Dutch auction (dynamic, first price)
+u0vcbfznj2	The price falls and the winner pays the price at which they stop it: their own “bid”.
+132j8j983i0	An English auction
+e4slfbwzg7	The English auction is ascending and the winner pays about the second value.
+1tqfng5qd5v	A Vickrey auction
+1z7om62cbal	Vickrey is static (sealed envelope) and second-price.
+v3ox9i9sq8	You value a ticket at €100 in a Vickrey auction (private values). Which bid?
+2c8qs1ly97e	Exactly €100
+lxt4duin7p	Your bid only decides whether you win; the payment is set by the second bid. Bidding your value is weakly dominant.
+1zihojvadck	Slightly above €100 to be sure to win
+1rbdhoyiy22	You might pay between 100 and your bid, so more than your value.
+137h9wh8l68	About €80 to keep some surplus
+28ro6hah5wt	The surplus comes from the second price; underbidding only makes you lose auctions you would have won profitably.
+2dt5jgbuecl	Teaching mini-exam built on E2020–E2025 and §14. The trade, tariff and auction numbers are documented/recalculated; the exchange of 3 drinks for 2 snacks is constructed. Based on lectures L13–L14; this answer is not official.

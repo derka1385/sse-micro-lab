@@ -63,7 +63,7 @@ export const TOPICS: Topic[] = [
   { id: 'games', lesson: 'games-guided', title: 'Théorie des jeux', en: 'Game theory', lecture: 'A3', refs: ['13'], nodes: ['games'],
     history: [{ years: [], label: 'pas de comptage dans le dossier ; Assignment 3 seulement (Nash réutilisé en oligopole)', basis: 'aucun comptage' }],
     formulas: [], graphs: ['G22'] },
-  { id: 'complements', lesson: 'complements-guided', title: 'Commerce, plateformes, enchères, Edgeworth', en: 'Exam complements', lecture: '§14', refs: ['14'], nodes: ['trade', 'complements'],
+  { id: 'complements', lesson: 'complements-guided', title: 'Commerce, plateformes, enchères, Edgeworth', en: 'Trade, platforms, auctions', lecture: 'L13–L14', refs: ['14'], nodes: ['trade', 'complements'],
     history: [
       { years: [2020, 2021, 2022, 2024, 2025], label: 'commerce international ou avantage comparatif', basis: 'dossier §1' },
       { years: [2023, 2025], label: 'enchères explicites', basis: 'dossier §1' },

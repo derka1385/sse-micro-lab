@@ -1,212 +1,189 @@
-25ly7ey3zjm	La demande est égale au dommage total
-21vjy4csdpb	MPB mesure la valeur privée marginale, pas les dommages.
-16vwn5591d8	La perte vient des unités en trop
-198w0demy9x	Les 30 premières unités restent utiles socialement. La perte d’efficacité vient des unités entre 30 et 45 : chacune coûte socialement plus qu’elle ne vaut. On additionne seulement cette différence sur l’intervalle excessif, pas tous les dommages de toutes les unités.
-2f45bvfyw9f	DWL = aire entre MSC et MSB de Q* à Qm. Les courbes sont linéaires : {{DWL = ½ × (45 − 30) × 45 = 337,5}}.
-igix0dufw5	Le dommage total inclut des unités dont le bénéfice justifie encore la production.
-1hdmh5w8kdk	DWL compare le bien-être obtenu à celui de la meilleure quantité réalisable dans le modèle.
-y0kjfdyz22	À Q = 45, MSC − MPB = 100 − 55 = 45 ; à Q = 30, cet écart est nul. D’où le triangle.
-1obhpz0qo74	Dommage total 1 012,5 et DWL 337,5 ne répondent pas à la même question.
-1nackaxw0wc	Supprimer toute l’essence supprimerait aussi des déplacements très utiles. L’efficacité demande de supprimer les unités dont le coût total dépasse la valeur.
-15xgxpd2ld4	Compare les zones EXT et DWL. L’une mesure tout le dommage ; l’autre seulement la perte nette évitable due à Qm > Q*.
-23uryg4sk3q	Triangle entre 30 et 45, hauteur finale 45 : quelle DWL ?
-22cl2jwbbi1	Pourquoi la DWL est-elle plus petite que le dommage total ici ?
-24wg6t0uxag	Parce que les dommages des riverains ne comptent pas
-19phomicign	Ils comptent entièrement dans MSC et le bien-être.
-zmizyt23hh	Certaines unités polluantes restent socialement utiles
-nvtalpfdq3	Leur bénéfice dépasse leur coût social ; elles appartiennent à Q*.
-zj28d0rcqt	Une taxe change ce que décide le conducteur
-1ou8zf0krmt	L’État peut faire payer un montant par litre. Le conducteur paie alors davantage que ce que la station reçoit. Cet écart réduit la quantité choisie : un litre qui semblait rentable au prix privé peut cesser de l’être avec la taxe.
-miafmm37f2	Coin fiscal : pb − ps = t, avec pb = MPB(Q), ps = MPC(Q). Équilibre : MPB = MPC + t.
-15g3dlaq9c3	Les acheteurs décident selon ce qu’ils paient réellement, pb.
-1g26l93ljhh	Les vendeurs décident selon ce qu’ils reçoivent, ps.
-1rxsqvjyr3z	La taxe relie ces deux décisions : pb = ps + t. Celui qui verse administrativement la taxe ne supporte pas forcément toute sa charge économique.
-12cd9l9hwsy	Avec t = 20 : 100 − Q = 10 + Q + 20 ⇒ Q = 35. pb = 65 ; ps = 45 ; 65 − 45 = 20.
-1iwcr2ve9hf	Tu ne compares plus la valeur de ton litre à 45 reçus par la station, mais aux 65 que tu débourses.
-1f4ft6xnyp2	La courbe MPC + taxe fixe la décision privée après intervention. La taxe de 20 ne rejoint pas MSC partout.
-2gg8iftzlth	Avec une taxe de 20, quelle quantité échangée ?
-bnwcix83l6	À Q = 35, quel prix paie le conducteur ?
-1q4r3avtt4	Quel prix net reçoit la station ?
-2g0elkgs1nj	Une amélioration n’est pas forcément l’optimum
-10vxnvcyl2o	La taxe de 20 retire dix unités excessives, mais le marché reste à 35 au lieu de 30. À 35, le dommage marginal est 35, supérieur à la taxe. La dernière unité reste trop bon marché par rapport à son coût social.
-uq2bireerh	DWL résiduelle : ½ × (35 − 30) × [MSC(35) − MPB(35)] = 37,5.
-1lr6nxeda4s	Il faut comparer la quantité après taxe à Q*, pas seulement constater qu’elle a baissé.
-zg3z4g1hl9	Entre 30 et 35, le coût social dépasse encore la valeur.
-2crrla1sa8q	La recette fiscale est un transfert vers l’État ; ce n’est pas en elle-même une destruction de ressources.
-1ijnuco3e97	À Q = 35, MSC = 80 et MPB = 65 : hauteur 15, base 5, donc DWL = 37,5. Recette fiscale = 20 × 35 = 700.
-13skzympsav	Tu peux dire « c’est mieux » en comparant 337,5 à 37,5, puis « encore insuffisant » en observant Q > 30.
-1pqq40xovd4	Le petit triangle résiduel est la perte évitable. Le rectangle de recette fiscale est un transfert.
-1scvmseen6l	Après taxe 20, base 5 et hauteur 15 : quelle DWL reste ?
-1b699pheeoa	Les 700 de recette fiscale sont-ils automatiquement une DWL ?
-1o33b6ta70e	Oui, tout paiement de taxe disparaît
-24dy3gzgrkx	L’argent est reçu par l’État ; il ne s’évapore pas.
-s29rvfmqqt	Non, c’est un transfert compté chez l’État
-24xe7ki6oti	Pour calculer W, additionne CS + PS + recette, puis soustrais le dommage réel.
-8dan6r9lzd	Pourquoi la taxe correcte vaut 30, pas 45
-1e3w2pr7awr	Tu veux que les décisions privées s’arrêtent exactement à la quantité efficace, 30. Il faut donc faire payer le dommage du litre à cet endroit. Une taxe de 45 reprendrait le dommage au vieux marché ; elle ferait baisser la quantité trop loin.
-1p43p3uydbo	Taxe pigouvienne {{t* = MEC(Q*) = 30}}. À Q* : pb = 70, ps = 40, écart = 30. Cette règle suppose un marché autrement concurrentiel et une externalité non déjà internalisée.
-1c3nz84x22z	Après la taxe, la quantité change : le dommage marginal change aussi.
-17d5f7jqjlo	On choisit donc d’abord Q* avec MSB = MSC, puis on évalue MEC à Q*.
-48egi8bw63	Une taxe de 30 aligne l’incitation marginale au point visé ; il n’est pas nécessaire que MPC + 30 coïncide avec MSC à toutes les quantités.
-15sytsvcjba	t = 30 donne 100 − Q = 10 + Q + 30, donc Q = 30. Recette = 900 ; DWL = 0 dans ce modèle.
-i1gjbgkkt5	Tu règles le prix de l’effet externe pour le dernier litre que la société veut garder, pas pour le dernier litre de l’ancien plein.
-fs1lkzrxpb	Teste 20, 30 puis 45 sur la politique. L’objectif est d’aligner Qp sur Q*, pas de rendre la taxe aussi élevée que possible.
-1598p30xrt2	MEC = Q et Q* = 30 : quelle taxe optimale ?
-2fw19ptz14q	Dans t* = MEC(Q*), où évalues-tu MEC ?
-atwm9e180a	Toujours à l’ancienne quantité privée
-4xt8zycbod	Cette quantité est précisément celle que la taxe va modifier.
-78rxm81d0l	À la quantité socialement efficace
-2bgiq1jqwu8	C’est le point où l’incitation privée doit être alignée.
-157batntzxr	Si l’axe change, ton raisonnement doit le remarquer
-hj4ehipspc	Une entreprise peut réduire les émissions sans forcément réduire autant sa production. Ici, l’axe compte les émissions restantes e. Aller vers la gauche signifie dépolluer davantage. Les premières réductions sont faciles ; les dernières coûtent plus. C’est pour cela que MAC descend quand on lit ce graphique vers la droite.
-2ug73td5dm	MAC = coût marginal d’abattement. L11 : MAC = 10 − e, MEC = e/2. La firme sous taxe choisit MAC = t ; la société choisit MAC = MEC.
-t6akyzkay2	Une réduction d’émissions évite MEC de dommage mais coûte MAC en ressources.
-1usu7wt1uit	Il est utile de réduire tant que le dommage évité dépasse le coût de réduction.
-1zmicrh8jpv	Taxer les émissions fait économiser t à chaque unité supprimée : la firme réduit jusqu’à MAC = t.
-2gom9nb5xtq	Taxe 2 : 10 − e = 2 ⇒ e = 8. Optimum : 10 − e = e/2 ⇒ e = 20/3, taxe = 10/3. Une taxe par production n’est équivalente que si les émissions par unité sont fixes.
-mc4xb1tk78	Changer de chaudière peut éviter de la pollution sans fermer ton usine. Vérifie donc si on te demande une quantité produite ou une quantité émise.
-sojwgfd06i	Attention : l’axe mesure la pollution restante
-2fibds4nmkh	e, émissions restantes
-2827vj9qt51	€ par unité évitée
-1frpa6y51cp	L11 : MAC = 10 − e, MEC = e/2. Plus tu vas à droite, moins tu as déjà réduit la pollution. Le point MAC = MEC donne e = 20/3.
-2bupwtx2wyb	Coût de supprimer une unité supplémentaire d’émission, à partir du niveau e.
-uxlftyuybm	Dommage évité en supprimant cette unité d’émission.
-tgpczr4kxl	Optimum : e = 6,67
-20x8hk3r3kg	MAC = 10 − e. Avec une taxe d’émission t = 2, quelle émission choisit la firme ?
-5ph1rflclx	émissions
-hf02nhi9ww	Résous 10 − e = e/2 pour les émissions efficaces.
-b86mk9i517	Même plafond, répartitions de l’effort différentes
-1xn8szkxb16	Deux usines doivent réduire au total les émissions. La première peut dépolluer à faible coût ; la seconde a une installation difficile à adapter. Leur demander exactement le même effort gaspille des ressources : la première peut réduire davantage, vendre des permis, et éviter les réductions les plus coûteuses de la seconde.
-1gxl12zqj7	Avec échanges sans frictions et solutions intérieures, les permis égalisent les MAC au prix du permis. Le plafond fixe les émissions totales ; l’allocation initiale distribue les rentes.
-6ep3rdx4n6	Quand MAC diffèrent, déplacer une unité d’abattement vers la firme moins coûteuse réduit le coût total.
-1pqrhn2g52x	L’échange reste profitable tant que ce coût économisé dépasse la compensation nécessaire.
-28dgzpj48si	À l’égalité des MAC, aucun déplacement marginal ne réduit davantage le coût total pour le même plafond.
-1plnvsat25c	Exemple construit : MAC_A = 4 et MAC_B = 10. Faire réduire A d’une unité supplémentaire permet à B de réduire une unité de moins : économie nette 6, avant coûts d’échange.
-16cta04wqpu	Si tu peux enlever une tonne pour 4, tu peux vendre un permis à plus de 4 à une entreprise qui aurait dépensé 10 pour cette tonne.
-1j8iq0c6vo0	Où coûte la prochaine tonne évitée ?
-1pe5y6zx86y	€ par tonne
-rt10rmvmqx	Exemple construit pour montrer un échange marginal ; ce ne sont pas les coûts totaux de deux usines réelles.
-kmaimp2f22	Usine A
-210s2pobwkm	Un peu plus d’abattement coûte 4.
-k9tirjq61x	Usine B
-16afpvpdci3	Un peu moins d’abattement économise 10.
-2bmet6i4isx	A réduit pour 4, B pour 10. Quel transfert d’effort réduit les coûts ?
-aay3spfemr	B dépollue davantage parce qu’elle a le MAC le plus élevé
-1mcm99sjrou	Tu déplacerais l’effort vers la firme la plus coûteuse.
-1ihsnav4hna	A dépollue davantage ; B dépollue moins
-3whqvatyy8	La même tonne évitée coûte 4 au lieu de 10.
-13arocddfvj	Des quotas identiques sont toujours les moins coûteux
-8lwv7oeuoi	Ils ne tiennent pas compte des MAC différents.
-1dv13fal0p9	Quel gain de coût pour une tonne déplacée de B vers A ?
-jmclkxj1jw	10 économisés chez B − 4 dépensés chez A = 6.
-8h0s3ttbkp	Taxe ou quota, quand personne ne connaît le coût de dépolluer
-1prw0o30igc	L’État doit choisir son instrument avant de savoir combien il coûtera aux usines de réduire leurs émissions. Avec une taxe, il fixe le prix de polluer : chaque usine réduit jusqu’à ce que la tonne suivante lui coûte autant que la taxe, donc la quantité d’émissions dépend de son vrai coût. Avec un quota, il fixe la quantité : les émissions sont connues, mais le coût pour y arriver ne l’est pas. Si chaque tonne en trop fait des dégâts qui grimpent très vite, se tromper sur la quantité coûte cher : le quota protège mieux.
-yai546zvjc	Choix d’instrument sous incertitude (« prices versus quantities ») : avec un [[MEC]] très pentu et un [[MAC]] incertain, l’erreur de quantité d’une taxe crée une grande perte ; le quota fixe e et limite cette perte. Si MEC est plat et MAC pentu, c’est l’inverse : la taxe évite un coût de respect excessif. C’est un argument de pentes relatives, pas une règle générale.
-aahl2scaon	Une taxe garantit le prix de la tonne évitée, pas le nombre de tonnes : si dépolluer coûte plus cher que prévu, les usines polluent davantage.
-enwa6hu67n	Un quota garantit le nombre de tonnes, pas le coût : si dépolluer coûte plus cher que prévu, les usines paient cher pour respecter le plafond.
-a0b5twhfg9	Laquelle des deux erreurs coûte le plus dépend des pentes : quand le dommage marginal grimpe vite, chaque tonne en trop est très coûteuse, donc on préfère fixer la quantité.
-bbhiowkfw8	Exemple construit : MEC = 3e et MAC attendue 10 − e ⇒ e = 2,5 et t = 7,5. Si en réalité MAC = 12 − e, l’optimum devient e = 3. La taxe 7,5 laisse e = 4,5 : perte ½ × 1,5 × 6 = 4,5. Le quota 2,5 ne s’écarte que de 0,5 : perte ½ × 0,5 × 2 = 0,5.
-1h9yyvnyzqw	Tu conseilles le gouvernement allemand (E2021 Q1d) : le dommage du charbon grimpe vite et le coût de dépollution est mal connu. Tu choisis l’instrument qui évite la grosse erreur, ici le quota, et tu le justifies par les pentes.
-95tb6ncy9d	Le vrai coût de dépolluer n’est connu qu’après le choix
-1gbbtrh2whm	Exemple construit. MEC = 3e grimpe vite ; MAC attendue 10 − e, mais elle se révèle 12 − e. Prévu : e = 2,5 et t = 7,5. Vrai optimum : e = 3. La taxe laisse e = 4,5 (perte 4,5) ; le quota reste à 2,5 (perte 0,5).
-1m6k6vxbi5i	MAC attendue : 10 − e
-9hvbqre841	Ce que l’État croit qu’il en coûte d’éviter la tonne suivante.
-1ijl3owisz1	MAC réelle : 12 − e
-22bw15k4la0	Le vrai coût, découvert après le choix de l’instrument : dépolluer coûte plus cher que prévu.
-4hg4wmcug0	Le dommage de la tonne suivante grimpe vite : une tonne en trop coûte de plus en plus cher aux riverains.
-1ryt7rintmw	Taxe t = 7,5
-2b01fxj5fr8	La taxe fixe le prix de polluer : la firme pollue jusqu’à MAC = 7,5, quel que soit son vrai coût.
-vaqo2m45tm	Quota e = 2,5
-unn4aepnps	Le quota fixe la quantité : 2,5, quel que soit le coût pour y arriver.
-ijlohemiz1	Vrai optimum : e = 3
-1u1o4reilg8	Taxe : e = 4,5
-1hih1p6ofcs	Dommage marginal très pentu, coût de dépollution mal connu. Quel instrument limite le mieux la perte ?
-d9r7zdiq8q	Une taxe, car elle est toujours plus efficace
-8iutmeyn5n	Sous incertitude, aucun instrument ne gagne toujours : tout dépend des pentes.
-rkcswzr9ea	Un quota (plafond d’émissions)
-270e5w3wj4b	Il fixe la quantité : l’erreur coûteuse, polluer beaucoup trop, est évitée.
-2f6l8a9htjr	Peu importe : taxe et quota donnent toujours le même résultat
-1qv4mvj423w	Ils coïncident sans incertitude ; avec incertitude, l’un fixe le prix, l’autre la quantité.
-21wdyq656by	MAC réelle 12 − e et taxe 7,5 : combien d’émissions la firme garde-t-elle ?
-gx32972zxc	12 − e = 7,5 ⇒ e = 4,5, au lieu de l’optimum 3.
-1n0gl9uvpyr	Négocier peut internaliser, sous des conditions précises
-fgh8cg8d3c	Si une usine et son voisin peuvent négocier facilement et savent à qui appartient le droit de polluer ou d’exiger de l’air propre, ils peuvent partager le gain d’une réduction utile. Mais cent mille victimes, des mesures disputées et des contrats coûteux peuvent empêcher cet accord.
-1z9r3mpyjr0	Coase : droits définis et coûts de transaction nuls permettent une allocation efficace sous les hypothèses du théorème. L’attribution des droits change les paiements et la distribution.
-18iuwt4sr51	Si éviter un dommage vaut plus que ce que coûte la réduction, il existe un surplus à partager.
-2dlx1ah948r	Le droit initial détermine qui doit payer pour obtenir le changement.
-19you3kf3q8	Les coûts de mesure, coordination et contrat peuvent dépasser le surplus et bloquer l’accord. Une fusion qui crée un monopole peut aussi introduire une autre distorsion.
-erf1aqjuiw	Réduire le bruit coûte 20 à l’atelier et vaut 50 au voisin. Une compensation entre 20 et 50 rend la réduction profitable aux deux, si le droit initial appartient à l’atelier.
-18rr7c5p9oy	Tu paierais jusqu’à 50 pour dormir mieux. L’atelier accepte à partir de 20. Mais sans droit clair ou contrat applicable, ce gain possible ne garantit pas un accord.
-mn8y8trje2	Le surplus d’un accord
-1ikey9pw30t	Exemple construit ; efficacité conditionnelle, pas promesse que toute négociation réelle réussit.
-26ijjfpnh16	Le voisin
-ua17j6bj8r	Évalue le dommage évitable : 50
-1o5m3m1pvbk	Il accepterait de payer au maximum 50 pour la réduction.
-1byatp5uac4	L’atelier
-1dxb3tnbtzv	Évalue le coût de réduction : 20
-1erz2sqjtga	Une compensation supérieure à 20 le rend gagnant.
-2azxzw9pecd	Les deux
-12alwuf96a5	Cherchent un paiement entre 20 et 50
-wbdpldz5eg	Le surplus total de 30 peut être partagé si négocier est possible.
-1or9qes60gm	Changer l’attribution initiale des droits change nécessairement quoi ?
-10sd3zwoqvo	La quantité efficace doit toujours changer
-o8a3sa2bzt	Ce n’est pas la conclusion du théorème sous négociation sans coût.
-1636vi0g33x	Qui paie et la distribution des gains
-1hbjx3egntt	Sous les hypothèses de Coase, l’efficacité peut rester identique mais les revenus changent.
-25k435p854p	Rien du tout, même les paiements
-29w7447c3et	Le droit initial modifie le point de départ et les compensations.
-5wkpun1n0i	Même mécanisme, autres chiffres : les textiles
-t411qffao	Changeons de produit. Des textiles polluent ; les équations sont différentes, mais la question reste « quel coût les décisions privées oublient-elles ? ». Repars de cette question, puis construis les deux équilibres. Tu n’as pas besoin de mémoriser les résultats du marché de l’essence.
-1lh9l5a3q6s	Cas E2024 du dossier : MPB = 200 − Q, MPC = 80 + Q, MEC = Q, donc MSC = 80 + 2Q.
-v50oj8g3dw	Nommer le produit ne détermine pas la méthode ; les incitations et le coût absent la déterminent.
-17enm1zrbm5	L’équilibre privé ignore MEC, alors que l’optimum social l’ajoute.
-20wlm9ond74	La taxe se calcule seulement après avoir trouvé Q* ; la DWL mesure les unités excessives.
-30g4cpik6i	Qm = 60 ; Q* = 40 ; taxe optimale 40 ; hauteur de DWL à Qm : MSC − MPB = 200 − 140 = 60 ; DWL = ½ × 20 × 60 = 600.
-1y2zf9qkggk	Devant un nouvel énoncé, identifie les tiers et le coût ignoré avant de chercher une formule dans ta mémoire.
-zin21imwsf	Le graphique change de paramètres pour les textiles. Le raisonnement privé contre social reste identique.
-22shneqb7aw	Textiles : 200 − Q = 80 + 2Q. Quel Q* ?
-1a7ftp1zcvp	Avec MEC = Q, quelle taxe optimale pour les textiles ?
-1rh8bcex1gg	Qm = 60, Q* = 40, écart marginal final 60 : quelle DWL ?
-1shylkody4e	Ils prennent leurs décisions selon ce qu’ils reçoivent et paient.
-toplml3e4t	MEC ne figure pas dans la transaction privée.
-143h7tj332w	MSC = MPC + MEC additionne tous les coûts marginaux réels.
-17nsgm3nv7c	MPB = MPC donne Qm > Q*, où MSB = MSC.
-23icvn36mlf	t* = MEC(Q*) fait s’arrêter le marché concurrentiel à la quantité efficace.
-10nci0q87af	Le conducteur achète selon sa valeur privée et le prix ; la station produit selon son coût privé. Les riverains subissent un dommage qui n’entre pas dans leur transaction. Le coût social MSC = MPC + MEC dépasse donc le coût privé. Le marché Qm = 45 contient des litres dont le coût social dépasse la valeur ; Q* = 30 les exclut. Une taxe égale à MEC(Q*) = 30 fait payer ce dommage marginal et aligne les décisions privées sur la quantité efficace.
-lt2ka8zb9z	Le conducteur et la station comparent gains et coûts privés
-gjchva5wu9	Les riverains subissent un dommage non payé
-rem819d1sd	Le coût social dépasse le coût privé
-3p4qdy3lu5	Le marché consomme des unités socialement excessives
-1wbn1fasyu9	Une taxe évaluée à Q* corrige l’incitation marginale
-2296o3lm1q0	Explique à un ami pourquoi un plein peut être rentable pour l’acheteur et le vendeur, tout en contenant trop de litres pour la société. Relie les acteurs, le coût oublié, Qm/Q* et la taxe optimale.
-sskh3oy9ev	La décision privée
-1651rd9m10a	Le conducteur et la station ne comptent que les gains et coûts privés.
-15ys9rqcipq	Le coût des tiers
-15dt9443l7g	Le dommage aux riverains est absent du prix privé.
-232q03ik2o4	Pourquoi trop de litres
-207dsrvo8ko	MSC > MPC implique Qm > Q* : les unités en trop coûtent plus socialement qu’elles ne valent.
-g7kb51kx88	La correction
-20vtzby7bf	La taxe optimale est le dommage marginal évalué à Q*, et non à l’ancienne quantité.
-1a978kjd9h0	MEC mesure le dommage d’une unité de plus ; le dommage total additionne toutes les unités.
-12vgmb3diyy	Trouve Q* puis évalue MEC(Q*). La taxe change la quantité, donc l’ancien MEC(Qm) n’est pas la cible.
-75v2c6gbjo	La recette fiscale est un transfert reçu par l’État. La DWL mesure une perte nette de bien-être.
-16qpbt24691	Une usine paie ses salariés mais ne compense pas le bruit des voisins. Où est l’externalité ?
-dmjvodrdrb	Dans les salaires
-145imeugoyz	Ils sont déjà dans les coûts privés.
-2b72i52mohh	Dans le bruit non compensé
-10c88w50jn6	Il touche des tiers hors de l’échange.
-1rvaiqil4z	Pourquoi un échange volontaire peut-il être inefficace ?
-kdebpm9rcs	Parce que tout échange détruit du bien-être
-1qtzwu56gs9	L’échange peut produire un gain ; il faut compter tous les effets.
-xrin89ezrc	Des tiers peuvent supporter un dommage non payé
-1kg3j38aa3e	L’accord privé ne garantit pas le bien-être de tous.
-21clzhr7yxl	MEC désigne…
-1pghghsg15z	Le dommage total de toutes les unités
-10bqhiyo7v9	C’est l’intégrale de MEC.
-2g93wwa26j9	Le dommage aux tiers d’une unité supplémentaire
-ohoqokjp6p	Marginal = une unité de plus.
-2csziwrmm8s	Un droit de polluer bien défini avec négociation gratuite garantit sous Coase…
-1u9pks66g6h	Que l’État paie automatiquement tout dommage
-1y9d68aq214	Coase décrit la négociation des parties.
-18sl0y77vg4	Une possibilité de négocier efficacement, avec une distribution dépendant des droits
-ra58mmk0g1	Les hypothèses portent sur droits et coûts ; les paiements changent.
+10wep0uook	Le prix monte de 30 à 34, soit 4 sur 6 de taxe : une partie de la taxe est prise sur les marges des deux firmes.
+5pg84kr2ez	Sans taxe : q = 20 chacune, p = 30, profit 400. Avec t = 6 : q = 18, p = 34, profit (34 − 16) × 18 = 324 ; recette fiscale 6 × 36 = 216.
+1qdodfsggsx	Tu diriges la firme 1 : à q2 donné, tu vends 3 unités de moins qu’avant. Mais ta rivale fait pareil, ce qui te laisse un peu plus de demande : au final, tu ne baisses que de 2.
+1qfj0roxsxq	Taxe 6, coût effectif 16, p = 70 − q1 − q2 : si q2 = 18, quelle est la meilleure quantité de la firme 1 ?
+g6buq1ud1m	21 utilise l’ancienne réaction 30 − q2/2 : la taxe fait partie du coût de la firme.
+1cj8xyf2i9x	Nash avec taxe : q1 = q2 = 18. Quel prix ?
+1rk12u2kynp	30 est le prix sans taxe.
+247ot3nz4db	36 est la quantité totale, pas le prix.
+q3dt0e4o40	Comment la taxe déplace-t-elle les réactions dans le plan (q1, q2) ?
+1huv8cwf6ax	Les deux se rapprochent de l’origine, parallèlement
+518sgk5t7d	Pour toute quantité de la rivale, chaque firme produit 3 de moins : BR = 27 − qj/2.
+z2p9tflhut	Seule la réaction d’une firme bouge
+mc8nemgetp	Les deux firmes paient la taxe : les deux réactions bougent.
+28mmnwhkuct	Elles s’éloignent de l’origine parce que le prix monte
+13uw0r0wff2	Le prix monte parce que les quantités baissent, pas l’inverse.
+uwbhwagpo5	Une taxe de 6 par unité, payée par les deux firmes
+2ee081axghk	p = 70 − q1 − q2, MC = 10, puis taxe 6 : coût effectif 16. Chaque réaction recule de 3 pour toute quantité de la rivale : BR = 27 − qj/2. Nash passe de (20, 20) à (18, 18). C’est le schéma demandé en E2022 Q3e.
+o2xg7fbrgn	BR1 sans taxe : q2 = 60 − 2 q1
+6aarhxs8vm	Meilleure quantité de 1 pour chaque q2, coût 10.
+trpr4iw3xa	BR1 avec taxe : q2 = 54 − 2 q1
+1ofqrp2s59m	Même raisonnement avec un coût de 16 : 3 unités de moins pour chaque q2.
+1yxoezvlvky	BR2 sans taxe : q2 = 30 − q1/2
+23j47npzz9i	Meilleure quantité de 2 pour chaque q1, coût 10.
+o7w67qqmze	BR2 avec taxe : q2 = 27 − q1/2
+233wbmi9i3p	La firme 2 paie aussi la taxe : sa réaction recule de 3.
+19km7tb6bs8	Nash sans taxe
+q6vuos3kpm	Nash avec taxe
+2cpss1bptex	Les coûts fixes affectent les comptes, puis éventuellement l’entrée
+q47pv23qfq	Une firme paie un loyer supérieur à celui de sa rivale. Tant que ce paiement est inévitable et que toutes deux restent actives, il ne change pas ce que coûte une unité supplémentaire. Elles peuvent donc produire les mêmes volumes et pourtant avoir des profits différents.
+13f6200u5eg	À p = 30, qi 20, MC = 10 : profit variable 400 ; avec FC = 100, π = 300 ; avec FC = 500, π−100. L’arrêt de court terme et l’entrée de long terme ne sont pas le même choix.
+1yrv1ckqgtj	FC disparaît de la dérivée par rapport à qi.
+1d3tuxk9gtr	Si produire crée 400 de gain variable, produire avec FC = 500 perd 100 au lieu de perdre 500 en arrêtant, quand FC est irrécupérable.
+gh3fznz39t	Si l’on peut éviter ce coût en n’entrant pas, la décision préalable peut être de ne pas entrer.
+1u5z1mzjaka	E2021 : mêmes MC = 8, mais FC = 100 et 50 ; quantités 8 chacune, prix 24, profits 28 et 78. La différence 50 de profit vient des coûts fixes.
+14w37tm5ozk	Tu es gestionnaire : distinguer « ne pas ouvrir l’usine » et « produire aujourd’hui après avoir déjà payé » change le benchmark.
+m3z3f6ui5p	Profit variable 400, coût fixe 500 déjà irrécupérable : arrêter ferait perdre 500. Produire donne π−100. Quel choix maximise le profit courant ?
+2npz0objg1	Produire
+24mzx3l1rsj	−100 vaut mieux que−500 ; le gain variable 400 couvre ses coûts variables.
+9vzoa0caw2	Arrêter car tout profit négatif impose l’arrêt
+27pg9lrwtb8	Tu oublies la perte inévitable même sans production.
+1u6jc9294f7	Produire seulement si FC devient 0
+p6hvpyxzjs	Le coût fixe déjà payé n’est pas évitable par ce choix courant.
+1gqadopsiit	Ajouter une firme intensifie la concurrence en quantités
+1coqtx16nka	Une firme supplémentaire ajoute de l’offre. Chacune des anciennes réagit en réduisant son propre volume, mais cette réduction ne compense pas entièrement l’arrivée. Dans le modèle symétrique sans changement de coût, le total augmente et le prix baisse.
+vhwl1ptqq	p = a−bQ, MC = c, n firmes : qi = (a−c)/[b(n+1)], Q = nqi, p = (a+nc)/(n+1). Ici n3 donne qi 15, Q = 45, p = 25.
+13foscqxhkl	Chaque firme contrôle une fraction plus faible de l’effet de rareté qui soutient le prix.
+p9v59i1uan	Quand n augmente, qi diminue mais nqi augmente.
+ec3c3autil	Une fusion sans synergie réduit n et tend à augmenter le prix dans ce modèle ; des coûts ou produits modifiés demandent une autre analyse.
+ico8rjevpr	n2 : Q = 40, p = 30 ; n3 : Q = 45, p = 25 ; limite n → ∞ : Q = 60, p = 10. Trois firmes ne signifient pas automatiquement concurrence parfaite.
+283twvlhjph	Tu évalues une fusion : annonce « coûts inchangés » avant d’appliquer la comparaison du nombre de firmes.
+162gbbz4dsn	p = 70−Q, MC = 10, n3 identiques : combien produit chaque firme ?
+cgar9jdpgn	20 correspond au duopole, avec n+1 = 3.
+fs0c9gwahy	45 est le total des trois firmes.
+261zgqoduz3	Même demande et même coût, règles différentes
+gtkdpurany	Unités totales : p = 70 − Q, MC = 10, FC = 0
+iktdxhbknl	Comparer ces modèles exige de garder les mêmes coûts et demandes. Cournot 3 et Stackelberg 2 donnent ici Q = 45, mais pas la même répartition entre firmes.
+1r3zg0ybji1	Monopole commun
+2fkts3m861p	MR = MC ; prix 40.
+8xrm233agr	Cournot 2
+zfi9oetdv0	Deux quantités simultanées ; prix 30.
+bqwejyqw98	Stackelberg 2
+27rbwiw4wm9	Leader 30, suiveur 15 ; prix 25.
+8lam6xr1gm	Cournot 3
+6jp1vl12vb	Trois firmes à 15 ; prix 25.
+15k7i5br1qi	Bertrand homogène
+2d2kriccppu	Prix égal au MC = 10 si capacités suffisantes et mêmes coûts.
+28vt86q5fyk	Un leader choisit en anticipant la réaction
+xfmcyg8xa	Firme 1 s’engage sur sa quantité avant 2. La seconde observera cette quantité et choisira son meilleur volume. Le leader connaît cette réaction : quand il change son engagement, il sait que le suiveur changera aussi, donc il ne peut plus traiter q2 comme constant.
+2dm0je8wbtk	BRF(qL) = 30−qL/2. Substituer dans πL = (60−qL−qF)qL donne πL = (30−qL/2)qL ; FOC = 30−qL = 0 → qL = 30, qF = 15.
+14blqi379k9	Le suiveur optimise après avoir observé, donc sa réaction est une contrainte anticipée par le leader.
+23r30yapi6y	Le leader choisit sur cette réaction, pas à l’intersection des deux réactions simultanées.
+2brefw4bk59	Oublier dqF/dqL ferait revenir au raisonnement Cournot et manquerait l’engagement.
+1o8mkwriu2y	Q = 45, p = 25 ; πL = (25−10)×30 = 450 ; πF = (25−10)×15 = 225. Le couple (30,15) appartient à BRF mais pas à BRL Cournot.
+tc3otvdhru	Tu choisis en premier : une grande production crédible décourage une partie du volume que ton rival ajoutera ensuite.
+rnmxvsl20t	Le leader choisit 30 et BRF = 30−qL/2 : volume du suiveur ?
+26th2e80zvq	20 appartient au Nash simultané, pas à ce choix observé du leader.
+ynybqo8zpd	Remets la résolution séquentielle dans l’ordre.
+65ler1c18n	Résoudre la meilleure réponse du suiveur
+1b4v4gudgzb	La substituer dans le profit du leader
+10b9nl8k4fp	Maximiser le profit du leader en anticipant cette réaction
+13sfbp2iagv	Retrouver le choix du suiveur puis prix et profits
+chiylbwxmf	Résoudre la meilleure réponse du suiveur → La substituer dans le profit du leader → Maximiser le profit du leader en anticipant cette réaction → Retrouver le choix du suiveur puis prix et profits
+27rvbh5q8ap	Même environnement, mais résultats différents
+m78jnb9qde	Le monopole commun limiterait le total pour soutenir le prix. Deux firmes choisissant simultanément produisent davantage parce que chacune veut gagner des ventes. Un leader en quantités s’engage encore davantage ; cela bénéficie ici aux clients mais réduit le profit du suiveur.
+9br33qdw9z	Avec p = 70−Q, MC = 10, FC = 0 : monopole Q = 30, p = 40 ; Cournot Q = 40, p = 30 ; Stackelberg Q = 45, p = 25 ; benchmark efficient Q = 60, p = 10.
+18fjhseo70i	L’engagement du leader modifie la réaction anticipée, donc change le résultat sans changer les préférences des clients.
+op91mwz20w	Le leader gagne 450 au lieu de 400 ; le suiveur 225 au lieu de 400.
+1q4jtopds29	Ce first-mover advantage est un résultat du jeu en quantités, pas une loi universelle de tous les jeux séquentiels.
+27rfh159b3a	Cournot 3 et Stackelberg 2 donnent tous deux Q = 45, p = 25 ici ; les volumes individuels 15/15/15 et 30/15 restent très différents.
+9qkomdf6iy	Tu compares deux copies : garde le même a, b, c avant de conclure qu’un modèle donne un prix plus élevé.
+2fa3lxjguzr	Le leader gagne davantage en Stackelberg quantités ici. Cela prouve-t-il un avantage du premier dans tous les jeux de prix ?
+2qhch8nz4p	Non : variable stratégique et réactions changent
+wo0pp7iwiw	Le leadership en prix peut favoriser encore plus le suiveur, comme E2024.
+1dhfbwnqfrn	Oui, « premier » suffit
+1zpzudxur9g	Le timing seul ne détermine pas les profits.
+27u5ggzlehh	Non, parce que le leader gagne moins ici
+2atvrcuye88	Ici 450>400 : le résultat est vrai mais spécifique.
+2bmxb1qs44h	Bertrand homogène : pourquoi la sous-enchère casse la marge
+149tatv8akr	Les clients trouvent les produits identiques et achètent au moins cher. Si les deux firmes à coût 10 demandent 12, l’une peut demander juste moins et attirer tout le marché avec une marge positive. À 10, sous-enchérir lui ferait perdre de l’argent sur chaque unité.
+13d755qh3ra	Produits homogènes, mêmes MC constants, au moins deux firmes, capacité suffisante et prix continus : Nash p = MC. Ici p = 10, Q = 60 et marge variable nulle.
+28h7zqogr47	Une faible baisse de prix peut déplacer presque toutes les ventes plutôt qu’un petit volume marginal.
+qurugi23fk	p>MC permet une sous-enchère profitable ; p<MC crée une perte par unité.
+1g0yfolub57	Capacité, différenciation, recherche ou répétition peuvent changer le résultat : il faut vérifier les hypothèses.
+1xg0i9kq8vr	À prix 12, une firme propose 11,99 et peut servir toute la demande 58,01 ; la marge 1,99 rend cette déviation attractive sous ces hypothèses.
+252fmhk13e2	Tu vends exactement le même produit à côté du rival : pourquoi un client paierait-il 12 chez toi s’il peut payer 11,99 ailleurs ?
+169fd52wpb1	Deux firmes identiques, homogène, MC = 10, capacité illimitée : prix Bertrand ?
+23b4fdvhc20	À p = 10 aucune sous-enchère profitable ne reste ; p>10 est déviable.
+2buardn51ak	30 est le prix Cournot pour cet environnement.
+1at1wo82605	Vendre sous MC = 10 ferait perdre de l’argent.
+gnvazrh4mi	Si le rival moins cher ne peut servir qu’une petite partie des clients, le raisonnement « il capte tout le marché »…
+251m1ryrh5l	Doit être reconsidéré
+2g7e58kdhad	La capacité insuffisante casse une hypothèse essentielle du résultat p = MC.
+267w87zev6y	Reste exact par définition de Bertrand
+2csw3i0hh8u	Le nom du jeu ne donne pas une capacité illimitée.
+opzah6ttoy	Prouve que les produits sont différenciés
+no3j98hcir	Une contrainte de capacité peut exister avec produits identiques.
+25bv3cgxc1v	Bertrand à coûts différents : une marge peut subsister
+1mt1y2o5fpl	Le vendeur le plus efficace peut baisser son prix jusqu’à décourager un concurrent plus coûteux sans atteindre son propre coût. Sa limite dépend du meilleur rival encore capable de fournir, pas automatiquement de son propre MC. Les égalités de prix demandent aussi de préciser comment les clients se répartissent.
+1nglejy2bcb	E2024 : demande 10−Q et MC = 5,7,8. Le plus efficace est limité autour de 7 ; écrire 7−ε peut être approprié avec partage égal aux prix identiques. Son prix de monopole seul serait 7,5.
+185fu1welyf	Sous 7, la firme MC = 7 ne peut rivaliser avec une marge positive tandis que la firme MC = 5 garde une marge proche de 2.
+ikgr0hyec7	Au-dessus 7, le rival peut devenir rentable et sous-enchérir.
+3ichwkfnpf	En prix continus et avec partage égal à égalité, annoncer p = 7 exact comme Nash pur exige une justification ; la limite ne suffit pas à prouver l’existence.
+1nscbzu1pm5	À 7−ε, la firme MC = 5 vend environ 3+ε unités ; marge environ 2−ε. Le rival MC = 8 n’est pas le concurrent le plus contraignant.
+1ksf4882tlj	Tu observes une marge dans un marché homogène : regarde si les coûts sont vraiment identiques avant de déclarer le modèle faux.
+243eaow3n26	Avec MC = 5,7,8, quel rival contraint directement le prix de la firme MC = 5 dans cet exemple ?
+2e0wtvth3jb	La firme MC = 7
+1mv6wzb738t	Elle est la meilleure alternative capable de sous-enchérir au-dessus de 7.
+gdiglb1n8	La firme MC = 8
+24lbqzlediq	Le rival MC = 7 est plus compétitif.
+2eouvkbscyb	Aucun : le prix reste toujours 7,5
+1sq05l87ru2	Le prix de monopole 7,5 laisse une possibilité de sous-enchère au rival MC = 7.
+2d3o9dlmxe2	Bertrand différencié : le client ne part pas toujours
+td5qhzs81x	Les produits se ressemblent sans être identiques. Une hausse de ton prix réduit tes ventes, mais ne les élimine pas toutes, car certains clients préfèrent ton produit. Si ton rival augmente son prix, une partie de sa clientèle vient chez toi : tu peux alors relever ton meilleur prix.
+1mtwyndvtyv	L10 : qi = 85−pi+0,5 pj, MC = 11. FOC = 85−2 pi+0,5 pj+11 = 0 ; BRi = 48+pj/4. Symétrie : p = 64, qi 53, πi = 2809 avec FC = 0.
+299v93apkzh	Chaque firme maximise (pi−ci)qi avec le prix rival fixé.
+2cyuwwi6ksi	Le terme positif du prix rival dans la demande donne une réaction de prix croissante.
+bcs48s5tt6	Le résultat p = MC du produit homogène ne s’applique pas à cette demande différenciée.
+5nparurvik	p = 48+p/4 → 3 p/4 = 48 → p = 64 ; q = 85−64+32 = 53 ; marge 53, profit 53² = 2809.
+1nbi2ia390c	Tu diriges un café apprécié pour son emplacement : un concurrent moins cher peut te prendre des clients sans emporter toutes tes ventes.
+1w5pfunzhzw	BRi = 48+pj/4, mêmes firmes : quel prix symétrique ?
+nsdnk2xjbn	11 impose le résultat homogène malgré une demande différenciée.
+1h5emyulprz	48 correspond à un rival qui fixerait 0, pas à l’équilibre symétrique.
+2ezl3wl59w5	qi = 85−pi+0,5 pj avec pi = pj = 64 : qi ?
+18u5fvvoyad	Différenciation : meilleures réponses en prix
+1smz2df8jju	p1 : prix de firme 1
+o3jrd78w5e	p2 : prix de firme 2
+tnp42qhop	L10 : qi = 85 − pi + 0,5 pj, MC = 11. BRi = 48 + pj/4. Dans ces axes, BR1 se réécrit p2 = 4 p1 − 192 ; BR2 = 48 + p1/4. Intersection p1 = p2 = 64, qi = 53.
+21cctigpf1d	BR1 réécrite : p2 = 4 p1 − 192
+18vomptuzmf	Quand le rival augmente son prix, 1 peut augmenter son meilleur prix.
+1e7qe00eheo	Les prix sont stratégiquement complémentaires dans ce modèle de substituts.
+1yhipio1se7	Nash en prix
+21c391d7dqm	Un choc de coût déplace les réactions, puis les rivaux répondent
+2qomm8antm	Une taxe peut augmenter le coût effectif de chaque vente. Une firme relève alors son meilleur prix pour un prix rival donné ; si les deux firmes sont touchées, les deux réactions bougent. Le nouveau prix inclut ces ajustements réciproques : la transmission n’est pas celle d’un marché concurrentiel par défaut.
+1mr0cmozdni	E2025 : qi = 10−2 pi+pj, MC physique 0 ; taxe t donne coût effectif c = t. BRi = (10+2 c+pj)/4 ; prix symétrique p = (10+2 c)/3.
+f75kp664n4	La taxe est un coût privé par vente pour la firme, même si sa recette reste un transfert pour W.
+26q702fr11j	Après une modification, on résout le nouveau système plutôt que de garder le rival éternellement à son ancien prix.
+1aaq5nd0tou	Pour t 2 → 1, le prix baisse 2/3 et non 1 ; marge nette et quantité augmentent ici.
+1pkujus1qws	t = 2 : c = 2, p = 14/3, q = 16/3, π = 128/9. t = 1 : c = 1, p = 4, q = 6, π = 18. Recettes totales :2×2×16/3 = 64/3 puis 1×2×6 = 12.
+n7lojskjun	Tu es client : une baisse de taxe 1 ne garantit pas une baisse de prix 1 dans ce jeu différencié.
+1zgbv4wzyer	qi = 10 − 2pi + pj, aucun coût de production, taxe t = 1 (coût effectif 1) : prix symétrique ?
+1mlcv7la87b	Coût effectif 1 ; p = (10+2×1)/3 = 4.
+2cq02r8eka2	1 est le coût effectif, pas le prix de la firme différenciée.
+1yfe9mxxpxp	Prix 14/3 avec t 2 puis 4 avec t 1 : baisse de prix ?
+28wv8esmas6	1 est la baisse de taxe ; le pass-through est partiel ici.
+29m31ci2h29	Leader en prix : refaire la substitution, pas recycler une formule
+17w2h5rvpmr	Le premier vendeur choisit maintenant un prix, pas une quantité. Il anticipe une réaction de prix du second. Comme une hausse de prix peut encourager le suiveur à relever aussi le sien, l’avantage du premier n’est pas celui du leader en quantités ; le suiveur peut même gagner davantage.
+opdqir32bd	E2024 ne précise pas les coûts. Sous hypothèse MC = FC = 0 : q1 = 6−2 p1+p2, q2 = 6−2 p2+p1. Si 2 est leader : BR1 = (6+p2)/4 ; q2 = 7,5−1,75 p2 ; p2 = 15/7, p1 = 57/28.
+clx7od1hm3	La réaction dépend de la variable stratégique : on ne substitue pas une réponse de quantité dans une demande en prix.
+dgui8wikl1	Sans coûts précisés, les résultats numériques sont conditionnels, pas un corrigé inconditionnel.
+1h4nhwztsqg	Ici π2 = 225/28≈8,036 et π1 = 3249/392≈8,288 : tous deux dépassent 8 du simultané, mais le suiveur gagne davantage.
+hzdd73dyqc	Simultané avec coûts nuls :p1 = p2 = 2, q1 = q2 = 4, πi = 8. Le passage séquentiel ne donne ni qL = 30 ni la formule (a−c)/(2b) du précédent jeu en quantités.
+1n5da2p2ama	Tu lis « firm 2 moves first in prices » : écris la réaction en prix de 1 etl’hypothèse de coûts avant de calculer quoi que ce soit.
+jl8r6c9adb	Les coûts sont absents de l’énoncé E2024. Comment présenter p2 = 15/7 ?
+17i8g84pn10	Comme résultat sous hypothèse explicite MC = FC = 0
+fvckyyps52	Les paramètres de coût manquants ne peuvent pas être inventés silencieusement.
+1wcy0b4mq7j	Comme valeur officielle certaine quel que soit MC
+18g6mtodcrm	Un changement de coût change les meilleures réponses.
+5oxv3f5k8h	Comme résultat automatique de Stackelberg quantités
+1xlgyu7sjpf	La variable stratégique est ici le prix.
+c3nj94hyyz	q2 = 7,5−1,75 p2, coûts 0. FOC = 7,5−3,5 p2 = 0 : p2 ?
+1qxbibm6ddz	2 correspond au Nash simultané, sans anticipation de la réaction.
+7lls7zzi7y	Résoudre le jeu en remontant depuis le suiveur
+28jsgs93mif	Exemple E2024 sous hypothèse explicite MC = FC = 0. Le leader choisit un prix, donc on substitue une réaction de prix ; ce n’est pas la formule de Stackelberg en quantités.
+134u1ymej30	Firme 1, suiveur
+1tsfdvl5v1s	Pour tout p2, maximise (6 − 2 p1 + p2)p1.
+duz6rhkbmv	Firme 2, leader
+7nuc3bqev2	Anticipe ce choix et remplace p1 dans sa demande.
+298uxluhzkw	Maximise p2(7,5 − 1,75 p2).
+12tbh8hbsmm	p2 = 15/7, puis p1 = 57/28.

@@ -1,182 +1,203 @@
-1o5erzw7b5l	Deux triangles :0,5×10×10 +0,5×10×10=100.
-5mzj28x80t	200 est la recette de l’État, un transfert domestique dans ce benchmark.
-oai01gjw2o	450 est la perte CS ; elle comprend aussi les transferts vers producteurs et État.
-2471u0ya2cb	Au-delà de l’autarcie, la formule p_w+τ s’arrête
-198b82q7sod	Le prix d’autarcie de notre pays vaut 50. Un tarif de 30 ferait naïvement annoncer un prix 60, mais à ce prix il n’y aurait plus besoin d’importer : le marché peut s’équilibrer localement à 50. Une fois le tarif prohibitif, il ne crée pas des recettes sur des importations inexistantes.
-a4d4dmi18m	Seuil prohibitif=p_autarcie−p_w=20. Pour τ≥20 dans ce modèle, M=0 et p=50. Un grand pays qui influence p_w exige un autre modèle de termes de l’échange.
-3knvc455fe	Au prix au-delà de 50, l’offre domestique dépasserait la demande ; l’importation n’impose donc plus le prix marginal.
-14380gr7j0n	L’hypothèse de petit pays exclut les effets sur p_w ; il ne faut pas importer une conclusion de grand pays sans l’analyser.
-14y5q611pp1	τ=30 : p=50, Q_D=Q_S=30, M=0 et recette 0. Ce n’est pas p 60, Q_D=20, Q_S40 avec des « importations−20 ».
-17j1hv5tht9	Tu contrôles M≥0 avant d’appliquer une formule de pays importateur ; une importation négative indique que tu as changé de régime.
-1svndx0i1nq	p_D = 80−Q, p_S = 20+Q, p_w = 30, tarif 30 : quel prix intérieur ?
-1j61prjd4p2	Le prix autarcique vaut 50 et le tarif est prohibitif : le pays cesse d’importer.
-md2av90rxn	p_w+τ=60 ne s’applique plus car le pays ne reste pas importateur.
-1harw0r6zqq	Pourquoi ne pas conclure ici sur un tarif optimal de grand pays ?
-1jjnsjmv2xp	Le prix mondial est pris comme donné dans notre modèle
-28e8dn1fr5f	Un effet sur le prix étranger et les termes de l’échange nécessiterait d’autres relations.
-1lko7zhnnp6	Parce qu’aucun pays ne peut influencer le prix mondial
-23osnd5dgzg	C’est une hypothèse du petit pays, pas une vérité universelle.
-1g2kpf11bf0	Un pays qui gagne peut contenir des personnes qui perdent
-1cpwmxx4nnm	Une nourriture importée moins chère bénéficie aux consommateurs. Mais les propriétaires de terres agricoles reçoivent moins pour leur production ; le travail peut quitter l’agriculture et rejoindre les manufactures. Le gain total éventuel ne rembourse pas automatiquement chaque perdant.
-xewgl44cxy	Facteurs spécifiques : terre liée à l’agriculture, capital lié aux manufactures, travail mobile. Chaque secteur embauche selon p_j MP_Lj=w ; effets distributifs distincts des gains agrégés.
-1amlx0d4v9x	La baisse du prix agricole réduit la valeur du produit marginal du travail agricole à emploi donné.
-ezwph7ndt	L’ajustement du travail change les revenus des facteurs spécifiques ; l’effet du salaire réel du travail dépend aussi de son panier et des prix.
-1yai4emgfn1	Pays importateur de nourriture : prix importé plus bas peut améliorer les termes de l’échange, tandis que les propriétaires de terre perdent. Pour un exportateur agricole, prix reçu plus bas détériore au contraire les termes de l’échange.
-27gxj8hiqdw	Tu es propriétaire d’une terre : « le pays gagne » n’est pas une description de ton revenu. Demande quel prix ton facteur sert à produire.
-22lx9oj0iv0	Une hausse du bien-être national prouve-t-elle que chaque propriétaire de facteur gagne ?
-1wih37boki4	Non, les effets dépendent du secteur et du facteur
-3tr9dy3z1z	Le gain agrégé peut coexister avec des pertes pour la terre ou un autre facteur spécifique.
-1os4d5ay9fm	Oui, car le surplus total est partagé automatiquement
-1uv6pmcz876	L’agrégation ne décrit pas la compensation effective des perdants.
-wpkicf9ytp	Oui, le salaire réel augmente forcément dans tous les biens
-ada8r6mgjk	Le salaire réel dépend du salaire nominal et du panier de prix.
-aquuyapeum	La valeur d’une plateforme vient aussi de qui s’y trouve
-m7keekapo7	Tu veux louer du matériel sportif. Une application vide t’aide peu ; elle devient utile si beaucoup de propriétaires y proposent du matériel pertinent. Ces propriétaires, eux, ont davantage intérêt à venir s’il y a déjà des locataires : chaque côté influence la valeur de l’autre.
-19o65l35h6	Effet de réseau indirect/croisé : plus de participants d’un côté attire l’autre. Effet direct : utilisateurs du même côté qui augmentent la valeur entre eux, comme dans un jeu multijoueur.
-27sgiz6q9jm	La plateforme organise une interaction, pas seulement une collection de pages.
-1i5upk2f261	Un réseau direct relie l’utilité à son propre groupe ; un effet croisé passe d’un groupe à l’autre.
-1ei63toaf0v	Artistes nombreux attirent le public ; public nombreux attire les artistes. Des avis fiables et le paiement sécurisé rendent aussi les interactions possibles, indépendamment du simple nombre de comptes.
-1tpmhgf9wq7	Tu demandes « plus de qui rend ce service utile pour qui ? ». Cette phrase identifie les deux côtés et le sens de l’effet.
-1xztqyf3iyt	Plus de loueurs attirent les locataires. Quel effet ?
-fx8mrpn5jf	Indirect/croisé
-3jqm7wi211	La valeur augmente d’un côté grâce à la présence de l’autre côté.
-1ctx2ttf3qf	Direct entre locataires
-jpgrh4fsvy	Les nouveaux participants sont des loueurs, pas des locataires du même côté.
-z2i2gtmvcl	Coût marginal forcément décroissant
-1cdqj1kvscx	L’effet décrit la valeur du réseau, pas directement la technologie de coût.
-p9uuxu76dt	Pour démarrer, il faut donner une raison au premier côté de venir
-fknxyfc8f6	Sans loueurs, personne ne vient louer ; sans locataires, personne ne propose son matériel. La plateforme peut subventionner un côté pour rendre la venue de l’autre intéressante. Offrir un accès gratuit peut donc créer le réseau, en plus de trier les utilisateurs selon leur disposition à payer.
-17mvw817jez	Chicken-and-egg problem : complémentarité de participation entre côtés. Freemium peut combiner amorçage du réseau et self-selection.
-5btdvzerdv	Le coût d’attirer un côté peut être compensé par la valeur qu’il crée pour l’autre.
-1hj5binnx3w	La bonne subvention dépend des réactions et des revenus de chaque côté ; « tout gratuit » ne constitue pas à lui seul un modèle rentable.
-cr62oruosq	Un concert peut offrir l’accès aux premiers artistes pour attirer un public, puis monétiser une autre interaction. Il faut encore vérifier l’appariement, la qualité et la confiance.
-nwr71vis1u	Tu lances la plateforme : dis quel côté reçoit l’aide, quel autre côté réagit et comment la plateforme pourra récupérer de la valeur.
-1bp3qy6q1wn	Reconstitue une stratégie d’amorçage plausible.
-2cq19lalp6t	Faible participation de chaque côté rend l’autre peu attirant
-21gqyt721le	Aide ciblée pour attirer un premier côté
-22y7hudo2me	Valeur accrue de la plateforme pour l’autre côté
-269ql8fmjlb	Participation croisée puis possibilité de monétisation à vérifier
-53yf5k6o9h	Un gros réseau n’est pas automatiquement un monopole naturel
-h0f2wp8q18	Un utilisateur peut parfois garder des comptes sur plusieurs applications sans coût élevé. Un entrant peut alors attirer des interactions sans faire abandonner entièrement le réseau existant. À l’inverse, exclusivité et coûts de changement compliquent cette arrivée.
-7ia8cy7wiz	Multi-homing : utiliser plusieurs plateformes. Single-homing : une seule. Effets de réseau peuvent favoriser concentration ou tipping, mais ne démontrent pas un monopole naturel dans tout marché numérique.
-1ga74lzcwiz	Le réseau installé devient moins inaccessible si ses utilisateurs peuvent aussi rejoindre le nouveau service.
-3awsnfop66	La concentration dépend également de la qualité, différenciation, congestion, règles d’exclusivité et coûts de changement.
-1kdojb4z4fm	Un propriétaire peut publier son matériel sur deux applications. Une clause d’exclusivité ou une réputation non transférable peut rendre ce multi-homing plus difficile.
-88txjwalm1	Tu analyses une plateforme dominante : cherche ce qui empêche réellement un utilisateur ou fournisseur d’essayer un rival.
-1gdgdqsakzd	Quel élément facilite l’entrée d’une autre plateforme, toutes choses égales ?
-iyri5n8kkx	Multi-homing facile des utilisateurs
-znmjb1pxv4	Ils peuvent accéder à l’entrant sans quitter entièrement l’incumbent.
-1x3l5m7ex8d	Exclusivité obligatoire des vendeurs
-digq3snslv	Elle prive l’entrant d’un côté du marché.
-ksejfuk0sr	Coûts de changement très élevés
-1tqvck5p5d2	Ils rendent le transfert des utilisateurs plus difficile.
-qwglzmcvex	Dans une vente au second prix, ton offre décide surtout si tu gagnes
-1pxphvfrt9t	Tu participes à une enchère scellée où le plus offrant gagne, mais paie la deuxième offre. Ton offre ne fixe donc pas directement ton prix si tu gagnes. Avec valeurs privées dans le modèle de base, annoncer ta vraie valeur te fait gagner exactement lorsque le meilleur prix rival ne dépasse pas ce que l’objet vaut pour toi.
-zd5np4j5sa	Vickrey : vente au second prix. L’offre sincère est faiblement dominante sous les hypothèses de valeurs privées et d’utilité monétaire du modèle.
-8zz7avwta8	Si le prix rival est inférieur à ta valeur, gagner est profitable ; sous-offrir pourrait t’en priver.
-j53reerfah	Si le prix rival dépasse ta valeur, gagner ferait perdre ; sur-offrir pourrait créer cette perte.
-89108m52ls	Valeurs 80,100,92 millions, offres sincères : joueur 2 gagne, paie 92 et obtient 100−92=8 de surplus.
-1sgyf0zwsd4	Tu vaux 100 l’objet : une offre au-delà de 100 ne baisse pas le prix rival et peut te faire accepter un prix qui te fait perdre.
-20zanplfq4u	Vente au second prix : les valeurs ne sont pas toutes payées
-1yyyg5zvba8	millions
-1rp18ru01ha	Valeurs privées 80,100,92 ; offres sincères. Le joueur 2 gagne et paie 92, non 100. Son surplus monétaire est 8.
-d4t7z7s1n1	Valeur joueur 1
-12jlipm89kf	Offre 80 sous sincérité.
-29i202o0eue	Valeur joueur 2, gagnant
-v4k4mbiyqt	Plus forte valeur, offre 100.
-2g92mteqama	Valeur joueur 3 / prix payé
-291rtt2qsu2	Deuxième offre la plus haute : elle détermine le paiement du gagnant.
-1s7f25xpctx	Valeurs privées 80,100,92, offres sincères : combien paie le gagnant ?
-1r4bfo2gufy	Le gagnant est le joueur 2 à 100 ; il paie la deuxième offre 92.
-6czq4rmzh	100 est son offre et sa valeur, pas le paiement au second prix.
-1lfcr3q5gpo	80 est la plus faible offre, pas la deuxième plus haute.
-28ii63iqisa	Quel surplus reçoit le gagnant qui valorise 100 et paie 92 ?
-1q0jxgxprm1	Valeur−paiement=100−92=8.
-1uslufmpxl8	La règle de paiement est une hypothèse, pas un détail
-11jridxsq5l	Imagine que tu valorises l’objet 100. Au second prix, sous-offrir 90 peut te faire perdre contre 95 alors qu’acheter à 95 aurait donné 5 de gain. Dans une enchère au premier prix, ton offre devient ton paiement : la logique de l’offre sincère ne se transpose donc pas.
-1qel749iqne	La sincérité faiblement dominante concerne la règle Vickrey du modèle. Au premier prix, le compromis entre probabilité de gagner et marge impose une analyse stratégique des rivaux.
-1p0d1dd6eh4	Au second prix, modifier son offre sans changer le gagnant ne modifie pas le prix fixé par les autres.
-1p6sp89tsit	Au premier prix, relever son offre réduit directement le surplus conditionnel à la victoire ; il faut des croyances supplémentaires pour calculer une offre optimale.
-28b76gxt6pr	Vraie valeur 100, meilleure offre rivale 95 : offrir 100 gagne au prix 95 ; offrir 90 perd un gain 5. Offrir 110 face à 105 ferait gagner avec une perte 5.
-29znnipkc02	Tu lis « winner pays own bid » : arrête de réciter « bid your value » et identifie le nouveau compromis.
-2gefmprwxai	L’offre sincère est-elle faiblement dominante dans toute enchère ?
-26m5d8fyydi	Non, il faut la règle au second prix et ses hypothèses
-75givght3h	Le premier prix et les valeurs communes changent le problème.
-1paa2o84256	Oui, quel que soit le prix payé
-1yboyg7u7gq	Au premier prix, ton offre détermine ton paiement ; la preuve précédente ne fonctionne plus.
-rqtkzajnfn	Quand l’acheteur est l’État, le sens du classement s’inverse
-1np1hijf6fw	La mairie achète un service identique auprès de trois entreprises. Elles ont des coûts 20 000,24 000 et 28 000. Dans une enchère d’achat au second prix inversé, la moins chère gagne mais reçoit la deuxième plus faible offre : elle conserve l’écart comme profit.
-1yyobgm5t57	Reverse second-price procurement : plus faible offre gagne, paiement égal à la deuxième plus faible, sous même qualité et coûts privés du modèle.
-1whafo9hpyj	Le donneur d’ordre veut acheter un service, pas vendre un objet au plus offrant.
-1pmat6sqlk9	La règle donne au fournisseur une raison de révéler son coût dans le modèle de coûts privés, mais cela ne règle pas automatiquement la qualité cachée après attribution.
-gn97z3rwp1	A gagne avec coût 20 000, reçoit 24 000 et gagne 4 000. Paiement 24 000 n’est pas profit 24 000.
-12idvs98ydx	Tu es A : ta marge vaut le paiement reçu moins tes ressources utilisées ; conserve la même unité monétaire dans les deux termes.
-1mrijou06sm	Coûts 20 000,24 000,28 000 et enchère inversée au second prix : paiement du gagnant ?
-1tmi6mcyxz3	La plus faible offre gagne ; le paiement est la deuxième plus faible 24 000.
-bnav75dygd	20 000 est son coût/offre, pas le paiement de cette règle.
-2eyo8oyoabu	28 000 est la troisième offre.
-21rjpw90zg6	Coût 20 000, paiement 24 000 : profit du fournisseur ?
-2e749kf9dxf	Gagner peut révéler que tu étais le plus optimiste — si tu avais un signal privé
-2u0dow4iak	Plusieurs entreprises estiment le coût incertain d’un même chantier. Si chacune reçoit un signal privé et que la moins-disante gagne, gagner peut indiquer qu’on a sous-estimé le coût par rapport aux autres. En revanche, un choc météo commun connu seulement par la même distribution publique ne suffit pas à prouver cette sélection informationnelle.
-1afutqcams3	Winner’s curse : information contenue dans l’événement « gagner », dans un modèle de valeur/coût commun avec signaux privés. E2025 ne spécifie pas à lui seul ces signaux.
-tp0a49uz7m	Un gagnant sélectionné sur une estimation extrême doit réévaluer l’estimation conditionnellement à sa victoire.
-1681zjo7y7i	Sans informations privées différentes, il manque ce mécanisme de sélection ; le risque contractuel reste à analyser avec les données présentes.
-1i0js9wqrfz	Pour une vente, le gagnant peut être le plus optimiste sur la valeur. Pour un marché de travaux, il peut être le plus optimiste sur un faible coût, d’où le risque de contrat déficitaire.
-12ntrnt1nq2	Tu rédiges « winner’s curse » seulement après avoir dit qui observe quel signal et pourquoi gagner apporte une information supplémentaire.
-1tlfy7z9zcv	Un énoncé dit seulement « la météo future affecte le coût de tous ». Peut-on affirmer une winner’s curse informationnelle ?
-1aup9xcakyh	Non, les signaux privés et la sélection ne sont pas encore précisés
-2ev516285mn	Le choc commun crée du risque, pas automatiquement un désavantage informationnel conditionnel à la victoire.
-1pjda9sa70f	Oui, tout risque commun suffit
-178gwbmim18	C’est le piège de E2025 : il faut expliquer l’information supplémentaire révélée par gagner.
-sj35okbcu3	Non, parce que les enchères ne comportent jamais de risque
-1pld902d6s5	Le risque est bien possible ; c’est le mécanisme informationnel qui reste à démontrer.
-lvax2l9o2v	Deux personnes, les mêmes totaux, des goûts différents
-13fn87xpk3y	Christina et Sebastian ont chacun 10 drinks et 10 snacks. Christina valorise un drink comme un snack ; Sebastian valorise un snack comme deux drinks. Un échange peut donc déplacer les snacks vers celui qui les valorise relativement plus, sans produire le moindre bien supplémentaire.
-1905irt49n6	E2021 : U_C=D_C+S_C ; U_S=D_S+2 S_S. Boîte d’Edgeworth de dimensions 20 drinks×20 snacks, avec origines opposées et allocations complémentaires.
-14z0wq59123	Une allocation à Sebastian détermine automatiquement celle de Christina par les totaux fixes.
-2apq8qz7npt	Les gains viennent d’une meilleure correspondance entre biens et préférences, pas d’un accroissement du nombre de snacks.
-16qe24kg2ie	Au départ : U_C=10+10=20 ; U_S=10+2×10=30. En coordonnées Sebastian (D,S), Christina a (20−D, 20−S).
-lb0mgr5gds	Tu es Sebastian : tu serais prêt à donner jusqu’à 2 drinks pour un snack ; Christina n’exige qu’un drink pour sacrifier un snack à la marge.
-b79xfmli9k	Échange : les paniers de Sebastian, celui de Christina en complément
-14ecc98vq0x	Coordonnées Sebastian : D_S horizontal, S_S vertical, totaux 20/20. Christina reçoit (20−D_S, 20−S_S). Cette coupe de faisabilité ne remplace pas le dessin à deux origines : elle montre les deux niveaux d’utilité initiaux.
-2xgilm6hyd	D_S : drinks de Sebastian
-d1xrcm1cws	S_S : snacks de Sebastian
-2g35r0ati0n	Sebastian U=30 : S=15−D/2
-2gcrcvhvxx2	Au-dessus, Sebastian préfère à sa dotation initiale.
-288raxa1h6s	Christina U=20 : S=20−D
-v53q8uuhcm	En dessous, Christina préfère à sa dotation car elle conserve davantage des totaux.
-fzp4bj31zd	Bord efficace D_S=0
-6932gujk51	Plus aucun drink à transférer de Sebastian à Christina.
-22a98u4tmfk	Bord efficace S_S=20
-2eheswqm67r	Plus aucun snack à transférer de Christina à Sebastian.
-9qkrbzuvy6	Dotation : U_S=30, U_C=20
-21a6gf9clhr	Échange : U_S=31, U_C=21
-18s1nyjrtce	Efficace et mutuellement meilleur
-1e6j4c5p3jk	Sebastian possède 7 drinks sur un total 20. Combien Christina en possède-t-elle ?
-1m7ajwrgj8u	drinks
-16dq7li7ie2	20−7=13. Toute allocation doit respecter les totaux.
-cqnjuo3bk9	Les deux paniers sont complémentaires, pas identiques une fois qu’ils échangent.
-1umkxf1pmp4	Teste les deux utilités avant de déclarer un gain mutuel
-221oait5qxa	Sebastian donne 3 drinks à Christina et reçoit 2 snacks. Il finit avec 7 drinks et 12 snacks ; Christina avec 13 et 8. L’utilité de chacun augmente d’une unité : un prix de 1,5 drink par snack se situe entre leurs dispositions relatives à échanger.
-1m05gl9s4k2	Amélioration de Pareto : personne moins bien, au moins un strictement mieux. Ici U_S=31>30 et U_C=21>20.
-6n96avz59v	Sebastian valorise ses deux snacks de plus à 4 drinks, davantage que les 3 cédés.
-1n5rrng2up	Christina perd 2 snacks mais reçoit 3 drinks ; son utilité augmente également.
-f6yqh7hh8c	Dans les coordonnées Sebastian : ne pas perdre exige D+2 S≥30 et D+S≤20 ; au moins une inégalité stricte pour une amélioration réelle.
-23rbo23wmgz	Tu ne déclares pas un échange bon parce qu’un joueur gagne : contrôle aussi le panier laissé à l’autre.
-809c51sb00	Après l’échange, Sebastian a (7 D, 12 S) et U=D+2 S. Quelle utilité ?
-14vl01muww4	7+2×12=31, contre 30 au départ.
-2dqrnp4sewj	Christina a (13 D, 8 S) et U=D+S. Quelle utilité ?
-1mvrob1dbsr	13+8=21, contre 20 au départ.
-1xg6ccld7pu	Des MRS différents ne se rejoignent pas toujours par une tangence
-1lskq2e460w	Les goûts linéaires de Christina et Sebastian ne changent pas avec leur panier. Tant que Sebastian a encore des drinks et Christina des snacks, un petit échange au prix entre 1 et 2 peut améliorer les deux. L’efficacité arrive donc à une limite physique : Sebastian n’a plus de drinks ou possède tous les snacks.
-w0dv4l1zhr	Sous préférences lisses avec optimum intérieur, MRS_C=MRS_S. Avec substituts parfaits ici, MRS restent différentes : allocations efficaces aux bords D_S=0 ou S_S=20.
-1pj1udbqdor	La condition de tangence est une condition d’optimum intérieur, pas une équation universelle de toute allocation efficace.
-51v0bf87u0	L’échange utile s’arrête quand le bien à déplacer dans le sens favorable n’est plus disponible, pas lorsque les goûts deviennent identiques.
-1k9c158gvub	Depuis la dotation initiale sans rendre personne moins bien, le bord efficient accessible est D_S=0 et 15≤S_S≤20. À(0,17), U_S=34 et U_C=23 : les deux gagnent, et Sebastian ne peut plus céder de drinks.
-2bs2n9318uf	Tu cherches d’abord si un échange marginal bénéfique est encore faisable. Si un stock est épuisé, n’impose pas une égalité de MRS impossible.
-qtvbnost0a	Quelle allocation Sebastian est efficace et améliore les deux depuis (10,10) ?
-u4zii61e7q	U_S=34>30, U_C=23>20 ; plus aucun drink de Sebastian à transférer pour un gain mutuel.
-1a966a89cug	Les deux ont gagné, mais Sebastian a encore des drinks et Christina des snacks : d’autres gains sont possibles.
-1hniipbqvo9	C’est la dotation initiale ; leurs dispositions relatives diffèrent et un échange utile est faisable.
-cqren79zcu	Un gain ne se juge pas sans coût d’opportunité ou option pertinente.
-1cxuhv6bmv7	Prix mondial donné, second prix ou signaux privés impliquent des modèles différents.
+19knkf5mnz7	Vérifier l’acceptation
+1efpahtc3v	IR compare le contrat à l’option extérieure.
+28u5hnm97su	Le type caché sélectionne les participants ; l’action cachée est un choix influencé par le contrat.
+zresp3p66q	Écris d’abord U_H et U_L. La banque ne peut utiliser p_H que si H est effectivement induit.
+1ylxra6pq5t	IC compare les actions ou contrats proposés ; IR compare la participation à l’option extérieure.
+1z0lthf0ilb	Entraînement reconstruit d’après A6/L12/E2023 ; calculs vérifiés dans le dossier. Les questions et la réponse modèle sont pédagogiques, pas un corrigé officiel.
+12pq4nz16pp	H=0,8×10=8; L=0,4×10+6=10, hence L. Bank=0,4×30−20=−8.
+20qs10o2t9l	H before equity 20>L=16. Entrepreneur 20−10=10; bank 0,8×15−10=2.
+1279ubhtnd2	Qui initie un signal ?
+2a03fdtatro	La partie informée
+1v8rspx425b	Elle choisit une action observable qui peut révéler son type.
+1exnbzvj1op	Toujours l’État
+q23bzikh1t	Le signal peut être un diplôme, une garantie ou une action d’un agent privé.
+7e9rvnwm3k	Que signifie IR dans un contrat ?
+1s07nnd8kt5	Participation par rapport à l’option extérieure
+26iro88z2pu	Individual rationality : accepter plutôt que rester hors du contrat.
+u3tkjjrjsk	Imposer strictement H
+1b21ynamnqa	Cela relève de l’incitation, avec attention aux indifférences.
+4th4ag8iis	Reconstruis la sélection des voitures.
+dbqhwsqxdm	Prix moyen fondé sur une qualité moitié bonne
+m6zyxiqtax	Bon vendeur refuse sous sa réserve
+5l8ifj9yo5	Qualité des voitures offertes se dégrade
+251vrykcxnj	Acheteur révise sa WTP à partir des vendeurs restants
+1e4lutj2x26	Dans quel ordre analyser un crédit à effort caché ?
+l37s7dqptk	Écrire les gains de l’emprunteur pour H et L, bénéfice privé inclus
+ad7lr2gfoq	Comparer les gains pour trouver l’effort effectivement choisi
+17gwvmdc5qd	Utiliser sa probabilité de succès dans la recette bancaire
+43o6jux9m9	Vérifier aussi participation et hypothèses aux égalités
+1p2uox8xnmk	R=40, B=30, p_H=0,8, p_L=0,4, b=2 : profit bancaire avec prêt 20 ?
+y20gx9dwpi	H=8>L=6, donc banque 0,8×30−20=4.
+z75mo1thpn	Économie privée 30 et probabilité de détection 0,25 : pénalité minimale pour IC faible ?
+1mebea9gav1	0,25 F≥30 ⇒ F≥120 ; égalité = indifférence.
+px8b0c0nac	Un artisan au forfait peut sacrifier une qualité cachée pour économiser du temps. Quel levier cible ce problème ?
+14prz5t86b7	Une inspection et un paiement dépendant de la qualité vérifiable
+1l3abxoxmla	Cela peut faire supporter au prestataire le coût attendu d’une qualité trop faible.
+299p91lxdq5	Calculer seulement le salaire moyen sans comparer les actions
+1khzwmulxve	Le salaire commun ne montre pas quelle qualité l’artisan choisira.
+i8m3itvkza	Dire que tout forfait est toujours mauvais
+26egwijlk7z	Les incitations à économiser du temps peuvent être utiles ; il faut traiter le compromis.
+jjq8n3cmh2	Un vendeur bien informé offre une garantie que les mauvais produits rendent très chère à honorer. Quelle logique peut rendre ce signal crédible ?
+qhoa5mpdly	Le mauvais type gagne moins à l’imiter relativement à son coût
+vt0azbrsb4	La garantie doit créer des choix différents selon le type, pas seulement être visible.
+1kcezt4bkir	La garantie est observable, donc tous les types sont forcément révélés
+1ddmy2tgpjo	Une action facilement imitable ne sépare pas les types.
+u14j6ys8ht	Le client a proposé un menu, donc le vendeur fait du screening
+1dzy0044xjp	Dans ce contexte, l’initiative vient du vendeur informé : c’est un signal.
+8kv59uxsbd	Action conditional on signing
+1ink4m6dnvl	Different choices by type
+27e0h87yfhz	Both may pool
+j75i1gbp4r	Identifier qui sait quoi et distinguer type caché, action cachée et risque commun.
+2gfit114393	Un mot de contexte comme assurance ne choisit pas le modèle à ta place.
+1tlnksocb4d	Vérifier que les croyances sur les qualités correspondent aux vendeurs qui restent.
+w8dz7z1gn	Le prix moyen peut lui-même modifier la composition de l’offre.
+1p52jm2b26q	Comparer les gains privés complets avant de calculer ceux du principal.
+1k7pq1ag8fd	La probabilité de succès dépend de l’effort réellement induit.
+187lp75r5mv	Traiter séparément IC, IR, risque et égalités.
+lezd37ioi5	Incitation faible n’implique ni effort strict ni acceptation.
+dh719osuil	Démontrer un conflit plutôt que le supposer à partir du mot bonus.
+2d9tgl777b6	Les nombres de E2020 alignent les choix du dirigeant et du propriétaire.
+17ovhd91bm9	Jeux — choisir face à quelqu’un qui choisit aussi
+1stqtppif61	Meilleures réponses, équilibres et crédibilité
+n7g35w8l73	Partage ou prends la cagnotte ? Arme-toi ou fais confiance ? Compare tes choix dans chaque scénario, garde les indifférences et reconstruis le plan complet.
+vr42z4tub8	Rowena / X
+1zv02w2fqdt	choisit une ligne ou agit d’abord
+havgwywhc6	maximiser sa propre utilité
+1gmq5bvxcu2	Colin / Y
+9aiuhlnfmm	choisit une colonne ou répond après observation
+obkdu1bpfv	maximiser son propre gain
+wqc5gtn3t7	L’analyste
+1n9pgtv7wue	garde les choix et gains de chacun séparés
+1dliqueit0q	identifier stabilité et efficacité sans les confondre
+1vifqqnyb0k	Tu ne choisis pas seul le résultat de ton choix
+x0pbxj1gff	Rowena et Colin peuvent chacun partager une cagnotte ou tenter de la prendre. Si les deux partagent, chacun reçoit 10 ; si un seul prend, il reçoit 20 et l’autre 0. Si les deux prennent, ils reçoivent 0 : la valeur de ton choix dépend du choix de l’autre.
+1j0ldw7kvw6	Un jeu décrit des joueurs, leurs stratégies, leur information et leurs gains. Dans un jeu simultané, chacun choisit sans observer l’action courante de l’autre.
+edkhm8qdrj	Une action ne porte pas un gain fixe : partager peut donner 10 ou 0 selon Colin.
+1g7suld45pe	Pour savoir quoi faire, Rowena doit comparer ses actions dans chaque scénario rival, plutôt que choisir la plus grande case du tableau.
+1y1g7wezu0u	Partager face à partager donne 10 ; prendre face à partager donne 20. Le même rival, deux choix privés à comparer.
+2dpnxxre0hg	Tu es Rowena : commence par imaginer que Colin partage, puis demande quel choix te rapporte le plus dans ce scénario précis.
+9qi3p8kwun	Golden Balls : les gains monétaires
+dup59hasxc	S=Split, N=Steal dans cet assignment. Premier nombre : Rowena (ligne), second : Colin (colonne). Gains monétaires ; Nash purs uniquement dans les questions qui suivent.
+z5lckyzhuv	Rowena
+20mnhbdjivw	Colin
+1hmntqyoz3o	S : partager
+1s3uuibln69	N : prendre
+18fv6pj7i6p	Pourquoi est-ce un problème stratégique ?
+m2s9v0jlz5	Ton gain dépend aussi de l’action de l’autre
+16lb37npx99	Tu dois anticiper ou conditionner ton raisonnement à son choix.
+2fpxm1h0svp	Parce que le plus gros nombre est forcément ton choix
+2b1blkkf5dq	Une case donne un profil de deux choix ; tu ne contrôles pas directement celui de l’autre.
+1o0qenrvqc7	Parce que chacun peut décider du choix des deux
+186jhmp9znr	Chaque joueur contrôle seulement sa propre stratégie.
+3qi380qwdq	Le premier nombre n’est pas toujours celui du joueur qui t’intéresse
+wwi85f4oyc	Dans chaque case, deux personnes reçoivent des gains. Le premier nombre appartient au joueur de ligne, Rowena ; le second à Colin, joueur de colonne. Si tu inverses ces nombres, tu fais décider quelqu’un avec le gain de l’autre.
+26rpipo1oo9	Convention du tableau : (u_ligne,u_colonne). Toujours conserver le même ordre quand on retire des coûts ou transforme de l’argent en utilité.
+1bfepurwgnt	Le tableau code deux classements de préférences dans les mêmes cases.
+1nlpkdaxzpz	La meilleure réponse d’un joueur dépend uniquement de son propre classement, pas de la somme ou du gain de son rival.
+1w88c3pco20	Case Rowena S, Colin N : (0,20). Rowena reçoit 0, Colin 20. Ce n’est pas « Colin choisit le premier nombre ».
+4snx6xa70x	Cache le nombre de ton rival pendant que tu compares tes actions : tu évites de résoudre son problème à la place du tien.
+pwvxk50ph2	À la case (S,N)=(0,20), quel gain reçoit Colin ?
+2br0cs60oyf	Colin est le joueur de colonne : son gain est le second nombre.
+1mhu5iyos64	0 est le gain de Rowena, joueur de ligne.
+1sdh9dn0c31	Fixe la colonne, puis fais choisir Rowena
+2ebkqll3chr	Suppose que Colin partage. Rowena compare 10 si elle partage à 20 si elle prend, donc elle prend. Suppose maintenant que Colin prend : Rowena obtient 0 dans les deux cas, donc les deux choix sont ses meilleures réponses.
+21gogxrsx2i	BR_i = best response : action maximisant le gain privé face à une action rivale donnée. Une meilleure réponse peut être un ensemble quand il y a indifférence.
+93s2lubxm2	Le choix de Colin reste fixé pendant la comparaison : sinon on ne mesure pas une déviation unilatérale.
+11e7423d68k	Un gain égal ne permet pas d’éliminer une action ; elle reste optimale à égalité.
+175jomob8zb	BR_Rowena(S)={N}. BR_Rowena(N)={S,N}. Le zéro n’interdit pas une meilleure réponse si toutes les alternatives donnent aussi zéro.
+21lvr45tccj	Tu fais varier uniquement ta ligne, dans une colonne fixée. Entoure toutes les cases qui atteignent le maximum de ton gain.
+2bglpkx2qr0	Face à Colin N, quelles sont les meilleures réponses de Rowena ?
+1u2za4lqnuh	N seulement
+20ycvis4nws	S donne également 0 ; l’indifférence conserve les deux actions.
+rpialj25c4	Les deux maximisent son gain 0 dans cette colonne.
+1ngdv2666j4	Aucune action
+2em52tfbbaw	Même si le gain est nul, un maximum existe.
+hz4lnw1jtq	Fixe maintenant la ligne, puis fais choisir Colin
+asvsdi0ilv	Suppose que Rowena partage : Colin compare 10 en partageant à 20 en prenant, donc il prend. Si Rowena prend, il obtient 0 dans les deux colonnes. Le problème est symétrique, mais tu dois utiliser les seconds nombres pour le résoudre.
+211wz233q3j	BR_Colin(S)={N}, BR_Colin(N)={S,N}. Les meilleures réponses de colonne se cherchent horizontalement à ligne fixée.
+1mxt250761n	Changer les deux choix à la fois teste une coordination, pas le meilleur choix privé face à un rival donné.
+1gr3s69vsoi	La symétrie doit être vérifiée à partir des gains ; elle n’est pas garantie par les noms des actions.
+1gw1rshhp34	Face à S, le gain privé de passer de S à N est 20−10=10 pour Colin.
+x418vdhalo	Tu es Colin : ta déviation passe d’une colonne à l’autre, sans déplacer la ligne choisie par Rowena.
+1t4x7z24ktd	Face à Rowena S, combien Colin gagne-t-il de plus en passant de S à N ?
+dl44vungkh	Colin compare les seconds gains :20−10=10.
+12zgz3u4mfs	20 est son nouveau gain, pas la hausse par rapport aux 10 initiaux.
+1yostz6dkf5	Un Nash est une case où aucun joueur ne peut améliorer seul son gain
+2614at9ge4c	Regarde une case où chacun est déjà en meilleure réponse à l’autre. Changer seul n’apporte alors aucun gain strict. Dans Golden Balls égoïste, (S,N), (N,S) et (N,N) passent ce test, même si certains joueurs sont indifférents.
+1kre6i409kv	Nash pur : chaque action est une meilleure réponse à l’autre. Ce n’est ni une promesse de coopération ni un optimum collectif.
+1m2t3qes2n0	Quel test définit un équilibre de Nash ?
+gihgvfj508	Aucun joueur n’améliore son gain en changeant seul
+1q43pdhnwx6	Chacun répond au choix de l’autre ; une déviation sans gain strict ne détruit pas Nash.
+1vw35xvfaml	La somme des gains est maximale
+1rvw76nluaf	Cela teste l’efficacité collective, pas la stabilité individuelle.
+12i4hrlmokg	À (S,N), Rowena peut prendre aussi mais reste à 0 ; Colin perdrait en partageant.
+tc68f76zv2	À (S,S), chacun gagne 10 de plus en prenant seul : la case n’est donc pas Nash malgré son attrait collectif.
+24z3wqf8ogk	(N,N) est Nash : passer seul à S garde son gain 0. Une amélioration seulement à deux ne constitue pas une déviation unilatérale.
+2f367no9hac	Pour chaque joueur, demande « si l’autre ne bouge pas, est-ce que je peux faire strictement mieux ? ».
+1fzbphkxbtr	Quelle liste contient exactement les Nash purs de Golden Balls égoïste ?
+s05s04kp3t	Les meilleures réponses incluent les indifférences face à N.
+1oqzj8bg8li	(N,N) seulement
+26s0w2dyw1i	Tu as oublié les meilleures réponses à égalité aux profils asymétriques.
+zj7j0lqn3z	À (S,S), prendre seul augmente le gain de 10 à 20.
+14zwru6031r	Faiblement dominant n’est pas strictement dominant
+bqafewirnb	Prendre donne 20 au lieu de 10 face à quelqu’un qui partage. Face à quelqu’un qui prend, prendre donne le même zéro que partager. Prendre n’est jamais moins bon et est parfois meilleur ; il n’est pas meilleur dans tous les cas.
+1fqhlo03voj	N est faiblement dominant : au moins aussi bon contre toute action rivale, strictement meilleur contre certaines. Une stratégie strictement dominante serait strictement meilleure contre toutes.
+p5j7vlsxdl	La distinction porte sur les inégalités, pas sur la force psychologique de la tentation.
+x9ralilhkn	L’indifférence explique pourquoi d’autres profils que (N,N) peuvent être Nash.
+2c6xjbb0cwx	Contre S :20>10. Contre N :0=0. Il manque une inégalité stricte pour parler de dominance stricte.
+1mtw46fthn1	Tu ne supprimes pas les signes égal parce que tu trouves une action plus naturelle : ce sont des informations économiques.
+16plbnsi1a9	Pourquoi N n’est-il pas strictement dominant ?
+f7qo44v3ly	Il donne le même gain que S contre N
+xpplt6rue6	0=0 : cette égalité exclut la dominance stricte.
+9yrnj1j7qr	Il donne toujours moins que S
+11ztj92qs17	Contre S, il donne 20 au lieu de 10.
+1oe6dap1g3x	Il ne peut jamais appartenir à un Nash
+15gfkv0r7t	Une stratégie faiblement dominante peut appartenir à plusieurs Nash.
+9cxlen7s77	Stable individuellement peut être mauvais pour les deux
+uyxpo946ki	À (N,N), Rowena et Colin reçoivent 0. Ils pourraient tous les deux recevoir 10 en partageant ensemble. Mais si l’autre continue de prendre, partager seul n’améliore pas ton gain : la possibilité d’un meilleur résultat collectif ne suffit pas à le rendre stable.
+vmp157inw	(S,S) domine (N,N) au sens de Pareto, mais n’est pas Nash dans le jeu égoïste. Efficacité et équilibre répondent à des questions distinctes.
+zhoae1xfq	Pareto compare deux allocations : personne ne perd et au moins un gagne.
+cpwfwn4d5x	Nash compare les déviations d’une seule personne en maintenant les autres choix fixes.
+1sbzdcggv3g	Somme à NN=0 ; somme à SS=20. Pourtant, face à S, prendre rapporte 20 contre 10 en partageant.
+q077k1uorj	Tu proposes une coordination à ton rival. Vérifie ensuite s’il garde intérêt à respecter ce plan une fois ton propre choix donné.
+23v0wgxg52y	Une case qui maximise la somme des gains est-elle automatiquement Nash ?
+12egl825zqa	Non : chacun peut encore gagner à dévier seul
+mxjwb9vhx5	Il faut tester les meilleures réponses individuellement.
+21ynqca4xq6	Oui : le gain collectif interdit toute déviation
+289bnh8zw7l	Le collectif n’est pas la fonction objectif de chaque joueur égoïste.
+1wqir33jl1u	Si être derrière te déplaît, un zéro n’est plus le même zéro
+2aakfpli5jz	Suppose que tu retires 1 à ton utilité quand l’autre reçoit plus d’argent. Recevoir 0 face à quelqu’un qui reçoit 20 devient−1, alors que recevoir 0 face à 0 reste 0. L’indifférence qui soutenait les équilibres asymétriques disparaît.
+8xdryosunb	Avec envie : SS(10,10), SN(−1,20), NS(20,−1), NN(0,0). N devient strictement dominant ; seul Nash pur NN.
+186049tkelo	Les choix maximisent l’utilité selon les préférences, pas nécessairement l’argent seul.
+8o23hemcrl	Face à N, choisir N vaut 0>−1 ; face à S, N vaut 20>10. Les deux comparaisons sont maintenant strictes.
+gka1pzkvmn	Au profil SN, Rowena dévie vers N : son utilité passe de −1 à 0. SN cesse d’être Nash.
+vaq6y71gpp	Tu ne changes aucun montant de la cagnotte : tu changes ce que ces montants représentent pour toi.
+8sjzk8niwq	Au profil SN avec envie, de combien Rowena améliore-t-elle son utilité en passant à N ?
+9xcrnipja9	unité d’utilité
+2gbgh5b0wbs	Elle passe de −1 à 0 : hausse de 1.
+plpdw72j3i	Attention au piège de l’ancien corrigé : NN n’est plus Nash
+18kf3gy7wtc	Tu valorises maintenant l’argent de l’autre autant que le tien. Dès qu’au moins un partage, les 20 de la cagnotte sont distribués et chacun obtient une utilité 20. À (N,N), partager seul fait passer ton utilité de 0 à 20 grâce à l’argent reçu par l’autre.
+2c5mbbw1877	Altruisme égal : u_i=m_i+m_j. Nash purs SS,SN,NS ; NN n’est pas Nash. La réponse personnelle « SS et NN » signalée dans A3.1 c est erronée.
+1nv59wuooy	À SS, dévier vers N laisse son utilité à 20 : pas de gain strict, donc SS est Nash.
+hvs2f17onn	À NN, la déviation vers S crée 20 pour l’autre, que le joueur valorise lui-même : il gagne strictement.
+10rznm7zhr2	SN : utilité Rowena 0+20=20 et Colin 20+0=20. NN :0+0=0. La même monnaie produit une autre matrice d’utilités.
+2ft6i9sbata	Tu corriges NN en faisant une seule déviation concrète ; ne retiens pas une liste d’équilibres sans pouvoir la reconstruire.
+1i2et0eufit	Mêmes sommes d’argent, nouvelles utilités
+v13q4ihwv	Utilité u_i=argent_i+argent_j. Les nombres affichés sont des utilités, pas un nouveau partage de monnaie. Premier nombre : Rowena, second : Colin.
+27eg9ygmayh	Avec u_i=m_i+m_j, quels sont exactement les Nash purs ?
+prllhf2f56	Toutes ces cases donnent 20 ; à NN, partager seul améliore 0 en 20.
+20frwg1vs1w	C’est précisément l’erreur du corrigé personnel : NN admet une déviation profitable.
+lgsx4d2olf	NN seulement
+2fvrznq6mzj	Tu as conservé les préférences égoïstes au lieu de recalculer les utilités.
+1nb3els1hv9	Quand l’argent de l’autre compte double, partager devient strictement dominant
+cxna0sn6es	Suppose maintenant que tu valorises un euro chez l’autre comme deux euros dans ton utilité. Si l’autre partage, partager donne 30 contre 20 en prenant. S’il prend, partager donne 40 contre 0 : partager devient meilleur dans chaque scénario.
+1rsuv2hhjyg	u_i=m_i+2 m_j : SS(30,30), SN(40,20), NS(20,40), NN(0,0). S strictement dominant ; seul Nash SS.
+56or28vhww	Face à S, garder 10 et donner 10 vaut 10+2×10=30 ; tout prendre vaut 20.
+8dwhlig9fv	Face à N, partager donne 20 à l’autre, valorisés 40 ; prendre détruit tout et vaut 0.
+axla3kgvhm	À SN, l’argent de Rowena est 0 mais son utilité 40. Il faut annoncer si une matrice affiche de l’argent ou de l’utilité.
+11nbgzeh6wv	Tu distingues ce que tu reçois dans ton portefeuille et la valeur que tu attribues au résultat.
+15uajkagage	Rowena partage, Colin prend 20 ; avec u_R=m_R+2 m_C, quelle utilité a Rowena ?
+kr3cephp65	0 est son argent reçu ; son utilité compte aussi le gain de Colin.
+10qs8l2sltj	20 correspond à l’altruisme égal, pas au poids 2.
+u9rsnkewym	Deux Nash ne te disent pas lequel sera joué
+1x8whzqyvk8	Deux pays préfèrent être en paix ensemble : chacun obtient 9. Mais si l’autre se prépare à la guerre, répondre par la guerre donne 7 plutôt que 0. La paix commune et la guerre commune sont donc toutes deux stables, même si la paix est meilleure pour chacun.

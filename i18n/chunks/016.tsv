@@ -1,238 +1,207 @@
-243eaow3n26	Avec MC = 5,7,8, quel rival contraint directement le prix de la firme MC = 5 dans cet exemple ?
-2e0wtvth3jb	La firme MC = 7
-1mv6wzb738t	Elle est la meilleure alternative capable de sous-enchérir au-dessus de 7.
-gdiglb1n8	La firme MC = 8
-24lbqzlediq	Le rival MC = 7 est plus compétitif.
-2eouvkbscyb	Aucun : le prix reste toujours 7,5
-1sq05l87ru2	Le prix de monopole 7,5 laisse une possibilité de sous-enchère au rival MC = 7.
-2d3o9dlmxe2	Bertrand différencié : le client ne part pas toujours
-td5qhzs81x	Les produits se ressemblent sans être identiques. Une hausse de ton prix réduit tes ventes, mais ne les élimine pas toutes, car certains clients préfèrent ton produit. Si ton rival augmente son prix, une partie de sa clientèle vient chez toi : tu peux alors relever ton meilleur prix.
-1mtwyndvtyv	L10 : qi = 85−pi+0,5 pj, MC = 11. FOC = 85−2 pi+0,5 pj+11 = 0 ; BRi = 48+pj/4. Symétrie : p = 64, qi 53, πi = 2809 avec FC = 0.
-299v93apkzh	Chaque firme maximise (pi−ci)qi avec le prix rival fixé.
-2cyuwwi6ksi	Le terme positif du prix rival dans la demande donne une réaction de prix croissante.
-bcs48s5tt6	Le résultat p = MC du produit homogène ne s’applique pas à cette demande différenciée.
-5nparurvik	p = 48+p/4 → 3 p/4 = 48 → p = 64 ; q = 85−64+32 = 53 ; marge 53, profit 53² = 2809.
-1nbi2ia390c	Tu diriges un café apprécié pour son emplacement : un concurrent moins cher peut te prendre des clients sans emporter toutes tes ventes.
-1w5pfunzhzw	BRi = 48+pj/4, mêmes firmes : quel prix symétrique ?
-nsdnk2xjbn	11 impose le résultat homogène malgré une demande différenciée.
-1h5emyulprz	48 correspond à un rival qui fixerait 0, pas à l’équilibre symétrique.
-2ezl3wl59w5	qi = 85−pi+0,5 pj avec pi = pj = 64 : qi ?
-18u5fvvoyad	Différenciation : meilleures réponses en prix
-1smz2df8jju	p1 : prix de firme 1
-o3jrd78w5e	p2 : prix de firme 2
-tnp42qhop	L10 : qi = 85 − pi + 0,5 pj, MC = 11. BRi = 48 + pj/4. Dans ces axes, BR1 se réécrit p2 = 4 p1 − 192 ; BR2 = 48 + p1/4. Intersection p1 = p2 = 64, qi = 53.
-21cctigpf1d	BR1 réécrite : p2 = 4 p1 − 192
-18vomptuzmf	Quand le rival augmente son prix, 1 peut augmenter son meilleur prix.
-1e7qe00eheo	Les prix sont stratégiquement complémentaires dans ce modèle de substituts.
-1yhipio1se7	Nash en prix
-21c391d7dqm	Un choc de coût déplace les réactions, puis les rivaux répondent
-2qomm8antm	Une taxe peut augmenter le coût effectif de chaque vente. Une firme relève alors son meilleur prix pour un prix rival donné ; si les deux firmes sont touchées, les deux réactions bougent. Le nouveau prix inclut ces ajustements réciproques : la transmission n’est pas celle d’un marché concurrentiel par défaut.
-1mr0cmozdni	E2025 : qi = 10−2 pi+pj, MC physique 0 ; taxe t donne coût effectif c = t. BRi = (10+2 c+pj)/4 ; prix symétrique p = (10+2 c)/3.
-f75kp664n4	La taxe est un coût privé par vente pour la firme, même si sa recette reste un transfert pour W.
-26q702fr11j	Après une modification, on résout le nouveau système plutôt que de garder le rival éternellement à son ancien prix.
-1aaq5nd0tou	Pour t 2 → 1, le prix baisse 2/3 et non 1 ; marge nette et quantité augmentent ici.
-1pkujus1qws	t = 2 : c = 2, p = 14/3, q = 16/3, π = 128/9. t = 1 : c = 1, p = 4, q = 6, π = 18. Recettes totales :2×2×16/3 = 64/3 puis 1×2×6 = 12.
-n7lojskjun	Tu es client : une baisse de taxe 1 ne garantit pas une baisse de prix 1 dans ce jeu différencié.
-1zgbv4wzyer	qi = 10 − 2pi + pj, aucun coût de production, taxe t = 1 (coût effectif 1) : prix symétrique ?
-1mlcv7la87b	Coût effectif 1 ; p = (10+2×1)/3 = 4.
-2cq02r8eka2	1 est le coût effectif, pas le prix de la firme différenciée.
-1yfe9mxxpxp	Prix 14/3 avec t 2 puis 4 avec t 1 : baisse de prix ?
-28wv8esmas6	1 est la baisse de taxe ; le pass-through est partiel ici.
-29m31ci2h29	Leader en prix : refaire la substitution, pas recycler une formule
-17w2h5rvpmr	Le premier vendeur choisit maintenant un prix, pas une quantité. Il anticipe une réaction de prix du second. Comme une hausse de prix peut encourager le suiveur à relever aussi le sien, l’avantage du premier n’est pas celui du leader en quantités ; le suiveur peut même gagner davantage.
-opdqir32bd	E2024 ne précise pas les coûts. Sous hypothèse MC = FC = 0 : q1 = 6−2 p1+p2, q2 = 6−2 p2+p1. Si 2 est leader : BR1 = (6+p2)/4 ; q2 = 7,5−1,75 p2 ; p2 = 15/7, p1 = 57/28.
-clx7od1hm3	La réaction dépend de la variable stratégique : on ne substitue pas une réponse de quantité dans une demande en prix.
-dgui8wikl1	Sans coûts précisés, les résultats numériques sont conditionnels, pas un corrigé inconditionnel.
-yjpt2xei1s	Ici π2 = 225/28≈8,036 et π1 = 3249/392≈8,288 : tous deux dépassent 8 du simultané, mais le leader gagne davantage.
-hzdd73dyqc	Simultané avec coûts nuls :p1 = p2 = 2, q1 = q2 = 4, πi = 8. Le passage séquentiel ne donne ni qL = 30 ni la formule (a−c)/(2b) du précédent jeu en quantités.
-1n5da2p2ama	Tu lis « firm 2 moves first in prices » : écris la réaction en prix de 1 etl’hypothèse de coûts avant de calculer quoi que ce soit.
-jl8r6c9adb	Les coûts sont absents de l’énoncé E2024. Comment présenter p2 = 15/7 ?
-17i8g84pn10	Comme résultat sous hypothèse explicite MC = FC = 0
-fvckyyps52	Les paramètres de coût manquants ne peuvent pas être inventés silencieusement.
-1wcy0b4mq7j	Comme valeur officielle certaine quel que soit MC
-18g6mtodcrm	Un changement de coût change les meilleures réponses.
-5oxv3f5k8h	Comme résultat automatique de Stackelberg quantités
-1xlgyu7sjpf	La variable stratégique est ici le prix.
-c3nj94hyyz	q2 = 7,5−1,75 p2, coûts 0. FOC = 7,5−3,5 p2 = 0 : p2 ?
-1qxbibm6ddz	2 correspond au Nash simultané, sans anticipation de la réaction.
-7lls7zzi7y	Résoudre le jeu en remontant depuis le suiveur
-28jsgs93mif	Exemple E2024 sous hypothèse explicite MC = FC = 0. Le leader choisit un prix, donc on substitue une réaction de prix ; ce n’est pas la formule de Stackelberg en quantités.
-134u1ymej30	Firme 1, suiveur
-1tsfdvl5v1s	Pour tout p2, maximise (6 − 2 p1 + p2)p1.
-duz6rhkbmv	Firme 2, leader
-7nuc3bqev2	Anticipe ce choix et remplace p1 dans sa demande.
-298uxluhzkw	Maximise p2(7,5 − 1,75 p2).
-12tbh8hbsmm	p2 = 15/7, puis p1 = 57/28.
-2ezyldva6hf	Les deux firmes
-cgbep37fgp	Calculent les profits après les réactions.
-pogwpah7p0	π2 = 225/28 ; π1 = 3249/392. Le leader gagne davantage ici.
-1qhbl8pbuab	La variable stratégique et le timing déterminent la bonne réaction.
-nod7uhoitx	Le prix dépend du marché, mais recettes et coûts utilisent les ventes propres.
-1e06cp4rbrm	Chacune maximise son profit conditionnellement au choix du rival.
-1esw9ldezpt	Simultané : intersection ; séquentiel : réaction anticipée substituée dans le profit du leader.
-z30klshd09	Les choix stratégiques doivent ensuite être traduits en résultats réalisables.
-k2thqojg22	Les formules intérieures et le résultat Bertrand homogène ont des hypothèses précises.
-io1inw7igi	En Cournot, chaque firme choisit sa quantité face à celle du rival tenue fixée pendant sa maximisation ; l’intersection donne 20 chacune, p = 30. En Stackelberg quantités, le leader anticipe BRF = 30−qL/2, la substitue et choisit 30 ; le suiveur 15, donc p = 25. En Bertrand homogène à coûts identiques et capacité suffisante, toute marge positive est menacée par une sous-enchère, d’oùp = MC = 10. Le résultat dépend des règles et des hypothèses, pas seulement du nombre de firmes.
-c8qpdww6l	Identifier prix ou quantité, et l’ordre des choix.
-238cq1o89v5	Écrire le profit propre de chaque firme.
-1sgb0c0nv4h	Construire les meilleures réponses.
-1zxlqxjh71d	Résoudre ensemble ou remonter depuis le suiveur.
-y1doie4uuy	Recalculer prix, quantités et profits.
-1sib3o26cou	Vérifier coûts, capacité, coins et conditions d’égalité.
-czx65ptu86	Explique pourquoi les mêmes firmes et coûts peuvent donner p = 30 en Cournot, p = 25 en Stackelberg quantités et p = 10 en Bertrand homogène. Décris ce qui est tenu fixé et ce qui est anticipé.
-yszkj2ravj	Variable stratégique
-1l6pj3bjgcn	Cournot et Stackelberg de base portent sur q ; Bertrand porte sur p.
-15ac1gbb9j6	Réponses simultanées
-eegx36arz1	Cournot résout les meilleures réponses en gardant le rival fixé lors de chaque maximisation.
-eodjtajvqa	Réaction anticipée
-214vva4pw0m	Le leader substitue la réponse du suiveur avant de maximiser.
-4lu0ucwdlq	Sous-enchère homogène
-s2scr34gsw	Avec mêmes MC et capacité suffisante, une petite baisse peut emporter le marché jusqu’à p = MC.
-28lnv6vil67	Produits différenciés, coûts différents ou capacité limitée peuvent laisser une marge.
-1jn370lx8yk	Le leader anticipe la réaction : qF change avec q L dans le profit substitué.
-9adlyxhs95	Cuivre : simultané, puis engagement
-1fnf6rjwpl	Exercice construit à partir de A5.3 et de la méthode L10 ; extension Stackelberg pédagogique, pas un corrigé officiel.
-2f0zqzqz34i	Substituer q F = 30−qL/2 → πL = (30−qL/2)qL ; qL = 30, qF = 15, Q = 45, p = 45 ;πL = 450, πF = 225.
-1o4ob9z0b9h	p = MC = 30 sous les hypothèses énoncées.
-m2qgrdj2om	La même marge-intercept 60 apparaît, mais le prix de marché est 90−Q.
-fwg4u3sqnw	Cournot :chaque firme optimise à qj fixé ; résoudre les deux réactions.
-e7zve9a5ej	Stackelberg :remonter depuis le suiveur, puis recalculer le prix.
-1o34rnzx82e	Bertrand :vérifier homogénéité, mêmes MC, capacité avant p = MC.
-1qcw5b1dxo0	Bertrand homogène :p = 30 ; demande totale Q = 60.
-v3anhu1wp7	Axes q1 horizontal, q2 vertical : BR1 q2 = 60−2q1 et BR2 q2 = 30−q1/2.
-1h8prrmizef	Intersection (20,20) ; leader 1 (30,15) sur BR2, pas sur BR1.
-cyl184sov	Ne pas confondre les axes de quantités avec un graphique de prix différenciés.
-cmtxhl112j	Nash exige…
-ihbh6yq94d	Aucune déviation unilatérale profitable
-14i3rthqc81	Chaque stratégie répond au choix effectif des autres.
-pl9x6s9ekv	Le profit joint maximal
-cv4mbbhqfr	Un accord profitable aux deux peut être déviable.
-2akd91bjl16	Des profits égaux
-1onftt1zr7v	Des coûts différents peuvent produire des profits différents.
-mezsfpgv7i	Bertrand et Cournot diffèrent d’abord par…
-868jjbzra	La variable stratégique :prix ou quantité
-2frzllogtt8	L’énoncé doit préciser ce que les firmes choisissent.
-207b1bfhynr	Le nombre exact d’entreprises
-ggxhtxp4la	Les deux peuvent concerner un duopole.
-2dch6bxaedd	La langue des questions
-2extt5alrt7	Les règles économiques déterminent le modèle.
-6g9jxy3lb9	Reconstruis le leadership en quantités.
-24yvcbuzdz9	Le suiveur observe le choix du leader
-7ht536q3uj	Sa meilleure réponse dépend de ce choix
-1pc6gzdzxws	Le leader substitue cette réponse dans son profit
-bx2asrozfk	Il choisit son engagement optimal
-1bm6jwk138n	Le suiveur observe le choix du leader → Sa meilleure réponse dépend de ce choix → Le leader substitue cette réponse dans son profit → Il choisit son engagement optimal
-23acv1m7ffp	Produit homogène, MC identiques, capacité suffisante :pourquoi p>MC est-il fragile ?
-o3eucnidwo	Une légère sous-enchère peut capter le marché avec une marge positive
-ap20yz900q	C’est la déviation qui empêche ce type de prix d’être Nash.
-2fn8iplyize	Parce que le profit devient automatiquement négatif
-sgn7n2blpc	Au-dessus de MC, la marge est positive.
-1zhu7dp7ylv	Parce que MR doit toujours égaler le prix
-1ekm8zseli3	C’est la sous-enchère, pas cette égalité, qu’il faut expliquer.
-1m96kqzrfw0	Reconstruis le profit individuel à MC constant.
-myd2mhrj2o	Utiliser le volume de la firme, pas le total du marché.
-20re8tnoezv	p = 25−Q, cT = 5, cG = 9 : qT = (a−2cT+cG)/3. Calcule qT.
-1g393ganp4w	qi = 10−2 pi+pj, coût effectif 3 :p = (10+2 c)/3. Prix symétrique ?
-zbl1370sf3	(10+6)/3 = 16/3 ; la différenciation permet une marge.
-uwh3udc6p0	Both firms choose best responses
-nl5ut5eb44	No profitable unilateral deviation
-20gegy32ehj	Differentiated products / retained demand
-1gt7ol7w567	No full-market undercutting result
-1qxuw7gybgf	Je choisis le modèle à partir de la variable, timing, homogénéité et capacité.
-4fe42izxb	Deux firmes ne suffisent pas à identifier un jeu.
-12ewthgegjp	Je reconstruis les réactions depuis les profits propres.
-1aczvnsf4aq	Le prix dépend du total ; le coût et le profit individuels utilisent qi.
-1mcbcsi4y6b	Je garde une même convention d’axes pour les deux réactions.
-9gxxfgya7o	BR1 doit parfois être réécrite pour se tracer dans les axes choisis.
-urw9ww058w	Je substitue la réaction du suiveur avant de maximiser le leader.
-e7sd4a2mm3	L’engagement séquentiel modifie comment le rival réagit.
-j4b3tes9nb	Je vérifie coins, coûts absents, tie-breaking et hypothèses du prix égal à MC.
-1d29n23vs8j	Les conclusions intérieures et Bertrand ne sont pas universelles.
-8llzvse7b7	Externalité négative — l’essence et ses voisins
-18b09mprbfs	Pollution, quantité excessive et correction
-21smhc2pzxb	Le conducteur et la station sont d’accord. Les voisins paient pourtant une partie du coût. Reconstruis le dommage ignoré, la taxe et la quantité efficace, puis change de contexte.
-pkp72k9fk4	Le conducteur
-fyjt576f8u	achète de l’essence pour ses déplacements
-zzgu305kj3	un litre dont la valeur dépasse son prix
-i2j5rvwkng	La station
-15ysmger7je	vend de l’essence sur un marché concurrentiel
-50927ihfly	couvrir le coût du litre supplémentaire
-272enjqtnc6	Les riverains
-1ghzyeopyaw	subissent la pollution sans signer la transaction
-1l4et6bl140	éviter les dommages respiratoires et environnementaux
-9q8fxpjmpp	compte gains et coûts pour tous
-dzsdndb89t	maximiser le bien-être total
-12bv7rlcohj	peut taxer ou plafonner la pollution
-1srrwz90s9p	faire entrer le dommage dans la décision du pollueur
-r68ovvh63q	Deux personnes s’accordent, une troisième subit
-n13vu5d3yx	Tu fais le plein. Tu gagnes un déplacement ; la station gagne une vente. Mais les habitants près de la route respirent les émissions. Aucun riverain ne signe ton ticket, et tu ne lui verses aucune compensation. Une partie du coût de ton déplacement reste donc hors du paiement.
-1fj6ju9a3jl	Une externalité négative est un dommage à des tiers non internalisé dans la décision privée. Ici, on suppose le reste du marché concurrentiel.
-1k8jgn7et5z	Le conducteur compare son bénéfice au prix payé à la station.
-1kv0fzfs75n	La station compare le prix à ses propres coûts.
-1h7u0b1xpk8	Le dommage des riverains ne figure dans aucun de ces deux calculs : un accord privé peut donc réduire le bien-être collectif.
-3226m7s20l	Un voisin dort moins bien à cause d’une activité bruyante : la perte de sommeil ne figure pas automatiquement dans les coûts comptables de l’entreprise.
-1awdl3yofi0	Tu peux être heureux de ton plein tout en imposant un coût à quelqu’un qui n’a rien choisi.
-95e6fhyvti	On commence sans courbe. L’axe horizontal comptera l’essence Q ; le vertical, la valeur ou le coût d’un litre supplémentaire.
-qihkiirc7b	Qui porte le coût que le ticket d’essence ne compte pas ?
-fkmnygdx0v	La station qui achète l’essence
-xphilkfhij	Son approvisionnement est déjà un coût privé.
-11k47v1x3rf	Leur dommage ne passe pas par le prix de la transaction.
-btrsm4zy3o	Le conducteur qui paie son plein
-1s7l399k4ul	Ce prix est précisément dans son calcul privé.
-1moya2j4gq2	Le marché s’arrête au dernier litre rentable pour les deux
-xaou7zpd5n	Pour le conducteur, chaque litre de plus sert un usage moins urgent. Pour le vendeur, fournir davantage coûte progressivement plus. Tant que la valeur du litre dépasse son coût privé, acheteur et vendeur peuvent trouver un prix qui leur convient.
-22c7n7dk2yc	Dans le cas L11/E2023 : {{MPB = 100 − Q}}, {{MPC = 10 + Q}}. L’équilibre concurrentiel privé vérifie MPB = MPC.
-1b83m5megq3	Si la valeur dépasse le coût privé, il reste un gain privé à échanger cette unité.
-1texw7fq2hg	Si le coût privé dépasse la valeur, cette unité ne peut satisfaire les deux parties.
-177cpcj7zeq	Le point d’arrêt privé ne contient encore aucun dommage des tiers.
-2eaiwwiqw0y	100 − Q = 10 + Q donne 90 = 2Q, donc Qm = 45 et p = 55.
-1lvmjb0v4op	Tu acceptes le 45e litre à 55 ; le vendeur accepte de le fournir à ce prix. Aucun de vous ne demande aux riverains si ce litre leur coûte quelque chose.
-1vfhu4hw0rc	Clique les courbes : leur intersection fixe Qm = 45, p = 55. Le curseur montre les deux valeurs pour le même litre.
-49w7rkpged	Résous 100 − Q = 10 + Q. Quelle quantité privée ?
-2a6cn1tlpjv	Quel prix au marché privé Q = 45 ?
-9558qndt07	Le dommage du litre suivant n’est pas le dommage total
-28o96hf2ze1	Au fur et à mesure que le trafic augmente, un litre supplémentaire cause davantage de dommage. Le dossier mesure ce dommage marginal par Q. Au niveau Q = 45, une petite unité de plus fait donc subir 45 de coût aux tiers. Cela ne veut pas dire que tout le dommage déjà causé vaut seulement 45.
-f3d82zh3qr	[[MEC]] = marginal external cost, coût externe marginal. Ici MEC(Q) = Q ; le dommage total de 0 à Q est l’aire sous MEC, soit Q²/2.
-26u5p8tnsd1	Marginal répond à « que change l’unité suivante ? ».
-19q8exwgyr4	Total additionne les dommages de toutes les unités déjà consommées.
-w5ofueio5v	Comme MEC augmente, multiplier la dernière hauteur par toute la quantité surestime l’aire : la bonne forme est ici un triangle.
-2gbnq2dj6o2	À Q = 45 : MEC = 45, mais dommage total = ½ × 45 × 45 = 1 012,5. Ce n’est ni 45 ni 2 025.
-1kddfwr241f	Le dommage du trajet supplémentaire ne remplace pas la somme des dommages de tous tes trajets.
-25rhwew8g4w	La hauteur MEC est marginale. L’aire EXT additionne les dommages pour toutes les unités jusqu’à Q.
-182ahcdajln	MEC = Q : quel dommage total pour Q = 45 ?
-p23w8g224x	L’intégrale de q entre 0 et 45 vaut 45²/2 = 1 012,5.
-2dnb2odrnit	€ au total
-15mikfbm2f9	À qui coûte réellement le litre ?
-i89pmw2exa	La société ne choisit pas entre le coût de la station et celui des riverains. Elle compte les deux : les ressources utilisées pour fournir le litre, puis le dommage qu’il impose. Le coût social du litre suivant est donc plus haut que son coût privé.
-o6zf2bfg7w	[[MSC]] = marginal social cost. Ici {{MSC = MPC + MEC = 10 + 2Q}} ; aucun bénéfice externe n’est supposé, donc MSB = MPB.
-w0wjektky6	La station paie 40 pour un litre supplémentaire, les riverains subissent 30. Quel coût compte la société ?
-1h3pta57l2v	40 seulement
-yg2gtp9vk4	Cela exclut les riverains.
-16b558u9yp9	70, car les deux coûts sont réels
-f0xvvysfgk	Exact : 40 + 30.
-q4bdcqkhho	10, car on soustrait la pollution
-2ciivrx6td	Le dommage ajoute un coût ; il n’en retire pas.
-2vqn4b3eq1	L’écart vertical MSC − MPC est exactement le dommage marginal MEC.
-1xhwnoxyopu	Le producteur consomme des ressources : c’est un coût réel.
-1o9uqmuuxjs	Les riverains perdent du bien-être : c’est aussi un coût réel.
-299v1dfbqyx	Les deux concernent la même unité ; on additionne leurs valeurs marginales, sans compter deux fois le même coût.
-17bxdh6ma9w	À Q = 30 : MPC = 40, MEC = 30 et MSC = 70.
-1tvkjxr7grf	Si tu es à la fois conducteur et parent d’un enfant riverain, le dommage ne disparaît pas parce qu’il n’apparaît pas sur le ticket.
-133brcthl0v	À une même quantité, lis MPC puis MSC : l’écart est MEC, pas le dommage total.
-261iy82ym4w	Reconstruis le coût social marginal.
-uicag861pj	Coût de production + dommage aux tiers pour la même unité.
-10k6lfub1fw	Le dernier litre que la société voudrait garder
-2d891w7qbab	La société garde les litres dont la valeur dépasse tous leurs coûts. Elle s’arrête quand le litre suivant vaut exactement ce qu’il coûte au total. Au-delà, même si le conducteur et la station gagnent encore ensemble, le dommage des riverains dépasse ce gain.
-2d3omu5kpkb	Optimum intérieur : {{MSB = MSC}}. Ici 100 − Q = 10 + 2Q ⇒ Q* = 30.
-23417cqf7hq	Avant Q*, une unité supplémentaire ajoute davantage de bénéfice que de coût social.
-q46wv4zgkl	Après Q*, elle ajoute davantage de coût social que de bénéfice.
-wmneqa9g11	Le marché privé s’arrête à 45 car il ignore MEC : il consomme donc 15 unités de trop.
-1sb4iginvpz	À Q = 35, MPB = 65 et MSC = 80 : ce litre détruit 15 de bien-être, malgré un coût privé de seulement 45.
-oeuqesohab	Un déplacement peut encore te sembler rentable parce que le prix ne te fait pas supporter la gêne des autres.
-90mg68j08y	Q* = 30 est à l’intersection MPB–MSC. Qm = 45 utilise MPB–MPC : ce sont deux comparaisons différentes.
-130m4n19zga	Résous 100 − Q = 10 + 2Q. Quelle quantité efficace ?
-1ul7siwqbdx	Pourquoi Qm dépasse-t-il Q* ?
-1hsgjld57lf	Les riverains achètent trop d’essence
-i987xw2n0v	Ils subissent l’effet ; leur achat n’explique pas la distorsion.
-1djijur1ga4	Les décisions privées ne comptent pas MEC
-p0isr0hqqz	Le coût perçu est plus faible que le coût social.
+m4les6f7ls	Reconstruis une analyse de tarif.
+1yje88piyd	Identifier ce que le vendeur sait et les contrats possibles
+ax34utcqel	Calculer les valeurs et utilités nettes de chaque type
+5wrte52uoh	Vérifier participation, incitations, arbitrage et capacité
+1bfku9y4tbw	Calculer les quantités, recettes et coûts
+1jd7h1vjn3s	Comparer profits puis effets de surplus
+kz7azyzj05	Identifier ce que le vendeur sait et les contrats possibles → Calculer les valeurs et utilités nettes de chaque type → Vérifier participation, incitations, arbitrage et capacité → Calculer les quantités, recettes et coûts → Comparer profits puis effets de surplus
+241jrcnsjtd	Un prix commun laisse du surplus aux clients à forte WTP et peut exclure d’autres clients.
+2z2p2wh0cm	Type observable permet des groupes ; type caché exige un menu ou une autre forme d’auto-sélection.
+j9qu9ah14r	Il choisit sa meilleure offre et peut aussi refuser : IC et IR limitent l’extraction.
+1ai6yk02ygh	Un prix annoncé ne rapporte rien si le client change de contrat ou ne participe pas.
+2cxwpjlu5vg	Plus de recettes ou plus de catégories ne garantit pas un gain net.
+1rmnvk7s3nr	Un gain de profit peut être un transfert ou accompagner une allocation moins efficiente.
+2eq5wg2g8ec	Un tarif étudiant observable relève du troisième degré ; un menu pour types cachés relève de l’auto-sélection du deuxième degré. H peut obtenir 12−8 = 4 sur Bas. Pour lui faire choisir Haut, 20−TH doit atteindre au moins 4, donc TH≤16 : demander 20 viole IC_H. IR vérifie aussi que chacun préfère participer plutôt que l’option extérieure. Un abonnement seul met le prix d’usage à 0 ; un tarif à deux parties sépare la cotisation et ce prix d’usage.
+z7i4azlnz3	Le vendeur veut capter des valeurs différentes.
+rhk63thxdv	L’information disponible détermine le mécanisme.
+fw9o114v6n	Chaque client compare toutes ses utilités nettes.
+1ffd6xeaeqo	La recette réalisable dépend des choix effectifs.
+cc2e71sh9q	Coûts, arbitrage et capacité décident du profit.
+9uvh8kh07u	Le welfare se compte séparément.
+1t80ybvbcki	Explique la différence entre tarif étudiant observable et menu Bas/Haut. Avec VH(Bas)12, VH(Haut)20, TB = 8, TH = 16, pourquoi ne peut-on pas demander TH = 20 ? Distingue aussi abonnement seul et deux parties.
+1utzsda4v98	Observable ou caché
+1q02zzlszxd	Troisième degré classe un groupe connu ; deuxième degré fait choisir un menu au type caché.
+2desm0z7n7m	Comparer les contrats
+1w2as1mzluy	H gagne 4 sur Bas ; TH = 20 lui laisserait 0 sur Haut, donc il choisirait Bas.
+1qxkw2ksaqz	Pouvoir refuser
+k82ocu42om	La participation exige au moins la valeur de l’option extérieure.
+28yl00xx4qq	Prix d’usage distinct
+2g4o7hfgdnw	Abonnement seul : usage 0 ; deux parties ajoute un prix d’usage qui peut être MC pour un client connu.
+22h7kchhj2z	IC compare les offres entre elles ; IR compare la meilleure offre avec le refus de participer.
+1w95akji2zz	La cotisation est une recette du vendeur ; le coût fixe de production est une dépense distincte.
+14s1kg2lki7	Choix d’un tarif pour un client connu
+5y1p56n5l2	Exercice construit, inspiré de L9 et E2023 Q2c ; aucun corrigé officiel. Un seul client connu, coûts fixes de production nuls et participation faible sont supposés.
+1dt6khmb4t1	Usage p = MC = 4 → q = 8 ; F = (12−4)×8/2 = 32 ; usage revenues cover variable cost, so π = 32.
+d5u1n8o6bv	Usage p = 0 → q = 12 ; F = 12×12/2 = 72 ; cost 4×12 = 48 ; π = 24.
+1ps76h69nnt	Identifier le prix marginal d’usage dans chaque contrat.
+g5q7i560mt	Déterminer la consommation du client, puis le surplus qui borne le paiement fixe.
+2cxchgudz38	Retrancher les vrais coûts pour comparer les profits.
+1qsa1hhocyk	Deux parties :p = 4, q = 8, F = 32 ; paiement 64, coût 32, π = 32.
+1cyeff141an	Abonnement seul :p_usage 0, q = 12, F = 72 ; coût 48, π = 24.
+s0qw77qwe9	Tracer D = 12−q et MC = 4.
+1xpyc3t3a37	La consommation efficiente est q = 8 ; l’usage gratuit mène q = 12, où les unités 8–12 ont WTP<MC.
+rqr8qxa26y	La cotisation two-part 32 est le triangle entre D et p = 4 sur 0–8.
+19j2vi4qwt2	Un groupe étudiant identifié à la vente relève plutôt du…
+1rj4trws9kz	Le statut est observable ; aucune auto-sélection par contrat n’est requise.
+13kmqk4yn5b	Le deuxième degré concerne un type caché qui se trie par son choix.
+1j9zby9y5gv	Le statut ne révèle pas la WTP exacte de chaque unité.
+jix9lmwi1o	IR vérifie…
+2cgultslccj	Qu’un client accepte plutôt que l’option extérieure
+atgo5im0hj	Participation et incitation répondent à deux comparaisons distinctes.
+1b1j7862s24	Qu’il préfère son contrat à l’autre
+pe5gno6q9r	C’est IC.
+13ehuiccnxs	Que le vendeur fixe MR = 0
+1xpbasp1ymj	IR concerne le choix de participation du client.
+245q136yph4	Pourquoi H peut-il choisir la version Bas ?
+1i3jll2aw33	Son économie de prix dépasse sa perte de valeur
+dsj1ntciws	Il maximise sa propre utilité nette, pas l’étiquette du menu.
+1ppe69h6xlt	Parce qu’IC est automatiquement satisfaite
+10i014kevvg	Justement, il faut vérifier IC_H.
+1bh53ekwtme	Parce que H doit avoir le même goût que L
+7s38w2lrky	Chaque type compare les contrats avec ses propres valeurs.
+236lcyq8rwb	Reconstruis la surconsommation possible d’un abonnement seul.
+2b0l2g3wqgl	Le client paie une cotisation fixe
+1jbch94pe4u	Le prix d’un usage supplémentaire est 0
+1cnj0by6jh1	Il consomme jusqu’à WTP marginale 0
+23myyv8eqem	Si MC>0, certaines unités coûtent plus qu’elles ne valent
+140zy6ebbe5	Le client paie une cotisation fixe → Le prix d’un usage supplémentaire est 0 → Il consomme jusqu’à WTP marginale 0 → Si MC>0, certaines unités coûtent plus qu’elles ne valent
+vseylkljfd	Reconstruis un tarif à deux parties.
+27t9vr62rr8	Une cotisation plus un paiement par usage.
+y1n9hkqwz2	H valorise Bas 10, Haut 18 ; Bas coûte 6. Prix Haut maximum avec IC_H faible ?
+1ga9wreyree	H garde 10−6 = 4 sur Bas ;18−TH≥4 → TH≤14.
+f02xbrh0l8	18 respecte IR_H mais viole IC_H car Bas laisse 4.
+1523lok4ock	D = 10−2q, C = 10+2q ; abonnement seul à usage 0 : profit ?
+jo7erlbhj9	q = 5, F = 25, coût 10+2×5 = 20, profit 5.
+1vzdr9ifwou	6 est le résultat avec un prix d’usage 2 et une cotisation 16, autre contrat.
+pon5hsl6yh	Un siège est déjà vendable 1200. Le vendre 500 à MC physique 0 crée-t-il 700 de gain ?
+1lr0402ro1z	Non : il sacrifie 700 de recette à capacité fixe
+11eqv5iizte	Le coût d’opportunité du client remplacé compte.
+1u7b2ltgozr	Oui parce que MC = 0
+230gevy1y9o	Le siège est rare même sans coût physique additionnel.
+138l5x04y6x	Oui toute remise augmente le profit
+1anlz6b6gv3	Les contraintes et le contre-factuel décident.
+1veeigoytft	Another customer displaced
+nans3fdvy9	Opportunity cost
+1p9jezecycv	Je reconnais information, degré et possibilité d’arbitrage.
+283fu8ng04e	Le mécanisme de prix dépend de ce que le vendeur sait et peut empêcher.
+15kpb8apt83	Je calcule les choix et vérifie les IC et IR de chaque type.
+2deunj1fk8u	Une recette annoncée est irréalisable si le client dévie ou refuse.
+1ob6k8m6lgf	Je distingue abonnement seul et prix d’usage plus cotisation.
+v82gtankb7	Ils donnent des incitations marginales et quantités différentes si MC>0.
+1ybnwsv3xcc	Je compare des profits avec coûts et capacité, puis le welfare séparément.
+libfvgcavd	Plus de recettes, une nouvelle catégorie ou un Q total identique ne garantit pas un gain d’efficacité.
+1akf0izgihp	Oligopole — prévoir le choix de l’autre
+g2um5wbz1h	Cournot, Stackelberg et Bertrand
+1x2js5359tt	Une entreprise ne décide plus seule. Son choix change ce que fait sa rivale. Quantité, prix, simultané ou séquentiel : le jeu doit être choisi avant les formules.
+d4j07xw7ct	Choisissent les achats selon le prix et les substituts.
+uu39eu0yfm	Obtenir le service au meilleur rapport valeur-prix.
+1eweiy62fr7	Firme 1
+1x29jd46963	Choisit sa stratégie en tenant compte de sa rivale.
+1fpemg7w5t2	Maximiser son propre profit.
+1f8vitccw3o	Firme 2
+xl0zi96ghn	Répond aux conditions créées par firme 1.
+ctulu70sfe	Maximiser également son propre profit.
+ppdlfraqvq	Compare les résultats des règles de concurrence.
+1trrcim8fwn	Compter production, prix et coûts réels.
+fgfib05xsm	Que choisit chaque firme, et quand ?
+1a8s2t9thae	Deux vendeurs peuvent se concurrencer en annonçant des volumes ou en annonçant des prix. L’un peut aussi décider avant que l’autre observe et réagisse. Ces règles changent le meilleur choix : le simple mot « deux firmes » ne donne pas encore un modèle.
+2e754czxng0	Cournot : quantités simultanées. Bertrand : prix simultanés, produits homogènes ou différenciés à préciser. Stackelberg : quantités séquentielles dans sa version usuelle.
+vk4194f6hy	Une quantité rivale prise comme donnée ne joue pas le même rôle qu’un prix rival.
+20jxqxlz7f9	Observer un premier choix permet de conditionner le second ; le premier décideur l’anticipe.
+1qbtn4iuz8x	Homogénéité et capacité déterminent si une petite baisse de prix peut attirer tout le marché.
+188r55agsdh	Deux producteurs de cuivre choisissant q1 et q2 le même jour : Cournot. Deux cafés choisissant leurs prix : Bertrand différencié si les clients distinguent leurs produits.
+41kbod2a7r	Tu lis l’énoncé : souligne « quantity », « price », « first », « observes » avant de sortir une réaction.
+2235r09c2ms	Deux quantités choisies simultanément pour un bien homogène : quel jeu ?
+1vk2x2gin1l	Cournot
+y5a0e9ydfb	La variable stratégique est la quantité et le choix est simultané.
+4sihk9drwo	Bertrand parce qu’il y a deux firmes
+1uaczslf83h	Le nombre ne suffit pas ; Bertrand porte sur les prix.
+127k79g2ecs	Stackelberg parce que la firme 1 est citée en premier
+2b16wkfkak3	Il faut un engagement séquentiel réel, pas l’ordre des noms.
+1qydpwbry6i	Nash : chacun répond au choix effectivement pris par l’autre
+1hq359cz2v7	La firme 1 regarde le volume de la firme 2 et choisit le volume qui lui rapporte le plus. La firme 2 fait le même raisonnement. On cherche un couple où aucune ne souhaite changer seule, en gardant le choix de sa rivale fixé.
+ldk0vycpzu	Nash : aucune déviation unilatérale profitable. L’intersection des meilleures réponses est un équilibre ; cela ne signifie pas profit maximal joint.
+hml4cpoq2u	Une meilleure réponse est conditionnelle au choix du rival.
+urr9h5gslm	Un équilibre exige que les deux conditions soient satisfaites au même couple.
+bfadtqwig9	Un accord qui améliorerait les profits des deux peut ne pas être stable face à une déviation individuelle.
+e1dt93goin	Avec p = 70 − Q et MC = 10, q1 = q2 = 15 maximise le profit joint pour Q = 30, mais à q2 = 15 la meilleure réponse de 1 est 22,5 : le couple collusif n’est pas Nash Cournot.
+bghrmyg5po	Tu es firme 1 : ne demande pas « gagnons-nous tous davantage ? », demande « puis-je gagner davantage en changeant seule ? »
+27os33z2rgk	Pour tester Nash, une firme change sa quantité…
+1la1dt4cm4g	En gardant la stratégie de l’autre fixée
+syjb90gyhy	On vérifie une déviation unilatérale depuis le couple considéré.
+wldcv6tnyn	En imposant aussi une nouvelle quantité à l’autre
+1exn4q1qp8x	Ce serait une modification conjointe, pas une déviation unilatérale.
+pxo3tvr6kx	Pour maximiser le profit total des deux
+1k789ogx1mq	Chaque firme maximise son propre profit.
+87ntp4og4	Deux meilleures réponses dans les mêmes axes
+sgnjea3lro	q1 : unités de firme 1
+1jt51kwfuk	q2 : unités de firme 2
+1zn9mahf0vs	p = 70 − q1 − q2, MC = 10. BR1 : q1 = 30 − q2/2, donc q2 = 60 − 2 q1 dans ces axes. BR2 : q2 = 30 − q1/2. Nash (20,20) ; leader 1 (30,15) sur BR2, pas sur BR1.
+ua3wfq6zrr	BR1 réécrite : q2 = 60 − 2 q1
+1hput49hgi0	Chaque point donne la meilleure quantité de 1 pour le q2 considéré.
+ex20j0fsac	Chaque point donne la meilleure quantité de 2 pour le q1 considéré.
+dlo4uv1d59	Nash Cournot
+isz2xm0tst	1 leader
+thjf3gp20a	Construire la meilleure réponse de quantité
+1wioenjbfqd	La firme 1 sait qu’une production élevée de la rivale fait baisser le prix de tout le marché. Elle vend sa propre quantité au prix qui dépend du total, mais elle ne paie que ses propres coûts. Pour sa meilleure réponse Cournot, elle traite q2 comme fixé pendant cette décision.
+2d3usb0nl72	p = 70 − q1 − q2 ; MC1 = 10 ; π1 = (60 − q1 − q2)q1. FOC : 60 − 2 q1 − q2 = 0 ; BR1 = max(0,30 − q2/2).
+28f7jeqtgfb	Augmenter q1 ajoute une vente mais réduit le prix des unités déjà vendues par 1.
+uzeu5nmiyy	q2 influence le prix mais son coût ne figure pas dans le profit de 1.
+utzzgdlfxa	La quantité est bornée à 0 : une réaction linéaire négative représente un coin, pas une production négative.
+1ktf7uh29aq	Si q2 = 10, BR1 = 25 ; si q2 = 20, BR1 = 20. Une rivale plus active réduit le meilleur volume de 1 : substituts stratégiques en quantités.
+lf8qnil0j2	Tu diriges 1 : n’insère pas Q total dans ton coût 30 q1 ; tes salariés ne produisent pas les unités de 2.
+qrgz30bsxe	BR1 = 30 − q2/2. Si q2 = 10, quelle est la meilleure quantité q1 ?
+1bl2xu4s3ft	20 est la quantité symétrique d’équilibre lorsque q2 vaut 20, pas 10.
+280g399f7uy	Reconstruis le profit de firme 1 avec MC constant c1 et FC1.
+13xjmrjeql0	La marge sur ses propres ventes, moins son propre coût fixe.
+dvn4r9cp4l	Pendant la maximisation Cournot de 1, que fait-on de q2 ?
+2bl7m1m3kyc	On le traite comme fixé pour construire BR1(q2)
+113r5i9l881	La réaction indique le meilleur q1 pour chaque valeur possible de q2.
+207h0njs852	On remplace déjà q2 par la réaction du suiveur
+1m39lge40b5	Ce serait la logique séquentielle du leader Stackelberg, pas Cournot simultané.
+1gwuvca6qlz	On impose q2 = q1 avant de dériver
+ie7tkb9nmk	La symétrie peut aider ensuite, mais chaque firme contrôle seulement sa propre quantité.
+h33d6jgseu	Deux réactions, mais une seule convention d’axes
+dlrvg7h33j	Tu veux tracer les deux meilleures réponses dans le même repère. L’axe horizontal représente q1 et le vertical q2. La réaction de 2 est déjà écrite dans ce sens, mais celle de 1 doit être réarrangée pour que sa hauteur indique aussi q2.
+2eiixu6h4qd	BR2 : q2 = 30 − q1/2. BR1 : q1 = 30 − q2/2 se réécrit q2 = 60 − 2 q1. Ne pas dessiner deux fois la même pente.
+11a2ja757yv	Une équation peut décrire la même relation sous deux écritures.
+147tsrtmmfg	BR1 coupe l’axe horizontal à 30 et le vertical à 60 ; BR2 coupe les axes à 60 et 30.
+1kxohrfj1m	Leur intersection donne les deux choix simultanément optimaux.
+yt8jpkrp45	Au point (20,20), les deux équations tiennent. Le point (30,15) est sur BR2 mais pas sur BR1 : utile pour distinguer Stackelberg plus tard.
+196e0x2ou	Tu poses le crayon : dis à voix haute « horizontal q1, vertical q2 » avant de placer les intercepts.
+hwo4vn2n6e	Axes q1 horizontal, q2 vertical : quand q1 = 0, quelle hauteur donne la droite BR1 réécrite ?
+2fgwrmgzorr	30 est l’interception horizontale de BR1, pas sa hauteur à q1 = 0.
+1cyp2u785nn	Résoudre le croisement, puis le prix et les profits
+ff10rqqm9c	Les deux firmes ont ici les mêmes coûts et les mêmes possibilités. Au croisement, chacune produit 20 et aucune ne veut changer seule. Le marché contient 40 unités ; c’est ce total qui détermine le prix, tandis que le profit de chaque firme utilise seulement ses 20 unités.
+a3di3llqlg	La symétrie q1 = q2 est un résultat du même modèle et de coûts identiques, pas une propriété de tous les duopoles.
+nc44g5f773	Le prix dépend de q1+q2 ; le profit de i dépend de qi.
+pldfrqcfqe	À q2 = 20, BR1 = 20 : la condition de stabilité individuelle est vérifiée.
+qfut55ohip	Mettre Q = 40 dans π1 = (p−10)q1 donnerait 800, soit le profit des deux firmes ensemble, pas celui de 1.
+28em9bjfdrz	Tu écris quatre lignes distinctes : q1, q2, Q total, puis p et π1. Cela évite de perdre le niveau firme/marché.
+1npnt7tsx3t	q1 = q2 = 20 et p = 70−Q : quel prix ?
+jqj3op6eqi	50 oublie les 20 unités de l’autre firme.
+1kf6v1zvv61	p = 30, MC = 10, qi 20, FC = 0 : profit de chaque firme ?
+1bqo3myn7sq	800 utilise le total 40 dans le profit d’une seule firme.
+vsjxf1rsq4	Des coûts différents donnent des volumes différents
+1osyb0cr17o	Blue peut produire à coût 0 tandis que Red paie 10 par unité. Blue a plus intérêt à ajouter des unités, ce qui fait baisser le prix et décourage une partie des ventes de Red. La rivale moins efficace reste active ici, mais les parts ne sont plus égales.
+dlirkq70rn	p = 70−Q, cBlue 0, cRed 10 : qBlue = (70−2×0+10)/3 = 80/3 ; qRed = (70−2×10+0)/3 = 50/3 ; p = 80/3.
+x3vwfpekwe	Les fonctions de réaction changent avec le coût de la firme concernée.
+27ojid4hwbj	Le nouvel équilibre inclut ensuite l’ajustement de la rivale, même si sa propre fonction de réponse est inchangée.
+l5tk5gfw2j	Si une solution intérieure donne qi<0, il faut résoudre un coin et vérifier l’autre meilleure réponse.
+19zpd2zlv53	Blue 26,667, Red 16,667. Autre cas : c1 = 10, c2 = 50 donne une formule intérieure négative pour 2 ; le coin valide est q1 = 30, q2 = 0, p = 40≤c2.
+18htbxlkke1	Tu vois une grosse part de marché : demande si elle provient de faibles coûts plutôt que de conclure que les firmes doivent produire autant.
+cm8u0b5f8b	p = 70−Q, cBlue 0, cRed 10 : quantité Blue ? Arrondis à 0,01.
+1s40i5x5oc8	(70−2cBlue+cRed)/3=80/3.
+sl3zz1hb0y	20 impose les anciens coûts symétriques.
+g9923kj8qv	Une formule intérieure donne q2 négatif. Que faire ?
+13zt5klv958	Résoudre avec q2 = 0 et vérifier les meilleures réponses
+20zknoc72f0	Le domaine économique impose des quantités non négatives.
+24gseez4lil	Garder la quantité négative
+8r04ovn42r	Une firme ne peut pas produire une quantité négative.
+1aze921td68	Remplacer seulement le signe par sa valeur absolue
+7lgqhiex5j	Cela ne résout plus les conditions de choix.
+16xoi7se3l	Une taxe par unité fait reculer les deux réactions
+n2yo14c1ev	Reprends les deux firmes du marché p = 70 − Q, chacune avec un coût de 10 par unité. L’État prélève maintenant 6 par unité vendue, sur chacune. Pour chaque firme, l’unité suivante coûte 16 : quelle que soit la quantité de la rivale, elle a intérêt à produire moins. Comme les deux font ce même raisonnement, chacune voit aussi l’autre réduire ses ventes, ce qui lui laisse un peu de place.
+i31zf65ho7	Coût effectif c = MC + t = 16. π1 = (70 − q1 − q2 − 16)q1 ⇒ BR1 = 27 − q2/2, au lieu de 30 − q2/2. Les deux réactions glissent vers l’origine ; Nash symétrique q = (70 − 16)/3 = 18, Q = 36, p = 34.
+5x65zjjtz8	La taxe agit comme un coût par unité : elle réduit la marge de chaque unité, quelle que soit la quantité de la rivale.
+gutbvtaok3	Dans le plan (q1, q2), chaque réaction recule parallèlement : pour toute quantité de l’autre, on produit 3 de moins.

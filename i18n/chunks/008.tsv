@@ -1,3 +1,170 @@
+2ctmgyam2ck	U = 2x + y, I = 12 et px = py = 2. Quel x optimal ?
+pldfkhbryp	2/2 > 1/2 : toute la dépense va à x, donc x = 12/2 = 6.
+c1cgosswhf	Si a/px = b/py pour des substituts parfaits, que sait-on ?
+22vum5ei4e9	x = y est obligatoirement l’unique optimum
+2ci2y5gdu39	Aucune préférence pour l’égalité des unités n’est donnée.
+1q2jirwy4qo	Tout panier sur le budget est optimal
+ksso1gxl0d	Les deux usages de la dépense apportent exactement le même gain.
+1zenub5a5e	Quand il faut un coude, pas un coin
+rdlxtki3ci	Une chaussure gauche sans droite ne crée pas une paire supplémentaire. Si tu consommes les biens ensemble dans un rapport fixe, une unité non appariée n’ajoute rien. Tu cherches alors le coude où la proportion utile est respectée.
+1c1m1uswq06	Compléments parfaits U = min(x/a, y/b) : au choix efficace x/a = y/b. Avec paires 1:1, x = y = I/(px + py).
+1ye1ys808uu	Le plus petit nombre de composants complets limite le nombre d’ensembles utilisables.
+1eblvbwazlo	Acheter un composant excédentaire dépense du budget sans augmenter les ensembles.
+2r2tx8999u	La règle de proportion avec le budget détermine le coude accessible le plus élevé.
+1b0jmtonmi0	Exemple construit : U = min(x,y), I = 30, px = 2, py = 3. x = y et 2x + 3y = 30 ⇒ x = y = 6. Le panier (9,4) coûte 30 aussi, mais donne seulement U = 4.
+1c9ezzo8l1f	Tu ne prends pas neuf chaussures gauches et quatre droites sous prétexte que le budget est épuisé : seules quatre paires fonctionnent.
+9d3dtabmir	U = min(x,y), I = 30, px = 2, py = 3. Combien de paires optimales ?
+ghqrxu4enp	Une paire coûte 2 + 3 = 5 ; 30/5 = 6.
+1ynz7xek3mf	paires
+1ddo26zuntt	Un énoncé dit « toujours consommés en ratio fixe ». Première méthode ?
+89fddp0v4r	Toujours MUx/MUy = px/py puis tangence lisse
+d2calwch8d	La condition intérieure régulière n’est pas universelle.
+17h2qaayamp	Proportion au coude + budget
+1uxtffa2cy8	Les préférences ne sont pas lisses au coude ; une tangence ordinaire ne s’impose pas.
+fhjauhfq4m	De tes choix à une demande : fais varier la bonne chose
+v8fuv0nje0	Tu sais maintenant choisir un panier. Pour construire la demande de R, recommence ce choix à plusieurs prix de R en gardant le revenu et pL fixes. Pour une courbe d’Engel, fais varier le revenu au lieu du prix ; ces deux courbes répondent à des questions différentes.
+zao13klb63	Demande individuelle : R*(pR), I et pL constants. Courbe d’Engel : R*(I), prix constants. La demande privée de marché somme horizontalement les choix individuels non négatifs.
+q0kczomeue	Les préférences ne suffisent pas à définir un achat ; les contraintes déterminent le choix accessible.
+1jxil1ak6y	Changer un prix et changer le revenu modifie le budget de deux manières différentes : pivot contre déplacement parallèle.
+19zchgezym9	Les achats individuels sont ensuite additionnés au même prix, avec zéro pour ceux qui ne participent pas.
+fdtdcx7mi6	Pour U = LR et I = 1 200, R*(pR) = 600/pR : à 100, R = 6 ; à 120, R = 5 ; à 150, R = 4. À pR = 120 fixé, I = 1 440 donne R = 6 : c’est un point d’Engel différent.
+ixppy2x3bw	Tu peux expliquer deux fois « j’achète 6 R » : soit R est moins cher, soit tu es plus riche. Le résultat identique ne rend pas les causes identiques.
+1pbvpl289go	U = LR, I = 1 200, pR = 100. Quel R optimal ?
+17zydhvdlsa	600 vont à R ; 600/100 = 6.
+204gxh1pv8s	Pour tracer Engel, tu fais varier…
+2am8g159qzb	Le prix de R, revenu constant
+1jmu4ghhjog	C’est la construction de la demande de R.
+16efyfi4gut	Le revenu, en maintenant les prix constants
+1xoighmvxlb	Cela isole la relation entre ressources et quantité choisie.
+11zmlgn0xqa	L’utilité représente un ordre ; ce que tu désires ne dépend pas encore de la faisabilité.
+t5jthkmxo8	Les prix et le revenu imposent le budget.
+154k2zo505f	Un transfert de dépense est profitable si un usage apporte davantage de MU par euro.
+3uv9bx2hu4	Tangence intérieure, coin et coude ne sont pas interchangeables.
+2g8h39b5bot	Un changement de prix modifie la contrainte et peut changer le panier, sans changer le revenu nominal.
+wxv7ypdwbw	Le panier (20,4) est préféré dans la liste sans contrainte mais coûte 1 280, au-delà des 1 200 disponibles. Pour U = LR, à l’intérieur, le dernier euro doit apporter la même utilité dans les deux biens : L/120 = R/40, donc L = 3R. Avec le budget, L = 15 et R = 5. Quand pR monte à 150, le revenu nominal reste 1 200 mais le pouvoir d’achat baisse ; le choix devient L = 15, R = 4 et U passe de 75 à 60.
+14isc0ousqh	Classer les paniers avec les préférences
+t7l0ligg3y	Limiter le choix aux paniers accessibles
+qtfuroxb2r	Comparer le gain marginal par euro
+fmoyfloq3l	Choisir la méthode adaptée aux préférences
+wu1e8fx2yi	Vérifier puis refaire le choix après un choc
+cqut9yq90f	Explique à un ami pourquoi (20,4), pourtant plus utile, n’est pas le choix A2. Puis explique le panier optimal et ce qui change lorsque pR passe à 150. Utilise tes mots avant les sigles.
+22plty01tvh	Accessibilité prioritaire
+12agtqnic5t	1 280 dépasse le budget de 1 200.
+wgkekuaw6z	Même gain au dernier euro
+szthopfcx3	Une réallocation améliore U tant que MU/prix diffèrent.
+ui3qfkrsit	Tangence et budget ensemble
+15rqcsfvahx	L = 3R puis le budget donnent L = 15, R = 5.
+1mbmkqlq174	Même revenu, choix changé
+118gocdx2dz	pR = 150 donne R = 4 ; I reste 1 200.
+5d9ndgaxxz	U est ordinal : on compare un classement, pas un ratio de bonheur.
+o7wnd4d3vb	I reste 1 200. C’est le pouvoir d’achat qui baisse lorsque R devient plus cher.
+hgq9yddh7o	La tangence suppose un intérieur régulier. Les substituts parfaits et compléments parfaits demandent coins ou coudes.
+1azu4gcw4em	Entraînement construit sur la structure d’A2.2 et §4.6. Les prix changés et la compensation sont des variantes pédagogiques ; aucun barème officiel n’est revendiqué.
+12r99l9m0lz	Identifier U = xy, prix positifs et solution intérieure.
+9o9vp6mmx6	Égaliser MUx/px et MUy/py puis utiliser tout le budget.
+1p305x7dmjp	Après le choc, maintenir I constant ; distinguer compensation du panier et utilité.
+t30lr8jlhn	Après : x = 120/4 = 30, y = 120/15 = 8, U = 240.
+26aqgjhvwi4	Avec I = 270, rechoix : x = 33,75, y = 9, U = 303,75 > 300.
+r9sigvdi35	x horizontal et y vertical : intercepts initiaux 60 et 20, pente −1/3.
+26qonmxj8e7	Après py = 15 : intercept x = 60 inchangé ; intercept y = 16 et pente −4/15.
+1q05g39z7zy	Le budget compensé passe par l’ancien panier mais conserve la nouvelle pente.
+ttfl8dme7w	MRS_RL, R horizontal, signifie…
+di3kp7o4sa	R que tu dois obligatoirement abandonner pour un L
+1mmjz2uria7	Cela inverse le bien ajouté et les axes.
+1927p3enfpc	L que tu es prêt à abandonner pour un R de plus, à utilité constante
+ajzy01bpyq	Le ratio vient des préférences ; le sacrifice du marché vient des prix.
+zbit5w21v3	Utilité ordinale : une transformation croissante…
+akge7drmxr	Préserve obligatoirement chaque différence numérique
+1bajfebce4r	Les écarts ne portent pas de signification cardinale.
+1cgvdrf3573	Préserve le classement des paniers
+1eh1ev12h1r	Elle change les nombres sans changer l’ordre.
+rxetqh44bz	Pourquoi égaliser MU/prix à un optimum intérieur ?
+w14vbg1v12	Parce que les deux quantités doivent être égales
+rx4k61ipso	Les prix et préférences peuvent justifier des quantités différentes.
+1s7v4o1um0i	Sinon un transfert de dépense améliore l’utilité
+1jm5jgcnivm	Le budget peut rester constant pendant la réallocation.
+1pl1cgxn694	Le prix d’un bien augmente, I est fixe. Ce qui diminue est…
+uj12s96jv9	Le revenu nominal par définition
+1yhfwq4dpod	Le revenu nominal est le montant d’argent I, donné inchangé.
+age6si6mq6	Le pouvoir d’achat, pas nécessairement le revenu nominal
+gypmw03em0	Une même somme achète moins.
+2162g63uirz	U = xy, I = 100, px = 5, py = 10. Trouve x*.
+4x73bnbgnn	La dépense sur x vaut 50 : x = 50/5 = 10.
+1fej26q5q45	U = min(x,y), I = 48, px = 3, py = 5. Trouve x* = y*.
+w3i56rddpt	Une paire coûte 8 ; 48/8 = 6.
+a9w17fzejg	U = 3x + y et px = py = 1. Méthode et choix ?
+27lq9145wmy	Chercher nécessairement une tangence intérieure
+gzds3c33qg	Les MU ne convergent pas lorsque les quantités changent.
+1lzbnrfig1z	Comparer MU/prix ; tout le budget sur x
+1bqro90hp5s	Les substituts parfaits gardent des ratios constants ; 3 > 1.
+lrz2mymsdx	Rendre l’ancien panier accessible après un choc garantit…
+1b652382358	Une satisfaction strictement supérieure dans tous les cas
+274s0alfipk	La stricte amélioration demande plus de conditions ; les coins peuvent donner égalité.
+twsh3vudar	Un optimum nouveau au moins aussi bon que l’ancien panier
+1ezhaxmfup	Le consommateur peut choisir ce panier ou mieux.
+yas75wu4al	Relative prices
+24wwkzy299m	A price increase necessarily lowers nominal income.
+rqhchvi1u6	Cela confond le montant monétaire et ce qu’il permet d’acheter.
+p5o6xgt6r5	A higher price can lower purchasing power while nominal income remains constant.
+11oev1gg5bi	Prix et revenu nominal sont des données distinctes.
+1cvcpatt9a7	Je vérifie le coût avant de classer les paniers accessibles.
+vio1xwm9lt	Le panier préféré sans contrainte peut dépasser le budget.
+20mlpkd6mq8	Je définis MRS avec des axes et une unité.
+indq0sf4j5	Inverser les axes inverse le ratio pertinent.
+1no6soyjdbb	Je reconstruis le dernier euro plutôt que réciter une tangence.
+1axg6s13ltb	Je sais expliquer la déviation qui améliorerait un panier non optimal.
+be8jn34bit	Je distingue intérieur, coin et coude.
+eamcbgkgau	Je reconnais les substituts et compléments parfaits.
+hyzjczr1mb	Je sépare revenu nominal, pouvoir d’achat et substitution.
+9o86xhvp8c	La compensation ne restaure pas automatiquement le prix relatif.
+1tn42hjdwvt	Je ne traite pas U comme une quantité de bonheur.
+2gltxx8awrg	Le classement est ordinal ; un ratio numérique ne mesure pas le bien-être relatif.
+1feozkmwc30	Élasticités — combien réagit-on, en pourcentages ?
+nbquag86xn	Réaction proportionnelle, signes et horizon
+2fwaahnmlc3	Une hausse de prix peut faire monter ou baisser la recette. Tu vas apprendre à mesurer la réaction des acheteurs, garder les bons signes et reconnaître quand une approximation ne suffit plus.
+1qmnl62v4c	Les conducteurs
+1u4x1fh71fr	choisissent leur consommation d’essence
+csrbw4koaj	adapter leurs trajets et dépenses aux prix
+2dfxpdu2j8x	Le vendeur
+1iowku0jgxu	observe la réaction de ses ventes
+1s97rbarrzr	comprendre sa recette sans la confondre avec son profit
+26fo4n5h46o	compares des réactions en pourcentages
+1z43auyxvd3	garder le signe, les bases et le modèle cohérents
+2c821mmr1xn	L’autorité
+qzuwq737yb	envisage un objectif de réduction d’essence
+ok167gifdl	prévoir la hausse de prix nécessaire et ses limites
+2j9qvxvaht	Même hausse de prix, pas la même liberté de réagir
+1wgifdaetgc	Le prix de l’essence monte demain. Tu peux éviter un trajet, mais tu ne peux pas changer instantanément de voiture ou de logement. Sur plusieurs années, davantage d’options deviennent possibles : mesurer la réaction demande de préciser l’horizon.
+dvbgir3xtk	L’élasticité mesure une sensibilité proportionnelle de quantité à un déterminant. Elle dépend du point, du marché et de l’horizon ; ce n’est pas un trait immuable du produit.
+287trv2mrxs	Un même changement en litres ne signifie pas la même adaptation pour un petit et un gros consommateur.
+1zoevs0o07k	Une mesure en pourcentage rapporte la variation à la consommation de départ.
+1ih5lbk0s9o	Les possibilités de substitution évoluent avec le temps, donc la réponse de quantité peut s’amplifier.
+21m4q0dy3yd	A2 donne εSR = −0,25 et εLR = −0,60 pour l’essence. Pour un prix +5 %, l’approximation donne Q −1,25 % à court terme et −3 % à long terme.
+17ugj8vfm5h	Demain tu peux prendre moins de trajets ; l’année prochaine tu peux choisir une voiture plus sobre. Le modèle doit savoir de quelle décision on parle.
+1sploso9p3	Pourquoi l’essence peut-elle être plus élastique à long terme ?
+21lhgk878mj	Parce qu’une élasticité négative devient obligatoirement positive avec le temps
+1ryn5ffbg6a	Le signe reste celui de la réaction prix-quantité ; c’est souvent la magnitude qui augmente.
+7nycjev7qo	Davantage de possibilités de substitution deviennent accessibles
+132qsf1qjaj	Véhicule, logement ou organisation des trajets peuvent changer.
+23nunzm9bol	Avant le sigle : comparer deux pourcentages
+1c7gl7c1noa	Si les ventes passent de six à quatre, tu as perdu deux unités. Mais deux sur six représentent un tiers, pas deux pour cent. Le prix qui passe de un à deux a augmenté de cent pour cent : compare les variations proportionnelles, pas les nombres bruts.
+t6xw4et6ma	Convention base initiale : ΔQ/Q0 et Δp/p0. L’élasticité discrète est leur ratio ; la convention doit rester identique dans les deux pourcentages.
+bsj4py9anz	Une variation absolue dépend des unités choisies : litres ou millilitres donnent des nombres différents.
+15ofa60cyn8	Une variation en pourcentage divise par la valeur initiale et retire ce problème d’échelle.
+whzrvfk781	Les signes décrivent le sens : quantité en baisse et prix en hausse donnent un ratio négatif.
+1mk9pur1eby	Tu écris d’abord « deux unités perdues sur les six de départ », puis tu le compares au prix qui double.
+7qvc06ngl4	Q : 6 → 4, p : 1 → 2. Avec bases initiales, quelle élasticité ?
+1f3w161ezyd	(−2/6)/(1/1) = −1/3. Le signe négatif est nécessaire.
+seee7h6jwg	−2/1 est un ratio de variations absolues. Il manque les bases Q0 et p0.
+upwtpeor22	La quantité baisse lorsque le prix monte : garde le signe négatif.
+dynsdyp6et	Gagne la formule locale avec les unités
+93ja1cyfa9	Une dérivée te dit combien d’unités de vente tu perds pour un euro supplémentaire. Ce n’est pas encore un pourcentage. Multiplier par le prix de départ et diviser par la quantité de départ transforme cette réaction en pourcentage de quantité par pourcentage de prix.
+197qig2mx0w	Élasticité ponctuelle de demande : εD = (dQ/dp)·(p/Q). Elle est sans unité. Pour plusieurs déterminants, utiliser la dérivée partielle appropriée.
+1thojow9yxj	dQ/dp est en unités par euro. Quel facteur la convertit en sensibilité proportionnelle sans unité ?
+i2g5x0wejp	(unités/€) × (€/unité) : les unités se simplifient.
+6blnvgx8nj	Les unités ne se simplifient pas ; tu obtiens l’inverse du facteur requis.
+yozmauqbwu	Cela ne normalise pas les variations par les niveaux.
+1nwavxbx6y4	dQ/dp indique une réaction absolue à une petite hausse de prix.
 th0n2b09ze	dQ/Q mesure la réaction relativement à la quantité ; dp/p relativement au prix.
 1fyhmpslm6f	Leur ratio est comparable entre unités différentes, à condition de définir le marché et le point.
 a5d1x9fbro	Demande construite Q = 12 − p : dQ/dp = −1. Au point p = 4, Q = 8, ε = −1×4/8 = −0,5.
@@ -42,169 +209,3 @@ whtzo0u4an	R = pQ(p). Quand p change, quelle expression compte les deux effets ?
 y4rbzj4zdg	Q vient du prix accru sur les ventes ; p·dQ/dp vient du changement de ventes.
 xkgw2y0ad6	Q seulement
 10rvo8q12in	Tu oublies que les acheteurs changent leur quantité.
-1kzk74njn02	p·dQ/dp seulement
-275y3v88b3z	Tu oublies le supplément reçu sur les unités conservées.
-1297rboq669	Les deux composantes de pQ varient ; il faut la règle du produit.
-1sw3lh3lm2y	Le signe de 1 + εD indique quel effet domine lorsque Q > 0.
-151y6m1ijqz	Cette conclusion concerne une petite variation locale ; pour une grande variation, calcule directement les deux recettes.
-1dsn9y2aoun	Pour Q = 12 − p : à p = 4, R = 32 ; à p = 5, Q = 7, R = 35. À p = 8, R = 32 ; à p = 9, Q = 3, R = 27.
-1ldqx7r2aah	Tu vends une place plus cher. N’oublie pas les étudiants qui quittent la file : la nouvelle étiquette n’est pas toute ta recette.
-48gvi6bsmh	Le prix monte ; la recette ne monte pas toujours
-al6seu2os6	€ de recette
-1xi5gp6fvn2	Même demande construite Q = 12 − p. Recette = pQ ; ce sont des recettes, pas des profits, car aucun coût n’est encore donné.
-3rgce7n9ou	R = 6×6 = 36 ; élasticité unitaire, sommet de R pour cette droite.
-sinj0k6rbt	R = 8×4 = 32 ; demande localement élastique.
-23640mgfie1	εD = −0,4. Une petite hausse de p fait quoi à R ?
-pndtaernk	R baisse parce que Q baisse
-1kba7x52p22	Tu oublies le prix reçu sur les unités qui restent vendues.
-d6g3y205v5	R augmente
-2f62z4rtdqq	1 + ε = 0,6 > 0 : la quantité baisse proportionnellement moins que le prix n’augmente.
-25p13v3jowo	Q = 12 − p : quelle recette à p = 6 ?
-2e6m06fcc7x	Q = 6, donc R = 6×6 = 36.
-1lf180i6g31	Recette maximale ne veut pas dire profit maximal
-1abgnp3t3wc	Le vendeur ne garde pas toute sa recette : il paie aussi pour produire. Le prix qui maximise pQ peut donc conduire à produire des unités qui coûtent trop cher. L’élasticité explique une partie du choix ; pour le profit il faut encore les coûts.
-1i58i8jmo6s	Profit π = R − C. R maximale implique MR = 0 à l’intérieur ; profit maximal implique MR = MC avec les autres vérifications.
-1s3qfef8sqq	Une vente supplémentaire peut augmenter la recette tout en coûtant davantage que ce qu’elle ajoute.
-19cwz4rou9t	La maximisation de recette ignore ce coût supplémentaire.
-18m60n0aybt	Dès que MC > 0, l’arrêt pertinent pour le profit survient généralement avant le sommet de recette.
-2th76fhh0g	Même demande inverse p = 12 − Q, coût construit C = 2Q. Recette maximale : Q = 6, p = 6, profit = 36 − 12 = 24. Profit maximal : MR = 12 − 2Q = 2 ⇒ Q = 5, p = 7, profit = 35 − 10 = 25.
-19go82xzq0e	Tu ne cherches pas seulement combien rentre dans la caisse ; tu regardes ce qu’il reste après le coût des cafés.
-aucpyuhvrt	Une demande unitaire ε = −1 garantit-elle un profit maximal ?
-b0q7qlruhh	Oui, puisque la recette est maximale
-1t5bvxq4k4j	Cela ne serait garanti que sous des hypothèses supplémentaires sur les coûts et le domaine.
-1wltdfol9ac	Non, elle indique une recette localement stationnaire ; les coûts comptent pour le profit
-1krgoorn14y	Le profit compare MR au coût marginal.
-ncbsb2f6ts	A2 : utilise le signe et l’horizon pour prévoir
-1w93uptld75	L’autorité veut savoir l’effet d’un prix d’essence plus élevé. Commence par l’horizon demandé et garde le signe négatif de la demande. Une hausse de prix multipliée par une élasticité négative donne une baisse de quantité.
-1durs949tjb	Approximation : %ΔQ ≈ ε·%Δp. Pour un objectif : %Δp ≈ %ΔQ/ε.
-1nj4r8kj7at	Le pourcentage de quantité par 1 % de prix est précisément la signification d’ε.
-2apnpiy94nu	Pour une variation donnée, multiplier conserve cette logique en approximation locale.
-2fe7pm9hm74	Pour trouver la politique nécessaire, on inverse le calcul mais on conserve les signes.
-zptgdjd72j	A2 : εSR = −0,25 ; εLR = −0,60. Prix +5 % ⇒ QSR ≈ −1,25 %, QLR ≈ −3 %. Objectif QLR −15 % ⇒ prix ≈ (−15)/(−0,60) = +25 %.
-b9wjr2qns1	Avant de taper la calculatrice, prédis le sens : pour réduire l’essence avec une demande descendante, le prix doit monter.
-1ilybs6nopr	εSR = −0,25 et prix +5 %. Quelle variation approximative de Q en % ?
-1zzvonvk0u1	−0,25×5 = −1,25 %. Garde la baisse de quantité.
-24r3k50xfdp	εLR = −0,60 ; objectif Q −15 %. Quelle hausse de prix approximative en % ?
-1mhfv4yo03s	(−15)/(−0,60) = +25 %. C’est l’approximation proportionnelle.
-1k6skzlhm43	Une grande variation révèle la limite de l’approximation
-88q0oziz08	Multiplier des pourcentages est pratique près du point de départ. Pour une hausse importante, la courbure de la demande peut compter. Si l’énoncé impose une fonction à élasticité constante, elle donne une relation exacte différente : annonce la convention avant le chiffre.
-1i0hv1ucgt1	Si Q = A·p^ε, alors Q1/Q0 = (p1/p0)^ε. Donc p1/p0 = (Q1/Q0)^(1/ε). L’approximation linéaire n’est pas cette identité exacte.
-1yns6fs3oka	L’élasticité locale mesure une réaction infinitésimale ; appliquer une seule pente à une longue variation simplifie la trajectoire.
-5u90jlitdc	Une fonction à élasticité constante décrit toute cette trajectoire et permet un calcul exact.
-1fr0vxi7jyb	Les deux résultats répondent à des conventions différentes ; l’un n’autorise pas à annoncer l’autre comme identité.
-1litnvor235	A2 : cible Q1/Q0 = 0,85 et ε = −0,60. Exact si Q = A·p^−0,6 : p1/p0 = 0,85^(−1/0,6) ≈ 1,3111, soit +31,11 %. Approximation usuelle : +25 %. Écart ≈ 6,11 points de pourcentage.
-23s07clcmg4	Tu écris « approximation proportionnelle » ou « fonction constante exacte » avant de montrer le résultat : le correcteur peut alors voir le modèle choisi.
-bi4y6kh9h1	Le résultat +25 % pour la cible −15 % avec ε = −0,60 est…
-18fbvy8nasw	Exact pour toute fonction où ε vaut −0,60 au départ
-36tcnn8vro	Une élasticité au point de départ ne fixe pas toute la fonction.
-gdjd6bsasc	L’approximation proportionnelle, pas le résultat exact de Q = A·p^−0,6
-2chgtefqu6j	Le calcul exact de la fonction puissance donne environ +31,11 %.
-ns2nu0gitf	Demande construite Q = A/p, donc ε = −1. Pour diviser Q par deux, de combien faut-il augmenter p, exactement, en % ?
-j4f04y1ptq	Q1/Q0 = p0/p1 = 1/2 ⇒ p1 = 2p0 : prix +100 %, pas +50 %.
-7uavg115yf	Le prix qui change est celui d’un autre bien
-28d1gy1j8uk	Le prix du thé augmente et tu achètes davantage de café : cela suggère que l’un remplace l’autre. Le prix des biscuits augmente et les cafés consommés avec eux diminuent : cela suggère une complémentarité. Le signe se lit sur le déterminant réellement modifié, pas sur une règle « toute demande est négative ».
-6awag2yska	Élasticité-prix croisée εij = (∂Qi/∂pj)·(pj/Qi). Positive : substituts ; négative : compléments, dans le modèle donné.
-1i7szcj8pr1	Le prix du bien i reste donné : on mesure un déplacement de sa demande causé par un autre prix.
-zywx2u5ilh	Si l’autre bien devient moins intéressant et que l’on bascule vers i, la réaction est positive.
-1mkm4sy16ol	Si les biens servent ensemble, renchérir l’un réduit l’usage du duo et peut réduire Qi.
-f42o4v50lg	Entraînement construit : εcafé,thé = +0,4 et prix du thé +10 % ⇒ café ≈ +4 %. Avec εcafé,biscuit = −0,2 et prix des biscuits +10 % ⇒ café ≈ −2 %.
-27gcw82o8d4	Tu peux expliquer le signe avant de calculer : « je remplace le thé » ou « je prends moins du duo ».
-24n2g9cduxn	εcafé,thé = +0,4. Prix du thé +10 %. Variation approximative des cafés en % ?
-hfxt4j37bw	0,4×10 = +4 %. Le café et le thé sont substituts dans cette situation.
-r474x9lh9y	Une élasticité croisée négative indique…
-18ybbgx4tn8	Une demande propre ordinaire, sans information sur les liens
-1o1mwopd70	L’indice du prix compte : il s’agit de pj, le prix d’un autre bien.
-ygwd4q9il0	Des compléments
-kl1evt9kj4	Le prix de l’autre bien monte et la quantité du bien étudié baisse.
-11j49agcqy	Quand ton revenu change, le signe raconte autre chose
-153kb8wzcy9	Avec plus de revenu, tu peux acheter davantage d’un bien normal. Tu peux aussi abandonner un bien utilisé surtout quand le budget était serré : il est alors inférieur sur ce domaine de revenu. Ces termes décrivent une réaction de quantité, pas la qualité morale ou matérielle du bien.
-q1kxeujxcf	Élasticité-revenu η = (∂Q/∂I)·(I/Q). η < 0 : inférieur ; η > 0 : normal ; η > 1 : luxe ; 0 < η < 1 : nécessité normale.
-1qm9ole8pzx	Le revenu change les paniers accessibles alors que les prix restent constants.
-tzyco1cmt0	La réponse dépend des préférences et du point de revenu observé.
-1c757h4vx72	Un même bien peut changer de catégorie quand les besoins et alternatives changent.
-1hsoo8v8si0	Exemples construits : η = −2, revenu +10 % ⇒ Q ≈ −20 %. η = 1,4, revenu +10 % ⇒ Q ≈ +14 % : ce bien est normal et de luxe sur le domaine étudié.
-jw6iwyv24o	Une auberge peut être ton option normale à petit revenu, puis être remplacée par un hôtel quand tes moyens augmentent. « Inférieur » décrit ce choix.
-2fr0610vuek	η = −2, revenu +10 %. Variation approximative de Q en % ?
-2e6x155iifc	−2×10 = −20 %. Le bien est inférieur dans ce domaine.
-1epd5rswiye	η = 1,4 signifie…
-26v4ydzxl75	Bien de mauvaise qualité parce qu’il est cher
-iazl3mcki1	Cette classification ne juge ni la qualité ni le niveau du prix.
-1hdp69021yv	Bien normal dont la quantité croît plus que proportionnellement au revenu
-1g0ton7yifo	1,4 > 1 : bien de luxe au sens de l’élasticité-revenu.
-1jr4k7lg1t8	Deux points : annonce quelle base tu utilises
-kcamnir2kv	Une variation de 6 à 4 ne donne pas le même pourcentage si tu prends 6, 4 ou leur moyenne comme base. Pour comparer deux points symétriquement, la méthode d’arc utilise les moyennes. Elle ne doit pas être mélangée avec une base initiale pour l’autre variable.
-lh46rr9fwk	Élasticité d’arc : [ΔQ/((Q0+Q1)/2)] / [Δp/((p0+p1)/2)]. Les deux dénominateurs suivent la même convention.
-s4mefamj6h	La base initiale dépend du sens dans lequel tu parcours le changement.
-16xle7jl6ar	Les moyennes traitent les deux points de façon symétrique.
-twtey4ps2k	Changer la base change la mesure discrète ; préciser la convention rend le calcul interprétable.
-2bfg9rvvkho	Q : 6 → 4, p : 1 → 2. Arc : (−2/5)/(1/1,5) = −0,4/(2/3) = −0,6. Base initiale de L4 : −1/3. Les données sont identiques ; la convention diffère.
-1zrd346r3xz	Sur ta copie tu notes « arc, bases moyennes » et tu utilises cinq pour Q et 1,5 pour p ; tu ne mélanges pas cinq et un.
-1us8nsjopqd	Q : 6 → 4, p : 1 → 2. Quelle élasticité d’arc avec bases moyennes ?
-1jqo86dl1uf	Moyennes : Q = 5, p = 1,5. (−2/5)/(1/1,5) = −0,6.
-1n14r19ikmj	Utiliser Q moyen mais p initial donne…
-1cn5g1h1frd	La même chose que l’arc par définition
-8mpvxvz2k9	L’arc prend les moyennes dans les deux pourcentages.
-1rttxfnfykx	Un mélange de conventions à éviter
-1fcumo7ta0n	Le ratio n’est ni la mesure d’arc définie, ni la mesure sur base initiale.
-1m08l1fdmo1	Les cas limites et la dernière vérification
-xl6k0loaa2	Si la quantité ne change jamais quand le prix bouge, la demande est parfaitement inélastique. Si un écart infinitésimal de prix fait basculer les achats dans le modèle limite, elle est parfaitement élastique. Entre les deux, garde le signe et le point : tu ne peux pas attribuer automatiquement une élasticité unique à toute une droite.
-17xeg5ye94h	Demande verticale : ε = 0. Demande horizontale dans le cas limite : |ε| infini. À Q = 0, ε = (dQ/dp)p/Q n’est pas définie ; examiner une limite si justifiée.
-1j82mjfklup	Une ligne verticale fixe Q malgré le prix : dQ/dp = 0.
-2fjmu245s2f	Une ligne horizontale fixe le prix admissible et permet une réaction de quantité arbitrairement forte dans le modèle idéal.
-z5kqmkdkbu	La division par Q impose un domaine : au point où Q est nul, ne donne pas un ratio fini sans justification.
-1sjd4am4ck4	Demande construite Q = 12 − p : à p = 0 et Q = 12, ε = 0 au point ; cela ne rend pas la droite entière verticale. Quand p approche 12 par valeurs inférieures, Q approche 0 et |ε| devient très grand.
-1fw2bj584uf	Tu vérifies « quel prix ? quelle quantité ? quelle variable a changé ? quelle convention ? » avant de classifier ou calculer une recette.
-ag9ro98t7c	Une demande parfaitement inélastique a une courbe…
-sjl9t4u08p	Horizontale, car ε = 0 signifie pente horizontale
-dca2dswwo2	Tu as confondu dQ/dp et la pente dessinée dp/dQ.
-17i9caezzlr	Verticale, Q ne change pas lorsque p change
-1u0qch1dmob	La réaction proportionnelle de Q est nulle.
-170hodeyruu	Explique avec tes mots pourquoi la hausse de prix peut baisser la recette.
-27uhnaqwzcd	Plus par unité
-122ytyr8ihs	Perte des ventes
-1fgw68gohan	Réaction proportionnelle dominante
-wfa59edzv0	Le prix plus élevé rapporte davantage sur chaque unité conservée, mais réduit les ventes. Si la demande est élastique, la baisse proportionnelle de quantité domine la hausse du prix : la recette diminue.
-zf0nopyu8v	Prix propre, autre prix et revenu ne décrivent pas la même réaction ; court et long terme n’offrent pas les mêmes possibilités.
-1krcs26et5f	On veut comparer la variation relativement aux niveaux de départ, pas une pente brute avec des unités.
-2dbd21z5be1	Le signe décrit le sens ; la magnitude peut varier le long de la même droite.
-biu2gr5ep	Approximation locale, arc et fonction puissance exacte peuvent donner des chiffres différents.
-zanm4c6l3z	La réaction indique substitution, type de bien, objectif de quantité ou effet sur la recette, sans remplacer un calcul de profit.
-1pum31gpx28	ε = −0,6 décrit une baisse proportionnelle de Q quand p augmente, sur l’horizon et au point précisés. Le calcul −15/(−0,6) = +25 % est l’approximation proportionnelle. Si l’on impose Q = A·p^−0,6 pour tout le changement, la hausse exacte est environ 31,11 %. Une demande inélastique fait monter la recette pour une petite hausse de prix ; le profit dépend aussi des coûts, et une grande variation exige de comparer les niveaux.
-24ksbgoyrs	Identifier la variable et l’horizon
-27vn4gnu83f	Transformer la réaction en pourcentages
-maiwn1fgdz	Garder le signe et le point
-1u9ldqbbdzk	Calculer sous une convention annoncée
-knek3w6ome	Revenir à la décision économique
-uyg30g9nby	Une amie dit « l’essence a ε = −0,6, donc augmenter son prix de 25 % réduit exactement Q de 15 % et augmente forcément le profit ». Explique ce qui est correct, ce qui manque et comment tu raisonnerais.
-5w0sgi59l3	Sensibilité proportionnelle négative
-oh9esg6g33	1 % de prix en plus donne environ 0,6 % de Q en moins localement.
-lk2uppaifk	25 % est une approximation
-1kv1etf0v7o	Une grande variation nécessite un modèle ou une convention explicite.
-lubmbxeel4	Avec |ε| < 1, l’effet prix domine localement.
-kwyngprinw	Coûts pour le profit
-1a0e398p3fd	La recette ne suffit pas à conclure sur π.
-c6vwww5n82	La dérivée doit être normalisée par p/Q ; sur une droite, l’élasticité varie avec le point.
-17p6i00pqoi	25 % est l’approximation de la cible A2. Pour Q = A·p^−0,6, la solution exacte est environ +31,11 %.
-1wuw3azlq36	Le profit retranche les coûts. Une recette supérieure ne prouve pas un profit supérieur.
-1iet1i42reo	Entraînement construit fondé sur L4, A2.1 et les pièges §20. Les valeurs de la demande linéaire et de l’objectif exact sont des variantes pédagogiques, pas un sujet officiel.
-2bex13zy1i0	dQ/dp = −2, Q = 80, ε = −2×20/80 = −0.5 : inelastic.
-svbbli5lp6	p1/p0 = 0.8^(−2) = 1.5625, exact +56.25%. Approximation: (−20)/(−0.5) = +40%.
-vonuwse6vt	Identifier demande directe et calculer Q au point demandé.
-1rkwgau46fn	Normaliser la dérivée par p/Q puis classifier avec |ε|.
-205ik13qbbn	Calculer R = pQ aux deux points au lieu d’extrapoler aveuglément une conclusion locale.
-1coehiwdse0	Pour le changement exact de l’autre marché, utiliser le ratio de la fonction puissance.
-1enkr6gx67j	Marquer (Q,p) = (80,20) et (70,25), puis les rectangles pQ correspondants.
-28xcgcfui4o	Ne pas utiliser cette droite pour représenter l’autre marché à élasticité constante.
-1hy6rg6vb3i	Une demande est élastique si…
-1bk365e7o45	εD est négative, quelle que soit sa magnitude
-hwx8ul3jsw	La plupart des demandes descendantes ont un signe négatif ; cela ne suffit pas à classifier la magnitude.
-wqo8a2ao4f	La réaction proportionnelle de Q dépasse celle du prix.
-awyf40xayi	Une élasticité croisée positive indique…
-gf46ebxwq1	Un bien de luxe
-12p9sicfth6	Le luxe se lit avec l’élasticité-revenu, pas croisée.
-1zud98yev5d	Des substituts dans le modèle donné
-12lkc97iadv	Le prix de l’autre bien augmente et la demande étudiée augmente.
-1edylwewpik	Pourquoi normaliser la dérivée par p/Q ?
-q83w0ctw1t	Pour rendre toutes les élasticités positives
-1v4fkhyt77j	La normalisation ne supprime pas le signe de la dérivée.
-nz2doue3po	Pour convertir la réaction absolue en réaction proportionnelle

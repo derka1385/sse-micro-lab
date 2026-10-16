@@ -1,218 +1,215 @@
-sq3xmx63sb	Reconstruis MSC pour une externalité négative.
-1btk7w1nuh4	La taxe corrective optimale se calcule…
-1bxapkqysi0	En évaluant toujours MEC à Qm
-ygez7a3y0i	La taxe modifie justement Qm.
-gnh6hs5x5d	En évaluant MEC à la quantité efficace
-1953cll6ntt	Trouve d’abord Q* par MSB = MSC.
-u850qbfnuj	MPB = 100 − Q, MPC = 10 + Q, MEC = Q : quel Q* ?
-1853xem6kvk	Textiles : MPB = 200 − Q, MPC = 80 + Q, MEC = Q. Quelle taxe optimale ?
-1btxx8lj6qr	Q* = 40, puis MEC(40) = 40.
-dcptp399uv	Unpriced external damage
-1pq50thu1jw	Different marginal abatement costs
-1qxrcfymdqu	MSC = MPC + MEC : les coûts privés et les dommages des tiers comptent ensemble.
-em5abf19j0	Les deux effets concernent la même unité supplémentaire.
-1wwhj45gn5c	Le prix privé ignore MEC tant que l’effet n’est pas internalisé.
-vurscpvpqb	Qm = 45, Q* = 30 : les unités au-delà de 30 créent la DWL.
-1243z1yqfyl	À Qm, MPB = MPC ; à Q*, MSB = MSC.
-16jb0avtl2m	Les unités excessives ont un coût social supérieur à leur valeur.
-gw1hhl6nwg	Dommage total et DWL sont deux aires différentes.
-1bo2cyb5pd2	Le dommage total inclut les dommages des unités socialement utiles.
-1obr5qi78mh	La DWL mesure seulement la perte nette évitable par rapport à Q*.
-2binhutfmrl	t* = MEC(Q*) : ici 30 ; une taxe de 20 améliore mais laisse une DWL de 37,5.
-1wtnh0gyn4o	Le dommage marginal dépend de la quantité choisie.
-1fopo6bevff	Une taxe est un transfert ; elle peut corriger une distorsion préexistante.
-1vx2gy7y4d6	Pollution restante et abattement sont deux axes différents.
-1fhtal0jjic	Réduire la pollution signifie aller à gauche sur un axe émissions.
-4073dt1wof	La firme compare MAC à la taxe ; la société compare MAC à MEC.
-238mv5yffl6	Permis et Coase demandent d’expliciter leurs conditions.
-2efzqk22zrx	Les échanges de permis sans frictions égalisent les MAC et minimisent le coût d’un plafond donné.
-1ucxky3cjvm	Coase suppose droits définis et coûts de transaction nuls ; les droits modifient la distribution.
-1izbt9qegjk	Biens publics et communs — la rue propre et le lac
-1ht854qnsm6	Valeur partagée, contribution et accès libre
-2cdphfmken6	Pourquoi une rue utile reste-t-elle mal financée, alors qu’un lac utile attire trop de pêcheurs ? Suis les habitants puis les entrants avant de sommer ou de dériver.
-qhhmm0c4vj	Anna
-2786tzq0nzz	habite la rue et peut contribuer
-1stzpuj1dlx	profiter d’une rue propre en gardant du budget
-l0q2ql6iwg	Le prestataire
-d3jskdh76v	produit le niveau commun de nettoyage
-16ncxloza8n	couvrir les ressources de la prochaine unité
-bf0vtm6ju1	Bilal et Clara
-69d9ymhyi7	profitent du même niveau même sans payer
-16h5xp3wvfp	bénéficier du service
-1wg7254voln	La collectivité
-ak1c9hdq2n	compte tous les bénéfices et coûts
-2f4r7gh6t0e	choisir le niveau qui maximise le surplus
-1e9c8bcszwh	La mairie
-1rgm7727xpn	peut organiser contributions et règles d’accès
-1oh4uq3lzj1	corriger l’incitation pertinente
-1jlz3ac8fu1	Qui profite quand ta rue est nettoyée ?
-14x4s25yw93	Anna, Bilal et Clara habitent la même rue. Si un camion ajoute une unité de nettoyage, les trois voient une rue plus propre : il ne faut pas acheter trois exemplaires du même nettoyage. Le prestataire, lui, doit payer du temps et du matériel pour cette unité supplémentaire.
-56cruk9m3v	Dans le modèle A6, le niveau Q de nettoyage est un bien public pur : le même Q bénéficie à chaque habitant.
-6a5gabuwl1	Le niveau de propreté est partagé : le bénéfice de Clara ne retire pas celui d’Anna.
-228ll5nfd2p	On suppose ici qu’on ne peut pas exclure l’habitant qui ne paie pas ; cette hypothèse fait partie du modèle, pas de toute prestation réelle.
-v0t6geriez	Trois habitants et trois unités communes donnent Q=3 pour chacun, pas Q=1 par habitant.
-1jk3kxrxc98	Tu rentres chez toi après le passage du camion. Tu bénéficies de la rue propre même si ton voisin a financé le passage.
-nh9yk5jwab	Trois habitants profitent d’une rue nettoyée au niveau Q=3. Quel Q consomme Clara ?
-1lxo1bwy4it	Oui : le service partagé a le même niveau pour chacun.
-izjpr3uuuq	Tu répartis un bien privé. La propreté partagée n’est pas divisée en trois.
-up24qnb1n4	On peut additionner leurs bénéfices, pas multiplier le niveau physique.
-13f55k6zov3	Première question : ton usage prend-il quelque chose aux autres ?
-yfgdcmh2v9	Quand tu manges un sandwich, personne d’autre ne peut manger ce même sandwich. Quand tu lis un résultat de recherche diffusé librement, ton voisin peut encore le lire. Demande-toi ce qui arrive à la possibilité d’usage de l’autre, avant de regarder qui finance le bien.
-nkrfanto6c	Rivalité : l’usage d’une personne réduit les possibilités d’usage des autres. Non-rivalité ne signifie pas coût de production nul.
-1nw04yw6opx	Produire le premier service peut coûter cher même si un usager supplémentaire ne prive personne.
-1cs3i9mcefw	Le critère porte sur la consommation concurrente ; « fourni par l’État » est un critère différent.
-g5onxl3uac	Un PDF peut coûter 1 000 € à produire ; le lire à deux ne requiert pas deux PDF physiques.
-15dtaq2cey3	Tu occupes la dernière place d’un bus : quelqu’un reste dehors. Compare avec écouter une alerte radio déjà diffusée.
-laighy68mq	Un service coûte cher à créer mais un lecteur de plus ne gêne personne. Est-il nécessairement rival ?
-11o1aznjt6r	Oui, parce qu’il coûte cher
-m2p5xa9q09	Le coût de production n’est pas la rivalité de consommation.
-1gcc7ehso1h	Non : il peut être non rival
-2fa3r3m9qks	Oui : vérifie l’effet de ton usage sur l’usage des autres.
-12my0de8wqh	Oui, s’il est privé
-1ldh15byq2q	Propriété privée et rivalité répondent à des questions différentes.
-1cdsbrkdrkz	Deuxième question : peut-on fermer la porte ?
-1nmkpvljw46	Une plateforme peut refuser l’accès à un compte qui ne paie pas, même si ses vidéos ne sont pas congestionnées. Une rue propre bénéficie aussi aux habitants qui refusent de payer. L’exclusion est donc une autre question que la rivalité.
-xq91g5px08	Excluabilité : possibilité d’empêcher l’accès. Les quatre cases sont privé, club, commun et public pur.
-1bhx7b747sd	Le mot « public » décrit ici deux caractéristiques économiques, pas le nom du propriétaire.
-yb36q8ucbx	Les règles et la technologie modifient l’exclusion : un péage peut changer la case d’une route.
-1bzs296utxd	Vidéo sur abonnement non congestionnée : excluable et non rivale, donc bien de club. Pêche sans restriction : non excluable mais rivale, donc ressource commune.
-1wmbecuw455	Si tu gères un abonnement, peux-tu désactiver mon accès ? Si oui, l’accès est excluable, même si tu ne retires aucun fichier à ton autre client.
-1sovv2nwtdr	Une pêche en libre accès, où tes prises réduisent celles des autres, est…
-208q3adapnm	Un bien public pur
-1pci4xsm1bq	Il manque la non-rivalité : les poissons capturés ne sont plus disponibles.
-wrohklbevq	Une ressource commune
-iru7xzvxyp	Non excluable, mais rivale : c’est la case des communs.
-rr7c0pc0fx	Un bien de club
-2a8qaiclu7z	Un club peut exclure ; ici l’accès est libre.
-21c66bkb1jp	Une route peut changer de case
-13t8bkkbjyg	À trois heures du matin, ta voiture gêne peu les autres sur une route vide. À huit heures, elle rallonge leur trajet. Si on ajoute un péage, on change encore une autre propriété : l’accès devient contrôlable.
-1y8vigg41fo	La congestion crée de la rivalité. Une route n’est donc pas toujours un bien public pur.
-uijei5cuvj	Les caractéristiques économiques dépendent de la situation, pas de l’étiquette « infrastructure ».
-1q8mx4u1sf1	Un péage agit sur l’exclusion ; il ne supprime pas automatiquement la congestion physique.
-1krhh8b3mf4	Tunnel avec péage et embouteillage : accès excluable et usage rival à la marge.
-1h09nlq17rr	Tu arrives au péage à l’heure de pointe : pose les deux questions séparément avant d’écrire « public good ».
-1ps7d04sjbj	Un tunnel payant congestionné est-il un bien public pur ?
-1bqbkrtunm	Non, il est excluable et rival à la marge
-3olst60x36	Le péage contrôle l’accès et la congestion fait subir ton usage aux autres.
-1972z8cf6pc	Oui, parce qu’il sert au public
-29cqxzxlul5	« Sert au public » ne vérifie aucun des deux critères économiques.
-1y23ctpr94u	Oui, parce qu’un tunnel est coûteux
-27ugd9whcxy	Le coût de construction ne détermine pas cette classification.
-ms651uj76a	Combien vaut la prochaine unité pour chacun ?
-vc85ytsco8	La rue est déjà nettoyée au niveau Q=3. Anna paierait jusqu’à 12 € pour une toute petite unité de plus, Bilal 9 € et Clara 6 €. Ces montants décrivent une valeur supplémentaire, pas ce qu’ils paieraient au total pour toute la rue.
-27c3hih6lg8	MB signifie marginal benefit : disposition à payer pour l’unité supplémentaire. A6 : MB_A=15−Q, MB_B=12−Q, MB_C=9−Q tant que ces valeurs sont positives.
-298me1m1n4e	L’unité suivante améliore simultanément la situation des trois habitants.
-1qr2h2n0ox2	Le bénéfice total de plusieurs unités est une somme/aire ; la hauteur de la courbe décrit seulement le marginal.
-20vbiagydob	À Q=3 : 15−3=12, 12−3=9 et 9−3=6 € par unité.
-1vipdqg7atl	Tu es Clara : tu regardes si le prochain passage vaut 6 € pour toi. Tu n’annonces pas encore le bénéfice de tes voisins.
-1b33pzjws6o	Un même niveau de nettoyage, trois valeurs marginales
-66ol3hkakf	Q = unités communes de nettoyage ; hauteur = € par unité supplémentaire. Chaque MB est tronquée à zéro ; la courbe sociale additionne les hauteurs, jamais les quantités.
-d5x9gr815q	Q : unités de nettoyage communes
-1mau3gzqwdx	€ / unité supplémentaire
-2djiu0uuwkb	MB Anna = max(0,15−Q)
-2717z14piwf	Valeur du même ajout pour Anna.
-1cyp8ze8eyy	MB Bilal = max(0,12−Q)
-2dniz9tcbdp	Valeur du même ajout pour Bilal.
-1dt90pkrmqv	MB Clara = max(0,9−Q)
-vq2p0w7by2	Valeur du même ajout pour Clara.
-fl7gunudcb	Somme des MB positives
-4aiegu3vag	Pente −3 puis −2 puis −1 : un bénéficiaire sort de la somme à chaque seuil.
-1cy2abol1v3	Coût réel de l’unité suivante de nettoyage.
-vmw942ys6h	Q efficient = 3
-22cra522yka	Avec MB_C=9−Q, quelle est la valeur marginale de Clara à Q=3 ?
-1wfbz0dbarf	€ / unité
-102z2b0oe8l	9−3=6 € par unité de nettoyage.
-7iw6egzehz	9 est l’ordonnée à l’origine, pas la valeur au niveau déjà atteint.
-57gzh3axk2	22,5 est le bénéfice total sur [0,3] :9×3−3²/2. Ce n’est pas le marginal à 3.
-ba59rg1wku	La société additionne trois valeurs du même passage
-dyezmch0ls	Le camion peut ajouter une seule unité commune. Elle apporte 12 € à Anna, 9 € à Bilal et 6 € à Clara : au total, elle vaut 27 €. Additionner leurs quantités reviendrait à compter trois fois le même niveau de rue propre.
-153vxl765pj	Pour un bien public, on somme verticalement les bénéfices marginaux au même Q : MB_social(Q)=Σ_i max(0,MB_i(Q)).
-89kcfor3p0	Pour savoir ce que vaut l’unité commune à Q=3, que faut-il additionner ?
-29k3be0aw0u	Les trois hauteurs au même Q : une seule unité apporte trois gains.
-1co5whkj6tr	Les trois Q
-g5hp36ockf	Cette règle horizontale concerne les quantités individuelles d’un bien privé.
-kad3nxqasz	Chaque habitant bénéficie de l’ajout : l’évaluateur collectif compte chaque bénéfice une fois.
-27ecm1t6zu6	Dans un bien privé, on peut acheter des unités distinctes ; ici le niveau commun Q est précisément ce qui interdit ce raisonnement horizontal.
-1phsi0ka6ur	Pour Q≤9, les trois MB sont positives : (15−Q)+(12−Q)+(9−Q)=36−3 Q.
-2gaa90j3js1	Tu organises le nettoyage pour les trois voisins. Avant de commander, demande à chacun la valeur du même passage supplémentaire.
-21c28s70pvj	Reconstruis la somme sociale quand les trois MB sont positives.
-gelr7k43hn	On additionne les dispositions marginales à payer au même niveau Q, d’où 36−3 Q.
-1shi39agvwj	Quand le passage supplémentaire cesse-t-il de valoir son coût ?
-29i7bez56f9	Le prochain ajout coûte 27 € en ressources. À faible nettoyage, les trois gains réunis dépassent ce coût : améliorer la rue ajoute du bien-être. Au niveau Q=3, le gain collectif de la marge égale le coût ; au-delà, il devient inférieur.
-hhz6tr0wk6	Optimum intérieur du bien public : Σ MB_i(Q)=MC(Q), en vérifiant le segment des MB positives.
-24xfv3q36cb	Le fournisseur doit utiliser de vraies ressources, qu’une personne ou trois en profitent.
-1p5l9pqc62g	Le test est social : aucun habitant pris seul n’a besoin de valoriser l’unité à 27 €.
-6sq60pvegs	36−3 Q=27 ⇒ 3 Q=9 ⇒ Q=3. À cette quantité, les MB sont 12,9,6 et leur somme couvre exactement MC=27.
-1b7jskjgp8u	Tu dois justifier le niveau à une association de voisins : explique le coût et les trois bénéfices avant de sortir l’équation.
-1zfdswvlvhh	Niveau efficient commun
-1lex8iy7nch	MB_A=15−Q, MB_B=12−Q, MB_C=9−Q et MC=27. Quel Q maximise le surplus ?
-2dlbzepdhlf	36−3 Q=27 donne Q=3, qui est inférieur aux trois seuils 9,12,15.
-111xe6aprm6	9 est la différence 36−27 ; il reste à la diviser par 3.
-2c75av6gnhy	Personne ne paierait seul MC au départ, mais les bénéfices collectifs valent 36>27.
-28tdj3iwkcc	Une valeur négative n’est pas un désamour à inventer
-219f4icvenx	Un petit jardin commun plaît beaucoup à Léa et un peu à Sam. Après Q=2, Sam ne veut simplement plus de jardin supplémentaire : sa valeur est nulle, pas une nuisance. Continuer mécaniquement sa droite sous zéro retirerait à tort du bénéfice à Léa.
-upu2b9fl0d	Avec MB_L=max(0,8−Q), MB_S=max(0,2−Q), les seuils déterminent des segments différents. Si une unité nuisait réellement à Sam, il faudrait un autre modèle.
-25yoci51ctx	Les fonctions linéaires résument une demande sur son domaine pertinent ; une quantité négative ou une WTP négative n’est pas automatiquement admissible.
-17pm371xamf	Il faut résoudre dans un segment, puis contrôler que la solution appartient à ce segment.
-29tohiqvw12	Avec MC=3 : 10−2 Q=3 donne 3,5, mais le segment à deux bénéficiaires exige Q≤2. Sur Q≥2, 8−Q=3 donne Q=5 ; Sam vaut 0 et Léa 3.
-1z704x74xqx	Tu es Sam : tu dis « je n’en veux pas plus », pas « payez-moi pour supporter ce jardin ». Ne laisse pas une droite changer tes préférences.
-17lxpz9k72s	Pour ces deux MB tronquées et MC=3, quel est le niveau efficient ?
-1nixis31wgv	Au-delà de 2, seule Léa contribue à la somme : 8−Q=3 ⇒ Q=5.
-se137d6jxj	À 3,5, la formule 10−2 Q compte une WTP négative de Sam ; elle est hors de son segment.
-110yim9divd	2 est un seuil de changement de formule, pas forcément l’optimum.
-4h3f1x1850	300 étudiants ne se partagent pas la vitesse en 300 morceaux
-mvdd0rb00b	Un campus choisit la qualité d’un wifi commun. Chacun des 300 étudiants bénéficie de la même vitesse Q. L’étudiant supplémentaire ajoute une disposition à payer au calcul collectif ; il ne demande pas une vitesse séparée à ranger à côté de celle des autres.
-27vj3xnjgky	E2022 : 300 personnes avec MB_i=10−Q et MC=1 500 donnent 300(10−Q)=1 500.
-57uul42rxi	Le prix unitaire du bien commun est un coût pour tout le service, pas le prix de 300 connexions privées distinctes.
-tb45583srj	Les unités de l’égalité sont des euros par unité de vitesse des deux côtés.
-aud8p8v7km	300(10−Q)=1 500 ⇒ 10−Q=5 ⇒ Q=5. Chaque étudiant valorise la marge à 5 ; 300×5=1 500.
-fi86frs6il	Tu révises avec tes amis sur le même réseau : demander « quelle vitesse commune ? » est plus utile que « combien de vitesses achète chacun ? ».
-88of5jvkpb	300 étudiants ont chacun MB=10−Q ; MC commun=1 500. Quel Q est efficient ?
-s676f8donb	unités de qualité
-puhkzj37xs	Divise d’abord 1 500 par 300 : MB individuel requis=5, donc Q=5.
-19r9vjkvj3d	1 500 est un coût marginal monétaire, pas une quantité.
-111uiqagihn	300×10 est la somme des MB à Q=0, pas une quantité optimale.
-27uxik0ioyh	Si ton voisin paie, pourquoi paierais-tu aussi ?
-2d3gs40waxo	Anna envisage de financer le nettoyage. Bilal sait qu’il profitera de la rue même s’il garde son argent. Il peut attendre la contribution d’Anna et annoncer une valeur trop faible pour réduire sa facture, alors même que la rue propre compte beaucoup pour lui.
-zvpu75x4t3	Free rider : bénéficier sans contribuer. La non-exclusion crée une incitation à sous-contribuer et à sous-révéler sa WTP.
-1hq2ti71dcu	Le gain privé de payer ne comprend que le bénéfice que le payeur récupère ; le gain des voisins reste hors de son arbitrage.
-1i4eux4fk1y	Le manque de contribution ne prouve pas une absence de valeur : il peut être une réponse rationnelle à la règle d’accès.
-27piqkcmnqi	Dans L11, MB_H=20−h et MC=14 : H seul choisit h=6, tandis que MB_H+MB_L=30−2 h donne h=8 collectivement.
-wx35zyue36	Tu te demandes « la rue sera-t-elle propre même si je ne paie pas ? ». Si oui, tu vois la tentation privée que le financement collectif doit résoudre.
-l4qmnk4rm0	Le free riding implique-t-il toujours une fourniture volontaire nulle ?
-ebr8svfyel	Oui, personne ne valorise le bien
-jha1yfod3c	Le problème porte sur la contribution, pas sur la valeur ; H peut financer h=6.
-1nbs5sydqvz	Non, un habitant peut financer un niveau positif mais insuffisant
-1592lqzbqt3	Ici H finance 6, alors que l’optimum collectif est 8.
-1koch21aobj	Non, il rend forcément le niveau efficient
-hioxuiqokt	Les bénéfices des autres restent absents du choix individuel.
-27edyea98v6	Une règle collective peut financer ce que chacun attend des autres
-2gftayytguw	Les habitants peuvent accepter une contribution obligatoire afin de financer le niveau commun. Cela empêche de bénéficier en refusant simplement de participer. Mais annoncer le bon niveau de service demande encore de connaître les bénéfices et les coûts ; la collecte d’argent n’est pas une preuve automatique d’efficacité.
-1h45k2nxdhw	Le financement obligatoire peut réduire le problème de free rider. Dans le benchmark, les paiements financent des ressources réelles ; il faut aussi examiner information, coût de collecte et effets des impôts si l’énoncé les inclut.
-py5sle90br	Changer la règle de contribution change l’incitation à garder son argent tout en profitant du bien.
-25kieb1k8vw	Le niveau efficient et la répartition du financement sont deux décisions différentes ; les bénéficiaires n’ont pas nécessairement les mêmes WTP.
-gcbv9sgcjs	À Q=3 dans A6, 12+9+6=27 justifie la dernière unité. Cela ne signifie pas que chaque habitant doit payer 27 € pour cette unité.
-yhv1osrgq7	Tu négocies avec les voisins : commence par déterminer si le passage vaut son coût, puis discute de la répartition de la facture.
-1d3jxmtcto6	Pourquoi « chacun paie MC=27 » n’est-il pas la condition du bien public ?
-2yxgjm3b39	Parce que les trois bénéficient de la même unité : leurs MB se somment
-twnplcwoee	Le coût de l’unité commune est compté une fois, et les bénéfices de chacun une fois.
-1avyln7s2xn	Parce que le service est gratuit à produire
-97tteyt3yu	MC=27 représente précisément les ressources nécessaires.
-8079l3wifd	Parce que seule la WTP la plus haute compte
-yi4v1pmlj9	La valeur des autres bénéficiaires compte aussi dans le surplus collectif.
-20omqicmjeg	Le pêcheur libre d’entrer prend aussi du poisson aux autres
-12wu5ez8trv	Un lac est ouvert à tous. Ton bateau rapporte une prise, mais il réduit le stock disponible pour les bateaux déjà présents. Tu compares ta propre recette au coût de partir en mer ; tu n’encaisses pas la perte que ton entrée impose aux autres pêcheurs.
-cn07nkegbb	Une ressource commune est non excluable mais rivale. L’accès libre pousse à l’usage excessif, alors que le bien public pur souffrait de sous-contribution.
-1ozi1tmu7ra	L’entrant récupère sa propre prise sans indemniser la baisse de prise des autres.
-29hec9kxrum	Une ressource précieuse peut donc être surexploitée précisément parce que chacun veut en profiter.
-xh6a7hjk9c	Ne pas payer pour une rue propre = free riding. Ajouter un bateau qui réduit la prise des autres = pression sur un commun.
-2ayhnvhetu4	Tu es le nouveau pêcheur : une sortie rentable pour toi n’est pas encore une preuve qu’un bateau de plus enrichit l’ensemble du lac.
-1t2q3q8kslk	Quel problème correspond au commun plutôt qu’au bien public pur ?
-1dbd7ehxtw3	Trop peu de contributions au service partagé
-dev25oqvj0	C’est le problème de financement du bien public.
-1hpxb3redkx	Trop de bateaux entrant dans une pêche rivale en accès libre
-25slhkatldk	Chaque entrant ignore une partie de la raréfaction qu’il impose aux autres.
-1n99746kr95	Un coût de production forcément nul
-1skakotd18y	Les bateaux consomment du carburant et du travail.
-1jzxdv0k9rs	Ta recette moyenne n’est pas ce que ton bateau ajoute au lac
-16soxv7fnpn	Avec n bateaux identiques, chacun partage la recette totale. Le pêcheur compare donc sa part moyenne au coût individuel. La société demande plutôt de combien la recette totale augmente si un bateau de plus entre : elle compte aussi la baisse de prise des autres.
+2ezyldva6hf	Les deux firmes
+cgbep37fgp	Calculent les profits après les réactions.
+1poo6z2fo0o	π2 = 225/28 ; π1 = 3249/392. Le suiveur gagne davantage ici.
+1qhbl8pbuab	La variable stratégique et le timing déterminent la bonne réaction.
+nod7uhoitx	Le prix dépend du marché, mais recettes et coûts utilisent les ventes propres.
+1e06cp4rbrm	Chacune maximise son profit conditionnellement au choix du rival.
+1esw9ldezpt	Simultané : intersection ; séquentiel : réaction anticipée substituée dans le profit du leader.
+z30klshd09	Les choix stratégiques doivent ensuite être traduits en résultats réalisables.
+k2thqojg22	Les formules intérieures et le résultat Bertrand homogène ont des hypothèses précises.
+io1inw7igi	En Cournot, chaque firme choisit sa quantité face à celle du rival tenue fixée pendant sa maximisation ; l’intersection donne 20 chacune, p = 30. En Stackelberg quantités, le leader anticipe BRF = 30−qL/2, la substitue et choisit 30 ; le suiveur 15, donc p = 25. En Bertrand homogène à coûts identiques et capacité suffisante, toute marge positive est menacée par une sous-enchère, d’oùp = MC = 10. Le résultat dépend des règles et des hypothèses, pas seulement du nombre de firmes.
+c8qpdww6l	Identifier prix ou quantité, et l’ordre des choix.
+238cq1o89v5	Écrire le profit propre de chaque firme.
+1sgb0c0nv4h	Construire les meilleures réponses.
+1zxlqxjh71d	Résoudre ensemble ou remonter depuis le suiveur.
+y1doie4uuy	Recalculer prix, quantités et profits.
+1sib3o26cou	Vérifier coûts, capacité, coins et conditions d’égalité.
+czx65ptu86	Explique pourquoi les mêmes firmes et coûts peuvent donner p = 30 en Cournot, p = 25 en Stackelberg quantités et p = 10 en Bertrand homogène. Décris ce qui est tenu fixé et ce qui est anticipé.
+yszkj2ravj	Variable stratégique
+1l6pj3bjgcn	Cournot et Stackelberg de base portent sur q ; Bertrand porte sur p.
+15ac1gbb9j6	Réponses simultanées
+eegx36arz1	Cournot résout les meilleures réponses en gardant le rival fixé lors de chaque maximisation.
+eodjtajvqa	Réaction anticipée
+214vva4pw0m	Le leader substitue la réponse du suiveur avant de maximiser.
+4lu0ucwdlq	Sous-enchère homogène
+s2scr34gsw	Avec mêmes MC et capacité suffisante, une petite baisse peut emporter le marché jusqu’à p = MC.
+28lnv6vil67	Produits différenciés, coûts différents ou capacité limitée peuvent laisser une marge.
+1jn370lx8yk	Le leader anticipe la réaction : qF change avec q L dans le profit substitué.
+9adlyxhs95	Cuivre : simultané, puis engagement
+1fnf6rjwpl	Exercice construit à partir de A5.3 et de la méthode L10 ; extension Stackelberg pédagogique, pas un corrigé officiel.
+2f0zqzqz34i	Substituer q F = 30−qL/2 → πL = (30−qL/2)qL ; qL = 30, qF = 15, Q = 45, p = 45 ;πL = 450, πF = 225.
+1o4ob9z0b9h	p = MC = 30 sous les hypothèses énoncées.
+m2qgrdj2om	La même marge-intercept 60 apparaît, mais le prix de marché est 90−Q.
+fwg4u3sqnw	Cournot :chaque firme optimise à qj fixé ; résoudre les deux réactions.
+e7zve9a5ej	Stackelberg :remonter depuis le suiveur, puis recalculer le prix.
+1o34rnzx82e	Bertrand :vérifier homogénéité, mêmes MC, capacité avant p = MC.
+1qcw5b1dxo0	Bertrand homogène :p = 30 ; demande totale Q = 60.
+v3anhu1wp7	Axes q1 horizontal, q2 vertical : BR1 q2 = 60−2q1 et BR2 q2 = 30−q1/2.
+1h8prrmizef	Intersection (20,20) ; leader 1 (30,15) sur BR2, pas sur BR1.
+cyl184sov	Ne pas confondre les axes de quantités avec un graphique de prix différenciés.
+cmtxhl112j	Nash exige…
+ihbh6yq94d	Aucune déviation unilatérale profitable
+14i3rthqc81	Chaque stratégie répond au choix effectif des autres.
+pl9x6s9ekv	Le profit joint maximal
+cv4mbbhqfr	Un accord profitable aux deux peut être déviable.
+2akd91bjl16	Des profits égaux
+1onftt1zr7v	Des coûts différents peuvent produire des profits différents.
+mezsfpgv7i	Bertrand et Cournot diffèrent d’abord par…
+868jjbzra	La variable stratégique :prix ou quantité
+2frzllogtt8	L’énoncé doit préciser ce que les firmes choisissent.
+207b1bfhynr	Le nombre exact d’entreprises
+ggxhtxp4la	Les deux peuvent concerner un duopole.
+2dch6bxaedd	La langue des questions
+2extt5alrt7	Les règles économiques déterminent le modèle.
+6g9jxy3lb9	Reconstruis le leadership en quantités.
+24yvcbuzdz9	Le suiveur observe le choix du leader
+7ht536q3uj	Sa meilleure réponse dépend de ce choix
+1pc6gzdzxws	Le leader substitue cette réponse dans son profit
+bx2asrozfk	Il choisit son engagement optimal
+1bm6jwk138n	Le suiveur observe le choix du leader → Sa meilleure réponse dépend de ce choix → Le leader substitue cette réponse dans son profit → Il choisit son engagement optimal
+23acv1m7ffp	Produit homogène, MC identiques, capacité suffisante :pourquoi p>MC est-il fragile ?
+o3eucnidwo	Une légère sous-enchère peut capter le marché avec une marge positive
+ap20yz900q	C’est la déviation qui empêche ce type de prix d’être Nash.
+2fn8iplyize	Parce que le profit devient automatiquement négatif
+sgn7n2blpc	Au-dessus de MC, la marge est positive.
+1zhu7dp7ylv	Parce que MR doit toujours égaler le prix
+1ekm8zseli3	C’est la sous-enchère, pas cette égalité, qu’il faut expliquer.
+1m96kqzrfw0	Reconstruis le profit individuel à MC constant.
+myd2mhrj2o	Utiliser le volume de la firme, pas le total du marché.
+20re8tnoezv	p = 25−Q, cT = 5, cG = 9 : qT = (a−2cT+cG)/3. Calcule qT.
+1g393ganp4w	qi = 10−2 pi+pj, coût effectif 3 :p = (10+2 c)/3. Prix symétrique ?
+zbl1370sf3	(10+6)/3 = 16/3 ; la différenciation permet une marge.
+uwh3udc6p0	Both firms choose best responses
+nl5ut5eb44	No profitable unilateral deviation
+20gegy32ehj	Differentiated products / retained demand
+1gt7ol7w567	No full-market undercutting result
+1qxuw7gybgf	Je choisis le modèle à partir de la variable, timing, homogénéité et capacité.
+4fe42izxb	Deux firmes ne suffisent pas à identifier un jeu.
+12ewthgegjp	Je reconstruis les réactions depuis les profits propres.
+1aczvnsf4aq	Le prix dépend du total ; le coût et le profit individuels utilisent qi.
+1mcbcsi4y6b	Je garde une même convention d’axes pour les deux réactions.
+9gxxfgya7o	BR1 doit parfois être réécrite pour se tracer dans les axes choisis.
+urw9ww058w	Je substitue la réaction du suiveur avant de maximiser le leader.
+e7sd4a2mm3	L’engagement séquentiel modifie comment le rival réagit.
+j4b3tes9nb	Je vérifie coins, coûts absents, tie-breaking et hypothèses du prix égal à MC.
+1d29n23vs8j	Les conclusions intérieures et Bertrand ne sont pas universelles.
+8llzvse7b7	Externalité négative — l’essence et ses voisins
+18b09mprbfs	Pollution, quantité excessive et correction
+21smhc2pzxb	Le conducteur et la station sont d’accord. Les voisins paient pourtant une partie du coût. Reconstruis le dommage ignoré, la taxe et la quantité efficace, puis change de contexte.
+pkp72k9fk4	Le conducteur
+fyjt576f8u	achète de l’essence pour ses déplacements
+zzgu305kj3	un litre dont la valeur dépasse son prix
+i2j5rvwkng	La station
+15ysmger7je	vend de l’essence sur un marché concurrentiel
+50927ihfly	couvrir le coût du litre supplémentaire
+272enjqtnc6	Les riverains
+1ghzyeopyaw	subissent la pollution sans signer la transaction
+1l4et6bl140	éviter les dommages respiratoires et environnementaux
+9q8fxpjmpp	compte gains et coûts pour tous
+dzsdndb89t	maximiser le bien-être total
+12bv7rlcohj	peut taxer ou plafonner la pollution
+1srrwz90s9p	faire entrer le dommage dans la décision du pollueur
+r68ovvh63q	Deux personnes s’accordent, une troisième subit
+n13vu5d3yx	Tu fais le plein. Tu gagnes un déplacement ; la station gagne une vente. Mais les habitants près de la route respirent les émissions. Aucun riverain ne signe ton ticket, et tu ne lui verses aucune compensation. Une partie du coût de ton déplacement reste donc hors du paiement.
+1fj6ju9a3jl	Une externalité négative est un dommage à des tiers non internalisé dans la décision privée. Ici, on suppose le reste du marché concurrentiel.
+1k8jgn7et5z	Le conducteur compare son bénéfice au prix payé à la station.
+1kv0fzfs75n	La station compare le prix à ses propres coûts.
+1h7u0b1xpk8	Le dommage des riverains ne figure dans aucun de ces deux calculs : un accord privé peut donc réduire le bien-être collectif.
+3226m7s20l	Un voisin dort moins bien à cause d’une activité bruyante : la perte de sommeil ne figure pas automatiquement dans les coûts comptables de l’entreprise.
+1awdl3yofi0	Tu peux être heureux de ton plein tout en imposant un coût à quelqu’un qui n’a rien choisi.
+95e6fhyvti	On commence sans courbe. L’axe horizontal comptera l’essence Q ; le vertical, la valeur ou le coût d’un litre supplémentaire.
+qihkiirc7b	Qui porte le coût que le ticket d’essence ne compte pas ?
+fkmnygdx0v	La station qui achète l’essence
+xphilkfhij	Son approvisionnement est déjà un coût privé.
+11k47v1x3rf	Leur dommage ne passe pas par le prix de la transaction.
+btrsm4zy3o	Le conducteur qui paie son plein
+1s7l399k4ul	Ce prix est précisément dans son calcul privé.
+1moya2j4gq2	Le marché s’arrête au dernier litre rentable pour les deux
+xaou7zpd5n	Pour le conducteur, chaque litre de plus sert un usage moins urgent. Pour le vendeur, fournir davantage coûte progressivement plus. Tant que la valeur du litre dépasse son coût privé, acheteur et vendeur peuvent trouver un prix qui leur convient.
+22c7n7dk2yc	Dans le cas L11/E2023 : {{MPB = 100 − Q}}, {{MPC = 10 + Q}}. L’équilibre concurrentiel privé vérifie MPB = MPC.
+1b83m5megq3	Si la valeur dépasse le coût privé, il reste un gain privé à échanger cette unité.
+1texw7fq2hg	Si le coût privé dépasse la valeur, cette unité ne peut satisfaire les deux parties.
+177cpcj7zeq	Le point d’arrêt privé ne contient encore aucun dommage des tiers.
+2eaiwwiqw0y	100 − Q = 10 + Q donne 90 = 2Q, donc Qm = 45 et p = 55.
+1lvmjb0v4op	Tu acceptes le 45e litre à 55 ; le vendeur accepte de le fournir à ce prix. Aucun de vous ne demande aux riverains si ce litre leur coûte quelque chose.
+1vfhu4hw0rc	Clique les courbes : leur intersection fixe Qm = 45, p = 55. Le curseur montre les deux valeurs pour le même litre.
+49w7rkpged	Résous 100 − Q = 10 + Q. Quelle quantité privée ?
+2a6cn1tlpjv	Quel prix au marché privé Q = 45 ?
+9558qndt07	Le dommage du litre suivant n’est pas le dommage total
+28o96hf2ze1	Au fur et à mesure que le trafic augmente, un litre supplémentaire cause davantage de dommage. Le dossier mesure ce dommage marginal par Q. Au niveau Q = 45, une petite unité de plus fait donc subir 45 de coût aux tiers. Cela ne veut pas dire que tout le dommage déjà causé vaut seulement 45.
+f3d82zh3qr	[[MEC]] = marginal external cost, coût externe marginal. Ici MEC(Q) = Q ; le dommage total de 0 à Q est l’aire sous MEC, soit Q²/2.
+26u5p8tnsd1	Marginal répond à « que change l’unité suivante ? ».
+19q8exwgyr4	Total additionne les dommages de toutes les unités déjà consommées.
+w5ofueio5v	Comme MEC augmente, multiplier la dernière hauteur par toute la quantité surestime l’aire : la bonne forme est ici un triangle.
+2gbnq2dj6o2	À Q = 45 : MEC = 45, mais dommage total = ½ × 45 × 45 = 1 012,5. Ce n’est ni 45 ni 2 025.
+1kddfwr241f	Le dommage du trajet supplémentaire ne remplace pas la somme des dommages de tous tes trajets.
+25rhwew8g4w	La hauteur MEC est marginale. L’aire EXT additionne les dommages pour toutes les unités jusqu’à Q.
+182ahcdajln	MEC = Q : quel dommage total pour Q = 45 ?
+p23w8g224x	L’intégrale de q entre 0 et 45 vaut 45²/2 = 1 012,5.
+2dnb2odrnit	€ au total
+15mikfbm2f9	À qui coûte réellement le litre ?
+i89pmw2exa	La société ne choisit pas entre le coût de la station et celui des riverains. Elle compte les deux : les ressources utilisées pour fournir le litre, puis le dommage qu’il impose. Le coût social du litre suivant est donc plus haut que son coût privé.
+o6zf2bfg7w	[[MSC]] = marginal social cost. Ici {{MSC = MPC + MEC = 10 + 2Q}} ; aucun bénéfice externe n’est supposé, donc MSB = MPB.
+w0wjektky6	La station paie 40 pour un litre supplémentaire, les riverains subissent 30. Quel coût compte la société ?
+1h3pta57l2v	40 seulement
+yg2gtp9vk4	Cela exclut les riverains.
+16b558u9yp9	70, car les deux coûts sont réels
+f0xvvysfgk	Exact : 40 + 30.
+q4bdcqkhho	10, car on soustrait la pollution
+2ciivrx6td	Le dommage ajoute un coût ; il n’en retire pas.
+2vqn4b3eq1	L’écart vertical MSC − MPC est exactement le dommage marginal MEC.
+1xhwnoxyopu	Le producteur consomme des ressources : c’est un coût réel.
+1o9uqmuuxjs	Les riverains perdent du bien-être : c’est aussi un coût réel.
+299v1dfbqyx	Les deux concernent la même unité ; on additionne leurs valeurs marginales, sans compter deux fois le même coût.
+17bxdh6ma9w	À Q = 30 : MPC = 40, MEC = 30 et MSC = 70.
+1tvkjxr7grf	Si tu es à la fois conducteur et parent d’un enfant riverain, le dommage ne disparaît pas parce qu’il n’apparaît pas sur le ticket.
+133brcthl0v	À une même quantité, lis MPC puis MSC : l’écart est MEC, pas le dommage total.
+261iy82ym4w	Reconstruis le coût social marginal.
+uicag861pj	Coût de production + dommage aux tiers pour la même unité.
+10k6lfub1fw	Le dernier litre que la société voudrait garder
+2d891w7qbab	La société garde les litres dont la valeur dépasse tous leurs coûts. Elle s’arrête quand le litre suivant vaut exactement ce qu’il coûte au total. Au-delà, même si le conducteur et la station gagnent encore ensemble, le dommage des riverains dépasse ce gain.
+2d3omu5kpkb	Optimum intérieur : {{MSB = MSC}}. Ici 100 − Q = 10 + 2Q ⇒ Q* = 30.
+23417cqf7hq	Avant Q*, une unité supplémentaire ajoute davantage de bénéfice que de coût social.
+q46wv4zgkl	Après Q*, elle ajoute davantage de coût social que de bénéfice.
+wmneqa9g11	Le marché privé s’arrête à 45 car il ignore MEC : il consomme donc 15 unités de trop.
+1sb4iginvpz	À Q = 35, MPB = 65 et MSC = 80 : ce litre détruit 15 de bien-être, malgré un coût privé de seulement 45.
+oeuqesohab	Un déplacement peut encore te sembler rentable parce que le prix ne te fait pas supporter la gêne des autres.
+90mg68j08y	Q* = 30 est à l’intersection MPB–MSC. Qm = 45 utilise MPB–MPC : ce sont deux comparaisons différentes.
+130m4n19zga	Résous 100 − Q = 10 + 2Q. Quelle quantité efficace ?
+1ul7siwqbdx	Pourquoi Qm dépasse-t-il Q* ?
+1hsgjld57lf	Les riverains achètent trop d’essence
+i987xw2n0v	Ils subissent l’effet ; leur achat n’explique pas la distorsion.
+1djijur1ga4	Les décisions privées ne comptent pas MEC
+p0isr0hqqz	Le coût perçu est plus faible que le coût social.
+25ly7ey3zjm	La demande est égale au dommage total
+21vjy4csdpb	MPB mesure la valeur privée marginale, pas les dommages.
+16vwn5591d8	La perte vient des unités en trop
+198w0demy9x	Les 30 premières unités restent utiles socialement. La perte d’efficacité vient des unités entre 30 et 45 : chacune coûte socialement plus qu’elle ne vaut. On additionne seulement cette différence sur l’intervalle excessif, pas tous les dommages de toutes les unités.
+2f45bvfyw9f	DWL = aire entre MSC et MSB de Q* à Qm. Les courbes sont linéaires : {{DWL = ½ × (45 − 30) × 45 = 337,5}}.
+igix0dufw5	Le dommage total inclut des unités dont le bénéfice justifie encore la production.
+1hdmh5w8kdk	DWL compare le bien-être obtenu à celui de la meilleure quantité réalisable dans le modèle.
+y0kjfdyz22	À Q = 45, MSC − MPB = 100 − 55 = 45 ; à Q = 30, cet écart est nul. D’où le triangle.
+1obhpz0qo74	Dommage total 1 012,5 et DWL 337,5 ne répondent pas à la même question.
+1nackaxw0wc	Supprimer toute l’essence supprimerait aussi des déplacements très utiles. L’efficacité demande de supprimer les unités dont le coût total dépasse la valeur.
+15xgxpd2ld4	Compare les zones EXT et DWL. L’une mesure tout le dommage ; l’autre seulement la perte nette évitable due à Qm > Q*.
+23uryg4sk3q	Triangle entre 30 et 45, hauteur finale 45 : quelle DWL ?
+22cl2jwbbi1	Pourquoi la DWL est-elle plus petite que le dommage total ici ?
+24wg6t0uxag	Parce que les dommages des riverains ne comptent pas
+19phomicign	Ils comptent entièrement dans MSC et le bien-être.
+zmizyt23hh	Certaines unités polluantes restent socialement utiles
+nvtalpfdq3	Leur bénéfice dépasse leur coût social ; elles appartiennent à Q*.
+zj28d0rcqt	Une taxe change ce que décide le conducteur
+1ou8zf0krmt	L’État peut faire payer un montant par litre. Le conducteur paie alors davantage que ce que la station reçoit. Cet écart réduit la quantité choisie : un litre qui semblait rentable au prix privé peut cesser de l’être avec la taxe.
+miafmm37f2	Coin fiscal : pb − ps = t, avec pb = MPB(Q), ps = MPC(Q). Équilibre : MPB = MPC + t.
+15g3dlaq9c3	Les acheteurs décident selon ce qu’ils paient réellement, pb.
+1g26l93ljhh	Les vendeurs décident selon ce qu’ils reçoivent, ps.
+1rxsqvjyr3z	La taxe relie ces deux décisions : pb = ps + t. Celui qui verse administrativement la taxe ne supporte pas forcément toute sa charge économique.
+12cd9l9hwsy	Avec t = 20 : 100 − Q = 10 + Q + 20 ⇒ Q = 35. pb = 65 ; ps = 45 ; 65 − 45 = 20.
+1iwcr2ve9hf	Tu ne compares plus la valeur de ton litre à 45 reçus par la station, mais aux 65 que tu débourses.
+1f4ft6xnyp2	La courbe MPC + taxe fixe la décision privée après intervention. La taxe de 20 ne rejoint pas MSC partout.
+2gg8iftzlth	Avec une taxe de 20, quelle quantité échangée ?
+bnwcix83l6	À Q = 35, quel prix paie le conducteur ?
+1q4r3avtt4	Quel prix net reçoit la station ?
+2g0elkgs1nj	Une amélioration n’est pas forcément l’optimum
+10vxnvcyl2o	La taxe de 20 retire dix unités excessives, mais le marché reste à 35 au lieu de 30. À 35, le dommage marginal est 35, supérieur à la taxe. La dernière unité reste trop bon marché par rapport à son coût social.
+uq2bireerh	DWL résiduelle : ½ × (35 − 30) × [MSC(35) − MPB(35)] = 37,5.
+1lr6nxeda4s	Il faut comparer la quantité après taxe à Q*, pas seulement constater qu’elle a baissé.
+zg3z4g1hl9	Entre 30 et 35, le coût social dépasse encore la valeur.
+2crrla1sa8q	La recette fiscale est un transfert vers l’État ; ce n’est pas en elle-même une destruction de ressources.
+1ijnuco3e97	À Q = 35, MSC = 80 et MPB = 65 : hauteur 15, base 5, donc DWL = 37,5. Recette fiscale = 20 × 35 = 700.
+13skzympsav	Tu peux dire « c’est mieux » en comparant 337,5 à 37,5, puis « encore insuffisant » en observant Q > 30.
+1pqq40xovd4	Le petit triangle résiduel est la perte évitable. Le rectangle de recette fiscale est un transfert.
+1scvmseen6l	Après taxe 20, base 5 et hauteur 15 : quelle DWL reste ?
+1b699pheeoa	Les 700 de recette fiscale sont-ils automatiquement une DWL ?
+1o33b6ta70e	Oui, tout paiement de taxe disparaît
+24dy3gzgrkx	L’argent est reçu par l’État ; il ne s’évapore pas.

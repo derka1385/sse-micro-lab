@@ -1,0 +1,394 @@
+13iyryut0m0	recette − coût VARIABLE
+1kgz7wala7h	Profit
+csy5837izl	recette − coût TOTAL = PS − FC
+8qe7f6a0zm	Égaux seulement si FC = 0 (§6.5).
+2ei2jcrswbo	L6 : R = 72, VC = 36, FC = 10. PS et profit ?
+r6wvtqpn3j	PS = 36, profit = 26
+1f7y3izm257	PS = 26, profit = 36
+248ltnucpsy	PS = profit = 26
+7jvvmkupjf	PS ignore FC.
+1zsisn2wapi	Additionner verticalement des demandes privées
+1tdg6qo9hg3	Bien privé
+1plsssrddu2	chacun consomme SA quantité : additionner les QUANTITÉS au même prix
+adr5ing43y	additionner les prix des demandes privées
+1i6bue8zj0l	« Pour additionner les demandes privées : additionner les quantités au même prix, pas les prix » (§2.4).
+1rzta18sa3s	q_H = 10 − p, q_L = 5 − p. Demande de marché pour p ≤ 5 ?
+1c3dzd61hs9	Addition verticale : faux pour un bien privé.
+2a4l7utpa48	Il manque le groupe L.
+gdhp8fw2vj	Additionner horizontalement les demandes d’un bien public
+1drure6w3ey	Bien public
+1iiqzw7uptr	tous consomment le MÊME Q : additionner les bénéfices marginaux au même Q
+28x3mjge324	additionner les quantités au même prix
+c1x1gpn1da	Wifi E2022 : « ne pas écrire Q = 300(10 − p) : chaque personne consomme la MÊME vitesse » (§11.8).
+22igym3bvc0	MB_L = 10 − h, MB_H = 20 − h (h ≤ 10). Bénéfice marginal social ?
+1f2st4k4do	Addition horizontale : faux pour un bien public.
+dmlkhps1iv	On additionne, on ne fait pas la moyenne.
+8m06a9fry3	Confondre pente et élasticité
+9a2cl24xsh	Pente
+4bliq1431c	dQ/dp, en unités/€ ; constante sur une demande linéaire
+27133v1eq9i	Élasticité
+17aouo626px	(dQ/dp)·(p/Q), sans unité ; varie le long d’une demande linéaire
+17n7t9c5plg	« Demande linéaire : dérivée constante, epsilon VARIABLE » (§5).
+1yymx6polkj	Q = 10 − p, à p = 2 : élasticité ?
+1r90rh4w4xe	C’est la pente.
+25bx9mq08ld	Facteur p/Q = 2/8.
+1tdjlpvf8li	Confondre antisélection et aléa moral
+29rc6jo8mqa	TYPE caché (qualité, risque), souvent AVANT le contrat
+mqvfms7yqx	ACTION cachée (effort), souvent APRÈS le contrat
+20l29lckkwo	Diagnostic central : qui sait quoi, à quel moment, et quel choix cela affecte (§12.1).
+9f7b7wxshj	Après avoir obtenu le prêt, l’entrepreneur peut réduire son effort sans que la banque le voie.
+1we6vgsw0pq	Ce qui est caché est une ACTION après le contrat.
+1m5ky33fols	Confondre MRS et MRTS
+r2hhnkxjqd	consommateur : MU_x/MU_y, pente de la courbe d’indifférence
+tmawj2fs8t	producteur : MP_L/MP_K, pente de l’isoquante
+26qq5xztsul	Même logique (taux d’échange à « satisfaction » constante), objets différents : utilité vs production.
+1eulsvzn61s	Pente d’une isoquante (L horizontal, K vertical) ?
+241ih7ztx28	C’est l’indifférence.
+28e8qttb2vy	C’est l’isocoût.
+hdlcn815h2	Confondre concurrence en quantités et en prix
+1kp4kr53279	QUANTITÉS simultanées : marge positive (p > MC)
+wx66v7htng	PRIX simultanés, mêmes MC : p = MC
+dl0at06m3z	La variable stratégique change tout : sous-enchérir sur un prix capte tout le marché ; augmenter sa quantité fait baisser le prix commun.
+1kh2mboemt1	Deux firmes fixent simultanément leurs prix, produit identique, MC = 10 pour les deux. Prix d’équilibre ?
+1qeqp5sir99	Au-dessus de 10
+k8ly2qrl	Chacune aurait intérêt à sous-enchérir.
+24p9h1vgz78	Prix de monopole
+156qib6eslc	Il faudrait une collusion.
+2fw3lm7w8pr	Oublier la réaction du suiveur (Stackelberg)
+q4r4eutkoj	substituer qF(qL) dans le profit du leader AVANT de dériver
+1la6a8hxc1o	traiter qF comme constant — c’est Cournot
+8h0082qbri	« Ne pas traiter qF comme constant ici » (§10.5).
+1vpgnk9dphw	L10 : a = 70, c = 10. Quantité du leader ?
+1xk2k4hpw8r	C’est Cournot.
+1qfnpdyjbsr	C’est le suiveur.
+cwbh9cjmtj	Utiliser Q du marché dans le profit d’une firme
+111iobnc8d7	Firme i
+qoosxpzpda	profit = (p − c_i)·q_i avec SA quantité
+8p8uthgjqm	utiliser la quantité totale du marché
+3bipoefk8	« Ne pas insérer Qtotal 40 dans la fonction de coût d’une seule firme » (A5.3).
+1nncym69rko	Cuivre : p = 50 à l’équilibre, MC = 30, q1 = q2 = 20. Profit de la firme 1 ?
+1jwu9v6zte6	Q total.
+1qlf3k2lhy1	Q total × 40.
+1fjwbczdai6	Arrêter dès que le profit est négatif
+1sjbv1fnlf3	Court terme
+1x11k450qcf	produire si p ≥ AVC : la perte peut être inférieure à FC
+1cahytn7izq	Long terme
+1oxj642jj4d	rester si p ≥ ATC, sinon sortir
+1oeb2fqivwo	Avec FC inévitable, s’arrêter coûte −FC : produire est mieux si la recette couvre le coût variable (§6.6).
+p78d1ap16i	AVC < p < ATC, FC inévitable. À court terme ?
+wbtufkbknb	Produire : la perte est inférieure à FC
+12z5z12o7ja	Arrêter : le profit est négatif
+29vsdjwyxls	Arrêter fait perdre tout FC.
+1fw081lre0w	Confondre tarif à deux parties et abonnement seul
+110vlcntc63	Tarif à deux parties
+1j3wr03ecxc	F + p·q avec p = MC : quantité efficiente, F = CS
+a8f9uj84p9	p = 0 : consommation jusqu’à WTP 0, coûts réels au-delà de l’efficient
+1m27d94eiiw	L9 : p_D = 10 − Q, C = 2Q ⇒ deux parties π = 32 ; abonnement seul π = 30 (§9.5).
+zucldap75k	p_D = 10 − Q, C = 2Q. Profit du tarif à deux parties ?
+22e5zqsqvt4	C’est l’abonnement seul.
+93efi4sxsl	C’est le monopole à prix unique.
+wb940ajf01	Confondre avantage absolu et comparatif
+85w2ums8v6	moins de ressources par unité
+14k7zzvkann	coût d’opportunité plus faible
+el1in4fjr7	Deux pays gagnent à l’échange même si l’un est meilleur en TOUT (§14.1).
+20gvs2fztj6	E2024 : Athènes pain 4h / olives 2h ; Sparte 5h / 5h. Avantage comparatif en pain ?
+rb09zhgkzl	Sparte (1 olive par pain contre 2)
+20x0lkk7oei	Athènes
+1e6bb165vsq	Avantage absolu, pas comparatif.
+7lprdgsrg	Confondre produit marginal décroissant et rendements décroissants
+1q0zqqjkjhp	Produit marginal
+298rdfx5ovx	UN input augmente, les autres fixés
+2g7qdhojy3t	Rendements d’échelle
+135adf3kbrm	TOUS les inputs × t
+1wyoze15eed	« sqrt(KL) a MP décroissants et rendements constants » (§6.3).
+m4ionm6d3g	Q = √(KL) : MP_L décroissant ; rendements d’échelle ?
+1s2q6pgaroq	Constants
+24v6kqkhxap	Décroissants
+1zrg50d8qk4	Tous les inputs × t ⇒ Q × t.
+5suszplv59	Calculer le profit de la banque sans vérifier l’action choisie
+1k6vwch800v	vérifier d’abord l’action choisie (IC), puis le profit avec la bonne probabilité
+12idvfwq8jb	utiliser pH sans vérifier que l’agent choisit H
+1bngqut9ml0	A6 : avec b = 6 et Bk = 30, l’entrepreneur choisit L (10 > 8) ⇒ banque 0.4 × 30 − 20 = −8 (§12.5).
+1k4azb4s8bs	A6 crédit, b = 6, remboursement 30. Profit espéré de la banque ?
+jte4ryddhz	−8 (l’agent choisit L)
+2cj4wmjdiol	Suppose H, que l’agent ne choisit pas.
+ezb1jzwwht	valeur de l’unité suivante pour l’ACHETEUR seul
+kj1u8xgi8u	valeur de l’unité suivante pour TOUTE la société
+1xbjbcaahav	l’acheteur seul vs tout le monde
+12fdpd1zeh7	la différence = MEB / bénéfice des tiers
+1erctts8duk	ce que paie la firme pour l’unité suivante
+nznztw7m0d	ce que supporte réellement la société pour l’unité suivante
+g6gm1ud9xx	la firme vs la société
+fpuam93ect	la différence = MEC / dommage aux tiers
+11ji1l5gyy	bénéfice pour les tiers d’une unité de plus
+122or3n5qvf	dommage pour les tiers d’une unité de plus
+26c4d4v326z	bénéfice vs dommage
+23gzgr59l04	côté demande vs côté offre
+19w6m5mb0sa	trop peu vs trop
+8m8wwodlzw	marché : MPB = MPC (privé)
+alhxgzg834	optimum : MSB = MSC (social)
+r41wuownzv	ils diffèrent avec une externalité
+9xml3ta39h	recette en plus d’une unité de plus
+1n2v5b2jufo	prix payé par les acheteurs, lu sur la demande
+16c5zlmhya2	MR < p en monopole
+7fw6dyfng8	baisse du prix sur toutes les unités
+sv6q38vw62	prix lu sur la demande
+15jxp63esd0	coût de l’unité suivante
+10aoo4s31ce	coût total moyen par unité
+1ky8aocauwz	MC = unité suivante / dérivée
+q56t0pwito	ATC = total / Q
+a76969bhtd	MC coupe ATC au minimum
+3adir8ar1q	gain des acheteurs
+21kc1289rkc	gain des vendeurs
+190gdicgdgc	CS : valeur − prix payé
+5dl4mv6tn5	PS : prix reçu − coût
+uhcd3khejw	aires de part et d’autre du prix
+1dham5r0cxg	PS ignore le coût fixe
+pbtvpgcek4	profit = PS − FC
+tt6hn2hubt	consommateur, deux biens
+1qwzxyjtvxn	producteur, deux inputs
+24sqyomti3q	MRS : utilité / indifférence
+1xm2vq99jfq	MRTS : production / isoquante
+zvobvpopfd	antisélection
+4byczm4ztv	aléa moral
+1dh95s7jl9d	type / qualité caché
+1ouwyappiia	action / effort caché
+14ntrbn9fxa	avant vs après le contrat
+efressfsq	Cournot / Bertrand
+26au2scuunp	simultané : quantités / prix
+1rujcr392dy	Stackelberg
+23fpvxlrujg	séquentiel : un leader, un suiveur
+2ebb10supro	Cournot = quantités
+23yjb11is1t	Bertrand = prix
+18xfqwwapy	Stackelberg = séquentiel / leader
+w6y2rmwhsd	Demande directe
+1nyacp9tbjx	Demande inverse
+2fw10ws0zt6	Q en fonction de p vs p en fonction de Q
+18uckeysxam	on trace l’inverse
+1zy4s4hn9qv	facteur p/Q
+ah4spg2dv2	sans unité / en %
+6r9326fa0y	varie le long de la demande linéaire
+8o98npxxpt	Somme horizontale
+15q1iv2iriv	biens privés
+ggm4k75r6h	Somme verticale
+2cy6s3tg24u	biens publics
+dd2hhavswl	privé : quantités au même prix
+1ht8y4pi7iu	public : bénéfices marginaux au même Q
+1y2vs76jbfg	pourquoi : même Q pour tous
+1qgziu8i6x	triangle
+1zb13x3cy7d	recette = transfert
+uqqhewn18o	DWL = échanges perdus
+1i31mpb490s	tri
+y848mg4u4t	Signalling
+1tn795nlp5d	signal
+144li0kxpdx	screening : partie moins informée
+1hjrvs4eadt	signalling : partie informée
+qw4c5n7ez8	signal coûteux à imiter
+17l42xu19jq	non rival, non excluable
+dcyiqiogv1	rival, non excluable
+17grn25t3j0	rivalité : différence clé
+3ygvag53fz	bien public : passager clandestin / sous-contribution
+2dx80sbodrg	commun : surexploitation
+17g8xtr23n1	Shutdown (CT)
+1bsaijr5mxo	arrêt à court terme
+6ns1n930h6	Exit (LT)
+1pm0pj0jwd0	sortie à long terme
+26epuxy5lft	court terme : AVC
+1zyfkc9qci2	long terme : ATC
+1en1ung2car	le coût fixe est perdu à court terme
+2egh7f6ng2o	technologie
+2mqjzcx8xm	Économies d’échelle
+24xryan4gfn	coûts
+22flqt44syi	rendements = tous les inputs × t
+gqvy8vlx5v	économies = coût moyen
+1sorrsqierg	F, usage gratuit
+zq9za8x03p	deux parties : prix d’usage = MC
+1qrwf6w1mz1	abonnement : usage gratuit / p = 0
+1yyk7mx3grp	surconsommation / unités coûteuses
+2aplrhmn0qw	Vaccins
+1pawbpy3skc	Qui décide de la quantité ?
+313bm3837	Les acheteurs et vendeurs d’un marché concurrentiel
+c78k5tohpe	le texte dit « competitive market ».
+3s8te70v20	Un monopole qui fixe le prix
+ljgjyahp5h	Non — le texte dit « competitive market ».
+2gm5nkqjbwd	Un planificateur
+1mi8bra1xdp	Effet sur des personnes hors transaction ?
+v6rmmp72wa	Oui, un bénéfice
+6fbdba2yyu	les autres sont moins contaminés : un bénéfice non payé.
+wlk18cj90o	Oui, un coût
+rxozwbvdll	Non — les autres sont moins contaminés : un bénéfice non payé.
+17pfom38fy5	Information cachée ?
+20qj3f5mu30	rien n’indique qu’une partie sache quelque chose que l’autre ignore.
+jaln5owumm	Type caché avant contrat
+2cei0nnkuwz	Non — rien n’indique qu’une partie sache quelque chose que l’autre ignore.
+25k35jbzydd	Action cachée après contrat
+2bk1eewpr1o	Externalité positive : MSB = MPB + MEB
+23g9ssrs8rk	Les tiers gagnent : bénéfice externe.
+1tm6op2763l	Bien public (somme verticale)
+1zd24f8efdb	Une dose est rivale et excluable : bien privé avec effet externe.
+vj95o99tm7	Aucune action cachée.
+14gu6na1dgm	« lowers the risk that other people get infected » + « not paid » = bénéfice externe non compensé ⇒ MSB au-dessus de la demande, le marché vaccine trop peu.
+26yezk2zpmi	Centrale à charbon
+awiquu12e7	la fumée nuit aux riverains.
+1ju2m9apa34	Non — la fumée nuit aux riverains.
+dqjbhaea99	Ce coût est-il dans MPC ?
+26zc4ds36kl	les centrales ne paient pas le dommage.
+1dj48q2lbf2	Non — les centrales ne paient pas le dommage.
+2estxtkrn1m	Rival stratégique ?
+1thp47333jp	Non : marché concurrentiel
+2bxijahty1n	les centrales sont price takers.
+1tox3hsbtxb	Oui, en quantités
+vorj1xlqlo	Non — les centrales sont price takers.
+nvcdcx9fl0	Oui, en prix
+2dmhdo73la5	Externalité négative : MSC = MPC + MEC
+nuwq16aedq	Les tiers perdent.
+mhm57s8w8c	Le problème est un dommage lié à la production.
+f54g8hg2vg	Rien de caché.
+1v6yrgd9riy	Dommage imposé aux tiers et non payé ⇒ MSC au-dessus de MPC ; le marché produit trop. E2021 Q1c : « coût imposé à tiers non incorporé dans le coût privé ».
+1bsaqcoed1d	Usine textile et spa
+1kp1bj19smh	Qui subit l’effet ?
+1s34oqi7tdl	Le spa, qui ne participe pas au marché du textile
+1rzeyuq9yhy	le spa est un tiers.
+26rrgrnvuj7	Les acheteurs de textile
+7dx5ap9lht	Non — le spa est un tiers.
+16ctop41es4	L’usine elle-même
+6yv2otybx7	Bénéfice ou coût pour ce tiers ?
+9u9dwbwepr	Un coût
+27aahswe0v7	il perd des clients.
+27svg1c0xhx	Un bénéfice
+d2nd51v30	Non — il perd des clients.
+1l3rhtydc6a	Externalité négative (taxe t* = MEC(Q*))
+1u0zl639pwc	Le textile est un bien privé.
+d737hemfl9	Le marché est concurrentiel.
+1bf6hvbx00r	Pas d’action cachée dans un contrat.
+1kox83ua3g9	Dommage au spa ⇒ MSC = MPC + MEC. E2024 ajoute la question de la fusion usine–spa (internalisation, mais pouvoir de marché possible).
+tzdj3dqvqq	Duopole du ciment
+1ahcszcino3	Qui décide ?
+1h0929yyw7x	Deux firmes
+1d1h7fffw1v	deux producteurs.
+t19zfgb57h	Un monopole
+2d0ybkpanmo	Non — deux producteurs.
+169h1ki7s4i	De nombreuses firmes price takers
+nfbnns64iv	Que choisissent-elles ?
+28f68hw17yd	Des quantités
+spoqmpi4ie	Des prix
+27qccetxiow	Un effort
+267tgpz25eb	Ordre des décisions ?
+1uwlycw6pln	Simultané
+2bgg81av9oq	L’une avant l’autre
+3t4mc722sj	Bertrand
+1qf4nq6czss	Bertrand = prix. Ici les firmes choisissent des quantités.
+1ur3g2lhe3c	Personne ne choisit en premier.
+2f1o6n0zymm	Deux firmes stratégiques.
+qfugrmgy0a	Lynn choisit d’abord
+2ciwbxzl156	Que choisissent-ils ?
+19wgquuk68l	« production quantity ».
+198y9lk4wcy	Non — « production quantity ».
+1ks229tkuxu	Ordre ?
+izmaqo0kde	Séquentiel : Lynn d’abord
+q1956kl4g1	Stackelberg en quantités
+18jkrpxt5my	Cournot = simultané. Ici le leader anticipe la réaction du suiveur.
+n0zv2h8tc7	Ce sont des quantités.
+1ceuh4po7pe	Leadership en prix
+1gff152r1w9	« first » + « observes » ⇒ Stackelberg : substituer la réaction du suiveur dans le profit du leader avant de dériver (§10.5).
+disdcbj5lg	Produits différenciés
+p5tnnrulkq	Produits ?
+1ziia01k7xu	Différenciés
+w9q5sduycx	Homogènes
+20apg9jo6ap	Bertrand avec produits différenciés
+wr4o6mdsjg	Bertrand homogène (p = MC)
+17zcu7tihgp	Les produits ne sont pas identiques : chaque firme garde une demande positive au-dessus du prix rival.
+f2k1xs1gtz	Variable stratégique = prix.
+jk5zhryiog	Décisions simultanées.
+pu5i3skdeo	Prix + différenciation ⇒ BR_i = (A + Bc_i + Dp_j)/(2B), réactions croissantes (prix compléments stratégiques).
+1gdx21d4j0t	Trois vendeurs identiques
+1b2me180yd	« set prices ».
+1gmpv1eopxy	Non — « set prices ».
+u8awcj6bqt	Produit ?
+1kp69kuil9a	Homogène
+1fmtrcfzalb	« identical product ».
+22u1smbbc0p	Différencié
+1h3l60suh6w	Non — « identical product ».
+1qoc5bdkr59	Bertrand homogène à coûts asymétriques (prix ≈ 7)
+24tehswj4o	Ce sont des prix.
+ydxk5fr0g2	Prix de monopole de la firme à MC 5
+chshu0i6kl	Le rival à 7 limite le prix.
+phpfxocka6	p = 5 pour tous
+16kt0qhvw6j	La firme efficace peut garder une marge jusqu’au coût du rival.
+58d2wrba4k	La firme à MC 5 sert le marché en limitant son prix au coût du concurrent le plus efficace (7, souvent écrit 7 − ε) ; nuance sur les égalités en §10.6.
+24xb5eyl8ze	Prêt bancaire
+3k7bj6p37f	Qu’est-ce qui est caché ?
+219thtkfepb	Une action (l’effort)
+q3hdi0dcvq	« cannot observe effort ».
+195pr3u9u9u	Un type (la qualité du projet)
+6rljx51vt	Non — « cannot observe effort ».
+12ydda9shqn	Rien
+h6f9a5djyb	Quand ?
+29bkatv6apf	Après le contrat
+221c6nwgww7	Avant le contrat
+d01rwhgwr3	Aléa moral (contrainte IC)
+29r3w6dqqg1	Personne n’envoie de signal.
+1f7eyaxa1zu	Aucun bien non rival.
+1q73evkk7k8	Action cachée après contrat ⇒ moral hazard : IC (pH − pL)(R − Bk) ≥ b, puis profit bancaire avec la probabilité de l’action réellement choisie.
+1f2m3pcs8df	Place de marché en ligne
+gjhzotkz1l	La qualité (un type)
+1bfiwe4gt1u	Avant la transaction
+odzrlo71ei	l’acheteur doit décider avant de connaître la qualité.
+4cwuk9pub2	Après la transaction
+zmaokqxaxx	Non — l’acheteur doit décider avant de connaître la qualité.
+21deqpdx9l6	Antisélection (lemons)
+1sc2klk9mux	C’est la QUALITÉ qui est cachée avant l’achat.
+10f4d2c8z75	Pas d’effet sur des tiers.
+12f358n4swb	Pas de concurrence en prix décrite.
+bzfz0svdyf	Qualité cachée avant l’échange ⇒ lemons ; garanties, retours et réputation réduisent l’antisélection (§12.2).
+33oivl4i9a	Avis sur les hôtels
+2ajgl7q0qmu	La qualité, avant la réservation
+1j1yaw654l	« before booking ».
+zjqlixe0g3	L’effort après la réservation
+12cjas34ojq	Non — « before booking ».
+1xhvx3a8hfh	Antisélection atténuée par l’information/la réputation
+snxe46fva7	Type caché avant l’achat.
+uqn1ldzd20	Effets de réseau seulement
+288aha5x4tg	Le cœur est l’information sur la qualité.
+11csv9t0hpm	Discrimination
+x2x7whswnr	Pas de prix différents.
+11mrck7x8rw	Les avis révèlent la qualité : moins d’antisélection, l’avantage informationnel des chaînes diminue (E2023 Q3b).
+5jgc7fk0xv	Wifi public
+ck2ojfqhe9	Excluable ?
+8po7corvp0	Rival ?
+c2ckpxez8x	Comment additionner les demandes ?
+s41zclj58m	Verticalement : somme des MB au même Q
+25asnu1gjos	tous consomment la MÊME vitesse.
+21t5ki243bj	Horizontalement : somme des quantités
+flzs04gf57	Non — tous consomment la MÊME vitesse.
+cawarhwvl	Bien public : Σ MB_i = MC
+1wbbqmk4pqa	Bien privé : demande Q = 300(10 − p)
+1o4pm6rlzqr	« Ne pas écrire Q = 300(10 − p) » (§11.8).
+dfvwztp520	Non rival dans le modèle.
+2140kf47tlz	Non excluable.
+oeaeg5v70a	Non rival + non excluable ⇒ bien public : 300(10 − Q) = 1500 ⇒ Q = 5 ; contributions volontaires insuffisantes (free riding).
+1vzc7miiwq8	Spectre radio
+1ldu02fiwlw	Non (avant attribution)
+12nqe1u2uos	« anyone can broadcast ».
+1wt8n9rmtef	Non — « anyone can broadcast ».
+1k3sdja7n97	les interférences dégradent le signal des autres.
+2e09tvzkq80	Non — les interférences dégradent le signal des autres.
+1su0kzqmcn4	Ressource commune : surexploitation
+bk5nuwk2by	Il est rival à cause des interférences.
+xpwr1d0hhm	Pas d’exclusion possible avant attribution.
+p0axsdxg0p	Rival + non excluable ⇒ commun : chaque utilisateur ignore la congestion qu’il impose (tragedy of the commons, §11.9).
+ecx0qd6wyr	Streaming musical
+i0yx6z8b2k	Prix d’usage marginal ?
+1tn4k5016q7	Instrument de prix ?
+1ryj97ybx0u	Un frais fixe seul
+g4bnk79rt4	« only a fixed fee ».
+284xx9z7x06	Frais fixe + prix d’usage
+zb9bjoixiz	Non — « only a fixed fee ».
+h16n0zgxmm	Prix unitaire seul
+haqiu6yfvk	Abonnement seul : Q = 20, F = 200, π = 160
+wu71om9961	Tarif à deux parties (p = MC)
+1mf287vrsro	L’énoncé impose un frais fixe SEUL.
+lyzj1b5pjm	Monopole à prix unique
+uvw9u1z6zx	Le prix est un abonnement.
+d7cacsh8yc	La firme a du pouvoir de marché.
+18qt8d4us0o	Usage gratuit ⇒ consommation jusqu’à WTP 0 (Q = 20), F = aire sous la demande = 200, coût 40, π = 160. Ne pas répondre 162 (two-part) si l’énoncé impose l’abonnement seul.

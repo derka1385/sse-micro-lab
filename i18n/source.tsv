@@ -3559,7 +3559,7 @@ n7lojskjun	Tu es client : une baisse de taxe 1 ne garantit pas une baisse de pri
 opdqir32bd	E2024 ne précise pas les coûts. Sous hypothèse MC = FC = 0 : q1 = 6−2 p1+p2, q2 = 6−2 p2+p1. Si 2 est leader : BR1 = (6+p2)/4 ; q2 = 7,5−1,75 p2 ; p2 = 15/7, p1 = 57/28.
 clx7od1hm3	La réaction dépend de la variable stratégique : on ne substitue pas une réponse de quantité dans une demande en prix.
 dgui8wikl1	Sans coûts précisés, les résultats numériques sont conditionnels, pas un corrigé inconditionnel.
-yjpt2xei1s	Ici π2 = 225/28≈8,036 et π1 = 3249/392≈8,288 : tous deux dépassent 8 du simultané, mais le leader gagne davantage.
+1h4nhwztsqg	Ici π2 = 225/28≈8,036 et π1 = 3249/392≈8,288 : tous deux dépassent 8 du simultané, mais le suiveur gagne davantage.
 hzdd73dyqc	Simultané avec coûts nuls :p1 = p2 = 2, q1 = q2 = 4, πi = 8. Le passage séquentiel ne donne ni qL = 30 ni la formule (a−c)/(2b) du précédent jeu en quantités.
 1n5da2p2ama	Tu lis « firm 2 moves first in prices » : écris la réaction en prix de 1 etl’hypothèse de coûts avant de calculer quoi que ce soit.
 jl8r6c9adb	Les coûts sont absents de l’énoncé E2024. Comment présenter p2 = 15/7 ?
@@ -3581,7 +3581,7 @@ duz6rhkbmv	Firme 2, leader
 12tbh8hbsmm	p2 = 15/7, puis p1 = 57/28.
 2ezyldva6hf	Les deux firmes
 cgbep37fgp	Calculent les profits après les réactions.
-pogwpah7p0	π2 = 225/28 ; π1 = 3249/392. Le leader gagne davantage ici.
+1poo6z2fo0o	π2 = 225/28 ; π1 = 3249/392. Le suiveur gagne davantage ici.
 1qhbl8pbuab	La variable stratégique et le timing déterminent la bonne réaction.
 nod7uhoitx	Le prix dépend du marché, mais recettes et coûts utilisent les ventes propres.
 1e06cp4rbrm	Chacune maximise son profit conditionnellement au choix du rival.
@@ -4939,7 +4939,7 @@ pq9rougodl	Résoudre chaque nœud du suiveur et énoncer les réponses hors chem
 1vsez0ssnx5	Les coûts d’armes et les réactions effectives doivent être inclus.
 xb4abmwpjm	Compléments d’examen — commerce, plateformes, enchères et échange
 8je5n2uywq	Reconnaître les règles et vérifier leurs limites
-1p3tps6iak7	Ces thèmes sont attestés dans les past exams, avec cours complets absents du corpus. Reconstruis les décisions, les prix relatifs et les règles avant les calculs.
+1igi49ng15c	Cours L13 (commerce international) et L14 (plateformes, enchères), reliés aux past exams 2020–2025. Reconstruis les décisions, les prix relatifs et les règles avant les calculs.
 x66mdyjy6	Toi, l’acheteur / pays North
 10bge1ykh3c	choisit une tâche, un achat ou un échange
 2gi063xujay	obtenir plus de valeur que l’alternative sacrifiée
@@ -4955,19 +4955,19 @@ x66mdyjy6	Toi, l’acheteur / pays North
 23gblpk7lqf	fixe tarif, accès ou règle d’enchère
 11hf8346rm7	comprendre les réponses qu’une règle provoque
 1ckgu10q804	Quatre contextes d’examen, une même discipline de raisonnement
-1hlxoo84ezh	Tu peux tomber sur du commerce, une plateforme, une enchère ou un échange de snacks. Ces sujets figurent dans les past exams, même si leurs cours complets ne sont pas dans les fichiers audités. On va donc reconstruire les outils attestés, en séparant les hypothèses certaines de celles qu’il faut annoncer.
-rsniva0284	Compléments d’examens §14 : commerce, plateformes, enchères et Edgeworth. Les modèles ci-dessous sont documentés dans le dossier ; ce parcours ne prétend pas reconstituer des slides absentes.
+22rj79nwyvs	Tu peux tomber sur du commerce, une plateforme, une enchère ou un échange de snacks. Ces sujets figurent dans les past exams et sont traités dans les cours L13 (commerce international) et L14 (plateformes et enchères). On relie chaque outil du cours aux questions d’examen où il est apparu.
+a6o3v74jld	L13 (Friberg 17.1–17.3) : avantage comparatif, facteurs spécifiques, politique commerciale. L14 (Friberg 18.1–18.3) : plateformes et enchères. Edgeworth vient du dossier §14.6. Liens d’examen : commerce E2020, E2021, E2022, E2024, E2025 ; enchères E2023, E2025 ; plateformes E2022, E2025.
 156ls6aa5i4	Le nom du sujet ne suffit pas : une enchère au premier prix ne se résout pas comme une enchère au second prix.
 2fbtb555gff	Une question qualitative peut exiger un mécanisme précis sans fournir assez de données pour un chiffre unique.
 15bpgmsreqa	« Un choc météo affecte tous les coûts » ne révèle pas à lui seul qui observe quel signal privé ; on ne peut pas conclure automatiquement à une winner’s curse.
 12eo4m2ib40	Tu lis l’énoncé comme un contrat : qui choisit, qui sait, quelle règle, quelles unités ? Ensuite seulement tu sélectionnes l’outil.
-2272whsitw9	Pourquoi préciser que les slides complètes de ces thèmes manquent ?
-217lt7kbgof	Pour distinguer outils attestés et hypothèses ajoutées pédagogiquement
-1b4wn8fykqq	L’entraînement reste utile, mais ne doit pas inventer l’autorité d’un cours complet absent.
-1m7qnylqbqd	Pour supprimer ces thèmes de la révision
-qdwxhu4i8b	Ils apparaissent dans les examens et doivent donc être travaillés.
-p8p5reeu7b	Pour considérer toute formule comme universelle
-vch28xvc0p	Il faut au contraire expliciter le modèle et ses limites.
+12r9b5rcx7d	Selon le cours L14, sur quelle partie du cours l’examen met-il l’accent ?
+2adhteqk7jm	La seconde partie, après L6
+10gys4zfzcg	L14 : 4 questions (+ une question qui remplace le partiel), accent sur la fin du cours.
+o5jmmupvqh	Uniquement les chapitres 1 à 3
+2ev9ac2uj7o	Le cours indique l’inverse : l’accent porte sur la seconde moitié.
+29591704qpd	Seulement les définitions, sans figures
+892i8x4bdh	Le cours demande des figures et discussions claires et précises.
 uxfz6ejcdo	Être le meilleur dans tout ne dit pas à quoi consacrer ton temps
 ytfzl5ak1c	Esther produit une analyse de données en 1 heure et un texte en 2 heures. Abhijeet met 2 heures pour l’analyse et 6 pour le texte. Esther est plus rapide partout, mais un texte lui coûte seulement 2 analyses sacrifiées, contre 3 pour Abhijeet : c’est cette comparaison relative qui guide la spécialisation.
 1hvmsqk0uuq	Avantage absolu : moins d’inputs par unité. Avantage comparatif : coût d’opportunité plus faible. E2020 donne à Esther l’avantage comparatif en écriture et à Abhijeet en analyse.
@@ -5090,6 +5090,20 @@ md2av90rxn	p_w+τ=60 ne s’applique plus car le pays ne reste pas importateur.
 28e8dn1fr5f	Un effet sur le prix étranger et les termes de l’échange nécessiterait d’autres relations.
 1lko7zhnnp6	Parce qu’aucun pays ne peut influencer le prix mondial
 23osnd5dgzg	C’est une hypothèse du petit pays, pas une vérité universelle.
+2g8xn4v4laq	Un tarif n’est qu’un outil parmi d’autres pour freiner les importations
+koggnwm4s7	Un gouvernement peut taxer les importations, limiter leur quantité, subventionner ses exportateurs ou simplement compliquer les formalités. Des normes ou des brevets peuvent aussi freiner le commerce sans s’appeler « tarif ». Chaque outil protège un groupe précis ; reste à savoir qui paie.
+1f5ufdclv12	Cours L13 : tarifs, quotas, subventions à l’exportation, « red tape », plus des politiques domestiques à effet commercial (normes, propriété intellectuelle, aides aux firmes nationales, concurrence). Cadres : OMC, zones de libre-échange, unions douanières, UE.
+1d36pafqhwf	Un groupe concentré (producteurs protégés) gagne beaucoup par tête et s’organise ; la perte est diffuse sur tous les consommateurs.
+24dtvh7cxf2	Soutenir les employés d’un secteur passe en général mieux par des transferts que par un tarif, qui ajoute les deux pertes sèches.
+b6834pz9bc	L13 classe les raisons en trois groupes : intérêts particuliers (nuisibles au bien-être national), raisons utiles pour un pays mais pas le monde (Airbus contre Boeing, industries naissantes), raisons potentiellement utiles mondialement (sécurité nationale, éviter un nivellement vers le bas des normes).
+194w09bijj9	À l’examen, si on te demande « pourquoi des tarifs existent-ils ? », classe ta réponse : qui gagne, à l’échelle du pays ou du monde, et existe-t-il un meilleur outil ?
+8emfeid3c6	Lequel de ces arguments peut améliorer le bien-être mondial, et pas seulement national ?
+ejqhwej046	Éviter un nivellement vers le bas des normes environnementales
+1aj1u5kpq51	L13 le range parmi les raisons potentiellement favorables au monde entier.
+28eew172psn	Aider Airbus face à Boeing
+10z90il0qa5	Gain possible pour un pays aux dépens des firmes étrangères : pas un gain mondial.
+1zs4kqrosmr	Protéger les profits d’un secteur bien organisé
+1hrwibwwjuv	Intérêt particulier : en général nuisible au bien-être national.
 1g2kpf11bf0	Un pays qui gagne peut contenir des personnes qui perdent
 1cpwmxx4nnm	Une nourriture importée moins chère bénéficie aux consommateurs. Mais les propriétaires de terres agricoles reçoivent moins pour leur production ; le travail peut quitter l’agriculture et rejoindre les manufactures. Le gain total éventuel ne rembourse pas automatiquement chaque perdant.
 xewgl44cxy	Facteurs spécifiques : terre liée à l’agriculture, capital lié aux manufactures, travail mobile. Chaque secteur embauche selon p_j MP_Lj=w ; effets distributifs distincts des gains agrégés.
@@ -5144,6 +5158,57 @@ znmjb1pxv4	Ils peuvent accéder à l’entrant sans quitter entièrement l’inc
 digq3snslv	Elle prive l’entrant d’un côté du marché.
 ksejfuk0sr	Coûts de changement très élevés
 1tqvck5p5d2	Ils rendent le transfert des utilisateurs plus difficile.
+egkmdmfgyz	Le côté qui attire l’autre paie moins, parfois rien
+21y8z34totg	Une plateforme de location gagne de l’argent sur chaque locataire et chaque loueur. Mais un locataire de plus rend la plateforme plus précieuse pour tous les loueurs. Le faire payer cher, c’est perdre aussi ce qu’il apporte de l’autre côté.
+1xxejgjq2wm	Cours L14 : v_b = f_b n_s − p_b, π_s = f_s n_b − p_s ; profit n_s(p_s − c_s) + n_b(p_b − c_b). Prix optimaux : p_b = (c_b − f_s n_s)·ε_b/(ε_b − 1) et p_s = (c_s − f_b n_b)·ε_s/(ε_s − 1).
+vvxbfyn6vk	Le « coût » pertinent d’un acheteur est c_b moins la valeur f_s n_s qu’il crée pour les vendeurs : s’il crée beaucoup, ce coût effectif devient négatif et le prix peut l’être aussi.
+96rltyk8x1	Comme pour un monopole, le facteur ε/(ε − 1) fixe la marge : plus la demande est élastique, plus la marge est faible.
+1ugx89yg65k	Progress check L14 : acheteurs très élastiques et fort effet de réseau pour les vendeurs ⇒ faible prix ou subvention aux acheteurs, prix plus élevé aux vendeurs (réponse B). Les calculs de la formule dépassent le cours ; l’intuition suffit à l’examen.
+21i3pemwmwu	Si tu demandes « qui paie sur cette plateforme ? », cherche le côté que l’autre veut absolument trouver : c’est souvent lui qui est subventionné.
+665qifq4dg	Les acheteurs ont une demande très élastique et attirent fortement les vendeurs. Quelle structure de prix ?
+5umtoe80jv	Prix bas ou subvention aux acheteurs, prix plus élevé aux vendeurs
+1usm5tk4tqs	Les deux forces vont dans le même sens : élasticité forte et grand bénéfice créé de l’autre côté.
+1bdy58jb12v	Prix élevés des deux côtés
+24lkjq4om01	Cela ferait fuir le côté élastique et, avec lui, la valeur pour les vendeurs.
+1kadtvn9t2l	Prix égaux des deux côtés
+2g4paor9rl2	Rien n’impose la symétrie : chaque côté a son élasticité et son effet sur l’autre.
+1pggl2qkh9k	Concentration ou coexistence : compte les forces de chaque côté
+1jwl7atf5kg	Si tout le monde n’utilise qu’une application et que chaque nouveau membre attire l’autre côté, le marché bascule vers une seule plateforme. Mais si l’on peut garder plusieurs applications, si la foule ralentit le service ou si les effets de réseau sont faibles, plusieurs plateformes survivent.
+1bqxi8aw6iv	Cours L14 : vers la concentration — effets de réseau positifs entre groupes et au sein d’un groupe, économies d’échelle, single-homing. Vers la coexistence — multi-homing, congestion, effets de réseau faibles. Sur la plateforme, le propriétaire est souvent « arbitre et joueur ».
+29shqh92i9a	Un effet de réseau ne mène au monopole que si les utilisateurs doivent choisir : avec le multi-homing, l’entrant n’a pas à arracher tout le réseau.
+1ss4b2x0nbo	L’« arbitre et joueur » fixe les règles qu’affrontent ses concurrents : présentation de l’information, commissions plus élevées pour les rivaux.
+18of4i8zdfy	Progress check L14 : la congestion fréquente et les effets négatifs au sein d’un groupe sont ce qui mène le MOINS à la concentration (réponse C).
+m39ejz27l0	Devant un marché numérique, coche les deux colonnes avant de conclure « winner takes all ».
+2cf322gx8wm	Lequel mène le MOINS à un marché dominé par une seule plateforme ?
+zru93l50a9	Congestion fréquente et effets négatifs au sein d’un groupe
+7pt4hde60c	Plus d’utilisateurs dégrade le service : l’arrivée sur une plateforme concurrente devient intéressante.
+164g6pl78q0	Effets de réseau positifs forts entre groupes
+13p05c9urzc	Ils poussent vers la concentration.
+s6k0l05zeu	Single-homing des utilisateurs
+1mih9f29otf	Il pousse vers la concentration : chacun doit choisir un seul réseau.
+9et8ckk59e	Coûts fixes élevés et économies d’échelle
+90ltms2d7p	Ils favorisent la plus grande plateforme.
+2dbgs1kbgw3	Quatre enchères : qui paie quoi, en une ou plusieurs fois
+1cbdxtduzps	Dans une salle des ventes, le prix monte jusqu’à ce qu’il ne reste qu’un acheteur. Au marché aux fleurs néerlandais, il descend jusqu’à ce que quelqu’un crie « stop ». Avec une enveloppe scellée, tu n’enchéris qu’une fois sans voir les autres.
+vq588swyj9	Cours L14 : dynamique et second prix = anglaise (ascendante) ; dynamique et premier prix = hollandaise (descendante) ; statique et second prix = Vickrey ; statique et premier prix = enveloppe scellée au premier prix. Valeurs privées (billet de concert non revendable) contre valeur commune (droits de forage, risque de winner’s curse).
+1nq1m3x0uu0	Enchère anglaise avec prix de réserve r < v2 < v1 : le joueur 2 abandonne à v2, le joueur 1 gagne et paie environ v2, comme au Vickrey.
+15gnc1kqlxd	Au premier prix sous enveloppe, le joueur 1 maximise P(b1 > b2) × (v1 − b1) : offrir plus augmente les chances de gagner mais réduit le gain, donc il offre sous sa valeur et l’objet peut échoir au mauvais acheteur.
+15ck0icqklu	Pour le vendeur, plus d’enchérisseurs et un bon prix de réserve augmentent la recette. Google et Facebook utilisent des variantes du second prix pour leurs espaces publicitaires.
+pw5wezfcm2	Lis d’abord deux choses dans l’énoncé : le gagnant paie-t-il sa propre offre ou la deuxième ? Les valeurs sont-elles privées ou communes ?
+17m7ipy3jmd	Une enchère descendante où le premier qui accepte paie le prix affiché correspond à :
+1ttqlcgnaqh	Une enchère hollandaise (dynamique, premier prix)
+u0vcbfznj2	Le prix baisse et le gagnant paie le prix auquel il s’arrête : son propre « bid ».
+132j8j983i0	Une enchère anglaise
+e4slfbwzg7	L’anglaise est ascendante et le gagnant paie environ la deuxième valeur.
+1tqfng5qd5v	Une enchère Vickrey
+1z7om62cbal	Vickrey est statique (enveloppe) et au second prix.
+v3ox9i9sq8	Tu valorises un billet 100 € dans une enchère Vickrey (valeurs privées). Quelle offre ?
+2c8qs1ly97e	Exactement 100 €
+lxt4duin7p	Ton offre décide seulement si tu gagnes ; le paiement est fixé par la deuxième offre. Offrir ta valeur est faiblement dominant.
+1zihojvadck	Un peu plus de 100 € pour être sûr de gagner
+1rbdhoyiy22	Tu risquerais de payer entre 100 et ton offre, donc plus que ta valeur.
+137h9wh8l68	Environ 80 € pour garder du surplus
+28ro6hah5wt	Le surplus vient du second prix ; sous-offrir te fait seulement perdre des enchères gagnantes.
 qwglzmcvex	Dans une vente au second prix, ton offre décide surtout si tu gagnes
 1pxphvfrt9t	Tu participes à une enchère scellée où le plus offrant gagne, mais paie la deuxième offre. Ton offre ne fixe donc pas directement ton prix si tu gagnes. Avec valeurs privées dans le modèle de base, annoncer ta vraie valeur te fait gagner exactement lorsque le meilleur prix rival ne dépasse pas ce que l’objet vaut pour toi.
 zd5np4j5sa	Vickrey : vente au second prix. L’offre sincère est faiblement dominante sous les hypothèses de valeurs privées et d’utilité monétaire du modèle.
@@ -5278,7 +5343,7 @@ b6nv9qvzs4	Prohibitif, premier prix, signaux absents, bord ou gains distributifs
 1f7tjn278kf	p_w+τ vaut tant que le pays importe. Au tarif prohibitif, le prix revient au niveau autarcique.
 1bg5tuzqrrc	La preuve de sincérité dépend de la règle au second prix et des valeurs privées du modèle.
 4kt8kjfc58	Une amélioration est un progrès ; l’efficacité signifie qu’aucun progrès de Pareto supplémentaire n’est faisable.
-1etvl32hb16	Mini-examen pédagogique construit sur E2020–E2025 et §14. Les nombres de commerce, tarif et enchères sont documentés/recalculés ; l’échange 3 drinks contre 2 snacks est construit. Les cours complets correspondants sont absents du corpus et cette réponse n’est pas officielle.
+2dt5jgbuecl	Mini-examen pédagogique construit sur E2020–E2025 et §14. Les nombres de commerce, tarif et enchères sont documentés/recalculés ; l’échange 3 drinks contre 2 snacks est construit. Fondé sur les cours L13–L14 ; cette réponse n’est pas officielle.
 iz1rxughi5	Price 30+10=40; Q_D40,Q_S20,M20; revenue 10×20=200; DWL0,5×10×(10+10)=100.
 1y6i3jhefhz	Sebastian (7,12): 7+24 = 31; Christina (13,8): 13+8 = 21. Totals remain 20/20.
 1ggbyd9dd9u	Quel avantage repose sur le coût d’opportunité ?
@@ -6255,8 +6320,8 @@ d2dbu4mnl1	retrouver l’équation à partir des acteurs
 cjq3kjh6fq	Réponse d’examen (EN)
 h2t5ohtv1o	réponse SSE concise en anglais
 qqvijq5v2v	Accueil
+29ak358d8zf	Leçons
 18wked82qyw	Apprendre
-4wvsu4hnis	Comprendre
 l8twjaxb30	Graph Lab
 2ddsgwbtike	Pourquoi ?
 11zxzskr78w	Ask Claude directly
@@ -6270,20 +6335,46 @@ hp7eo5s3xc	Carte de maîtrise
 27fu7eptt8v	Préparation finale
 w4sj9t1u18	Mes erreurs
 l5rghqzoqy	Source (dossier)
-1sr8idezejg	Sauvegarder
-1wt4rhu32xi	Restaurer
-1qx6xyakpfq	Effacer toute ta progression locale ? (Pense à sauvegarder avant.)
-232jg689eyf	Réinitialiser
-ndsd1v5ch2	Progression restaurée.
+1svyagyt1fk	Paramètres
+wwywslzszl	Demander quelque chose
 9nb93uzwg	Menu
 z0gy7fxpv2	Navigation principale
 1bs458172dl	BE501 · laboratoire
-638b4s4qwb	Langue
+x0a8togaj0	L’assistant a besoin du serveur local : lance npm run dev et ouvre son lien localhost.
+db960x3pc5	L’assistant est indisponible. Réessaie.
+x3aut6h5gv	Serveur local inaccessible. Lance npm run dev, puis réessaie.
+1kycwcpwnoj	Écris une question avant de l’envoyer.
+1xns4rfjkk	Raccourcis ta question avant de l’envoyer.
+1gpwj2p9928	Ne colle pas de clé API dans la conversation. Elle est déjà lue sur le serveur.
+cpi5ae4xyk	Questions rapides à Claude
+1myuk0o7awx	Conversation avec Claude
+vew09dmqjf	Un détail qui bloque ?
+3selgqv3k9	Comprendre le pourquoi.
+wesjdyl3as	Demande le sens d’un sigle ou d’une étape. Claude reçoit le contexte de la page sans que tu la quittes.
+55rmpktiva	Claude reprend les acteurs, les incitations et les formules, comme dans la leçon sur les panneaux solaires.
+14co2oeqmrz	Que signifie ce sigle dans ce contexte ?
+1e4mkli37ga	Explique cette étape simplement.
+19fqyajlzw8	Explique ce chapitre avec une situation concrète, une idée à la fois.
+lvaw94s1ve	Pose-moi une question pour vérifier si j’ai compris.
+wijak85wp	Toi
+fyt2pkufwq	Réponse interrompue par la limite de longueur. Demande « Continue ».
+liyeot2l4x	Claude réfléchit…
+jdzhlzzo48	Ta question
+3y8xz3n26r	Par exemple : MEB, ça veut dire quoi ?
+1c2yn3k6dlg	Qu’est-ce qui te bloque dans le raisonnement ?
+15h33ews4ur	bas
+1dnxmgz37dj	moyen
+1ebx99p7y3f	Arrêter
+11jy6gmz3cb	Envoyer
+15ewh12nxrf	Effacer la conversation
+23bxn0pifvl	Lecture de la configuration…
+1zuu1onnzk	Actualiser la connexion
 1b69vb1t7k5	Rendre ma copie
 9upfgrsz6d	Pas d’indice avant de rendre.
 29nuu69loue	Réponds à chaque partie avant de rendre ta copie.
 171z7odvdyk	Modèle
 2e8d0lskbj	Logique
+638b4s4qwb	Langue
 1enm8prxvhu	juste
 6fxdemctj1	faux
 i2k0r5or5i	attendu :
@@ -6314,6 +6405,47 @@ eqgwk0dvgj	Masquer les meilleures réponses
 1qkahgvfpm9	{p} ne peut pas gagner davantage en changeant seul de colonne
 24ty84y0h5c	{p} peut gagner davantage en changeant seul de colonne
 1mstgjj9vl8	Source :
+tmursoojnt	Compréhension en langue natale
+msr68s4wgi	Tout dans ta langue : explications, questions et graphiques.
+1exzz2jjtmm	Compréhension anglais
+1ahh2hyueh8	Explications dans ta langue ; questions, réponses et termes des graphiques en anglais, comme le jour de l’examen.
+suzetxkot4	Mode
+1h5zdtdevx5	Chargement…
+gmcd97smkx	Explication
+84w8oscr5	Question
+em2wmhrflt	Correction
+28ntb5lifzv	Bienvenue dans tes révisions, {name}.
+f9xuzr2pt6	Bienvenue dans tes révisions.
+1esp49e1443	jours avant le final
+gefkcdyf69	Voici comment le labo est organisé.
+1slq0vy8eic	Entrer dans le labo
+2nu5rxfvh8	Ta langue préférée
+15xmyth1i5e	Tu pourras la changer plus tard dans le menu.
+1plcqmwuubc	Continuer
+228f15a9ys2	Comment veux-tu apprendre ?
+2chb6bdowoz	Regarde la différence sur le même exercice, puis choisis. Tu pourras changer dans le menu.
+16k7mvbaobc	Retour
+jrbw69knp0	Commencer
+198172sw6j4	Un mécanisme à la fois : leçons guidées, exercices d’examen et révisions espacées.
+teogmhpxu	Leçons guidées, du cas concret à la formule
+59ud7qdn2k	Six examens corrigés et des exercices ciblés
+1n0n6ja57e5	Ta progression sauvegardée sur tous tes appareils
+239e2zsxzgq	Connexion
+2dvxiwpjy82	Connecte-toi pour accéder au laboratoire et garder ta progression.
+1r56s3txsfe	Réessayer
+1qumisu81ek	Se connecter avec Google
+34mbdtvksu	Connexion impossible. Vérifie ta connexion internet puis réessaie.
+1oo1ra2bo	La connexion a échoué. Réessaie.
+2cozu25zt5x	Seuls ton nom, ton e-mail et ta progression sont enregistrés. Personne d’autre n’y a accès.
+1wxsml5wgrr	Quick question avec Claude
+293tzteq1mf	Fermer Quick question
+21zam8ig795	Tu travailles sur
+d4uefc7tuo	Une idée, une correction, une erreur dans un exercice : écris-le ici, le message part directement par e-mail. Ton nom et ton e-mail sont joints pour qu’on puisse te répondre.
+23zm0rfii3t	Type de message
+8m93ek8jwx	Ton message
+q75gel48z6	Envoi…
+buojyhr8a5	Message envoyé. Merci !
+yzh8bnf8ct	L’envoi a échoué. Vérifie ta connexion et réessaie.
 20ixutbvsel	Explique avec tes mots — analogies bienvenues.
 rvo1aca564	Ton explication
 1w0dy7dfn1a	Analyser mes liens de cause
@@ -6353,8 +6485,6 @@ rzvcebd0a3	Unité au point {q}
 wcpc7iawiu	Ce que vaut une unité de plus pour le portefeuille de l’acheteur une fois la subvention versée : MPB + s.
 1ysgmvajwjs	Ce que coûte une unité de plus au producteur une fois la taxe payée : MPC + t.
 mtsy9zbnhs	Au point Q = {q} : {v} € par unité.
-1lu86pozeqr	Perte sèche — unités manquantes
-1ghcoy82ygm	Perte sèche — unités en trop
 1sprgoohm19	Ces unités ne sont pas produites alors que leur bénéfice social dépasse leur coût social.
 213y6hh2bxw	Ces unités sont produites alors que leur coût social dépasse leur bénéfice social.
 1z2yk0izw7w	Aire = {a} € (entre Q = {lo} et Q* = {q}).
@@ -6371,12 +6501,10 @@ fd2pz6j4ec	Ce que reçoit l’État : t par unité échangée. Un transfert, pas
 3ihwxnjtp5	Somme des dommages subis par les tiers pour toutes les unités produites (aire sous MEC).
 23zi22dezjq	Ici MPB = MPC : le dernier échange vaut autant pour l’acheteur qu’il coûte au producteur. Au-delà, MPB < MPC : plus aucun prix n’arrange les deux.
 3hfvs3tqwp	Ici MSB = MSC : la dernière unité vaut pour la société exactement ce qu’elle lui coûte. Avant, ajouter augmente le bien-être ; après, le diminue.
-1a8fa5gcmvb	Q avec politique = {q}
 1o4hvb6j6pb	Ici MPB + s = MPC : la décision privée subventionnée s’arrête.
 e1vhlhpsaq	Ici MPB = MPC + t : la décision privée taxée s’arrête.
 2e4io5celml	L’acheteur paie p_b ; le vendeur reçoit p_s = p_b + s ; l’État paie l’écart.
 k72yc3991g	L’acheteur paie p_b ; le vendeur garde p_s = p_b − t ; l’État encaisse l’écart.
-1krf0v2fcof	Unité au point Q = {q}
 ac3gc4wh9p	Fermer l’inspecteur
 1h4l0usl1oz	Graisse = incitation privée
 ucea0t4xma	une unité sur {n}
@@ -6409,13 +6537,13 @@ r08mavd1i4	− dommage externe
 n62rksngja	Replier
 tmpjvt68if	parce que
 4ctug8ufjd	Déjà réussi.
+2dfvciemw65	Réponse :
 yrlflvkby3	Entre un nombre.
 32expacln	Pas encore. Indice : {h}
 1bap79dmdo9	Pas encore — refais le raisonnement.
 me9uxwfusa	Ta réponse
 rjjv0hjhfe	ta réponse
 1myvxolc3n7	Vérifier
-2dfvciemw65	Réponse :
 2167viw13xk	Curseur :
 lgpmvplgvt	Pas là : cherche l’intersection des courbes concernées.
 1442ass3zou	Valider la position
@@ -6427,6 +6555,8 @@ ctp87u0wkj	Effacer le dernier élément
 8w7d945c4x	Pas encore : quels acteurs sont concernés ?
 bfv12bjoh9	Les éléments clés sont là.
 13b23ooqnmf	Compare avec la réponse modèle et retiens ce qui manquait.
+5cqijklzle	Réponse affichée : la notion reviendra dans tes révisions.
+2b169te9m7s	Voir la réponse
 f2zpe0si1h	Micro-leçon · confusion repérée deux fois
 23ztvhi1tu0	Fermer
 1jhw41yi8sx	Référence introuvable dans le dossier :
@@ -6482,6 +6612,25 @@ fc5bfjnxnn	DWL ?
 41tdnf59tw	Recette fiscale avec t* ?
 27b5mexmuc3	un transfert, pas une perte.
 1rrvfevnbr3	C’est la DWL initiale, pas la recette.
+1ac1lrp1m4s	Serveur inaccessible.
+12v1f9tbp2l	Ne colle pas de clé API dans la conversation. Le serveur la lit déjà dans le Trousseau macOS.
+fwrubjp697	Envoi arrêté. Ta question est conservée.
+1bsj7hnl3jy	Synchronisation…
+hfwssxrn6f	Synchronisation en échec
+141a9aokyjo	Progression synchronisée
+1c5nb4cou7p	Profil
+1fpba793ylj	Nom
+5wp592sw59	Adresse e-mail
+i98zcrqbdd	Connecté avec Google : le mot de passe et l’adresse se gèrent dans ton compte Google.
+zmrvrs5wd1	Se déconnecter
+dc0rpscexz	Sauvegarde de la progression
+1lb4ddgu5qg	Ta progression est synchronisée avec ton compte. Tu peux aussi l’exporter dans un fichier.
+1sr8idezejg	Sauvegarder
+1wt4rhu32xi	Restaurer
+1qx6xyakpfq	Effacer toute ta progression locale ? (Pense à sauvegarder avant.)
+232jg689eyf	Réinitialiser
+ndsd1v5ch2	Progression restaurée.
+14m84j9ci4g	Mode d’étude
 14tik6vnx0s	Deux notions proches : explique la différence
 uhhrtglpe9	Écris d’abord ta propre distinction (français ou anglais). Ensuite seulement, compare avec le contraste du dossier.
 d918qdgrls	réussi
@@ -6570,15 +6719,21 @@ ysmdg8gq7h	Commencer : {m}
 x3qneszjup	Bloc {i} / {n}
 1ofjnw0bt16	Point faible : {x}
 2fcbsr4jf9t	22 contextes tirés des finals 2020–2025 : qui décide, quoi, avec quelle information ?
+102mclc804w	Final BE501
+169mis2c17g	{h} h {m} min
+2609h0x2cie	Jours restants
+1f3qfq2h3az	Ta progression
+15t1mgd1c9d	leçons terminées
+swgnkt1pxg	Révisions dues
+x73nb9h42g	Jours actifs
+b7z2en99id	Réponses justes (7 jours)
+t3j6fv4ztp	Maîtrise moyenne, tous thèmes
+zhu53g8z8v	Salut {name}.
 xvdrx6rqm8	La microéconomie, un mécanisme à la fois.
-y7auwdlo7s	J−{n} avant le final du 23 octobre
-g25wuyu9r8	Date du support L1, à vérifier sur ta convocation
 1omrebka6kq	Continuer la leçon
 1mtg48z8kty	Commencer la leçon
-2b97ok9svzy	Voir les 13 thèmes et leurs leçons guidées
 o4hlmhimqa	Ensuite
-11eqv8afu8y	{m} — où tu en es
-2ba7d344bsr	Une réussite compte au plus une fois par jour et par dimension : la maîtrise exige des rappels sur plusieurs jours.
+2b97ok9svzy	Voir les 13 thèmes et leurs leçons guidées
 kyfaalzxft	Comment ce labo fonctionne
 fgmkaofos3	**Situation → acteurs → incitations → conséquence → nom → sigle → formule → graphique → examen.** Toujours dans cet ordre.
 tmnv5k8ep2	Chaque sigle est cliquable : nom anglais, traduction, sens littéral, qui est concerné, unités.
@@ -6586,15 +6741,12 @@ kqqhdbb4un	Les formules apparaissent après que tu as trouvé leur logique — c
 2a717elgxzq	Tout chiffre renvoie au dossier : Documenté, Recalculé (dossier) ou Complément pédagogique.
 1b35wt3i07n	Leçons guidées
 19bfemy4b6g	Une leçon = un mécanisme, découpé en blocs d’une seule idée. On part d’une situation et de ses acteurs ; le nom, le sigle et la formule viennent après.
-jrbw69knp0	Commencer
 lv7gndenja	Revoir
 209234x7rdl	Continuer · bloc {i}/{n}
 2v6q5up1ta	{n} blocs
 18bttjm2ri3	{n} blocs · validation progressive · explication avec tes mots · examen en anglais · rappels espacés
 10orxpbhli1	Leçon guidée pas encore construite.
 lgbxu3uw5	Leçon introuvable.
-16k7mvbaobc	Retour
-29ak358d8zf	Leçons
 17e9i2lhbv7	Mécanisme du jour : {m}
 p8f8dhg1qt	Blocs de la leçon
 2cijb8yeqrc	[[MPB]] = la valeur, pour l’acheteur, d’une unité de plus.
@@ -6693,7 +6845,6 @@ fu42wmlaki	Réussi du premier coup : niveau suivant programmé.
 f68sf5zp0r	Réussi (révision en avance, l’agenda ne bouge pas).
 vyo4f7hg2e	Raté du premier coup : on y revient dans 10 minutes.
 3hpkud0gyc	À retravailler.
-1plcqmwuubc	Continuer
 229cm0e8n0t	Thème :
 1ragftajdg6	Tous
 1pd1h5ts8h5	{n} cartes

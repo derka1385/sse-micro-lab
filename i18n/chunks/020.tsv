@@ -1,214 +1,188 @@
-u7mxoagap	Tu es le candidat au coût 60 : ne te contente pas du salaire affiché 100, retire le coût de l’obtenir.
-244urxrnkv6	Le salaire passe de 60 à 100 avec diplôme. Quel coût rend un candidat indifférent ?
-bk6gv3a7bq	100−C=60 ⇒ C=40. À ce seuil, le candidat n’a pas une préférence stricte.
-19ta0dw6j5d	Pourquoi « le signal coûte cher » ne suffit-il pas ?
-1au8hb4l71c	Il faut des incitations différentes selon le type
-1e307remc74	Si tous les types veulent l’imiter, il ne sépare pas les types.
-1pl29mt5eme	Un signal doit toujours être gratuit
-1n8cuoxr3fq	Un coût différencié peut précisément lui donner sa crédibilité.
-1fcwg9v5nj9	Le propriétaire ne peut pas commander un effort invisible
-nacul9nyp	Tu gères un commerce pour un propriétaire. Travailler davantage te coûte 10 et améliore la recette, mais le résultat dépend aussi d’un bon ou mauvais état. Le propriétaire observe la recette sans voir parfaitement ton effort : il doit te donner une raison de fournir l’effort plutôt que le présumer.
-1ssmkvgi0z2	Principal-agent : l’agent choisit un effort caché ; le principal propose un contrat. H génère 40/100 équiprobables, L : 20/40 ; recettes espérées 70 et 30.
-26s9uv8dfti	Même avec H, un mauvais résultat reste possible : le résultat n’identifie pas parfaitement l’action.
-nuej9ag8yt	Le surplus total H=70−10=60 dépasse L=30, mais ce classement collectif ne détermine pas automatiquement le choix de l’agent.
-18dxunvmzuo	H :0,5×40+0,5×100=70 ; L :0,5×20+0,5×40=30. L’effort ajoute 40 de recette attendue pour un coût 10.
-156sggslp12	Tu choisis l’effort en regardant ton propre paiement net ; le gain du propriétaire ne paie pas automatiquement ta fatigue.
-jdxtpthzyo	Sous H, recettes 40 ou 100 équiprobables et effort coût 10 : quel surplus total espéré ?
-g83kh6bqn1	0,5×40+0,5×100−10=60. Un salaire éventuel est un transfert entre propriétaire et agent.
-m82p3sy9sn	70 est la recette espérée ; il faut retirer le coût réel d’effort 10.
-rs3qe36dit	Un salaire fixe protège du risque mais ne récompense pas l’effort
-1e0dzn1sz3c	Le propriétaire te verse w quel que soit le chiffre d’affaires. Tu reçois le même salaire en travaillant beaucoup ou peu, mais H te coûte 10 de plus. Dans ce modèle sans autre motivation, tu choisis L ; écrire la recette attendue 70 pour le propriétaire serait donc incohérent.
-1uvsg48lxov	Avec salaire fixe : U_H=w−10<U_L=w. Le propriétaire reçoit 30−w et supporte le risque de recette.
-2edsw1ijzcu	La différence de recette ne modifie pas ton salaire, donc elle ne compense pas ton coût d’effort.
-uqlqv0w424	Ce résultat dépend de l’absence d’autres incitations ou motivations ; il ne décrit pas automatiquement chaque salarié réel.
-2ay8bxerlwp	Si w=20 : H te donne 10, L te donne 20. Tu choisis L ; le propriétaire reçoit en espérance 30−20=10.
-2dx8cvztyj0	Tu demandes « est-ce qu’un euro de recette supplémentaire change ma rémunération ? ». Avec ce salaire fixe, la réponse est non.
-1ub17q3sj92	Avec w fixe et coût H=10, L=0, quel effort est optimal pour l’agent ?
-15zmou98ojn	H, parce qu’il maximise la recette totale
-1fcj2daflfm	L’agent ne reçoit pas cette recette supplémentaire. Compare ses gains privés.
-gcrtw2fb1v	L, parce que son salaire reste le même et l’effort coûte moins
-vvmkeyxs73	w>w−10 ; la recette du principal doit ensuite utiliser L.
-21jl4wtr4ac	Le partage de recette donne un retour privé à l’effort
-1gpxhmvkov3	Le propriétaire te propose maintenant la moitié de la recette. En travaillant davantage, tu récupères une partie du chiffre d’affaires supplémentaire. Tu acceptes aussi que ton paiement varie avec les chocs : l’incitation vient avec une exposition au risque.
-77q5vu7az4	Partage 50/50 : U_H=0,5×70−10=25 ; U_L=0,5×30=15. H devient compatible avec les incitations ; le propriétaire reçoit 35.
-1a4fvgeoiuk	L’effort ajoute 40 de recette attendue, dont tu conserves 20 ; cela couvre ton coût 10.
-1vcea0czgcl	Une comparaison d’espérances suffit ici sous neutralité au risque ; une aversion au risque pourrait modifier l’acceptation du contrat.
-3ss8c5r7uf	Sous H, ton gain net vaut 10 dans le mauvais état (20−10) et 40 dans le bon (50−10), soit 25 en espérance.
-1877v88citi	Tu gères le commerce : l’effort te rapporte maintenant 20 de rémunération attendue supplémentaire pour 10 de coût.
-28ouo5t2uhf	À qui profite l’effort ?
-2901249h8as	€ espérés
-1r4lmpng1kj	Agent neutre au risque ; effort H coûte 10 et génère 40/100 avec probabilité 1/2 ; effort L coûte 0 et génère 20/40 avec probabilité 1/2. Partage 50/50.
-17yz9b8aqse	Agent H : 0,5×70−10
-250ga046w0s	L’agent récupère la moitié de la hausse de recette mais paie tout son coût d’effort.
-16yofhfh3ax	Agent L : 0,5×30
-1bdbwfitbhc	Aucun coût d’effort ; revenu plus faible.
-2eonin2eh1d	Propriétaire si H
-1d7ydijbee	L’autre moitié de la recette espérée 70.
-3s70lfukax	Surplus total H : 70−10
-13nbopazdt9	Le partage monétaire n’est pas une ressource perdue.
-1dc2r6y8bjz	Quel gain espéré net l’agent obtient-il avec 50% des recettes H=(40,100), effort coût 10 ?
-1mv4o4a6hoa	35 est sa part de recette avant le coût d’effort.
-19us6fwui20	60 est le surplus total ; le propriétaire en conserve aussi une partie.
-1xxenf6294c	De fortes incitations ne suffisent pas si personne n’accepte le contrat
-tk0keasvl0	Tu peux payer une redevance fixe F et garder toute la recette. Chaque gain de recette t’appartient, donc H rapporte 60−F contre 30−F sous L. Mais si F est trop élevé, même le meilleur effort te laisse moins que ton option extérieure ; tu refuses le contrat.
-2bsg8bi0p10	IC = incentive compatibility : choisir l’action souhaitée. IR = individual rationality : préférer participer à son option extérieure. La redevance fixe transmet le risque à l’agent.
-xdwze0womn	F s’annule dans la comparaison H/L, donc il ne change pas cette incitation à effort donné.
-2ddw42v0ujm	F ne s’annule pas quand tu compares le contrat au fait de ne pas signer : il réduit ton gain net de participation.
-sxv6owmuo5	Avec option extérieure 15 et neutralité au risque :60−F≥15 ⇒ F≤45. F=50 conserve H comme meilleur effort mais donne seulement 10 : contrat refusé.
-1u72vud5tcs	Avant de signer, pose deux questions : « que ferai-je si je signe ? » puis « ai-je intérêt à signer ? ».
-5gzkjfuf8	Si H donne 60−F et ton option extérieure 15, quelle redevance maximale respecte IR ?
-163k5lrgo5	60−F≥15 ⇒ F≤45. À45, participation faible avec indifférence.
-yrkubo5vq9	F=50 induit H mais donne 10 face à une option extérieure 15. Quel problème reste ?
-1gl1e5qstn5	IR échoue
-1ymns94fkmx	L’agent refusera malgré l’incitation H s’il signait.
-1liz78e1563	IC échoue forcément
-ig7kwhmist	H donne 10 et L−20 : H reste meilleur parmi les efforts.
-1nuls7gd6p9	L’entrepreneur regarde ce qui lui reste après remboursement
-1buvrv47hyr	La banque prête 20 pour un projet qui rapporte 40 en succès, zéro sinon. Elle réclame 30 seulement en succès. Avec H tu réussis avec 0,8 ; avec L seulement 0,4, mais L t’apporte un bénéfice privé b que la banque ne reçoit pas.
-sj65d8emv7	Responsabilité limitée : U_H=p_H(R−B), U_L=p_L(R−B)+b. Le remboursement promis B n’est payé que lors du succès.
-1791xujllo1	Augmenter le remboursement réduit le gain que tu récupères lorsque ton effort réussit.
-2f82dkobdol	Un bénéfice privé peut rendre l’effort faible intéressant même si le projet génère moins de valeur pour la banque.
-aq3vkx1zy5	R−B=10. H donne 0,8×10=8. L donne 0,4×10+b=4+b : avec b=2, H gagne 8 contre 6 ; avec b=6, L gagne 10 contre 8.
-1yly10k1khf	Tu es emprunteur : calcule ton gain pour chaque action avant de calculer celui de la banque.
-z9n1h5fsb5	Le remboursement nominal ne choisit pas l’effort à ta place
-1gcg6vya7p9	R=40, p_H=0,8, p_L=0,4, remboursement en succès B=30, prêtD=20, bénéfice privé b=6. L’emprunteur choisit L : on doit alors utiliser p_L pour la banque.
-n0wj1c5sks	Entrepreneur H : 0,8×10
-xwx1gfyu6j	Recette résiduelle de 10 en succès.
-fdspwa1ftt	Entrepreneur L : 0,4×10+6
-eqqoy4txyu	Le bénéfice privé 6 rend L préférable.
-ep9at6mfdm	Recette banque réelle : 0,4×30
-18qegyt6a5g	La probabilité de succès dépend de l’action effectivement choisie.
-1ebypqi4l2w	Prêt versé
-o4qjbxj43h	Avec recette 12, la banque perd 8 ; ce 20 n’est pas son profit.
-29ltto0ogc4	Avec R=40, B=30, p_L=0,4 et b=6, quel gain donne L à l’entrepreneur ?
-15hy6ckwzcl	0,4×(40−30)+6=10 ; c’est supérieur à U_H=8.
-u3v1waf010	Il manque le bénéfice privé 6 de L.
-1dcw15o520t	12 est la recette attendue de la banque si L est choisi, pas le gain de l’emprunteur.
-1z0bcxjlk85	La formule d’incitation apparaît en comparant les deux choix
-11cyjd626mv	Pour choisir H, tu dois récupérer davantage grâce à la hausse de probabilité de succès que le bénéfice privé abandonné. Le remboursement réduit ton gain en succès, donc il peut finir par détruire ton effort. La banque ne peut pas présumer H pour justifier un remboursement qui fait justement choisir L.
-29zqs6ynoy0	IC_H : (p_H−p_L)(R−B)≥b. Banque : p_choisi B−D ; la probabilité doit correspondre à l’action réellement choisie.
-1ap29drnzt3	Quelle comparaison garantit H au moins aussi bon que L ?
-8ppl4ygybh	Les gains privés complets sont comparés, bénéfice de L inclus.
-r8c89eypx3	p_H B ≥ D seulement
-2bouo19oyrg	Cela vérifie la banque sous H sans démontrer que l’emprunteur choisit H.
-nl9cl527no	À b=6 et B=30, IC demande 0,4×10≥6 : faux.
-28ndfav5v7n	Avec L, la recette bancaire tombe à 12, malgré la promesse nominale 30 ; net du prêt 20, le profit est−8.
-1nefhxc4cv1	Si b=2, H est choisi et la banque gagne 0,8×30−20=4. Si b=6, L est choisi et elle perd 0,4×30−20=−8.
-1gesa78bufp	Tu es banquier : une promesse plus élevée sur le papier ne vaut pas forcément un remboursement espéré plus élevé.
-1mc7o37cqn1	Pour b=6, R=40, B=30, D=20, p_H=0,8, p_L=0,4, quel profit bancaire réellement induit ?
-1nrqxbv7mzu	L rapporte 10 à l’entrepreneur contre 8 sous H. La banque utilise donc p_L :0,4×30−20=−8.
-z2dvjz8qf8	4 utilise p_H à tort : IC_H ne tient pas.
-66upyarz1d	12 est le remboursement attendu brut ; le prêt 20 est un coût de la banque.
-1oh6jrl160e	Un apport peut restaurer l’effort — sans effacer son coût
-22bovktw23v	Tu apportes 10 de ton propre argent, donc la banque ne prête plus que 10 et réclame 15 en succès. Il te reste 25 en succès : la récompense privée du succès redevient assez grande pour fournir H, même si b=6. Quand on mesure ton gain depuis avant l’investissement, l’apport doit être retiré dans les deux actions.
-25mjx29okwf	Avec B=15 : U_H=0,8×25=20 ; U_L=0,4×25+6=16, avant déduction de A10. Banque=0,8×15−10=2. Gain net entrepreneur H=10.
-1rbzwlmhwd0	L’apport réduit le besoin de dette ; le remboursement plus faible laisse davantage du gain de succès à l’agent.
-13kyxm5vu00	Un coût déjà versé s’annule dans la comparaison d’effort à contrat donné, mais pas dans le gain net total de participation.
-1uh5rijmtr5	Sans apport et b=6 : IC_H impose B≤40−6/0,4=25. Banque rentable sous H exige B≥20/0,8=25 ; à B=25, l’agent est indifférent, donc H nécessite une règle d’indifférence.
-1vm95kne6zz	Tu ne retranches pas ton apport seulement quand tu travailles dur : tu le verses avant le choix d’action dans les deux scénarios.
-1mbiwzk92d7	Apport 10, prêt 10, B=15, R=40, b=6 : quel profit bancaire si l’entrepreneur choisit son meilleur effort ?
-2cf99cfntel	H donne 20 contre 16 avant apport, donc H ; banque 0,8×15−10=2.
-29cuk22gutc	Quel gain net l’entrepreneur obtient-il sous H, apport 10 déjà inclus ?
-72zay5ykg1	20 est le gain avant déduction de l’apport initial 10.
-1zw3e8zyuqw	Une pénalité change l’économie privée de la mauvaise qualité
-tl6g6jj6zd	Le nettoyeur reçoit 110. Une qualité haute lui coûte 100 ; une basse 70, mais une inspection détecte la baisse avec probabilité 0,5 et déclenche une pénalité F. Le paiement commun aux deux choix ne détermine pas l’incitation : compare l’économie de coût à la sanction attendue.
-1b7bjpbczkw	H : profit 10. L : profit 40−0,5 F. IC faible : F≥60 ; H strictement préféré pour F>60, sous pénalité payable et neutralité au risque.
-1bzr90jbyko	Choisir L économise 30 ; l’inspection ne fait payer la pénalité qu’une fois sur deux.
-1ghwedtbcz3	F=60 retire 30 en espérance à L et égalise ses gains à ceux de H : sans règle supplémentaire, cela ne sélectionne pas strictement H.
-2vg7tpwrhj	F = 60 : L donne 40−30 = 10 = H. F = 70 : L donne 5 < H = 10. La participation reste à comparer à l’option extérieure.
-8nw1sr0gz4	Tu es prestataire : calcule le coût attendu de tricher, pas seulement le montant affiché de la pénalité.
-1lpwsn9ty5t	Coût H = 100, L = 70, probabilité de détection 0,5 : quelle pénalité minimale assure IC faible ?
-26w01tifnz1	(100−70)/0,5=60. À60 il y a indifférence ; plus de 60 pour H strict.
-fnh0dpz5cj	30 est l’économie de coût ; avec une chance sur deux de détection, F doit être le double.
-1i3bjdio240	À F=60, H est-il strictement meilleur ?
-1usv7db5y7j	Non, les profits sont égaux
-1i0lg562yoh	Oui, dès que IC est satisfaite
-1l9zv03608h	Une inégalité faible autorise l’indifférence.
-1k8fypkuqij	Un bonus au résultat n’implique pas automatiquement un conflit
-ampauqegkd	Un dirigeant choisit entre deux projets risqués. Tu pourrais penser qu’un bonus payé seulement sur les gains l’incite forcément au mauvais projet. Fais d’abord les espérances : dans les chiffres de l’examen, le projet qu’il préfère est aussi celui qui rapporte le plus aux propriétaires.
-2034vvexgld	E2020 : A rapporte 100 avec 0,75 et 80 avec 0,25 ; B :400 avec 0,75 et−160 avec 0,25. Bonus 1% des profits positifs, zéro en perte.
-1lw0sfvesyn	A donne profit brut 95, bonus 0,95, net 94,05. B donne profit brut 260, bonus 3, net 257.
-1bmd0etrbaz	Le bonus et le profit net classent B premier sous neutralité au risque ; les seules données ne démontrent donc pas un choix contraire au propriétaire.
-6xm5clzo6o	B :0,75×400+0,25×(−160)=260 ; bonus 0,75×4+0,25×0=3 ; net 257.
-1unm3yj1hp5	Tu corriges ta copie : remplace « les bonus causent forcément du risque excessif » par une comparaison des choix dans cet énoncé.
-2dux383357m	Sur ces nombres et sous neutralité au risque, que peut-on conclure ?
-27q7ztm973l	Un conflit A/B est démontré
-15js3igpeyb	Le dirigeant choisit B et B maximise aussi le profit net 257.
-2gbwugskl0c	Les choix sont alignés ici, même si d’autres nombres peuvent créer un conflit
-utw3kuossq	Le mécanisme potentiel ne remplace pas le calcul des gains donnés.
-1pyy7vamibn	Le projet B donne un profit espéré négatif
-u7inym9uto	L’autre partie ne peut pas simplement conditionner le contrat sur ce qu’elle ignore.
-251qbj1ly1	Une bonne voiture exige un autre prix ; un effort coûte à celui qui le fournit.
-ui4k2ckmad	Chaque agent choisit l’option qui maximise son propre gain, pas le surplus présumé.
-1wdj4k6kqxa	Les vendeurs restants changent la qualité moyenne ; l’effort réellement induit change p.
-202a9adw8ql	Un contrat doit induire le comportement utilisé dans les calculs et être accepté par les parties.
-1wcc9e0l9p0	Un type caché peut faire sortir les bonnes voitures à un prix moyen : c’est l’antisélection. Un effort caché répond au paiement proposé : c’est le moral hazard. Dans le crédit, l’emprunteur compare p_H(R−B) à p_L(R−B)+b. Si B laisse trop peu du succès à l’emprunteur, L peut devenir préférable ; la banque doit alors utiliser p_L, pas p_H. IC garantit le choix voulu, tandis qu’IR exige un gain au moins égal à l’option extérieure. Les deux sont nécessaires.
-2fvkuyi082l	Une information ou une action n’est pas observable
-bvzzg8xq57	Les types ou les actions modifient les gains privés
-6kn5cdxufq	Le contrat sélectionne ou incite
-o85nsg58ml	Le résultat change les croyances ou la probabilité de succès
-2fc2d4iz7dc	On vérifie IC puis IR et rentabilité
-1joacmutdc	Explique à un ami la différence entre type caché et effort caché. Utilise le crédit pour montrer pourquoi « la banque sera remboursée 30 » ne suffit pas, puis distingue IC et IR.
-80l7hnqlhp	Nommer l’information cachée
-176srikuz0d	Type/qualité pour adverse selection, action/effort pour moral hazard.
-27jyteurc6r	Comparer les gains de l’agent
-gil32y0ljp	H et L doivent inclure le résidu après remboursement et le bénéfice privé.
-rbbgulogzk	Déduire l’effort
-1hnxjrsrskc	IC rend H au moins aussi bon que L ; on ne le présume pas.
-4udlmx2vdz	Employer la vraie probabilité
-1wxc6qt6fjv	Le profit bancaire dépend du comportement effectivement choisi.
-19knkf5mnz7	Vérifier l’acceptation
-1efpahtc3v	IR compare le contrat à l’option extérieure.
-28u5hnm97su	Le type caché sélectionne les participants ; l’action cachée est un choix influencé par le contrat.
-zresp3p66q	Écris d’abord U_H et U_L. La banque ne peut utiliser p_H que si H est effectivement induit.
-1ylxra6pq5t	IC compare les actions ou contrats proposés ; IR compare la participation à l’option extérieure.
-1z0lthf0ilb	Entraînement reconstruit d’après A6/L12/E2023 ; calculs vérifiés dans le dossier. Les questions et la réponse modèle sont pédagogiques, pas un corrigé officiel.
-12pq4nz16pp	H=0,8×10=8; L=0,4×10+6=10, hence L. Bank=0,4×30−20=−8.
-20qs10o2t9l	H before equity 20>L=16. Entrepreneur 20−10=10; bank 0,8×15−10=2.
-1279ubhtnd2	Qui initie un signal ?
-2a03fdtatro	La partie informée
-1v8rspx425b	Elle choisit une action observable qui peut révéler son type.
-1exnbzvj1op	Toujours l’État
-q23bzikh1t	Le signal peut être un diplôme, une garantie ou une action d’un agent privé.
-7e9rvnwm3k	Que signifie IR dans un contrat ?
-1s07nnd8kt5	Participation par rapport à l’option extérieure
-26iro88z2pu	Individual rationality : accepter plutôt que rester hors du contrat.
-u3tkjjrjsk	Imposer strictement H
-1b21ynamnqa	Cela relève de l’incitation, avec attention aux indifférences.
-4th4ag8iis	Reconstruis la sélection des voitures.
-dbqhwsqxdm	Prix moyen fondé sur une qualité moitié bonne
-m6zyxiqtax	Bon vendeur refuse sous sa réserve
-5l8ifj9yo5	Qualité des voitures offertes se dégrade
-251vrykcxnj	Acheteur révise sa WTP à partir des vendeurs restants
-1e4lutj2x26	Dans quel ordre analyser un crédit à effort caché ?
-l37s7dqptk	Écrire les gains de l’emprunteur pour H et L, bénéfice privé inclus
-ad7lr2gfoq	Comparer les gains pour trouver l’effort effectivement choisi
-17gwvmdc5qd	Utiliser sa probabilité de succès dans la recette bancaire
-43o6jux9m9	Vérifier aussi participation et hypothèses aux égalités
-1p2uox8xnmk	R=40, B=30, p_H=0,8, p_L=0,4, b=2 : profit bancaire avec prêt 20 ?
-y20gx9dwpi	H=8>L=6, donc banque 0,8×30−20=4.
-z75mo1thpn	Économie privée 30 et probabilité de détection 0,25 : pénalité minimale pour IC faible ?
-1mebea9gav1	0,25 F≥30 ⇒ F≥120 ; égalité = indifférence.
-px8b0c0nac	Un artisan au forfait peut sacrifier une qualité cachée pour économiser du temps. Quel levier cible ce problème ?
-14prz5t86b7	Une inspection et un paiement dépendant de la qualité vérifiable
-1l3abxoxmla	Cela peut faire supporter au prestataire le coût attendu d’une qualité trop faible.
-299p91lxdq5	Calculer seulement le salaire moyen sans comparer les actions
-1khzwmulxve	Le salaire commun ne montre pas quelle qualité l’artisan choisira.
-i8m3itvkza	Dire que tout forfait est toujours mauvais
-26egwijlk7z	Les incitations à économiser du temps peuvent être utiles ; il faut traiter le compromis.
-jjq8n3cmh2	Un vendeur bien informé offre une garantie que les mauvais produits rendent très chère à honorer. Quelle logique peut rendre ce signal crédible ?
-qhoa5mpdly	Le mauvais type gagne moins à l’imiter relativement à son coût
-vt0azbrsb4	La garantie doit créer des choix différents selon le type, pas seulement être visible.
-1kcezt4bkir	La garantie est observable, donc tous les types sont forcément révélés
-1ddmy2tgpjo	Une action facilement imitable ne sépare pas les types.
-u14j6ys8ht	Le client a proposé un menu, donc le vendeur fait du screening
-1dzy0044xjp	Dans ce contexte, l’initiative vient du vendeur informé : c’est un signal.
-8kv59uxsbd	Action conditional on signing
-1ink4m6dnvl	Different choices by type
-27e0h87yfhz	Both may pool
-j75i1gbp4r	Identifier qui sait quoi et distinguer type caché, action cachée et risque commun.
-2gfit114393	Un mot de contexte comme assurance ne choisit pas le modèle à ta place.
-1tlnksocb4d	Vérifier que les croyances sur les qualités correspondent aux vendeurs qui restent.
-w8dz7z1gn	Le prix moyen peut lui-même modifier la composition de l’offre.
-1p52jm2b26q	Comparer les gains privés complets avant de calculer ceux du principal.
-1k7pq1ag8fd	La probabilité de succès dépend de l’effort réellement induit.
+1ht854qnsm6	Valeur partagée, contribution et accès libre
+2cdphfmken6	Pourquoi une rue utile reste-t-elle mal financée, alors qu’un lac utile attire trop de pêcheurs ? Suis les habitants puis les entrants avant de sommer ou de dériver.
+qhhmm0c4vj	Anna
+2786tzq0nzz	habite la rue et peut contribuer
+1stzpuj1dlx	profiter d’une rue propre en gardant du budget
+l0q2ql6iwg	Le prestataire
+d3jskdh76v	produit le niveau commun de nettoyage
+16ncxloza8n	couvrir les ressources de la prochaine unité
+bf0vtm6ju1	Bilal et Clara
+69d9ymhyi7	profitent du même niveau même sans payer
+16h5xp3wvfp	bénéficier du service
+1wg7254voln	La collectivité
+ak1c9hdq2n	compte tous les bénéfices et coûts
+2f4r7gh6t0e	choisir le niveau qui maximise le surplus
+1e9c8bcszwh	La mairie
+1rgm7727xpn	peut organiser contributions et règles d’accès
+1oh4uq3lzj1	corriger l’incitation pertinente
+1jlz3ac8fu1	Qui profite quand ta rue est nettoyée ?
+14x4s25yw93	Anna, Bilal et Clara habitent la même rue. Si un camion ajoute une unité de nettoyage, les trois voient une rue plus propre : il ne faut pas acheter trois exemplaires du même nettoyage. Le prestataire, lui, doit payer du temps et du matériel pour cette unité supplémentaire.
+56cruk9m3v	Dans le modèle A6, le niveau Q de nettoyage est un bien public pur : le même Q bénéficie à chaque habitant.
+6a5gabuwl1	Le niveau de propreté est partagé : le bénéfice de Clara ne retire pas celui d’Anna.
+228ll5nfd2p	On suppose ici qu’on ne peut pas exclure l’habitant qui ne paie pas ; cette hypothèse fait partie du modèle, pas de toute prestation réelle.
+v0t6geriez	Trois habitants et trois unités communes donnent Q=3 pour chacun, pas Q=1 par habitant.
+1jk3kxrxc98	Tu rentres chez toi après le passage du camion. Tu bénéficies de la rue propre même si ton voisin a financé le passage.
+nh9yk5jwab	Trois habitants profitent d’une rue nettoyée au niveau Q=3. Quel Q consomme Clara ?
+1lxo1bwy4it	Oui : le service partagé a le même niveau pour chacun.
+izjpr3uuuq	Tu répartis un bien privé. La propreté partagée n’est pas divisée en trois.
+up24qnb1n4	On peut additionner leurs bénéfices, pas multiplier le niveau physique.
+13f55k6zov3	Première question : ton usage prend-il quelque chose aux autres ?
+yfgdcmh2v9	Quand tu manges un sandwich, personne d’autre ne peut manger ce même sandwich. Quand tu lis un résultat de recherche diffusé librement, ton voisin peut encore le lire. Demande-toi ce qui arrive à la possibilité d’usage de l’autre, avant de regarder qui finance le bien.
+nkrfanto6c	Rivalité : l’usage d’une personne réduit les possibilités d’usage des autres. Non-rivalité ne signifie pas coût de production nul.
+1nw04yw6opx	Produire le premier service peut coûter cher même si un usager supplémentaire ne prive personne.
+1cs3i9mcefw	Le critère porte sur la consommation concurrente ; « fourni par l’État » est un critère différent.
+g5onxl3uac	Un PDF peut coûter 1 000 € à produire ; le lire à deux ne requiert pas deux PDF physiques.
+15dtaq2cey3	Tu occupes la dernière place d’un bus : quelqu’un reste dehors. Compare avec écouter une alerte radio déjà diffusée.
+laighy68mq	Un service coûte cher à créer mais un lecteur de plus ne gêne personne. Est-il nécessairement rival ?
+11o1aznjt6r	Oui, parce qu’il coûte cher
+m2p5xa9q09	Le coût de production n’est pas la rivalité de consommation.
+1gcc7ehso1h	Non : il peut être non rival
+2fa3r3m9qks	Oui : vérifie l’effet de ton usage sur l’usage des autres.
+12my0de8wqh	Oui, s’il est privé
+1ldh15byq2q	Propriété privée et rivalité répondent à des questions différentes.
+1cdsbrkdrkz	Deuxième question : peut-on fermer la porte ?
+1nmkpvljw46	Une plateforme peut refuser l’accès à un compte qui ne paie pas, même si ses vidéos ne sont pas congestionnées. Une rue propre bénéficie aussi aux habitants qui refusent de payer. L’exclusion est donc une autre question que la rivalité.
+xq91g5px08	Excluabilité : possibilité d’empêcher l’accès. Les quatre cases sont privé, club, commun et public pur.
+1bhx7b747sd	Le mot « public » décrit ici deux caractéristiques économiques, pas le nom du propriétaire.
+yb36q8ucbx	Les règles et la technologie modifient l’exclusion : un péage peut changer la case d’une route.
+1bzs296utxd	Vidéo sur abonnement non congestionnée : excluable et non rivale, donc bien de club. Pêche sans restriction : non excluable mais rivale, donc ressource commune.
+1wmbecuw455	Si tu gères un abonnement, peux-tu désactiver mon accès ? Si oui, l’accès est excluable, même si tu ne retires aucun fichier à ton autre client.
+1sovv2nwtdr	Une pêche en libre accès, où tes prises réduisent celles des autres, est…
+208q3adapnm	Un bien public pur
+1pci4xsm1bq	Il manque la non-rivalité : les poissons capturés ne sont plus disponibles.
+wrohklbevq	Une ressource commune
+iru7xzvxyp	Non excluable, mais rivale : c’est la case des communs.
+rr7c0pc0fx	Un bien de club
+2a8qaiclu7z	Un club peut exclure ; ici l’accès est libre.
+21c66bkb1jp	Une route peut changer de case
+13t8bkkbjyg	À trois heures du matin, ta voiture gêne peu les autres sur une route vide. À huit heures, elle rallonge leur trajet. Si on ajoute un péage, on change encore une autre propriété : l’accès devient contrôlable.
+1y8vigg41fo	La congestion crée de la rivalité. Une route n’est donc pas toujours un bien public pur.
+uijei5cuvj	Les caractéristiques économiques dépendent de la situation, pas de l’étiquette « infrastructure ».
+1q8mx4u1sf1	Un péage agit sur l’exclusion ; il ne supprime pas automatiquement la congestion physique.
+1krhh8b3mf4	Tunnel avec péage et embouteillage : accès excluable et usage rival à la marge.
+1h09nlq17rr	Tu arrives au péage à l’heure de pointe : pose les deux questions séparément avant d’écrire « public good ».
+1ps7d04sjbj	Un tunnel payant congestionné est-il un bien public pur ?
+1bqbkrtunm	Non, il est excluable et rival à la marge
+3olst60x36	Le péage contrôle l’accès et la congestion fait subir ton usage aux autres.
+1972z8cf6pc	Oui, parce qu’il sert au public
+29cqxzxlul5	« Sert au public » ne vérifie aucun des deux critères économiques.
+1y23ctpr94u	Oui, parce qu’un tunnel est coûteux
+27ugd9whcxy	Le coût de construction ne détermine pas cette classification.
+ms651uj76a	Combien vaut la prochaine unité pour chacun ?
+vc85ytsco8	La rue est déjà nettoyée au niveau Q=3. Anna paierait jusqu’à 12 € pour une toute petite unité de plus, Bilal 9 € et Clara 6 €. Ces montants décrivent une valeur supplémentaire, pas ce qu’ils paieraient au total pour toute la rue.
+27c3hih6lg8	MB signifie marginal benefit : disposition à payer pour l’unité supplémentaire. A6 : MB_A=15−Q, MB_B=12−Q, MB_C=9−Q tant que ces valeurs sont positives.
+298me1m1n4e	L’unité suivante améliore simultanément la situation des trois habitants.
+1qr2h2n0ox2	Le bénéfice total de plusieurs unités est une somme/aire ; la hauteur de la courbe décrit seulement le marginal.
+20vbiagydob	À Q=3 : 15−3=12, 12−3=9 et 9−3=6 € par unité.
+1vipdqg7atl	Tu es Clara : tu regardes si le prochain passage vaut 6 € pour toi. Tu n’annonces pas encore le bénéfice de tes voisins.
+1b33pzjws6o	Un même niveau de nettoyage, trois valeurs marginales
+66ol3hkakf	Q = unités communes de nettoyage ; hauteur = € par unité supplémentaire. Chaque MB est tronquée à zéro ; la courbe sociale additionne les hauteurs, jamais les quantités.
+d5x9gr815q	Q : unités de nettoyage communes
+1mau3gzqwdx	€ / unité supplémentaire
+2djiu0uuwkb	MB Anna = max(0,15−Q)
+2717z14piwf	Valeur du même ajout pour Anna.
+1cyp8ze8eyy	MB Bilal = max(0,12−Q)
+2dniz9tcbdp	Valeur du même ajout pour Bilal.
+1dt90pkrmqv	MB Clara = max(0,9−Q)
+vq2p0w7by2	Valeur du même ajout pour Clara.
+fl7gunudcb	Somme des MB positives
+4aiegu3vag	Pente −3 puis −2 puis −1 : un bénéficiaire sort de la somme à chaque seuil.
+1cy2abol1v3	Coût réel de l’unité suivante de nettoyage.
+vmw942ys6h	Q efficient = 3
+22cra522yka	Avec MB_C=9−Q, quelle est la valeur marginale de Clara à Q=3 ?
+1wfbz0dbarf	€ / unité
+102z2b0oe8l	9−3=6 € par unité de nettoyage.
+7iw6egzehz	9 est l’ordonnée à l’origine, pas la valeur au niveau déjà atteint.
+57gzh3axk2	22,5 est le bénéfice total sur [0,3] :9×3−3²/2. Ce n’est pas le marginal à 3.
+ba59rg1wku	La société additionne trois valeurs du même passage
+dyezmch0ls	Le camion peut ajouter une seule unité commune. Elle apporte 12 € à Anna, 9 € à Bilal et 6 € à Clara : au total, elle vaut 27 €. Additionner leurs quantités reviendrait à compter trois fois le même niveau de rue propre.
+153vxl765pj	Pour un bien public, on somme verticalement les bénéfices marginaux au même Q : MB_social(Q)=Σ_i max(0,MB_i(Q)).
+89kcfor3p0	Pour savoir ce que vaut l’unité commune à Q=3, que faut-il additionner ?
+29k3be0aw0u	Les trois hauteurs au même Q : une seule unité apporte trois gains.
+1co5whkj6tr	Les trois Q
+g5hp36ockf	Cette règle horizontale concerne les quantités individuelles d’un bien privé.
+kad3nxqasz	Chaque habitant bénéficie de l’ajout : l’évaluateur collectif compte chaque bénéfice une fois.
+27ecm1t6zu6	Dans un bien privé, on peut acheter des unités distinctes ; ici le niveau commun Q est précisément ce qui interdit ce raisonnement horizontal.
+1phsi0ka6ur	Pour Q≤9, les trois MB sont positives : (15−Q)+(12−Q)+(9−Q)=36−3 Q.
+2gaa90j3js1	Tu organises le nettoyage pour les trois voisins. Avant de commander, demande à chacun la valeur du même passage supplémentaire.
+21c28s70pvj	Reconstruis la somme sociale quand les trois MB sont positives.
+gelr7k43hn	On additionne les dispositions marginales à payer au même niveau Q, d’où 36−3 Q.
+1shi39agvwj	Quand le passage supplémentaire cesse-t-il de valoir son coût ?
+29i7bez56f9	Le prochain ajout coûte 27 € en ressources. À faible nettoyage, les trois gains réunis dépassent ce coût : améliorer la rue ajoute du bien-être. Au niveau Q=3, le gain collectif de la marge égale le coût ; au-delà, il devient inférieur.
+hhz6tr0wk6	Optimum intérieur du bien public : Σ MB_i(Q)=MC(Q), en vérifiant le segment des MB positives.
+24xfv3q36cb	Le fournisseur doit utiliser de vraies ressources, qu’une personne ou trois en profitent.
+1p5l9pqc62g	Le test est social : aucun habitant pris seul n’a besoin de valoriser l’unité à 27 €.
+6sq60pvegs	36−3 Q=27 ⇒ 3 Q=9 ⇒ Q=3. À cette quantité, les MB sont 12,9,6 et leur somme couvre exactement MC=27.
+1b7jskjgp8u	Tu dois justifier le niveau à une association de voisins : explique le coût et les trois bénéfices avant de sortir l’équation.
+1zfdswvlvhh	Niveau efficient commun
+1lex8iy7nch	MB_A=15−Q, MB_B=12−Q, MB_C=9−Q et MC=27. Quel Q maximise le surplus ?
+2dlbzepdhlf	36−3 Q=27 donne Q=3, qui est inférieur aux trois seuils 9,12,15.
+111xe6aprm6	9 est la différence 36−27 ; il reste à la diviser par 3.
+2c75av6gnhy	Personne ne paierait seul MC au départ, mais les bénéfices collectifs valent 36>27.
+28tdj3iwkcc	Une valeur négative n’est pas un désamour à inventer
+219f4icvenx	Un petit jardin commun plaît beaucoup à Léa et un peu à Sam. Après Q=2, Sam ne veut simplement plus de jardin supplémentaire : sa valeur est nulle, pas une nuisance. Continuer mécaniquement sa droite sous zéro retirerait à tort du bénéfice à Léa.
+upu2b9fl0d	Avec MB_L=max(0,8−Q), MB_S=max(0,2−Q), les seuils déterminent des segments différents. Si une unité nuisait réellement à Sam, il faudrait un autre modèle.
+25yoci51ctx	Les fonctions linéaires résument une demande sur son domaine pertinent ; une quantité négative ou une WTP négative n’est pas automatiquement admissible.
+17pm371xamf	Il faut résoudre dans un segment, puis contrôler que la solution appartient à ce segment.
+29tohiqvw12	Avec MC=3 : 10−2 Q=3 donne 3,5, mais le segment à deux bénéficiaires exige Q≤2. Sur Q≥2, 8−Q=3 donne Q=5 ; Sam vaut 0 et Léa 3.
+1z704x74xqx	Tu es Sam : tu dis « je n’en veux pas plus », pas « payez-moi pour supporter ce jardin ». Ne laisse pas une droite changer tes préférences.
+17lxpz9k72s	Pour ces deux MB tronquées et MC=3, quel est le niveau efficient ?
+1nixis31wgv	Au-delà de 2, seule Léa contribue à la somme : 8−Q=3 ⇒ Q=5.
+se137d6jxj	À 3,5, la formule 10−2 Q compte une WTP négative de Sam ; elle est hors de son segment.
+110yim9divd	2 est un seuil de changement de formule, pas forcément l’optimum.
+4h3f1x1850	300 étudiants ne se partagent pas la vitesse en 300 morceaux
+mvdd0rb00b	Un campus choisit la qualité d’un wifi commun. Chacun des 300 étudiants bénéficie de la même vitesse Q. L’étudiant supplémentaire ajoute une disposition à payer au calcul collectif ; il ne demande pas une vitesse séparée à ranger à côté de celle des autres.
+27vj3xnjgky	E2022 : 300 personnes avec MB_i=10−Q et MC=1 500 donnent 300(10−Q)=1 500.
+57uul42rxi	Le prix unitaire du bien commun est un coût pour tout le service, pas le prix de 300 connexions privées distinctes.
+tb45583srj	Les unités de l’égalité sont des euros par unité de vitesse des deux côtés.
+aud8p8v7km	300(10−Q)=1 500 ⇒ 10−Q=5 ⇒ Q=5. Chaque étudiant valorise la marge à 5 ; 300×5=1 500.
+fi86frs6il	Tu révises avec tes amis sur le même réseau : demander « quelle vitesse commune ? » est plus utile que « combien de vitesses achète chacun ? ».
+88of5jvkpb	300 étudiants ont chacun MB=10−Q ; MC commun=1 500. Quel Q est efficient ?
+s676f8donb	unités de qualité
+puhkzj37xs	Divise d’abord 1 500 par 300 : MB individuel requis=5, donc Q=5.
+19r9vjkvj3d	1 500 est un coût marginal monétaire, pas une quantité.
+111uiqagihn	300×10 est la somme des MB à Q=0, pas une quantité optimale.
+27uxik0ioyh	Si ton voisin paie, pourquoi paierais-tu aussi ?
+2d3gs40waxo	Anna envisage de financer le nettoyage. Bilal sait qu’il profitera de la rue même s’il garde son argent. Il peut attendre la contribution d’Anna et annoncer une valeur trop faible pour réduire sa facture, alors même que la rue propre compte beaucoup pour lui.
+zvpu75x4t3	Free rider : bénéficier sans contribuer. La non-exclusion crée une incitation à sous-contribuer et à sous-révéler sa WTP.
+1hq2ti71dcu	Le gain privé de payer ne comprend que le bénéfice que le payeur récupère ; le gain des voisins reste hors de son arbitrage.
+1i4eux4fk1y	Le manque de contribution ne prouve pas une absence de valeur : il peut être une réponse rationnelle à la règle d’accès.
+27piqkcmnqi	Dans L11, MB_H=20−h et MC=14 : H seul choisit h=6, tandis que MB_H+MB_L=30−2 h donne h=8 collectivement.
+wx35zyue36	Tu te demandes « la rue sera-t-elle propre même si je ne paie pas ? ». Si oui, tu vois la tentation privée que le financement collectif doit résoudre.
+l4qmnk4rm0	Le free riding implique-t-il toujours une fourniture volontaire nulle ?
+ebr8svfyel	Oui, personne ne valorise le bien
+jha1yfod3c	Le problème porte sur la contribution, pas sur la valeur ; H peut financer h=6.
+1nbs5sydqvz	Non, un habitant peut financer un niveau positif mais insuffisant
+1592lqzbqt3	Ici H finance 6, alors que l’optimum collectif est 8.
+1koch21aobj	Non, il rend forcément le niveau efficient
+hioxuiqokt	Les bénéfices des autres restent absents du choix individuel.
+27edyea98v6	Une règle collective peut financer ce que chacun attend des autres
+2gftayytguw	Les habitants peuvent accepter une contribution obligatoire afin de financer le niveau commun. Cela empêche de bénéficier en refusant simplement de participer. Mais annoncer le bon niveau de service demande encore de connaître les bénéfices et les coûts ; la collecte d’argent n’est pas une preuve automatique d’efficacité.
+1h45k2nxdhw	Le financement obligatoire peut réduire le problème de free rider. Dans le benchmark, les paiements financent des ressources réelles ; il faut aussi examiner information, coût de collecte et effets des impôts si l’énoncé les inclut.
+py5sle90br	Changer la règle de contribution change l’incitation à garder son argent tout en profitant du bien.
+25kieb1k8vw	Le niveau efficient et la répartition du financement sont deux décisions différentes ; les bénéficiaires n’ont pas nécessairement les mêmes WTP.
+gcbv9sgcjs	À Q=3 dans A6, 12+9+6=27 justifie la dernière unité. Cela ne signifie pas que chaque habitant doit payer 27 € pour cette unité.
+yhv1osrgq7	Tu négocies avec les voisins : commence par déterminer si le passage vaut son coût, puis discute de la répartition de la facture.
+1d3jxmtcto6	Pourquoi « chacun paie MC=27 » n’est-il pas la condition du bien public ?
+2yxgjm3b39	Parce que les trois bénéficient de la même unité : leurs MB se somment
+twnplcwoee	Le coût de l’unité commune est compté une fois, et les bénéfices de chacun une fois.
+1avyln7s2xn	Parce que le service est gratuit à produire
+97tteyt3yu	MC=27 représente précisément les ressources nécessaires.
+8079l3wifd	Parce que seule la WTP la plus haute compte
+yi4v1pmlj9	La valeur des autres bénéficiaires compte aussi dans le surplus collectif.
+20omqicmjeg	Le pêcheur libre d’entrer prend aussi du poisson aux autres
+12wu5ez8trv	Un lac est ouvert à tous. Ton bateau rapporte une prise, mais il réduit le stock disponible pour les bateaux déjà présents. Tu compares ta propre recette au coût de partir en mer ; tu n’encaisses pas la perte que ton entrée impose aux autres pêcheurs.
+cn07nkegbb	Une ressource commune est non excluable mais rivale. L’accès libre pousse à l’usage excessif, alors que le bien public pur souffrait de sous-contribution.
+1ozi1tmu7ra	L’entrant récupère sa propre prise sans indemniser la baisse de prise des autres.
+29hec9kxrum	Une ressource précieuse peut donc être surexploitée précisément parce que chacun veut en profiter.
+xh6a7hjk9c	Ne pas payer pour une rue propre = free riding. Ajouter un bateau qui réduit la prise des autres = pression sur un commun.
+2ayhnvhetu4	Tu es le nouveau pêcheur : une sortie rentable pour toi n’est pas encore une preuve qu’un bateau de plus enrichit l’ensemble du lac.
+1t2q3q8kslk	Quel problème correspond au commun plutôt qu’au bien public pur ?
+1dbd7ehxtw3	Trop peu de contributions au service partagé
+dev25oqvj0	C’est le problème de financement du bien public.
+1hpxb3redkx	Trop de bateaux entrant dans une pêche rivale en accès libre
+25slhkatldk	Chaque entrant ignore une partie de la raréfaction qu’il impose aux autres.
+1n99746kr95	Un coût de production forcément nul
+1skakotd18y	Les bateaux consomment du carburant et du travail.
+1jzxdv0k9rs	Ta recette moyenne n’est pas ce que ton bateau ajoute au lac
+16soxv7fnpn	Avec n bateaux identiques, chacun partage la recette totale. Le pêcheur compare donc sa part moyenne au coût individuel. La société demande plutôt de combien la recette totale augmente si un bateau de plus entre : elle compte aussi la baisse de prise des autres.

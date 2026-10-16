@@ -1,3 +1,22 @@
+1kyy6wfppw5	Un marché concurrentiel (acheteurs, vendeurs price takers) dont l’échange a un effet sur des personnes qui n’y participent pas.
+c2i5730mvs	Une transaction a deux signataires — l’acheteur et le vendeur — mais ses conséquences physiques (moins de pollution) ne s’arrêtent pas à eux.
+11op18umizb	Le prix ne « voit » que ce qui est payé. Les voisins ne paient rien et ne reçoivent rien de la transaction : leur gain n’apparaît dans aucun prix.
+20m2hdaheqa	C’est exactement ce que le cours appelle un effet sur un tiers non pris en compte dans la transaction (§11.1). On lui donnera son nom dans quelques étapes.
+rvl56ueqou	Comme un voisin qui fleurit son balcon : toute la rue en profite, mais lui seul a payé les fleurs.
+27o6dxt290d	Tu signes le bon de commande. Ton voisin n’a rien signé — mais demain il respire un air un peu plus propre grâce à toi.
+kidpwk2t5l	Le graphique est vide pour l’instant : on va le remplir acteur par acteur. Horizontalement, le nombre de panneaux Q ; verticalement, des € par panneau.
+1k77s8u78f9	Qui est affecté par ton achat sans participer à la transaction ?
+9i715ufqw5	Il participe : c’est lui qui vend. Cherche quelqu’un qui n’a rien signé.
+1dhwxjbvyoy	Tes voisins
+2eivhe8y0c8	Oui. Ils ne paient rien, ne signent rien, mais l’électricité solaire remplace une électricité plus polluante dans l’air qu’ils respirent.
+1jmkywlbmty	L’État n’est pas directement touché ici : il observe et pourra intervenir plus tard.
+tm303zqg0x	Personne
+1fqx580og3k	Regarde l’air que respirent tes voisins.
+2foso9hvozc	exercice solaire A6.3
+1366woommog	mise en scène des acteurs
+1h7n8d6qm8z	Que regarde l’acheteur ?
+1vulrsesfwk	MPB(10), valeur du 10e panneau
+23np3yt8e6a	Pour chaque panneau de plus, tu te poses une seule question : « combien vaut CE panneau supplémentaire pour moi ? » Le premier couvre tes usages les plus utiles ; les suivants servent des usages de moins en moins importants. Ta valeur pour « un panneau de plus » baisse donc à mesure que tu en as.
 1zp2z6mwea8	La demande mesure le [[MPB]] : la disposition à payer (WTP) pour l’unité marginale. Dans A6 : {{MPB = 100 − 3Q}}.
 21v92yd46gy	Toi → tous les acheteurs
 zbnyhltbdg	Tu peux imaginer UN acheteur (toi). Sur le marché, la courbe {{MPB = 100 − 3Q}} range tous les acheteurs du plus enthousiaste au moins enthousiaste : le point Q donne la valeur du Q-ième panneau pour celui qui l’achète.
@@ -156,47 +175,3 @@ eroo7z2b2w	+ la subvention
 2zccg5rp2g	Une subvention est un transfert d’argent, pas un coût réel de production.
 1u5xlw6suon	On se pose la question parce que l’optimum social compare TOUS les bénéfices à TOUS les coûts. Oublier un coût externe ferait surestimer la bonne quantité.
 2ckmi9cq93f	MEC = 0 par hypothèse de l’exercice. Dans d’autres exercices (essence L11/E2023, textiles E2024), MEC > 0 et MSC passe au-dessus de MPC.
-vzcw0lirw7	Si l’usine de panneaux faisait du bruit la nuit, ses riverains subiraient un coût : ce serait un MEC. Ici, on suppose que non.
-r94tez6k95	Le fabricant paie tout ce que coûte son panneau, et personne d’autre ne paie quoi que ce soit. Donc pour la société, un panneau coûte exactement ce qu’il coûte au fabricant.
-2d518vwlgiu	Pas de nouvelle courbe : MSC se confond avec MPC (orange). Seul le côté « bénéfice » a bougé.
-dg04s4skho	compare MSB et MSC
-2frjbohkrao	Pourquoi n’y a-t-il pas de courbe MSC distincte sur le graphique ?
-16gdknsb5sr	Parce que MEC = 0 : la fabrication n’impose aucun coût aux tiers dans ce modèle
-1zlvjradxe	Exact : MSC = MPC.
-rudjx1t32d	Parce que l’État paie les coûts
-11kq22926ot	Aucune intervention n’est en place, et une dépense publique ne changerait pas le coût réel.
-29povxikgva	Parce qu’avec une externalité positive, MSC = MSB
-29lsd5xffy2	Non : MSB et MSC sont deux courbes différentes qui se croisent en Q*.
-1jofnw4a7r0	pas de MEC dans A6
-166oz7epvp8	Combien de panneaux la société voudrait-elle ?
-1a0ncy3eyio	Q*, optimum social
-5ikd5esa36	Imagine un planificateur bienveillant qui compte tout le monde. Il ajoute des panneaux tant qu’un panneau de plus vaut plus pour la société qu’il ne lui coûte. Il s’arrête quand les deux sont égaux.
-2c9x5l600h6	Optimum social : {{MSB = MSC}} ⇒ 120 − 3Q = 10 + 2Q ⇒ [[Q*]] = 22. La règle universelle est MSB = MSC (§11.1).
-19jifssrykk	Quelle égalité utilise le planificateur ?
-1s8d2y24eeo	Ça, c’est la règle du marché : elle ignore les voisins.
-qmgsezj99i	Oui : valeur sociale du dernier panneau = son coût social.
-yetyvo543e	Ces deux courbes ne se croisent jamais ici : elles sont parallèles, à 20 d’écart.
-25dakudc0pz	Tu oublies la valeur pour l’acheteur.
-1ppxhe4kijl	Avant 22, chaque panneau ajoute plus de valeur sociale qu’il ne coûte → l’ajouter augmente le bien-être. Après 22, c’est l’inverse → l’ajouter le diminue. Le maximum est au croisement.
-r5ksf8bxcv	Le marché ne le fait pas tout seul parce que personne dans la transaction ne reçoit les 20 € des voisins : la décision privée compare MPB à MPC, pas MSB à MSC.
-zhl3vmlymr	C’est la règle universelle : quelle que soit l’externalité (positive, négative, production, consommation), l’optimum social est MSB = MSC. Seul change le côté du graphique qui bouge (§11.1).
-2563zq4pbs2	E2020 Q3 vaccins : 120 − Q = 10 + Q ⇒ Q* = 55, au-dessus du marché (45).
-11xb6nzyc8g	Si tu étais à la fois l’acheteur ET tous tes voisins, tu achèterais 22 panneaux : tu compterais 46 + 20 pour le 18e, et tu continuerais jusqu’à ce que ta valeur + celle des voisins = le coût.
-wm5pbhecn3	Q* = 22 : intersection de MSB (vert) et MPC (orange, = MSC). Qm = 18 reste là où le marché s’arrête.
-1p13apgfdhb	veut Q* = 22
-6nvn750r85	Vérifie le croisement : que vaut MSB(22) ? (Ce doit être égal au coût MPC(22).)
-1407n4xpebl	MSB(22) = 120 − 66 = 54 = MPC(22) = 10 + 44 = 54 ✓ : au point Q*, valeur sociale = coût social.
-1i56bgfsnqk	34 = MPB(22) : la valeur pour l’acheteur seul. Ajoute MEB.
-rjg4lz2w3z	Sans aucune intervention, le marché atteint-il Q* = 22 ?
-19zjcpzdwzq	Oui, un marché concurrentiel trouve toujours l’optimum
-9569a75kf7	Seulement si la demande = MSB et l’offre = MSC (§7.1). Une externalité casse ce résultat.
-xyb6hln7h1	Non : il s’arrête à 18, car les acheteurs ne comptent que MPB
-1onzjyqxpu	Exact : Qm = 18 < Q* = 22.
-1dyu95ef949	Oui, parce que Q* est le point d’équilibre
-2eoxxgxbjax	Q* ici = optimum SOCIAL, pas l’équilibre du marché. L’étoile ne dit pas « équilibre » (§18.3).
-21zi18iun4f	Qeff 22
-1wcoittihpc	optimum MSB = MSC
-13skowmxhhx	Les panneaux qui manquent
-2qr82krenm	Unités manquantes entre Qm et Q*
-xwbdl7ldld	Le marché s’arrête à 18. La société en voudrait 22. Les panneaux entre 18 et 22 vaudraient chacun plus pour la société qu’ils ne coûtent — mais ils ne sont pas produits, parce que l’acheteur seul ne les juge pas rentables.
-hgggek4sfg	Sur ]Qm, Q*] : MPB < MPC (pas d’échange privé) mais MSB > MSC (échange socialement souhaitable).

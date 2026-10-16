@@ -1,3 +1,169 @@
+1kzk74njn02	p·dQ/dp seulement
+275y3v88b3z	Tu oublies le supplément reçu sur les unités conservées.
+1297rboq669	Les deux composantes de pQ varient ; il faut la règle du produit.
+1sw3lh3lm2y	Le signe de 1 + εD indique quel effet domine lorsque Q > 0.
+151y6m1ijqz	Cette conclusion concerne une petite variation locale ; pour une grande variation, calcule directement les deux recettes.
+1dsn9y2aoun	Pour Q = 12 − p : à p = 4, R = 32 ; à p = 5, Q = 7, R = 35. À p = 8, R = 32 ; à p = 9, Q = 3, R = 27.
+1ldqx7r2aah	Tu vends une place plus cher. N’oublie pas les étudiants qui quittent la file : la nouvelle étiquette n’est pas toute ta recette.
+48gvi6bsmh	Le prix monte ; la recette ne monte pas toujours
+al6seu2os6	€ de recette
+1xi5gp6fvn2	Même demande construite Q = 12 − p. Recette = pQ ; ce sont des recettes, pas des profits, car aucun coût n’est encore donné.
+3rgce7n9ou	R = 6×6 = 36 ; élasticité unitaire, sommet de R pour cette droite.
+sinj0k6rbt	R = 8×4 = 32 ; demande localement élastique.
+23640mgfie1	εD = −0,4. Une petite hausse de p fait quoi à R ?
+pndtaernk	R baisse parce que Q baisse
+1kba7x52p22	Tu oublies le prix reçu sur les unités qui restent vendues.
+d6g3y205v5	R augmente
+2f62z4rtdqq	1 + ε = 0,6 > 0 : la quantité baisse proportionnellement moins que le prix n’augmente.
+25p13v3jowo	Q = 12 − p : quelle recette à p = 6 ?
+2e6m06fcc7x	Q = 6, donc R = 6×6 = 36.
+1lf180i6g31	Recette maximale ne veut pas dire profit maximal
+1abgnp3t3wc	Le vendeur ne garde pas toute sa recette : il paie aussi pour produire. Le prix qui maximise pQ peut donc conduire à produire des unités qui coûtent trop cher. L’élasticité explique une partie du choix ; pour le profit il faut encore les coûts.
+1i58i8jmo6s	Profit π = R − C. R maximale implique MR = 0 à l’intérieur ; profit maximal implique MR = MC avec les autres vérifications.
+1s3qfef8sqq	Une vente supplémentaire peut augmenter la recette tout en coûtant davantage que ce qu’elle ajoute.
+19cwz4rou9t	La maximisation de recette ignore ce coût supplémentaire.
+18m60n0aybt	Dès que MC > 0, l’arrêt pertinent pour le profit survient généralement avant le sommet de recette.
+2th76fhh0g	Même demande inverse p = 12 − Q, coût construit C = 2Q. Recette maximale : Q = 6, p = 6, profit = 36 − 12 = 24. Profit maximal : MR = 12 − 2Q = 2 ⇒ Q = 5, p = 7, profit = 35 − 10 = 25.
+19go82xzq0e	Tu ne cherches pas seulement combien rentre dans la caisse ; tu regardes ce qu’il reste après le coût des cafés.
+aucpyuhvrt	Une demande unitaire ε = −1 garantit-elle un profit maximal ?
+b0q7qlruhh	Oui, puisque la recette est maximale
+1t5bvxq4k4j	Cela ne serait garanti que sous des hypothèses supplémentaires sur les coûts et le domaine.
+1wltdfol9ac	Non, elle indique une recette localement stationnaire ; les coûts comptent pour le profit
+1krgoorn14y	Le profit compare MR au coût marginal.
+ncbsb2f6ts	A2 : utilise le signe et l’horizon pour prévoir
+1w93uptld75	L’autorité veut savoir l’effet d’un prix d’essence plus élevé. Commence par l’horizon demandé et garde le signe négatif de la demande. Une hausse de prix multipliée par une élasticité négative donne une baisse de quantité.
+1durs949tjb	Approximation : %ΔQ ≈ ε·%Δp. Pour un objectif : %Δp ≈ %ΔQ/ε.
+1nj4r8kj7at	Le pourcentage de quantité par 1 % de prix est précisément la signification d’ε.
+2apnpiy94nu	Pour une variation donnée, multiplier conserve cette logique en approximation locale.
+2fe7pm9hm74	Pour trouver la politique nécessaire, on inverse le calcul mais on conserve les signes.
+zptgdjd72j	A2 : εSR = −0,25 ; εLR = −0,60. Prix +5 % ⇒ QSR ≈ −1,25 %, QLR ≈ −3 %. Objectif QLR −15 % ⇒ prix ≈ (−15)/(−0,60) = +25 %.
+b9wjr2qns1	Avant de taper la calculatrice, prédis le sens : pour réduire l’essence avec une demande descendante, le prix doit monter.
+1ilybs6nopr	εSR = −0,25 et prix +5 %. Quelle variation approximative de Q en % ?
+1zzvonvk0u1	−0,25×5 = −1,25 %. Garde la baisse de quantité.
+24r3k50xfdp	εLR = −0,60 ; objectif Q −15 %. Quelle hausse de prix approximative en % ?
+1mhfv4yo03s	(−15)/(−0,60) = +25 %. C’est l’approximation proportionnelle.
+1k6skzlhm43	Une grande variation révèle la limite de l’approximation
+88q0oziz08	Multiplier des pourcentages est pratique près du point de départ. Pour une hausse importante, la courbure de la demande peut compter. Si l’énoncé impose une fonction à élasticité constante, elle donne une relation exacte différente : annonce la convention avant le chiffre.
+1i0hv1ucgt1	Si Q = A·p^ε, alors Q1/Q0 = (p1/p0)^ε. Donc p1/p0 = (Q1/Q0)^(1/ε). L’approximation linéaire n’est pas cette identité exacte.
+1yns6fs3oka	L’élasticité locale mesure une réaction infinitésimale ; appliquer une seule pente à une longue variation simplifie la trajectoire.
+5u90jlitdc	Une fonction à élasticité constante décrit toute cette trajectoire et permet un calcul exact.
+1fr0vxi7jyb	Les deux résultats répondent à des conventions différentes ; l’un n’autorise pas à annoncer l’autre comme identité.
+1litnvor235	A2 : cible Q1/Q0 = 0,85 et ε = −0,60. Exact si Q = A·p^−0,6 : p1/p0 = 0,85^(−1/0,6) ≈ 1,3111, soit +31,11 %. Approximation usuelle : +25 %. Écart ≈ 6,11 points de pourcentage.
+23s07clcmg4	Tu écris « approximation proportionnelle » ou « fonction constante exacte » avant de montrer le résultat : le correcteur peut alors voir le modèle choisi.
+bi4y6kh9h1	Le résultat +25 % pour la cible −15 % avec ε = −0,60 est…
+18fbvy8nasw	Exact pour toute fonction où ε vaut −0,60 au départ
+36tcnn8vro	Une élasticité au point de départ ne fixe pas toute la fonction.
+gdjd6bsasc	L’approximation proportionnelle, pas le résultat exact de Q = A·p^−0,6
+2chgtefqu6j	Le calcul exact de la fonction puissance donne environ +31,11 %.
+ns2nu0gitf	Demande construite Q = A/p, donc ε = −1. Pour diviser Q par deux, de combien faut-il augmenter p, exactement, en % ?
+j4f04y1ptq	Q1/Q0 = p0/p1 = 1/2 ⇒ p1 = 2p0 : prix +100 %, pas +50 %.
+7uavg115yf	Le prix qui change est celui d’un autre bien
+28d1gy1j8uk	Le prix du thé augmente et tu achètes davantage de café : cela suggère que l’un remplace l’autre. Le prix des biscuits augmente et les cafés consommés avec eux diminuent : cela suggère une complémentarité. Le signe se lit sur le déterminant réellement modifié, pas sur une règle « toute demande est négative ».
+6awag2yska	Élasticité-prix croisée εij = (∂Qi/∂pj)·(pj/Qi). Positive : substituts ; négative : compléments, dans le modèle donné.
+1i7szcj8pr1	Le prix du bien i reste donné : on mesure un déplacement de sa demande causé par un autre prix.
+zywx2u5ilh	Si l’autre bien devient moins intéressant et que l’on bascule vers i, la réaction est positive.
+1mkm4sy16ol	Si les biens servent ensemble, renchérir l’un réduit l’usage du duo et peut réduire Qi.
+f42o4v50lg	Entraînement construit : εcafé,thé = +0,4 et prix du thé +10 % ⇒ café ≈ +4 %. Avec εcafé,biscuit = −0,2 et prix des biscuits +10 % ⇒ café ≈ −2 %.
+27gcw82o8d4	Tu peux expliquer le signe avant de calculer : « je remplace le thé » ou « je prends moins du duo ».
+24n2g9cduxn	εcafé,thé = +0,4. Prix du thé +10 %. Variation approximative des cafés en % ?
+hfxt4j37bw	0,4×10 = +4 %. Le café et le thé sont substituts dans cette situation.
+r474x9lh9y	Une élasticité croisée négative indique…
+18ybbgx4tn8	Une demande propre ordinaire, sans information sur les liens
+1o1mwopd70	L’indice du prix compte : il s’agit de pj, le prix d’un autre bien.
+ygwd4q9il0	Des compléments
+kl1evt9kj4	Le prix de l’autre bien monte et la quantité du bien étudié baisse.
+11j49agcqy	Quand ton revenu change, le signe raconte autre chose
+153kb8wzcy9	Avec plus de revenu, tu peux acheter davantage d’un bien normal. Tu peux aussi abandonner un bien utilisé surtout quand le budget était serré : il est alors inférieur sur ce domaine de revenu. Ces termes décrivent une réaction de quantité, pas la qualité morale ou matérielle du bien.
+q1kxeujxcf	Élasticité-revenu η = (∂Q/∂I)·(I/Q). η < 0 : inférieur ; η > 0 : normal ; η > 1 : luxe ; 0 < η < 1 : nécessité normale.
+1qm9ole8pzx	Le revenu change les paniers accessibles alors que les prix restent constants.
+tzyco1cmt0	La réponse dépend des préférences et du point de revenu observé.
+1c757h4vx72	Un même bien peut changer de catégorie quand les besoins et alternatives changent.
+1hsoo8v8si0	Exemples construits : η = −2, revenu +10 % ⇒ Q ≈ −20 %. η = 1,4, revenu +10 % ⇒ Q ≈ +14 % : ce bien est normal et de luxe sur le domaine étudié.
+jw6iwyv24o	Une auberge peut être ton option normale à petit revenu, puis être remplacée par un hôtel quand tes moyens augmentent. « Inférieur » décrit ce choix.
+2fr0610vuek	η = −2, revenu +10 %. Variation approximative de Q en % ?
+2e6x155iifc	−2×10 = −20 %. Le bien est inférieur dans ce domaine.
+1epd5rswiye	η = 1,4 signifie…
+26v4ydzxl75	Bien de mauvaise qualité parce qu’il est cher
+iazl3mcki1	Cette classification ne juge ni la qualité ni le niveau du prix.
+1hdp69021yv	Bien normal dont la quantité croît plus que proportionnellement au revenu
+1g0ton7yifo	1,4 > 1 : bien de luxe au sens de l’élasticité-revenu.
+1jr4k7lg1t8	Deux points : annonce quelle base tu utilises
+kcamnir2kv	Une variation de 6 à 4 ne donne pas le même pourcentage si tu prends 6, 4 ou leur moyenne comme base. Pour comparer deux points symétriquement, la méthode d’arc utilise les moyennes. Elle ne doit pas être mélangée avec une base initiale pour l’autre variable.
+lh46rr9fwk	Élasticité d’arc : [ΔQ/((Q0+Q1)/2)] / [Δp/((p0+p1)/2)]. Les deux dénominateurs suivent la même convention.
+s4mefamj6h	La base initiale dépend du sens dans lequel tu parcours le changement.
+16xle7jl6ar	Les moyennes traitent les deux points de façon symétrique.
+twtey4ps2k	Changer la base change la mesure discrète ; préciser la convention rend le calcul interprétable.
+2bfg9rvvkho	Q : 6 → 4, p : 1 → 2. Arc : (−2/5)/(1/1,5) = −0,4/(2/3) = −0,6. Base initiale de L4 : −1/3. Les données sont identiques ; la convention diffère.
+1zrd346r3xz	Sur ta copie tu notes « arc, bases moyennes » et tu utilises cinq pour Q et 1,5 pour p ; tu ne mélanges pas cinq et un.
+1us8nsjopqd	Q : 6 → 4, p : 1 → 2. Quelle élasticité d’arc avec bases moyennes ?
+1jqo86dl1uf	Moyennes : Q = 5, p = 1,5. (−2/5)/(1/1,5) = −0,6.
+1n14r19ikmj	Utiliser Q moyen mais p initial donne…
+1cn5g1h1frd	La même chose que l’arc par définition
+8mpvxvz2k9	L’arc prend les moyennes dans les deux pourcentages.
+1rttxfnfykx	Un mélange de conventions à éviter
+1fcumo7ta0n	Le ratio n’est ni la mesure d’arc définie, ni la mesure sur base initiale.
+1m08l1fdmo1	Les cas limites et la dernière vérification
+xl6k0loaa2	Si la quantité ne change jamais quand le prix bouge, la demande est parfaitement inélastique. Si un écart infinitésimal de prix fait basculer les achats dans le modèle limite, elle est parfaitement élastique. Entre les deux, garde le signe et le point : tu ne peux pas attribuer automatiquement une élasticité unique à toute une droite.
+17xeg5ye94h	Demande verticale : ε = 0. Demande horizontale dans le cas limite : |ε| infini. À Q = 0, ε = (dQ/dp)p/Q n’est pas définie ; examiner une limite si justifiée.
+1j82mjfklup	Une ligne verticale fixe Q malgré le prix : dQ/dp = 0.
+2fjmu245s2f	Une ligne horizontale fixe le prix admissible et permet une réaction de quantité arbitrairement forte dans le modèle idéal.
+z5kqmkdkbu	La division par Q impose un domaine : au point où Q est nul, ne donne pas un ratio fini sans justification.
+1sjd4am4ck4	Demande construite Q = 12 − p : à p = 0 et Q = 12, ε = 0 au point ; cela ne rend pas la droite entière verticale. Quand p approche 12 par valeurs inférieures, Q approche 0 et |ε| devient très grand.
+1fw2bj584uf	Tu vérifies « quel prix ? quelle quantité ? quelle variable a changé ? quelle convention ? » avant de classifier ou calculer une recette.
+ag9ro98t7c	Une demande parfaitement inélastique a une courbe…
+sjl9t4u08p	Horizontale, car ε = 0 signifie pente horizontale
+dca2dswwo2	Tu as confondu dQ/dp et la pente dessinée dp/dQ.
+17i9caezzlr	Verticale, Q ne change pas lorsque p change
+1u0qch1dmob	La réaction proportionnelle de Q est nulle.
+170hodeyruu	Explique avec tes mots pourquoi la hausse de prix peut baisser la recette.
+27uhnaqwzcd	Plus par unité
+122ytyr8ihs	Perte des ventes
+1fgw68gohan	Réaction proportionnelle dominante
+wfa59edzv0	Le prix plus élevé rapporte davantage sur chaque unité conservée, mais réduit les ventes. Si la demande est élastique, la baisse proportionnelle de quantité domine la hausse du prix : la recette diminue.
+zf0nopyu8v	Prix propre, autre prix et revenu ne décrivent pas la même réaction ; court et long terme n’offrent pas les mêmes possibilités.
+1krcs26et5f	On veut comparer la variation relativement aux niveaux de départ, pas une pente brute avec des unités.
+2dbd21z5be1	Le signe décrit le sens ; la magnitude peut varier le long de la même droite.
+biu2gr5ep	Approximation locale, arc et fonction puissance exacte peuvent donner des chiffres différents.
+zanm4c6l3z	La réaction indique substitution, type de bien, objectif de quantité ou effet sur la recette, sans remplacer un calcul de profit.
+1pum31gpx28	ε = −0,6 décrit une baisse proportionnelle de Q quand p augmente, sur l’horizon et au point précisés. Le calcul −15/(−0,6) = +25 % est l’approximation proportionnelle. Si l’on impose Q = A·p^−0,6 pour tout le changement, la hausse exacte est environ 31,11 %. Une demande inélastique fait monter la recette pour une petite hausse de prix ; le profit dépend aussi des coûts, et une grande variation exige de comparer les niveaux.
+24ksbgoyrs	Identifier la variable et l’horizon
+27vn4gnu83f	Transformer la réaction en pourcentages
+maiwn1fgdz	Garder le signe et le point
+1u9ldqbbdzk	Calculer sous une convention annoncée
+knek3w6ome	Revenir à la décision économique
+uyg30g9nby	Une amie dit « l’essence a ε = −0,6, donc augmenter son prix de 25 % réduit exactement Q de 15 % et augmente forcément le profit ». Explique ce qui est correct, ce qui manque et comment tu raisonnerais.
+5w0sgi59l3	Sensibilité proportionnelle négative
+oh9esg6g33	1 % de prix en plus donne environ 0,6 % de Q en moins localement.
+lk2uppaifk	25 % est une approximation
+1kv1etf0v7o	Une grande variation nécessite un modèle ou une convention explicite.
+lubmbxeel4	Avec |ε| < 1, l’effet prix domine localement.
+kwyngprinw	Coûts pour le profit
+1a0e398p3fd	La recette ne suffit pas à conclure sur π.
+c6vwww5n82	La dérivée doit être normalisée par p/Q ; sur une droite, l’élasticité varie avec le point.
+17p6i00pqoi	25 % est l’approximation de la cible A2. Pour Q = A·p^−0,6, la solution exacte est environ +31,11 %.
+1wuw3azlq36	Le profit retranche les coûts. Une recette supérieure ne prouve pas un profit supérieur.
+1iet1i42reo	Entraînement construit fondé sur L4, A2.1 et les pièges §20. Les valeurs de la demande linéaire et de l’objectif exact sont des variantes pédagogiques, pas un sujet officiel.
+2bex13zy1i0	dQ/dp = −2, Q = 80, ε = −2×20/80 = −0.5 : inelastic.
+svbbli5lp6	p1/p0 = 0.8^(−2) = 1.5625, exact +56.25%. Approximation: (−20)/(−0.5) = +40%.
+vonuwse6vt	Identifier demande directe et calculer Q au point demandé.
+1rkwgau46fn	Normaliser la dérivée par p/Q puis classifier avec |ε|.
+205ik13qbbn	Calculer R = pQ aux deux points au lieu d’extrapoler aveuglément une conclusion locale.
+1coehiwdse0	Pour le changement exact de l’autre marché, utiliser le ratio de la fonction puissance.
+1enkr6gx67j	Marquer (Q,p) = (80,20) et (70,25), puis les rectangles pQ correspondants.
+28xcgcfui4o	Ne pas utiliser cette droite pour représenter l’autre marché à élasticité constante.
+1hy6rg6vb3i	Une demande est élastique si…
+1bk365e7o45	εD est négative, quelle que soit sa magnitude
+hwx8ul3jsw	La plupart des demandes descendantes ont un signe négatif ; cela ne suffit pas à classifier la magnitude.
+wqo8a2ao4f	La réaction proportionnelle de Q dépasse celle du prix.
+awyf40xayi	Une élasticité croisée positive indique…
+gf46ebxwq1	Un bien de luxe
+12p9sicfth6	Le luxe se lit avec l’élasticité-revenu, pas croisée.
+1zud98yev5d	Des substituts dans le modèle donné
+12lkc97iadv	Le prix de l’autre bien augmente et la demande étudiée augmente.
+1edylwewpik	Pourquoi normaliser la dérivée par p/Q ?
+q83w0ctw1t	Pour rendre toutes les élasticités positives
+1v4fkhyt77j	La normalisation ne supprime pas le signe de la dérivée.
+nz2doue3po	Pour convertir la réaction absolue en réaction proportionnelle
 24cjl9qyls8	Les unités se simplifient et les niveaux du point sont pris en compte.
 1frafkodfnj	εD = −2, petite hausse du prix. Pourquoi R baisse-t-elle ?
 27o4fr3f186	Le prix n’apporte aucun gain sur les unités vendues
@@ -30,189 +196,3 @@ secz1p12m7	Je relie l’élasticité à R sans promettre un profit.
 4kcm3902vl	Production et coûts — faut-il produire, avec quoi, et combien ?
 1ydjlv5ccj0	Technologie, coût minimal et décision de la firme
 2abjtlra08x	Un travailleur supplémentaire n’ajoute pas la production moyenne. Une perte ne signifie pas toujours fermer. Tu vas reconstruire ces décisions et relier l’atelier, ses coûts et l’offre du marché.
-fsan1r4hfj	Les clients
-128g84vtcu0	achètent au prix de marché
-z0bukuzc1u	payer le même prix pour un produit homogène
-212tox9g63b	Toi, responsable de l’atelier
-2abkw4k113d	choisis les inputs puis la quantité
-1oh7p0lf7hj	produire au coût minimal et maximiser le profit économique
-105gicghwwy	Travailleurs et propriétaires de machines
-noqfck2y0w	fournissent L et K aux prix w et r
-29xtcckh1iz	être rémunérés pour leur usage et leur meilleure alternative
-1y32vpgqb7u	sépares technologie, coût et horizon
-253q98ylt0j	comparer la bonne alternative : produire, arrêter ou sortir
-lq6z5hzf2x	Avant le profit, il y a une vraie production
-elyhqfbqvz	Tu diriges un petit atelier : des travailleurs L et des machines K produisent des unités Q. Deux questions se suivent. D’abord « avec quel mélange produire la quantité visée au moindre coût ? », puis « quelle quantité vaut la peine d’être vendue au prix du marché ? ».
-f1axagc9na	Technologie Q = f(K,L). Minimisation du coût conditionnelle à Q, puis maximisation de π(q) = pq − C(q). La quantité de firme q se distingue de la quantité totale du marché Q.
-2er6djt7a6w	Une technologie relie les ressources physiques à l’output, avant les prix de vente.
-oi5g7jt0hl	Les prix des inputs transforment un mélange physique en dépense monétaire.
-xkg0g6f967	Le prix de l’output permet ensuite de comparer la recette au coût ; ce n’est pas le même problème de choix.
-rkmh046ob	Situation construite Q = √(KL) : K = 20 et L = 5 produisent Q = √100 = 10. Avec w = 4 et r = 1, ce mélange coûte 4×5 + 1×20 = 40.
-1ao88at07t7	Tu ne peux pas fixer une quantité rentable sans savoir quelles ressources elle exige ; tu ne peux pas minimiser les ressources en oubliant l’output à fournir.
-2gea0n5zb68	Produire 10 au coût minimal
-21tvnoz0avf	L, unités de travail
-1krb8bsvbb	K, unités de capital
-xiu3bkk5q3	Exemple construit Q = √(KL), objectif Q = 10, w = 4 et r = 1. Isoquante K = 100/L : points exacts reliés, segments visuels approximatifs. Isocoût exact K = 40 − 4L. Minimum (L,K) = (5,20), coût 40.
-v4k5guyjst	Isoquante Q = 10
-7ij0srb86v	Chaque point a KL = 100, donc Q = 10.
-9eqr4004or	Isocoût C = 40
-23tonuvu2od	Chaque point coûte 4L + K = 40. Seul (5,20) atteint Q = 10 à ce coût.
-syocdos6u1	Coût minimal : L = 5, K = 20
-19koni70si1	Minimiser le coût pour Q = 10 signifie…
-58jlq615i9	Choisir Q = 0 parce que cela coûte moins
-2g8qlbkoog8	Cela viole la quantité cible. Choisir la quantité vient dans le problème de profit.
-11wdba15yvf	Choisir les inputs les moins coûteux capables de produire 10
-1ergk6qh9np	L’output est imposé dans ce premier problème.
-240xiwywwli	Ce qu’ajoute le dixième travailleur
-135pmozhnv3	Ne répartis pas toute la production sur le dernier travailleur. Son apport est seulement la différence entre ce que l’atelier produit avec lui et sans lui, les machines restant fixes. La moyenne répond à une autre question : combien produit-on par travailleur présent ?
-1zmegit8uth	Produit marginal discret MPL = ΔQ/ΔL, K fixé. Produit moyen APL = Q/L. Continu : MPL = ∂Q/∂L.
-14kk5pg86kg	La décision d’embaucher concerne ce qui change avec une personne supplémentaire.
-7slfcn9stm	La production déjà possible avant l’embauche ne lui est pas attribuée.
-26cu8poop2w	Une moyenne combine tous les travailleurs ; elle ne mesure pas le gain de la prochaine embauche.
-zntfmhrm9v	L5 : à L = 9, Q = 50 ; à L = 10, Q = 54 ; à L = 11, Q = 56. Le dixième ajoute 4, le onzième 2. À L = 10, la moyenne est 54/10 = 5,4.
-1w3bf9lsncf	Avant d’embaucher le onzième, tu demandes « deux unités de plus valent-elles son salaire ? », pas « est-ce que 56/11 paraît grand ? ».
-rblv24hyte	Q passe de 50 à 54 lorsque L passe de 9 à 10. Quel produit du dixième travailleur ?
-248gsnct9qr	54 − 50 = 4, K fixé.
-2dzmdoowg5n	unités/travailleur
-ao3bll0ltw	À L = 10 et Q = 54, quel produit moyen ?
-1cerjja15gd	APL = Q/L = 54/10 = 5,4. Ce n’est pas le produit marginal 4.
-5garg25yh3	4 est l’apport du dixième ; la moyenne utilise toute la production 54 et les dix travailleurs.
-fyuoa4qi8b	Le travailleur doit rapporter ce qu’il coûte à la marge
-ger0ju17hr	Un travailleur peut être productif physiquement sans être rentable au salaire demandé. Convertis son output supplémentaire en recette en multipliant par le prix de vente, puis compare au salaire. Cela suppose que ton atelier peut vendre au prix donné sans le faire varier.
-21ie3d1oxwc	Firme price taker : valeur du produit marginal p·MPL ; embaucher tant que p·MPL > w. À l’intérieur, p·MPL = w. Avec pouvoir de marché, utiliser MR·MPL.
-1o1sw3wmgkl	MPL est en output par travailleur, le salaire en monnaie par travailleur : il faut une conversion.
-23aizcw1w0w	Multiplier MPL par p donne la recette ajoutée si le prix de vente reste donné.
-18ijeck2wpb	Continuer au-delà de p·MPL = w ferait coûter plus que ce que la dernière embauche rapporte.
-nrdsise26d	Reprends L5 avec prix construit p = 3 et salaire w = 9. Dixième : 3×4 = 12 > 9 ; onzième : 3×2 = 6 < 9. Si ces incréments décrivent les options pertinentes, le dixième vaut son coût, le onzième non.
-hh69mdiqey	Tu compares les neuf de salaire au chiffre d’affaires supplémentaire, pas au chiffre d’affaires total de l’atelier.
-csdbcqboff	p = 3 et MPL du onzième = 2. Combien rapporte cette embauche supplémentaire ?
-1nmnnflxj6q	p·MPL = 3×2 = 6, à comparer au salaire 9.
-19ktedl2437	Avec p·MPL = 6 et w = 9, embaucher ce travailleur améliore-t-il le profit ?
-zcp160ynkl	Oui parce que MPL est positif
-10sbi08s90y	Positif physiquement ne signifie pas rentable au salaire donné.
-av0al35ed7	Non : il ajoute moins de recette que de coût
-83f75f4bcz	La contribution marginale est 6 − 9 = −3.
-q0cnmsokmh	Produire la même chose avec un autre mélange
-gpxszq0q3v	Tu dois fournir dix unités. Beaucoup de combinaisons machines-travail peuvent y parvenir : moins de machines peut être compensé par plus de travail. Une isoquante regroupe ces mélanges équivalents en output ; elle ne dit pas encore lequel coûte le moins.
-wfqdagbrpq	Isoquante : f(K,L) = Q̄. Avec L horizontal et K vertical, pente = −MPL/MPK ; MRTS_LK = MPL/MPK, capital économisé par unité de L ajoutée.
-10whqdq0xwk	On fixe l’output pour comparer uniquement le mélange d’inputs.
-1fgj4rdt1zh	Ajouter dL crée MPL·dL de production ; retirer dK en retire MPK·|dK|.
-1o4o07pk57y	Maintenir Q impose MPL·dL + MPK·dK = 0, d’où le ratio de produits marginaux.
-1sif7do7d2w	Q = √(KL), cible 10 : KL = 100. (L,K) = (5,20) et (10,10) produisent tous deux 10. MRTS_LK = K/L : au premier point, elle vaut 4 unités de K par L.
-2dbf7bju3bg	Tu demandes à l’ingénieur combien de machines un peu plus de travail peut remplacer sans changer la livraison ; tu demandes ensuite au comptable si cela économise de l’argent.
-2ewtpr7rpd7	Q = √(KL) = 10 et L = 5. Quel K faut-il ?
-1neitbkn0l6	KL = 100, donc K = 100/5 = 20.
-nsmsekhyic	MRTS se rapporte à…
-h9oxmx9wc4	Un arbitrage de consommation à utilité constante
-20slsdgfuhg	C’est MRS. Ici les acteurs produisent et les axes sont L et K.
-e5qlynksqp	Un arbitrage technique entre inputs, à output constant
-5876flzee6	MRS concerne les préférences d’un consommateur, à utilité constante.
-11yb7f1d5j0	Le marché des inputs propose aussi une pente
-lwcy0y7h3s	Le travail coûte w et les machines r. Si tu maintiens la dépense constante, un travailleur de plus exige de retirer w/r unités de capital. L’isocoût décrit ce compromis financier ; il n’est pas une isoquante de production.
-2fmriwgj8ur	C = wL + rK ⇒ K = C/r − (w/r)L. Avec L horizontal, la pente vaut −w/r ; les intercepts sont C/w et C/r.
-1vgz5zi1mvq	Les deux dépenses doivent s’additionner au même coût total.
-1rfpv9ks5oe	Ajouter une unité de L coûte w, qu’on finance en retirant w/r unités de K.
-1q7djfmfh6e	Le ratio de prix des inputs vient du marché, tandis que MRTS vient de la technologie.
-1z9iokwkqrt	C = 40, w = 4, r = 1 : K = 40 − 4L, intercepts L = 10 et K = 40. (5,20) coûte 40 ; (10,10) coûte 50 et ne se trouve pas sur cet isocoût.
-1eojmiu25fx	Deux recettes techniques livrent autant ; tu peux désormais comparer leur facture avec les mêmes prix de ressources.
-2d72yq6yab9	Avec L horizontal, w = 4 et r = 1, quelle pente signée pour K(L) ?
-w2iu0hrpoi	K = C/r − (w/r)L : pente = −4/1 = −4.
-1w9umy9lpza	Combien coûte (L,K) = (10,10) si w = 4 et r = 1 ?
-sfep0p5mg8	Gagne la condition du dernier euro productif
-2ftassl0yhx	Si un euro de travail crée plus d’output qu’un euro de machine, tu peux réorganiser un peu le mélange. Pour la même dépense, tu produis davantage ; ou pour la même livraison, tu dépenses moins. Au mélange intérieur le moins cher, aucun euro ne doit travailler mieux dans un input que dans l’autre.
-1cm9nx0tw8a	Minimisation intérieure : MPL/w = MPK/r, soit MRTS_LK = w/r. Il faut aussi f(K,L) = Q̄ et vérifier coins, technologie et non-négativité.
-s213bk79x5	Quelle égalité empêche un transfert de dépense d’améliorer le mélange ?
-1pvs2ww44x0	Chaque dernier euro donne le même output marginal.
-1fnt3vvhckq	MPL = MPK quel que soit le prix
-bl5yyo6xdw	Comparer les unités d’inputs ignore ce que coûte chacune.
-17m7x9fh6fq	Les quantités peuvent différer selon les prix et la technologie.
-28v0ylekyi5	Une réallocation de dépense préserve le coût tout en changeant l’output.
-27ouy7xv3j3	Si les gains marginaux par euro diffèrent, le même output est atteignable à moindre coût.
-2brmpa90z8z	La condition de ratio et la cible physique sont deux relations nécessaires : la tangence seule ne donne pas le niveau des inputs.
-1pxc0d5exxi	Q̄ = 10, w = 4, r = 1 : K = 4L et KL = 100 ⇒ 4L² = 100 ⇒ L = 5, K = 20 ; C = 40. Le mélange (10,10) fournit aussi 10 mais coûte 50.
-2838qusjq9u	Tu n’achètes pas le même nombre de machines et d’heures pour « équilibrer ». Tu égalises leur output supplémentaire par euro.
-240p4c94zkk	Mélange le moins cher pour Q = 10
-tby37h4dsi	Q = √(KL), Q̄ = 10, w/r = 4. Quel L minimise le coût ?
-1cnrca70s3v	Reconstruis la condition intérieure de coût minimal.
-1ghqrfocd7i	Le compromis technique MPL/MPK doit égaler le compromis financier w/r.
-zrhvc1skss	Le salaire augmente : garde la même livraison cible
-24f49f6hww7	Les travailleurs deviennent plus chers, mais le contrat demande toujours dix unités. Si la technologie permet la substitution, tu utilises relativement plus de machines. Ne fais pas seulement pivoter l’ancienne facture : le mélange optimal et le coût minimal changent aussi.
-1p7x7qb4loe	À Q fixé, une hausse de w rend L relativement cher. Pour Q = √(KL), K/L = w/r augmente ; le nouvel isocoût minimal est plus élevé.
-61t6fzm6m7	L’isoquante reste liée au même Q, donc elle ne se déplace pas avec le salaire.
-1lkuxfnk5bb	La pente de l’isocoût change parce que le prix relatif des ressources change.
-ac3fuj4920	Le nouveau point tangent doit encore fournir l’output imposé ; l’augmentation d’un prix d’input ne peut pas réduire le coût minimal avec technologie et autres prix inchangés.
-19j615yv744	Q̄ = 10, r = 1, w : 4 → 9. L* = 10/3 ≈ 3,333 ; K* = 30 ; C* = 9×(10/3) + 30 = 60, contre 40. Le mélange initial coûterait maintenant 9×5 + 20 = 65.
-6oqzigqrtx	Le nouveau mélange à 60 coûte plus qu’avant, mais évite les cinq de dépense supplémentaire qu’aurait coûtés la conservation du vieux mélange.
-1xxpewj90ov	Le travail devient plus cher, l’output cible reste 10
-2dvd6clcdd1	Après w = 9 et r = 1, nouvelle solution L = 10/3 et K = 30, coût 60. L’isoquante Q = 10 reste la même. Le nouvel isocoût minimal est K = 60 − 9L.
-azfae4fpqd	Nouvel isocoût C = 60, w = 9
-143vqny8nbe	L coûte davantage ; produire 10 au meilleur mélange coûte 60 au lieu de 40.
-165kigdy3jw	Ancien : coût 40
-l55j7c4t7j	Nouveau : coût 60
-n5qj20o6f6	Q̄ = 10, w = 9, r = 1 pour Q = √(KL). Quel K* ?
-21sayateub1	Après la hausse de w, si Q̄ reste 10, quelle courbe garde-t-on ?
-rz3oq9p5t1	Une isoquante d’output plus faible par définition
-1d54fuy3vzm	La firme n’a pas le droit de réduire la livraison dans ce problème conditionnel.
-1fsrgs6o3sr	La même isoquante Q = 10
-1g7yb0my55q	Le prix d’un input ne modifie pas ici la technologie ni la livraison cible.
-70atmjlfmi	Un facteur de plus ou tous les facteurs : deux expériences
-2bop3dp98f2	Ajouter du travail à une quantité fixe de machines peut donner des gains de plus en plus faibles. Doubler simultanément machines et travail est une autre expérience : l’atelier peut doubler sa production malgré ces produits marginaux décroissants. Ne tire pas une conclusion d’échelle d’une expérience qui garde un input fixe.
-xr7efhqi70	Produit marginal décroissant : un input augmente, autres fixés. Rendements d’échelle : comparer f(tK,tL) à t·f(K,L). Économies d’échelle : le coût moyen de long terme diminue avec Q.
-22i7u009esn	Avec machines fixes, davantage de travailleurs se partagent la même capacité.
-15ize9hbbim	Quand tous les inputs augmentent, la capacité par travailleur n’est plus nécessairement réduite.
-1ph77gp9yv1	Les rendements concernent la technologie ; les économies concernent une fonction de coût moyen à long terme, avec prix des ressources et conditions précisés.
-f996f6pmzh	Q = √(KL) : K = 4, L = 9 donnent Q = 6 ; K = 8, L = 18 donnent Q = 12 : rendements constants. Pourtant MPL = 0,5√(K/L) diminue avec L à K fixé. Pour Cobb-Douglas K^αL^β, le test d’échelle compare α + β à 1.
-dbh17dc76v	Ne confonds pas ajouter un cuisinier dans la même cuisine et ouvrir une cuisine deux fois plus grande avec deux fois plus de cuisiniers.
-jekekwambk	Q = √(KL), tous les inputs doublent. Les rendements d’échelle sont…
-2d9mko0qh76	Décroissants parce que MPL diminue à K fixé
-27u33rfrob1	Tu mélanges deux expériences : ici K double aussi.
-chxtk6i06k	Constants : Q double
-1j4mvr1bj6p	Q = K^0,3 L^0,5. Quelle somme d’exposants sert au diagnostic des rendements d’échelle ?
-8tbf2sux72	0,3 + 0,5 = 0,8 < 1 : rendements décroissants. Ce n’est pas le seul exposant du travail.
-y3ze5l9hjo	Total, moyen, marginal : trois questions à séparer
-10c43rk8jbl	L’atelier paie une dépense fixe plus une dépense qui dépend des unités fabriquées. Le total répond « combien tout coûte ? », le moyen « combien par unité en moyenne ? », le marginal « combien coûte une petite unité de plus ? ». Les diviser ou les dériver répond donc à des questions différentes.
-15d6mp7yfgu	TC = FC + VC ; ATC = TC/q = AFC + AVC ; AFC = FC/q ; AVC = VC/q ; MC = dTC/dq. À q = 0, les moyennes par unité ne sont pas définies.
-1r6u537or01	Le coût fixe ne varie pas avec q dans l’horizon donné.
-141dmplnb16	Les moyennes répartissent une dépense sur les unités produites.
-1oybm1yfu0i	La dérivée du fixe est nulle : le coût marginal ne contient pas FC quand il est constant.
-m2t8g11hxi	L5 : C = 30 + q² à q = 2. TC = 34, FC = 30, VC = 4, AFC = 15, AVC = 2, ATC = 17, MC continu = 4. Vérification : 15 + 2 = 17.
-bawdzhzddy	La facture de 34 n’est pas le coût de la prochaine unité. Et le coût moyen 17 n’est pas non plus celui de la prochaine unité.
-27war3wc5re	C = 30 + q² à q = 2. Quel ATC ?
-qcav6ug7zz	€/unité
-c8gjox1hoo	Pour C = 30 + q², quel MC continu à q = 2 ?
-i1wruoxmvs	MC = dC/dq = 2q, donc 4. Le fixe 30 a une dérivée nulle.
-a805gw372a	34 est le total. MC est une dérivée, pas la facture.
-22qjup8re9	17 est le moyen. La dérivée vaut 4.
-2ik3ysfg76	Une unité entière n’est pas une variation infinitésimale
-eo3ngkss76	La dérivée mesure la pente au point actuel. Produire exactement une unité entière de plus additionne le coût sur toute la transition. Si le marginal augmente entre les deux niveaux, ce coût discret dépasse la dérivée au départ.
-112c4r1e4u2	MC continu = C′(q). Coût discret de q à q+1 : C(q+1) − C(q). Si MC < ATC, la moyenne baisse ; si MC > ATC, elle monte.
-1qg77avxhk0	Une dérivée est une limite pour une très petite variation.
-15dsfjead3t	Une différence sur une unité entière couvre plusieurs valeurs marginales.
-1h76yqadg9y	Le coût du nouvel ajout tire une moyenne vers lui, comme une nouvelle note au-dessus ou au-dessous de ta moyenne.
-iygb85v34h	C = 30 + q² : C(3) − C(2) = 39 − 34 = 5, alors que C′(2) = 4. Dans l’autre exemple C = 10 + q² à q = 2, MC = 4 < ATC = 7 : ATC baisse localement.
-5qixn0d39r	Une note de 12 augmente une moyenne de 10, même si 12 n’est pas la meilleure note imaginable. MC joue ce rôle pour ATC.
-1ot6h4vzboe	Une firme : coût du suivant, coût moyen et prix reçu
-1a5j9e50qif	q, unités de la firme
-24pqxxt8axi	Exemple L6 C(q) = 10 + q². MC = 2q ; AVC = q ; ATC = 10/q + q pour q > 0. Points de ATC exacts reliés, segments visuels approximatifs. Le prix de 12 est donné à la firme ; q* = 6.
-wnztrphxn9	Coût de l’unité marginale ; la firme le compare au prix.
-6fb6fbobf9	Coût variable moyen : ce que la recette doit couvrir pour produire avec FC inévitable.
-c8cmctqr76	Coût total par unité ; le comparer au prix révèle profit ou perte.
-uami8eiki0	Prix donné p = 12
-1ugrwuzzzf9	MR = p pour cette firme price taker.
-12hja4dvdu1	min ATC ≈ 6,325
-poctr0qj3k	C = 30 + q² : coût exact de passer de q = 2 à q = 3 ?
-24f8ubxzh3v	C(3) = 39 et C(2) = 34 : différence 5, pas la dérivée 4.
-188970u1ov4	Si MC est inférieur à ATC au point considéré, ATC…
-2bqm842pczg	Augmente parce que TC augmente
-ocl9a2dxop	Un total peut augmenter pendant que sa moyenne diminue.
-1xf6x13oz76	Diminue localement
-1bdgcira950	L’ajout marginal est moins cher que la moyenne existante.
-93cen09ski	Combien vendre quand le prix est donné ?
-1iyipdnljtt	Tes clients paient douze par unité, et ton petit atelier ne change pas ce prix. Une unité de plus ajoute donc douze de recette. Tu continues tant que son coût marginal est inférieur à douze, puis tu vérifies que le candidat est meilleur que l’arrêt et respecte le domaine.
-yhdb3itf9q	Price taker : π(q) = pq − C(q), MR = p. Candidat intérieur : p = MC(q), sur une branche pertinente ; comparaison avec q = 0 et contraintes.
-1e355qplzd1	Quel point empêche une petite hausse ou baisse de q d’améliorer le profit intérieur ?
-19nusgym2fv	La dernière unité rapporte autant qu’elle coûte.
-2c01qj9aayx	Cela décrit profit nul, pas nécessairement le choix de q à tout prix.
-1rv9p29kddy	La recette nulle n’est pas l’objectif.
-2k5nhmgrcl	Une unité supplémentaire ajoute p de recette parce que la firme prend p comme donné.
-qy698cilxm	Si p > MC, la fabriquer augmente π ; si p < MC, la retirer augmente π.

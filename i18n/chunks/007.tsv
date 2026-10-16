@@ -1,3 +1,140 @@
+27647lrhp8e	Je distingue un plan d’achat d’un plan de vente.
+18ln680on30	Je nomme les acteurs et ce qu’ils prennent comme donné.
+iq0aq7nfxe	Je trouve et vérifie p* et Q*.
+28uxlrll7ld	J’égalise QD et QS puis remplace la solution dans les deux relations.
+24fspvr55ol	Je sépare déplacement et mouvement.
+1k5tcjr75kj	Je pose la question « au même prix, voudrait-on plus ou moins ? ».
+1adh626iw9c	Je peux expliquer une pénurie et des invendus.
+nwahru1cv8	Je déduis une pression de prix des décisions incompatibles.
+235seppcwmz	Je ne signe pas une variable ambiguë.
+y2b2w1llt6	Je compare les effets des deux chocs séparément et leur taille.
+1hu7i8m2w82	Je respecte les domaines et les unités.
+25lh9r3gly2	Je tronque les demandes négatives et garde le même marché dans toutes les relations.
+r92ea4olki	Consommateur — choisis ce que ton budget permet
+26ytlr578c0	Préférences, arbitrage et contrainte
+ueg3u6faq3	Un panier peut te plaire davantage sans être achetable. Tu vas faire parler ton budget, découvrir ce que signifie MRS, puis savoir quand une tangence, un coin ou un coude décide.
+2bt4ggftts	Toi, consommateur
+23eewen9xf5	répartis 1 200 entre L et R
+lmziav1uxc	le panier accessible que tu préfères
+1fdq7885815	Les vendeurs
+p1flxfkjer	affichent pL = 40 et pR = 120
+14iawz26wvi	être payés pour les quantités achetées
+xcqjli061p	distingues classement et faisabilité
+a3w5ank1tq	retrouver le choix sans réciter une tangence au hasard
+vu6i8ubfxj	Ce que tu veux et ce que tu peux sont deux questions
+1g0674fhxcr	Tu as 1 200 à dépenser entre deux biens L et R. Le premier coûte 40 et le second 120. Tu peux préférer un panier très généreux, mais cette préférence ne finance pas l’achat : commence par vérifier ce que tu peux payer.
+1bfxavf0gya	Le consommateur maximise ses préférences sous pL·L + pR·R ≤ I. L’objectif et la contrainte jouent des rôles différents.
+1fz9s2trpaf	Les préférences classent les paniers, y compris ceux qui dépassent le budget.
+1u2v9aiph9s	Le budget élimine les paniers impossibles avant la comparaison finale.
+1t17f7tm0lk	Optimiser sous contrainte ne consiste donc pas à choisir l’utilité numérique la plus élevée dans une liste sans vérifier son coût.
+78t0ihb4hk	A2 : (L,R) = (20,4) donne U = 80 mais coûte 40×20 + 120×4 = 1 280. (15,5) donne U = 75 et coûte 1 200 : le second est accessible, le premier non.
+cdp81500l4	Tu préfères peut-être un ordinateur plus performant, mais tu ne peux pas ajouter les 80 manquants à ton budget simplement parce que son score est meilleur.
+1lzrot934qd	A2 : ton budget face à tes préférences
+ka0pbj3oiy	R, unités de R
+13ur5jcjode	L, unités de L
+hy9so19tw2	R horizontal, L vertical. Budget exact L = 30 − 3R. L’indifférence U = LR = 75 est représentée par des points exacts reliés pour la lecture ; les segments sont une approximation visuelle de l’hyperbole.
+vf4nfg1nwd	Budget : L = 30 − 3R
+11chbxci6nd	Paniers coûtant exactement 1 200 avec pL = 40 et pR = 120.
+7ygdgpwn31	Indifférence U = 75
+2415xcwhj1f	Chaque point donne LR = 75. La tangence est (R,L) = (5,15).
+2fajlengas9	Optimum : R = 5, L = 15
+1kphu8topnl	Coûte 1 280 : inaccessible
+20g4n8c03gq	Combien coûte (L,R) = (20,4) ?
+153hrhzkki2	Le panier (20,4) est-il disponible avec I = 1 200 ?
+1i6ryi39n9f	Oui car U = 80 dépasse U = 75
+103iwgd1d98	Une préférence ne rend pas un panier payable.
+uys85x5o4p	Non, même s’il donne plus d’utilité
+1x1k06xdct6	Il dépasse la contrainte de 80.
+12zz6aefodk	L’utilité est un classement, pas un thermomètre du bonheur
+1a0din8fvat	Le modèle U = LR attribue un nombre à chaque panier pour représenter tes préférences. Dire U = 80 plutôt que 40 signifie que le premier panier est préféré ; cela ne mesure pas deux fois plus de bonheur. Une transformation qui garde l’ordre des paniers représente les mêmes choix.
+25kh6wgil4t	L’utilité est ordinale. Pour L,R positifs, U = LR et V = √(LR) classent les paniers dans le même ordre.
+1ye8hmpdxj0	Le choix a besoin d’un ordre entre paniers, pas d’une unité universelle de bonheur.
+9naou16ibt	La racine carrée est croissante : si LR est plus grand, sa racine l’est aussi.
+115dqci5vpj	Les niveaux et les dérivées changent, mais l’arbitrage cohérent et le panier optimal restent les mêmes.
+123r3w6ekik	Paniers (15,5) et (24,2) : U = 75 et 48 ; V ≈ 8,66 et 6,93. Le classement est identique malgré des écarts numériques différents.
+s3q4ps7mtl	Ton application peut changer la notation de 75 à 8,66 sans changer le panier que tu choisirais.
+vmdrcgl96q	U(A) = 80 et U(B) = 40 permettent d’affirmer…
+1tgyewpsncu	A apporte exactement deux fois plus de bonheur
+w4rrpohibh	Ce rapport disparaît sous une transformation croissante pourtant équivalente.
+251nrdzpj1f	A est préféré à B selon ces préférences
+23y9p8ia0ao	Le score classe les paniers ; il ne mesure pas un rapport de bonheur.
+1tb6l2wv76w	Lis les intercepts avant de calculer une pente
+1v738ym118u	Si tu consacres tout ton argent à L, tu peux en acheter 30. Si tu prends seulement R, tu peux en acheter 10. Entre ces extrêmes, acheter un R de plus oblige à abandonner trois L : c’est le compromis offert par le marché.
+126y4xd6qq8	Avec R horizontal et L vertical : 40L + 120R = 1 200 ⇒ L = 30 − 3R. Pente = −pR/pL = −3.
+1t1oomdlsic	Un R coûte 120 et un L coûte 40. Combien de L dois-tu sacrifier pour payer un R de plus ?
+15asaoq5qw9	120/40 = 3. Voilà pourquoi le ratio de prix est la pente en valeur absolue.
+16hhtziw1ml	Ce serait le coût d’un L exprimé en R ; tes axes sont dans l’autre sens.
+1m1f8xh2nxk	120 est une monnaie par R, pas un nombre de L. Divise par le prix d’un L.
+w26x2un00k	Les intercepts achètent un seul bien : ils sont donc I divisé par son prix.
+2fyqkcctvjx	Le budget permet d’échanger 120 de dépense sur R contre 120 de dépense sur L.
+m8loz2feod	Le nombre de L sacrifiés vaut 120/40 ; le signe négatif traduit la réduction de L.
+wn4s2qu460	Passe de (L,R) = (18,4) à (15,5) : −3 L et +1 R, coût inchangé de 1 200.
+25ksxf0k7r7	Tu ajoutes un R au panier. Pour rester à la caisse avec la même somme, tu retires trois L.
+exzsxalsj9	Combien de R si tout le budget de 1 200 va à R au prix 120 ?
+nn3pur8f3z	R horizontal et L vertical : valeur absolue de la pente budgétaire ?
+20g0qgbch2d	Ce ratio conviendrait à L horizontal et R vertical.
+1bc75f424nt	Le numérateur est le prix du bien horizontal.
+rdol3jow8r	Le prochain bien compte autrement selon ce que tu as déjà
+16lxepuhim7	Avec U = LR, un L de plus est d’autant plus utile que tu as déjà de R pour en profiter. À l’inverse, un R de plus vaut davantage quand L est abondant. La décision d’ajuster ton panier compare ce qu’ajoute chaque bien à la marge.
+kkgmlbzuxc	Pour U = LR : MU_L = R et MU_R = L. MU désigne la dérivée de l’utilité par rapport au bien concerné.
+19kbao7yrzp	Si R est fixé, ajouter un L augmente le produit LR de R.
+20s1vvgr4v3	Si L est fixé, ajouter un R augmente LR de L.
+27oa3z3dzbk	On compare des variations locales pour savoir si déplacer un peu de dépense améliore le panier.
+2aoob7n51b	À (L,R) = (15,5), un L de plus à R fixé augmente U de 5 ; un R de plus à L fixé augmente U de 15. Les unités coûtent cependant 40 et 120 : il faut encore comparer par euro.
+w74as5txct	Ne choisis pas R seulement parce que son MU vaut 15 contre 5 : un R coûte trois fois plus cher.
+12qdd1ceco6	Avec U = LR au panier (L,R) = (15,5), quel est MU_R ?
+25e6qtz7xao	La dérivée par rapport à R est L ; ici L = 15.
+hawjdgnmfn	unités d’utilité/R
+12jzaj459v5	MU_R > MU_L suffit-il pour consacrer toute la dépense à R ?
+5tpayjz1gw	Oui, le MU le plus élevé décide toujours
+4bx1gs9zy1	Tu ignores le coût d’obtenir cette unité.
+lt5k9vbps9	Non : il faut comparer l’utilité marginale par euro
+18q7qwh8a58	R peut être plus utile par unité et plus cher dans la même proportion.
+291qqcq6lqr	MRS : ton échange volontaire, pas celui du magasin
+1iqmn6g9jvf	Sur une même courbe d’indifférence, tu peux perdre un peu de L et gagner un peu de R tout en restant aussi satisfait. La quantité de L que tu accepterais de sacrifier pour un R supplémentaire décrit ton arbitrage personnel. Le magasin propose un autre arbitrage, donné par ses prix.
+19f0bw02ou9	Avec R horizontal : MRS_RL = MU_R/MU_L = L/R, valeur absolue de la pente d’indifférence. L’unité est L par R.
+2bo3f6xhs96	Garder U constant impose MU_R·dR + MU_L·dL = 0.
+ijpgaybs1h	Donc dL/dR = −MU_R/MU_L ; le ratio positif mesure le sacrifice consenti.
+obl7r4qltb	Si ton sacrifice accepté dépasse le sacrifice demandé par le marché, acheter un peu plus de R peut améliorer ton panier.
+1g0jjnv69yi	Au panier (15,5), MRS_RL = 15/5 = 3 L par R. Au panier (24,2), MRS = 12 : tu es prêt à sacrifier davantage de L pour R parce que R est relativement rare pour toi.
+1k8z312shz	Tu demandes « combien de L abandonnerais-je volontiers pour un peu plus de R ? », puis compares ce chiffre aux trois L réclamés par les prix.
+239nwfa4ho6	À (L,R) = (24,2), quelle est MRS_RL pour U = LR ?
+1jeen24nosy	L par R
+1p008xl0w04	MRS mesure…
+13jhxr096z2	Le prix relatif, quelle que soit ta préférence
+1b7nfsa6tnt	Ce serait pR/pL. Les deux ratios ne coïncident qu’à certains optima.
+1k75o2t61e8	Ton arbitrage à satisfaction constante
+2g9k3g5jzcl	Il vient des préférences ; le ratio des prix vient du marché.
+1geich0mo2u	Pourquoi le dernier euro doit faire le même travail
+1p5zy86fzn4	Si un euro dépensé en R t’ajoute plus de satisfaction qu’un euro dépensé en L, tu peux transférer un peu de dépense vers R. Cela améliore ton panier sans dépasser ton budget. À un optimum intérieur régulier, ce petit transfert ne doit plus aider dans aucun sens.
+1rnb7yxacqc	Optimum intérieur : MU_R/pR = MU_L/pL, soit MRS_RL = pR/pL. Il faut ajouter la contrainte budgétaire et vérifier les conditions d’intérieur.
+qsrk86h6g0	Quelle comparaison empêche un transfert d’un euro d’améliorer le panier ?
+6mrsx11sle	Oui : même gain marginal pour le dernier euro dans les deux usages.
+lx0de6zzf1	Cela comparerait des unités dont les prix peuvent différer.
+1qcn1o0jxxi	L’égalité des quantités n’est pas l’égalité des gains par euro.
+25e15rnxiep	Le budget reste constant si on déplace une petite somme d’un bien à l’autre.
+11s9zehwp41	Si les gains par euro diffèrent, ce transfert augmente U : le panier n’était pas optimal.
+4886ceiqi1	L’égalité seule décrit un ensemble de paniers ; le budget choisit celui que tu peux atteindre.
+1gsio1p733s	À (15,5), MU_R/pR = 15/120 = 0,125 et MU_L/pL = 5/40 = 0,125. Les deux derniers euros font le même travail.
+16cxdf8hocf	Tu répartis un euro supplémentaire. À l’optimum, aucun des deux rayons n’a un avantage marginal sur l’autre.
+1ipqez6bof9	Reconstruis la condition de tangence avec R horizontal.
+1y6cbs51wud	Ton sacrifice MU_R/MU_L doit égaler le sacrifice demandé pR/pL.
+16vqr1pil0d	Résous le panier A2, pas seulement une équation
+5v5qqxxkl5	La tangence dit L = 3R. Le budget dit que les deux biens doivent ensemble coûter 1 200. En combinant les deux, tu obtiens un panier unique ; tu peux ensuite vérifier son coût et son utilité.
+adx8dmgcvd	U = LR : moitié de la dépense dans chaque bien. Cela ne signifie pas la moitié des unités.
+gtgr2fc4yf	Avec L = 3R, le budget devient 40×3R + 120R = 1 200.
+22ephdhqsa5	Donc 240R = 1 200 : R = 5 et L = 15.
+2fx8rqe2iae	Les deux biens sont désirables, la solution est positive, et U = LR donne ici un optimum intérieur cohérent.
+t57fdnq8o4	A2 : R = 5, L = 15 ; dépenses 120×5 = 600 et 40×15 = 600 ; U = 75. Le panier (24,2) coûte aussi 1 200 mais U = 48.
+2facl648bfh	Tu n’achètes pas le même nombre de chaque bien : tu réserves la même somme à chacun parce que les exposants de U = LR sont égaux.
+1ez9a0xqo4m	Panier optimal accessible
+1j24obfyiiw	Trouve R dans 40(3R) + 120R = 1 200.
+1iyqt2650rm	Quelle utilité donne le panier optimal (L,R) = (15,5) ?
+rmx6dzjbi7	utilité
+1bzqf1gyiha	R devient plus cher : qu’est-ce qui a vraiment diminué ?
+bwouilzwml	Le prix de R passe de 120 à 150. Tu as toujours 1 200 en argent, mais ce revenu achète moins de R. Le budget pivote : tout-L reste possible, tout-R passe de dix à huit unités.
+y7kiqbs6tx	Le revenu nominal I est inchangé. Le pouvoir d’achat baisse ; pente budgétaire −pR/pL = −3,75. Nouveau choix U = LR : L = 15, R = 4.
+1k957eylwn7	Le prix de L et I ne changent pas, donc l’intercept L = 30 reste fixe.
 64ihacbxm5	Chaque R consomme davantage du budget, donc l’intercept R = 8 se rapproche de l’origine.
 qbku3fovda	U = LR partage encore la dépense en deux : 600/40 = 15 et 600/150 = 4.
 ip3xa2c57b	Nouveau budget 40L + 150R = 1 200. Au choix (15,4), coût = 600 + 600 = 1 200 ; U = 60 au lieu de 75. Aucun euro de revenu nominal n’a disparu.
@@ -52,170 +189,3 @@ cxf5jabcz2	Aucun rééquilibrage intérieur n’est nécessaire si les ratios ne
 qkrita3x1z	À égalité des ratios, déplacer la dépense ne change pas l’utilité : le choix n’est pas unique.
 n36px4t96c	Exemple construit : U = 2x + y, I = 12, px = 2, py = 2. Gains par euro : 1 contre 0,5. Choisis x = 6, y = 0, U = 12. Si px devient 4, les ratios valent tous deux 0,5 : tout le budget est optimal.
 158kpgbsxjr	Si deux applications font exactement le même travail, mais l’une offre deux fois le service pour le même prix, tu n’as pas besoin d’acheter un peu de chaque.
-2ctmgyam2ck	U = 2x + y, I = 12 et px = py = 2. Quel x optimal ?
-pldfkhbryp	2/2 > 1/2 : toute la dépense va à x, donc x = 12/2 = 6.
-c1cgosswhf	Si a/px = b/py pour des substituts parfaits, que sait-on ?
-22vum5ei4e9	x = y est obligatoirement l’unique optimum
-2ci2y5gdu39	Aucune préférence pour l’égalité des unités n’est donnée.
-1q2jirwy4qo	Tout panier sur le budget est optimal
-ksso1gxl0d	Les deux usages de la dépense apportent exactement le même gain.
-1zenub5a5e	Quand il faut un coude, pas un coin
-rdlxtki3ci	Une chaussure gauche sans droite ne crée pas une paire supplémentaire. Si tu consommes les biens ensemble dans un rapport fixe, une unité non appariée n’ajoute rien. Tu cherches alors le coude où la proportion utile est respectée.
-1c1m1uswq06	Compléments parfaits U = min(x/a, y/b) : au choix efficace x/a = y/b. Avec paires 1:1, x = y = I/(px + py).
-1ye1ys808uu	Le plus petit nombre de composants complets limite le nombre d’ensembles utilisables.
-1eblvbwazlo	Acheter un composant excédentaire dépense du budget sans augmenter les ensembles.
-2r2tx8999u	La règle de proportion avec le budget détermine le coude accessible le plus élevé.
-1b0jmtonmi0	Exemple construit : U = min(x,y), I = 30, px = 2, py = 3. x = y et 2x + 3y = 30 ⇒ x = y = 6. Le panier (9,4) coûte 30 aussi, mais donne seulement U = 4.
-1c9ezzo8l1f	Tu ne prends pas neuf chaussures gauches et quatre droites sous prétexte que le budget est épuisé : seules quatre paires fonctionnent.
-9d3dtabmir	U = min(x,y), I = 30, px = 2, py = 3. Combien de paires optimales ?
-ghqrxu4enp	Une paire coûte 2 + 3 = 5 ; 30/5 = 6.
-1ynz7xek3mf	paires
-1ddo26zuntt	Un énoncé dit « toujours consommés en ratio fixe ». Première méthode ?
-89fddp0v4r	Toujours MUx/MUy = px/py puis tangence lisse
-d2calwch8d	La condition intérieure régulière n’est pas universelle.
-17h2qaayamp	Proportion au coude + budget
-1uxtffa2cy8	Les préférences ne sont pas lisses au coude ; une tangence ordinaire ne s’impose pas.
-fhjauhfq4m	De tes choix à une demande : fais varier la bonne chose
-v8fuv0nje0	Tu sais maintenant choisir un panier. Pour construire la demande de R, recommence ce choix à plusieurs prix de R en gardant le revenu et pL fixes. Pour une courbe d’Engel, fais varier le revenu au lieu du prix ; ces deux courbes répondent à des questions différentes.
-zao13klb63	Demande individuelle : R*(pR), I et pL constants. Courbe d’Engel : R*(I), prix constants. La demande privée de marché somme horizontalement les choix individuels non négatifs.
-q0kczomeue	Les préférences ne suffisent pas à définir un achat ; les contraintes déterminent le choix accessible.
-1jxil1ak6y	Changer un prix et changer le revenu modifie le budget de deux manières différentes : pivot contre déplacement parallèle.
-19zchgezym9	Les achats individuels sont ensuite additionnés au même prix, avec zéro pour ceux qui ne participent pas.
-fdtdcx7mi6	Pour U = LR et I = 1 200, R*(pR) = 600/pR : à 100, R = 6 ; à 120, R = 5 ; à 150, R = 4. À pR = 120 fixé, I = 1 440 donne R = 6 : c’est un point d’Engel différent.
-ixppy2x3bw	Tu peux expliquer deux fois « j’achète 6 R » : soit R est moins cher, soit tu es plus riche. Le résultat identique ne rend pas les causes identiques.
-1pbvpl289go	U = LR, I = 1 200, pR = 100. Quel R optimal ?
-17zydhvdlsa	600 vont à R ; 600/100 = 6.
-204gxh1pv8s	Pour tracer Engel, tu fais varier…
-2am8g159qzb	Le prix de R, revenu constant
-1jmu4ghhjog	C’est la construction de la demande de R.
-16efyfi4gut	Le revenu, en maintenant les prix constants
-1xoighmvxlb	Cela isole la relation entre ressources et quantité choisie.
-11zmlgn0xqa	L’utilité représente un ordre ; ce que tu désires ne dépend pas encore de la faisabilité.
-t5jthkmxo8	Les prix et le revenu imposent le budget.
-154k2zo505f	Un transfert de dépense est profitable si un usage apporte davantage de MU par euro.
-3uv9bx2hu4	Tangence intérieure, coin et coude ne sont pas interchangeables.
-2g8h39b5bot	Un changement de prix modifie la contrainte et peut changer le panier, sans changer le revenu nominal.
-wxv7ypdwbw	Le panier (20,4) est préféré dans la liste sans contrainte mais coûte 1 280, au-delà des 1 200 disponibles. Pour U = LR, à l’intérieur, le dernier euro doit apporter la même utilité dans les deux biens : L/120 = R/40, donc L = 3R. Avec le budget, L = 15 et R = 5. Quand pR monte à 150, le revenu nominal reste 1 200 mais le pouvoir d’achat baisse ; le choix devient L = 15, R = 4 et U passe de 75 à 60.
-14isc0ousqh	Classer les paniers avec les préférences
-t7l0ligg3y	Limiter le choix aux paniers accessibles
-qtfuroxb2r	Comparer le gain marginal par euro
-fmoyfloq3l	Choisir la méthode adaptée aux préférences
-wu1e8fx2yi	Vérifier puis refaire le choix après un choc
-cqut9yq90f	Explique à un ami pourquoi (20,4), pourtant plus utile, n’est pas le choix A2. Puis explique le panier optimal et ce qui change lorsque pR passe à 150. Utilise tes mots avant les sigles.
-22plty01tvh	Accessibilité prioritaire
-12agtqnic5t	1 280 dépasse le budget de 1 200.
-wgkekuaw6z	Même gain au dernier euro
-szthopfcx3	Une réallocation améliore U tant que MU/prix diffèrent.
-ui3qfkrsit	Tangence et budget ensemble
-15rqcsfvahx	L = 3R puis le budget donnent L = 15, R = 5.
-1mbmkqlq174	Même revenu, choix changé
-118gocdx2dz	pR = 150 donne R = 4 ; I reste 1 200.
-5d9ndgaxxz	U est ordinal : on compare un classement, pas un ratio de bonheur.
-o7wnd4d3vb	I reste 1 200. C’est le pouvoir d’achat qui baisse lorsque R devient plus cher.
-hgq9yddh7o	La tangence suppose un intérieur régulier. Les substituts parfaits et compléments parfaits demandent coins ou coudes.
-1azu4gcw4em	Entraînement construit sur la structure d’A2.2 et §4.6. Les prix changés et la compensation sont des variantes pédagogiques ; aucun barème officiel n’est revendiqué.
-12r99l9m0lz	Identifier U = xy, prix positifs et solution intérieure.
-9o9vp6mmx6	Égaliser MUx/px et MUy/py puis utiliser tout le budget.
-1p305x7dmjp	Après le choc, maintenir I constant ; distinguer compensation du panier et utilité.
-t30lr8jlhn	Après : x = 120/4 = 30, y = 120/15 = 8, U = 240.
-26aqgjhvwi4	Avec I = 270, rechoix : x = 33,75, y = 9, U = 303,75 > 300.
-r9sigvdi35	x horizontal et y vertical : intercepts initiaux 60 et 20, pente −1/3.
-26qonmxj8e7	Après py = 15 : intercept x = 60 inchangé ; intercept y = 16 et pente −4/15.
-1q05g39z7zy	Le budget compensé passe par l’ancien panier mais conserve la nouvelle pente.
-ttfl8dme7w	MRS_RL, R horizontal, signifie…
-di3kp7o4sa	R que tu dois obligatoirement abandonner pour un L
-1mmjz2uria7	Cela inverse le bien ajouté et les axes.
-1927p3enfpc	L que tu es prêt à abandonner pour un R de plus, à utilité constante
-ajzy01bpyq	Le ratio vient des préférences ; le sacrifice du marché vient des prix.
-zbit5w21v3	Utilité ordinale : une transformation croissante…
-akge7drmxr	Préserve obligatoirement chaque différence numérique
-1bajfebce4r	Les écarts ne portent pas de signification cardinale.
-1cgvdrf3573	Préserve le classement des paniers
-1eh1ev12h1r	Elle change les nombres sans changer l’ordre.
-rxetqh44bz	Pourquoi égaliser MU/prix à un optimum intérieur ?
-w14vbg1v12	Parce que les deux quantités doivent être égales
-rx4k61ipso	Les prix et préférences peuvent justifier des quantités différentes.
-1s7v4o1um0i	Sinon un transfert de dépense améliore l’utilité
-1jm5jgcnivm	Le budget peut rester constant pendant la réallocation.
-1pl1cgxn694	Le prix d’un bien augmente, I est fixe. Ce qui diminue est…
-uj12s96jv9	Le revenu nominal par définition
-1yhfwq4dpod	Le revenu nominal est le montant d’argent I, donné inchangé.
-age6si6mq6	Le pouvoir d’achat, pas nécessairement le revenu nominal
-gypmw03em0	Une même somme achète moins.
-2162g63uirz	U = xy, I = 100, px = 5, py = 10. Trouve x*.
-4x73bnbgnn	La dépense sur x vaut 50 : x = 50/5 = 10.
-1fej26q5q45	U = min(x,y), I = 48, px = 3, py = 5. Trouve x* = y*.
-w3i56rddpt	Une paire coûte 8 ; 48/8 = 6.
-a9w17fzejg	U = 3x + y et px = py = 1. Méthode et choix ?
-27lq9145wmy	Chercher nécessairement une tangence intérieure
-gzds3c33qg	Les MU ne convergent pas lorsque les quantités changent.
-1lzbnrfig1z	Comparer MU/prix ; tout le budget sur x
-1bqro90hp5s	Les substituts parfaits gardent des ratios constants ; 3 > 1.
-lrz2mymsdx	Rendre l’ancien panier accessible après un choc garantit…
-1b652382358	Une satisfaction strictement supérieure dans tous les cas
-274s0alfipk	La stricte amélioration demande plus de conditions ; les coins peuvent donner égalité.
-twsh3vudar	Un optimum nouveau au moins aussi bon que l’ancien panier
-1ezhaxmfup	Le consommateur peut choisir ce panier ou mieux.
-yas75wu4al	Relative prices
-24wwkzy299m	A price increase necessarily lowers nominal income.
-rqhchvi1u6	Cela confond le montant monétaire et ce qu’il permet d’acheter.
-p5o6xgt6r5	A higher price can lower purchasing power while nominal income remains constant.
-11oev1gg5bi	Prix et revenu nominal sont des données distinctes.
-1cvcpatt9a7	Je vérifie le coût avant de classer les paniers accessibles.
-vio1xwm9lt	Le panier préféré sans contrainte peut dépasser le budget.
-20mlpkd6mq8	Je définis MRS avec des axes et une unité.
-indq0sf4j5	Inverser les axes inverse le ratio pertinent.
-1no6soyjdbb	Je reconstruis le dernier euro plutôt que réciter une tangence.
-1axg6s13ltb	Je sais expliquer la déviation qui améliorerait un panier non optimal.
-be8jn34bit	Je distingue intérieur, coin et coude.
-eamcbgkgau	Je reconnais les substituts et compléments parfaits.
-hyzjczr1mb	Je sépare revenu nominal, pouvoir d’achat et substitution.
-9o86xhvp8c	La compensation ne restaure pas automatiquement le prix relatif.
-1tn42hjdwvt	Je ne traite pas U comme une quantité de bonheur.
-2gltxx8awrg	Le classement est ordinal ; un ratio numérique ne mesure pas le bien-être relatif.
-1feozkmwc30	Élasticités — combien réagit-on, en pourcentages ?
-nbquag86xn	Réaction proportionnelle, signes et horizon
-2fwaahnmlc3	Une hausse de prix peut faire monter ou baisser la recette. Tu vas apprendre à mesurer la réaction des acheteurs, garder les bons signes et reconnaître quand une approximation ne suffit plus.
-1qmnl62v4c	Les conducteurs
-1u4x1fh71fr	choisissent leur consommation d’essence
-csrbw4koaj	adapter leurs trajets et dépenses aux prix
-2dfxpdu2j8x	Le vendeur
-1iowku0jgxu	observe la réaction de ses ventes
-1s97rbarrzr	comprendre sa recette sans la confondre avec son profit
-26fo4n5h46o	compares des réactions en pourcentages
-1z43auyxvd3	garder le signe, les bases et le modèle cohérents
-2c821mmr1xn	L’autorité
-qzuwq737yb	envisage un objectif de réduction d’essence
-ok167gifdl	prévoir la hausse de prix nécessaire et ses limites
-2j9qvxvaht	Même hausse de prix, pas la même liberté de réagir
-1wgifdaetgc	Le prix de l’essence monte demain. Tu peux éviter un trajet, mais tu ne peux pas changer instantanément de voiture ou de logement. Sur plusieurs années, davantage d’options deviennent possibles : mesurer la réaction demande de préciser l’horizon.
-dvbgir3xtk	L’élasticité mesure une sensibilité proportionnelle de quantité à un déterminant. Elle dépend du point, du marché et de l’horizon ; ce n’est pas un trait immuable du produit.
-287trv2mrxs	Un même changement en litres ne signifie pas la même adaptation pour un petit et un gros consommateur.
-1zoevs0o07k	Une mesure en pourcentage rapporte la variation à la consommation de départ.
-1ih5lbk0s9o	Les possibilités de substitution évoluent avec le temps, donc la réponse de quantité peut s’amplifier.
-21m4q0dy3yd	A2 donne εSR = −0,25 et εLR = −0,60 pour l’essence. Pour un prix +5 %, l’approximation donne Q −1,25 % à court terme et −3 % à long terme.
-17ugj8vfm5h	Demain tu peux prendre moins de trajets ; l’année prochaine tu peux choisir une voiture plus sobre. Le modèle doit savoir de quelle décision on parle.
-1sploso9p3	Pourquoi l’essence peut-elle être plus élastique à long terme ?
-21lhgk878mj	Parce qu’une élasticité négative devient obligatoirement positive avec le temps
-1ryn5ffbg6a	Le signe reste celui de la réaction prix-quantité ; c’est souvent la magnitude qui augmente.
-7nycjev7qo	Davantage de possibilités de substitution deviennent accessibles
-132qsf1qjaj	Véhicule, logement ou organisation des trajets peuvent changer.
-23nunzm9bol	Avant le sigle : comparer deux pourcentages
-1c7gl7c1noa	Si les ventes passent de six à quatre, tu as perdu deux unités. Mais deux sur six représentent un tiers, pas deux pour cent. Le prix qui passe de un à deux a augmenté de cent pour cent : compare les variations proportionnelles, pas les nombres bruts.
-t6xw4et6ma	Convention base initiale : ΔQ/Q0 et Δp/p0. L’élasticité discrète est leur ratio ; la convention doit rester identique dans les deux pourcentages.
-bsj4py9anz	Une variation absolue dépend des unités choisies : litres ou millilitres donnent des nombres différents.
-15ofa60cyn8	Une variation en pourcentage divise par la valeur initiale et retire ce problème d’échelle.
-whzrvfk781	Les signes décrivent le sens : quantité en baisse et prix en hausse donnent un ratio négatif.
-1mk9pur1eby	Tu écris d’abord « deux unités perdues sur les six de départ », puis tu le compares au prix qui double.
-7qvc06ngl4	Q : 6 → 4, p : 1 → 2. Avec bases initiales, quelle élasticité ?
-1f3w161ezyd	(−2/6)/(1/1) = −1/3. Le signe négatif est nécessaire.
-seee7h6jwg	−2/1 est un ratio de variations absolues. Il manque les bases Q0 et p0.
-upwtpeor22	La quantité baisse lorsque le prix monte : garde le signe négatif.
-dynsdyp6et	Gagne la formule locale avec les unités
-93ja1cyfa9	Une dérivée te dit combien d’unités de vente tu perds pour un euro supplémentaire. Ce n’est pas encore un pourcentage. Multiplier par le prix de départ et diviser par la quantité de départ transforme cette réaction en pourcentage de quantité par pourcentage de prix.
-197qig2mx0w	Élasticité ponctuelle de demande : εD = (dQ/dp)·(p/Q). Elle est sans unité. Pour plusieurs déterminants, utiliser la dérivée partielle appropriée.
-1thojow9yxj	dQ/dp est en unités par euro. Quel facteur la convertit en sensibilité proportionnelle sans unité ?
-i2g5x0wejp	(unités/€) × (€/unité) : les unités se simplifient.
-6blnvgx8nj	Les unités ne se simplifient pas ; tu obtiens l’inverse du facteur requis.
-yozmauqbwu	Cela ne normalise pas les variations par les niveaux.
-1nwavxbx6y4	dQ/dp indique une réaction absolue à une petite hausse de prix.

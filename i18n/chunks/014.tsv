@@ -1,221 +1,205 @@
-pxx0mh9vyw	IR : le client peut aussi ne rien acheter
-2e81o9csek6	Le client L valorise Bas à 8 et Haut à 12. Avec les prix 8 et 16, il obtient 0 sur Bas et−4 sur Haut. Il préfère Bas à Haut, mais il est aussi indifférent à rester dehors : l’offre doit couvrir son option extérieure, pas seulement battre l’autre offre.
-1100ve6h67t	IR_L : VL(Bas)−TB≥0 ; IC_L : VL(Bas)−TB≥VL(Haut)−TH. Ici IR_L0, IC_L0≥−4, IR_H4≥0 et IC_H4 = 4.
-hlj6pgrl8f	IC peut tenir alors que toutes les offres donnent une utilité négative : personne ne participe.
-1d151c5dyc6	Dans le menu usuel, extraire tout le surplus de L peut obliger à laisser une rente informationnelle à H.
-22tmg936o8y	Il faut vérifier les quatre contraintes, pas déclarer IC_H et IR_L suffisantes sans regarder les autres.
-14yn3n4a5h0	Mettre TB = 9 et TH = 17 laisserait L avec−1 sur Bas : même si Bas est son meilleur contrat, il préfère l’extérieur 0. H garde une rente 4 dans le menu initial.
-2c4kmq3yf9p	Tu es L : « moins mauvais que Haut » ne suffit pas ; tu peux garder ton argent et refuser les deux.
-1m6k883pwrd	L préfère Bas(−1) à Haut(−5), option extérieure 0. Quel problème ?
-q0zgjt5ko9	IR : L refuse tous les contrats
-1a0y2k4wdrg	IC compare les offres, mais la participation exige au moins 0 ici.
-rfzla5bg7z	IC_H uniquement
-121n2iirxww	La comparaison affichée concerne L et son refus de participer.
-1zhl92e00o4	Aucun, car Bas est mieux que Haut
-i5coscxgx4	Tu as oublié l’option extérieure.
-19xi8j6488j	Deux produits : additionner les valeurs de la même personne
-4jwyjd464q	Gourmet aime surtout le dîner :100 pour le dîner, 50 pour la chambre. Snoozer préfère relativement la chambre :80 et 70. Chacun valorise donc le lot à 150 ; une vente groupée peut réduire la dispersion des valeurs que le vendeur doit gérer.
-23vm7v8jda6	Pure bundling : seulement le lot ; mixed bundling : lot et ventes séparées. Comparer profits en incluant les coûts ; les recettes 300 et 260 supposent ici MC = FC = 0 pour être des profits.
-p0zgbry1b6	Séparé : prix dîner 80 vend 2 → 160 ; prix chambre 50 vend 2 → 100.
-12vu3ql94zs	Lot 150 vendu 2 → 300 ; les valeurs des produits sont négativement corrélées dans ce cas.
-1p01ba6tiax	Des coûts élevés ou des clients qui n’achèteraient qu’un service peuvent changer le meilleur dispositif.
-1vuk9kbvp63	Séparé 260 ; lot 300 ; gain 40 à coûts nuls. Si les deux dispositifs vendent exactement deux dîners et deux chambres, leurs mêmes coûts s’annulent ; ne généralise pas à des volumes différents.
-1wy6q9s9ace	Tu vends un pack : pour chaque client, additionne son dîner et sa chambre, pas le dîner de Gourmet avec la chambre de Snoozer.
-22tyaa9rig0	Snoozer vaut dîner 80 et chambre 70 : sa WTP du lot ?
-1czfmwqc2sw	80+70 = 150 pour la même personne.
-o3cgzdvjjq	170 additionne les meilleures valeurs de deux personnes différentes.
-21irgd6s7sn	À coûts nuls, recettes du lot 300 et séparé 260 : gain de profit ?
-1g81ex1noy0	300−260 = 40, sous l’hypothèse explicite de coûts nuls.
-ckgiei3ab6	Deux parties : faire payer l’entrée et l’usage
-2aph9l6tf49	Le vendeur connaît un client dont chaque usage coûte 2 à fournir. Il lui fait payer 2 à chaque usage pour qu’il s’arrête au bon moment, puis prélève une cotisation d’entrée. Le prix d’usage crée l’incitation ; la cotisation partage le gain sans changer la décision marginale une fois entré.
-73l06uzrkh	Un client connu, D = 10−q, MC = 2 : T(q) = F+pq ; p = 2 → q = 8 ; CS avant F = (10−2)×8/2 = 32 ; F = 32 → profit 32, FC production 0.
-19c0rie19bg	À p = MC, le client compare sa WTP marginale au coût réel d’un usage.
-1px1jjdl2me	F peut ensuite capter le surplus de participation sans modifier ce prix marginal.
-x8uixydqpm	Avec plusieurs types et une cotisation commune, p = MC n’est pas toujours optimal : la participation change.
-24svk2b9hal	Paiement total 32+2×8 = 48 ; coût 16 ; profit 32. Le client reçoit valeur 48 et paie 48 : utilité nette 0 avec participation faible.
-10ti14a0h61	Tu as déjà payé l’entrée : pour le prochain usage, les 2 d’usage comptent, pas la cotisation passée.
-1vw59oozg1m	D = 10−q, prix d’usage 2 : combien d’usages ?
-1y7afe5vuyg	Quel F maximum avec un seul client connu et option extérieure 0 ?
-c2rcljhpl7	Surplus avant cotisation = (10−2)×8/2 = 32.
-iuxro8e08a	48 est la valeur totale ; le client paie déjà 16 d’usage.
-25ta9dv1mf2	50 correspond à usage gratuit, pas à p2.
-116ljytfexa	Prix d’usage et abonnement ne donnent pas la même quantité
-28dt5mm1zxp	q : unités consommées
-ae6zdxx5q6	WTP marginale / coût / prix d’usage
-2fyxoo0licn	Un client connu : D = 10−q, MC = 2. Prix unique 6 → q = 4 ; two-part tariff p = 2 → q = 8, F = 32 ; abonnement seul p = 0 → q = 10, F = 50. F est un paiement fixe du client, pas le coût fixe de production.
-179motrv5sp	La consommation s’arrête lorsque la WTP marginale atteint le prix d’usage.
-11w7rx9g8r7	MC = 2 / usage p = 2
-102jnzzpn9f	Le prix d’usage efficient couvre le coût marginal.
-saqoibyc6e	Usage p0
-gkbvgcbrjv	Un abonnement seul rend l’usage gratuit, pas les ressources gratuites.
-1dt5tg7pumb	Prix unique
-2cmgogv9w0b	Deux parties
-uizzpa4cjv	Abonnement seul
-d8m6m9y2ut	Un abonnement seul rend l’usage gratuit
-jxr947hg96	Le vendeur demande seulement une cotisation, sans prix à chaque usage. Une fois entré, le client utilise le service jusqu’à ce que sa valeur marginale atteigne 0. Cela peut dépasser le niveau efficient lorsque chaque usage continue de coûter 2 à fournir.
-1towd792syu	Même client, abonnement seul : p_usage 0 → q = 10 ; F = 50 ; coût 20 ; profit 30. Ce n’est pas le tarif à deux parties p = 2, F = 32 qui donne profit 32.
-7wuov4tqzk	Le paiement fixe est irrécupérable dans la décision d’un usage supplémentaire.
-ddf717g9ov	À q = 9, valeur 1<coût 2 mais le client paie 0 à la marge : il veut quand même utiliser.
-155u5recibo	F désigne ici la recette d’abonnement, pas le coût fixe de production ; renommer les symboles évite la confusion.
-1gnu9pi853c	F = aire sous D jusqu’à q = 10 = 10×10/2 = 50 ; profit 50−2×10 = 30. Deux parties : profit 32 avec seulement 8 usages, donc moins de ressources gaspillées.
-12ftugabexv	Tu as un buffet à volonté : le dernier usage te semble gratuit, alors que le fournisseur paie toujours ses ressources.
-1dkxqko79t4	Abonnement seul F = 50, q = 10, MC = 2, FC production 0 : profit ?
-z1neunze8k	La recette d’abonnement n’est pas le profit : il faut payer les usages.
-21egcinzec5	32 appartient au tarif à deux parties, un autre contrat.
-z6hpkpa8uh	Une remise peut déplacer un meilleur client
-x5lzujb95w	Le concert a2000 places, déjà demandées par 3000 fans prêts à payer 1200. Des étudiants proposent 500. Même si laisser entrer un étudiant ne coûte presque rien physiquement, sa place remplace ici celle d’un fan qui aurait payé 1200.
-upkxcifj27	Capacité contraignante : coût d’opportunité d’un siège. E2025 : prix 1200 aux 2000 fans → recette 2,4 millions ; ajouter une catégorie à 500 ne crée pas de sièges.
-2fxwbbnkfa6	Le siège supplémentaire n’existe pas : un client doit remplacer l’autre.
-2dtdbzm4rtf	Le manque à gagner par remplacement est 1200−500 = 700.
-74prn8tke3	Avec places invendues ou demande des fans plus faible, le raisonnement pourrait changer : il faut vérifier la contrainte.
-ge1metd0an	Remplacer 100 fans par 100 étudiants fait perdre 100×700 = 70000, sous ces WTP et MC = 0. Une remise n’est pas rentable simplement parce qu’elle sert un groupe identifiable.
-2djcjijybtb	Tu gères la billetterie : avant d’ouvrir un tarif, demande combien de places resteraient réellement vides sans lui.
-1i971kx8722	Une place fan 1200 remplacée par étudiant 500 : manque à gagner ?
-6wqbeepszt	1200−500 = 700 de coût d’opportunité.
-26wca2xh6r2	Le coût physique 0 n’efface pas le client écarté.
-23i4jntate6	Billet et T-shirt : maximiser le profit ensemble
-1m607itl8gr	Un organisateur vend aussi des T-shirts aux personnes présentes. Un billet moins cher peut attirer des visiteurs qui achèteront ensuite un produit avec une marge. Le meilleur prix du billet dépend donc des profits qu’il crée ailleurs, pas seulement de sa billetterie isolée.
-1dwurw30zae	Réduire pc augmente Qc mais aussi la base de clients T-shirts.
-298hqzcj547	La firme compare le manque à gagner sur billets et le gain de marge sur T-shirts.
-2bzjo16yvlg	Un résultat intérieur doit respecter QT≥0 et les domaines des demandes.
-1vpddw05nkq	pc = 3040/7≈434,29 ; pT = 1060/7≈151,43 ; Qc = 3960/7 ; QT = 1840/7>0. Sans T-shirts, pc = 500 : le complément motive ici un billet moins cher.
-21sud8gowrb	Tu es organisateur : une campagne qui baisse le revenu par billet peut améliorer le profit total si elle crée assez de marge ailleurs.
-2comuvvx97u	Pourquoi ne pas maximiser séparément le revenu des billets ici ?
-17st8tbrwy2	Le prix du billet change aussi les ventes et la marge T-shirts
-b4jol822mn	Les deux demandes se relient par le nombre de visiteurs.
-11hqy2tmn05	Parce que tous les produits complémentaires doivent être gratuits
-1p4itknwqd0	Le bon compromis se calcule, ce n’est pas une règle de gratuité.
-78x2xnq8el	Parce que MC T-shirts est 0
-1wgltmfrod2	Le coût donné est 20 ; l’oublier modifierait les FOC.
-ff4ifxd6j9	Avant le calcul, annoncer quel contrat tu analyses
-7cfzar38cz	Le vendeur peut reconnaître ton statut, te laisser choisir une version, ou vendre un lot. Ces mécanismes ne donnent ni les mêmes contraintes ni la même quantité. Tu réussis l’exercice en identifiant ce que sait le vendeur et ce que peut choisir chaque client avant d’optimiser son profit.
-1khfdn5bu7s	Checklist : observable → troisième degré ; type caché/menu → deuxième degré ; valeurs exactes → premier ; lot → bundling ; T(q) = F+pq → deux parties, avec p0 si abonnement seul.
-1wzgzrhgotw	Le mot « abonnement » ne précise pas automatiquement le prix d’usage.
-23o0sni6600	Un contrat doit être choisi et accepté par les clients avant que sa recette soit réalisable.
-134amc5zim7	Les conclusions de profit et welfare exigent les coûts, la capacité et l’option extérieure explicités.
-hqkgclwyct	E2023 abonnement D = 10−2q, C = 10+2q : usage 0, q = 5, F = 25, profit 5. Avec deux parties p = 2, q = 4, F = 16, profit 6 : confondre les dispositifs change la réponse.
-9bwus97n1m	Tu reçois un nouvel énoncé : écris d’abord « que paie-t-il pour entrer, puis pour un usage de plus ? »
-m4les6f7ls	Reconstruis une analyse de tarif.
-1yje88piyd	Identifier ce que le vendeur sait et les contrats possibles
-ax34utcqel	Calculer les valeurs et utilités nettes de chaque type
-5wrte52uoh	Vérifier participation, incitations, arbitrage et capacité
-1bfku9y4tbw	Calculer les quantités, recettes et coûts
-1jd7h1vjn3s	Comparer profits puis effets de surplus
-kz7azyzj05	Identifier ce que le vendeur sait et les contrats possibles → Calculer les valeurs et utilités nettes de chaque type → Vérifier participation, incitations, arbitrage et capacité → Calculer les quantités, recettes et coûts → Comparer profits puis effets de surplus
-241jrcnsjtd	Un prix commun laisse du surplus aux clients à forte WTP et peut exclure d’autres clients.
-2z2p2wh0cm	Type observable permet des groupes ; type caché exige un menu ou une autre forme d’auto-sélection.
-j9qu9ah14r	Il choisit sa meilleure offre et peut aussi refuser : IC et IR limitent l’extraction.
-1ai6yk02ygh	Un prix annoncé ne rapporte rien si le client change de contrat ou ne participe pas.
-2cxwpjlu5vg	Plus de recettes ou plus de catégories ne garantit pas un gain net.
-1rmnvk7s3nr	Un gain de profit peut être un transfert ou accompagner une allocation moins efficiente.
-2eq5wg2g8ec	Un tarif étudiant observable relève du troisième degré ; un menu pour types cachés relève de l’auto-sélection du deuxième degré. H peut obtenir 12−8 = 4 sur Bas. Pour lui faire choisir Haut, 20−TH doit atteindre au moins 4, donc TH≤16 : demander 20 viole IC_H. IR vérifie aussi que chacun préfère participer plutôt que l’option extérieure. Un abonnement seul met le prix d’usage à 0 ; un tarif à deux parties sépare la cotisation et ce prix d’usage.
-z7i4azlnz3	Le vendeur veut capter des valeurs différentes.
-rhk63thxdv	L’information disponible détermine le mécanisme.
-fw9o114v6n	Chaque client compare toutes ses utilités nettes.
-1ffd6xeaeqo	La recette réalisable dépend des choix effectifs.
-cc2e71sh9q	Coûts, arbitrage et capacité décident du profit.
-9uvh8kh07u	Le welfare se compte séparément.
-1t80ybvbcki	Explique la différence entre tarif étudiant observable et menu Bas/Haut. Avec VH(Bas)12, VH(Haut)20, TB = 8, TH = 16, pourquoi ne peut-on pas demander TH = 20 ? Distingue aussi abonnement seul et deux parties.
-1utzsda4v98	Observable ou caché
-1q02zzlszxd	Troisième degré classe un groupe connu ; deuxième degré fait choisir un menu au type caché.
-2desm0z7n7m	Comparer les contrats
-1w2as1mzluy	H gagne 4 sur Bas ; TH = 20 lui laisserait 0 sur Haut, donc il choisirait Bas.
-1qxkw2ksaqz	Pouvoir refuser
-k82ocu42om	La participation exige au moins la valeur de l’option extérieure.
-28yl00xx4qq	Prix d’usage distinct
-2g4o7hfgdnw	Abonnement seul : usage 0 ; deux parties ajoute un prix d’usage qui peut être MC pour un client connu.
-22h7kchhj2z	IC compare les offres entre elles ; IR compare la meilleure offre avec le refus de participer.
-1w95akji2zz	La cotisation est une recette du vendeur ; le coût fixe de production est une dépense distincte.
-14s1kg2lki7	Choix d’un tarif pour un client connu
-5y1p56n5l2	Exercice construit, inspiré de L9 et E2023 Q2c ; aucun corrigé officiel. Un seul client connu, coûts fixes de production nuls et participation faible sont supposés.
-1dt6khmb4t1	Usage p = MC = 4 → q = 8 ; F = (12−4)×8/2 = 32 ; usage revenues cover variable cost, so π = 32.
-d5u1n8o6bv	Usage p = 0 → q = 12 ; F = 12×12/2 = 72 ; cost 4×12 = 48 ; π = 24.
-1ps76h69nnt	Identifier le prix marginal d’usage dans chaque contrat.
-g5q7i560mt	Déterminer la consommation du client, puis le surplus qui borne le paiement fixe.
-2cxchgudz38	Retrancher les vrais coûts pour comparer les profits.
-1qsa1hhocyk	Deux parties :p = 4, q = 8, F = 32 ; paiement 64, coût 32, π = 32.
-1cyeff141an	Abonnement seul :p_usage 0, q = 12, F = 72 ; coût 48, π = 24.
-s0qw77qwe9	Tracer D = 12−q et MC = 4.
-1xpyc3t3a37	La consommation efficiente est q = 8 ; l’usage gratuit mène q = 12, où les unités 8–12 ont WTP<MC.
-rqr8qxa26y	La cotisation two-part 32 est le triangle entre D et p = 4 sur 0–8.
-19j2vi4qwt2	Un groupe étudiant identifié à la vente relève plutôt du…
-1rj4trws9kz	Le statut est observable ; aucune auto-sélection par contrat n’est requise.
-13kmqk4yn5b	Le deuxième degré concerne un type caché qui se trie par son choix.
-1j9zby9y5gv	Le statut ne révèle pas la WTP exacte de chaque unité.
-jix9lmwi1o	IR vérifie…
-2cgultslccj	Qu’un client accepte plutôt que l’option extérieure
-atgo5im0hj	Participation et incitation répondent à deux comparaisons distinctes.
-1b1j7862s24	Qu’il préfère son contrat à l’autre
-pe5gno6q9r	C’est IC.
-13ehuiccnxs	Que le vendeur fixe MR = 0
-1xpbasp1ymj	IR concerne le choix de participation du client.
-245q136yph4	Pourquoi H peut-il choisir la version Bas ?
-1i3jll2aw33	Son économie de prix dépasse sa perte de valeur
-dsj1ntciws	Il maximise sa propre utilité nette, pas l’étiquette du menu.
-1ppe69h6xlt	Parce qu’IC est automatiquement satisfaite
-10i014kevvg	Justement, il faut vérifier IC_H.
-1bh53ekwtme	Parce que H doit avoir le même goût que L
-7s38w2lrky	Chaque type compare les contrats avec ses propres valeurs.
-236lcyq8rwb	Reconstruis la surconsommation possible d’un abonnement seul.
-2b0l2g3wqgl	Le client paie une cotisation fixe
-1jbch94pe4u	Le prix d’un usage supplémentaire est 0
-1cnj0by6jh1	Il consomme jusqu’à WTP marginale 0
-23myyv8eqem	Si MC>0, certaines unités coûtent plus qu’elles ne valent
-140zy6ebbe5	Le client paie une cotisation fixe → Le prix d’un usage supplémentaire est 0 → Il consomme jusqu’à WTP marginale 0 → Si MC>0, certaines unités coûtent plus qu’elles ne valent
-vseylkljfd	Reconstruis un tarif à deux parties.
-27t9vr62rr8	Une cotisation plus un paiement par usage.
-y1n9hkqwz2	H valorise Bas 10, Haut 18 ; Bas coûte 6. Prix Haut maximum avec IC_H faible ?
-1ga9wreyree	H garde 10−6 = 4 sur Bas ;18−TH≥4 → TH≤14.
-f02xbrh0l8	18 respecte IR_H mais viole IC_H car Bas laisse 4.
-1523lok4ock	D = 10−2q, C = 10+2q ; abonnement seul à usage 0 : profit ?
-jo7erlbhj9	q = 5, F = 25, coût 10+2×5 = 20, profit 5.
-1vzdr9ifwou	6 est le résultat avec un prix d’usage 2 et une cotisation 16, autre contrat.
-pon5hsl6yh	Un siège est déjà vendable 1200. Le vendre 500 à MC physique 0 crée-t-il 700 de gain ?
-1lr0402ro1z	Non : il sacrifie 700 de recette à capacité fixe
-11eqv5iizte	Le coût d’opportunité du client remplacé compte.
-1u7b2ltgozr	Oui parce que MC = 0
-230gevy1y9o	Le siège est rare même sans coût physique additionnel.
-138l5x04y6x	Oui toute remise augmente le profit
-1anlz6b6gv3	Les contraintes et le contre-factuel décident.
-1veeigoytft	Another customer displaced
-nans3fdvy9	Opportunity cost
-1p9jezecycv	Je reconnais information, degré et possibilité d’arbitrage.
-283fu8ng04e	Le mécanisme de prix dépend de ce que le vendeur sait et peut empêcher.
-15kpb8apt83	Je calcule les choix et vérifie les IC et IR de chaque type.
-2deunj1fk8u	Une recette annoncée est irréalisable si le client dévie ou refuse.
-1ob6k8m6lgf	Je distingue abonnement seul et prix d’usage plus cotisation.
-v82gtankb7	Ils donnent des incitations marginales et quantités différentes si MC>0.
-1ybnwsv3xcc	Je compare des profits avec coûts et capacité, puis le welfare séparément.
-libfvgcavd	Plus de recettes, une nouvelle catégorie ou un Q total identique ne garantit pas un gain d’efficacité.
-1akf0izgihp	Oligopole — prévoir le choix de l’autre
-g2um5wbz1h	Cournot, Stackelberg et Bertrand
-1x2js5359tt	Une entreprise ne décide plus seule. Son choix change ce que fait sa rivale. Quantité, prix, simultané ou séquentiel : le jeu doit être choisi avant les formules.
-d4j07xw7ct	Choisissent les achats selon le prix et les substituts.
-uu39eu0yfm	Obtenir le service au meilleur rapport valeur-prix.
-1eweiy62fr7	Firme 1
-1x29jd46963	Choisit sa stratégie en tenant compte de sa rivale.
-1fpemg7w5t2	Maximiser son propre profit.
-1f8vitccw3o	Firme 2
-xl0zi96ghn	Répond aux conditions créées par firme 1.
-ctulu70sfe	Maximiser également son propre profit.
-ppdlfraqvq	Compare les résultats des règles de concurrence.
-1trrcim8fwn	Compter production, prix et coûts réels.
-fgfib05xsm	Que choisit chaque firme, et quand ?
-1a8s2t9thae	Deux vendeurs peuvent se concurrencer en annonçant des volumes ou en annonçant des prix. L’un peut aussi décider avant que l’autre observe et réagisse. Ces règles changent le meilleur choix : le simple mot « deux firmes » ne donne pas encore un modèle.
-2e754czxng0	Cournot : quantités simultanées. Bertrand : prix simultanés, produits homogènes ou différenciés à préciser. Stackelberg : quantités séquentielles dans sa version usuelle.
-vk4194f6hy	Une quantité rivale prise comme donnée ne joue pas le même rôle qu’un prix rival.
-20jxqxlz7f9	Observer un premier choix permet de conditionner le second ; le premier décideur l’anticipe.
-1qbtn4iuz8x	Homogénéité et capacité déterminent si une petite baisse de prix peut attirer tout le marché.
-188r55agsdh	Deux producteurs de cuivre choisissant q1 et q2 le même jour : Cournot. Deux cafés choisissant leurs prix : Bertrand différencié si les clients distinguent leurs produits.
-41kbod2a7r	Tu lis l’énoncé : souligne « quantity », « price », « first », « observes » avant de sortir une réaction.
-2235r09c2ms	Deux quantités choisies simultanément pour un bien homogène : quel jeu ?
-1vk2x2gin1l	Cournot
-y5a0e9ydfb	La variable stratégique est la quantité et le choix est simultané.
-4sihk9drwo	Bertrand parce qu’il y a deux firmes
-1uaczslf83h	Le nombre ne suffit pas ; Bertrand porte sur les prix.
-127k79g2ecs	Stackelberg parce que la firme 1 est citée en premier
-2b16wkfkak3	Il faut un engagement séquentiel réel, pas l’ordre des noms.
-1qydpwbry6i	Nash : chacun répond au choix effectivement pris par l’autre
-1hq359cz2v7	La firme 1 regarde le volume de la firme 2 et choisit le volume qui lui rapporte le plus. La firme 2 fait le même raisonnement. On cherche un couple où aucune ne souhaite changer seule, en gardant le choix de sa rivale fixé.
-ldk0vycpzu	Nash : aucune déviation unilatérale profitable. L’intersection des meilleures réponses est un équilibre ; cela ne signifie pas profit maximal joint.
-hml4cpoq2u	Une meilleure réponse est conditionnelle au choix du rival.
+1zkso28iiee	Compare deux choses. Les 50 € de taxe quittent la firme mais arrivent à l’État : personne ne les détruit. Ce qui disparaît vraiment, ce sont les boîtes qu’un client aurait payées plus que leur coût réel de 5, et que personne ne fabrique. Le monopole s’arrêtait déjà à 12,5 au lieu de 25 ; avec la taxe il s’arrête à 10. La perte se mesure donc de 10 à 25, entre la demande et le vrai coût de 5.
+19affxfyaui	[[DWL]] totale = aire entre D et MC de Q = 10 à Q* = 25 : ½ × (25 − 10) × (20 − 5) = 112,5. Sans taxe : ½ × 12,5 × 12,5 = 78,125 ; la taxe ajoute 34,375. La recette fiscale de 50 est un transfert (piège E2022 Q3b, §20.1).
+el7ki2y5b9	La société compte les ressources réellement utilisées : 5 par boîte. La taxe change qui reçoit l’argent, pas ce que coûte la boîte à fabriquer.
+26awxy3ylku	La bonne référence est donc Q* = 25, où la demande coupe MC, et non le point où la demande coupe MC + t.
+mzkpk9le7k	Le triangle entre la demande et MC + t ne vaut que 50 : il traite la taxe comme un vrai coût et oublie les boîtes de 20 à 25, déjà perdues à cause du monopole.
+1sf0qy85irk	Faux : triangle entre D et MC + t = ½ × 10 × 10 = 50. Juste : DWL totale = 112,5. E2022 Q3b applique la même méthode avec p = 26 − 2Q, C = 2Q et t = 4.
+1ep6pworlca	Tu es ministre des finances : tu encaisses 50, ce n’est pas une perte. Ce que tu dois expliquer, ce sont les 15 boîtes qu’un client aurait payées plus de 5 et que personne ne fabrique.
+286zrt98jlk	Q = 10 avec la taxe, D = 30 − Q, MC = 5 : quelle perte sèche totale ?
+1soyidmio3j	50 est le triangle entre D et MC + t : il traite la taxe comme un vrai coût et oublie les boîtes de 20 à 25.
+1jlrahdra62	78,125 est la perte du monopole sans taxe.
+1y51x0i5qzz	Si les clients versaient eux-mêmes les 5 € à l’État, la quantité changerait-elle ?
+1dx7g18t214	Non : la firme recevrait 5 de moins à chaque quantité et choisirait encore Q = 10
+lazp8okeq4	Recette nette p = 25 − Q, MR = 25 − 2Q = 5 ⇒ Q = 10 : le même écart de 5 sépare le prix payé du prix reçu.
+12sqh9y97qc	Oui : les clients achèteraient moins car ce sont eux qui paient
+dcbwzofomb	Ils paient 15 + 5 = 20 dans les deux cas : c’est le même écart.
+1pg0b5vxwvc	Oui : la firme vendrait 12,5 car elle ne verse plus la taxe
+2ff5cd6xrel	Ce qu’elle reçoit par boîte baisse de 5 : sa recette marginale baisse d’autant.
+1qke2gpfr8b	Une marge relative au prix, pas un gros chiffre isolé
+202khjozzwl	Un vendeur peut demander un prix faible et garder une forte marge si produire coûte encore moins. Pour comparer son pouvoir de marché, rapporte l’écart prix-coût marginal au prix lui-même. Le profit total dépend aussi du volume et des coûts fixes.
+2dris4f9i7s	Lerner = (p−MC)/p. Ici (9−6)/9 = 1/3 ; à MR = MC, Lerner = −1/ε_firme.
+ay18bdn7dl	Une marge 3 sur p = 9 représente un tiers du prix.
+p28l2qdwv5	Diviser par MC mesurerait une autre grandeur ; soustraire FC n’entre pas dans cet indice marginal.
+k4w07p30v6	La relation d’élasticité vient de MR = p(1+1/ε) = MC.
+obhfkj51l6	Un prix de 1 avec MC = 0,1 donne L = 0,9 : prix absolu faible et pouvoir de marché élevé sont compatibles.
+1ve3l5t0cgn	Tu vois une levure peu chère dans E2023 : demande son MC et la sensibilité de sa demande avant de conclure à une concurrence parfaite.
+2bm6ht4gn2s	p = 9, MC = 6 : indice de Lerner ? Entre un nombre entre 0 et 1.
+15gbscfxgrm	0,5 divise la marge par MC ; Lerner divise par p.
+uvzjl9n2lm	3 est la marge absolue.
+1874k9s1d7g	Pourquoi le monopole évite la partie inélastique
+65vxkdw7b5	Si une petite hausse du prix fait perdre très peu de clients, elle augmente encore les recettes. En vendant moins, la firme économise aussi des coûts positifs. Elle ne peut donc pas être au maximum de profit dans cette zone strictement inélastique.
+63dfcwuh5u	Avec MC>0 et optimum intérieur de prix unique : ε_firme<−1. Ici Q = 12−p : ε = −p/Q = −9/3 = −3 et−1/ε = 1/3.
+1zrfd6fl6qz	Si|ε|<1, augmenterp augmente R tout en réduisant Q et le coût.
+fzno5z5hhj	À l’optimum, MR = MC>0 impose 1+1/ε>0, donc ε < −1.
+1d1kpgclgci	MC = 0 permet le cas limite ε = −1 ; il ne faut pas transformer l’énoncé en règle sans hypothèses.
+1tzd2mj5rx6	Au point p = 9, Q = 3, élasticité−3. La pente−1 seule ne vaut pas l’élasticité : il faut multiplier par p/Q.
+2ezem6i211j	Tu peux gagner à vendre moins dans la zone inélastique : pourquoi y resterais-tu si les ressources économisées sont positives ?
+1seluqxvy0y	Q = 12−p au point p = 9, Q = 3 : élasticité signée ?
+2ahz62j8vco	−1 est la pente directe ; il manque p/Q.
+2ch6rgp0vm5	La demande décroît : garde le signe négatif.
+txo8ru0m36	Le coût fixe change le profit avant de changer le volume
+14uayhzd7ju	Ton loyer baisse sans modifier le coût des unités supplémentaires. À demande donnée, ton choix marginal reste identique et ton profit monte. Mais si d’autres firmes peuvent entrer, ce profit les attire : ta demande future peut alors baisser.
+29ufkvopk09	A4.3 : p = 70−Q−2 n, C = 30Q+FC ; Q* = 20−n. À n10, FC = 100 → 25 ne change pas Q = 10 immédiatement, mais profit 0 → 75.
+11ho378bh5x	La dérivée d’un coût fixe est 0 : aucune modification directe de MR = MC.
+3gosq50691	L’entrée est un autre mécanisme qui modifie la demande de chaque firme.
+1xu7lj45ju9	Dans A4.3, le nouvel équilibre de libre entrée aQ5, n15, p = 35, profit 0.
+cpo5cqnkg6	À n10 : p = 40, Q = 10, marge totale 100 ; avec FC = 25, profit 75. À n15 : p = 35, Q = 5, marge 25 = FC, profit 0.
+2ah29ta264a	Tu gères un café : distingue le lendemain de la baisse de loyer et les mois suivants où des concurrents entrent.
+xeh5ykeu1i	FC baisse, demande et n sont encore inchangés. Que devient Q optimal ?
+136e5sl4ozf	Il reste inchangé dans ce modèle
+6iitu7ljv0	MR et MC n’ont pas changé ; seul le profit augmente.
+usdwwrzho7	Il augmente automatiquement
+aglnw54tzl	Tu as fait entrer FC dans une condition marginale où il disparaît.
+1kwnwdk0qbz	Il tombe à 0
+257q4t0dp71	Une baisse de FC améliore la rentabilité, elle ne motive pas l’arrêt.
+2ezojja6o77	Profit nul ne veut pas dire prix égal au coût marginal
+2enzfnklm6	Avec des produits différenciés et une entrée facile, de nouvelles firmes prennent une part de clientèle aux anciennes. L’entrée peut éliminer leur profit économique tout en laissant un prix supérieur au coût de l’unité suivante. Les recettes couvrent alors aussi les coûts fixes.
+1e5apge07v3	Concurrence monopolistique LR symétrique : p = ATC mais p>MC ; distinction avec concurrence parfaite. L’excès de capacité se lit par rapport au minimum ATC.
+1lxju39ov32	Profit 0 signifie R = C, pas R = 0.
+2sgo0s2jz0	Une firme avec demande décroissante choisit encore MR = MC ; MR<p explique pourquoi le markup subsiste.
+14zn9213jui	Une sortie après choc négatif peut rétablir le profit des survivantes ; leur quantité ne bouge pas universellement dans un seul sens.
+1jhc2mm7cu7	Un café vend 10 à 40, coût total 400 : profit 0 bien que MC = 30 et recettes 400. Sa marge finance les coûts fixes 100.
+20bq3rsnydh	Tu lis « zero economic profit » : ne conclus ni absence de revenu, ni absence de rémunération normale des ressources.
+ha1q95cvtz	Une firme différenciée a π0 avec entrée libre. Quelle égalité est nécessaire ici ?
+1wsxg792ge	R = C donne p Q = ATC×Q pour Q>0 ; p peut dépasser MC.
+12r485tb90g	p = MC nécessairement
+26pis87d12l	C’est une autre structure de marché, pas la conséquence de π0 seule.
+121rpfhbrth	Le revenu peut couvrir exactement le coût total.
+173dduyeg10	Qui peut entrer, et à quel coût ?
+a59hzg8lqz	Un brevet, une licence ou un input rare peut empêcher l’entrée qui ferait baisser les profits. Une infrastructure très coûteuse peut aussi rendre une seule firme moins coûteuse que plusieurs. Mais un prix au coût marginal peut alors ne pas payer l’infrastructure ; il faut annoncer quel problème la politique résout.
+1wm62e3wc7b	Monopole naturel : économies d’échelle sur la plage pertinente ; arbitrage statique/dynamique des brevets. Avec firmes hétérogènes, E[π] = 0 avant entrée n’impose pas π0 après chaque tirage de productivité.
+psxzv0bk75	L’entrée discipline les profits seulement si elle est faisable et rentable.
+1obx6ih4qh1	Un brevet peut créer une DWL statique tout en soutenant un investissement futur : ces deux effets doivent être distingués.
+26lu8amnsnl	Après coût d’entrée irrécupérable, une firme peu productive peut arrêter pour limiter sa perte ; les meilleures peuvent garder un profit réalisé positif.
+1d81fwtf5es	Infrastructure FC = 100 et MC = 1 : vendre 50 unités à p = MC produit R = 50, VC50, profit−100. Le prix marginal efficace ne finance pas à lui seul FC.
+rct1cdrpoj	Tu es régulateur : ne promets pas simultanément p = MC, aucun financement et couverture d’un gros coût fixe sans expliquer le budget.
+2393fv9q0y4	p = MC et FC = 100 non financé : une firme couvre-t-elle forcément ses coûts totaux ?
+j45n6unxgf	Non : la marge variable nulle ne couvre pas FC
+2amqdr9xbu9	L’efficacité marginale et la viabilité financière sont des contraintes distinctes.
+1tyfztnj0g0	Oui parce que MR = MC
+v8kgr7tk9g	MR = MC n’efface pas un coût fixe.
+19i7exd3zhz	L’absence de concurrent ne crée pas une recette au prix imposé.
+use3nur8u	Vendre davantage demande de réduire le prix unique.
+1ac7st4t25z	La recette marginale devient p+Qp′ et est inférieure au prix.
+gwlxaf9bzq	Le gain marginal d’une unité est alors égal à son coût marginal.
+1sq7k3ktu2u	La demande détermine le paiement accepté par les clients, pas MR.
+d8xg2654ks	Le monopole compte la baisse de prix comme perte privée alors qu’elle est un transfert social.
+13hipivjgau	Pour vendre plus, la firme baisse le prix de toutes ses unités. Sa recette marginale est donc inférieure au prix. Elle choisit Q = 3 où MR = 12−2Q = MC = 2Q, puis lit p = 9 sur D = 12−Q. Son profit est 27−12 = 15. La société voudrait Q = 4 où D = MC ; les gains non réalisés entre 3 et 4 valent 1,5, distincts du transfert de surplus aux producteurs.
+2391ynxrakq	La firme fait face à une demande décroissante.
+339shlnoq4	La réduction de prix touche les unités déjà vendues.
+2bq4vzkloe0	Le volume de profit maximal satisfait MR = MC.
+2fxuxlnryqw	Le prix se lit sur la demande au volume choisi.
+kpm1xyy0qf	Le volume est inférieur au benchmark D = MC.
+murcufsa1o	Explique sans réciter seulement MR = MC pourquoi le monopole choisit Q = 3, p = 9 plutôt que Q = 4 dans L8. Puis distingue profit 15 et perte sèche 1,5.
+26f0yw4g7v5	Baisse sur anciennes ventes
+pbq7xfjkiu	La baisse du prix unique réduit aussi les recettes sur les unités déjà vendues.
+1sgt45l89lq	MR inférieur au prix
+1r6n74sjhhs	Le gain marginal est p+Qp′, pas seulement le prix.
+qfmuxyaoe4	Quantité puis prix
+o2n5dd425x	Q = 3 vient de MR = MC ; p = 9 vient de la demande à Q = 3.
+6c442qf3pp	Échanges manquants
+1jj1c1wtar0	Entre 3 et 4, valeur>coût : ce gain non réalisé est DWL = 1,5.
+1mrs5zjqf0x	MR = 6 choisit Q = 3 ; remonte à la demande pour lire p = 9.
+h5r4ebh6kz	Le profit 15 est reçu par la firme ; la perte nette d’échanges vaut 1,5.
+1ycg31ae5gx	Une firme unique et le benchmark efficient
+gficehpmz8	Exercice construit sur la méthode A4.1 ; nombres pédagogiques, aucun corrigé officiel revendiqué.
+sg56chqnt0	Choisir MR = MC pour le profit, D = MC pour l’efficacité.
+ag6r6t7vrr	Lire le prix sur D ; calculer le profit avec le coût total.
+1csx43hk8ui	Distinguer les transferts et le triangle d’échanges manquants.
+r59c66tmmv	L = (24−8)/24 = 2/3 ; ε_firme = −1,5 au point choisi.
+2gi7j4absz5	Tracer D = 40−2Q, MR = 40−4Q et MC = 8.
+1ih0hafz5rl	Qm = 8 sur MR = MC, prix 24 sur D ; Qeff 16 sur D = MC ; triangle entre 8 et 16.
+yk5giv1sei	MR signifie…
+1ihsokr886j	Recette additionnelle d’une unité supplémentaire
+h1llbd274a	Elle inclut l’effet sur les recettes existantes.
+124yaq4u960	Prix payé automatiquement
+2vwqcxm5tt	MR peut être inférieur au prix.
+6ukmo9cq3j	Profit total
+1ej67hedxm9	Le profit retranche les coûts à la recette.
+1p515h3tupa	Lerner est divisé par…
+2db6pqs3th9	Le prix
+28yefprh9u8	(p−MC)/p est une marge relative au prix.
+2e464q2ww72	Ce serait une autre mesure de markup.
+2a7wvuwbk7s	Le profit
+8cco1d9sgb	Le profit total n’est pas le dénominateur.
+dajcbxsyg6	Reconstruis le choix du monopole.
+15v8m0b80dq	Vendre plus nécessite une baisse du prix unique
+ddxwky0sz	Les anciennes ventes rapportent moins
+3zqzeggjn	MR devient inférieur au prix
+1tjsp5iigwo	MR = MC détermine la quantité
+1tqjg79pkqb	La demande détermine le prix
+140ltx9yjy9	Vendre plus nécessite une baisse du prix unique → Les anciennes ventes rapportent moins → MR devient inférieur au prix → MR = MC détermine la quantité → La demande détermine le prix
+owsf5i9waq	FC augmente, mais reste inévitable ; MR et MC inchangés. L’optimum intérieur…
+14j6l3du3ow	Garde le même volume, avec moins de profit
+qw17xkbx0i	FC ne varie pas avec une unité supplémentaire.
+27nqnx5pjtn	Augmente nécessairement
+i7sdezor88	Aucune relation marginale n’a changé.
+1lq6bd7h3rp	Disparaît nécessairement
+d2il3em1pv	Un profit plus faible n’impose pas l’arrêt si FC est inévitable.
+5kbq3xa4dx	Reconstruis la recette marginale.
+16tpv0xyzfm	La règle du produit donne p+Qp′.
+23c7btg2dpy	D = 30−Q, MC = 5 : Qm = 12,5. Quel prix ?
+277japelas9	5 est MR = MC, pas le prix de demande.
+eub76gfxjj	E2021 : D = 56−2Q, MC = 8. Quantité de monopole ?
+6soz4wmznk	p = ATC mais p>MC avec libre entrée : incohérent ?
+kdfqqcjo6w	Non : concurrence monopolistique possible
+jv0kh6pla	Le markup peut financer FC avec profit économique nul.
+1usa4ehw0oi	Oui, profit nul implique p = MC
+1cpjwe6idy	Ce raisonnement confond les structures de marché.
+119ofopdn2q	Oui, le revenu doit être nul
+24epkhyez06	R = C peut être strictement positif.
+2ehe30mnr92	Restricted output loses beneficial trades
+273kegof91q	Marginal condition unchanged
+1x2go3twaz0	Profit decreases
+qv9fmn6a7x	Je justifie MR<p avant d’écrire MR = MC.
+2gkf53zrg4k	Le prix unique réduit aussi les recettes des anciennes ventes.
+3ye7pmrse2	Je choisis Q sur MR = MC et p sur D.
+1etn3uz15fp	La recette marginale n’est pas le prix facturé.
+zm4vxpzyvl	Je calcule π avec C total, Lerner avec MC et DWL avec D−MC.
+gnciaexpwl	Ces objets répondent à trois questions différentes.
+rah8majnct	Je distingue effet immédiat des coûts fixes, entrée et barrières.
+5s2hji18k0	Un coût fixe ne change pas directement MC ; l’entrée peut changer la demande.
+sr92t8y7to	Discrimination — qui paie quoi, et pourquoi accepte-t-il ?
+19i8a91a894	Segmentation, auto-sélection, bundling et tarifs
+1i5twvl1lca	Un tarif étudiant, un billet premium ou un abonnement ne sont pas le même mécanisme. Mets-toi dans chaque client, calcule son choix, puis vérifie ce qui rapporte vraiment.
+8w4w5zekbb	Le client L
+17wyd55gfil	A une valeur ou une sensibilité plus faible dans le cas étudié.
+1yd0tkbjmum	Choisir le contrat qui donne la meilleure utilité nette.
+1a6smemxsdr	Choisit prix, groupes et menus sous contraintes.
+m3ypdqgg6i	Extraire du surplus sans perdre les clients ni permettre l’arbitrage.
+aa0vmn9gob	Le client H
+1aiibnttt2y	A une forte valeur pour certains usages ou qualités.
+1951bl6k1a6	Choisir aussi la meilleure offre, même une offre dite économique.
+1d81x75q7bp	Compte les valeurs et coûts réels des unités vendues.
+1y33sj5sb7z	Séparer répartition des recettes et efficacité.
+1yfpg3onkxe	Le vendeur veut faire payer selon la valeur
+m41wmw5cls	Deux clients valorisent le même service différemment. Le vendeur aimerait demander plus à celui qui accepte davantage, mais cela échoue si ce client peut acheter le billet moins cher du voisin. Il lui faut donc du pouvoir sur le prix et un moyen de garder les offres séparées.
+fc6ksdt504	Discrimination : prix différents liés à WTP, au-delà des seules différences de coût. Conditions : pouvoir de marché, segmentation ou auto-sélection, arbitrage limité.
+2csgn9tb4wq	Sans pouvoir de marché, un rival peut offrir le même bien moins cher.
+2fy1xjmuz4j	Sans protection contre la revente, le client cher passe par le marché bon marché.
+1bt89zg88jv	Un prix supérieur expliqué seulement par un coût de livraison supérieur n’établit pas la discrimination.
+2gij0zsbh5p	Billet nominatif : le tarif étudiant 8 ne se revend pas facilement au client prêt à payer 16. Billet librement transférable : cet écart crée une occasion d’arbitrage.
+154jxhy1v0s	Tu es le client H : avant de payer 16, chercherais-tu à acheter le billet 8 de quelqu’un d’autre ?
+qiir3ayrrx	Pourquoi rendre un tarif étudiant nominatif peut-il soutenir la discrimination ?
+1i877qlt6a6	Cela limite la revente aux clients non étudiants
+2e9jt14gfp2	Le groupe cher ne peut pas facilement accéder au prix du groupe bas.
+zi2qbhmcys	Cela réduit toujours MC de moitié
+1r3r0ioi3ct	Le contrôle d’identité ne prouve pas une économie de production.
+237sif00271	Cela rend tous les clients identiques
+1uw1db4cjn2	Le but est justement de maintenir des groupes distincts.
+swtk5q6i7c	Cas extrême : chaque unité à sa valeur exacte
+pwyp4rg8vj	Imagine que le vendeur connaît exactement la valeur de chaque unité pour chaque client. Il peut laisser le client juste indifférent en lui faisant payer cette valeur. Il veut alors vendre toutes les unités qui créent du surplus, parce qu’il peut capter tout ce gain.
+n1kx6fvshr	Premier degré : paiement de chaque unité à sa WTP ; production jusqu’à D = MC, CS0 et DWL = 0 dans le modèle idéal sans autre distorsion.
+155ewo6gr3	Avec un prix différent pour chaque unité, vendre plus ne nécessite plus un rabais sur toutes les anciennes ventes.
+1y6a1ec6b3n	L’incitation marginale du vendeur devient valeur de l’unité−coût, la même que le gain total.
+21f24z5tdq2	Efficacité ne signifie pas répartition favorable aux clients ; l’information et l’extraction requises sont très fortes.
+18usctxn3lv	Demande 10−q, MC = 2 : vendre jusqu’à q = 8 ; valeur totale 48, coût 16, surplus variable 32 capté par le vendeur, CS0.
+1xle17xoirw	Tu es acheteur : payer exactement ta valeur te laisse 0 de gain net, même si tous les échanges efficaces ont lieu.
+2882uo7p1n9	Premier degré parfait sans autre défaillance : CS0 implique-t-il DWL positive ?
+1n61tpvj9ck	Non : la production peut être efficiente avec surplus capté par le vendeur
+2gb2h48x5jf	La répartition et la perte nette sont distinctes.
+me6q11ec3w	Oui, toute perte de CS est une perte sociale
+5dnl8qzs51	Ici cette valeur devient surplus du vendeur.
+xcqcxtoh16	Oui car la firme ne vend rien
+ilv43c6wc4	Le vendeur veut vendre les unités dont WTP≥MC.
+6d9kz2lyem	Groupes observables : résoudre deux choix de monopole
