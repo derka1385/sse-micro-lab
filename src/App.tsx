@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { OverlayHost } from './components/overlays';
 import { activeMisconceptions, dueReviews, useProgress } from './store';
 import { Home } from './views/Home';
@@ -90,6 +90,12 @@ function useClaudeServer() {
 export default function App() {
   const claudeServer = useClaudeServer();
   const sync = useSync();
+  // Right after signing in (not when a session is restored), start on the home page.
+  const wasSignedOut = useRef(false);
+  useEffect(() => {
+    if (sync.ready && !sync.user) wasSignedOut.current = true;
+    if (sync.user && wasSignedOut.current) { wasSignedOut.current = false; window.location.hash = '#/'; window.scrollTo(0, 0); }
+  }, [sync.ready, sync.user]);
   const route = useRoute();
   const p = useProgress();
   const [menu, setMenu] = useState(false);
