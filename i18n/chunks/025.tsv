@@ -1,5 +1,3 @@
-257w8lt40i3	South : OC_W=4/2=2 E/W ; OC_E=2/4=0,5 W/E. La symétrie des intervalles de prix dans ces nombres est une coïncidence.
-1iiqsdmslhw	Tu écris les unités « E par W » à côté du ratio avant de calculer : cela rend une inversion visible.
 19vgqfbxakr	South met 4 h par blé et 2 h par électronique. Quel coût d’opportunité d’un blé en électronique ?
 w21jq0rae0	4/2=2 électroniques par blé.
 o9gm2vy50j	0,5 est le coût d’une électronique en blé.
@@ -129,44 +127,50 @@ ezwph7ndt	L’ajustement du travail change les revenus des facteurs spécifiques
 1uv6pmcz876	L’agrégation ne décrit pas la compensation effective des perdants.
 wpkicf9ytp	Oui, le salaire réel augmente forcément dans tous les biens
 ada8r6mgjk	Le salaire réel dépend du salaire nominal et du panier de prix.
-aquuyapeum	La valeur d’une plateforme vient aussi de qui s’y trouve
-m7keekapo7	Tu veux louer du matériel sportif. Une application vide t’aide peu ; elle devient utile si beaucoup de propriétaires y proposent du matériel pertinent. Ces propriétaires, eux, ont davantage intérêt à venir s’il y a déjà des locataires : chaque côté influence la valeur de l’autre.
-19o65l35h6	Effet de réseau indirect/croisé : plus de participants d’un côté attire l’autre. Effet direct : utilisateurs du même côté qui augmentent la valeur entre eux, comme dans un jeu multijoueur.
-27sgiz6q9jm	La plateforme organise une interaction, pas seulement une collection de pages.
-1i5upk2f261	Un réseau direct relie l’utilité à son propre groupe ; un effet croisé passe d’un groupe à l’autre.
-1ei63toaf0v	Artistes nombreux attirent le public ; public nombreux attire les artistes. Des avis fiables et le paiement sécurisé rendent aussi les interactions possibles, indépendamment du simple nombre de comptes.
-1tpmhgf9wq7	Tu demandes « plus de qui rend ce service utile pour qui ? ». Cette phrase identifie les deux côtés et le sens de l’effet.
-1xztqyf3iyt	Plus de loueurs attirent les locataires. Quel effet ?
-fx8mrpn5jf	Indirect/croisé
-3jqm7wi211	La valeur augmente d’un côté grâce à la présence de l’autre côté.
-1ctx2ttf3qf	Direct entre locataires
-jpgrh4fsvy	Les nouveaux participants sont des loueurs, pas des locataires du même côté.
-z2i2gtmvcl	Coût marginal forcément décroissant
-1cdqj1kvscx	L’effet décrit la valeur du réseau, pas directement la technologie de coût.
-p9uuxu76dt	Pour démarrer, il faut donner une raison au premier côté de venir
-fknxyfc8f6	Sans loueurs, personne ne vient louer ; sans locataires, personne ne propose son matériel. La plateforme peut subventionner un côté pour rendre la venue de l’autre intéressante. Offrir un accès gratuit peut donc créer le réseau, en plus de trier les utilisateurs selon leur disposition à payer.
-17mvw817jez	Chicken-and-egg problem : complémentarité de participation entre côtés. Freemium peut combiner amorçage du réseau et self-selection.
-5btdvzerdv	Le coût d’attirer un côté peut être compensé par la valeur qu’il crée pour l’autre.
-1hj5binnx3w	La bonne subvention dépend des réactions et des revenus de chaque côté ; « tout gratuit » ne constitue pas à lui seul un modèle rentable.
-cr62oruosq	Un concert peut offrir l’accès aux premiers artistes pour attirer un public, puis monétiser une autre interaction. Il faut encore vérifier l’appariement, la qualité et la confiance.
-nwr71vis1u	Tu lances la plateforme : dis quel côté reçoit l’aide, quel autre côté réagit et comment la plateforme pourra récupérer de la valeur.
-1bp3qy6q1wn	Reconstitue une stratégie d’amorçage plausible.
-2cq19lalp6t	Faible participation de chaque côté rend l’autre peu attirant
-21gqyt721le	Aide ciblée pour attirer un premier côté
-22y7hudo2me	Valeur accrue de la plateforme pour l’autre côté
-269ql8fmjlb	Participation croisée puis possibilité de monétisation à vérifier
-53yf5k6o9h	Un gros réseau n’est pas automatiquement un monopole naturel
-h0f2wp8q18	Un utilisateur peut parfois garder des comptes sur plusieurs applications sans coût élevé. Un entrant peut alors attirer des interactions sans faire abandonner entièrement le réseau existant. À l’inverse, exclusivité et coûts de changement compliquent cette arrivée.
-7ia8cy7wiz	Multi-homing : utiliser plusieurs plateformes. Single-homing : une seule. Effets de réseau peuvent favoriser concentration ou tipping, mais ne démontrent pas un monopole naturel dans tout marché numérique.
-1ga74lzcwiz	Le réseau installé devient moins inaccessible si ses utilisateurs peuvent aussi rejoindre le nouveau service.
-3awsnfop66	La concentration dépend également de la qualité, différenciation, congestion, règles d’exclusivité et coûts de changement.
-1kdojb4z4fm	Un propriétaire peut publier son matériel sur deux applications. Une clause d’exclusivité ou une réputation non transférable peut rendre ce multi-homing plus difficile.
-88txjwalm1	Tu analyses une plateforme dominante : cherche ce qui empêche réellement un utilisateur ou fournisseur d’essayer un rival.
-1gdgdqsakzd	Quel élément facilite l’entrée d’une autre plateforme, toutes choses égales ?
-iyri5n8kkx	Multi-homing facile des utilisateurs
-znmjb1pxv4	Ils peuvent accéder à l’entrant sans quitter entièrement l’incumbent.
-1x3l5m7ex8d	Exclusivité obligatoire des vendeurs
-digq3snslv	Elle prive l’entrant d’un côté du marché.
-ksejfuk0sr	Coûts de changement très élevés
-1tqvck5p5d2	Ils rendent le transfert des utilisateurs plus difficile.
-egkmdmfgyz	Le côté qui attire l’autre paie moins, parfois rien
+lvax2l9o2v	Deux personnes, les mêmes totaux, des goûts différents
+13fn87xpk3y	Christina et Sebastian ont chacun 10 drinks et 10 snacks. Christina valorise un drink comme un snack ; Sebastian valorise un snack comme deux drinks. Un échange peut donc déplacer les snacks vers celui qui les valorise relativement plus, sans produire le moindre bien supplémentaire.
+1905irt49n6	E2021 : U_C=D_C+S_C ; U_S=D_S+2 S_S. Boîte d’Edgeworth de dimensions 20 drinks×20 snacks, avec origines opposées et allocations complémentaires.
+14z0wq59123	Une allocation à Sebastian détermine automatiquement celle de Christina par les totaux fixes.
+2apq8qz7npt	Les gains viennent d’une meilleure correspondance entre biens et préférences, pas d’un accroissement du nombre de snacks.
+16qe24kg2ie	Au départ : U_C=10+10=20 ; U_S=10+2×10=30. En coordonnées Sebastian (D,S), Christina a (20−D, 20−S).
+lb0mgr5gds	Tu es Sebastian : tu serais prêt à donner jusqu’à 2 drinks pour un snack ; Christina n’exige qu’un drink pour sacrifier un snack à la marge.
+b79xfmli9k	Échange : les paniers de Sebastian, celui de Christina en complément
+14ecc98vq0x	Coordonnées Sebastian : D_S horizontal, S_S vertical, totaux 20/20. Christina reçoit (20−D_S, 20−S_S). Cette coupe de faisabilité ne remplace pas le dessin à deux origines : elle montre les deux niveaux d’utilité initiaux.
+2xgilm6hyd	D_S : drinks de Sebastian
+d1xrcm1cws	S_S : snacks de Sebastian
+2g35r0ati0n	Sebastian U=30 : S=15−D/2
+2gcrcvhvxx2	Au-dessus, Sebastian préfère à sa dotation initiale.
+288raxa1h6s	Christina U=20 : S=20−D
+v53q8uuhcm	En dessous, Christina préfère à sa dotation car elle conserve davantage des totaux.
+fzp4bj31zd	Bord efficace D_S=0
+6932gujk51	Plus aucun drink à transférer de Sebastian à Christina.
+22a98u4tmfk	Bord efficace S_S=20
+2eheswqm67r	Plus aucun snack à transférer de Christina à Sebastian.
+9qkrbzuvy6	Dotation : U_S=30, U_C=20
+21a6gf9clhr	Échange : U_S=31, U_C=21
+18s1nyjrtce	Efficace et mutuellement meilleur
+1e6j4c5p3jk	Sebastian possède 7 drinks sur un total 20. Combien Christina en possède-t-elle ?
+1m7ajwrgj8u	drinks
+16dq7li7ie2	20−7=13. Toute allocation doit respecter les totaux.
+cqnjuo3bk9	Les deux paniers sont complémentaires, pas identiques une fois qu’ils échangent.
+1umkxf1pmp4	Teste les deux utilités avant de déclarer un gain mutuel
+221oait5qxa	Sebastian donne 3 drinks à Christina et reçoit 2 snacks. Il finit avec 7 drinks et 12 snacks ; Christina avec 13 et 8. L’utilité de chacun augmente d’une unité : un prix de 1,5 drink par snack se situe entre leurs dispositions relatives à échanger.
+1m05gl9s4k2	Amélioration de Pareto : personne moins bien, au moins un strictement mieux. Ici U_S=31>30 et U_C=21>20.
+6n96avz59v	Sebastian valorise ses deux snacks de plus à 4 drinks, davantage que les 3 cédés.
+1n5rrng2up	Christina perd 2 snacks mais reçoit 3 drinks ; son utilité augmente également.
+f6yqh7hh8c	Dans les coordonnées Sebastian : ne pas perdre exige D+2 S≥30 et D+S≤20 ; au moins une inégalité stricte pour une amélioration réelle.
+23rbo23wmgz	Tu ne déclares pas un échange bon parce qu’un joueur gagne : contrôle aussi le panier laissé à l’autre.
+809c51sb00	Après l’échange, Sebastian a (7 D, 12 S) et U=D+2 S. Quelle utilité ?
+14vl01muww4	7+2×12=31, contre 30 au départ.
+2dqrnp4sewj	Christina a (13 D, 8 S) et U=D+S. Quelle utilité ?
+1mvrob1dbsr	13+8=21, contre 20 au départ.
+1xg6ccld7pu	Des MRS différents ne se rejoignent pas toujours par une tangence
+1lskq2e460w	Les goûts linéaires de Christina et Sebastian ne changent pas avec leur panier. Tant que Sebastian a encore des drinks et Christina des snacks, un petit échange au prix entre 1 et 2 peut améliorer les deux. L’efficacité arrive donc à une limite physique : Sebastian n’a plus de drinks ou possède tous les snacks.
+w0dv4l1zhr	Sous préférences lisses avec optimum intérieur, MRS_C=MRS_S. Avec substituts parfaits ici, MRS restent différentes : allocations efficaces aux bords D_S=0 ou S_S=20.
+1pj1udbqdor	La condition de tangence est une condition d’optimum intérieur, pas une équation universelle de toute allocation efficace.
+51v0bf87u0	L’échange utile s’arrête quand le bien à déplacer dans le sens favorable n’est plus disponible, pas lorsque les goûts deviennent identiques.
+1k9c158gvub	Depuis la dotation initiale sans rendre personne moins bien, le bord efficient accessible est D_S=0 et 15≤S_S≤20. À(0,17), U_S=34 et U_C=23 : les deux gagnent, et Sebastian ne peut plus céder de drinks.
+2bs2n9318uf	Tu cherches d’abord si un échange marginal bénéfique est encore faisable. Si un stock est épuisé, n’impose pas une égalité de MRS impossible.
+qtvbnost0a	Quelle allocation Sebastian est efficace et améliore les deux depuis (10,10) ?
+u4zii61e7q	U_S=34>30, U_C=23>20 ; plus aucun drink de Sebastian à transférer pour un gain mutuel.
+1a966a89cug	Les deux ont gagné, mais Sebastian a encore des drinks et Christina des snacks : d’autres gains sont possibles.

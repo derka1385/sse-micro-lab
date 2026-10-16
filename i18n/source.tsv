@@ -19,7 +19,7 @@ pc0wdm7atq	Choix du consommateur
 3501ursnlu	Perte sèche (DWL)
 2ajpdncm89r	Taxes, subventions, plafonds
 2062fst1jh5	Externalités
-11dp6krdlmq	Commerce & droits de douane
+xpmygvtqmo	Commerce, tarifs & échange
 23k5wghqo66	Taxe / subvention pigouvienne
 4d1wjjyzkc	Biens publics & communs
 1p2ao73m88a	Production & coûts
@@ -34,7 +34,7 @@ fqhwm74lqw	Monopole : MR = MC
 j0109mfp5l	Antisélection
 1tc0pkcvr1d	Contraintes IC / IR
 goxgmz987y	Théorie des jeux (Nash)
-2fsbgb3x3sy	Plateformes, enchères, Edgeworth
+15bseshbqf1	Plateformes & enchères
 1xe18u1eg1c	Offre, demande et équilibre
 1all1zr3gy	outil d’équilibre dans des questions de chaque sujet (ex. E2020 Q3a, E2021 Q2a, E2024 Q1d)
 1k2dvcs38y0	recompté §16
@@ -63,8 +63,9 @@ qfmsipc04y	information asymétrique
 18e9oj80c5j	Théorie des jeux
 1sbrmjfzilj	pas de comptage dans le dossier ; Assignment 3 seulement (Nash réutilisé en oligopole)
 1i2nkh8lkol	aucun comptage
-1b08fjyl413	Commerce, plateformes, enchères, Edgeworth
+2bj66hky1zu	Commerce international et échange
 87p48w2bxx	commerce international ou avantage comparatif
+221ayi4tp2a	Plateformes et enchères
 26fa5qml0n3	enchères explicites
 1388a1qqz8v	plateformes / effets de réseau
 1i1c3dduii5	Externalité positive
@@ -4937,37 +4938,36 @@ pq9rougodl	Résoudre chaque nœud du suiveur et énoncer les réponses hors chem
 25qwzfl0cmh	Une issue seule ne constitue pas une stratégie complète.
 24vi7f5k5d0	Vérifier les gains nets et la crédibilité au moment d’exécution.
 1vsez0ssnx5	Les coûts d’armes et les réactions effectives doivent être inclus.
-xb4abmwpjm	Compléments d’examen — commerce, plateformes, enchères et échange
-8je5n2uywq	Reconnaître les règles et vérifier leurs limites
-1igi49ng15c	Cours L13 (commerce international) et L14 (plateformes, enchères), reliés aux past exams 2020–2025. Reconstruis les décisions, les prix relatifs et les règles avant les calculs.
-x66mdyjy6	Toi, l’acheteur / pays North
-10bge1ykh3c	choisit une tâche, un achat ou un échange
-2gi063xujay	obtenir plus de valeur que l’alternative sacrifiée
-62i6shgmfg	Le vendeur / pays South
-24pqgl8ebos	produit ou propose un échange
-1mh7a4e6312	couvrir ses coûts et obtenir un gain
-5wi1cl3x7i	L’autre côté du marché
-688btgi24f	utilise une plateforme ou fait une offre
-1ly0ytal62e	trouver une interaction profitable
-8bchysbzsb	garde les totaux, règles et hypothèses visibles
-2gnpv4g5de4	distinguer gain agrégé, gain privé et efficacité
-1ekwhp96dfi	L’État / plateforme
-23gblpk7lqf	fixe tarif, accès ou règle d’enchère
-11hf8346rm7	comprendre les réponses qu’une règle provoque
-1ckgu10q804	Quatre contextes d’examen, une même discipline de raisonnement
-22rj79nwyvs	Tu peux tomber sur du commerce, une plateforme, une enchère ou un échange de snacks. Ces sujets figurent dans les past exams et sont traités dans les cours L13 (commerce international) et L14 (plateformes et enchères). On relie chaque outil du cours aux questions d’examen où il est apparu.
-a6o3v74jld	L13 (Friberg 17.1–17.3) : avantage comparatif, facteurs spécifiques, politique commerciale. L14 (Friberg 18.1–18.3) : plateformes et enchères. Edgeworth vient du dossier §14.6. Liens d’examen : commerce E2020, E2021, E2022, E2024, E2025 ; enchères E2023, E2025 ; plateformes E2022, E2025.
-156ls6aa5i4	Le nom du sujet ne suffit pas : une enchère au premier prix ne se résout pas comme une enchère au second prix.
-2fbtb555gff	Une question qualitative peut exiger un mécanisme précis sans fournir assez de données pour un chiffre unique.
-15bpgmsreqa	« Un choc météo affecte tous les coûts » ne révèle pas à lui seul qui observe quel signal privé ; on ne peut pas conclure automatiquement à une winner’s curse.
-12eo4m2ib40	Tu lis l’énoncé comme un contrat : qui choisit, qui sait, quelle règle, quelles unités ? Ensuite seulement tu sélectionnes l’outil.
-12r9b5rcx7d	Selon le cours L14, sur quelle partie du cours l’examen met-il l’accent ?
-2adhteqk7jm	La seconde partie, après L6
-10gys4zfzcg	L14 : 4 questions (+ une question qui remplace le partiel), accent sur la fin du cours.
-o5jmmupvqh	Uniquement les chapitres 1 à 3
-2ev9ac2uj7o	Le cours indique l’inverse : l’accent porte sur la seconde moitié.
-29591704qpd	Seulement les définitions, sans figures
-892i8x4bdh	Le cours demande des figures et discussions claires et précises.
+1dxcftsy9j6	Commerce international — avantage comparatif, tarifs et échange
+2tkrwdai22	Comparer les sacrifices, puis suivre qui gagne
+1a3xywkm3mp	Cours L13, relié aux past exams 2020–2025 : coût d’opportunité, frontière de production, tarif, gagnants et perdants, boîte d’Edgeworth.
+hdnns40g3	Toi, consommateur / pays North
+228ure5m7rb	choisit quoi produire et quoi acheter
+jz1wj25g0q	obtenir plus que l’alternative sacrifiée
+244on3fjry2	Le producteur / pays South
+1axgk8psbv4	produit selon ses coûts
+162i81abe57	couvrir ses coûts et gagner à l’échange
+11vi4h49t6	Les propriétaires de facteurs
+apq8xmu7xw	terre, capital, travail
+2071qmse6t4	voir leur revenu monter avec le prix de leur secteur
+gp8q5e3jwt	garde totaux et unités visibles
+2d97ycrn9if	séparer gain agrégé et gains de chacun
+k8toltq1zi	fixe tarifs et règles commerciales
+1vidqmxp7b8	protéger un groupe sans perdre de vue le pays
+1yrxqvhhix1	Pourquoi deux pays gagnent à échanger — et qui y perd
+1j4e0yzzd5e	Le cours L13 pose trois questions : pourquoi les pays commercent-ils, est-ce bon, et pour qui ? Les past exams y reviennent presque chaque année : coût d’opportunité, frontière de production, tarif sur un petit pays, gagnants et perdants à l’intérieur du pays.
+1yd99828rlz	L13 (Friberg 17.1–17.3) : avantage comparatif (Ricardo), modèle d’équilibre général à facteurs spécifiques, politique commerciale. L’échange à deux (Edgeworth) vient du dossier §14.6. Liens d’examen : commerce E2020, E2021, E2022, E2024, E2025 ; Edgeworth E2021.
+1muk4nhs0kw	Ces trois résultats du cours tiennent aussi dans des modèles plus riches : ce sont eux qu’une réponse d’examen doit relier.
+1v4wl424syk	Un gain national n’est pas un gain pour chacun : c’est souvent la partie (c) ou (d) des questions.
+29f22357l2g	E2024 Q1 : coûts d’opportunité de Northland et Southland, frontière de production, puis un tarif de 100 et l’effet sur les propriétaires terriens.
+2by9gcz9vcm	Avant de calculer, demande-toi : qui sacrifie quoi, quel prix change, et qui en profite ?
+32c4amf1jc	Lequel n’est PAS l’un des trois résultats du cours L13 ?
+1e44z6w1yav	Le commerce profite à chaque habitant de chaque pays
+ta1jo3f1am	Le cours dit l’inverse : les gains sont inégalement répartis à l’intérieur des pays.
+1s2ql681ih	Les pays se spécialisent selon l’avantage comparatif
+5vhqrex2x0	C’est le deuxième résultat du cours.
+1s51mtsxw2d	Le commerce permet des gains de bien-être dans tous les pays
+jgzpdx5gqp	C’est le premier résultat du cours.
 uxfz6ejcdo	Être le meilleur dans tout ne dit pas à quoi consacrer ton temps
 ytfzl5ak1c	Esther produit une analyse de données en 1 heure et un texte en 2 heures. Abhijeet met 2 heures pour l’analyse et 6 pour le texte. Esther est plus rapide partout, mais un texte lui coûte seulement 2 analyses sacrifiées, contre 3 pour Abhijeet : c’est cette comparaison relative qui guide la spécialisation.
 1hvmsqk0uuq	Avantage absolu : moins d’inputs par unité. Avantage comparatif : coût d’opportunité plus faible. E2020 donne à Esther l’avantage comparatif en écriture et à Abhijeet en analyse.
@@ -5118,6 +5118,177 @@ ezwph7ndt	L’ajustement du travail change les revenus des facteurs spécifiques
 1uv6pmcz876	L’agrégation ne décrit pas la compensation effective des perdants.
 wpkicf9ytp	Oui, le salaire réel augmente forcément dans tous les biens
 ada8r6mgjk	Le salaire réel dépend du salaire nominal et du panier de prix.
+lvax2l9o2v	Deux personnes, les mêmes totaux, des goûts différents
+13fn87xpk3y	Christina et Sebastian ont chacun 10 drinks et 10 snacks. Christina valorise un drink comme un snack ; Sebastian valorise un snack comme deux drinks. Un échange peut donc déplacer les snacks vers celui qui les valorise relativement plus, sans produire le moindre bien supplémentaire.
+1905irt49n6	E2021 : U_C=D_C+S_C ; U_S=D_S+2 S_S. Boîte d’Edgeworth de dimensions 20 drinks×20 snacks, avec origines opposées et allocations complémentaires.
+14z0wq59123	Une allocation à Sebastian détermine automatiquement celle de Christina par les totaux fixes.
+2apq8qz7npt	Les gains viennent d’une meilleure correspondance entre biens et préférences, pas d’un accroissement du nombre de snacks.
+16qe24kg2ie	Au départ : U_C=10+10=20 ; U_S=10+2×10=30. En coordonnées Sebastian (D,S), Christina a (20−D, 20−S).
+lb0mgr5gds	Tu es Sebastian : tu serais prêt à donner jusqu’à 2 drinks pour un snack ; Christina n’exige qu’un drink pour sacrifier un snack à la marge.
+b79xfmli9k	Échange : les paniers de Sebastian, celui de Christina en complément
+14ecc98vq0x	Coordonnées Sebastian : D_S horizontal, S_S vertical, totaux 20/20. Christina reçoit (20−D_S, 20−S_S). Cette coupe de faisabilité ne remplace pas le dessin à deux origines : elle montre les deux niveaux d’utilité initiaux.
+2xgilm6hyd	D_S : drinks de Sebastian
+d1xrcm1cws	S_S : snacks de Sebastian
+2g35r0ati0n	Sebastian U=30 : S=15−D/2
+2gcrcvhvxx2	Au-dessus, Sebastian préfère à sa dotation initiale.
+288raxa1h6s	Christina U=20 : S=20−D
+v53q8uuhcm	En dessous, Christina préfère à sa dotation car elle conserve davantage des totaux.
+fzp4bj31zd	Bord efficace D_S=0
+6932gujk51	Plus aucun drink à transférer de Sebastian à Christina.
+22a98u4tmfk	Bord efficace S_S=20
+2eheswqm67r	Plus aucun snack à transférer de Christina à Sebastian.
+9qkrbzuvy6	Dotation : U_S=30, U_C=20
+21a6gf9clhr	Échange : U_S=31, U_C=21
+18s1nyjrtce	Efficace et mutuellement meilleur
+1e6j4c5p3jk	Sebastian possède 7 drinks sur un total 20. Combien Christina en possède-t-elle ?
+1m7ajwrgj8u	drinks
+16dq7li7ie2	20−7=13. Toute allocation doit respecter les totaux.
+cqnjuo3bk9	Les deux paniers sont complémentaires, pas identiques une fois qu’ils échangent.
+1umkxf1pmp4	Teste les deux utilités avant de déclarer un gain mutuel
+221oait5qxa	Sebastian donne 3 drinks à Christina et reçoit 2 snacks. Il finit avec 7 drinks et 12 snacks ; Christina avec 13 et 8. L’utilité de chacun augmente d’une unité : un prix de 1,5 drink par snack se situe entre leurs dispositions relatives à échanger.
+1m05gl9s4k2	Amélioration de Pareto : personne moins bien, au moins un strictement mieux. Ici U_S=31>30 et U_C=21>20.
+6n96avz59v	Sebastian valorise ses deux snacks de plus à 4 drinks, davantage que les 3 cédés.
+1n5rrng2up	Christina perd 2 snacks mais reçoit 3 drinks ; son utilité augmente également.
+f6yqh7hh8c	Dans les coordonnées Sebastian : ne pas perdre exige D+2 S≥30 et D+S≤20 ; au moins une inégalité stricte pour une amélioration réelle.
+23rbo23wmgz	Tu ne déclares pas un échange bon parce qu’un joueur gagne : contrôle aussi le panier laissé à l’autre.
+809c51sb00	Après l’échange, Sebastian a (7 D, 12 S) et U=D+2 S. Quelle utilité ?
+14vl01muww4	7+2×12=31, contre 30 au départ.
+2dqrnp4sewj	Christina a (13 D, 8 S) et U=D+S. Quelle utilité ?
+1mvrob1dbsr	13+8=21, contre 20 au départ.
+1xg6ccld7pu	Des MRS différents ne se rejoignent pas toujours par une tangence
+1lskq2e460w	Les goûts linéaires de Christina et Sebastian ne changent pas avec leur panier. Tant que Sebastian a encore des drinks et Christina des snacks, un petit échange au prix entre 1 et 2 peut améliorer les deux. L’efficacité arrive donc à une limite physique : Sebastian n’a plus de drinks ou possède tous les snacks.
+w0dv4l1zhr	Sous préférences lisses avec optimum intérieur, MRS_C=MRS_S. Avec substituts parfaits ici, MRS restent différentes : allocations efficaces aux bords D_S=0 ou S_S=20.
+1pj1udbqdor	La condition de tangence est une condition d’optimum intérieur, pas une équation universelle de toute allocation efficace.
+51v0bf87u0	L’échange utile s’arrête quand le bien à déplacer dans le sens favorable n’est plus disponible, pas lorsque les goûts deviennent identiques.
+1k9c158gvub	Depuis la dotation initiale sans rendre personne moins bien, le bord efficient accessible est D_S=0 et 15≤S_S≤20. À(0,17), U_S=34 et U_C=23 : les deux gagnent, et Sebastian ne peut plus céder de drinks.
+2bs2n9318uf	Tu cherches d’abord si un échange marginal bénéfique est encore faisable. Si un stock est épuisé, n’impose pas une égalité de MRS impossible.
+qtvbnost0a	Quelle allocation Sebastian est efficace et améliore les deux depuis (10,10) ?
+u4zii61e7q	U_S=34>30, U_C=23>20 ; plus aucun drink de Sebastian à transférer pour un gain mutuel.
+1a966a89cug	Les deux ont gagné, mais Sebastian a encore des drinks et Christina des snacks : d’autres gains sont possibles.
+1hniipbqvo9	C’est la dotation initiale ; leurs dispositions relatives diffèrent et un échange utile est faisable.
+2475gp2lbvg	L’avantage comparatif se lit sur les sacrifices relatifs, pas sur la productivité absolue.
+14lzbhg8x7d	Un prix relatif entre les deux sacrifices rend l’échange profitable aux deux.
+evjrpioujj	Un petit pays importateur prend le prix mondial comme donné.
+575itg8xp7	Le prix intérieur monte, l’offre locale augmente, la demande baisse, les importations reculent.
+nb7a31zydq	La recette reste dans le pays ; les deux triangles sont la perte nette ; certains groupes perdent même si le pays gagne.
+hq75lbrx69	Je compare le coût d’opportunité : North sacrifie 0,5 électronique par blé contre 2 pour South, donc un prix relatif entre les deux peut créer un gain mutuel, même si un pays est plus productif partout. Un tarif sur un petit pays importateur relève le prix intérieur : les producteurs locaux et l’État gagnent, les consommateurs perdent davantage, et les deux triangles forment la perte nette. Le gain agrégé du libre-échange ne dit pas que chaque propriétaire de facteur gagne.
+1p2yf1p4y1f	Calculer le coût d’opportunité de chaque pays
+1czxdzmv25n	Spécialiser chacun dans son bien le moins coûteux
+1ultewd5jw3	Lire le prix mondial et le régime d’importation
+vocdhxgl3x	Suivre la réaction au tarif
+1tg01lxyyaw	Séparer transferts, pertes sèches et gagnants/perdants
+17k774fpypt	Explique à un ami pourquoi deux pays gagnent à échanger même si l’un est meilleur partout, puis pourquoi un tarif fait perdre le pays dans son ensemble tout en aidant un groupe.
+gtklr0b7z9	Alternative sacrifiée
+254hfzs5ilu	L’avantage comparatif compare des coûts d’opportunité.
+1niq6m7lte	Prix mondial donné
+14pq1f7p5mm	Le petit pays prend le prix mondial ; le tarif s’y ajoute tant qu’il importe.
+1gt78lemaww	Compte de gains cohérent
+18fab2mlu5u	Recette tarifaire = transfert ; pertes sèches = production trop chère et consommation perdue.
+bqqo7yg4p6	Gagnants et perdants
+2dhnr9nk8ub	Les gains sont inégalement répartis : propriétaires de facteurs, consommateurs, producteurs.
+1yxnqgf6bk6	L’avantage absolu compare des inputs ; le comparatif compare des coûts d’opportunité.
+1f7tjn278kf	p_w+τ vaut tant que le pays importe. Au tarif prohibitif, le prix revient au niveau autarcique.
+4kt8kjfc58	Une amélioration est un progrès ; l’efficacité signifie qu’aucun progrès de Pareto supplémentaire n’est faisable.
+7fx0dsnd0t	Mini-examen pédagogique construit sur E2020–E2025 et §14. Les nombres de commerce et de tarif sont documentés/recalculés ; l’échange 3 drinks contre 2 snacks est construit. Fondé sur le cours L13 ; cette réponse n’est pas officielle.
+iz1rxughi5	Price 30+10=40; Q_D40,Q_S20,M20; revenue 10×20=200; DWL0,5×10×(10+10)=100.
+1y6i3jhefhz	Sebastian (7,12): 7+24 = 31; Christina (13,8): 13+8 = 21. Totals remain 20/20.
+1ggbyd9dd9u	Quel avantage repose sur le coût d’opportunité ?
+12owaw4ofqf	Comparatif
+nalaqh7qdv	Il compare les sacrifices relatifs entre productions.
+2gi4ns4riut	Absolu
+232lwtukd2j	L’absolu compare les inputs requis par unité.
+1w8q2a2za7d	Que signifie autarcie ?
+1k1rd5a74g4	Aucun commerce : chaque pays consomme ce qu’il produit
+1zx1zl3js3r	En autarcie, production = consommation dans chaque pays.
+bo2dy0tu5j	Le libre-échange sans tarif
+14wxbe5svxj	C’est l’inverse : l’autarcie exclut tout échange international.
+1eh0poo6zj5	Un tarif si élevé qu’il double les importations
+1aubik06q59	Un tarif prohibitif ramène au contraire à l’autarcie, sans importations.
+1com0xoid0u	Reconstruis le mécanisme d’un tarif petit pays importateur.
+15f5rl6dilf	Tarif renchérit les importations au prix mondial donné
+109gbf375au	Prix domestique monte tant que le pays reste importateur
+1wtrq8644r7	Offre locale augmente et demande locale baisse
+1z1ipztc0js	Importations baissent ; transferts et deux distorsions déterminent le welfare
+1b7ohirf8ak	Capitalia, riche en capital, s’ouvre au commerce. Que devient le prix relatif de la nourriture ?
+19xh6csdud	Il baisse
+10gcgn7opy1	L13 : Capitalia importe la nourriture ; son prix relatif baisse vers le prix mondial.
+absvmrj2dn	Il monte
+1g2tasmu0f3	C’est ce qui arrive en Agraria, qui exporte la nourriture.
+28841s5f2t5	Il ne change pas
+p0gfdqduv4	L’ouverture égalise les prix entre pays : le prix d’autarcie change.
+22fiztr1o4n	p_D = 80−Q, p_S = 20+Q, p_w = 30 et tarif 10 : importations après tarif ?
+1qf90a7vraf	Speedy met 1 h pour 1 L de myrtilles et 2 h pour 1 L de framboises. Coût d’opportunité d’1 L de framboises, en litres de myrtilles ?
+1zsw7wvgtig	2 h ÷ 1 h par litre = 2 L de myrtilles sacrifiés.
+23y5xzi0q4i	En Capitalia, après l’ouverture au commerce, qui perd ?
+1do28z6m5o7	Les propriétaires de terres agricoles
+22of1dzp0xr	p_F baisse et chaque hectare est combiné à moins de travail : r_J = MPJ_F × p_F baisse.
+1sipg47qqw5	Les propriétaires de capital
+1d5n2wf8h21	Ils gagnent : p_S et MPK_S montent.
+1n8159msmj3	Personne, puisque le pays gagne
+nvwd60wq6e	Le gain agrégé laisse des perdants à l’intérieur du pays.
+12aqm9qwlu	Sebastian valorise un snack comme 2 drinks ; Christina comme 1 drink. Ils ont tous deux des biens à échanger. Quel prix strictement intermédiaire peut améliorer les deux ?
+ho2ahaobty	1,5 drink par snack
+1iykgng54fw	Sebastian donne moins que sa valeur 2 ; Christina reçoit plus que sa valeur 1.
+2b19iu83ts6	3 drinks par snack
+27qmbbgrsgo	Sebastian sacrifierait 3 pour une valeur de 2.
+189xv7j0zq3	0,5 drink par snack
+1r5wwz77o0x	Christina recevrait moins que la valeur 1 du snack cédé.
+3vu2dcz1g	At least one gains, no one loses
+zilga5s04g	Revenue remains domestic
+5t37jrrcn7	Production distortion
+cpdy3tl7dh	Consumption distortion
+1bigflt2eow	Calculer les coûts d’opportunité avec leurs unités et séparer production/consommation.
+1jzqgpr5ykn	La productivité absolue ne choisit pas l’avantage comparatif.
+1tlxpd0wqc5	Calculer importations et recettes après réaction au tarif, puis vérifier le régime.
+1du5gt2oybw	Le tarif peut devenir prohibitif et les importations ne sont pas négatives.
+1yj1ri8edi1	Distinguer transferts nationaux, pertes sèches et effets distributifs.
+1h5hq1afyrg	Un gain total ne prouve pas que tous les groupes gagnent.
+1wmgpv7e0ah	Vérifier les deux utilités et les bords dans un échange à substituts parfaits.
+2apvz2nsmqq	Une amélioration de Pareto peut rester inefficace et une tangence intérieure peut ne pas exister.
+5lu3s4465r	Plateformes et enchères — marchés numériques
+1e8bppd2rsf	Lire la règle : qui paie quoi, qui voit quoi
+1vaf87qhtje	Cours L14, relié aux past exams 2022, 2023 et 2025 : effets de réseau, prix des plateformes, concentration, formats d’enchères et winner’s curse.
+s2ioeh55e3	Toi, utilisateur / enchérisseur
+urd14tbxcd	rejoins une plateforme ou fais une offre
+21atxmkqefd	obtenir plus de valeur que ce que tu paies
+1gvnl1w9rjb	propose ses biens ou son objet
+29ucta7j9dw	attirer des acheteurs et un bon prix
+5wi1cl3x7i	L’autre côté du marché
+13jcezy74ah	utilise la même plateforme
+1ly0ytal62e	trouver une interaction profitable
+25ag9zv9h7h	garde règles et information visibles
+1i254g1knis	distinguer règle de paiement, valeur et efficacité
+1cvcc4gq3dc	La plateforme / le vendeur
+1o78nplw5s0	fixe frais, accès ou règle d’enchère
+16ghkm8kl22	maximiser profit ou recette
+1dpxguw2ykf	Plateformes et enchères : deux marchés où la règle fait le résultat
+mc0dji32sb	Les plus grandes entreprises du monde sont souvent des plateformes, et beaucoup de choses se vendent aux enchères, des espaces publicitaires aux appartements suédois. Dans les deux cas, la réponse dépend d’une règle : qui paie quoi, et qui voit quoi.
+so8vrd7l49	L14 (Friberg 18.1–18.3) : plateformes (marchés bifaces), fixation des prix, concentration ; enchères (formats, valeurs privées ou communes, équivalence des revenus). Liens d’examen : plateformes E2022, E2025 ; enchères E2023, E2025.
+156ls6aa5i4	Le nom du sujet ne suffit pas : une enchère au premier prix ne se résout pas comme une enchère au second prix.
+2fbtb555gff	Une question qualitative peut exiger un mécanisme précis sans fournir assez de données pour un chiffre unique.
+15bpgmsreqa	« Un choc météo affecte tous les coûts » ne révèle pas à lui seul qui observe quel signal privé ; on ne peut pas conclure automatiquement à une winner’s curse.
+12eo4m2ib40	Tu lis l’énoncé comme un contrat : qui choisit, qui sait, quelle règle, quelles unités ? Ensuite seulement tu sélectionnes l’outil.
+12r9b5rcx7d	Selon le cours L14, sur quelle partie du cours l’examen met-il l’accent ?
+2adhteqk7jm	La seconde partie, après L6
+10gys4zfzcg	L14 : 4 questions (+ une question qui remplace le partiel), accent sur la fin du cours.
+o5jmmupvqh	Uniquement les chapitres 1 à 3
+2ev9ac2uj7o	Le cours indique l’inverse : l’accent porte sur la seconde moitié.
+29591704qpd	Seulement les définitions, sans figures
+892i8x4bdh	Le cours demande des figures et discussions claires et précises.
+c51p2sp9bq	Une plateforme : deux groupes qui se rencontrent par un intermédiaire
+2c21pp6ty9r	Une bourse, une appli de rencontre, un journal gratuit financé par la publicité, une carte bancaire, un système d’exploitation : chaque fois, deux groupes se servent du même intermédiaire, et ce que fait un groupe change la valeur pour l’autre.
+1gqsgczqfab	L14 : une plateforme (marché biface ou multiface) réunit 1) deux ensembles d’agents qui interagissent par un intermédiaire et 2) des décisions d’un côté qui affectent l’autre. Types : échanges, mise en relation, médias financés par la publicité, systèmes de transaction, plateformes logicielles.
+1y62gz1h932	Sans le second critère, un simple revendeur serait une plateforme : ce sont les effets croisés qui changent la fixation des prix.
+2g3gz1hlsrw	La conception de la plateforme sert à favoriser les effets positifs (avis, partage) et limiter les négatifs (aléa moral, antisélection, trolls, congestion).
+bbh91eqosj	E2025 Q2(d) demande ce qu’est une plateforme et ce dont elle a besoin : les deux côtés à bord, puis des règles qui facilitent la recherche et la mise en relation.
+1ph4xhnpgk9	Devant un exemple, nomme les deux côtés et dis comment l’un rend la plateforme plus utile à l’autre.
+mg159waxrx	Lequel est une plateforme au sens du cours ?
+1zg9n6d5rgb	Un réseau de cartes bancaires qui relie commerçants et porteurs
+27d3ookf2rl	Deux groupes interagissent par l’intermédiaire et chacun valorise la présence de l’autre.
+152smcpoyzq	Une boulangerie qui vend son pain
+4dvgil5et7	Un seul groupe de clients ; aucun effet croisé entre deux côtés.
+23cleiehi4g	Une usine qui fournit un seul acheteur
+1w4en62eeq4	Une relation bilatérale simple, sans second groupe d’utilisateurs.
 aquuyapeum	La valeur d’une plateforme vient aussi de qui s’y trouve
 m7keekapo7	Tu veux louer du matériel sportif. Une application vide t’aide peu ; elle devient utile si beaucoup de propriétaires y proposent du matériel pertinent. Ces propriétaires, eux, ont davantage intérêt à venir s’il y a déjà des locataires : chaque côté influence la valeur de l’autre.
 19o65l35h6	Effet de réseau indirect/croisé : plus de participants d’un côté attire l’autre. Effet direct : utilisateurs du même côté qui augmentent la valeur entre eux, comme dans un jeu multijoueur.
@@ -5269,106 +5440,53 @@ tp0a49uz7m	Un gagnant sélectionné sur une estimation extrême doit réévaluer
 178gwbmim18	C’est le piège de E2025 : il faut expliquer l’information supplémentaire révélée par gagner.
 sj35okbcu3	Non, parce que les enchères ne comportent jamais de risque
 1pld902d6s5	Le risque est bien possible ; c’est le mécanisme informationnel qui reste à démontrer.
-lvax2l9o2v	Deux personnes, les mêmes totaux, des goûts différents
-13fn87xpk3y	Christina et Sebastian ont chacun 10 drinks et 10 snacks. Christina valorise un drink comme un snack ; Sebastian valorise un snack comme deux drinks. Un échange peut donc déplacer les snacks vers celui qui les valorise relativement plus, sans produire le moindre bien supplémentaire.
-1905irt49n6	E2021 : U_C=D_C+S_C ; U_S=D_S+2 S_S. Boîte d’Edgeworth de dimensions 20 drinks×20 snacks, avec origines opposées et allocations complémentaires.
-14z0wq59123	Une allocation à Sebastian détermine automatiquement celle de Christina par les totaux fixes.
-2apq8qz7npt	Les gains viennent d’une meilleure correspondance entre biens et préférences, pas d’un accroissement du nombre de snacks.
-16qe24kg2ie	Au départ : U_C=10+10=20 ; U_S=10+2×10=30. En coordonnées Sebastian (D,S), Christina a (20−D, 20−S).
-lb0mgr5gds	Tu es Sebastian : tu serais prêt à donner jusqu’à 2 drinks pour un snack ; Christina n’exige qu’un drink pour sacrifier un snack à la marge.
-b79xfmli9k	Échange : les paniers de Sebastian, celui de Christina en complément
-14ecc98vq0x	Coordonnées Sebastian : D_S horizontal, S_S vertical, totaux 20/20. Christina reçoit (20−D_S, 20−S_S). Cette coupe de faisabilité ne remplace pas le dessin à deux origines : elle montre les deux niveaux d’utilité initiaux.
-2xgilm6hyd	D_S : drinks de Sebastian
-d1xrcm1cws	S_S : snacks de Sebastian
-2g35r0ati0n	Sebastian U=30 : S=15−D/2
-2gcrcvhvxx2	Au-dessus, Sebastian préfère à sa dotation initiale.
-288raxa1h6s	Christina U=20 : S=20−D
-v53q8uuhcm	En dessous, Christina préfère à sa dotation car elle conserve davantage des totaux.
-fzp4bj31zd	Bord efficace D_S=0
-6932gujk51	Plus aucun drink à transférer de Sebastian à Christina.
-22a98u4tmfk	Bord efficace S_S=20
-2eheswqm67r	Plus aucun snack à transférer de Christina à Sebastian.
-9qkrbzuvy6	Dotation : U_S=30, U_C=20
-21a6gf9clhr	Échange : U_S=31, U_C=21
-18s1nyjrtce	Efficace et mutuellement meilleur
-1e6j4c5p3jk	Sebastian possède 7 drinks sur un total 20. Combien Christina en possède-t-elle ?
-1m7ajwrgj8u	drinks
-16dq7li7ie2	20−7=13. Toute allocation doit respecter les totaux.
-cqnjuo3bk9	Les deux paniers sont complémentaires, pas identiques une fois qu’ils échangent.
-1umkxf1pmp4	Teste les deux utilités avant de déclarer un gain mutuel
-221oait5qxa	Sebastian donne 3 drinks à Christina et reçoit 2 snacks. Il finit avec 7 drinks et 12 snacks ; Christina avec 13 et 8. L’utilité de chacun augmente d’une unité : un prix de 1,5 drink par snack se situe entre leurs dispositions relatives à échanger.
-1m05gl9s4k2	Amélioration de Pareto : personne moins bien, au moins un strictement mieux. Ici U_S=31>30 et U_C=21>20.
-6n96avz59v	Sebastian valorise ses deux snacks de plus à 4 drinks, davantage que les 3 cédés.
-1n5rrng2up	Christina perd 2 snacks mais reçoit 3 drinks ; son utilité augmente également.
-f6yqh7hh8c	Dans les coordonnées Sebastian : ne pas perdre exige D+2 S≥30 et D+S≤20 ; au moins une inégalité stricte pour une amélioration réelle.
-23rbo23wmgz	Tu ne déclares pas un échange bon parce qu’un joueur gagne : contrôle aussi le panier laissé à l’autre.
-809c51sb00	Après l’échange, Sebastian a (7 D, 12 S) et U=D+2 S. Quelle utilité ?
-14vl01muww4	7+2×12=31, contre 30 au départ.
-2dqrnp4sewj	Christina a (13 D, 8 S) et U=D+S. Quelle utilité ?
-1mvrob1dbsr	13+8=21, contre 20 au départ.
-1xg6ccld7pu	Des MRS différents ne se rejoignent pas toujours par une tangence
-1lskq2e460w	Les goûts linéaires de Christina et Sebastian ne changent pas avec leur panier. Tant que Sebastian a encore des drinks et Christina des snacks, un petit échange au prix entre 1 et 2 peut améliorer les deux. L’efficacité arrive donc à une limite physique : Sebastian n’a plus de drinks ou possède tous les snacks.
-w0dv4l1zhr	Sous préférences lisses avec optimum intérieur, MRS_C=MRS_S. Avec substituts parfaits ici, MRS restent différentes : allocations efficaces aux bords D_S=0 ou S_S=20.
-1pj1udbqdor	La condition de tangence est une condition d’optimum intérieur, pas une équation universelle de toute allocation efficace.
-51v0bf87u0	L’échange utile s’arrête quand le bien à déplacer dans le sens favorable n’est plus disponible, pas lorsque les goûts deviennent identiques.
-1k9c158gvub	Depuis la dotation initiale sans rendre personne moins bien, le bord efficient accessible est D_S=0 et 15≤S_S≤20. À(0,17), U_S=34 et U_C=23 : les deux gagnent, et Sebastian ne peut plus céder de drinks.
-2bs2n9318uf	Tu cherches d’abord si un échange marginal bénéfique est encore faisable. Si un stock est épuisé, n’impose pas une égalité de MRS impossible.
-qtvbnost0a	Quelle allocation Sebastian est efficace et améliore les deux depuis (10,10) ?
-u4zii61e7q	U_S=34>30, U_C=23>20 ; plus aucun drink de Sebastian à transférer pour un gain mutuel.
-1a966a89cug	Les deux ont gagné, mais Sebastian a encore des drinks et Christina des snacks : d’autres gains sont possibles.
-1hniipbqvo9	C’est la dotation initiale ; leurs dispositions relatives diffèrent et un échange utile est faisable.
-cqren79zcu	Un gain ne se juge pas sans coût d’opportunité ou option pertinente.
-1cxuhv6bmv7	Prix mondial donné, second prix ou signaux privés impliquent des modèles différents.
-17l1oo9plkv	Tarif, participation et offres modifient les choix privés, pas seulement une ligne de formule.
-nztcdmrj87	Recette tarifaire, surplus et gains à l’échange ne sont pas les mêmes grandeurs.
-2c53obsvu6v	Un pays peut cesser d’importer ; un gain mutuel peut rester inefficace ; un gain total peut laisser des perdants.
-ncu9gigwhi	En commerce, je compare le coût d’opportunité : North sacrifie 0,5 électronique par blé contre 2 pour South, donc un prix relatif entre les deux peut créer un gain mutuel. Le gain agrégé ne dit pas que chaque facteur spécifique gagne. Dans une enchère au second prix à valeurs privées, mon offre décide si je gagne mais le meilleur rival fixe le paiement ; offrir ma valeur est faiblement dominant. Cette preuve ne vaut pas automatiquement au premier prix ou avec valeur commune. Enfin, un échange de snacks peut améliorer les deux utilités sans être encore efficace si un autre échange mutuellement profitable reste faisable.
-o2ekmhaz7z	Identifier l’acteur et l’alternative sacrifiée
+8fmnnvlwbe	La valeur dépend de qui est présent et de ce que chacun valorise.
+2go7ib8ty2i	Premier ou second prix, valeurs privées ou communes, frais de chaque côté impliquent des modèles différents.
+1t676h5yp5e	Participation, offres et frais modifient les choix privés.
+wrwbpjzm99	Le paiement au second prix, le surplus et les frais ne sont pas les mêmes grandeurs.
+fbrpwnbo8f	Multi-homing, congestion, premier prix ou valeur commune changent le résultat.
+z5n5d3i7dw	Une plateforme fait payer peu, voire subventionne, le côté dont la demande est élastique et qui crée beaucoup de valeur pour l’autre : son coût effectif est c_b moins la valeur qu’il apporte aux vendeurs. Dans une enchère au second prix à valeurs privées, mon offre décide si je gagne mais le meilleur rival fixe le paiement ; offrir ma valeur est faiblement dominant. Au premier prix, mon offre est mon paiement : j’offre sous ma valeur. Avec une valeur commune, gagner signale que j’étais le plus optimiste, d’où la winner’s curse.
+rjtr73t490	Identifier les côtés ou les enchérisseurs
 1qvk61i1q6y	Lire la règle et l’information disponibles
 zcopglens2	Déduire les réponses des autres participants
-15fgh4f6juc	Calculer avec les bonnes unités et quantités après réaction
-1escmdqwpos	Vérifier domaine et conclusion
-c4fh4sct5	Choisis deux contextes parmi commerce, plateforme, enchère et échange. Pour chacun, explique la décision privée, ce que font les autres et la limite de la règle utilisée. Termine par un exemple où gagner ne signifie pas « tout le monde gagne » ou « déjà efficace ». 
-gtklr0b7z9	Alternative sacrifiée
-24n86lx7nw9	Avantage comparatif ou échange : la comparaison est relative, pas seulement une grandeur absolue.
+1gydz411mg0	Calculer paiement, surplus ou structure de prix
+1dxdsn2v9o9	Vérifier la limite de la conclusion
+2gfy79zgy71	Explique pourquoi une plateforme peut faire payer un côté moins que son coût, puis pourquoi offrir sa vraie valeur est une bonne stratégie dans une enchère Vickrey mais pas dans toute enchère.
 1qoe326axsg	Règle explicite
-1qth4kj8l9a	Nommer le prix mondial donné, la règle de paiement ou la contrainte de totaux.
+xq2mjo2lyo	Nommer la règle de paiement ou la structure de frais.
 j8283h8qen	Réactions et interdépendance
 18wtkdjkpx5	La valeur ou le résultat dépend de la réponse d’autres participants.
-1gt78lemaww	Compte de gains cohérent
-1fbl59303e1	Ne pas confondre recette, profit, transfert et gain réel.
+l7ok0qh3p	Ne pas confondre paiement, valeur, surplus et profit.
 520hbshr13	Une limite du modèle
-b6nv9qvzs4	Prohibitif, premier prix, signaux absents, bord ou gains distributifs.
-1yxnqgf6bk6	L’avantage absolu compare des inputs ; le comparatif compare des coûts d’opportunité.
-1f7tjn278kf	p_w+τ vaut tant que le pays importe. Au tarif prohibitif, le prix revient au niveau autarcique.
+104r4ivb116	Premier prix, valeur commune, multi-homing ou congestion.
 1bg5tuzqrrc	La preuve de sincérité dépend de la règle au second prix et des valeurs privées du modèle.
-4kt8kjfc58	Une amélioration est un progrès ; l’efficacité signifie qu’aucun progrès de Pareto supplémentaire n’est faisable.
-2dt5jgbuecl	Mini-examen pédagogique construit sur E2020–E2025 et §14. Les nombres de commerce, tarif et enchères sont documentés/recalculés ; l’échange 3 drinks contre 2 snacks est construit. Fondé sur les cours L13–L14 ; cette réponse n’est pas officielle.
-iz1rxughi5	Price 30+10=40; Q_D40,Q_S20,M20; revenue 10×20=200; DWL0,5×10×(10+10)=100.
-1y6i3jhefhz	Sebastian (7,12): 7+24 = 31; Christina (13,8): 13+8 = 21. Totals remain 20/20.
-1ggbyd9dd9u	Quel avantage repose sur le coût d’opportunité ?
-12owaw4ofqf	Comparatif
-nalaqh7qdv	Il compare les sacrifices relatifs entre productions.
-2gi4ns4riut	Absolu
-232lwtukd2j	L’absolu compare les inputs requis par unité.
+4pkwnp2edq	Mini-examen pédagogique construit sur E2022, E2023, E2025 et §14. Les nombres d’enchères sont documentés/recalculés. Fondé sur le cours L14 ; cette réponse n’est pas officielle.
 9adc3z7ro7	Que signifie multi-homing ?
 j2d9p01e98	Utiliser plusieurs plateformes
 1wkdc9jpnw4	Cela peut faciliter l’accès d’un entrant à des utilisateurs déjà présents ailleurs.
 gdl8ckqpao	Un réseau forcément monopolistique
 yxzu9lnutg	La possibilité d’utiliser plusieurs plateformes peut justement limiter certaines barrières.
-1com0xoid0u	Reconstruis le mécanisme d’un tarif petit pays importateur.
-15f5rl6dilf	Tarif renchérit les importations au prix mondial donné
-109gbf375au	Prix domestique monte tant que le pays reste importateur
-1wtrq8644r7	Offre locale augmente et demande locale baisse
-1z1ipztc0js	Importations baissent ; transferts et deux distorsions déterminent le welfare
+mdsayj024m	Une enchère statique au second prix s’appelle :
+mdlxyp2ij6	Enveloppe scellée, le gagnant paie la deuxième offre.
+y1kmi8uat8	Une enchère hollandaise
+jppz5ilk89	La hollandaise est dynamique et au premier prix.
+161ufqji4pa	L’anglaise est dynamique (ascendante).
+h5r401b1vt	Pourquoi une plateforme peut-elle rendre un côté gratuit ?
+263fn4a1iby	Ce côté attire l’autre, qui paie davantage pour le rejoindre
+26yzk99ilqk	Le côté subventionné crée de la valeur que la plateforme récupère de l’autre côté.
+2cgg35j2c8b	Parce que ce côté ne coûte rien à servir
+1ulan09s2fb	Le prix peut être sous le coût : c’est l’effet croisé qui le justifie.
+811j6lk2xd	Parce que la loi interdit de faire payer les deux côtés
+2elp943ce62	Rien de tel : c’est un choix de profit.
 1sle5ruwcww	Reconstruis la vente au second prix à valeurs privées.
 e8ilqzxbf6	Identifier ma valeur privée et la règle de paiement
 olujxda421	Comparer cette valeur au meilleur prix rival possible
 yyl6jc4i9o	Gagner si ce prix ne dépasse pas ma valeur, perdre sinon
 82q0w6k0rb	Comprendre pourquoi offrir ma valeur réalise ce choix sans fixer mon paiement
-22fiztr1o4n	p_D = 80−Q, p_S = 20+Q, p_w = 30 et tarif 10 : importations après tarif ?
 lbjlri9b0q	Offres sincères de valeurs privées 50,70,65 au second prix : surplus du gagnant ?
 95vm92pizk	Le joueur à 70 paie 65 ; surplus 70−65=5.
+2a2gf6tz9sg	Enchère anglaise, prix de réserve 30, valeurs 40, 70 et 55. À quel prix environ le gagnant achète-t-il ?
+1xsqj3qh472	Le joueur à 55 abandonne à 55 ; le joueur à 70 gagne à environ 55.
 eh5jq3f7y8	Une nouvelle plateforme veut attirer des artistes avant le public. Quel mécanisme doit-elle expliquer ?
 i8qzdrdhja	Comment la présence d’artistes augmente la valeur pour le public puis attire l’autre côté
 c7ht8uvt46	C’est le lien croisé qui rend une aide initiale plausible.
@@ -5376,29 +5494,18 @@ v6bkftjngf	Pourquoi tous les marchés numériques sont des monopoles naturels
 fy39sm8u3t	La concentration n’est pas prouvée par le seul caractère numérique.
 1srfqqa8dt	Pourquoi le coût mondial du blé augmente
 1qaooihh5x9	Cette relation appartient à un autre modèle et ne répond pas à la participation.
-12aqm9qwlu	Sebastian valorise un snack comme 2 drinks ; Christina comme 1 drink. Ils ont tous deux des biens à échanger. Quel prix strictement intermédiaire peut améliorer les deux ?
-ho2ahaobty	1,5 drink par snack
-1iykgng54fw	Sebastian donne moins que sa valeur 2 ; Christina reçoit plus que sa valeur 1.
-2b19iu83ts6	3 drinks par snack
-27qmbbgrsgo	Sebastian sacrifierait 3 pour une valeur de 2.
-189xv7j0zq3	0,5 drink par snack
-1r5wwz77o0x	Christina recevrait moins que la valeur 1 du snack cédé.
-3vu2dcz1g	At least one gains, no one loses
-zilga5s04g	Revenue remains domestic
-5t37jrrcn7	Production distortion
-cpdy3tl7dh	Consumption distortion
-1bigflt2eow	Calculer les coûts d’opportunité avec leurs unités et séparer production/consommation.
-1jzqgpr5ykn	La productivité absolue ne choisit pas l’avantage comparatif.
-1tlxpd0wqc5	Calculer importations et recettes après réaction au tarif, puis vérifier le régime.
-1du5gt2oybw	Le tarif peut devenir prohibitif et les importations ne sont pas négatives.
-1yj1ri8edi1	Distinguer transferts nationaux, pertes sèches et effets distributifs.
-1h5hq1afyrg	Un gain total ne prouve pas que tous les groupes gagnent.
+2gfzwgs01cv	Des compagnies enchérissent pour un droit de forage dont la quantité de pétrole est inconnue de tous. Quel risque ?
+14yz73e8ik4	La winner’s curse : le gagnant est celui qui a le plus surestimé
+1hmvvs6ixzl	Valeur commune : gagner révèle que ton estimation était la plus optimiste.
+1vk65o548zh	Aucun risque, chacun connaît sa valeur privée
+1ejrmcd9t8g	Ici la valeur est commune et incertaine, pas privée.
+1syd2i6ojz9	Ce problème concerne le démarrage d’une plateforme, pas une enchère.
 2464y38czjr	Expliquer les deux côtés d’un effet de réseau sans conclure automatiquement au monopole.
-1i9kzhez6ir	Multi-homing, confiance et règles modifient l’entrée et la valeur.
+177tdggg16k	Multi-homing, congestion et règles modifient l’entrée et la valeur.
+nwxkgkdeoz	Relier la structure de prix d’une plateforme à l’élasticité et à l’effet croisé.
+19tm6valh8e	Le côté élastique qui attire l’autre paie moins.
 23f0qszgzjj	Lire la règle de paiement et l’information avant de calculer une enchère.
 1xzxn7pchpd	Second prix, premier prix, achat inversé et valeurs communes ne partagent pas une règle universelle.
-1wmgpv7e0ah	Vérifier les deux utilités et les bords dans un échange à substituts parfaits.
-2apvz2nsmqq	Une amélioration de Pareto peut rester inefficace et une tangence intérieure peut ne pas exister.
 12sywxgmyuv	Sujet 2020, Q1 — données et consignes du PDF « past exams/2020.pdf », reformulées ; corrigé : recalculs du dossier (§16), pas un barème officiel.
 1s0ri0jazii	(a) Situation : l’acheteur ne sait pas si un petit site livrera ou remboursera → information asymétrique. Aux États-Unis, la réputation d’Amazon la résout ; en Suède, Klarna la résout déjà → l’avantage d’Amazon vaut moins.
 16yxilfhqi8	(b) Le vendeur voudrait un prix par pays (discrimination du 3e degré). Un prix commun est un compromis : plus cher pour la Thaïlande (marché peut-être perdu), moins cher pour la Suède. Effet total ambigu.
@@ -6405,6 +6512,11 @@ eqgwk0dvgj	Masquer les meilleures réponses
 1qkahgvfpm9	{p} ne peut pas gagner davantage en changeant seul de colonne
 24ty84y0h5c	{p} peut gagner davantage en changeant seul de colonne
 1mstgjj9vl8	Source :
+276nx16x5b8	Chercher une notion
+dkusytolps	Chercher une notion (DWL, autarcie…)
+2460rjx3b0l	bloc {n}
+zw1vqvd9ah	après les blocs précédents
+1pdzx4uecuc	Aucune leçon ne parle de « {q} ».
 tmursoojnt	Compréhension en langue natale
 msr68s4wgi	Tout dans ta langue : explications, questions et graphiques.
 1exzz2jjtmm	Compréhension anglais
@@ -6733,7 +6845,7 @@ xvdrx6rqm8	La microéconomie, un mécanisme à la fois.
 1omrebka6kq	Continuer la leçon
 1mtg48z8kty	Commencer la leçon
 o4hlmhimqa	Ensuite
-2b97ok9svzy	Voir les 13 thèmes et leurs leçons guidées
+1v30oxgzsp	Voir tous les thèmes et leurs leçons guidées
 kyfaalzxft	Comment ce labo fonctionne
 fgmkaofos3	**Situation → acteurs → incitations → conséquence → nom → sigle → formule → graphique → examen.** Toujours dans cet ordre.
 tmnv5k8ep2	Chaque sigle est cliquable : nom anglais, traduction, sens littéral, qui est concerné, unités.

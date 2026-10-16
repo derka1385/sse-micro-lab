@@ -53,11 +53,12 @@ export function Learn() {
   );
 }
 
-export function LessonView({ id }: { id: string }) {
+/** at: 1-based block opened from a search link, for review; saved progress is unchanged. */
+export function LessonView({ id, at }: { id: string; at?: number }) {
   const lesson = LESSONS[id];
   const p = useProgress();
   const ls = lessonState(p, id);
-  const [idx, setIdx] = useState(() => (lesson ? Math.min(ls.block, lesson.blocks.length - 1) : 0));
+  const [idx, setIdx] = useState(() => (lesson ? Math.min(at ? at - 1 : ls.block, lesson.blocks.length - 1) : 0));
   if (!lesson) return <div className="page"><p>{t('Leçon introuvable.')} <a href="#/learn">{t('Retour')}</a></p></div>;
   const go = (i: number) => {
     setIdx(i);

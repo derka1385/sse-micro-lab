@@ -156,7 +156,7 @@ export function Home() {
             </li>
           ))}
         </ol>
-        <p className="small"><a href="#/learn">{t('Voir les 13 thèmes et leurs leçons guidées')}</a></p>
+        <p className="small"><a href="#/learn">{t('Voir tous les thèmes et leurs leçons guidées')}</a></p>
       </section>
 
       <section className="card subtle">

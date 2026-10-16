@@ -1,3 +1,151 @@
+1xegkqevmy4	Jusqu’à MAC = t ; l’optimum est MAC = MEC (§11.4).
+182o6s3ak4c	Quota ou taxe sous incertitude ?
+1v0fzd52791	Dommages marginaux raides ⇒ le quota protège mieux la quantité ; MAC raides et dommages plats ⇒ la taxe évite un coût excessif (§11.5).
+1an8ah58500	Define (EN): positive externality
+2b3vcqjsqjt	Define (EN): deadweight loss
+u7pgp50xd3	Define (EN): Pigouvian tax
+18vw5tuxy5j	Prendre MSB pour l’argent de l’État
+n597r4ppgo	une VALEUR : ce que vaut l’unité suivante pour tous (MPB + MEB)
+1q0f1jl1986	Subvention
+18ckbvimh0p	un FLUX D’ARGENT de l’État, éventuellement égal à MEB(Q*) par unité
+10cfujobkmb	MSB existe même si l’État ne fait rien. La subvention est un outil pour que l’acheteur décide « comme si » il voyait MSB.
+9szfo8aifi	Si l’État n’intervient pas du tout, la courbe MSB existe-t-elle ?
+u78jyhq9ml	Oui : c’est la valeur sociale de chaque unité
+242bddegmbx	Non : sans dépense publique, pas de MSB
+2aeii4gnj3b	MSB mesure une valeur, pas une dépense.
+21v5hwfgqqk	Confondre MEB et MEC (bénéfice / coût externe)
+cz6kv24ia5	bénéfice pour les tiers ⇒ côté BÉNÉFICE : MSB = MPB + MEB, au-dessus de la demande
+gwaybfs4r9	dommage pour les tiers ⇒ côté COÛT : MSC = MPC + MEC, au-dessus de l’offre
+c8lnc54bat	Demande-toi d’abord : les tiers gagnent-ils ou perdent-ils ? Gain ⇒ on ajoute au bénéfice ; perte ⇒ on ajoute au coût.
+1z861if2pua	Une centrale à charbon enfume les riverains. Quelle courbe s’écarte de sa version privée ?
+2df6pzq7zez	MSC au-dessus de MPC
+1sm3bmjzn3j	MSB au-dessus de MPB
+1w9r2wzqcwr	Les riverains perdent : c’est un coût externe.
+25y3kbjfpkq	MSB sous MPB
+2454k5dfckh	Le dommage est lié à la production : on l’ajoute au coût.
+22jxojeifwl	Confondre équilibre de marché et optimum social
+6c0jm7h4ja	MPB = MPC : ce que font les incitations privées
+q13laz9jog	MSB = MSC : ce qui maximise le bien-être de tous
+1nnwj0ic265	Les deux coïncident seulement si la demande mesure MSB et l’offre MSC (§7.1). Externalité, monopole ou information asymétrique les séparent.
+skcehrdllj	Avec une externalité, le marché concurrentiel maximise-t-il le bien-être ?
+hnn8coprdd	Non : il égalise MPB et MPC, pas MSB et MSC
+1o4adw7na3	Oui, toujours
+1aopxsagzlm	Le premier théorème suppose qu’il n’y a pas d’externalité.
+1ukqerzl4cu	Oui s’il y a beaucoup de firmes
+1n0oclqnqe1	Le nombre de firmes ne fait pas entrer les tiers dans les prix.
+298a3qhljtq	Lire Q* automatiquement comme l’équilibre de marché
+1bp373jlcaq	Q* (ici)
+1k4ajfv3yft	optimum social : MSB = MSC
+1qurzokkylt	Étoile (ailleurs)
+1n8gghx158d	simple « solution » d’un problème ou d’un équilibre — lire la définition locale (§18.3)
+xqblhidi4i	Le symbole ne suffit pas : vérifie quelle condition définit la quantité (MPB = MPC ou MSB = MSC).
+81s7byq7em	Dans A6 sans intervention, quelle quantité est échangée ?
+25srrsu1duv	22 n’est atteint qu’avec la subvention.
+1n5c8gbgoj	Évaluer la taxe/subvention pigouvienne au mauvais point
+l6ksktfhas	Bon point
+1sfhcdir3zc	t* = MEC(Q*), s* = MEB(Q*) : la valeur de la DERNIÈRE unité souhaitable
+1ane8h43hps	Erreur
+1jvwpwlpy12	évaluer à l’intercept (Q = 0) ou à la quantité initiale Qm
+ykzqxq5q8h	Si l’externalité dépend de Q, sa valeur change avec la quantité : seule la valeur au point visé (Q*) amène le marché à Q*.
+c8u4s2mgp1	Essence : MEC = Q, Qm = 45, Q* = 30. Taxe optimale ?
+u22hfwkcnl	Évaluée au marché initial : trop forte.
+gk4k1u41o2	Il y a bien un dommage à corriger.
+1dmoxw7uzsm	Croire qu’une subvention plus forte est toujours meilleure
+1p3080nryf9	Subvention optimale
+p1kp6zyffo	s* = MEB(Q*) : le marché va exactement à Q*
+h7xl7lw7a3	Subvention excessive
+2fz9u1iii42	dépasse Q* : unités dont MSC > MSB ⇒ nouvelle DWL
+xz6mqekhbw	« Une subvention excessive peut dépasser Qeff et recréer une DWL » (§11.3). Toujours comparer au social.
+7scpfl0o64	Vaccins : MEB = 20, subvention 30. Résultat ?
+274phhgr25j	Q = 60 > 55 et DWL = 25
+1ii4of17o4z	DWL = 0 : plus de vaccins, c’est mieux
+1bwwbunsku9	Les doses au-delà de 55 coûtent plus à la société qu’elles ne lui rapportent.
+mux965en7t	Seule s = 20 donne 55.
+19z80foz1vr	Se tromper de sens : externalité positive ⇒ trop peu
+1szyvltcngt	MSB > MPB ⇒ le marché produit TROP PEU
+2co430u2oh5	Externalité négative
+1gm3p39v3bt	MSC > MPC ⇒ le marché produit TROP
+26ek6lrlwga	Le marché ignore ce qui arrive aux tiers : s’ils gagnent, il oublie un bénéfice (trop peu) ; s’ils perdent, il oublie un coût (trop).
+21q1v9x4d0k	Recherche fondamentale diffusée librement : le marché en produit…
+2625ynwrjjq	trop peu
+w2x0ait522	trop
+2y9h6g6qzn	C’est un bénéfice qui déborde, pas un coût.
+14u1g6bo2j0	Confondre effet externe marginal et total
+n6rl5qfz0g	Marginal (MEB, MEC)
+18c1ozwpmcn	effet d’UNE unité de plus, en €/unité
+1nxxrgfkfw5	Total
+1wkh6bg1us1	aire sous la courbe : si MEC = Q, dommage total = Q²/2
+z7p2q6az2f	« MEC(Q) est un coût MARGINAL ; le coût externe TOTAL est son intégrale » (§11.1).
+geenqdimiz	MEC = Q. Dommage total de 10 unités ?
+v7kp8yu9wv	C’est le dommage de la 10e unité seulement.
+118l16r76kw	Q² double le triangle.
+1rberluslwt	Compter un transfert (taxe, subvention) comme une perte sèche
+tsgdujm878	Transfert
+xz9nclcycf	recette fiscale, dépense de subvention : de l’argent change de poche
+1w4bm3tkwjw	échanges utiles perdus (ou nuisibles réalisés) : de la valeur disparaît
+1pxrggs1zpc	« Les rectangles transférés à l’État ne sont pas détruits » (§7.2). La DWL, ce sont les triangles.
+1s39eeo6hbp	L7, taxe 3 : recette 18. Quelle est la DWL ?
+ra4wrlsoof	1.5 (le triangle)
+2b7raulpbxv	La recette va à l’État : transfert.
+18yvaejair2	On n’additionne pas transfert et perte.
+1nnbjpakank	Oublier le coût budgétaire d’une subvention dans W
+foc5ycz541	Correct
+24tqx7e8e3b	W = CS + PS − dépense publique (+ effets externes)
+18iwclcrosb	W = CS + PS, en oubliant que les contribuables paient
+1itlu98p87d	La subvention gonfle CS et PS : si on ne retire pas la dépense, on compte deux fois le même argent.
+rxp03330nw	L7, subvention 3 : CS 32, PS 64, dépense 24. W ?
+23tyh6zv8os	Il faut retirer la dépense.
+dl4ivj5v7l	On retire la dépense, on ne l’ajoute pas.
+f4dj48vo8d	Omettre les effets externes dans le bien-être
+150wmn1o2aw	W = CS + PS ± État + bénéfices externes − dommages externes
+2840tvzwutl	oublier les tiers dans W
+20mgucjevij	Les tiers font partie de la société : leurs gains et pertes réels comptent (§7.1, §11.2).
+1e1lwtsai17	A6 sans intervention : CS 486, PS 324, bénéfice externe 360. W ?
+g5ln5qec0i	Tu oublies les voisins.
+ws2hn6a96m	On additionne tous les gains.
+rqun6ykxyb	Mesurer la DWL avec un benchmark privé
+eixm0xez9f	Benchmark social
+fsvug3kpma	DWL entre MSB et MSC, par rapport à Q*
+g8smbvgcm2	DWL entre demande et offre privées, ou par rapport à Qm
+c53ye94fkq	« Mesurer DWL par rapport à Q privé alors qu’une externalité préexiste » est une erreur listée en §20.2.
+1ygn5t8hp1x	Vaccins, s = 30 ⇒ Q = 60. La DWL se mesure par rapport à…
+137pnnldz1v	Qm n’est pas le meilleur résultat pour la société.
+204gvw1b5mv	rien : Q a augmenté, donc pas de DWL
+2cqt22k244u	Trop d’unités est aussi une perte.
+c3jcwu9inm	Confondre demande directe et inverse
+2gdjblnrq1j	Directe Q(p)
+2f80dcullg8	combien on achète à chaque prix
+1j9anoaxob3	Inverse p(Q)
+1rbun5o6dw4	la WTP de la Q-ième unité — c’est elle qu’on trace (Q horizontal)
+20n64slo1d1	Q = a − bp ⇒ p = a/b − Q/b. Ne pas utiliser dp/dQ à la place de dQ/dp sans inverser (§2.4, §5).
+1hq8zl9wknm	Q = 20 − 2p. Demande inverse ?
+1prw76lvzio	Il faut isoler p.
+afqa042ywz	Divise aussi la constante par 2.
+27pflog747o	Lire le prix de monopole sur MR
+1ybh0mnb6aq	sert à trouver Q (MR = MC)
+29jfvlap0j1	Demande
+12ln3nfifvy	sert à lire le prix que paient les acheteurs pour ce Q
+1oehd04r2kj	« Trouver Q avec MR = MC, puis trouver le PRIX sur la DEMANDE, pas sur MR » (§8.1).
+tbi1lmrmaz	L8 : p = 12 − Q, MC = 2Q ⇒ Q = 3. Prix ?
+1twbfi4nzd4	9 (sur la demande)
+271pak3gwyt	MR n’est pas un prix.
+v5fc5rj953	C’est la quantité.
+1t4ly2z5htp	Prendre MR = p en monopole
+1w5l4jvqj0n	Price taker
+1v3vtgqpufe	MR = p : vendre une unité de plus ne change pas le prix
+1hcbqz4yz6m	Monopole
+1nauh16u5em	MR = p + Q·p′(Q) < p : vendre plus oblige à baisser le prix de TOUTES les unités
+19j8gb5stm4	Le terme Q·p′ est la recette perdue sur les unités déjà vendues (F25).
+25kf3z5f400	Monopole, p = a − bQ : MR = ?
+1nyd0eqdzra	C’est la demande.
+1t02iqzaln4	C’est la pente de la demande.
+19gco35i7y0	Confondre MC et ATC
+oinmjw04hu	coût de la prochaine unité (dTC/dQ) — décide la quantité
+2gi2el8wiob	coût total par unité (TC/Q) — profit par unité, seuil de sortie LR
+1f0dcb62ygb	MC < ATC ⇒ ATC baisse ; MC = ATC au minimum de ATC (§6.4).
+1f9m3yhk0n0	C = 30 + Q², Q = 2 : ATC et MC ?
+180rhnqjv52	Inversés.
+1smw3l7bhe0	Confondre surplus du producteur et profit
 13iyryut0m0	recette − coût VARIABLE
 1kgz7wala7h	Profit
 csy5837izl	recette − coût TOTAL = PS − FC
@@ -204,191 +352,3 @@ gqvy8vlx5v	économies = coût moyen
 1sorrsqierg	F, usage gratuit
 zq9za8x03p	deux parties : prix d’usage = MC
 1qrwf6w1mz1	abonnement : usage gratuit / p = 0
-1yyk7mx3grp	surconsommation / unités coûteuses
-2aplrhmn0qw	Vaccins
-1pawbpy3skc	Qui décide de la quantité ?
-313bm3837	Les acheteurs et vendeurs d’un marché concurrentiel
-c78k5tohpe	le texte dit « competitive market ».
-3s8te70v20	Un monopole qui fixe le prix
-ljgjyahp5h	Non — le texte dit « competitive market ».
-2gm5nkqjbwd	Un planificateur
-1mi8bra1xdp	Effet sur des personnes hors transaction ?
-v6rmmp72wa	Oui, un bénéfice
-6fbdba2yyu	les autres sont moins contaminés : un bénéfice non payé.
-wlk18cj90o	Oui, un coût
-rxozwbvdll	Non — les autres sont moins contaminés : un bénéfice non payé.
-17pfom38fy5	Information cachée ?
-20qj3f5mu30	rien n’indique qu’une partie sache quelque chose que l’autre ignore.
-jaln5owumm	Type caché avant contrat
-2cei0nnkuwz	Non — rien n’indique qu’une partie sache quelque chose que l’autre ignore.
-25k35jbzydd	Action cachée après contrat
-2bk1eewpr1o	Externalité positive : MSB = MPB + MEB
-23g9ssrs8rk	Les tiers gagnent : bénéfice externe.
-1tm6op2763l	Bien public (somme verticale)
-1zd24f8efdb	Une dose est rivale et excluable : bien privé avec effet externe.
-vj95o99tm7	Aucune action cachée.
-14gu6na1dgm	« lowers the risk that other people get infected » + « not paid » = bénéfice externe non compensé ⇒ MSB au-dessus de la demande, le marché vaccine trop peu.
-26yezk2zpmi	Centrale à charbon
-awiquu12e7	la fumée nuit aux riverains.
-1ju2m9apa34	Non — la fumée nuit aux riverains.
-dqjbhaea99	Ce coût est-il dans MPC ?
-26zc4ds36kl	les centrales ne paient pas le dommage.
-1dj48q2lbf2	Non — les centrales ne paient pas le dommage.
-2estxtkrn1m	Rival stratégique ?
-1thp47333jp	Non : marché concurrentiel
-2bxijahty1n	les centrales sont price takers.
-1tox3hsbtxb	Oui, en quantités
-vorj1xlqlo	Non — les centrales sont price takers.
-nvcdcx9fl0	Oui, en prix
-2dmhdo73la5	Externalité négative : MSC = MPC + MEC
-nuwq16aedq	Les tiers perdent.
-mhm57s8w8c	Le problème est un dommage lié à la production.
-f54g8hg2vg	Rien de caché.
-1v6yrgd9riy	Dommage imposé aux tiers et non payé ⇒ MSC au-dessus de MPC ; le marché produit trop. E2021 Q1c : « coût imposé à tiers non incorporé dans le coût privé ».
-1bsaqcoed1d	Usine textile et spa
-1kp1bj19smh	Qui subit l’effet ?
-1s34oqi7tdl	Le spa, qui ne participe pas au marché du textile
-1rzeyuq9yhy	le spa est un tiers.
-26rrgrnvuj7	Les acheteurs de textile
-7dx5ap9lht	Non — le spa est un tiers.
-16ctop41es4	L’usine elle-même
-6yv2otybx7	Bénéfice ou coût pour ce tiers ?
-9u9dwbwepr	Un coût
-27aahswe0v7	il perd des clients.
-27svg1c0xhx	Un bénéfice
-d2nd51v30	Non — il perd des clients.
-1l3rhtydc6a	Externalité négative (taxe t* = MEC(Q*))
-1u0zl639pwc	Le textile est un bien privé.
-d737hemfl9	Le marché est concurrentiel.
-1bf6hvbx00r	Pas d’action cachée dans un contrat.
-1kox83ua3g9	Dommage au spa ⇒ MSC = MPC + MEC. E2024 ajoute la question de la fusion usine–spa (internalisation, mais pouvoir de marché possible).
-tzdj3dqvqq	Duopole du ciment
-1ahcszcino3	Qui décide ?
-1h0929yyw7x	Deux firmes
-1d1h7fffw1v	deux producteurs.
-t19zfgb57h	Un monopole
-2d0ybkpanmo	Non — deux producteurs.
-169h1ki7s4i	De nombreuses firmes price takers
-nfbnns64iv	Que choisissent-elles ?
-28f68hw17yd	Des quantités
-spoqmpi4ie	Des prix
-27qccetxiow	Un effort
-267tgpz25eb	Ordre des décisions ?
-1uwlycw6pln	Simultané
-2bgg81av9oq	L’une avant l’autre
-3t4mc722sj	Bertrand
-1qf4nq6czss	Bertrand = prix. Ici les firmes choisissent des quantités.
-1ur3g2lhe3c	Personne ne choisit en premier.
-2f1o6n0zymm	Deux firmes stratégiques.
-qfugrmgy0a	Lynn choisit d’abord
-2ciwbxzl156	Que choisissent-ils ?
-19wgquuk68l	« production quantity ».
-198y9lk4wcy	Non — « production quantity ».
-1ks229tkuxu	Ordre ?
-izmaqo0kde	Séquentiel : Lynn d’abord
-q1956kl4g1	Stackelberg en quantités
-18jkrpxt5my	Cournot = simultané. Ici le leader anticipe la réaction du suiveur.
-n0zv2h8tc7	Ce sont des quantités.
-1ceuh4po7pe	Leadership en prix
-1gff152r1w9	« first » + « observes » ⇒ Stackelberg : substituer la réaction du suiveur dans le profit du leader avant de dériver (§10.5).
-disdcbj5lg	Produits différenciés
-p5tnnrulkq	Produits ?
-1ziia01k7xu	Différenciés
-w9q5sduycx	Homogènes
-20apg9jo6ap	Bertrand avec produits différenciés
-wr4o6mdsjg	Bertrand homogène (p = MC)
-17zcu7tihgp	Les produits ne sont pas identiques : chaque firme garde une demande positive au-dessus du prix rival.
-f2k1xs1gtz	Variable stratégique = prix.
-jk5zhryiog	Décisions simultanées.
-pu5i3skdeo	Prix + différenciation ⇒ BR_i = (A + Bc_i + Dp_j)/(2B), réactions croissantes (prix compléments stratégiques).
-1gdx21d4j0t	Trois vendeurs identiques
-1b2me180yd	« set prices ».
-1gmpv1eopxy	Non — « set prices ».
-u8awcj6bqt	Produit ?
-1kp69kuil9a	Homogène
-1fmtrcfzalb	« identical product ».
-22u1smbbc0p	Différencié
-1h3l60suh6w	Non — « identical product ».
-1qoc5bdkr59	Bertrand homogène à coûts asymétriques (prix ≈ 7)
-24tehswj4o	Ce sont des prix.
-ydxk5fr0g2	Prix de monopole de la firme à MC 5
-chshu0i6kl	Le rival à 7 limite le prix.
-phpfxocka6	p = 5 pour tous
-16kt0qhvw6j	La firme efficace peut garder une marge jusqu’au coût du rival.
-58d2wrba4k	La firme à MC 5 sert le marché en limitant son prix au coût du concurrent le plus efficace (7, souvent écrit 7 − ε) ; nuance sur les égalités en §10.6.
-24xb5eyl8ze	Prêt bancaire
-3k7bj6p37f	Qu’est-ce qui est caché ?
-219thtkfepb	Une action (l’effort)
-q3hdi0dcvq	« cannot observe effort ».
-195pr3u9u9u	Un type (la qualité du projet)
-6rljx51vt	Non — « cannot observe effort ».
-12ydda9shqn	Rien
-h6f9a5djyb	Quand ?
-29bkatv6apf	Après le contrat
-221c6nwgww7	Avant le contrat
-d01rwhgwr3	Aléa moral (contrainte IC)
-29r3w6dqqg1	Personne n’envoie de signal.
-1f7eyaxa1zu	Aucun bien non rival.
-1q73evkk7k8	Action cachée après contrat ⇒ moral hazard : IC (pH − pL)(R − Bk) ≥ b, puis profit bancaire avec la probabilité de l’action réellement choisie.
-1f2m3pcs8df	Place de marché en ligne
-gjhzotkz1l	La qualité (un type)
-1bfiwe4gt1u	Avant la transaction
-odzrlo71ei	l’acheteur doit décider avant de connaître la qualité.
-4cwuk9pub2	Après la transaction
-zmaokqxaxx	Non — l’acheteur doit décider avant de connaître la qualité.
-21deqpdx9l6	Antisélection (lemons)
-1sc2klk9mux	C’est la QUALITÉ qui est cachée avant l’achat.
-10f4d2c8z75	Pas d’effet sur des tiers.
-12f358n4swb	Pas de concurrence en prix décrite.
-bzfz0svdyf	Qualité cachée avant l’échange ⇒ lemons ; garanties, retours et réputation réduisent l’antisélection (§12.2).
-33oivl4i9a	Avis sur les hôtels
-2ajgl7q0qmu	La qualité, avant la réservation
-1j1yaw654l	« before booking ».
-zjqlixe0g3	L’effort après la réservation
-12cjas34ojq	Non — « before booking ».
-1xhvx3a8hfh	Antisélection atténuée par l’information/la réputation
-snxe46fva7	Type caché avant l’achat.
-uqn1ldzd20	Effets de réseau seulement
-288aha5x4tg	Le cœur est l’information sur la qualité.
-11csv9t0hpm	Discrimination
-x2x7whswnr	Pas de prix différents.
-11mrck7x8rw	Les avis révèlent la qualité : moins d’antisélection, l’avantage informationnel des chaînes diminue (E2023 Q3b).
-5jgc7fk0xv	Wifi public
-ck2ojfqhe9	Excluable ?
-8po7corvp0	Rival ?
-c2ckpxez8x	Comment additionner les demandes ?
-s41zclj58m	Verticalement : somme des MB au même Q
-25asnu1gjos	tous consomment la MÊME vitesse.
-21t5ki243bj	Horizontalement : somme des quantités
-flzs04gf57	Non — tous consomment la MÊME vitesse.
-cawarhwvl	Bien public : Σ MB_i = MC
-1wbbqmk4pqa	Bien privé : demande Q = 300(10 − p)
-1o4pm6rlzqr	« Ne pas écrire Q = 300(10 − p) » (§11.8).
-dfvwztp520	Non rival dans le modèle.
-2140kf47tlz	Non excluable.
-oeaeg5v70a	Non rival + non excluable ⇒ bien public : 300(10 − Q) = 1500 ⇒ Q = 5 ; contributions volontaires insuffisantes (free riding).
-1vzc7miiwq8	Spectre radio
-1ldu02fiwlw	Non (avant attribution)
-12nqe1u2uos	« anyone can broadcast ».
-1wt8n9rmtef	Non — « anyone can broadcast ».
-1k3sdja7n97	les interférences dégradent le signal des autres.
-2e09tvzkq80	Non — les interférences dégradent le signal des autres.
-1su0kzqmcn4	Ressource commune : surexploitation
-bk5nuwk2by	Il est rival à cause des interférences.
-xpwr1d0hhm	Pas d’exclusion possible avant attribution.
-p0axsdxg0p	Rival + non excluable ⇒ commun : chaque utilisateur ignore la congestion qu’il impose (tragedy of the commons, §11.9).
-ecx0qd6wyr	Streaming musical
-i0yx6z8b2k	Prix d’usage marginal ?
-1tn4k5016q7	Instrument de prix ?
-1ryj97ybx0u	Un frais fixe seul
-g4bnk79rt4	« only a fixed fee ».
-284xx9z7x06	Frais fixe + prix d’usage
-zb9bjoixiz	Non — « only a fixed fee ».
-h16n0zgxmm	Prix unitaire seul
-haqiu6yfvk	Abonnement seul : Q = 20, F = 200, π = 160
-wu71om9961	Tarif à deux parties (p = MC)
-1mf287vrsro	L’énoncé impose un frais fixe SEUL.
-lyzj1b5pjm	Monopole à prix unique
-uvw9u1z6zx	Le prix est un abonnement.
-d7cacsh8yc	La firme a du pouvoir de marché.
-18qt8d4us0o	Usage gratuit ⇒ consommation jusqu’à WTP 0 (Q = 20), F = aire sous la demande = 200, coût 40, π = 160. Ne pas répondre 162 (two-part) si l’énoncé impose l’abonnement seul.

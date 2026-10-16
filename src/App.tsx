@@ -18,6 +18,7 @@ import { Claude } from './views/Claude';
 import { QuickQuestion } from './components/QuickQuestion';
 import { getClaudeStatus } from './claude';
 import { useSync } from './sync';
+import { LessonSearch } from './components/LessonSearch';
 import { LangPrompt, LoginPage, Splash, langAsked } from './components/Login';
 import { Profile, RequestPage, Settings, syncLabel } from './views/Account';
 import { t } from './i18n';
@@ -105,7 +106,7 @@ export default function App() {
   switch (head) {
     case undefined: page = <Home />; break;
     case 'learn': page = <Learn />; break;
-    case 'lesson': page = <LessonView key={a} id={a} />; break;
+    case 'lesson': page = <LessonView key={`${a}/${route[2] ?? ''}`} id={a} at={Number(route[2]) || undefined} />; break;
     case 'lab': page = <GraphLab preset={a} />; break;
     case 'why': page = <WhyMode id={a} />; break;
     case 'practice': page = <Practice id={a} />; break;
@@ -132,6 +133,7 @@ export default function App() {
       </header>
       <nav className={`sidebar ${menu ? 'open' : ''}`} aria-label={t('Navigation principale')}>
         <a href="#/" className="brand brand-side">Micro Lab <span>{t('BE501 · laboratoire')}</span></a>
+        <LessonSearch onPick={() => setMenu(false)} />
         {NAV.map((g) => {
           const key = head === 'lesson' ? 'learn' : (head ?? '');
           const open = g.items.some((it) => it.key === key);

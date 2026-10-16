@@ -65,7 +65,7 @@ function diagram(spec, owner) {
   if (spec.kind === 'bars') assert.ok(spec.items.length && spec.items.every((item) => Number.isFinite(item.value) && item.explain), `${owner}: bar values and explanations`);
   if (spec.kind === 'sequence') assert.ok(spec.steps.length && spec.steps.every((step) => step.actor && step.action && step.consequence), `${owner}: causal sequence`);
 }
-assert.equal(ALL_LESSONS.length, 14, '13 topics, with two externality lessons');
+assert.equal(ALL_LESSONS.length, 15, '14 topics, with two externality lessons');
 assert.equal(Object.keys(LESSONS).length, ALL_LESSONS.length, 'unique lesson identifiers');
 for (const topic of TOPICS) {
   assert.ok(lessonsForTopic(topic.id).length, `${topic.id}: missing guided lesson`);

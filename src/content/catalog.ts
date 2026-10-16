@@ -63,13 +63,15 @@ export const TOPICS: Topic[] = [
   { id: 'games', lesson: 'games-guided', title: 'Théorie des jeux', en: 'Game theory', lecture: 'A3', refs: ['13'], nodes: ['games'],
     history: [{ years: [], label: 'pas de comptage dans le dossier ; Assignment 3 seulement (Nash réutilisé en oligopole)', basis: 'aucun comptage' }],
     formulas: [], graphs: ['G22'] },
-  { id: 'complements', lesson: 'complements-guided', title: 'Commerce, plateformes, enchères, Edgeworth', en: 'Trade, platforms, auctions', lecture: 'L13–L14', refs: ['14'], nodes: ['trade', 'complements'],
+  { id: 'trade', lesson: 'trade-guided', title: 'Commerce international et échange', en: 'International trade', lecture: 'L13', refs: ['14'], nodes: ['trade'],
+    history: [{ years: [2020, 2021, 2022, 2024, 2025], label: 'commerce international ou avantage comparatif', basis: 'dossier §1' }],
+    formulas: ['F41', 'F42'], graphs: ['G19', 'G20', 'G21'] },
+  { id: 'complements', lesson: 'complements-guided', title: 'Plateformes et enchères', en: 'Platforms and auctions', lecture: 'L14', refs: ['14'], nodes: ['complements'],
     history: [
-      { years: [2020, 2021, 2022, 2024, 2025], label: 'commerce international ou avantage comparatif', basis: 'dossier §1' },
       { years: [2023, 2025], label: 'enchères explicites', basis: 'dossier §1' },
       { years: [2022, 2025], label: 'plateformes / effets de réseau', basis: 'dossier §1' },
     ],
-    formulas: ['F41', 'F42', 'F43'], graphs: ['G19', 'G20', 'G21'] },
+    formulas: ['F43'], graphs: [] },
 ];
 
 export const topicById = (id: string) => TOPICS.find((t) => t.id === id);
@@ -86,7 +88,7 @@ export const NODES: MapNode[] = [
   { id: 'dwl', label: 'Perte sèche (DWL)', sub: 'L7 · §7.1', topic: 'welfare', prereqs: ['welfare'], col: 3, row: 1, refs: ['7.1', '11.2'] },
   { id: 'taxes', label: 'Taxes, subventions, plafonds', sub: 'L7 · §7.2–7.4', topic: 'welfare', prereqs: ['dwl', 'elasticity'], col: 4, row: 0, refs: ['7.2', '7.3', '7.4'] },
   { id: 'ext', label: 'Externalités', sub: 'L11 · §11.1–11.2', topic: 'ext', prereqs: ['dwl', 'mc'], col: 4, row: 1, refs: ['11.1', '11.2'] },
-  { id: 'trade', label: 'Commerce & droits de douane', sub: '§14.1–14.3', topic: 'complements', prereqs: ['taxes'], col: 5, row: 0, refs: ['14.1', '14.2'] },
+  { id: 'trade', label: 'Commerce, tarifs & échange', sub: '§14.1–14.3, 14.6', topic: 'trade', prereqs: ['taxes'], col: 5, row: 0, refs: ['14.1', '14.2'] },
   { id: 'pigou', label: 'Taxe / subvention pigouvienne', sub: 'L11 · §11.3', topic: 'ext', prereqs: ['ext', 'taxes'], col: 5, row: 1, refs: ['11.3'] },
   { id: 'public', label: 'Biens publics & communs', sub: 'L11 · §11.7–11.9', topic: 'public', prereqs: ['ext', 'welfare'], col: 5, row: 2, refs: ['11.8'] },
   { id: 'costs', label: 'Production & coûts', sub: 'L5 · §6.1–6.4', topic: 'costs', prereqs: ['marginal'], col: 2, row: 3, refs: ['6.4'] },
@@ -101,7 +103,7 @@ export const NODES: MapNode[] = [
   { id: 'adverse', label: 'Antisélection', sub: 'L12 · §12.2–12.3', topic: 'info', prereqs: ['asym'], col: 2, row: 6, refs: ['12.2', '12.3'] },
   { id: 'ic', label: 'Contraintes IC / IR', sub: 'L9 · L12 · §12.5', topic: 'info', prereqs: ['moral'], col: 3, row: 5, refs: ['12.5', '9.2'] },
   { id: 'games', label: 'Théorie des jeux (Nash)', sub: 'A3 · §13', topic: 'games', prereqs: [], col: 4, row: 5, refs: ['13.1'] },
-  { id: 'complements', label: 'Plateformes, enchères, Edgeworth', sub: '§14.4–14.6', topic: 'complements', prereqs: ['games', 'consumer'], col: 5, row: 6, refs: ['14.4', '14.5', '14.6'] },
+  { id: 'complements', label: 'Plateformes & enchères', sub: '§14.4–14.5', topic: 'complements', prereqs: ['games', 'consumer'], col: 5, row: 6, refs: ['14.4', '14.5', '14.6'] },
 ];
 
 export const nodeById = (id: string) => NODES.find((n) => n.id === id);

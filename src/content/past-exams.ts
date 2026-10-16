@@ -332,14 +332,14 @@ const Y2021: ExamQuestion[] = [
           R('ic', 'repayment must stay below 32 to keep him working', /(32|incentive (compatib|constraint)|\bic\b)/),
         ],
         model: 'With a repayment of 34, Sebastian keeps only 6 after success: working hard gives 4.5, taking it easy gives 5.5, so he takes it easy. Success then has probability 1/4 and the bank expects 0.25 × 34 − 20 = −11.5. Asking for more destroys the incentive that made the loan profitable: the repayment must not exceed 32 to keep him working.' },
-      { kind: 'text', id: 'e', prompt: '(e) Gains from trade and Pareto-efficient allocations', tags: ['complements'],
+      { kind: 'text', id: 'e', prompt: '(e) Gains from trade and Pareto-efficient allocations', tags: ['trade'],
         rubric: [
           R('mrs', 'their marginal rates of substitution differ (2 versus 1)', /(mrs|marginal rate).{0,80}(differ|2.{0,20}1|not equal)|(value|values) snacks (more|higher)/),
           R('trade', 'Sebastian gives drinks for snacks, between 1 and 2 drinks per snack', /(sebastian).{0,80}(give|trade|exchange).{0,40}drink|between 1 and 2|drinks? for (a )?snack/),
           R('edge', 'efficient allocations: Sebastian has all snacks or Christina all drinks (edges of the box)', /(edge|boundary|border|corner|all (the )?snacks|all (the )?drinks)/),
         ],
         model: 'Sebastian values a snack at 2 drinks, Christina at 1 drink. Their MRS differ, so both gain if Sebastian gives Christina drinks for snacks at any rate between 1 and 2 drinks per snack: the region of mutual gains lies between their two indifference lines through the endowment (10, 10). Trade is exhausted only when no such swap remains possible: when Sebastian holds all 20 snacks or Christina holds all 20 drinks. The Pareto-efficient allocations are therefore on those edges of the box.' },
-      { kind: 'num', id: 'e-num', prompt: '(e) Example: Sebastian gives 3 drinks for 2 snacks. Utilities (U_S = D + 2S, U_C = D + S)', answers: [{ label: 'Sebastian', value: 31 }, { label: 'Christina', value: 21 }], explain: 'Sebastian (7, 12) : 7 + 24 = 31 contre 30. Christina (13, 8) : 21 contre 20. Les deux gagnent.', tags: ['complements'] },
+      { kind: 'num', id: 'e-num', prompt: '(e) Example: Sebastian gives 3 drinks for 2 snacks. Utilities (U_S = D + 2S, U_C = D + S)', answers: [{ label: 'Sebastian', value: 31 }, { label: 'Christina', value: 21 }], explain: 'Sebastian (7, 12) : 7 + 24 = 31 contre 30. Christina (13, 8) : 21 contre 20. Les deux gagnent.', tags: ['trade'] },
       { kind: 'num', id: 'f', prompt: '(f) Opportunity cost of one barrel of corn, in barrels of wheat', answers: [{ label: 'A', value: 0.5 }, { label: 'B', value: 0.667, tol: 0.01 }], explain: 'A : 2/4 = 0,5 ; B : 4/6 ≈ 0,667 ⇒ A a l’avantage comparatif en maïs (et l’avantage absolu : 2 h < 4 h).', tags: ['trade'] },
     ],
     logic: [
